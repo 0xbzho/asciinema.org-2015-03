@@ -1,0 +1,298 @@
+{
+  "version": 1,
+  "width": 211,
+  "height": 43,
+  "duration": 26.066241,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.049729,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000010,
+      "bash-3.2$ "
+    ],
+    [
+      4.518449,
+      "e"
+    ],
+    [
+      0.223862,
+      "c"
+    ],
+    [
+      0.280020,
+      "h"
+    ],
+    [
+      0.200077,
+      "o"
+    ],
+    [
+      0.191817,
+      " "
+    ],
+    [
+      0.248160,
+      "\""
+    ],
+    [
+      0.424173,
+      "T"
+    ],
+    [
+      0.239912,
+      "h"
+    ],
+    [
+      0.143936,
+      "i"
+    ],
+    [
+      0.143811,
+      "s"
+    ],
+    [
+      0.080283,
+      " "
+    ],
+    [
+      0.512159,
+      "i"
+    ],
+    [
+      0.111589,
+      "s"
+    ],
+    [
+      0.064437,
+      " "
+    ],
+    [
+      0.279917,
+      "a"
+    ],
+    [
+      0.047743,
+      " "
+    ],
+    [
+      0.752091,
+      "f"
+    ],
+    [
+      0.152060,
+      "i"
+    ],
+    [
+      0.135948,
+      "r"
+    ],
+    [
+      0.224327,
+      "s"
+    ],
+    [
+      0.135672,
+      "t"
+    ],
+    [
+      0.096078,
+      " "
+    ],
+    [
+      0.191942,
+      "d"
+    ],
+    [
+      0.192039,
+      "e"
+    ],
+    [
+      0.440080,
+      "m"
+    ],
+    [
+      0.320099,
+      "o"
+    ],
+    [
+      0.927984,
+      "\""
+    ],
+    [
+      1.048198,
+      ";"
+    ],
+    [
+      0.255464,
+      "\r\n"
+    ],
+    [
+      0.000146,
+      "This is a first demo\r\n"
+    ],
+    [
+      0.000057,
+      "bash-3.2$ "
+    ],
+    [
+      3.496241,
+      "l"
+    ],
+    [
+      0.111494,
+      "s"
+    ],
+    [
+      0.056173,
+      " "
+    ],
+    [
+      1.392166,
+      "-"
+    ],
+    [
+      0.192011,
+      "l"
+    ],
+    [
+      0.112291,
+      "a"
+    ],
+    [
+      0.239761,
+      "\r\n"
+    ],
+    [
+      0.003661,
+      "total 13384\r\n"
+    ],
+    [
+      0.000133,
+      "drwxr-xr-x@  7 chmoulli  staff      238 Mar  4 15:20 .\r\n"
+    ],
+    [
+      0.000005,
+      "drwxr-xr-x  54 chmoulli  staff     1836 Mar  4 15:17 ..\r\n"
+    ],
+    [
+      0.000013,
+      "-rw-r--r--@  1 chmoulli  staff     2254 Mar  2 21:01 CHANGELOG.md\r\n"
+    ],
+    [
+      0.000012,
+      "-rw-r--r--@  1 chmoulli  staff    35147 Mar  2 21:01 LICENSE\r\n"
+    ],
+    [
+      0.000021,
+      "-rw-r--r--@  1 chmoulli  staff     5286 Mar  2 21:01 README.md\r\n"
+    ],
+    [
+      0.000004,
+      "-rwxr-xr-x@  1 chmoulli  staff  6795860 Mar  2 21:01 asciinema\r\n"
+    ],
+    [
+      0.000022,
+      "-rwxr-xr-x   1 chmoulli  staff     1928 Mar  4 15:20 install.sh\r\n"
+    ],
+    [
+      0.000323,
+      "bash-3.2$ "
+    ],
+    [
+      2.299876,
+      "m"
+    ],
+    [
+      0.311874,
+      "o"
+    ],
+    [
+      0.112140,
+      "r"
+    ],
+    [
+      0.080084,
+      "e"
+    ],
+    [
+      0.048020,
+      " "
+    ],
+    [
+      1.199775,
+      "i"
+    ],
+    [
+      0.184472,
+      "n"
+    ],
+    [
+      0.087727,
+      "s"
+    ],
+    [
+      0.231789,
+      "tall.sh "
+    ],
+    [
+      0.440463,
+      "\r\n"
+    ],
+    [
+      0.004373,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000199,
+      "#!/bin/sh\r\n\r\n# This script installs asciinema cli on your system by downloading a binary\r\n# compatible with your platform and putting it in your $PATH.\r\n\r\n{ # Prevent execution if this script was only partially downloaded\r\n\r\nset -e\r\n\r\ncase \"$(uname -s).$(uname -m)\" in\r\n    Linux.x86_64) platform=linux-amd64;;\r\n    Linux.i?86) platform=linux-386;;\r\n    Linux.armv6l) platform=linux-arm;;\r\n    Linux.armv7l) platform=linux-arm;;\r\n    Darwin.x86_64) platform=darwin-amd64;;\r\n    Darwin.i?86) platform=darwin-386;;\r\n    *) echo \"Sorry, there is no asciinema binary available for your platform. Try building from source.\" \u003e\u00262; exit 1;;\r\nesac\r\n\r\n# version=0.9.9\r\nversion=1.0.0.rc1\r\nurl=\"https://github.com/asciinema/asciinema-cli/releases/download/v${version}/asciinema-${version}-${platform}.tar.gz\"\r\nbin_name=\"asciinema\"\r\nsudo=\"\"\r\n\r\ntmpdir=$(mktemp -d 2\u003e/dev/null || mktemp -d -t 'asciinema-tmp')\r\ntrap 'rm -rf $tmpdir' EXIT\r\n\r\necho \"Downloading asciinema v${version} for $platform...\"\r\ncurl -L --progress-bar \"$url\" | tar xz "
+    ],
+    [
+      0.000008,
+      "-C $tmpdir\r\n\r\nif [ -d \"$HOME/b"
+    ],
+    [
+      0.000089,
+      "in\" ]; then\r\n    if echo \":$PATH:\" | grep -q \":~/bin:\" || echo \":$PATH:\" | grep -q \":$HOME/bin:\"; then\r\n        target=\"$HOME/bin/$bin_name\"\r\n    fi\r\nelif [ -d \"/usr/local/bin\" ]; then\r\n    if echo \":$PATH:\" | grep -q \":/usr/local/bin:\"; then\r\n        target=\"/usr/local/bin/$bin_name\"\r\n        if [ ! -w /usr/local/bin ]; then\r\n            sudo=sudo\r\n            echo \"Warning: you may be asked for administrator password to save the file in /usr/local/bin directory\"\r\n        fi\r\n\u001b[7minstall.sh \u001b[27m\u001b[K"
+    ],
+    [
+      1.243281,
+      "\r\u001b[K\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000417,
+      "bash-3.2$ "
+    ],
+    [
+      0.863287,
+      "e"
+    ],
+    [
+      0.232082,
+      "x"
+    ],
+    [
+      0.151911,
+      "i"
+    ],
+    [
+      0.135948,
+      "t"
+    ],
+    [
+      0.200139,
+      "\r\n"
+    ],
+    [
+      0.000085,
+      "exit\r\n"
+    ]
+  ]
+}
