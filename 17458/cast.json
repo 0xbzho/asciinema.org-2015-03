@@ -1,0 +1,2330 @@
+{
+  "version": 1,
+  "width": 117,
+  "height": 28,
+  "duration": 62.028483,
+  "command": "doitlive play session.sh -q",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.103631,
+      "\u001b[2J\u001b[1;1H\u001b[1m\u001b[36mrazoa\u001b[0m\u001b[0m@\u001b[34mLPQLX15\u001b[0m:\u001b[32mtmp\u001b[0m $ "
+    ],
+    [
+      0.610722,
+      "g"
+    ],
+    [
+      0.015302,
+      "i"
+    ],
+    [
+      0.016231,
+      "t"
+    ],
+    [
+      0.016029,
+      " "
+    ],
+    [
+      0.071997,
+      "c"
+    ],
+    [
+      0.008141,
+      "l"
+    ],
+    [
+      0.023721,
+      "o"
+    ],
+    [
+      0.104275,
+      "n"
+    ],
+    [
+      0.015818,
+      "e"
+    ],
+    [
+      0.007619,
+      " "
+    ],
+    [
+      0.048066,
+      "g"
+    ],
+    [
+      0.040265,
+      "i"
+    ],
+    [
+      0.088199,
+      "t"
+    ],
+    [
+      0.007450,
+      "@"
+    ],
+    [
+      0.032458,
+      "g"
+    ],
+    [
+      0.055819,
+      "i"
+    ],
+    [
+      0.032045,
+      "t"
+    ],
+    [
+      0.080149,
+      "h"
+    ],
+    [
+      0.016160,
+      "u"
+    ],
+    [
+      0.039771,
+      "b"
+    ],
+    [
+      0.055682,
+      "."
+    ],
+    [
+      0.024268,
+      "c"
+    ],
+    [
+      0.080073,
+      "o"
+    ],
+    [
+      0.015705,
+      "m"
+    ],
+    [
+      0.024235,
+      ":"
+    ],
+    [
+      0.080079,
+      "T"
+    ],
+    [
+      0.008124,
+      "A"
+    ],
+    [
+      0.103863,
+      "p"
+    ],
+    [
+      0.015908,
+      "p"
+    ],
+    [
+      0.016217,
+      "l"
+    ],
+    [
+      0.063772,
+      "e"
+    ],
+    [
+      0.048110,
+      "n"
+    ],
+    [
+      0.096048,
+      "c"
+    ],
+    [
+      0.015934,
+      "o"
+    ],
+    [
+      0.055918,
+      "u"
+    ],
+    [
+      0.032077,
+      "r"
+    ],
+    [
+      0.056217,
+      "t"
+    ],
+    [
+      0.104042,
+      "/"
+    ],
+    [
+      0.015701,
+      "G"
+    ],
+    [
+      0.016031,
+      "2"
+    ],
+    [
+      0.104051,
+      "_"
+    ],
+    [
+      0.023932,
+      "T"
+    ],
+    [
+      0.104087,
+      "e"
+    ],
+    [
+      0.023736,
+      "s"
+    ],
+    [
+      0.023765,
+      "t"
+    ],
+    [
+      0.016224,
+      "S"
+    ],
+    [
+      0.047964,
+      "e"
+    ],
+    [
+      0.031997,
+      "t"
+    ],
+    [
+      0.072203,
+      "_"
+    ],
+    [
+      0.016069,
+      "C"
+    ],
+    [
+      0.015842,
+      "L"
+    ],
+    [
+      0.080191,
+      "I"
+    ],
+    [
+      0.071858,
+      "."
+    ],
+    [
+      0.047979,
+      "g"
+    ],
+    [
+      0.024139,
+      "i"
+    ],
+    [
+      0.104059,
+      "t"
+    ],
+    [
+      0.751651,
+      "\r\n"
+    ],
+    [
+      0.005159,
+      "Cloning into 'G2_TestSet_CLI'...\r\n"
+    ],
+    [
+      4.492363,
+      "remote: Counting objects: 1611, done.\u001b[K\r\n"
+    ],
+    [
+      0.000106,
+      "remote: Compressing objects:   5% (1/17)   \u001b[K\rremote: Compressing objects:  11% (2/17)   \u001b[K\r"
+    ],
+    [
+      0.012555,
+      "remote: Compressing objects:  17% (3/17)   \u001b[K\r"
+    ],
+    [
+      0.006941,
+      "remote: Compressing objects:  23% (4/17)   \u001b[K\r"
+    ],
+    [
+      0.074644,
+      "remote: Compressing objects:  29% (5/17)   \u001b[K\rremote: Compressing objects:  35% (6/17)   \u001b[K\rremote: Compressing objects:  41% (7/17)   \u001b[K\rremote: Compressing objects:  47% (8/17)   \u001b[K\r"
+    ],
+    [
+      0.000017,
+      "remote: Compressing objects:  52% (9/17)   \u001b[K\rremote: Compressing objects:  58% (10/17)   \u001b[K\rremote: Compressing objects:  64% (11/17)   \u001b[K\rremote: Compressing objects:  70% (12/17)   \u001b[K\rremote: Compressing objects:  76% (13/17)   \u001b[K\r"
+    ],
+    [
+      0.000020,
+      "remote: Compressing objects:  82% (14/17)   \u001b[K\rremote: Compressing objects:  88% (15/17)   \u001b[K\rremote: Compressing objects:  94% (16/17)   \u001b[K\rremote: Compressing objects: 100% (17/17)   \u001b[K\r"
+    ],
+    [
+      0.000005,
+      "remote: Compressing objects: 100% (17/17), done.\u001b[K"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.022442,
+      "Receiving objects:   0% (1/1611)   \r"
+    ],
+    [
+      0.000504,
+      "Receiving objects:   1% (17/1611)   \r"
+    ],
+    [
+      0.000528,
+      "Receiving objects:   2% (33/1611)   \r"
+    ],
+    [
+      0.000507,
+      "Receiving objects:   3% (49/1611)   \r"
+    ],
+    [
+      0.000441,
+      "Receiving objects:   4% (65/1611)   \r"
+    ],
+    [
+      0.000460,
+      "Receiving objects:   5% (81/1611)   \r"
+    ],
+    [
+      0.000380,
+      "Receiving objects:   6% (97/1611)   \r"
+    ],
+    [
+      0.087476,
+      "Receiving objects:   7% (113/1611)   \r"
+    ],
+    [
+      0.000469,
+      "Receiving objects:   8% (129/1611)   \r"
+    ],
+    [
+      0.000478,
+      "Receiving objects:   9% (145/1611)   \r"
+    ],
+    [
+      0.000477,
+      "Receiving objects:  10% (162/1611)   \r"
+    ],
+    [
+      0.000471,
+      "Receiving objects:  11% (178/1611)   \r"
+    ],
+    [
+      0.000395,
+      "Receiving objects:  12% (194/1611)   \r"
+    ],
+    [
+      0.000398,
+      "Receiving objects:  13% (210/1611)   \r"
+    ],
+    [
+      0.000465,
+      "Receiving objects:  14% (226/1611)   \r"
+    ],
+    [
+      0.000385,
+      "Receiving objects:  15% (242/1611)   \r"
+    ],
+    [
+      0.000471,
+      "Receiving objects:  16% (258/1611)   \r"
+    ],
+    [
+      0.000464,
+      "Receiving objects:  17% (274/1611)   \r"
+    ],
+    [
+      0.000404,
+      "Receiving objects:  18% (290/1611)   \r"
+    ],
+    [
+      0.012244,
+      "Receiving objects:  19% (307/1611)   \r"
+    ],
+    [
+      0.000518,
+      "Receiving objects:  20% (323/1611)   \r"
+    ],
+    [
+      0.000421,
+      "Receiving objects:  21% (339/1611)   \r"
+    ],
+    [
+      0.000471,
+      "Receiving objects:  22% (355/1611)   \r"
+    ],
+    [
+      0.000407,
+      "Receiving objects:  23% (371/1611)   \r"
+    ],
+    [
+      0.000464,
+      "Receiving objects:  24% (387/1611)   \r"
+    ],
+    [
+      0.000496,
+      "Receiving objects:  25% (403/1611)   \r"
+    ],
+    [
+      0.000378,
+      "Receiving objects:  26% (419/1611)   \r"
+    ],
+    [
+      0.000448,
+      "Receiving objects:  27% (435/1611)   \r"
+    ],
+    [
+      0.000442,
+      "Receiving objects:  28% (452/1611)   \r"
+    ],
+    [
+      0.000391,
+      "Receiving objects:  29% (468/1611)   \r"
+    ],
+    [
+      0.000442,
+      "Receiving objects:  30% (484/1611)   \r"
+    ],
+    [
+      0.061915,
+      "Receiving objects:  31% (500/1611)   \r"
+    ],
+    [
+      0.000484,
+      "Receiving objects:  32% (516/1611)   \r"
+    ],
+    [
+      0.000542,
+      "Receiving objects:  33% (532/1611)   \r"
+    ],
+    [
+      0.195268,
+      "Receiving objects:  34% (548/1611)   \r"
+    ],
+    [
+      0.017738,
+      "Receiving objects:  35% (564/1611)   \r"
+    ],
+    [
+      0.000758,
+      "Receiving objects:  36% (580/1611)   \r"
+    ],
+    [
+      0.000136,
+      "Receiving objects:  37% (597/1611)   \r"
+    ],
+    [
+      0.000371,
+      "Receiving objects:  38% (613/1611)   \r"
+    ],
+    [
+      0.000405,
+      "Receiving objects:  39% (629/1611)   \r"
+    ],
+    [
+      0.000127,
+      "Receiving objects:  40% (645/1611)   \r"
+    ],
+    [
+      0.072921,
+      "Receiving objects:  41% (661/1611)   \r"
+    ],
+    [
+      0.000123,
+      "Receiving objects:  42% (677/1611)   \r"
+    ],
+    [
+      0.000192,
+      "Receiving objects:  43% (693/1611)   \r"
+    ],
+    [
+      0.000035,
+      "Receiving objects:  44% (709/1611)   \r"
+    ],
+    [
+      0.000081,
+      "Receiving objects:  45% (725/1611)   \r"
+    ],
+    [
+      0.000144,
+      "Receiving objects:  46% (742/1611)   \r"
+    ],
+    [
+      0.000007,
+      "Receiving objects:  47% (758/1611)   \r"
+    ],
+    [
+      0.000083,
+      "Receiving objects:  48% (774/1611)   \r"
+    ],
+    [
+      0.000147,
+      "Receiving objects:  49% (790/1611)   \r"
+    ],
+    [
+      0.000082,
+      "Receiving objects:  50% (806/1611)   \r"
+    ],
+    [
+      0.000146,
+      "Receiving objects:  51% (822/1611)   \r"
+    ],
+    [
+      0.000073,
+      "Receiving objects:  52% (838/1611)   \r"
+    ],
+    [
+      0.000118,
+      "Receiving objects:  53% (854/1611)   \r"
+    ],
+    [
+      0.000173,
+      "Receiving objects:  54% (870/1611)   \r"
+    ],
+    [
+      0.000060,
+      "Receiving objects:  55% (887/1611)   \r"
+    ],
+    [
+      0.000092,
+      "Receiving objects:  56% (903/1611)   \r"
+    ],
+    [
+      0.000119,
+      "Receiving objects:  57% (919/1611)   \r"
+    ],
+    [
+      0.000089,
+      "Receiving objects:  58% (935/1611)   \r"
+    ],
+    [
+      0.001355,
+      "Receiving objects:  59% (951/1611)   \r"
+    ],
+    [
+      0.000105,
+      "Receiving objects:  60% (967/1611)   \r"
+    ],
+    [
+      0.000119,
+      "Receiving objects:  61% (983/1611)   \r"
+    ],
+    [
+      0.000092,
+      "Receiving objects:  62% (999/1611)   \r"
+    ],
+    [
+      0.000103,
+      "Receiving objects:  63% (1015/1611)   \r"
+    ],
+    [
+      0.000167,
+      "Receiving objects:  64% (1032/1611)   \r"
+    ],
+    [
+      0.000042,
+      "Receiving objects:  65% (1048/1611)   \r"
+    ],
+    [
+      0.000080,
+      "Receiving objects:  66% (1064/1611)   \r"
+    ],
+    [
+      0.000833,
+      "Receiving objects:  67% (1080/1611)   \r"
+    ],
+    [
+      0.000234,
+      "Receiving objects:  68% (1096/1611)   \r"
+    ],
+    [
+      0.000480,
+      "Receiving objects:  69% (1112/1611)   \r"
+    ],
+    [
+      0.000175,
+      "Receiving objects:  70% (1128/1611)   \r"
+    ],
+    [
+      0.010871,
+      "Receiving objects:  71% (1144/1611)   \r"
+    ],
+    [
+      0.278621,
+      "Receiving objects:  72% (1160/1611), 476.01 KiB | 833.00 KiB/s   \r"
+    ],
+    [
+      0.000204,
+      "Receiving objects:  73% (1177/1611), 476.01 KiB | 833.00 KiB/s   \r"
+    ],
+    [
+      0.000333,
+      "Receiving objects:  74% (1193/1611), 476.01 KiB | 833.00 KiB/s   \r"
+    ],
+    [
+      0.000445,
+      "Receiving objects:  75% (1209/1611), 476.01 KiB | 833.00 KiB/s   \r"
+    ],
+    [
+      0.000415,
+      "Receiving objects:  76% (1225/1611), 476.01 KiB | 833.00 KiB/s   \rReceiving objects:  77% (1241/1611), 476.01 KiB | 833.00 KiB/s   \r"
+    ],
+    [
+      0.221257,
+      "Receiving objects:  78% (1257/1611), 476.01 KiB | 833.00 KiB/s   \r"
+    ],
+    [
+      0.000123,
+      "Receiving objects:  79% (1273/1611), 476.01 KiB | 833.00 KiB/s   \r"
+    ],
+    [
+      0.000264,
+      "Receiving objects:  80% (1289/1611), 476.01 KiB | 833.00 KiB/s   \r"
+    ],
+    [
+      0.086553,
+      "Receiving objects:  80% (1303/1611), 1.15 MiB | 1.07 MiB/s   \r"
+    ],
+    [
+      0.143082,
+      "Receiving objects:  81% (1305/1611), 1.15 MiB | 1.07 MiB/s   \r"
+    ],
+    [
+      0.000151,
+      "Receiving objects:  82% (1322/1611), 1.15 MiB | 1.07 MiB/s   \r"
+    ],
+    [
+      0.131043,
+      "Receiving objects:  83% (1338/1611), 1.15 MiB | 1.07 MiB/s   \r"
+    ],
+    [
+      0.000143,
+      "Receiving objects:  84% (1354/1611), 1.15 MiB | 1.07 MiB/s   \r"
+    ],
+    [
+      0.000063,
+      "Receiving objects:  85% (1370/1611), 1.15 MiB | 1.07 MiB/s   \r"
+    ],
+    [
+      0.009345,
+      "Receiving objects:  86% (1386/1611), 1.15 MiB | 1.07 MiB/s   \r"
+    ],
+    [
+      0.000039,
+      "Receiving objects:  87% (1402/1611), 1.15 MiB | 1.07 MiB/s   \r"
+    ],
+    [
+      0.006369,
+      "Receiving objects:  88% (1418/1611), 1.15 MiB | 1.07 MiB/s   \r"
+    ],
+    [
+      0.000216,
+      "Receiving objects:  89% (1434/1611), 1.15 MiB | 1.07 MiB/s   \r"
+    ],
+    [
+      0.000805,
+      "Receiving objects:  90% (1450/1611), 1.15 MiB | 1.07 MiB/s   \r"
+    ],
+    [
+      0.000084,
+      "Receiving objects:  91% (1467/1611), 1.15 MiB | 1.07 MiB/s   \r"
+    ],
+    [
+      0.090609,
+      "Receiving objects:  92% (1483/1611), 1.15 MiB | 1.07 MiB/s   \r"
+    ],
+    [
+      0.005206,
+      "Receiving objects:  93% (1499/1611), 1.15 MiB | 1.07 MiB/s   \r"
+    ],
+    [
+      0.000288,
+      "Receiving objects:  94% (1515/1611), 1.15 MiB | 1.07 MiB/s   \r"
+    ],
+    [
+      0.000140,
+      "Receiving objects:  95% (1531/1611), 1.15 MiB | 1.07 MiB/s   \r"
+    ],
+    [
+      0.047340,
+      "Receiving objects:  96% (1547/1611), 1.15 MiB | 1.07 MiB/s   \r"
+    ],
+    [
+      0.127917,
+      "Receiving objects:  97% (1563/1611), 1.96 MiB | 1.20 MiB/s   \r"
+    ],
+    [
+      0.095642,
+      "Receiving objects:  98% (1579/1611), 1.96 MiB | 1.20 MiB/s   \r"
+    ],
+    [
+      0.002528,
+      "Receiving objects:  99% (1595/1611), 1.96 MiB | 1.20 MiB/s   \r"
+    ],
+    [
+      0.091179,
+      "remote: Total 1611 (delta 8), reused 0 (delta 0), pack-reused 1589\u001b[K\r\n"
+    ],
+    [
+      0.000589,
+      "Receiving objects: 100% (1611/1611), 1.96 MiB | 1.20 MiB/s   \rReceiving objects: 100% (1611/1611), 2.35 MiB | 1.20 MiB/s, done.\r\n"
+    ],
+    [
+      0.000314,
+      "Resolving deltas:   0% (0/847)   \r"
+    ],
+    [
+      0.000418,
+      "Resolving deltas:   1% (9/847)   \r"
+    ],
+    [
+      0.000122,
+      "Resolving deltas:   2% (17/847)   \r"
+    ],
+    [
+      0.000202,
+      "Resolving deltas:   3% (26/847)   \r"
+    ],
+    [
+      0.000590,
+      "Resolving deltas:   6% (51/847)   \r"
+    ],
+    [
+      0.002378,
+      "Resolving deltas:  11% (98/847)   \r"
+    ],
+    [
+      0.000320,
+      "Resolving deltas:  13% (114/847)   \r"
+    ],
+    [
+      0.000425,
+      "Resolving deltas:  14% (119/847)   \r"
+    ],
+    [
+      0.000737,
+      "Resolving deltas:  16% (137/847)   \r"
+    ],
+    [
+      0.000621,
+      "Resolving deltas:  18% (153/847)   \r"
+    ],
+    [
+      0.000258,
+      "Resolving deltas:  19% (167/847)   \r"
+    ],
+    [
+      0.000271,
+      "Resolving deltas:  21% (182/847)   \r"
+    ],
+    [
+      0.000662,
+      "Resolving deltas:  25% (217/847)   \r"
+    ],
+    [
+      0.000139,
+      "Resolving deltas:  26% (223/847)   \r"
+    ],
+    [
+      0.000713,
+      "Resolving deltas:  31% (263/847)   \r"
+    ],
+    [
+      0.000756,
+      "Resolving deltas:  35% (303/847)   \r"
+    ],
+    [
+      0.000060,
+      "Resolving deltas:  36% (308/847)   \r"
+    ],
+    [
+      0.000399,
+      "Resolving deltas:  38% (327/847)   \r"
+    ],
+    [
+      0.000067,
+      "Resolving deltas:  39% (331/847)   \r"
+    ],
+    [
+      0.000168,
+      "Resolving deltas:  41% (349/847)   \r"
+    ],
+    [
+      0.000260,
+      "Resolving deltas:  44% (374/847)   \r"
+    ],
+    [
+      0.000430,
+      "Resolving deltas:  50% (427/847)   \r"
+    ],
+    [
+      0.000085,
+      "Resolving deltas:  51% (432/847)   \r"
+    ],
+    [
+      0.000127,
+      "Resolving deltas:  52% (445/847)   \r"
+    ],
+    [
+      0.000059,
+      "Resolving deltas:  53% (451/847)   \r"
+    ],
+    [
+      0.000401,
+      "Resolving deltas:  54% (461/847)   \r"
+    ],
+    [
+      0.000123,
+      "Resolving deltas:  55% (468/847)   \r"
+    ],
+    [
+      0.000151,
+      "Resolving deltas:  57% (485/847)   \r"
+    ],
+    [
+      0.000894,
+      "Resolving deltas:  60% (514/847)   \r"
+    ],
+    [
+      0.000034,
+      "Resolving deltas:  61% (517/847)   \r"
+    ],
+    [
+      0.007868,
+      "Resolving deltas:  73% (624/847)   \r"
+    ],
+    [
+      0.000272,
+      "Resolving deltas:  76% (648/847)   \r"
+    ],
+    [
+      0.009919,
+      "Resolving deltas:  77% (657/847)   \r"
+    ],
+    [
+      0.000102,
+      "Resolving deltas:  78% (669/847)   \r"
+    ],
+    [
+      0.008784,
+      "Resolving deltas:  80% (681/847)   \r"
+    ],
+    [
+      0.000350,
+      "Resolving deltas:  84% (719/847)   \r"
+    ],
+    [
+      0.010070,
+      "Resolving deltas:  86% (734/847)   \r"
+    ],
+    [
+      0.000069,
+      "Resolving deltas:  87% (739/847)   \r"
+    ],
+    [
+      0.000233,
+      "Resolving deltas:  89% (758/847)   \r"
+    ],
+    [
+      0.000251,
+      "Resolving deltas:  92% (781/847)   \r"
+    ],
+    [
+      0.000089,
+      "Resolving deltas:  93% (789/847)   \r"
+    ],
+    [
+      0.010584,
+      "Resolving deltas:  95% (812/847)   \r"
+    ],
+    [
+      0.000042,
+      "Resolving deltas:  96% (814/847)   \r"
+    ],
+    [
+      0.000073,
+      "Resolving deltas:  97% (822/847)   \r"
+    ],
+    [
+      0.000178,
+      "Resolving deltas:  98% (831/847)   \r"
+    ],
+    [
+      0.011374,
+      "Resolving deltas:  99% (844/847)   \r"
+    ],
+    [
+      0.009149,
+      "Resolving deltas: 100% (847/847)   \r"
+    ],
+    [
+      0.000076,
+      "Resolving deltas: 100% (847/847), done.\r\n"
+    ],
+    [
+      0.232433,
+      "Checking connectivity... "
+    ],
+    [
+      0.001983,
+      "done.\r\n"
+    ],
+    [
+      0.017849,
+      "\u001b[1m\u001b[36mrazoa\u001b[0m\u001b[0m@\u001b[34mLPQLX15\u001b[0m:\u001b[32mtmp\u001b[0m $ "
+    ],
+    [
+      0.768133,
+      "c"
+    ],
+    [
+      0.047599,
+      "d"
+    ],
+    [
+      0.015793,
+      " "
+    ],
+    [
+      0.080113,
+      "G"
+    ],
+    [
+      0.023738,
+      "2"
+    ],
+    [
+      0.096108,
+      "_"
+    ],
+    [
+      0.024012,
+      "T"
+    ],
+    [
+      0.024062,
+      "e"
+    ],
+    [
+      0.048091,
+      "s"
+    ],
+    [
+      0.048131,
+      "t"
+    ],
+    [
+      0.080146,
+      "S"
+    ],
+    [
+      0.007437,
+      "e"
+    ],
+    [
+      0.064300,
+      "t"
+    ],
+    [
+      0.015967,
+      "_"
+    ],
+    [
+      0.079953,
+      "C"
+    ],
+    [
+      0.015997,
+      "L"
+    ],
+    [
+      0.016113,
+      "I"
+    ],
+    [
+      1.112629,
+      "\r\n"
+    ],
+    [
+      0.007731,
+      "\u001b[1m\u001b[36mrazoa\u001b[0m\u001b[0m@\u001b[34mLPQLX15\u001b[0m:\u001b[32mG2_TestSet_CLI\u001b[0m $ "
+    ],
+    [
+      0.455569,
+      "l"
+    ],
+    [
+      0.031912,
+      "s"
+    ],
+    [
+      0.680883,
+      "\r\n"
+    ],
+    [
+      0.003576,
+      "caffarel.py  db  README.md  scemama.py\tschindler.py  src  vladimir.py\r\n"
+    ],
+    [
+      0.008627,
+      "\u001b[1m\u001b[36mrazoa\u001b[0m\u001b[0m@\u001b[34mLPQLX15\u001b[0m:\u001b[32mG2_TestSet_CLI\u001b[0m $ "
+    ],
+    [
+      0.475044,
+      "c"
+    ],
+    [
+      0.032028,
+      "a"
+    ],
+    [
+      0.007500,
+      "t"
+    ],
+    [
+      0.048371,
+      " "
+    ],
+    [
+      0.039858,
+      "R"
+    ],
+    [
+      0.096273,
+      "E"
+    ],
+    [
+      0.015750,
+      "A"
+    ],
+    [
+      0.016095,
+      "D"
+    ],
+    [
+      0.048131,
+      "M"
+    ],
+    [
+      0.048019,
+      "E"
+    ],
+    [
+      0.063875,
+      "."
+    ],
+    [
+      0.024050,
+      "m"
+    ],
+    [
+      0.039772,
+      "d"
+    ],
+    [
+      0.681077,
+      "\r\n"
+    ],
+    [
+      0.003210,
+      "G2 TestSet API\r\n=============================\r\n\r\nYou can find in this repository all the G2 Test set molucule info.\r\nLike:\r\n  * Geometries (Experimental, MP2, ...)\r\n"
+    ],
+    [
+      0.000030,
+      "  * Energies (With many method and atomization one)\r\n  * Zpe (from NIST, and for all calcul)\r\n  * etc.\r\n\r\n##Dependency\r\n* Python \u003e2.7\r\n* [Plot.ly](https://plot.ly/python/) (Optional)\r\n\r\n\r\n\r\n##Demonstration\r\n\r\n![](http://giant.gfycat.com/TornJaggedAnemoneshrimp.gif)\r\n"
+    ],
+    [
+      0.000007,
+      "\r\n(For a beter quality see the [Source](https://asciinema.org/api/asciicasts/15602))\r\n\r\n##Usage"
+    ],
+    [
+      0.000004,
+      "\r\n\r\n"
+    ],
+    [
+      0.000005,
+      "\r\n* Scemama.py is usefull for Create Input and for Running Amazing job"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "* Schindler.py if you want somme List (List of run, etc.)\r\n"
+    ],
+    [
+      0.000003,
+      "* Caffarel.py is the script to run if you want some Number!"
+    ],
+    [
+      0.000004,
+      "\r\n* Vladimir.py if you want to Put_In result in the database."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.008728,
+      "\u001b[1m\u001b[36mrazoa\u001b[0m\u001b[0m@\u001b[34mLPQLX15\u001b[0m:\u001b[32mG2_TestSet_CLI\u001b[0m $ "
+    ],
+    [
+      3.499442,
+      "."
+    ],
+    [
+      0.031697,
+      "/"
+    ],
+    [
+      0.031928,
+      "s"
+    ],
+    [
+      0.032051,
+      "c"
+    ],
+    [
+      0.071993,
+      "e"
+    ],
+    [
+      0.095975,
+      "m"
+    ],
+    [
+      0.024001,
+      "a"
+    ],
+    [
+      0.015722,
+      "m"
+    ],
+    [
+      0.104441,
+      "a"
+    ],
+    [
+      0.007748,
+      "."
+    ],
+    [
+      0.104134,
+      "p"
+    ],
+    [
+      0.008086,
+      "y"
+    ],
+    [
+      0.015711,
+      " "
+    ],
+    [
+      0.072283,
+      "-"
+    ],
+    [
+      0.031933,
+      "h"
+    ],
+    [
+      0.752811,
+      "\r\n"
+    ],
+    [
+      0.327893,
+      "Welcome to the G2 Api! Grab all the G2 data you're dreaming of.\r\n\r\nUsage:\r\n  scemama.py (-h | --help)\r\n  scemama.py list_geometries  [--ele=\u003celement_name\u003e...]\r\n  scemama.py list_elements     --geo=\u003cgeometry_name\u003e...\r\n  scemama.py get_multiplicity  --ele=\u003celement_name\u003e\r\n  scemama.py get_xyz    --geo=\u003cgeometry_name\u003e...\r\n                        --ele=\u003celement_name\u003e...\r\n                            [(--save [--path=\u003cpath\u003e])]"
+    ],
+    [
+      0.000028,
+      "\r\n  scemama.py get_g09    --geo=\u003cgeometry_name\u003e...\r\n                        --ele=\u003celement_name\u003e...\r\n                              [(--save [--path=\u003cpath\u003e])]\r\n  scemama.py get_target_pt2_max --hf_id=\u003cid\u003e\r\n                                --fci_id=\u003cid\u003e\r\n                                [--like_toulouse |\r\n                                 --like_applencourt |\r\n                                 --ele=\u003celement_name\u003e...]\r\n                                [--quality_factor=\u003cqf\u003e]\r\nExample of use:\r\n  ./scemama.py list_geometries\r\n  ./scemama.py list_elements --geo Experiment\r\n  ./scemama.py get_xyz --geo Experiment --ele NaCl -"
+    ],
+    [
+      0.000004,
+      "-ele H3CCl\r\n"
+    ],
+    [
+      0.010165,
+      "\u001b[1m\u001b[36mrazoa\u001b[0m\u001b[0m@\u001b[34mLPQLX15\u001b[0m:\u001b[32mG2_TestSet_CLI\u001b[0m $ "
+    ],
+    [
+      0.765476,
+      "."
+    ],
+    [
+      0.039452,
+      "/"
+    ],
+    [
+      0.015957,
+      "s"
+    ],
+    [
+      0.064042,
+      "c"
+    ],
+    [
+      0.023974,
+      "e"
+    ],
+    [
+      0.104089,
+      "m"
+    ],
+    [
+      0.016000,
+      "a"
+    ],
+    [
+      0.007852,
+      "m"
+    ],
+    [
+      0.064080,
+      "a"
+    ],
+    [
+      0.040007,
+      "."
+    ],
+    [
+      0.096261,
+      "p"
+    ],
+    [
+      0.015764,
+      "y"
+    ],
+    [
+      0.007863,
+      " "
+    ],
+    [
+      0.080331,
+      "g"
+    ],
+    [
+      0.023922,
+      "e"
+    ],
+    [
+      0.095983,
+      "t"
+    ],
+    [
+      0.015952,
+      "_"
+    ],
+    [
+      0.024041,
+      "x"
+    ],
+    [
+      0.072018,
+      "y"
+    ],
+    [
+      0.031797,
+      "z"
+    ],
+    [
+      0.072260,
+      " "
+    ],
+    [
+      0.015830,
+      "-"
+    ],
+    [
+      0.040118,
+      "-"
+    ],
+    [
+      0.063851,
+      "g"
+    ],
+    [
+      0.048193,
+      "e"
+    ],
+    [
+      0.063997,
+      "o"
+    ],
+    [
+      0.015855,
+      " "
+    ],
+    [
+      0.039948,
+      "E"
+    ],
+    [
+      0.040103,
+      "x"
+    ],
+    [
+      0.071785,
+      "p"
+    ],
+    [
+      0.048066,
+      "e"
+    ],
+    [
+      0.015818,
+      "r"
+    ],
+    [
+      0.080201,
+      "i"
+    ],
+    [
+      0.024146,
+      "m"
+    ],
+    [
+      0.064113,
+      "e"
+    ],
+    [
+      0.023596,
+      "n"
+    ],
+    [
+      0.015767,
+      "t"
+    ],
+    [
+      0.088712,
+      " "
+    ],
+    [
+      0.055808,
+      "-"
+    ],
+    [
+      0.056170,
+      "-"
+    ],
+    [
+      0.015851,
+      "e"
+    ],
+    [
+      0.047773,
+      "l"
+    ],
+    [
+      0.024089,
+      "e"
+    ],
+    [
+      0.120016,
+      " "
+    ],
+    [
+      0.007928,
+      "N"
+    ],
+    [
+      0.016179,
+      "a"
+    ],
+    [
+      0.055918,
+      "C"
+    ],
+    [
+      0.023991,
+      "l"
+    ],
+    [
+      1.168942,
+      "\r\n"
+    ],
+    [
+      0.106916,
+      "2\r\nNaCl Geo: Experiment Mult: 1 symmetry: 28\r\nCl    0.0    0.0    2.3608\r\nNa    0.0    0.0    0.0\r\n"
+    ],
+    [
+      0.009425,
+      "\u001b[1m\u001b[36mrazoa\u001b[0m\u001b[0m@\u001b[34mLPQLX15\u001b[0m:\u001b[32mG2_TestSet_CLI\u001b[0m $ "
+    ],
+    [
+      1.643503,
+      "."
+    ],
+    [
+      0.007108,
+      "/"
+    ],
+    [
+      0.015958,
+      "s"
+    ],
+    [
+      0.008222,
+      "c"
+    ],
+    [
+      0.023530,
+      "h"
+    ],
+    [
+      0.048117,
+      "i"
+    ],
+    [
+      0.104584,
+      "n"
+    ],
+    [
+      0.007528,
+      "d"
+    ],
+    [
+      0.015980,
+      "l"
+    ],
+    [
+      0.056205,
+      "e"
+    ],
+    [
+      0.055998,
+      "r"
+    ],
+    [
+      0.048000,
+      "."
+    ],
+    [
+      0.015957,
+      "p"
+    ],
+    [
+      0.048028,
+      "y"
+    ],
+    [
+      1.705290,
+      "\r\n"
+    ],
+    [
+      0.029271,
+      "Usage:\r\n  schindler.py (-h | --help)\r\n  schindler.py list_run [--run_id=\u003cid\u003e... | ([--method=\u003cmethod_name\u003e...]\r\n                                             [--basis=\u003cbasis_name\u003e...]\r\n                                             [--geo=\u003cgeometry_name\u003e...]\r\n                                             [--comments=\u003ccomments\u003e...])]\r\n"
+    ],
+    [
+      0.000020,
+      "                        [(--ele=\u003celement_name\u003e...\r\n                          | --like_toulouse\r\n                          | --like_applencourt\r\n                          | --like_run_id=\u003crun_id\u003e) [--all_children]]\r\n                        [--without_pt2]\r\n                        [--order_by=\u003ccolumn\u003e...]\r\n  schindler.py list_element [--run_id=\u003cid\u003e... | ([--method=\u003cmethod_name\u003e...]\r\n                                                 [--basis=\u003cbasis_name\u003e...]\r\n                                                 [--geo=\u003cgeometry_name\u003e...]\r\n                                                 [--comments=\u003ccomments\u003e...])]\r\n                            [--missing (--ele=\u003celement_name\u003e...\r\n                                        | --like_toulouse\r\n                                        | --like_applencourt\r\n                                        | --like_run_id=\u003crun_id\u003e) [--all_children]]"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.008785,
+      "\u001b[1m\u001b[36mrazoa\u001b[0m\u001b[0m@\u001b[34mLPQLX15\u001b[0m:\u001b[32mG2_TestSet_CLI\u001b[0m $ "
+    ],
+    [
+      2.680946,
+      "."
+    ],
+    [
+      0.031757,
+      "/"
+    ],
+    [
+      0.016039,
+      "s"
+    ],
+    [
+      0.071955,
+      "c"
+    ],
+    [
+      0.016012,
+      "h"
+    ],
+    [
+      0.128136,
+      "i"
+    ],
+    [
+      0.015698,
+      "n"
+    ],
+    [
+      0.024046,
+      "d"
+    ],
+    [
+      0.040168,
+      "l"
+    ],
+    [
+      0.071953,
+      "e"
+    ],
+    [
+      0.063995,
+      "r"
+    ],
+    [
+      0.007586,
+      "."
+    ],
+    [
+      0.280483,
+      "p"
+    ],
+    [
+      0.087687,
+      "y"
+    ],
+    [
+      0.016011,
+      " "
+    ],
+    [
+      0.160227,
+      "l"
+    ],
+    [
+      0.103705,
+      "i"
+    ],
+    [
+      0.136331,
+      "s"
+    ],
+    [
+      0.111940,
+      "t"
+    ],
+    [
+      0.136041,
+      "_"
+    ],
+    [
+      0.103934,
+      "r"
+    ],
+    [
+      0.119739,
+      "u"
+    ],
+    [
+      0.104316,
+      "n"
+    ],
+    [
+      0.120004,
+      " "
+    ],
+    [
+      0.896149,
+      "|"
+    ],
+    [
+      0.063824,
+      " "
+    ],
+    [
+      0.119959,
+      "m"
+    ],
+    [
+      0.144006,
+      "o"
+    ],
+    [
+      0.136100,
+      "r"
+    ],
+    [
+      0.167793,
+      "e"
+    ],
+    [
+      1.513150,
+      "\r\n"
+    ],
+    [
+      0.182528,
+      "+--------+--------------+-----------------+------------+----------------------------------+--------------+\r\n| Run_id | Method       | Basis           | Geo        | Comments                         | mad          |\r\n+--------+--------------+-----------------+------------+----------------------------------+--------------+\r\n"
+    ],
+    [
+      0.000007,
+      "|        |              |                 |            |                                  | kcal/mol     |\r\n+--------+--------------+-----------------+------------+----------------------------------+--------------+\r\n"
+    ],
+    [
+      0.000018,
+      "| 2      | Hartree-Fock | cc-pVDZ         | Experiment | Quantum_Package                  | 83.63        |\r\n| 3      | Hartree-Fock | cc-pVDZ         | MP2        | Quantum_Package                  | 83.39        |\r\n"
+    ],
+    [
+      0.000013,
+      "| 4      | Hartree-Fock | cc-pVTZ         | Experiment | Quantum_Package                  | 74.32        |"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "| 5      | Hartree-Fock | cc-pVTZ         | MP2        | Quantum_Package                  | 74.18        |\r\n"
+    ],
+    [
+      0.000011,
+      "| 6      | Hartree-Fock | cc-pVDZ         | Experiment | Gamess                           | 80.91        |\r\n"
+    ],
+    [
+      0.000019,
+      "| 7      | Hartree-Fock | cc-pVDZ         | MP2        | Gamess                           | 80.79        |\r\n"
+    ],
+    [
+      0.000003,
+      "| 8      | Hartree-Fock | cc-pVTZ         | Experiment | Gamess                           | 74.32        |"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "| 9      | Hartree-Fock | cc-pVTZ         | MP2        | Gamess                           | 74.18        |\r\n"
+    ],
+    [
+      0.000010,
+      "| 10     | CIPSI        | cc-pVDZ         | MP2        | 1M_Dets_withoutPT2               | 25.56        |\r\n"
+    ],
+    [
+      0.000014,
+      "| 11     | CIPSI        | cc-pVDZ         | Experiment | 1M_Dets_withoutPT2               | 25.60        |\r\n"
+    ],
+    [
+      0.000014,
+      "| 12     | CIPSI        | cc-pVDZ         | MP2        | 10k_Dets                         | 23.24        |\r\n"
+    ],
+    [
+      0.000011,
+      "| 13     | CIPSI        | cc-pVDZ         | Experiment | 10k_Dets                         | 23.27        |\r\n"
+    ],
+    [
+      0.000013,
+      "| 14     | CIPSI        | cc-pVDZ         | MP2        | 1M_Dets_NO_10k_Dets              | 22.38        |\r\n"
+    ],
+    [
+      0.000012,
+      "| 15     | CIPSI        | cc-pVDZ         | Experiment | 1M_Dets_NO_10k_Dets              | 22.41        |"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "| 16     | CIPSI        | cc-pVDZ         | MP2        | 1M_Dets_NO_1k_Dets               | 21.77        |"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "| 17     | CIPSI        | cc-pVDZ         | Experiment | 1M_Dets_NO_1k_Dets               | 21.78        |"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "| 18     | CCSD(T)      | cc-pVDZ         | CCSD(T)    | NIST                             | 27.18        |"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "| 19     | CCSD(T)      | cc-pVTZ         | CCSD(T)    | NIST                             | 21.28        |"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "| 20     | CCSD(T)      | def1-TZVP       | CCSD(T)    | NIST                             | 20.27        |"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "| 21     | Estimated    | None            | Experiment | Davidson NR atomics energies     |              |"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "| 22     | CIPSI        | cc-pVTZ         | Experiment | 1M_Dets_withoutPT2               | 13.98        |"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "| 23     | CIPSI        | cc-pVTZ         | MP2        | 1M_Dets_withoutPT2               | 13.93        |"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      1.296271,
+      "\u0007"
+    ],
+    [
+      1.032180,
+      "\r| 24     | CIPSI        | cc-pVTZ         | Experiment | 10k_Dets                         | 10.36        |\r\n| 25     | CIPSI        | cc-pVTZ         | MP2        | 10k_Dets                         | 10.69        |\r\n| 26     | CIPSI        | cc-pVTZ         | Experiment | 1M_Dets_NO_10k_Dets              |  6.30        |\r\n| 27     | CIPSI        | cc-pVTZ         | MP2        | 1M_Dets_NO_10k_Dets              |  6.26        |\r\n| 28     | MP2          | def1-TZVP       | Experiment | Gaussian_(6d10f)                 | 16.13        |\r\n| 29     | MP2          | def1-TZVP       | MP2        | Gaussian_(6d10f)                 | 15.98        |\r\n| 30     | CCSD(T)      | def1-TZVP       | Experiment | Gaussian_(6d10f)                 | 18.40        |\r\n| 31     | CCSD(T)      | def1-TZVP       | MP2        | Gaussian_(6d10f)                 | 18.28        |\r\n| 32     | CCSD(T)      | cc-pVDZ         | Experiment | Gaussian_(6d10f)                 | 22.89        |\r\n| 33     | CCSD(T)      | cc-pVDZ         | MP2        | Gaussian_(6d10f)                 | 22.84        |\r\n| 34     | CCSD(T)      | cc-pVTZ         | Experiment | Gaussian_(6d10f)                 |  7.99        |\r\n| 35     | CCSD(T)      | cc-pVTZ         | MP2        | Gaussian_(6d10f)                 |  7.91        |\r\n| 36     | Hartree-Fock | def2-TZVP       | Experiment | Gaussian_(6d10f)                 | 73.61        |\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      1.256036,
+      "\r| 37     | Hartree-Fock | cc-pVTZ         | MP2        | Gaussian_(6d10f)                 | 73.88        |\r\n| 38     | MP2          | def2-TZVP       | Experiment | Gaussian_(6d10f)                 |  9.58        |\r\n| 39     | Hartree-Fock | cc-pVDZ         | MP2        | Gaussian_(6d10f)                 | 80.51        |\r\n| 40     | CCSD(T)      | def2-TZVP       | Experiment | Gaussian_(6d10f)                 | 10.46        |\r\n| 41     | Hartree-Fock | def1-TZVP       | Experiment | Gaussian_(6d10f)                 | 78.34        |\r\n| 42     | MP2          | cc-pVDZ         | Experiment | Gaussian_(6d10f)                 | 20.42        |\r\n| 43     | Hartree-Fock | def1-TZVP       | MP2        | Gaussian_(6d10f)                 | 78.16        |\r\n| 44     | Hartree-Fock | cc-pVDZ         | Experiment | Gaussian_(6d10f)                 | 80.63        |\r\n| 45     | MP2          | cc-pVTZ         | MP2        | Gaussian_(6d10f)                 |  6.70        |\r\n| 46     | Hartree-Fock | def2-TZVP       | MP2        | Gaussian_(6d10f)                 | 73.46        |\r\n| 47     | Hartree-Fock | cc-pVTZ         | Experiment | Gaussian_(6d10f)                 | 74.03        |\r\n| 48     | MP2          | cc-pVDZ         | MP2        | Gaussian_(6d10f)                 | 20.35        |\r\n| 49     | MP2          | def2-TZVP       | MP2        | Gaussian_(6d10f)                 |  9.54        |\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      1.359925,
+      "\r| 50     | MP2          | cc-pVTZ         | Experiment | Gaussian_(6d10f)                 |  6.74        |\r\n| 51     | CCSD(T)      | def2-TZVP       | MP2        | Gaussian_(6d10f)                 | 10.37        |\r\n| 52     | DMC          | cc-pVDZ         | Experiment | Hartree-Fock                     |  8.48+/-1.04 |\r\n| 53     | VMC          | ANO-GS_2z       | Experiment | Toulouse Table 13                | 12.69(8)     |\r\n| 54     | VMC          | ANO-GS_3z       | Experiment | Toulouse Table 13                | 10.05(8)     |\r\n| 55     | VMC          | ANO-GS_5z       | Experiment | Toulouse Table 13                |  9.54(7)     |\r\n| 56     | VMC          | ANO-GS_2z       | Experiment | Toulouse Table 14                |  9.02(8)     |\r\n| 57     | VMC          | ANO-GS_3z       | Experiment | Toulouse Table 14                |  6.60(7)     |\r\n| 58     | VMC          | ANO-GS_5z       | Experiment | Toulouse Table 14                |  5.72(7)     |\r\n| 59     | VMC          | ANO-GS_3z       | Experiment | Toulouse Table 15                |  3.26(7)     |\r\n| 60     | DMC          | ANO-GS_3z       | Experiment | Toulouse Table 8 U 12            |  1.25(7)     |\r\n| 61     | Estimated    | None            | Experiment | Feller NR energies               |              |\r\n| 62     | Estimated    | None            | Experiment | O'Neill NR energies              |              |\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      1.120067,
+      "\r| 63     | Hartree-Fock | ANO-Roos-aug-DZ | Experiment |                                  | 75.19        |\r\n| 64     | DMC          | ANO-Roos-aug-DZ | Experiment | Hartree-Fock                     |  6.60+/-2.28 |\r\n| 65     | DMC          | ANO-Roos-aug-TZ | Experiment | Hartree-Fock                     | 13.92+/-4.11 |\r\n| 66     | DMC          | cc-pVTZ         | Experiment | Hartree-Fock                     | 41.17+/-3.73 |\r\n| 67     | Estimated    | None            | Experiment | Chakravorty NR atomics energies  |              |\r\n| 68     | CIPSI        | ANO-Roos-aug-DZ | Experiment | 10k_Dets                         | 18.25        |\r\n| 70     | DMC          | cc-pVDZ         | Experiment | 1M_Dets_NO_1_Det                 |  7.66+/-1.19 |\r\n| 71     | DMC          | cc-pVDZ         | Experiment | 1M_Dets_NO_1k_Dets               | 11.26+/-1.38 |\r\n| 72     | DMC          | cc-pVDZ         | Experiment | 1M_Dets_NO_1k_Dets(NO_det_atoms) |  5.32+/-1.35 |\r\n| 73     | CIPSI        | ANO-Roos-aug-DZ | Experiment | 1M_Dets_withoutPT2               | 22.43        |\r\n| 74     | CIPSI        | ANO-Roos-aug-DZ | Experiment | 1M_Dets_NO_10k_Dets              | 14.30        |\r\n| 75     | DMC          | cc-pVDZ         | Experiment | 1M_Dets_NO_1k_Dets(0.95Norme)    |  7.01+/-1.95 |\r\n| 76     | CIPSI        | cc-pVDZ         | Experiment | 1M_Dets_NO_0.75Ecorr             | 21.78        |\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      1.183967,
+      "\r| 77     | DMC          | cc-pVDZ         | Experiment | 1M_Dets_NO_0.75Ecorr             |  6.70+/-2.89 |\r\n| 78     | Hartree-Fock | ANO-Roos-aug-TZ | Experiment | Gaussian_(6d10f)                 | 72.97        |\r\n| 79     | Hartree-Fock | ANO-Roos-aug-TZ | Experiment | Quantum_Package                  | 74.64        |\r\n| 80     | CIPSI        | ANO-Roos-aug-TZ | Experiment | 1M_Dets_withoutPT2               | 21.63        |\r\n| 81     | CIPSI        | ANO-Roos-aug-TZ | Experiment | 1M_Dets_NO_10k_Dets              |  5.23        |\r\n| 82     | DMC          | ANO-Roos-aug-TZ | Experiment | 1M_Dets_NO_0.5Ecorr              |  7.00+/-2.69 |\r\n| 83     | CIPSI        | ANO-Roos-aug-TZ | Experiment | 1M_Dets_NO_1_Det                 | 76.41        |\r\n| 84     | CIPSI        | ANO-Roos-aug-TZ | Experiment | 1M_Dets_NO_0.5Ecorr              |  5.50        |\r\n| 85     | CIPSI        | cc-pVDZ         | Experiment | 0.5_2_15                         | 22.97        |\r\n| 86     | DMC          | cc-pVDZ         | Experiment | 0.5_2_15                         | 18.35+/-3.48 |\r\n| 87     | CIPSI        | cc-pVDZ         | Experiment | 0.75_2_15_NO                     | 20.70        |\r\n| 88     | DMC          | cc-pVDZ         | Experiment | 0.75_2_15_NO                     | 11.79+/-3.39 |\r\n+--------+--------------+-----------------+------------+----------------------------------+--------------+\r\n"
+    ],
+    [
+      0.008818,
+      "\u001b[1m\u001b[36mrazoa\u001b[0m\u001b[0m@\u001b[34mLPQLX15\u001b[0m:\u001b[32mG2_TestSet_CLI\u001b[0m $ "
+    ],
+    [
+      1.454869,
+      "."
+    ],
+    [
+      0.047774,
+      "/"
+    ],
+    [
+      0.015875,
+      "s"
+    ],
+    [
+      0.040062,
+      "c"
+    ],
+    [
+      0.040116,
+      "h"
+    ],
+    [
+      0.159959,
+      "i"
+    ],
+    [
+      0.056053,
+      "n"
+    ],
+    [
+      0.040001,
+      "d"
+    ],
+    [
+      0.023956,
+      "l"
+    ],
+    [
+      0.064065,
+      "e"
+    ],
+    [
+      0.079873,
+      "r"
+    ],
+    [
+      0.032080,
+      "."
+    ],
+    [
+      0.071982,
+      "p"
+    ],
+    [
+      0.015909,
+      "y"
+    ],
+    [
+      0.120008,
+      " "
+    ],
+    [
+      0.008122,
+      "l"
+    ],
+    [
+      0.040277,
+      "i"
+    ],
+    [
+      0.071799,
+      "s"
+    ],
+    [
+      0.047955,
+      "t"
+    ],
+    [
+      0.087930,
+      "_"
+    ],
+    [
+      0.015969,
+      "r"
+    ],
+    [
+      0.015873,
+      "u"
+    ],
+    [
+      0.056208,
+      "n"
+    ],
+    [
+      0.104019,
+      " "
+    ],
+    [
+      0.063936,
+      "-"
+    ],
+    [
+      0.047960,
+      "-"
+    ],
+    [
+      0.007942,
+      "g"
+    ],
+    [
+      0.136081,
+      "e"
+    ],
+    [
+      0.015880,
+      "o"
+    ],
+    [
+      0.040231,
+      " "
+    ],
+    [
+      0.079996,
+      "E"
+    ],
+    [
+      0.007575,
+      "x"
+    ],
+    [
+      0.144089,
+      "p"
+    ],
+    [
+      0.024250,
+      "e"
+    ],
+    [
+      0.104001,
+      "*"
+    ],
+    [
+      0.023968,
+      " "
+    ],
+    [
+      0.112392,
+      "-"
+    ],
+    [
+      0.023517,
+      "-"
+    ],
+    [
+      0.015946,
+      "b"
+    ],
+    [
+      0.064079,
+      "a"
+    ],
+    [
+      0.024353,
+      "s"
+    ],
+    [
+      0.111585,
+      "i"
+    ],
+    [
+      0.016019,
+      "s"
+    ],
+    [
+      0.015599,
+      " "
+    ],
+    [
+      0.080389,
+      "c"
+    ],
+    [
+      0.040143,
+      "c"
+    ],
+    [
+      0.103983,
+      "-"
+    ],
+    [
+      0.016128,
+      "p"
+    ],
+    [
+      0.023880,
+      "V"
+    ],
+    [
+      0.064050,
+      "D"
+    ],
+    [
+      0.055842,
+      "Z"
+    ],
+    [
+      0.096177,
+      " "
+    ],
+    [
+      0.015772,
+      "-"
+    ],
+    [
+      0.088062,
+      "-"
+    ],
+    [
+      0.160081,
+      "o"
+    ],
+    [
+      0.104003,
+      "r"
+    ],
+    [
+      0.007672,
+      "d"
+    ],
+    [
+      0.056212,
+      "e"
+    ],
+    [
+      0.120188,
+      "r"
+    ],
+    [
+      0.031885,
+      "_"
+    ],
+    [
+      0.032091,
+      "b"
+    ],
+    [
+      0.063922,
+      "y"
+    ],
+    [
+      0.064097,
+      " "
+    ],
+    [
+      0.087912,
+      "m"
+    ],
+    [
+      0.080034,
+      "a"
+    ],
+    [
+      0.015934,
+      "d"
+    ],
+    [
+      1.088963,
+      "\r\n"
+    ],
+    [
+      0.128896,
+      "+--------+--------------+---------+------------+----------------------------------+--------------+\r\n| Run_id | Method       | Basis   | Geo        | Comments                         | mad          |\r\n+--------+--------------+---------+------------+----------------------------------+--------------+\r\n|        |              |         |            |                                  | kcal/mol     |\r\n+--------+--------------+---------+------------+----------------------------------+--------------+\r\n| 2      | Hartree-Fock | cc-pVDZ | Experiment | Quantum_Package                  | 83.63        |\r\n"
+    ],
+    [
+      0.000012,
+      "| 6      | Hartree-Fock | cc-pVDZ | Experiment | Gamess                           | 80.91        |\r\n| 44     | Hartree-Fock | cc-pVDZ | Experiment | Gaussian_(6d10f)                 | 80.63        |\r\n| 11     | CIPSI        | cc-pVDZ | Experiment | 1M_Dets_withoutPT2               | 25.60        |\r\n| 13     | CIPSI        | cc-pVDZ | Experiment | 10k_Dets                         | 23.27        |\r\n| 85     | CIPSI        | cc-pVDZ | Experiment | 0.5_2_15                         | 22.97        |\r\n| 32     | CCSD(T)      | cc-pVDZ | Experiment | Gaussian_(6d10f)                 | 22.89        |\r\n| 15     | CIPSI        | cc-pVDZ | Experiment | 1M_Dets_NO_10k_Dets              | 22.41        |\r\n| 17     | CIPSI        | cc-pVDZ | Experiment | 1M_Dets_NO_1k_Dets               | 21.78        |\r\n| 76     | CIPSI        | cc-pVDZ | Experiment | 1M_Dets_NO_0.75Ecorr             | 21.78        |\r\n| 87     | CIPSI        | cc-pVDZ | Experiment | 0.75_2_15_NO                     | 20.70        |\r\n| 42     | MP2          | cc-pVDZ | Experiment | Gaussian_(6d10f)                 | 20.42        |\r\n| 86     | DMC          | cc-pVDZ | Experiment | 0.5_2_15                         | 18.35+/-3.48 |\r\n"
+    ],
+    [
+      0.000018,
+      "| 88     | DMC          | cc-pVDZ | Experiment | 0.75_2_15_NO                     | 11.79+/-3.39 |\r\n| 71     | DMC          | cc-pVDZ | Experiment | 1M_Dets_NO_1k_Dets               | 11.26+/-1.38 |\r\n| 52     | DMC          | cc-pVDZ | Experiment | Hartree-Fock                     |  8.48+/-1.04 |\r\n| 70     | DMC          | cc-pVDZ | Experiment | 1M_Dets_NO_1_Det                 |  7.66+/-1.19 |\r\n| 75     | DMC          | cc-pVDZ | Experiment | 1M_Dets_NO_1k_Dets(0.95Norme)    |  7.01+/-1.95 |\r\n"
+    ],
+    [
+      0.000004,
+      "| 77     | DMC          | cc-pVDZ | Experiment | 1M_Dets_NO_0.75Ecorr             |  6.70+/-2.89 |\r\n| 72     | DMC          | cc-pVDZ | Experiment | 1M_Dets_NO_1k_Dets(NO_det_atoms) |  5.32+/-1.35 |\r\n"
+    ],
+    [
+      0.000022,
+      "+--------+--------------+---------+------------+----------------------------------+--------------+\r\n"
+    ],
+    [
+      0.009980,
+      "\u001b[1m\u001b[36mrazoa\u001b[0m\u001b[0m@\u001b[34mLPQLX15\u001b[0m:\u001b[32mG2_TestSet_CLI\u001b[0m $ "
+    ],
+    [
+      1.076792,
+      "."
+    ],
+    [
+      0.015324,
+      "/"
+    ],
+    [
+      0.032042,
+      "c"
+    ],
+    [
+      0.023972,
+      "a"
+    ],
+    [
+      0.055992,
+      "f"
+    ],
+    [
+      0.128073,
+      "f"
+    ],
+    [
+      0.023758,
+      "a"
+    ],
+    [
+      0.016098,
+      "r"
+    ],
+    [
+      0.055964,
+      "e"
+    ],
+    [
+      0.048112,
+      "l"
+    ],
+    [
+      0.096076,
+      "."
+    ],
+    [
+      0.024074,
+      "p"
+    ],
+    [
+      0.015904,
+      "y"
+    ],
+    [
+      0.056032,
+      " "
+    ],
+    [
+      0.103992,
+      "g"
+    ],
+    [
+      0.064001,
+      "e"
+    ],
+    [
+      0.024066,
+      "t"
+    ],
+    [
+      0.079937,
+      "_"
+    ],
+    [
+      0.023587,
+      "e"
+    ],
+    [
+      0.096261,
+      "n"
+    ],
+    [
+      0.088149,
+      "e"
+    ],
+    [
+      0.040036,
+      "r"
+    ],
+    [
+      0.031872,
+      "g"
+    ],
+    [
+      0.056023,
+      "y"
+    ],
+    [
+      0.087878,
+      " "
+    ],
+    [
+      0.112129,
+      "-"
+    ],
+    [
+      0.015942,
+      "-"
+    ],
+    [
+      0.072015,
+      "r"
+    ],
+    [
+      0.071918,
+      "u"
+    ],
+    [
+      0.088196,
+      "n"
+    ],
+    [
+      0.143910,
+      "_"
+    ],
+    [
+      0.015981,
+      "i"
+    ],
+    [
+      0.023783,
+      "d"
+    ],
+    [
+      0.064188,
+      " "
+    ],
+    [
+      0.048068,
+      "7"
+    ],
+    [
+      0.063898,
+      "2"
+    ],
+    [
+      0.120050,
+      " "
+    ],
+    [
+      0.080015,
+      "-"
+    ],
+    [
+      0.079967,
+      "-"
+    ],
+    [
+      0.016089,
+      "e"
+    ],
+    [
+      0.232066,
+      "l"
+    ],
+    [
+      0.088096,
+      "e"
+    ],
+    [
+      0.327910,
+      " "
+    ],
+    [
+      0.175943,
+      "H"
+    ],
+    [
+      0.175886,
+      "C"
+    ],
+    [
+      0.128143,
+      "l"
+    ],
+    [
+      0.143939,
+      " "
+    ],
+    [
+      0.031946,
+      "-"
+    ],
+    [
+      0.168034,
+      "-"
+    ],
+    [
+      0.063954,
+      "a"
+    ],
+    [
+      0.039836,
+      "l"
+    ],
+    [
+      0.144325,
+      "l"
+    ],
+    [
+      0.031891,
+      "_"
+    ],
+    [
+      0.088005,
+      "c"
+    ],
+    [
+      0.119871,
+      "h"
+    ],
+    [
+      0.024118,
+      "i"
+    ],
+    [
+      0.088100,
+      "l"
+    ],
+    [
+      0.128157,
+      "d"
+    ],
+    [
+      0.023759,
+      "r"
+    ],
+    [
+      0.176055,
+      "e"
+    ],
+    [
+      0.143999,
+      "n"
+    ],
+    [
+      0.031946,
+      " "
+    ],
+    [
+      0.104020,
+      "-"
+    ],
+    [
+      0.144132,
+      "-"
+    ],
+    [
+      0.031741,
+      "a"
+    ],
+    [
+      0.080178,
+      "e"
+    ],
+    [
+      1.544799,
+      "\r\n"
+    ],
+    [
+      0.099100,
+      "+--------+--------+---------+------------+----------------------------------+\r\n| Run_id | Method | Basis   | Geo        | Comments                         |\r\n+--------+--------+---------+------------+----------------------------------+\r\n| 72     | DMC    | cc-pVDZ | Experiment | 1M_Dets_NO_1k_Dets(NO_det_atoms) |\r\n"
+    ],
+    [
+      0.000007,
+      "+--------+--------+---------+------------+----------------------------------+\r\n"
+    ],
+    [
+      0.000313,
+      "+--------+-----+---------------+-----------------+----------+-----------------+\r\n| run_id | ele | e_cal         | ae_cal          | ae_nr    | ae_diff         |\r\n+--------+-----+---------------+-----------------+----------+-----------------+\r\n|        |     | Hartree       | kcal/mol        | kcal/mol | kcal/mol        |\r\n+--------+-----+---------------+-----------------+----------+-----------------+\r\n| 72     | H   |     -0.500    |   0.000(2)      |          |   0.000(2)      |\r\n| 72     | Cl  |   -460.084(1) |   0.000+/-1.092 |          |   0.000+/-1.092 |\r\n"
+    ],
+    [
+      0.000005,
+      "| 72     | HCl |   -460.771(1) | 117.760+/-1.213 | 107.304  |  10.456+/-1.213 |\r\n+--------+-----+---------------+-----------------+----------+-----------------+\r\n"
+    ],
+    [
+      0.009864,
+      "\u001b[1m\u001b[36mrazoa\u001b[0m\u001b[0m@\u001b[34mLPQLX15\u001b[0m:\u001b[32mG2_TestSet_CLI\u001b[0m $ "
+    ],
+    [
+      3.178052,
+      "\r\n\u001b[33m\u001b[1mFINISHED SESSION\u001b[0m\r\n"
+    ]
+  ]
+}
