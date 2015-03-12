@@ -1,0 +1,3758 @@
+{
+  "version": 1,
+  "width": 129,
+  "height": 39,
+  "duration": 56.543301,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.133708,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                \r \r"
+    ],
+    [
+      0.000087,
+      "\u001b]2;dtorok@Daniels-MacBook-Air-2: ~/r\u0007"
+    ],
+    [
+      0.000038,
+      "\u001b]1;~/r\u0007"
+    ],
+    [
+      0.019245,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m➜ \u001b[01;32m \u001b[36m~/r \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000017,
+      "\u001b[K"
+    ],
+    [
+      0.000137,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.165623,
+      "\u001b[32mg\u001b[39m"
+    ],
+    [
+      0.059279,
+      "\u0008\u001b[1m\u001b[31mg\u001b[1m\u001b[31mi\u001b[0m\u001b[39m"
+    ],
+    [
+      0.114817,
+      "\u0008\u0008\u001b[0m\u001b[32mg\u001b[0m\u001b[32mi\u001b[32mt\u001b[39m"
+    ],
+    [
+      0.096387,
+      " "
+    ],
+    [
+      0.127807,
+      "c"
+    ],
+    [
+      0.104528,
+      "l"
+    ],
+    [
+      0.127351,
+      "o"
+    ],
+    [
+      0.128519,
+      "n"
+    ],
+    [
+      0.046577,
+      "e"
+    ],
+    [
+      0.137377,
+      " "
+    ],
+    [
+      0.172333,
+      "g"
+    ],
+    [
+      0.000156,
+      "i"
+    ],
+    [
+      0.000161,
+      "t"
+    ],
+    [
+      0.000139,
+      "@"
+    ],
+    [
+      0.000147,
+      "g"
+    ],
+    [
+      0.000134,
+      "i"
+    ],
+    [
+      0.000149,
+      "t"
+    ],
+    [
+      0.000198,
+      "h"
+    ],
+    [
+      0.000168,
+      "u"
+    ],
+    [
+      0.000159,
+      "b"
+    ],
+    [
+      0.000163,
+      "."
+    ],
+    [
+      0.000169,
+      "c"
+    ],
+    [
+      0.000160,
+      "o"
+    ],
+    [
+      0.000166,
+      "m"
+    ],
+    [
+      0.000151,
+      ":"
+    ],
+    [
+      0.000160,
+      "p"
+    ],
+    [
+      0.000166,
+      "r"
+    ],
+    [
+      0.000160,
+      "e"
+    ],
+    [
+      0.000167,
+      "z"
+    ],
+    [
+      0.000158,
+      "i"
+    ],
+    [
+      0.000167,
+      "/"
+    ],
+    [
+      0.000168,
+      "r"
+    ],
+    [
+      0.000164,
+      "e"
+    ],
+    [
+      0.000149,
+      "v"
+    ],
+    [
+      0.000157,
+      "e"
+    ],
+    [
+      0.000159,
+      "r"
+    ],
+    [
+      0.000156,
+      "s"
+    ],
+    [
+      0.000157,
+      "e"
+    ],
+    [
+      0.000161,
+      "-"
+    ],
+    [
+      0.000155,
+      "p"
+    ],
+    [
+      0.000157,
+      "r"
+    ],
+    [
+      0.000156,
+      "o"
+    ],
+    [
+      0.000167,
+      "x"
+    ],
+    [
+      0.000167,
+      "y"
+    ],
+    [
+      0.000163,
+      "-"
+    ],
+    [
+      0.000149,
+      "r"
+    ],
+    [
+      0.000159,
+      "a"
+    ],
+    [
+      0.000167,
+      "t"
+    ],
+    [
+      0.000165,
+      "e"
+    ],
+    [
+      0.000155,
+      "-"
+    ],
+    [
+      0.000156,
+      "l"
+    ],
+    [
+      0.000156,
+      "i"
+    ],
+    [
+      0.000155,
+      "m"
+    ],
+    [
+      0.000154,
+      "i"
+    ],
+    [
+      0.000154,
+      "t"
+    ],
+    [
+      0.000154,
+      "e"
+    ],
+    [
+      0.000161,
+      "r"
+    ],
+    [
+      0.000155,
+      "."
+    ],
+    [
+      0.000156,
+      "g"
+    ],
+    [
+      0.000156,
+      "i"
+    ],
+    [
+      0.002984,
+      "t"
+    ],
+    [
+      0.172751,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000134,
+      "\r\r\n"
+    ],
+    [
+      0.001902,
+      "\u001b]2;git clone git@github.com:prezi/reverse-proxy-rate-limiter.git\u0007"
+    ],
+    [
+      0.000022,
+      "\u001b]1;git\u0007"
+    ],
+    [
+      0.006750,
+      "Cloning into 'reverse-proxy-rate-limiter'...\r\n"
+    ],
+    [
+      1.878112,
+      "remote: Counting objects: 587, done.\u001b[K\r\n"
+    ],
+    [
+      0.001318,
+      "remote: Compressing objects:   0% (1/232)   \u001b[K\rremote: Compressing objects:   1% (3/232)   \u001b[K\r"
+    ],
+    [
+      0.000016,
+      "remote: Compressing objects:   2% (5/232)   \u001b[K\r"
+    ],
+    [
+      0.001660,
+      "remote: Compressing objects:   3% (7/232)   \u001b[K\r"
+    ],
+    [
+      0.001317,
+      "remote: Compressing objects:   4% (10/232)   \u001b[K\r"
+    ],
+    [
+      0.132406,
+      "remote: Compressing objects:   5% (12/232)   \u001b[K\rremote: Compressing objects:   6% (14/232)   \u001b[K\rremote: Compressing objects:   7% (17/232)   \u001b[K\rremote: Compressing objects:   8% (19/232)   \u001b[K\rremote: Compressing objects:   9% (21/232)   \u001b[K\rremote: Compressing objects:  10% (24/232)   \u001b[K\r"
+    ],
+    [
+      0.000046,
+      "remote: Compressing objects:  11% (26/232)   \u001b[K\rremote: Compressing objects:  12% (28/232)   \u001b[K\rremote: Compressing objects:  13% (31/232)   \u001b[K\rremote: Compressing objects:  14% (33/232)   \u001b[K\rremote: Compressing objects:  15% (35/232)   \u001b[K\r"
+    ],
+    [
+      0.000975,
+      "remote: Compressing objects:  16% (38/232)   \u001b[K\rremote: Compressing objects:  17% (40/232)   \u001b[K\rremote: Compressing objects:  18% (42/232)   \u001b[K\rremote: Compressing objects:  19% (45/232)   \u001b[K\r"
+    ],
+    [
+      0.000029,
+      "remote: Compressing objects:  20% (47/232)   \u001b[K\rremote: Compressing objects:  21% (49/232)   \u001b[K\rremote: Compressing objects:  22% (52/232)   \u001b[K\rremote: Compressing objects:  23% (54/232)   \u001b[K\rremote: Compressing objects:  24% (56/232)   \u001b[K\rremote: Compressing objects:  25% (58/232)   \u001b[K\rremote: Compressing objects:  26% (61/232)   \u001b[K\r"
+    ],
+    [
+      0.010930,
+      "remote: Compressing objects:  27% (63/232)   \u001b[K\rremote: Compressing objects:  28% (65/232)   \u001b[K\rremote: Compressing objects:  29% (68/232)   \u001b[K\rremote: Compressing objects:  30% (70/232)   \u001b[K\rremote: Compressing objects:  31% (72/232)   \u001b[K\rremote: Compressing objects:  32% (75/232)   \u001b[K\r"
+    ],
+    [
+      0.000050,
+      "remote: Compressing objects:  33% (77/232)   \u001b[K\rremote: Compressing objects:  34% (79/232)   \u001b[K\rremote: Compressing objects:  35% (82/232)   \u001b[K\rremote: Compressing objects:  36% (84/232)   \u001b[K\rremote: Compressing objects:  37% (86/232)   \u001b[K\rremote: Compressing objects:  38% (89/232)   \u001b[K\rremote: Compressing objects:  39% (91/232)   \u001b[K\rremote: Compressing objects:  40% (93/232)   \u001b[K\rremote: Compressing objects:  41% (96/232)   \u001b[K\r"
+    ],
+    [
+      0.000892,
+      "remote: Compressing objects:  42% (98/232)   \u001b[K\rremote: Compressing objects:  43% (100/232)   \u001b[K\r"
+    ],
+    [
+      0.000029,
+      "remote: Compressing objects:  44% (103/232)   \u001b[K\rremote: Compressing objects:  45% (105/232)   \u001b[K\rremote: Compressing objects:  46% (107/232)   \u001b[K\rremote: Compressing objects:  47% (110/232)   \u001b[K\rremote: Compressing objects:  48% (112/232)   \u001b[K\rremote: Compressing objects:  49% (114/232)   \u001b[K\rremote: Compressing objects:  50% (116/232)   \u001b[K\rremote: Compressing objects:  51% (119/232)   \u001b[K\r"
+    ],
+    [
+      0.000023,
+      "remote: Compressing objects:  52% (121/232)   \u001b[K\rremote: Compressing objects:  53% (123/232)   \u001b[K\rremote: Compressing objects:  54% (126/232)   \u001b[K\rremote: Compressing objects:  55% (128/232)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  56% (130/232)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  57% (133/232)   \u001b[K\r"
+    ],
+    [
+      0.000007,
+      "remote: Compressing objects:  58% (135/232)   \u001b[K\r"
+    ],
+    [
+      0.000026,
+      "remote: Compressing objects:  59% (137/232)   \u001b[K\rremote: Compressing objects:  60% (140/232)   \u001b[K\rremote: Compressing objects:  61% (142/232)   \u001b[K\r"
+    ],
+    [
+      0.000011,
+      "remote: Compressing objects:  62% (144/232)   \u001b[K\r"
+    ],
+    [
+      0.001143,
+      "remote: Compressing objects:  63% (147/232)   \u001b[K\rremote: Compressing objects:  64% (149/232)   \u001b[K\r"
+    ],
+    [
+      0.000027,
+      "remote: Compressing objects:  65% (151/232)   \u001b[K\rremote: Compressing objects:  66% (154/232)   \u001b[K\rremote: Compressing objects:  67% (156/232)   \u001b[K\rremote: Compressing objects:  68% (158/232)   \u001b[K\rremote: Compressing objects:  69% (161/232)   \u001b[K\rremote: Compressing objects:  70% (163/232)   \u001b[K\rremote: Compressing objects:  71% (165/232)   \u001b[K\r"
+    ],
+    [
+      0.000010,
+      "remote: Compressing objects:  72% (168/232)   \u001b[K\rremote: Compressing objects:  73% (170/232)   \u001b[K\r"
+    ],
+    [
+      0.000007,
+      "remote: Compressing objects:  74% (172/232)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  75% (174/232)   \u001b[K\r"
+    ],
+    [
+      0.000007,
+      "remote: Compressing objects:  76% (177/232)   \u001b[K\r"
+    ],
+    [
+      0.000007,
+      "remote: Compressing objects:  77% (179/232)   \u001b[K\r"
+    ],
+    [
+      0.000025,
+      "remote: Compressing objects:  78% (181/232)   \u001b[K\rremote: Compressing objects:  79% (184/232)   \u001b[K\r"
+    ],
+    [
+      0.000010,
+      "remote: Compressing objects:  80% (186/232)   \u001b[K\rremote: Compressing objects:  81% (188/232)   \u001b[K\r"
+    ],
+    [
+      0.000007,
+      "remote: Compressing objects:  82% (191/232)   \u001b[K\r"
+    ],
+    [
+      0.000007,
+      "remote: Compressing objects:  83% (193/232)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  84% (195/232)   \u001b[K\r"
+    ],
+    [
+      0.001320,
+      "remote: Compressing objects:  85% (198/232)   \u001b[K\rremote: Compressing objects:  86% (200/232)   \u001b[K\rremote: Compressing objects:  87% (202/232)   \u001b[K\rremote: Compressing objects:  88% (205/232)   \u001b[K\rremote: Compressing objects:  89% (207/232)   \u001b[K\rremote: Compressing objects:  90% (209/232)   \u001b[K\rremote: Compressing objects:  91% (212/232)   \u001b[K\r"
+    ],
+    [
+      0.000016,
+      "remote: Compressing objects:  92% (214/232)   \u001b[K\rremote: Compressing objects:  93% (216/232)   \u001b[K\rremote: Compressing objects:  94% (219/232)   \u001b[K\rremote: Compressing objects:  95% (221/232)   \u001b[K\r"
+    ],
+    [
+      0.000045,
+      "remote: Compressing objects:  96% (223/232)   \u001b[K\rremote: Compressing objects:  97% (226/232)   \u001b[K\r"
+    ],
+    [
+      0.000010,
+      "remote: Compressing objects:  98% (228/232)   \u001b[K\rremote: Compressing objects:  99% (230/232)   \u001b[K\r"
+    ],
+    [
+      0.001348,
+      "remote: Compressing objects: 100% (232/232)   \u001b[K\r"
+    ],
+    [
+      0.000014,
+      "remote: Compressing objects: 100% (232/232), done.\u001b[K\r\n"
+    ],
+    [
+      0.011651,
+      "Receiving objects:   0% (1/587)   \r"
+    ],
+    [
+      0.000209,
+      "Receiving objects:   1% (6/587)   \r"
+    ],
+    [
+      0.000329,
+      "Receiving objects:   2% (12/587)   \r"
+    ],
+    [
+      0.000238,
+      "Receiving objects:   3% (18/587)   \r"
+    ],
+    [
+      0.000310,
+      "Receiving objects:   4% (24/587)   \r"
+    ],
+    [
+      0.000262,
+      "Receiving objects:   5% (30/587)   \r"
+    ],
+    [
+      0.000263,
+      "Receiving objects:   6% (36/587)   \r"
+    ],
+    [
+      0.000258,
+      "Receiving objects:   7% (42/587)   \r"
+    ],
+    [
+      0.167204,
+      "Receiving objects:   8% (47/587)   \r"
+    ],
+    [
+      0.000246,
+      "Receiving objects:   9% (53/587)   \r"
+    ],
+    [
+      0.000308,
+      "Receiving objects:  10% (59/587)   \r"
+    ],
+    [
+      0.000271,
+      "Receiving objects:  11% (65/587)   \r"
+    ],
+    [
+      0.000244,
+      "Receiving objects:  12% (71/587)   \r"
+    ],
+    [
+      0.000184,
+      "Receiving objects:  13% (77/587)   \r"
+    ],
+    [
+      0.000227,
+      "Receiving objects:  14% (83/587)   \r"
+    ],
+    [
+      0.000243,
+      "Receiving objects:  15% (89/587)   \r"
+    ],
+    [
+      0.000239,
+      "Receiving objects:  16% (94/587)   \r"
+    ],
+    [
+      0.000152,
+      "Receiving objects:  17% (100/587)   \r"
+    ],
+    [
+      0.000229,
+      "Receiving objects:  18% (106/587)   \r"
+    ],
+    [
+      0.000162,
+      "Receiving objects:  19% (112/587)   \r"
+    ],
+    [
+      0.000260,
+      "Receiving objects:  20% (118/587)   \r"
+    ],
+    [
+      0.000256,
+      "Receiving objects:  21% (124/587)   \r"
+    ],
+    [
+      0.000166,
+      "Receiving objects:  22% (130/587)   \r"
+    ],
+    [
+      0.000249,
+      "Receiving objects:  23% (136/587)   \r"
+    ],
+    [
+      0.000152,
+      "Receiving objects:  24% (141/587)   \r"
+    ],
+    [
+      0.029831,
+      "Receiving objects:  25% (147/587)   \r"
+    ],
+    [
+      0.000031,
+      "Receiving objects:  26% (153/587)   \r"
+    ],
+    [
+      0.000016,
+      "Receiving objects:  27% (159/587)   \r"
+    ],
+    [
+      0.000005,
+      "Receiving objects:  28% (165/587)   \r"
+    ],
+    [
+      0.000020,
+      "Receiving objects:  29% (171/587)   \r"
+    ],
+    [
+      0.000019,
+      "Receiving objects:  30% (177/587)   \r"
+    ],
+    [
+      0.000005,
+      "Receiving objects:  31% (182/587)   \r"
+    ],
+    [
+      0.000101,
+      "Receiving objects:  32% (188/587)   \r"
+    ],
+    [
+      0.000162,
+      "Receiving objects:  33% (194/587)   \r"
+    ],
+    [
+      0.000007,
+      "Receiving objects:  34% (200/587)   \r"
+    ],
+    [
+      0.000028,
+      "Receiving objects:  35% (206/587)   \r"
+    ],
+    [
+      0.000063,
+      "Receiving objects:  36% (212/587)   \r"
+    ],
+    [
+      0.000141,
+      "Receiving objects:  37% (218/587)   \r"
+    ],
+    [
+      0.000107,
+      "Receiving objects:  38% (224/587)   \r"
+    ],
+    [
+      0.000083,
+      "Receiving objects:  39% (229/587)   \r"
+    ],
+    [
+      0.000167,
+      "Receiving objects:  40% (235/587)   \r"
+    ],
+    [
+      0.000051,
+      "Receiving objects:  41% (241/587)   \r"
+    ],
+    [
+      0.000081,
+      "Receiving objects:  42% (247/587)   \r"
+    ],
+    [
+      0.000088,
+      "Receiving objects:  43% (253/587)   \r"
+    ],
+    [
+      0.000019,
+      "Receiving objects:  44% (259/587)   \r"
+    ],
+    [
+      0.000063,
+      "Receiving objects:  45% (265/587)   \r"
+    ],
+    [
+      0.000167,
+      "Receiving objects:  46% (271/587)   \r"
+    ],
+    [
+      0.000006,
+      "Receiving objects:  47% (276/587)   \r"
+    ],
+    [
+      0.088828,
+      "Receiving objects:  48% (282/587)   \rReceiving objects:  49% (288/587)   \r"
+    ],
+    [
+      0.000049,
+      "Receiving objects:  50% (294/587)   \rReceiving objects:  51% (300/587)   \rReceiving objects:  52% (306/587)   \r"
+    ],
+    [
+      0.000087,
+      "Receiving objects:  53% (312/587)   \r"
+    ],
+    [
+      0.000473,
+      "Receiving objects:  54% (317/587)   \r"
+    ],
+    [
+      0.000017,
+      "Receiving objects:  55% (323/587)   \r"
+    ],
+    [
+      0.000127,
+      "Receiving objects:  56% (329/587)   \rReceiving objects:  57% (335/587)   \rReceiving objects:  58% (341/587)   \r"
+    ],
+    [
+      0.000362,
+      "Receiving objects:  59% (347/587)   \r"
+    ],
+    [
+      0.000019,
+      "Receiving objects:  60% (353/587)   \r"
+    ],
+    [
+      0.000170,
+      "Receiving objects:  61% (359/587)   \r"
+    ],
+    [
+      0.000401,
+      "Receiving objects:  62% (364/587)   \r"
+    ],
+    [
+      0.000437,
+      "Receiving objects:  63% (370/587)   \r"
+    ],
+    [
+      0.018764,
+      "Receiving objects:  64% (376/587)   \r"
+    ],
+    [
+      0.000204,
+      "Receiving objects:  65% (382/587)   \r"
+    ],
+    [
+      0.000247,
+      "Receiving objects:  66% (388/587)   \r"
+    ],
+    [
+      0.000389,
+      "Receiving objects:  67% (394/587)   \r"
+    ],
+    [
+      0.015204,
+      "Receiving objects:  68% (400/587)   \rReceiving objects:  69% (406/587)   \r"
+    ],
+    [
+      0.000641,
+      "Receiving objects:  70% (411/587)   \r"
+    ],
+    [
+      0.000576,
+      "Receiving objects:  71% (417/587)   \r"
+    ],
+    [
+      0.317639,
+      "remote: Total 587 (delta 167), reused 13 (delta 13), pack-reused 341\u001b[K\r\n"
+    ],
+    [
+      0.000018,
+      "Receiving objects:  72% (423/587), 84.00 KiB | 117.00 KiB/s   \r"
+    ],
+    [
+      0.000770,
+      "Receiving objects:  73% (429/587), 84.00 KiB | 117.00 KiB/s   \r"
+    ],
+    [
+      0.000597,
+      "Receiving objects:  74% (435/587), 84.00 KiB | 117.00 KiB/s   \r"
+    ],
+    [
+      0.000505,
+      "Receiving objects:  75% (441/587), 84.00 KiB | 117.00 KiB/s   \r"
+    ],
+    [
+      0.000012,
+      "Receiving objects:  76% (447/587), 84.00 KiB | 117.00 KiB/s   \r"
+    ],
+    [
+      0.000067,
+      "Receiving objects:  77% (452/587), 84.00 KiB | 117.00 KiB/s   \r"
+    ],
+    [
+      0.000193,
+      "Receiving objects:  78% (458/587), 84.00 KiB | 117.00 KiB/s   \r"
+    ],
+    [
+      0.000040,
+      "Receiving objects:  79% (464/587), 84.00 KiB | 117.00 KiB/s   \rReceiving objects:  80% (470/587), 84.00 KiB | 117.00 KiB/s   \r"
+    ],
+    [
+      0.000011,
+      "Receiving objects:  81% (476/587), 84.00 KiB | 117.00 KiB/s   \r"
+    ],
+    [
+      0.000042,
+      "Receiving objects:  82% (482/587), 84.00 KiB | 117.00 KiB/s   \r"
+    ],
+    [
+      0.000011,
+      "Receiving objects:  83% (488/587), 84.00 KiB | 117.00 KiB/s   \r"
+    ],
+    [
+      0.000032,
+      "Receiving objects:  84% (494/587), 84.00 KiB | 117.00 KiB/s   \r"
+    ],
+    [
+      0.000028,
+      "Receiving objects:  85% (499/587), 84.00 KiB | 117.00 KiB/s   \r"
+    ],
+    [
+      0.000039,
+      "Receiving objects:  86% (505/587), 84.00 KiB | 117.00 KiB/s   \r"
+    ],
+    [
+      0.000015,
+      "Receiving objects:  87% (511/587), 84.00 KiB | 117.00 KiB/s   \r"
+    ],
+    [
+      0.000048,
+      "Receiving objects:  88% (517/587), 84.00 KiB | 117.00 KiB/s   \r"
+    ],
+    [
+      0.000019,
+      "Receiving objects:  89% (523/587), 84.00 KiB | 117.00 KiB/s   \r"
+    ],
+    [
+      0.000032,
+      "Receiving objects:  90% (529/587), 84.00 KiB | 117.00 KiB/s   \r"
+    ],
+    [
+      0.000091,
+      "Receiving objects:  91% (535/587), 84.00 KiB | 117.00 KiB/s   \r"
+    ],
+    [
+      0.000039,
+      "Receiving objects:  92% (541/587), 84.00 KiB | 117.00 KiB/s   \r"
+    ],
+    [
+      0.000011,
+      "Receiving objects:  93% (546/587), 84.00 KiB | 117.00 KiB/s   \r"
+    ],
+    [
+      0.000028,
+      "Receiving objects:  94% (552/587), 84.00 KiB | 117.00 KiB/s   \r"
+    ],
+    [
+      0.000016,
+      "Receiving objects:  95% (558/587), 84.00 KiB | 117.00 KiB/s   \r"
+    ],
+    [
+      0.000032,
+      "Receiving objects:  96% (564/587), 84.00 KiB | 117.00 KiB/s   \r"
+    ],
+    [
+      0.000027,
+      "Receiving objects:  97% (570/587), 84.00 KiB | 117.00 KiB/s   \r"
+    ],
+    [
+      0.000011,
+      "Receiving objects:  98% (576/587), 84.00 KiB | 117.00 KiB/s   \r"
+    ],
+    [
+      0.000036,
+      "Receiving objects:  99% (582/587), 84.00 KiB | 117.00 KiB/s   \r"
+    ],
+    [
+      0.000134,
+      "Receiving objects: 100% (587/587), 84.00 KiB | 117.00 KiB/s   \rReceiving objects: 100% (587/587), 103.36 KiB | 117.00 KiB/s, done.\r\n"
+    ],
+    [
+      0.000261,
+      "Resolving deltas:   0% (0/380)   \r"
+    ],
+    [
+      0.000743,
+      "Resolving deltas:   2% (9/380)   \r"
+    ],
+    [
+      0.001274,
+      "Resolving deltas:  10% (39/380)   \r"
+    ],
+    [
+      0.000142,
+      "Resolving deltas:  11% (42/380)   \r"
+    ],
+    [
+      0.000317,
+      "Resolving deltas:  12% (48/380)   \r"
+    ],
+    [
+      0.000190,
+      "Resolving deltas:  13% (51/380)   \r"
+    ],
+    [
+      0.000275,
+      "Resolving deltas:  14% (55/380)   \r"
+    ],
+    [
+      0.000486,
+      "Resolving deltas:  17% (67/380)   \r"
+    ],
+    [
+      0.000179,
+      "Resolving deltas:  18% (69/380)   \r"
+    ],
+    [
+      0.000975,
+      "Resolving deltas:  24% (94/380)   \r"
+    ],
+    [
+      0.000105,
+      "Resolving deltas:  25% (95/380)   \r"
+    ],
+    [
+      0.000453,
+      "Resolving deltas:  27% (104/380)   \r"
+    ],
+    [
+      0.000183,
+      "Resolving deltas:  28% (109/380)   \r"
+    ],
+    [
+      0.000266,
+      "Resolving deltas:  29% (113/380)   \r"
+    ],
+    [
+      0.000190,
+      "Resolving deltas:  30% (117/380)   \r"
+    ],
+    [
+      0.000195,
+      "Resolving deltas:  31% (120/380)   \r"
+    ],
+    [
+      0.000231,
+      "Resolving deltas:  32% (124/380)   \r"
+    ],
+    [
+      0.000364,
+      "Resolving deltas:  35% (133/380)   \r"
+    ],
+    [
+      0.000195,
+      "Resolving deltas:  36% (137/380)   \r"
+    ],
+    [
+      0.000192,
+      "Resolving deltas:  37% (141/380)   \r"
+    ],
+    [
+      0.000371,
+      "Resolving deltas:  39% (149/380)   \r"
+    ],
+    [
+      0.000346,
+      "Resolving deltas:  41% (156/380)   \r"
+    ],
+    [
+      0.000228,
+      "Resolving deltas:  42% (160/380)   \r"
+    ],
+    [
+      0.000295,
+      "Resolving deltas:  43% (166/380)   \r"
+    ],
+    [
+      0.000178,
+      "Resolving deltas:  44% (169/380)   \r"
+    ],
+    [
+      0.000171,
+      "Resolving deltas:  45% (172/380)   \r"
+    ],
+    [
+      0.000183,
+      "Resolving deltas:  46% (175/380)   \r"
+    ],
+    [
+      0.000249,
+      "Resolving deltas:  47% (180/380)   \r"
+    ],
+    [
+      0.000468,
+      "Resolving deltas:  50% (191/380)   \r"
+    ],
+    [
+      0.000199,
+      "Resolving deltas:  51% (195/380)   \r"
+    ],
+    [
+      0.001417,
+      "Resolving deltas:  60% (230/380)   \r"
+    ],
+    [
+      0.000937,
+      "Resolving deltas:  66% (253/380)   \r"
+    ],
+    [
+      0.001881,
+      "Resolving deltas:  79% (302/380)   \r"
+    ],
+    [
+      0.000294,
+      "Resolving deltas:  81% (308/380)   \r"
+    ],
+    [
+      0.000377,
+      "Resolving deltas:  83% (316/380)   \r"
+    ],
+    [
+      0.000282,
+      "Resolving deltas:  84% (321/380)   \r"
+    ],
+    [
+      0.000468,
+      "Resolving deltas:  87% (331/380)   \r"
+    ],
+    [
+      0.000576,
+      "Resolving deltas:  91% (347/380)   \r"
+    ],
+    [
+      0.000202,
+      "Resolving deltas:  92% (350/380)   \r"
+    ],
+    [
+      0.000188,
+      "Resolving deltas:  93% (354/380)   \r"
+    ],
+    [
+      0.000252,
+      "Resolving deltas:  94% (359/380)   \r"
+    ],
+    [
+      0.000168,
+      "Resolving deltas:  95% (361/380)   \r"
+    ],
+    [
+      0.000346,
+      "Resolving deltas:  97% (369/380)   \r"
+    ],
+    [
+      0.000209,
+      "Resolving deltas:  98% (373/380)   \r"
+    ],
+    [
+      0.000270,
+      "Resolving deltas: 100% (380/380)   \r"
+    ],
+    [
+      0.000036,
+      "Resolving deltas: 100% (380/380), done.\r\n"
+    ],
+    [
+      0.146157,
+      "Checking connectivity... "
+    ],
+    [
+      0.003035,
+      "done.\r\n"
+    ],
+    [
+      0.013244,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                \r \r"
+    ],
+    [
+      0.000092,
+      "\u001b]2;dtorok@Daniels-MacBook-Air-2: ~/r\u0007"
+    ],
+    [
+      0.000027,
+      "\u001b]1;~/r\u0007"
+    ],
+    [
+      0.015230,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m➜ \u001b[01;32m \u001b[36m~/r \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      0.000087,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.407178,
+      "\u001b[4m\u001b[33mc\u001b[24m\u001b[39m"
+    ],
+    [
+      0.103351,
+      "\u0008\u001b[24m\u001b[32mc\u001b[32md\u001b[39m"
+    ],
+    [
+      0.064484,
+      " "
+    ],
+    [
+      0.144108,
+      "\u001b[4mr\u001b[24m"
+    ],
+    [
+      0.071525,
+      "\u0008\u001b[4mr\u001b[4me\u001b[24m"
+    ],
+    [
+      0.160683,
+      "\u0008\u001b[4me\u001b[4mv\u001b[24m"
+    ],
+    [
+      0.145697,
+      "\u0008\u001b[4mv\u001b[4merse-proxy-rate-limiter\u001b[1m\u001b[4m/\u001b[0m\u001b[24m"
+    ],
+    [
+      0.397810,
+      "\u0008\u0008\u001b[4mr\u001b[24m\u001b[0m\u001b[24m \u0008"
+    ],
+    [
+      0.000025,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000045,
+      "\r\r\n"
+    ],
+    [
+      0.001355,
+      "\u001b]2;cd reverse-proxy-rate-limiter\u0007\u001b]1;cd\u0007"
+    ],
+    [
+      0.000171,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                \r \r"
+    ],
+    [
+      0.000096,
+      "\u001b]2;dtorok@Daniels-MacBook-Air-2: ~/r/reverse-proxy-rate-limiter\u0007"
+    ],
+    [
+      0.000058,
+      "\u001b]1;..-rate-limiter\u0007"
+    ],
+    [
+      0.029578,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m➜ \u001b[01;32m \u001b[36m~/r/reverse-proxy-rate-limiter \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      0.000118,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.313436,
+      "\u001b[4m\u001b[33mn\u001b[24m\u001b[39m"
+    ],
+    [
+      0.085114,
+      "\u0008\u001b[4m\u001b[33mn\u001b[4m\u001b[33mp\u001b[24m\u001b[39m"
+    ],
+    [
+      0.107121,
+      "\u0008\u0008\u001b[24m\u001b[32mn\u001b[24m\u001b[32mp\u001b[32mm\u001b[39m"
+    ],
+    [
+      0.199706,
+      "\u0008\u0008\u0008\u001b[4m\u001b[33mn\u001b[4m\u001b[33mp\u001b[4m\u001b[33mm\u001b[4m\u001b[33mi\u001b[24m\u001b[39m"
+    ],
+    [
+      0.093208,
+      "\u0008\u0008\u0008\u0008\u001b[24m\u001b[1m\u001b[31mn\u001b[24m\u001b[1m\u001b[31mp\u001b[24m\u001b[1m\u001b[31mm\u001b[24m\u001b[1m\u001b[31mi\u001b[1m\u001b[31mn\u001b[0m\u001b[39m"
+    ],
+    [
+      0.082363,
+      "\u0008\u001b[1m\u001b[31mn\u001b[1m\u001b[31ms\u001b[0m\u001b[39m"
+    ],
+    [
+      0.255584,
+      "\u0008\u0008\u001b[1m\u001b[31mn\u001b[0m\u001b[39m\u001b[0m\u001b[39m \u0008"
+    ],
+    [
+      0.119953,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[0m\u001b[4m\u001b[33mn\u001b[0m\u001b[4m\u001b[33mp\u001b[0m\u001b[4m\u001b[33mm\u001b[0m\u001b[4m\u001b[33mi\u001b[24m\u001b[39m\u001b[0m\u001b[39m \u0008"
+    ],
+    [
+      0.144473,
+      "\u0008\u0008\u0008\u0008\u001b[24m\u001b[32mn\u001b[24m\u001b[32mp\u001b[24m\u001b[32mm\u001b[39m\u001b[24m\u001b[39m \u0008"
+    ],
+    [
+      0.097046,
+      " "
+    ],
+    [
+      0.159909,
+      "\u001b[4mi\u001b[24m"
+    ],
+    [
+      0.085314,
+      "\u0008\u001b[4mi\u001b[4mn\u001b[24m"
+    ],
+    [
+      0.065810,
+      "\u0008\u0008\u001b[4m\u001b[33mi\u001b[4m\u001b[33mn\u001b[4m\u001b[33ms\u001b[24m\u001b[39m"
+    ],
+    [
+      0.089435,
+      "\u0008\u0008\u0008\u001b[24m\u001b[39mi\u001b[24m\u001b[39mn\u001b[24m\u001b[39mst"
+    ],
+    [
+      0.072016,
+      "a"
+    ],
+    [
+      0.095699,
+      "l"
+    ],
+    [
+      0.127798,
+      "l"
+    ],
+    [
+      0.155667,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000026,
+      "\r\r\n"
+    ],
+    [
+      0.001552,
+      "\u001b]2;npm install\u0007"
+    ],
+    [
+      0.000050,
+      "\u001b]1;npm\u0007"
+    ],
+    [
+      0.555553,
+      "-\u001b[0G"
+    ],
+    [
+      0.050615,
+      "\\\u001b[0G"
+    ],
+    [
+      0.050182,
+      "|\u001b[0G"
+    ],
+    [
+      0.051335,
+      "/\u001b[0G"
+    ],
+    [
+      0.049328,
+      "-\u001b[0G"
+    ],
+    [
+      0.052255,
+      "\\\u001b[0G"
+    ],
+    [
+      0.050662,
+      "|\u001b[0G"
+    ],
+    [
+      0.050902,
+      "/\u001b[0G"
+    ],
+    [
+      0.049379,
+      "-\u001b[0G"
+    ],
+    [
+      0.051016,
+      "\\\u001b[0G"
+    ],
+    [
+      0.051289,
+      "|\u001b[0G"
+    ],
+    [
+      0.050286,
+      "/\u001b[0G"
+    ],
+    [
+      0.050391,
+      "-\u001b[0G"
+    ],
+    [
+      0.051059,
+      "\\\u001b[0G"
+    ],
+    [
+      0.051326,
+      "|\u001b[0G"
+    ],
+    [
+      0.051284,
+      "/\u001b[0G"
+    ],
+    [
+      0.051102,
+      "-\u001b[0G"
+    ],
+    [
+      0.051261,
+      "\\\u001b[0G"
+    ],
+    [
+      0.050629,
+      "|\u001b[0G"
+    ],
+    [
+      0.051598,
+      "/\u001b[0G"
+    ],
+    [
+      0.050533,
+      "-\u001b[0G"
+    ],
+    [
+      0.050903,
+      "\\\u001b[0G"
+    ],
+    [
+      0.351789,
+      "-\u001b[0G"
+    ],
+    [
+      0.051056,
+      "\\\u001b[0G"
+    ],
+    [
+      0.057830,
+      "|\u001b[0G"
+    ],
+    [
+      0.049411,
+      "/\u001b[0G"
+    ],
+    [
+      0.050132,
+      "-\u001b[0G"
+    ],
+    [
+      0.050005,
+      "\\\u001b[0G"
+    ],
+    [
+      0.050246,
+      "|\u001b[0G"
+    ],
+    [
+      0.050340,
+      "/\u001b[0G"
+    ],
+    [
+      0.049454,
+      "-\u001b[0G"
+    ],
+    [
+      0.053018,
+      "\\\u001b[0G"
+    ],
+    [
+      0.049867,
+      "|\u001b[0G"
+    ],
+    [
+      0.050109,
+      "/\u001b[0G"
+    ],
+    [
+      0.049702,
+      "-\u001b[0G"
+    ],
+    [
+      0.051963,
+      "\\\u001b[0G"
+    ],
+    [
+      0.049992,
+      "|\u001b[0G"
+    ],
+    [
+      0.050160,
+      "/\u001b[0G"
+    ],
+    [
+      0.050912,
+      "-\u001b[0G"
+    ],
+    [
+      0.052196,
+      "\\\u001b[0G"
+    ],
+    [
+      0.053977,
+      "|\u001b[0G"
+    ],
+    [
+      0.050098,
+      "/\u001b[0G"
+    ],
+    [
+      0.049881,
+      "-\u001b[0G"
+    ],
+    [
+      0.049984,
+      "\\\u001b[0G"
+    ],
+    [
+      0.050474,
+      "|\u001b[0G"
+    ],
+    [
+      0.050575,
+      "/\u001b[0G"
+    ],
+    [
+      0.049801,
+      "-\u001b[0G"
+    ],
+    [
+      0.050065,
+      "\\\u001b[0G"
+    ],
+    [
+      0.049968,
+      "|\u001b[0G"
+    ],
+    [
+      0.050421,
+      "/\u001b[0G"
+    ],
+    [
+      0.057592,
+      "-\u001b[0G"
+    ],
+    [
+      0.056883,
+      "\\\u001b[0G"
+    ],
+    [
+      0.051049,
+      "|\u001b[0G"
+    ],
+    [
+      0.051424,
+      "/\u001b[0G"
+    ],
+    [
+      0.054686,
+      "-\u001b[0G"
+    ],
+    [
+      0.050031,
+      "\\\u001b[0G"
+    ],
+    [
+      0.049780,
+      "|\u001b[0G"
+    ],
+    [
+      0.050836,
+      "/\u001b[0G"
+    ],
+    [
+      0.210216,
+      "-\u001b[0G"
+    ],
+    [
+      0.051037,
+      "\\\u001b[0G"
+    ],
+    [
+      0.049985,
+      "|\u001b[0G"
+    ],
+    [
+      0.049794,
+      "/\u001b[0G"
+    ],
+    [
+      0.050646,
+      "-\u001b[0G"
+    ],
+    [
+      0.049374,
+      "\\\u001b[0G"
+    ],
+    [
+      0.050520,
+      "|\u001b[0G"
+    ],
+    [
+      0.193647,
+      "expect.js@0.3.1 node_modules/expect.js\r\n\r\njsonschema@1.0.0 node_modules/jsonschema\r\n\r\nproxy-addr@1.0.6 node_modules/proxy-addr\r\n├── forwarded@0.1.0\r\n└── ipaddr.js@0.1.8\r\n\r\nnomnom@1.8.1 node_modules/nomnom\r\n├── underscore@1.6.0\r\n└── chalk@0.4.0 (has-color@0.1.7, ansi-styles@1.0.0, strip-ansi@0.1.1)\r\n\r\nhttp-proxy@1.8.1 node_modules/http-proxy\r\n├── requires-port@0.0.0\r\n└── eventemitter3@0.1.6\r\n\r\nlog4js@0.6.22 node_modules/log4js\r\n├── semver@1.1.4\r\n├── async@0.2.10\r\n└── readable-stream@1.0.33 (isarray@0.0.1, inherits@2.0.1, string_decoder@0.10.31, core-util-is@1.0.1)\r\n\r\nmocha@2.2.1 node_modules/mocha\r\n├── escape-string-regexp@1.0.2\r\n├── supports-color@1.2.1\r\n├── diff@1.0.8\r\n├── growl@1.8.1\r\n├── commander@2.3.0\r\n├── debug@2.0.0 (ms@0.6.2)\r\n├── mkdirp@0.5.0 (minimist@0.0.8)\r\n├── jade@0.26.3 (commander@0.6.1, mkdirp@0.3.0)\r\n└── glob@3.2.3 (graceful-fs@2.0.3, inherits@2.0.1, minimatch@0.2.14)\r\n\r\nlodash@3.5.0 no"
+    ],
+    [
+      0.000021,
+      "de_modules/lodash\r\n\r\nrequest@2.51.0 node_modules/request\r\n├── caseless@0.8.0\r\n├── json-stringify-safe@5.0.0\r\n├── forever-agent@0.5.2\r\n├── aws-sign2@0.5.0\r\n├── stringstream@0.0.4\r\n├── oauth-sign@0.5.0\r\n├── tunnel-agent@0.4.0\r\n├── node-uuid@1.4.3\r\n├── qs@2.3.3\r\n├── mime-types@1.0.2\r\n├── combined-stream@0.0.7 (delayed-stream@0.0.5)\r\n├── bl@0.9.4 (readable-stream@1.0.33)\r\n├── form-data@0.2.0 (async@0.9.0, mime-types@2.0.9)\r\n├── http-signature@0.10.1 (assert-plus@0.1.5, asn1@0.1.11, ctype@0.5.3)\r\n├── tough-cookie@0.12.1 (punycode@1.3.2)\r\n└── hawk@1.1.1 (cryptiles@0.2.2, sntp@0.2.4, boom@0.4.2, hoek@0.9.1)\r\n"
+    ],
+    [
+      0.001186,
+      "\u001b[2K"
+    ],
+    [
+      0.008184,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                \r \r"
+    ],
+    [
+      0.000114,
+      "\u001b]2;dtorok@Daniels-MacBook-Air-2: ~/r/reverse-proxy-rate-limiter\u0007"
+    ],
+    [
+      0.000037,
+      "\u001b]1;..-rate-limiter\u0007"
+    ],
+    [
+      0.042097,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m➜ \u001b[01;32m \u001b[36m~/r/reverse-proxy-rate-limiter \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000018,
+      "\u001b[K"
+    ],
+    [
+      0.000101,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.533078,
+      "\u001b[4mt\u001b[24m"
+    ],
+    [
+      0.034714,
+      "\u0008\u001b[4m\u001b[33mt\u001b[4m\u001b[33mm\u001b[24m\u001b[39m"
+    ],
+    [
+      0.167377,
+      "\u0008\u0008\u001b[24m\u001b[1m\u001b[31mt\u001b[24m\u001b[1m\u001b[31mm\u001b[1m\u001b[31mu\u001b[0m\u001b[39m"
+    ],
+    [
+      0.086804,
+      "\u0008\u0008\u0008\u001b[0m\u001b[32mt\u001b[0m\u001b[32mm\u001b[0m\u001b[32mu\u001b[32mx\u001b[39m"
+    ],
+    [
+      0.421857,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000067,
+      "\r\r\n"
+    ],
+    [
+      0.001742,
+      "\u001b]2;tmux\u0007"
+    ],
+    [
+      0.000023,
+      "\u001b]1;tmux\u0007"
+    ],
+    [
+      0.010245,
+      "\u001b[?1049h\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[c\u001b]112\u0007\u001b[?25l\u001b[1;1H\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[0] 0:zsh*                                                                               \"Daniels-MacBook-Air-2.\" 23:11 12-Már-15\u001b(B\u001b[m\u001b[39;1H\u001b[1;39r\u001b[H\u001b[?12l\u001b[?25h\u001b[?1005h\u001b[?1006h\u001b[?1000h"
+    ],
+    [
+      0.228226,
+      "\u001b[1;38r\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                                                \u001b[1;1H \u001b[1;39r\u001b[H"
+    ],
+    [
+      0.000621,
+      "\u001b[?25l\u001b[39d\u001b[30m\u001b[42m[0] 0:..-rate-limiter*                                                                   \"Daniels-MacBook-Air-2.\" 23:11 12-Már-15\u001b(B\u001b[m\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.024999,
+      "\u001b[1;38r\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[31m\u001b[1m➜ \u001b[32m \u001b[36m~/r/reverse-proxy-rate-limiter \u001b[34mgit:(\u001b[31mmaster\u001b[34m) \u001b(B\u001b[m\u001b[K\u001b[1;39r\u001b[H\u001b[47C"
+    ],
+    [
+      0.000035,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.455555,
+      "\u001b[20;1H─────────────────────────────────────────────────────────────────\u001b[32m────────────────────────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[31m\u001b[1m➜ \u001b[32m \u001b[36m~/r/reverse-proxy-rate-limiter \u001b[34mgit:(\u001b[31mmaster\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[0] 0:..-rate-limiter*                                                                   \"Daniels-MacBook-Air-2.\" 23:11 12-Már-15\u001b(B\u001b[m\u001b[21;1H\u001b[?12l\u001b[?25h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.026196,
+      "\u001b[1;19r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[31m\u001b[1m➜ \u001b[32m \u001b[36m~/r/reverse-proxy-rate-limiter \u001b[34mgit:(\u001b[31mmaster\u001b[34m) \u001b[1;39r\u001b[H\u001b[21d\u001b(B\u001b[m"
+    ],
+    [
+      0.208162,
+      "\u001b[21;38r\u001b[H\u001b[21d\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                                                \u001b[21;1H \u001b[1;39r\u001b[H\u001b[21d"
+    ],
+    [
+      0.000649,
+      "\u001b[?25l\u001b[39d\u001b[30m\u001b[42m[0] 0:..-rate-limiter*                                                                   \"Daniels-MacBook-Air-2.\" 23:12 12-Már-15\u001b(B\u001b[m\u001b[21;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.022953,
+      "\u001b[21;38r\u001b[H\u001b[21d\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[21d\u001b[31m\u001b[1m➜ \u001b[32m \u001b[36m~/r/reverse-proxy-rate-limiter \u001b[34mgit:(\u001b[31mmaster\u001b[34m) \u001b[1;39r\u001b[H\u001b[21;48H\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      0.000159,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.117659,
+      "\u001b[20;1H─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[32m\u001b[30;1H─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[31m\u001b[1m➜ \u001b[32m \u001b[36m~/r/reverse-proxy-rate-limiter \u001b[34mgit:(\u001b[31mmaster\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[31m\u001b[1m➜ \u001b[32m \u001b[36m~/r"
+    ],
+    [
+      0.000031,
+      "/reverse-proxy-rate-limiter \u001b[34mgit:(\u001b[31mmaster\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[0] 0:..-rate-limiter*                                                                   \"Daniels-MacBook-Air-2.\" 23:12 12-Már-15\u001b(B\u001b[m\u001b[31;1H\u001b[?12l\u001b[?25h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.025171,
+      "\u001b[21;29r\u001b[H\u001b[21d\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[21d\u001b[31m\u001b[1m➜ \u001b[32m \u001b[36m~/r/reverse-proxy-rate-limiter \u001b[34mgit:(\u001b[31mmaster\u001b[34m) \u001b[1;39r\u001b[H\u001b[31d\u001b(B\u001b[m"
+    ],
+    [
+      0.207582,
+      "\u001b[31;38r\u001b[H\u001b[31d\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                                                \u001b[31;1H \u001b[1;39r\u001b[H\u001b[31d"
+    ],
+    [
+      0.023567,
+      "\u001b[31;38r\u001b[H\u001b[31d\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[31d\u001b[31m\u001b[1m➜ \u001b[32m \u001b[36m~/r/reverse-proxy-rate-limiter \u001b[34mgit:(\u001b[31mmaster\u001b[34m) \u001b[1;39r\u001b[H\u001b[31;48H\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      0.000134,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.201796,
+      "\u001b[31;38r\u001b[H\u001b[31;48H\u001b[32m.\u001b[1;39r\u001b[H\u001b[31;49H\u001b(B\u001b[m"
+    ],
+    [
+      0.063172,
+      "\u001b[31;38r\u001b[H\u001b[31;48H\u001b[4m./\u001b[1;39r\u001b[H\u001b[31;50H\u001b(B\u001b[m"
+    ],
+    [
+      0.424225,
+      "\u001b[31;38r\u001b[H\u001b[31;48H\u001b[32m.\u001b[39m \u001b[1;39r\u001b[H\u001b[31;49H"
+    ],
+    [
+      0.117318,
+      "\u001b[31;38r\u001b[H\u001b[31;48H \u001b[1;39r\u001b[H\u001b[31;48H"
+    ],
+    [
+      0.306062,
+      "\u001b[31;38r\u001b[H\u001b[31;48H\u001b[4mn\u001b[1;39r\u001b[H\u001b[31;49H\u001b(B\u001b[m"
+    ],
+    [
+      0.088312,
+      "\u001b[31;38r\u001b[H\u001b[31;48H\u001b[4mno\u001b[1;39r\u001b[H\u001b[31;50H\u001b(B\u001b[m"
+    ],
+    [
+      0.096004,
+      "\u001b[31;38r\u001b[H\u001b[31;48H\u001b[4mnod\u001b[1;39r\u001b[H\u001b[31;51H\u001b(B\u001b[m"
+    ],
+    [
+      0.065215,
+      "\u001b[31;38r\u001b[H\u001b[31;48H\u001b[32mnode\u001b[1;39r\u001b[H\u001b[31;52H\u001b(B\u001b[m"
+    ],
+    [
+      0.079373,
+      "\u001b[31;38r\u001b[H\u001b[31;52H \u001b[1;39r\u001b[H\u001b[31;53H"
+    ],
+    [
+      0.264446,
+      "\u001b[31;38r\u001b[H\u001b[31;53H\u001b[4m.\u001b[1;39r\u001b[H\u001b[31;54H\u001b(B\u001b[m"
+    ],
+    [
+      0.080006,
+      "\u001b[31;38r\u001b[H\u001b[31;53H\u001b[4m./\u001b[1;39r\u001b[H\u001b[31;55H\u001b(B\u001b[m"
+    ],
+    [
+      0.464805,
+      "\u001b[31;38r\u001b[H\u001b[31;54H\u001b[4m/s\u001b[1;39r\u001b[H\u001b[31;56H\u001b(B\u001b[m"
+    ],
+    [
+      0.151226,
+      "\u001b[31;38r\u001b[H\u001b[31;55H\u001b[4mst\u001b[1;39r\u001b[H\u001b[31;57H\u001b(B\u001b[m"
+    ],
+    [
+      0.138266,
+      "\u001b[31;38r\u001b[H\u001b[31;56H\u001b[4mtart-rate-limiter.js\u001b(B\u001b[m\u001b[1m \u001b[1;39r\u001b[H\u001b[31;77H\u001b(B\u001b[m"
+    ],
+    [
+      0.628947,
+      "\u001b[31;38r\u001b[H\u001b[31;76H -\u001b[1;39r\u001b[H\u001b[31;78H"
+    ],
+    [
+      0.119968,
+      "\u001b[31;38r\u001b[H\u001b[31;78Hc\u001b[1;39r\u001b[H\u001b[31;79H"
+    ],
+    [
+      0.126588,
+      "\u001b[31;38r\u001b[H\u001b[31;79H \u001b[1;39r\u001b[H\u001b[31;80H"
+    ],
+    [
+      0.705133,
+      "\u001b[31;38r\u001b[H\u001b[31;80H\u001b[4me\u001b[1;39r\u001b[H\u001b[31;81H\u001b(B\u001b[m"
+    ],
+    [
+      0.160776,
+      "\u001b[31;38r\u001b[H\u001b[31;80H\u001b[4mex\u001b[1;39r\u001b[H\u001b[31;82H\u001b(B\u001b[m"
+    ],
+    [
+      0.177445,
+      "\u001b[31;38r\u001b[H\u001b[31;81H\u001b[4mxamples\u001b[1m/\u001b[1;39r\u001b[H\u001b[31;89H\u001b(B\u001b[m"
+    ],
+    [
+      0.366410,
+      "\u001b[31;38r\u001b[H\u001b[31;88H\u001b[4m/s\u001b[1;39r\u001b[H\u001b[31;90H\u001b(B\u001b[m"
+    ],
+    [
+      0.159854,
+      "\u001b[31;38r\u001b[H\u001b[31;89H\u001b[4mse\u001b[1;39r\u001b[H\u001b[31;91H\u001b(B\u001b[m"
+    ],
+    [
+      0.134945,
+      "\u001b[31;38r\u001b[H\u001b[31;90H\u001b[4met\u001b[1;39r\u001b[H\u001b[31;92H\u001b(B\u001b[m"
+    ],
+    [
+      0.121186,
+      "\u001b[31;38r\u001b[H\u001b[31;91H\u001b[4mtt\u001b[1;39r\u001b[H\u001b[31;93H\u001b(B\u001b[m"
+    ],
+    [
+      0.171669,
+      "\u001b[31;38r\u001b[H\u001b[31;92H\u001b[4mtings.sample.json\u001b(B\u001b[m\u001b[1m \u001b[1;39r\u001b[H\u001b[31;110H\u001b(B\u001b[m"
+    ],
+    [
+      0.395582,
+      "\u001b[31;38r\u001b[H\u001b[31;109H \u001b[1;39r\u001b[H\u001b[31;109H"
+    ],
+    [
+      0.000010,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.002019,
+      "\u001b[?25l\u001b[39d\u001b[30m\u001b[42m[0] 0:node*                                                                              \"Daniels-MacBook-Air-2.\" 23:12 12-Már-15\u001b(B\u001b[m\u001b[32;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.184953,
+      "\u001b[31;38r\u001b[H\u001b[32dTried to load config file config/default.json but it doesn't exist.\u001b[1;39r\u001b[H\u001b[33d"
+    ],
+    [
+      0.363872,
+      "\u001b[31;38r\u001b[H\u001b[33d2015-03-12 23:12:08.880 Daniels-MacBook-Air-2.local [default] INFO New worker is being spawned.\u001b[1;39r\u001b[H\u001b[35d"
+    ],
+    [
+      0.008009,
+      "\u001b[31;38r\u001b[H\u001b[35d2015-03-12 23:12:08.899 Daniels-MacBook-Air-2.local [default] INFO New worker successfully spawned.\u001b[1;39r\u001b[H\u001b[37d"
+    ],
+    [
+      0.373736,
+      "\u001b[31;38r\u001b[H\u001b[37d^A\u001b[1;39r\u001b[H\u001b[37;3H"
+    ],
+    [
+      0.286841,
+      "\u001b[31;38r\u001b[H\u001b[37;3Hb\u001b[1;39r\u001b[H\u001b[37;4H"
+    ],
+    [
+      0.480311,
+      "\u001b[31;38r\u001b[H\u001b[37;4H^[[A\u001b[1;39r\u001b[H\u001b[37;8H"
+    ],
+    [
+      0.664288,
+      "\u001b[31;38r\u001b[H\u001b[37;7H \u001b[1;39r\u001b[H\u001b[37;7H"
+    ],
+    [
+      0.250826,
+      "\u001b[31;38r\u001b[H\u001b[37;6H \u001b[1;39r\u001b[H\u001b[37;6H"
+    ],
+    [
+      0.077361,
+      "\u001b[31;38r\u001b[H\u001b[37;5H \u001b[2D \u001b[1;39r\u001b[H\u001b[37;4H"
+    ],
+    [
+      0.151976,
+      "\u001b[31;38r\u001b[H\u001b[37;3H \u001b[1;39r\u001b[H\u001b[37;3H"
+    ],
+    [
+      0.513698,
+      "\u001b[32m\u001b[20;1H─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[30;1H─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[31m\u001b[1m➜ \u001b[32m \u001b[36m~/r/reverse-proxy-rate-limiter \u001b[34mgit:(\u001b[31mmaster\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[31m\u001b[1m➜ \u001b[32m \u001b[36m~/r"
+    ],
+    [
+      0.000059,
+      "/reverse-proxy-rate-limiter \u001b[34mgit:(\u001b[31mmaster\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[31m\u001b[1m➜ \u001b[32m \u001b[36m~/r/reverse-proxy-rate-limiter \u001b[34mgit:(\u001b[31mmaster\u001b[34m) \u001b(B\u001b[m\u001b[32mnode\u001b[39m \u001b[4m./start-rate-limiter.js\u001b(B\u001b[m -c \u001b[4mexamples/settings.sample.json\u001b(B\u001b[m \u001b[K\r\nTried to load config file config/default.json but it doesn't exist.\u001b[K\r\n2015-03-12 23:12:08.880 Daniels-MacBook-Air-2.local [default] INFO New worker is being spawned.\u001b[K\r\n\u001b[K\r\n2015-03-12 23:12:08.899 Daniels-MacBook-Air-2.local [default] INFO New worker successfully spawned.\u001b[K\r\n\u001b[K\r\n^A     \u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[0] 0:node*                                                                              \"Daniels-MacBook-Air-2.\" 23:12 12-Már-15\u001b(B\u001b[m\u001b[21;48H\u001b[?12l\u001b[?25h\u001b[?1h\u001b="
+    ],
+    [
+      1.898762,
+      "\u001b[21;29r\u001b[H\u001b[21;48H\u001b[4mn\u001b[1;39r\u001b[H\u001b[21;49H\u001b(B\u001b[m"
+    ],
+    [
+      0.118313,
+      "\u001b[21;29r\u001b[H\u001b[21;48H\u001b[4mno\u001b[1;39r\u001b[H\u001b[21;50H\u001b(B\u001b[m"
+    ],
+    [
+      0.072463,
+      "\u001b[21;29r\u001b[H\u001b[21;48H\u001b[4mnod\u001b[1;39r\u001b[H\u001b[21;51H\u001b(B\u001b[m"
+    ],
+    [
+      0.062758,
+      "\u001b[21;29r\u001b[H\u001b[21;48H\u001b[32mnode\u001b[1;39r\u001b[H\u001b[21;52H\u001b(B\u001b[m"
+    ],
+    [
+      0.105664,
+      "\u001b[21;29r\u001b[H\u001b[21;52H \u001b[1;39r\u001b[H\u001b[21;53H"
+    ],
+    [
+      1.336322,
+      "\u001b[21;29r\u001b[H\u001b[21;53H\u001b[33m\u001b[4mm\u001b[1;39r\u001b[H\u001b[21;54H\u001b(B\u001b[m"
+    ],
+    [
+      0.302128,
+      "\u001b[21;29r\u001b[H\u001b[21;53H \u001b[1;39r\u001b[H\u001b[21;53H"
+    ],
+    [
+      0.106211,
+      "\u001b[21;29r\u001b[H\u001b[21;53H\u001b[4me\u001b[1;39r\u001b[H\u001b[21;54H\u001b(B\u001b[m"
+    ],
+    [
+      0.175942,
+      "\u001b[21;29r\u001b[H\u001b[21;53H\u001b[4mex\u001b[1;39r\u001b[H\u001b[21;55H\u001b(B\u001b[m"
+    ],
+    [
+      0.142289,
+      "\u001b[21;29r\u001b[H\u001b[21;54H\u001b[4mxa\u001b[1;39r\u001b[H\u001b[21;56H\u001b(B\u001b[m"
+    ],
+    [
+      0.139551,
+      "\u001b[21;29r\u001b[H\u001b[21;55H\u001b[4mamples\u001b[1m/\u001b[1;39r\u001b[H\u001b[21;62H\u001b(B\u001b[m"
+    ],
+    [
+      0.516265,
+      "\u001b[21;29r\u001b[H\u001b[21;61H\u001b[4m/m\u001b[1;39r\u001b[H\u001b[21;63H\u001b(B\u001b[m"
+    ],
+    [
+      0.416729,
+      "\u001b[21;29r\u001b[H\u001b[21;62H\u001b[4mmo\u001b[1;39r\u001b[H\u001b[21;64H\u001b(B\u001b[m"
+    ],
+    [
+      0.112569,
+      "\u001b[21;29r\u001b[H\u001b[21;63H\u001b[4moc\u001b[1;39r\u001b[H\u001b[21;65H\u001b(B\u001b[m"
+    ],
+    [
+      0.139345,
+      "\u001b[21;29r\u001b[H\u001b[21;64H\u001b[4mck-server.js\u001b(B\u001b[m\u001b[1m \u001b[1;39r\u001b[H\u001b[21;77H\u001b(B\u001b[m"
+    ],
+    [
+      0.636558,
+      "\u001b[21;29r\u001b[H\u001b[21;76H \u001b[1;39r\u001b[H\u001b[21;76H\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000103,
+      "\r\n"
+    ],
+    [
+      0.909144,
+      "\u001b[32m\u001b[2A─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[39m\u001b[30;1H─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[31m\u001b[1m➜ \u001b[32m \u001b[36m~/r/reverse-proxy-rate-limiter \u001b[34mgit:(\u001b[31mmaster\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[31m\u001b[1m➜ \u001b[32m \u001b[36m~"
+    ],
+    [
+      0.000049,
+      "/r/reverse-proxy-rate-limiter \u001b[34mgit:(\u001b[31mmaster\u001b[34m) \u001b(B\u001b[m\u001b[32mnode\u001b[39m \u001b[4mexamples/mock-server.js\u001b(B\u001b[m \u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[31m\u001b[1m➜ \u001b[32m \u001b[36m~/r/reverse-proxy-rate-limiter \u001b[34mgit:(\u001b[31mmaster\u001b[34m) \u001b(B\u001b[m\u001b[32mnode\u001b[39m \u001b[4m./start-rate-limiter.js\u001b(B\u001b[m -c \u001b[4mexamples/settings.sample.json\u001b(B\u001b[m \u001b[K\r\nTried to load config file config/default.json but it doesn't exist.\u001b[K\r\n2015-03-12 23:12:08.880 Daniels-MacBook-Air-2.local [default] INFO New worker is being spawned.\u001b[K\r\n\u001b[K\r\n2015-03-12 23:12:08.899 Daniels-MacBook-Air-2.local [default] INFO New worker successfully spawned.\u001b[K\r\n\u001b[K\r\n^A     \u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[0] 0:node*                                                                              \"Daniels-MacBook-Air-2.\" 23:12 12-Már-15\u001b(B\u001b[m\u001b[1;48H\u001b[?12l\u001b[?25h\u001b[?1h\u001b="
+    ],
+    [
+      1.306185,
+      "\u001b[1;19r\u001b[H\u001b[47C\u001b[4mc\u001b[1;39r\u001b[H\u001b[48C\u001b(B\u001b[m"
+    ],
+    [
+      0.109426,
+      "\u001b[1;19r\u001b[H\u001b[47C\u001b[32mcu\u001b[1;39r\u001b[H\u001b[49C\u001b(B\u001b[m"
+    ],
+    [
+      0.082823,
+      "\u001b[1;19r\u001b[H\u001b[47C\u001b[31m\u001b[1mcur\u001b[1;39r\u001b[H\u001b[50C\u001b(B\u001b[m"
+    ],
+    [
+      0.086965,
+      "\u001b[1;19r\u001b[H\u001b[47C\u001b[32mcurl\u001b[1;39r\u001b[H\u001b[51C\u001b(B\u001b[m"
+    ],
+    [
+      0.086943,
+      "\u001b[1;19r\u001b[H\u001b[51C \u001b[1;39r\u001b[H\u001b[52C"
+    ],
+    [
+      0.153858,
+      "\u001b[1;19r\u001b[H\u001b[52C\u001b[4ml\u001b[1;39r\u001b[H\u001b[53C\u001b(B\u001b[m"
+    ],
+    [
+      0.143661,
+      "\u001b[1;19r\u001b[H\u001b[52C\u001b[33m\u001b[4mlo\u001b[1;39r\u001b[H\u001b[54C\u001b(B\u001b[m"
+    ],
+    [
+      0.128208,
+      "\u001b[1;19r\u001b[H\u001b[52Cloc\u001b[1;39r\u001b[H\u001b[55C"
+    ],
+    [
+      0.053651,
+      "\u001b[1;19r\u001b[H\u001b[55Ca\u001b[1;39r\u001b[H\u001b[56C"
+    ],
+    [
+      0.058894,
+      "\u001b[1;19r\u001b[H\u001b[56Cl\u001b[1;39r\u001b[H\u001b[57C"
+    ],
+    [
+      0.198091,
+      "\u001b[1;19r\u001b[H\u001b[57Ch\u001b[1;39r\u001b[H\u001b[58C"
+    ],
+    [
+      0.033666,
+      "\u001b[1;19r\u001b[H\u001b[58Co\u001b[1;39r\u001b[H\u001b[59C"
+    ],
+    [
+      0.215732,
+      "\u001b[1;19r\u001b[H\u001b[59Ct\u001b[1;39r\u001b[H\u001b[60C"
+    ],
+    [
+      0.024683,
+      "\u001b[1;19r\u001b[H\u001b[60Cs\u001b[1;39r\u001b[H\u001b[61C"
+    ],
+    [
+      0.583654,
+      "\u001b[1;19r\u001b[H\u001b[60C \u001b[1;39r\u001b[H\u001b[60C"
+    ],
+    [
+      0.135482,
+      "\u001b[1;19r\u001b[H\u001b[59C \u001b[1;39r\u001b[H\u001b[59C"
+    ],
+    [
+      0.072861,
+      "\u001b[1;19r\u001b[H\u001b[59Cs\u001b[1;39r\u001b[H\u001b[60C"
+    ],
+    [
+      0.127897,
+      "\u001b[1;19r\u001b[H\u001b[60Ct\u001b[1;39r\u001b[H\u001b[61C"
+    ],
+    [
+      0.359188,
+      "\u001b[1;19r\u001b[H\u001b[61C:\u001b[1;39r\u001b[H\u001b[62C"
+    ],
+    [
+      0.160139,
+      "\u001b[1;19r\u001b[H\u001b[62C7\u001b[1;39r\u001b[H\u001b[63C"
+    ],
+    [
+      0.061539,
+      "\u001b[1;19r\u001b[H\u001b[63C0\u001b[1;39r\u001b[H\u001b[64C"
+    ],
+    [
+      0.152486,
+      "\u001b[1;19r\u001b[H\u001b[64C0\u001b[1;39r\u001b[H\u001b[65C"
+    ],
+    [
+      0.138038,
+      "\u001b[1;19r\u001b[H\u001b[65C0\u001b[1;39r\u001b[H\u001b[66C"
+    ],
+    [
+      0.175854,
+      "\u001b[1;19r\u001b[H\u001b[66C/\u001b[1;39r\u001b[H\u001b[67C"
+    ],
+    [
+      0.214662,
+      "\u001b[1;19r\u001b[H\u001b[67Ct\u001b[1;39r\u001b[H\u001b[68C"
+    ],
+    [
+      0.095469,
+      "\u001b[1;19r\u001b[H\u001b[68Ce\u001b[1;39r\u001b[H\u001b[69C"
+    ],
+    [
+      0.082280,
+      "\u001b[1;19r\u001b[H\u001b[69Cs\u001b[1;39r\u001b[H\u001b[70C"
+    ],
+    [
+      0.094946,
+      "\u001b[1;19r\u001b[H\u001b[70Ct\u001b[1;39r\u001b[H\u001b[71C"
+    ],
+    [
+      0.152259,
+      "\u001b[1;19r\u001b[H\u001b[71C/\u001b[1;39r\u001b[H\u001b[72C"
+    ],
+    [
+      0.397656,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.002957,
+      "\u001b[?25l\u001b[39d\u001b[30m\u001b[42m[0] 0:curl*                                                                              \"Daniels-MacBook-Air-2.\" 23:12 12-Már-15\u001b(B\u001b[m\u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.010658,
+      "\u001b[31;38r\u001b[H\u001b[37;3H2015-03-12 23:12:24.591 Daniels-MacBook-Air-2.local [default] DEBUG undefined GET /test/ 1\r\n\n\u001b[1;39r\u001b[H\r\n"
+    ],
+    [
+      0.018459,
+      "\u001b[1;19r\u001b[H\r\nHello ratelimiter!\r\n/test/\r\n{\r\n  \"accept\": \"*/*\",\r\n  \"host\": \"localhost:7000\",\r\n  \"user-agent\": \"curl/7.30.0\",\r\n  \"connection\": \"close\",\r\n  \"x-ratelimiter-bucket\": \"default\"\u001b[1;39r\u001b[H\u001b[9B"
+    ],
+    [
+      0.001056,
+      "\u001b[1;19r\u001b[H\u001b[9B}\u001b[1;39r\u001b[H\u001b[10;2H"
+    ],
+    [
+      0.000592,
+      "\u001b[21;29r\u001b[H\u001b[22drequest /test/ 200\u001b[1;39r\u001b[H\u001b[10;2H"
+    ],
+    [
+      0.000564,
+      "\u001b[1;19r\u001b[H\u001b[10;2H\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                                                \r \u001b[1;39r\u001b[H\u001b[10B"
+    ],
+    [
+      0.000731,
+      "\u001b[?25l\u001b[39d\u001b[30m\u001b[42m[0] 0:..-rate-limiter*                                                                   \"Daniels-MacBook-Air-2.\" 23:12 12-Már-15\u001b(B\u001b[m\u001b[11;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.024812,
+      "\u001b[1;19r\u001b[H\u001b[11d\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[8A\u001b[31m\u001b[1m➜ \u001b[32m \u001b[36m~/r/reverse-proxy-rate-limiter \u001b[34mgit:(\u001b[31mmaster\u001b[34m) \u001b(B\u001b[m\u001b[K\u001b[1;39r\u001b[H\u001b[11;48H"
+    ],
+    [
+      0.000007,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.558499,
+      "\u001b[1;19r\u001b[H\u001b[11;48H\u001b[32mcurl\u001b[39m localhost:7000/test/\u001b[1;39r\u001b[H\u001b[11;73H"
+    ],
+    [
+      0.253106,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.001602,
+      "\u001b[?25l\u001b[39d\u001b[30m\u001b[42m[0] 0:curl*                                                                              \"Daniels-MacBook-Air-2.\" 23:12 12-Már-15\u001b(B\u001b[m\u001b[12;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.007645,
+      "\u001b[31;38r\u001b[H\u001b[38d2015-03-12 23:12:25.458 Daniels-MacBook-Air-2.local [default] DEBUG undefined GET /test/ 1\r\n\n\u001b[1;39r\u001b[H\u001b[11B"
+    ],
+    [
+      0.004672,
+      "\u001b[21;29r\u001b[H\u001b[23drequest /test/ 200\u001b[1;39r\u001b[H\u001b[11B"
+    ],
+    [
+      0.000721,
+      "\u001b[1;19r\u001b[H\u001b[12dHello ratelimiter!\r\n/test/\r\n{\r\n  \"accept\": \"*/*\",\r\n  \"host\": \"localhost:7000\",\r\n  \"user-agent\": \"curl/7.30.0\",\r\n  \"connection\": \"close\",\r\n  \"x-ratelimiter-bucket\": \"default\"\r\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000087,
+      "\u001b[1;19r\u001b[H\u001b[19d}\u001b[1;39r\u001b[H\u001b[19;2H"
+    ],
+    [
+      0.001142,
+      "\u001b[1;19r\u001b[H\u001b[19;2H\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                                                \r \u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000418,
+      "\u001b[?25l\u001b[39d\u001b[30m\u001b[42m[0] 0:..-rate-limiter*                                                                   \"Daniels-MacBook-Air-2.\" 23:12 12-Már-15\u001b(B\u001b[m\u001b[19;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.023400,
+      "\u001b[1;19r\u001b[H\u001b[19d\u001b[K\u001b[31m\u001b[1m➜ \u001b[32m \u001b[36m~/r/reverse-proxy-rate-limiter \u001b[34mgit:(\u001b[31mmaster\u001b[34m) \u001b(B\u001b[m\u001b[K\u001b[1;39r\u001b[H\u001b[19;48H"
+    ],
+    [
+      0.000091,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.411243,
+      "\u001b[1;19r\u001b[H\u001b[19;48H\u001b[32mcurl\u001b[39m localhost:7000/test/\u001b[1;39r\u001b[H\u001b[19;73H"
+    ],
+    [
+      0.631354,
+      "\u001b[1;19r\u001b[H\u001b[19;72H \u001b[1;39r\u001b[H\u001b[19;72H"
+    ],
+    [
+      0.112293,
+      "\u001b[1;19r\u001b[H\u001b[19;71H \u001b[1;39r\u001b[H\u001b[19;71H"
+    ],
+    [
+      0.151959,
+      "\u001b[1;19r\u001b[H\u001b[19;70H \u001b[1;39r\u001b[H\u001b[19;70H"
+    ],
+    [
+      0.232017,
+      "\u001b[1;19r\u001b[H\u001b[19;69H \u001b[1;39r\u001b[H\u001b[19;69H"
+    ],
+    [
+      0.391829,
+      "\u001b[1;19r\u001b[H\u001b[19;68H \u001b[1;39r\u001b[H\u001b[19;68H"
+    ],
+    [
+      0.200404,
+      "\u001b[1;19r\u001b[H\u001b[19;68Hs\u001b[1;39r\u001b[H\u001b[19;69H"
+    ],
+    [
+      0.127971,
+      "\u001b[1;19r\u001b[H\u001b[19;69Hl\u001b[1;39r\u001b[H\u001b[19;70H"
+    ],
+    [
+      0.064085,
+      "\u001b[1;19r\u001b[H\u001b[19;70He\u001b[1;39r\u001b[H\u001b[19;71H"
+    ],
+    [
+      0.151783,
+      "\u001b[1;19r\u001b[H\u001b[19;71He\u001b[1;39r\u001b[H\u001b[19;72H"
+    ],
+    [
+      0.120282,
+      "\u001b[1;19r\u001b[H\u001b[19;72Hp\u001b[1;39r\u001b[H\u001b[19;73H"
+    ],
+    [
+      0.296066,
+      "\u001b[1;19r\u001b[H\u001b[19;73H5\u001b[1;39r\u001b[H\u001b[19;74H"
+    ],
+    [
+      0.335453,
+      "\u001b[1;19r\u001b[H\u001b[19;74Hs\u001b[1;39r\u001b[H\u001b[19;75H"
+    ],
+    [
+      0.143959,
+      "\u001b[1;19r\u001b[H\u001b[19;75He\u001b[1;39r\u001b[H\u001b[19;76H"
+    ],
+    [
+      0.167577,
+      "\u001b[1;19r\u001b[H\u001b[19;76Hc\u001b[1;39r\u001b[H\u001b[19;77H"
+    ],
+    [
+      0.072804,
+      "\u001b[1;19r\u001b[H\u001b[19;77Hs\u001b[1;39r\u001b[H\u001b[19;78H"
+    ],
+    [
+      0.232063,
+      "\u001b[1;19r\u001b[H\u001b[19;78H/\u001b[1;39r\u001b[H\u001b[19;79H"
+    ],
+    [
+      0.388604,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000125,
+      "\u001b[1;19r\u001b[H\u001b[19d\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.001871,
+      "\u001b[?25l\u001b[39d\u001b[30m\u001b[42m[0] 0:curl*                                                                              \"Daniels-MacBook-Air-2.\" 23:12 12-Már-15\u001b(B\u001b[m\u001b[19;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.007075,
+      "\u001b[31;38r\u001b[H\u001b[38d2015-03-12 23:12:29.729 Daniels-MacBook-Air-2.local [default] DEBUG undefined GET /sleep5secs/ 1\r\n\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      1.406446,
+      "\u001b[1;19r\u001b[H\u001b[19d\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.175870,
+      "\u001b[1;19r\u001b[H\u001b[19d\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.375857,
+      "\u001b[1;19r\u001b[H\u001b[19d\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      3.046426,
+      "\u001b[21;29r\u001b[H\u001b[24drequest /sleep5secs/ 200\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000768,
+      "\u001b[1;19r\u001b[H\u001b[19dHel\u001b[1;39r\u001b[H\u001b[19;4H\u001b[1;19r\u001b[H\u001b[19;4Hlo "
+    ],
+    [
+      0.000021,
+      "\u001b[1;39r\u001b[H\u001b[19;7H"
+    ],
+    [
+      0.000009,
+      "\u001b[1;19r\u001b[H\u001b[19;7Hrat\u001b[1;39r\u001b[H\u001b[19;10H"
+    ],
+    [
+      0.000116,
+      "\u001b[1;19r\u001b[H\u001b[19;10Heli\u001b[1;39r\u001b[H\u001b[19;13H"
+    ],
+    [
+      0.000295,
+      "\u001b[1;19r\u001b[H\u001b[19;13Hmit\u001b[1;39r\u001b[H\u001b[19;16H\u001b[1;19r\u001b[H\u001b[19;16Her!"
+    ],
+    [
+      0.000012,
+      "\u001b[1;39r\u001b[H\u001b[19;19H"
+    ],
+    [
+      0.000114,
+      "\u001b[1;19r\u001b[H\u001b[19d\n/\u001b[1;39r\u001b[H\u001b[19;2H\u001b[1;19r\u001b[H\u001b[19;2Hsle\u001b[1;39r\u001b[H\u001b[19;5H"
+    ],
+    [
+      0.000079,
+      "\u001b[1;19r\u001b[H\u001b[19;5Hep5\u001b[1;39r\u001b[H\u001b[19;8H"
+    ],
+    [
+      0.000025,
+      "\u001b[1;19r\u001b[H\u001b[19;8Hsec\u001b[1;39r\u001b[H\u001b[19;11H"
+    ],
+    [
+      0.000060,
+      "\u001b[1;19r\u001b[H\u001b[19;11Hs/\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000074,
+      "\u001b[1;19r\u001b[H\u001b[19d\n{\u001b[1;39r\u001b[H\u001b[18B\u001b[1;19r\u001b[H\u001b[19d\n  "
+    ],
+    [
+      0.000068,
+      "\u001b[1;39r\u001b[H\u001b[19;3H"
+    ],
+    [
+      0.000133,
+      "\u001b[1;19r\u001b[H\u001b[19;3H\"ac\u001b[1;39r\u001b[H\u001b[19;6H\u001b[1;19r\u001b[H\u001b[19;6Hcep"
+    ],
+    [
+      0.000010,
+      "\u001b[1;39r\u001b[H\u001b[19;9H"
+    ],
+    [
+      0.000108,
+      "\u001b[1;19r\u001b[H\u001b[19;9Ht\":\u001b[1;39r\u001b[H\u001b[19;12H"
+    ],
+    [
+      0.000011,
+      "\u001b[1;19r\u001b[H\u001b[19;12H \"*\u001b[1;39r\u001b[H\u001b[19;15H"
+    ],
+    [
+      0.000080,
+      "\u001b[1;19r\u001b[H\u001b[19;15H/*\"\u001b[1;39r\u001b[H\u001b[19;18H\u001b[1;19r\u001b[H\u001b[19;18H,\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000087,
+      "\u001b[1;19r\u001b[H\u001b[19d  \"\u001b[1;39r\u001b[H\u001b[19;4H"
+    ],
+    [
+      0.000015,
+      "\u001b[1;19r\u001b[H\u001b[19;4Hhos\u001b[1;39r\u001b[H\u001b[19;7H"
+    ],
+    [
+      0.000062,
+      "\u001b[1;19r\u001b[H\u001b[19;7Ht\":\u001b[1;39r\u001b[H\u001b[19;10H"
+    ],
+    [
+      0.000051,
+      "\u001b[1;19r\u001b[H\u001b[19;10H \"l\u001b[1;39r\u001b[H\u001b[19;13H"
+    ],
+    [
+      0.000301,
+      "\u001b[1;19r\u001b[H\u001b[19;13Hoca\u001b[1;39r\u001b[H\u001b[19;16H\u001b[1;19r\u001b[H\u001b[19;16Hlho\u001b[1;39r\u001b[H\u001b[19;19H\u001b[1;19r\u001b[H\u001b[19;19Hst:\u001b[1;39r\u001b[H\u001b[19;22H\u001b[1;19r\u001b[H\u001b[19;22H700\u001b[1;39r\u001b[H\u001b[19;25H\u001b[1;19r\u001b[H\u001b[19;25H0\",\u001b[1;39r\u001b[H\u001b[19;28H\u001b[1;19r\u001b[H\u001b[19d\n "
+    ],
+    [
+      0.000539,
+      "\u001b[1;39r\u001b[H\u001b[19;2H\u001b[1;19r\u001b[H\u001b[19;2H \"u\u001b[1;39r\u001b[H\u001b[19;5H\u001b[1;19r\u001b[H\u001b[19;5Hser\u001b[1;39r\u001b[H\u001b[19;8H\u001b[1;19r\u001b[H\u001b[19;8H-ag\u001b[1;39r\u001b[H\u001b[19;11H\u001b[1;19r\u001b[H\u001b[19;11Hent\u001b[1;39r\u001b[H\u001b[19;14H\u001b[1;19r\u001b[H\u001b[19;14H\": \u001b[1;39r\u001b[H\u001b[19;17H\u001b[1;19r\u001b[H\u001b[19;17H\"cu\u001b[1;39r\u001b[H\u001b[19;20H\u001b[1;19r\u001b[H\u001b[19;20Hrl/\u001b[1;39r\u001b[H\u001b[19;23H"
+    ],
+    [
+      0.000283,
+      "\u001b[1;19r\u001b[H\u001b[19;23H7.3\u001b[1;39r\u001b[H\u001b[19;26H\u001b[1;19r\u001b[H\u001b[19;26H0.0\u001b[1;39r\u001b[H\u001b[19;29H\u001b[1;19r\u001b[H\u001b[19;29H\",\u001b[1;39r\u001b[H\u001b[18B\u001b[1;19r\u001b[H\u001b[19d\n  \u001b[1;39r\u001b[H\u001b[19;3H\u001b[1;19r\u001b[H\u001b[19;3H\"co\u001b[1;39r\u001b[H\u001b[19;6H\u001b[1;19r\u001b[H\u001b[19;6Hnne\u001b[1;39r\u001b[H\u001b[19;9H\u001b[1;19r\u001b[H\u001b[19;9Hcti\u001b[1;39r\u001b[H\u001b[19;12H"
+    ],
+    [
+      0.000012,
+      "\u001b[1;19r\u001b[H\u001b[19;12Hon\"\u001b[1;39r\u001b[H\u001b[19;15H\u001b[1;19r\u001b[H\u001b[19;15H: \"\u001b[1;39r\u001b[H\u001b[19;18H\u001b[1;19r\u001b[H\u001b[19;18Hclo\u001b[1;39r\u001b[H\u001b[19;21H\u001b[1;19r\u001b[H\u001b[19;21Hse\"\u001b[1;39r\u001b[H\u001b[19;24H\u001b[1;19r\u001b[H\u001b[19;24H,\r\n\u001b[1;39r\u001b[H\u001b[18B\u001b[1;19r\u001b[H\u001b[19d  \"\u001b[1;39r\u001b[H\u001b[19;4H"
+    ],
+    [
+      0.000097,
+      "\u001b[1;19r\u001b[H\u001b[19;4Hx-r\u001b[1;39r\u001b[H\u001b[19;7H\u001b[1;19r\u001b[H\u001b[19;7Hate\u001b[1;39r\u001b[H\u001b[19;10H\u001b[1;19r\u001b[H\u001b[19;10Hlim\u001b[1;39r\u001b[H\u001b[19;13H\u001b[1;19r\u001b[H\u001b[19;13Hite\u001b[1;39r\u001b[H\u001b[19;16H"
+    ],
+    [
+      0.000059,
+      "\u001b[1;19r\u001b[H\u001b[19;16Hr-b\u001b[1;39r\u001b[H\u001b[19;19H\u001b[1;19r\u001b[H\u001b[19;19Huck\u001b[1;39r\u001b[H\u001b[19;22H"
+    ],
+    [
+      0.000041,
+      "\u001b[1;19r\u001b[H\u001b[19;22Het\"\u001b[1;39r\u001b[H\u001b[19;25H"
+    ],
+    [
+      0.000011,
+      "\u001b[1;19r\u001b[H\u001b[19;25H: \"\u001b[1;39r\u001b[H\u001b[19;28H\u001b[1;19r\u001b[H\u001b[19;28Hdef"
+    ],
+    [
+      0.000015,
+      "\u001b[1;39r\u001b[H\u001b[19;31H"
+    ],
+    [
+      0.000030,
+      "\u001b[1;19r\u001b[H\u001b[19;31Haul\u001b[1;39r\u001b[H\u001b[19;34H"
+    ],
+    [
+      0.000036,
+      "\u001b[1;19r\u001b[H\u001b[19;34Ht\"\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000007,
+      "\u001b[1;19r\u001b[H\u001b[19d\n}\u001b[1;39r\u001b[H\u001b[19;2H"
+    ],
+    [
+      0.000063,
+      "\u001b[1;19r\u001b[H\u001b[19;2H\u001b[1m\u001b[7m%\u001b[1;39r\u001b[H\u001b[19;3H\u001b(B\u001b[m"
+    ],
+    [
+      0.000053,
+      "\u001b[1;19r\u001b[H\u001b[19;3H   \u001b[1;39r\u001b[H\u001b[19;6H"
+    ],
+    [
+      0.000027,
+      "\u001b[1;19r\u001b[H\u001b[19;6H   \u001b[1;39r\u001b[H\u001b[19;9H"
+    ],
+    [
+      0.000123,
+      "\u001b[1;19r\u001b[H\u001b[19;9H   \u001b[1;39r\u001b[H\u001b[19;12H\u001b[1;19r\u001b[H\u001b[19;12H   \u001b[1;39r\u001b[H\u001b[19;15H\u001b[1;19r\u001b[H\u001b[19;15H   \u001b[1;39r\u001b[H\u001b[19;18H\u001b[1;19r\u001b[H\u001b[19;18H   \u001b[1;39r\u001b[H\u001b[19;21H"
+    ],
+    [
+      0.000149,
+      "\u001b[1;19r\u001b[H\u001b[19;21H   \u001b[1;39r\u001b[H\u001b[19;24H\u001b[1;19r\u001b[H\u001b[19;24H   \u001b[1;39r\u001b[H\u001b[19;27H\u001b[1;19r\u001b[H\u001b[19;27H   \u001b[1;39r\u001b[H\u001b[19;30H\u001b[1;19r\u001b[H\u001b[19;30H   \u001b[1;39r\u001b[H\u001b[19;33H\u001b[1;19r\u001b[H\u001b[19;33H   \u001b[1;39r\u001b[H\u001b[19;36H"
+    ],
+    [
+      0.000008,
+      "\u001b[1;19r\u001b[H\u001b[19;36H   \u001b[1;39r\u001b[H\u001b[19;39H"
+    ],
+    [
+      0.000028,
+      "\u001b[1;19r\u001b[H\u001b[19;39H   \u001b[1;39r\u001b[H\u001b[19;42H"
+    ],
+    [
+      0.000048,
+      "\u001b[1;19r\u001b[H\u001b[19;42H   \u001b[1;39r\u001b[H\u001b[19;45H\u001b[1;19r\u001b[H\u001b[19;45H   "
+    ],
+    [
+      0.000006,
+      "\u001b[1;39r\u001b[H\u001b[19;48H"
+    ],
+    [
+      0.000050,
+      "\u001b[1;19r\u001b[H\u001b[19;48H   \u001b[1;39r\u001b[H\u001b[19;51H"
+    ],
+    [
+      0.000028,
+      "\u001b[1;19r\u001b[H\u001b[19;51H   \u001b[1;39r\u001b[H\u001b[19;54H\u001b[1;19r\u001b[H\u001b[19;54H   "
+    ],
+    [
+      0.000018,
+      "\u001b[1;39r\u001b[H\u001b[19;57H"
+    ],
+    [
+      0.000029,
+      "\u001b[1;19r\u001b[H\u001b[19;57H   \u001b[1;39r\u001b[H\u001b[19;60H"
+    ],
+    [
+      0.000043,
+      "\u001b[1;19r\u001b[H\u001b[19;60H   \u001b[1;39r\u001b[H\u001b[19;63H"
+    ],
+    [
+      0.000007,
+      "\u001b[1;19r\u001b[H\u001b[19;63H   \u001b[1;39r\u001b[H\u001b[19;66H"
+    ],
+    [
+      0.000037,
+      "\u001b[1;19r\u001b[H\u001b[19;66H   \u001b[1;39r\u001b[H\u001b[19;69H"
+    ],
+    [
+      0.000028,
+      "\u001b[1;19r\u001b[H\u001b[19;69H   \u001b[1;39r\u001b[H\u001b[19;72H"
+    ],
+    [
+      0.000048,
+      "\u001b[1;19r\u001b[H\u001b[19;72H   \u001b[1;39r\u001b[H\u001b[19;75H"
+    ],
+    [
+      0.000006,
+      "\u001b[1;19r\u001b[H\u001b[19;75H   \u001b[1;39r\u001b[H\u001b[19;78H"
+    ],
+    [
+      0.000038,
+      "\u001b[1;19r\u001b[H\u001b[19;78H   \u001b[1;39r\u001b[H\u001b[19;81H"
+    ],
+    [
+      0.000024,
+      "\u001b[1;19r\u001b[H\u001b[19;81H   \u001b[1;39r\u001b[H\u001b[19;84H"
+    ],
+    [
+      0.000057,
+      "\u001b[1;19r\u001b[H\u001b[19;84H   \u001b[1;39r\u001b[H\u001b[19;87H"
+    ],
+    [
+      0.000006,
+      "\u001b[1;19r\u001b[H\u001b[19;87H   \u001b[1;39r\u001b[H\u001b[19;90H"
+    ],
+    [
+      0.000024,
+      "\u001b[1;19r\u001b[H\u001b[19;90H   \u001b[1;39r\u001b[H\u001b[19;93H"
+    ],
+    [
+      0.000045,
+      "\u001b[1;19r\u001b[H\u001b[19;93H   \u001b[1;39r\u001b[H\u001b[19;96H"
+    ],
+    [
+      0.000152,
+      "\u001b[1;19r\u001b[H\u001b[19;96H   \u001b[1;39r\u001b[H\u001b[19;99H\u001b[1;19r\u001b[H\u001b[19;99H   \u001b[1;39r\u001b[H\u001b[19;102H\u001b[1;19r\u001b[H\u001b[19;102H   \u001b[1;39r\u001b[H\u001b[19;105H\u001b[1;19r\u001b[H\u001b[19;105H   \u001b[1;39r\u001b[H\u001b[19;108H\u001b[1;19r\u001b[H\u001b[19;108H   \u001b[1;39r\u001b[H\u001b[19;111H"
+    ],
+    [
+      0.000007,
+      "\u001b[1;19r\u001b[H\u001b[19;111H   \u001b[1;39r\u001b[H\u001b[19;114H"
+    ],
+    [
+      0.000049,
+      "\u001b[1;19r\u001b[H\u001b[19;114H   \u001b[1;39r\u001b[H\u001b[19;117H\u001b[1;19r\u001b[H\u001b[19;117H   "
+    ],
+    [
+      0.000007,
+      "\u001b[1;39r\u001b[H\u001b[19;120H"
+    ],
+    [
+      0.000024,
+      "\u001b[1;19r\u001b[H\u001b[19;120H   \u001b[1;39r\u001b[H\u001b[19;123H"
+    ],
+    [
+      0.000054,
+      "\u001b[1;19r\u001b[H\u001b[19;123H   \u001b[1;39r\u001b[H\u001b[19;126H\u001b[1;19r\u001b[H\u001b[19;126H   \u001b[1;39r\u001b[H\u001b[19;129H"
+    ],
+    [
+      0.000039,
+      "\u001b[1;19r\u001b[H\u001b[19;129H  \u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000022,
+      "\u001b[1;19r\u001b[H\u001b[19d \u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000482,
+      "\u001b[?25l\u001b[39d\u001b[30m\u001b[42m[0] 0:..-rate-limiter*                                                                   \"Daniels-MacBook-Air-2.\" 23:12 12-Már-15\u001b(B\u001b[m\u001b[19;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.021250,
+      "\u001b[1;19r\u001b[H\u001b[19d\u001b[K\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000028,
+      "\u001b[1;19r\u001b[H\u001b[19d\u001b[31m\u001b[1m➜ \u001b[1;39r\u001b[H\u001b[19;3H\u001b(B\u001b[m"
+    ],
+    [
+      0.000076,
+      "\u001b[1;19r\u001b[H\u001b[19;3H\u001b[32m\u001b[1m \u001b[1;39r\u001b[H\u001b[19;4H\u001b(B\u001b[m"
+    ],
+    [
+      0.000051,
+      "\u001b[1;19r\u001b[H\u001b[19;4H\u001b[36m\u001b[1m~/\u001b[1;39r\u001b[H\u001b[19;6H\u001b(B\u001b[m"
+    ],
+    [
+      0.000073,
+      "\u001b[1;19r\u001b[H\u001b[19;6H\u001b[36m\u001b[1mr/\u001b[1;39r\u001b[H\u001b[19;8H\u001b(B\u001b[m\u001b[1;19r\u001b[H\u001b[19;8H\u001b[36m\u001b[1mre\u001b[1;39r\u001b[H\u001b[19;10H\u001b(B\u001b[m"
+    ],
+    [
+      0.000009,
+      "\u001b[1;19r\u001b[H\u001b[19;10H\u001b[36m\u001b[1mve\u001b[1;39r\u001b[H\u001b[19;12H\u001b(B\u001b[m"
+    ],
+    [
+      0.000034,
+      "\u001b[1;19r\u001b[H\u001b[19;12H\u001b[36m\u001b[1mrs\u001b[1;39r\u001b[H\u001b[19;14H\u001b(B\u001b[m"
+    ],
+    [
+      0.000022,
+      "\u001b[1;19r\u001b[H\u001b[19;14H\u001b[36m\u001b[1me-\u001b[1;39r\u001b[H\u001b[19;16H\u001b(B\u001b[m"
+    ],
+    [
+      0.000022,
+      "\u001b[1;19r\u001b[H\u001b[19;16H\u001b[36m\u001b[1mpr\u001b[1;39r\u001b[H\u001b[19;18H\u001b(B\u001b[m"
+    ],
+    [
+      0.000051,
+      "\u001b[1;19r\u001b[H\u001b[19;18H\u001b[36m\u001b[1mox\u001b[1;39r\u001b[H\u001b[19;20H\u001b(B\u001b[m"
+    ],
+    [
+      0.000007,
+      "\u001b[1;19r\u001b[H\u001b[19;20H\u001b[36m\u001b[1my-\u001b[1;39r\u001b[H\u001b[19;22H\u001b(B\u001b[m\u001b[1;19r\u001b[H\u001b[19;22H\u001b[36m\u001b[1mra"
+    ],
+    [
+      0.000030,
+      "\u001b[1;39r\u001b[H\u001b[19;24H\u001b(B\u001b[m"
+    ],
+    [
+      0.000025,
+      "\u001b[1;19r\u001b[H\u001b[19;24H\u001b[36m\u001b[1mte\u001b[1;39r\u001b[H\u001b[19;26H\u001b(B\u001b[m\u001b[1;19r\u001b[H\u001b[19;26H\u001b[36m\u001b[1m-l"
+    ],
+    [
+      0.000025,
+      "\u001b[1;39r\u001b[H\u001b[19;28H\u001b(B\u001b[m\u001b[1;19r\u001b[H\u001b[19;28H\u001b[36m\u001b[1mim"
+    ],
+    [
+      0.000005,
+      "\u001b[1;39r\u001b[H\u001b[19;30H\u001b(B\u001b[m"
+    ],
+    [
+      0.000037,
+      "\u001b[1;19r\u001b[H\u001b[19;30H\u001b[36m\u001b[1mit\u001b[1;39r\u001b[H\u001b[19;32H\u001b(B\u001b[m"
+    ],
+    [
+      0.000020,
+      "\u001b[1;19r\u001b[H\u001b[19;32H\u001b[36m\u001b[1mer\u001b[1;39r\u001b[H\u001b[19;34H\u001b(B\u001b[m"
+    ],
+    [
+      0.000028,
+      "\u001b[1;19r\u001b[H\u001b[19;34H\u001b[36m\u001b[1m \u001b[1;39r\u001b[H\u001b[19;35H\u001b(B\u001b[m"
+    ],
+    [
+      0.000084,
+      "\u001b[1;19r\u001b[H\u001b[19;35H\u001b[34m\u001b[1mg\u001b[1;39r\u001b[H\u001b[19;36H\u001b(B\u001b[m\u001b[1;19r\u001b[H\u001b[19;36H\u001b[34m\u001b[1mit"
+    ],
+    [
+      0.000009,
+      "\u001b[1;39r\u001b[H\u001b[19;38H\u001b(B\u001b[m"
+    ],
+    [
+      0.000033,
+      "\u001b[1;19r\u001b[H\u001b[19;38H\u001b[34m\u001b[1m:(\u001b[1;39r\u001b[H\u001b[19;40H\u001b(B\u001b[m"
+    ],
+    [
+      0.000037,
+      "\u001b[1;19r\u001b[H\u001b[19;40H\u001b[31m\u001b[1mm\u001b[1;39r\u001b[H\u001b[19;41H\u001b(B\u001b[m"
+    ],
+    [
+      0.000025,
+      "\u001b[1;19r\u001b[H\u001b[19;41H\u001b[31m\u001b[1mas\u001b[1;39r\u001b[H\u001b[19;43H\u001b(B\u001b[m"
+    ],
+    [
+      0.000039,
+      "\u001b[1;19r\u001b[H\u001b[19;43H\u001b[31m\u001b[1mte\u001b[1;39r\u001b[H\u001b[19;45H\u001b(B\u001b[m\u001b[1;19r\u001b[H\u001b[19;45H\u001b[31m\u001b[1mr"
+    ],
+    [
+      0.000007,
+      "\u001b[1;39r\u001b[H\u001b[19;46H\u001b(B\u001b[m"
+    ],
+    [
+      0.000058,
+      "\u001b[1;19r\u001b[H\u001b[19;46H\u001b[34m\u001b[1m)\u001b[1;39r\u001b[H\u001b[19;47H\u001b(B\u001b[m"
+    ],
+    [
+      0.000077,
+      "\u001b[1;19r\u001b[H\u001b[19;47H\u001b[34m\u001b[1m \u001b[1;39r\u001b[H\u001b[19;48H\u001b(B\u001b[m"
+    ],
+    [
+      0.000052,
+      "\u001b[K"
+    ],
+    [
+      0.000039,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000045,
+      "\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000035,
+      "\u001b[1;19r\u001b[H\u001b[19d\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000387,
+      "\u001b[1;19r\u001b[H\u001b[19d\u001b[1m\u001b[7m%\u001b[1;39r\u001b[H\u001b[19;2H\u001b(B\u001b[m"
+    ],
+    [
+      0.000132,
+      "\u001b[1;19r\u001b[H\u001b[19;2H  \u001b[1;39r\u001b[H\u001b[19;4H"
+    ],
+    [
+      0.000008,
+      "\u001b[1;19r\u001b[H\u001b[19;4H  \u001b[1;39r\u001b[H\u001b[19;6H"
+    ],
+    [
+      0.000048,
+      "\u001b[1;19r\u001b[H\u001b[19;6H  \u001b[1;39r\u001b[H\u001b[19;8H\u001b[1;19r\u001b[H\u001b[19;8H  "
+    ],
+    [
+      0.000015,
+      "\u001b[1;39r\u001b[H\u001b[19;10H"
+    ],
+    [
+      0.000038,
+      "\u001b[1;19r\u001b[H\u001b[19;10H  \u001b[1;39r\u001b[H\u001b[19;12H"
+    ],
+    [
+      0.000033,
+      "\u001b[1;19r\u001b[H\u001b[19;12H  \u001b[1;39r\u001b[H\u001b[19;14H\u001b[1;19r\u001b[H\u001b[19;14H  "
+    ],
+    [
+      0.000023,
+      "\u001b[1;39r\u001b[H\u001b[19;16H"
+    ],
+    [
+      0.000050,
+      "\u001b[1;19r\u001b[H\u001b[19;16H  \u001b[1;39r\u001b[H\u001b[19;18H"
+    ],
+    [
+      0.000006,
+      "\u001b[1;19r\u001b[H\u001b[19;18H  \u001b[1;39r\u001b[H\u001b[19;20H"
+    ],
+    [
+      0.000225,
+      "\u001b[1;19r\u001b[H\u001b[19;20H  \u001b[1;39r\u001b[H\u001b[19;22H\u001b[1;19r\u001b[H\u001b[19;22H  \u001b[1;39r\u001b[H\u001b[19;24H\u001b[1;19r\u001b[H\u001b[19;24H  \u001b[1;39r\u001b[H\u001b[19;26H\u001b[1;19r\u001b[H\u001b[19;26H  \u001b[1;39r\u001b[H\u001b[19;28H\u001b[1;19r\u001b[H\u001b[19;28H  "
+    ],
+    [
+      0.000009,
+      "\u001b[1;39r\u001b[H\u001b[19;30H\u001b[1;19r\u001b[H\u001b[19;30H  \u001b[1;39r\u001b[H\u001b[19;32H\u001b[1;19r\u001b[H\u001b[19;32H  \u001b[1;39r\u001b[H\u001b[19;34H"
+    ],
+    [
+      0.000148,
+      "\u001b[1;19r\u001b[H\u001b[19;34H  \u001b[1;39r\u001b[H\u001b[19;36H\u001b[1;19r\u001b[H\u001b[19;36H  \u001b[1;39r\u001b[H\u001b[19;38H\u001b[1;19r\u001b[H\u001b[19;38H  \u001b[1;39r\u001b[H\u001b[19;40H\u001b[1;19r\u001b[H\u001b[19;40H  \u001b[1;39r\u001b[H\u001b[19;42H"
+    ],
+    [
+      0.000044,
+      "\u001b[1;19r\u001b[H\u001b[19;42H  \u001b[1;39r\u001b[H\u001b[19;44H\u001b[1;19r\u001b[H\u001b[19;44H  "
+    ],
+    [
+      0.000014,
+      "\u001b[1;39r\u001b[H\u001b[19;46H"
+    ],
+    [
+      0.000055,
+      "\u001b[1;19r\u001b[H\u001b[19;46H  \u001b[1;39r\u001b[H\u001b[19;48H"
+    ],
+    [
+      0.000007,
+      "\u001b[1;19r\u001b[H\u001b[19;48H  \u001b[1;39r\u001b[H\u001b[19;50H"
+    ],
+    [
+      0.000021,
+      "\u001b[1;19r\u001b[H\u001b[19;50H  \u001b[1;39r\u001b[H\u001b[19;52H"
+    ],
+    [
+      0.000035,
+      "\u001b[1;19r\u001b[H\u001b[19;52H  \u001b[1;39r\u001b[H\u001b[19;54H"
+    ],
+    [
+      0.000050,
+      "\u001b[1;19r\u001b[H\u001b[19;54H  \u001b[1;39r\u001b[H\u001b[19;56H\u001b[1;19r\u001b[H\u001b[19;56H  \u001b[1;39r\u001b[H\u001b[19;58H"
+    ],
+    [
+      0.000043,
+      "\u001b[1;19r\u001b[H\u001b[19;58H  \u001b[1;39r\u001b[H\u001b[19;60H"
+    ],
+    [
+      0.000021,
+      "\u001b[1;19r\u001b[H\u001b[19;60H  \u001b[1;39r\u001b[H\u001b[19;62H"
+    ],
+    [
+      0.000136,
+      "\u001b[1;19r\u001b[H\u001b[19;62H  \u001b[1;39r\u001b[H\u001b[19;64H\u001b[1;19r\u001b[H\u001b[19;64H  \u001b[1;39r\u001b[H\u001b[19;66H\u001b[1;19r\u001b[H\u001b[19;66H  \u001b[1;39r\u001b[H\u001b[19;68H\u001b[1;19r\u001b[H\u001b[19;68H  \u001b[1;39r\u001b[H\u001b[19;70H\u001b[1;19r\u001b[H\u001b[19;70H  "
+    ],
+    [
+      0.000009,
+      "\u001b[1;39r\u001b[H\u001b[19;72H"
+    ],
+    [
+      0.000024,
+      "\u001b[1;19r\u001b[H\u001b[19;72H  \u001b[1;39r\u001b[H\u001b[19;74H"
+    ],
+    [
+      0.000030,
+      "\u001b[1;19r\u001b[H\u001b[19;74H  \u001b[1;39r\u001b[H\u001b[19;76H"
+    ],
+    [
+      0.000060,
+      "\u001b[1;19r\u001b[H\u001b[19;76H  \u001b[1;39r\u001b[H\u001b[19;78H\u001b[1;19r\u001b[H\u001b[19;78H  \u001b[1;39r\u001b[H\u001b[19;80H"
+    ],
+    [
+      0.000107,
+      "\u001b[1;19r\u001b[H\u001b[19;80H  \u001b[1;39r\u001b[H\u001b[19;82H\u001b[1;19r\u001b[H\u001b[19;82H  "
+    ],
+    [
+      0.000009,
+      "\u001b[1;39r\u001b[H\u001b[19;84H\u001b[1;19r\u001b[H\u001b[19;84H  \u001b[1;39r\u001b[H\u001b[19;86H\u001b[1;19r\u001b[H\u001b[19;86H  \u001b[1;39r\u001b[H\u001b[19;88H\u001b[1;19r\u001b[H\u001b[19;88H  \u001b[1;39r\u001b[H\u001b[19;90H"
+    ],
+    [
+      0.000033,
+      "\u001b[1;19r\u001b[H\u001b[19;90H  \u001b[1;39r\u001b[H\u001b[19;92H"
+    ],
+    [
+      0.000023,
+      "\u001b[1;19r\u001b[H\u001b[19;92H  \u001b[1;39r\u001b[H\u001b[19;94H"
+    ],
+    [
+      0.000052,
+      "\u001b[1;19r\u001b[H\u001b[19;94H  \u001b[1;39r\u001b[H\u001b[19;96H\u001b[1;19r\u001b[H\u001b[19;96H  \u001b[1;39r\u001b[H\u001b[19;98H"
+    ],
+    [
+      0.000048,
+      "\u001b[1;19r\u001b[H\u001b[19;98H  \u001b[1;39r\u001b[H\u001b[19;100H\u001b[1;19r\u001b[H\u001b[19;100H  \u001b[1;39r\u001b[H\u001b[19;102H"
+    ],
+    [
+      0.000027,
+      "\u001b[1;19r\u001b[H\u001b[19;102H  \u001b[1;39r\u001b[H\u001b[19;104H"
+    ],
+    [
+      0.000035,
+      "\u001b[1;19r\u001b[H\u001b[19;104H  \u001b[1;39r\u001b[H\u001b[19;106H"
+    ],
+    [
+      0.000015,
+      "\u001b[1;19r\u001b[H\u001b[19;106H  \u001b[1;39r\u001b[H\u001b[19;108H"
+    ],
+    [
+      0.000059,
+      "\u001b[1;19r\u001b[H\u001b[19;108H  \u001b[1;39r\u001b[H\u001b[19;110H\u001b[1;19r\u001b[H\u001b[19;110H  \u001b[1;39r\u001b[H\u001b[19;112H"
+    ],
+    [
+      0.000043,
+      "\u001b[1;19r\u001b[H\u001b[19;112H  \u001b[1;39r\u001b[H\u001b[19;114H"
+    ],
+    [
+      0.000025,
+      "\u001b[1;19r\u001b[H\u001b[19;114H  \u001b[1;39r\u001b[H\u001b[19;116H"
+    ],
+    [
+      0.000052,
+      "\u001b[1;19r\u001b[H\u001b[19;116H  \u001b[1;39r\u001b[H\u001b[19;118H"
+    ],
+    [
+      0.000047,
+      "\u001b[1;19r\u001b[H\u001b[19;118H  \u001b[1;39r\u001b[H\u001b[19;120H"
+    ],
+    [
+      0.000006,
+      "\u001b[1;19r\u001b[H\u001b[19;120H  \u001b[1;39r\u001b[H\u001b[19;122H"
+    ],
+    [
+      0.000034,
+      "\u001b[1;19r\u001b[H\u001b[19;122H  \u001b[1;39r\u001b[H\u001b[19;124H"
+    ],
+    [
+      0.000027,
+      "\u001b[1;19r\u001b[H\u001b[19;124H  \u001b[1;39r\u001b[H\u001b[19;126H"
+    ],
+    [
+      0.000050,
+      "\u001b[1;19r\u001b[H\u001b[19;126H  \u001b[1;39r\u001b[H\u001b[19;128H"
+    ],
+    [
+      0.000007,
+      "\u001b[1;19r\u001b[H\u001b[19;128H  \u001b[19;1H\u001b[1;39r\u001b[H\u001b[19;129H"
+    ],
+    [
+      0.000035,
+      "\u001b[1;19r\u001b[H\u001b[19d \u001b[1;39r\u001b[H\u001b[19;2H"
+    ],
+    [
+      0.000020,
+      "\r"
+    ],
+    [
+      0.029482,
+      "\u001b[1;19r\u001b[H\u001b[19d\u001b[K\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000070,
+      "\u001b[1;19r\u001b[H\u001b[19d\u001b[31m\u001b[1m➜ \u001b[1;39r\u001b[H\u001b[19;3H\u001b(B\u001b[m"
+    ],
+    [
+      0.000150,
+      "\u001b[1;19r\u001b[H\u001b[19;3H\u001b[32m\u001b[1m \u001b[1;39r\u001b[H\u001b[19;4H\u001b(B\u001b[m"
+    ],
+    [
+      0.000057,
+      "\u001b[1;19r\u001b[H\u001b[19;4H\u001b[36m\u001b[1m~\u001b[1;39r\u001b[H\u001b[19;5H\u001b(B\u001b[m"
+    ],
+    [
+      0.000022,
+      "\u001b[1;19r\u001b[H\u001b[19;5H\u001b[36m\u001b[1m/\u001b[1;39r\u001b[H\u001b[19;6H\u001b(B\u001b[m"
+    ],
+    [
+      0.000056,
+      "\u001b[1;19r\u001b[H\u001b[19;6H\u001b[36m\u001b[1mr\u001b[1;39r\u001b[H\u001b[19;7H\u001b(B\u001b[m\u001b[1;19r\u001b[H\u001b[19;7H\u001b[36m\u001b[1m/\u001b[1;39r\u001b[H\u001b[19;8H\u001b(B\u001b[m"
+    ],
+    [
+      0.000008,
+      "\u001b[1;19r\u001b[H\u001b[19;8H\u001b[36m\u001b[1mr\u001b[1;39r\u001b[H\u001b[19;9H\u001b(B\u001b[m"
+    ],
+    [
+      0.000034,
+      "\u001b[1;19r\u001b[H\u001b[19;9H\u001b[36m\u001b[1me\u001b[1;39r\u001b[H\u001b[19;10H\u001b(B\u001b[m"
+    ],
+    [
+      0.000022,
+      "\u001b[1;19r\u001b[H\u001b[19;10H\u001b[36m\u001b[1mv\u001b[1;39r\u001b[H\u001b[19;11H\u001b(B\u001b[m"
+    ],
+    [
+      0.000018,
+      "\u001b[1;19r\u001b[H\u001b[19;11H\u001b[36m\u001b[1me\u001b[1;39r\u001b[H\u001b[19;12H\u001b(B\u001b[m"
+    ],
+    [
+      0.000045,
+      "\u001b[1;19r\u001b[H\u001b[19;12H\u001b[36m\u001b[1mr\u001b[1;39r\u001b[H\u001b[19;13H\u001b(B\u001b[m\u001b[1;19r\u001b[H\u001b[19;13H\u001b[36m\u001b[1ms\u001b[1;39r\u001b[H\u001b[19;14H\u001b(B\u001b[m"
+    ],
+    [
+      0.000022,
+      "\u001b[1;19r\u001b[H\u001b[19;14H\u001b[36m\u001b[1me\u001b[1;39r\u001b[H\u001b[19;15H\u001b(B\u001b[m"
+    ],
+    [
+      0.000027,
+      "\u001b[1;19r\u001b[H\u001b[19;15H\u001b[36m\u001b[1m-\u001b[1;39r\u001b[H\u001b[19;16H\u001b(B\u001b[m"
+    ],
+    [
+      0.000027,
+      "\u001b[1;19r\u001b[H\u001b[19;16H\u001b[36m\u001b[1mp\u001b[1;39r\u001b[H\u001b[19;17H\u001b(B\u001b[m"
+    ],
+    [
+      0.000034,
+      "\u001b[1;19r\u001b[H\u001b[19;17H\u001b[36m\u001b[1mr\u001b[1;39r\u001b[H\u001b[19;18H\u001b(B\u001b[m"
+    ],
+    [
+      0.000009,
+      "\u001b[1;19r\u001b[H\u001b[19;18H\u001b[36m\u001b[1mo\u001b[1;39r\u001b[H\u001b[19;19H\u001b(B\u001b[m"
+    ],
+    [
+      0.000023,
+      "\u001b[1;19r\u001b[H\u001b[19;19H\u001b[36m\u001b[1mx\u001b[1;39r\u001b[H\u001b[19;20H\u001b(B\u001b[m"
+    ],
+    [
+      0.000029,
+      "\u001b[1;19r\u001b[H\u001b[19;20H\u001b[36m\u001b[1my\u001b[1;39r\u001b[H\u001b[19;21H\u001b(B\u001b[m"
+    ],
+    [
+      0.000035,
+      "\u001b[1;19r\u001b[H\u001b[19;21H\u001b[36m\u001b[1m-\u001b[1;39r\u001b[H\u001b[19;22H\u001b(B\u001b[m\u001b[1;19r\u001b[H\u001b[19;22H\u001b[36m\u001b[1mr"
+    ],
+    [
+      0.000016,
+      "\u001b[1;39r\u001b[H\u001b[19;23H\u001b(B\u001b[m"
+    ],
+    [
+      0.000034,
+      "\u001b[1;19r\u001b[H\u001b[19;23H\u001b[36m\u001b[1ma\u001b[1;39r\u001b[H\u001b[19;24H\u001b(B\u001b[m"
+    ],
+    [
+      0.000028,
+      "\u001b[1;19r\u001b[H\u001b[19;24H\u001b[36m\u001b[1mt\u001b[1;39r\u001b[H\u001b[19;25H\u001b(B\u001b[m"
+    ],
+    [
+      0.000033,
+      "\u001b[1;19r\u001b[H\u001b[19;25H\u001b[36m\u001b[1me\u001b[1;39r\u001b[H\u001b[19;26H\u001b(B\u001b[m"
+    ],
+    [
+      0.000028,
+      "\u001b[1;19r\u001b[H\u001b[19;26H\u001b[36m\u001b[1m-\u001b[1;39r\u001b[H\u001b[19;27H\u001b(B\u001b[m"
+    ],
+    [
+      0.000029,
+      "\u001b[1;19r\u001b[H\u001b[19;27H\u001b[36m\u001b[1ml\u001b[1;39r\u001b[H\u001b[19;28H\u001b(B\u001b[m"
+    ],
+    [
+      0.000043,
+      "\u001b[1;19r\u001b[H\u001b[19;28H\u001b[36m\u001b[1mi\u001b[1;39r\u001b[H\u001b[19;29H\u001b(B\u001b[m\u001b[1;19r\u001b[H\u001b[19;29H\u001b[36m\u001b[1mm"
+    ],
+    [
+      0.000016,
+      "\u001b[1;39r\u001b[H\u001b[19;30H\u001b(B\u001b[m"
+    ],
+    [
+      0.000025,
+      "\u001b[1;19r\u001b[H\u001b[19;30H\u001b[36m\u001b[1mi\u001b[1;39r\u001b[H\u001b[19;31H\u001b(B\u001b[m"
+    ],
+    [
+      0.000031,
+      "\u001b[1;19r\u001b[H\u001b[19;31H\u001b[36m\u001b[1mt\u001b[1;39r\u001b[H\u001b[19;32H\u001b(B\u001b[m"
+    ],
+    [
+      0.000026,
+      "\u001b[1;19r\u001b[H\u001b[19;32H\u001b[36m\u001b[1me\u001b[1;39r\u001b[H\u001b[19;33H\u001b(B\u001b[m"
+    ],
+    [
+      0.000046,
+      "\u001b[1;19r\u001b[H\u001b[19;33H\u001b[36m\u001b[1mr\u001b[1;39r\u001b[H\u001b[19;34H\u001b(B\u001b[m\u001b[1;19r\u001b[H\u001b[19;34H\u001b[36m\u001b[1m "
+    ],
+    [
+      0.000007,
+      "\u001b[1;39r\u001b[H\u001b[19;35H\u001b(B\u001b[m"
+    ],
+    [
+      0.000136,
+      "\u001b[1;19r\u001b[H\u001b[19;35H\u001b[34m\u001b[1mg\u001b[1;39r\u001b[H\u001b[19;36H\u001b(B\u001b[m\u001b[1;19r\u001b[H\u001b[19;36H\u001b[34m\u001b[1mi"
+    ],
+    [
+      0.000024,
+      "\u001b[1;39r\u001b[H\u001b[19;37H\u001b(B\u001b[m\u001b[1;19r\u001b[H\u001b[19;37H\u001b[34m\u001b[1mt"
+    ],
+    [
+      0.000015,
+      "\u001b[1;39r\u001b[H\u001b[19;38H\u001b(B\u001b[m"
+    ],
+    [
+      0.000031,
+      "\u001b[1;19r\u001b[H\u001b[19;38H\u001b[34m\u001b[1m:\u001b[1;39r\u001b[H\u001b[19;39H\u001b(B\u001b[m"
+    ],
+    [
+      0.000026,
+      "\u001b[1;19r\u001b[H\u001b[19;39H\u001b[34m\u001b[1m(\u001b[1;39r\u001b[H\u001b[19;40H\u001b(B\u001b[m"
+    ],
+    [
+      0.000072,
+      "\u001b[1;19r\u001b[H\u001b[19;40H\u001b[31m\u001b[1mm\u001b[1;39r\u001b[H\u001b[19;41H\u001b(B\u001b[m"
+    ],
+    [
+      0.000038,
+      "\u001b[1;19r\u001b[H\u001b[19;41H\u001b[31m\u001b[1ma\u001b[1;39r\u001b[H\u001b[19;42H\u001b(B\u001b[m\u001b[1;19r\u001b[H\u001b[19;42H\u001b[31m\u001b[1ms"
+    ],
+    [
+      0.000021,
+      "\u001b[1;39r\u001b[H\u001b[19;43H\u001b(B\u001b[m"
+    ],
+    [
+      0.000025,
+      "\u001b[1;19r\u001b[H\u001b[19;43H\u001b[31m\u001b[1mt\u001b[1;39r\u001b[H\u001b[19;44H\u001b(B\u001b[m"
+    ],
+    [
+      0.000031,
+      "\u001b[1;19r\u001b[H\u001b[19;44H\u001b[31m\u001b[1me\u001b[1;39r\u001b[H\u001b[19;45H\u001b(B\u001b[m"
+    ],
+    [
+      0.000032,
+      "\u001b[1;19r\u001b[H\u001b[19;45H\u001b[31m\u001b[1mr\u001b[1;39r\u001b[H\u001b[19;46H\u001b(B\u001b[m"
+    ],
+    [
+      0.000068,
+      "\u001b[1;19r\u001b[H\u001b[19;46H\u001b[34m\u001b[1m)\u001b[1;39r\u001b[H\u001b[19;47H\u001b(B\u001b[m"
+    ],
+    [
+      0.000139,
+      "\u001b[1;19r\u001b[H\u001b[19;47H\u001b[34m\u001b[1m \u001b[1;39r\u001b[H\u001b[19;48H\u001b(B\u001b[m"
+    ],
+    [
+      0.000088,
+      "\u001b[K"
+    ],
+    [
+      0.000077,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000109,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000006,
+      "\r"
+    ],
+    [
+      0.000049,
+      "\u001b[1;19r\u001b[H\u001b[19d\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000358,
+      "\u001b[1;19r\u001b[H\u001b[19d\u001b[1m\u001b[7m%\u001b[1;39r\u001b[H\u001b[19;2H\u001b(B\u001b[m"
+    ],
+    [
+      0.000197,
+      "\u001b[1;19r\u001b[H\u001b[19;2H \u001b[1;39r\u001b[H\u001b[19;3H\u001b[1;19r\u001b[H\u001b[19;3H "
+    ],
+    [
+      0.000006,
+      "\u001b[1;39r\u001b[H\u001b[19;4H"
+    ],
+    [
+      0.000097,
+      "\u001b[1;19r\u001b[H\u001b[19;4H \u001b[1;39r\u001b[H\u001b[19;5H\u001b[1;19r\u001b[H\u001b[19;5H \u001b[1;39r\u001b[H\u001b[19;6H"
+    ],
+    [
+      0.000046,
+      "\u001b[1;19r\u001b[H\u001b[19;6H \u001b[1;39r\u001b[H\u001b[19;7H"
+    ],
+    [
+      0.000007,
+      "\u001b[1;19r\u001b[H\u001b[19;7H \u001b[1;39r\u001b[H\u001b[19;8H"
+    ],
+    [
+      0.000224,
+      "\u001b[1;19r\u001b[H\u001b[19;8H \u001b[1;39r\u001b[H\u001b[19;9H\u001b[1;19r\u001b[H\u001b[19;9H \u001b[1;39r\u001b[H\u001b[19;10H\u001b[1;19r\u001b[H\u001b[19;10H \u001b[1;39r\u001b[H\u001b[19;11H\u001b[1;19r\u001b[H\u001b[19;11H \u001b[1;39r\u001b[H\u001b[19;12H\u001b[1;19r\u001b[H\u001b[19;12H \u001b[1;39r\u001b[H\u001b[19;13H"
+    ],
+    [
+      0.000010,
+      "\u001b[1;19r\u001b[H\u001b[19;13H \u001b[1;39r\u001b[H\u001b[19;14H\u001b[1;19r\u001b[H\u001b[19;14H \u001b[1;39r\u001b[H\u001b[19;15H"
+    ],
+    [
+      0.000036,
+      "\u001b[1;19r\u001b[H\u001b[19;15H \u001b[1;39r\u001b[H\u001b[19;16H\u001b[1;19r\u001b[H\u001b[19;16H \u001b[1;39r\u001b[H\u001b[19;17H"
+    ],
+    [
+      0.000027,
+      "\u001b[1;19r\u001b[H\u001b[19;17H \u001b[1;39r\u001b[H\u001b[19;18H"
+    ],
+    [
+      0.000044,
+      "\u001b[1;19r\u001b[H\u001b[19;18H \u001b[1;39r\u001b[H\u001b[19;19H\u001b[1;19r\u001b[H\u001b[19;19H "
+    ],
+    [
+      0.000006,
+      "\u001b[1;39r\u001b[H\u001b[19;20H"
+    ],
+    [
+      0.000031,
+      "\u001b[1;19r\u001b[H\u001b[19;20H \u001b[1;39r\u001b[H\u001b[19;21H"
+    ],
+    [
+      0.000018,
+      "\u001b[1;19r\u001b[H\u001b[19;21H \u001b[1;39r\u001b[H\u001b[19;22H"
+    ],
+    [
+      0.000049,
+      "\u001b[1;19r\u001b[H\u001b[19;22H \u001b[1;39r\u001b[H\u001b[19;23H"
+    ],
+    [
+      0.000009,
+      "\u001b[1;19r\u001b[H\u001b[19;23H \u001b[1;39r\u001b[H\u001b[19;24H"
+    ],
+    [
+      0.000020,
+      "\u001b[1;19r\u001b[H\u001b[19;24H \u001b[1;39r\u001b[H\u001b[19;25H"
+    ],
+    [
+      0.000026,
+      "\u001b[1;19r\u001b[H\u001b[19;25H \u001b[1;39r\u001b[H\u001b[19;26H"
+    ],
+    [
+      0.000025,
+      "\u001b[1;19r\u001b[H\u001b[19;26H \u001b[1;39r\u001b[H\u001b[19;27H"
+    ],
+    [
+      0.000038,
+      "\u001b[1;19r\u001b[H\u001b[19;27H \u001b[1;39r\u001b[H\u001b[19;28H"
+    ],
+    [
+      0.000007,
+      "\u001b[1;19r\u001b[H\u001b[19;28H \u001b[1;39r\u001b[H\u001b[19;29H"
+    ],
+    [
+      0.000034,
+      "\u001b[1;19r\u001b[H\u001b[19;29H \u001b[1;39r\u001b[H\u001b[19;30H"
+    ],
+    [
+      0.000022,
+      "\u001b[1;19r\u001b[H\u001b[19;30H \u001b[1;39r\u001b[H\u001b[19;31H"
+    ],
+    [
+      0.000048,
+      "\u001b[1;19r\u001b[H\u001b[19;31H \u001b[1;39r\u001b[H\u001b[19;32H"
+    ],
+    [
+      0.000007,
+      "\u001b[1;19r\u001b[H\u001b[19;32H \u001b[1;39r\u001b[H\u001b[19;33H\u001b[1;19r\u001b[H\u001b[19;33H "
+    ],
+    [
+      0.000013,
+      "\u001b[1;39r\u001b[H\u001b[19;34H"
+    ],
+    [
+      0.000117,
+      "\u001b[1;19r\u001b[H\u001b[19;34H \u001b[1;39r\u001b[H\u001b[19;35H\u001b[1;19r\u001b[H\u001b[19;35H \u001b[1;39r\u001b[H\u001b[19;36H\u001b[1;19r\u001b[H\u001b[19;36H \u001b[1;39r\u001b[H\u001b[19;37H\u001b[1;19r\u001b[H\u001b[19;37H \u001b[1;39r\u001b[H\u001b[19;38H"
+    ],
+    [
+      0.000007,
+      "\u001b[1;19r\u001b[H\u001b[19;38H \u001b[1;39r\u001b[H\u001b[19;39H"
+    ],
+    [
+      0.000038,
+      "\u001b[1;19r\u001b[H\u001b[19;39H \u001b[1;39r\u001b[H\u001b[19;40H"
+    ],
+    [
+      0.000007,
+      "\u001b[1;19r\u001b[H\u001b[19;40H \u001b[1;39r\u001b[H\u001b[19;41H"
+    ],
+    [
+      0.000043,
+      "\u001b[1;19r\u001b[H\u001b[19;41H \u001b[1;39r\u001b[H\u001b[19;42H\u001b[1;19r\u001b[H\u001b[19;42H "
+    ],
+    [
+      0.000026,
+      "\u001b[1;39r\u001b[H\u001b[19;43H"
+    ],
+    [
+      0.000061,
+      "\u001b[1;19r\u001b[H\u001b[19;43H \u001b[1;39r\u001b[H\u001b[19;44H\u001b[1;19r\u001b[H\u001b[19;44H "
+    ],
+    [
+      0.000020,
+      "\u001b[1;39r\u001b[H\u001b[19;45H"
+    ],
+    [
+      0.000069,
+      "\u001b[1;19r\u001b[H\u001b[19;45H \u001b[1;39r\u001b[H\u001b[19;46H\u001b[1;19r\u001b[H\u001b[19;46H "
+    ],
+    [
+      0.000007,
+      "\u001b[1;39r\u001b[H\u001b[19;47H"
+    ],
+    [
+      0.000053,
+      "\u001b[1;19r\u001b[H\u001b[19;47H \u001b[1;39r\u001b[H\u001b[19;48H\u001b[1;19r\u001b[H\u001b[19;48H \u001b[1;39r\u001b[H\u001b[19;49H"
+    ],
+    [
+      0.000042,
+      "\u001b[1;19r\u001b[H\u001b[19;49H \u001b[1;39r\u001b[H\u001b[19;50H\u001b[1;19r\u001b[H\u001b[19;50H "
+    ],
+    [
+      0.000014,
+      "\u001b[1;39r\u001b[H\u001b[19;51H"
+    ],
+    [
+      0.000052,
+      "\u001b[1;19r\u001b[H\u001b[19;51H \u001b[1;39r\u001b[H\u001b[19;52H\u001b[1;19r\u001b[H\u001b[19;52H \u001b[1;39r\u001b[H\u001b[19;53H"
+    ],
+    [
+      0.000029,
+      "\u001b[1;19r\u001b[H\u001b[19;53H \u001b[1;39r\u001b[H\u001b[19;54H"
+    ],
+    [
+      0.000030,
+      "\u001b[1;19r\u001b[H\u001b[19;54H \u001b[1;39r\u001b[H\u001b[19;55H"
+    ],
+    [
+      0.000049,
+      "\u001b[1;19r\u001b[H\u001b[19;55H \u001b[1;39r\u001b[H\u001b[19;56H"
+    ],
+    [
+      0.000006,
+      "\u001b[1;19r\u001b[H\u001b[19;56H \u001b[1;39r\u001b[H\u001b[19;57H"
+    ],
+    [
+      0.000036,
+      "\u001b[1;19r\u001b[H\u001b[19;57H \u001b[1;39r\u001b[H\u001b[19;58H"
+    ],
+    [
+      0.000021,
+      "\u001b[1;19r\u001b[H\u001b[19;58H \u001b[1;39r\u001b[H\u001b[19;59H"
+    ],
+    [
+      0.000049,
+      "\u001b[1;19r\u001b[H\u001b[19;59H \u001b[1;39r\u001b[H\u001b[19;60H"
+    ],
+    [
+      0.000007,
+      "\u001b[1;19r\u001b[H\u001b[19;60H \u001b[1;39r\u001b[H\u001b[19;61H"
+    ],
+    [
+      0.000026,
+      "\u001b[1;19r\u001b[H\u001b[19;61H \u001b[1;39r\u001b[H\u001b[19;62H"
+    ],
+    [
+      0.000093,
+      "\u001b[1;19r\u001b[H\u001b[19;62H \u001b[1;39r\u001b[H\u001b[19;63H\u001b[1;19r\u001b[H\u001b[19;63H \u001b[1;39r\u001b[H\u001b[19;64H\u001b[1;19r\u001b[H\u001b[19;64H \u001b[1;39r\u001b[H\u001b[19;65H"
+    ],
+    [
+      0.000006,
+      "\u001b[1;19r\u001b[H\u001b[19;65H \u001b[1;39r\u001b[H\u001b[19;66H"
+    ],
+    [
+      0.000113,
+      "\u001b[1;19r\u001b[H\u001b[19;66H \u001b[1;39r\u001b[H\u001b[19;67H\u001b[1;19r\u001b[H\u001b[19;67H \u001b[1;39r\u001b[H\u001b[19;68H\u001b[1;19r\u001b[H\u001b[19;68H \u001b[1;39r\u001b[H\u001b[19;69H\u001b[1;19r\u001b[H\u001b[19;69H \u001b[1;39r\u001b[H\u001b[19;70H"
+    ],
+    [
+      0.000142,
+      "\u001b[1;19r\u001b[H\u001b[19;70H \u001b[1;39r\u001b[H\u001b[19;71H\u001b[1;19r\u001b[H\u001b[19;71H \u001b[1;39r\u001b[H\u001b[19;72H\u001b[1;19r\u001b[H\u001b[19;72H \u001b[1;39r\u001b[H\u001b[19;73H\u001b[1;19r\u001b[H\u001b[19;73H \u001b[1;39r\u001b[H\u001b[19;74H\u001b[1;19r\u001b[H\u001b[19;74H \u001b[1;39r\u001b[H\u001b[19;75H"
+    ],
+    [
+      0.000006,
+      "\u001b[1;19r\u001b[H\u001b[19;75H \u001b[1;39r\u001b[H\u001b[19;76H"
+    ],
+    [
+      0.000027,
+      "\u001b[1;19r\u001b[H\u001b[19;76H \u001b[1;39r\u001b[H\u001b[19;77H"
+    ],
+    [
+      0.000038,
+      "\u001b[1;19r\u001b[H\u001b[19;77H \u001b[1;39r\u001b[H\u001b[19;78H\u001b[1;19r\u001b[H\u001b[19;78H "
+    ],
+    [
+      0.000020,
+      "\u001b[1;39r\u001b[H\u001b[19;79H"
+    ],
+    [
+      0.000033,
+      "\u001b[1;19r\u001b[H\u001b[19;79H \u001b[1;39r\u001b[H\u001b[19;80H"
+    ],
+    [
+      0.000015,
+      "\u001b[1;19r\u001b[H\u001b[19;80H \u001b[1;39r\u001b[H\u001b[19;81H"
+    ],
+    [
+      0.000038,
+      "\u001b[1;19r\u001b[H\u001b[19;81H \u001b[1;39r\u001b[H\u001b[19;82H"
+    ],
+    [
+      0.000029,
+      "\u001b[1;19r\u001b[H\u001b[19;82H \u001b[1;39r\u001b[H\u001b[19;83H\u001b[1;19r\u001b[H\u001b[19;83H "
+    ],
+    [
+      0.000041,
+      "\u001b[1;39r\u001b[H\u001b[19;84H\u001b[1;19r\u001b[H\u001b[19;84H "
+    ],
+    [
+      0.000037,
+      "\u001b[1;39r\u001b[H\u001b[19;85H\u001b[1;19r\u001b[H\u001b[19;85H "
+    ],
+    [
+      0.000010,
+      "\u001b[1;39r\u001b[H\u001b[19;86H"
+    ],
+    [
+      0.000058,
+      "\u001b[1;19r\u001b[H\u001b[19;86H \u001b[1;39r\u001b[H\u001b[19;87H"
+    ],
+    [
+      0.000007,
+      "\u001b[1;19r\u001b[H\u001b[19;87H \u001b[1;39r\u001b[H\u001b[19;88H"
+    ],
+    [
+      0.000020,
+      "\u001b[1;19r\u001b[H\u001b[19;88H \u001b[1;39r\u001b[H\u001b[19;89H"
+    ],
+    [
+      0.000045,
+      "\u001b[1;19r\u001b[H\u001b[19;89H \u001b[1;39r\u001b[H\u001b[19;90H\u001b[1;19r\u001b[H\u001b[19;90H "
+    ],
+    [
+      0.000039,
+      "\u001b[1;39r\u001b[H\u001b[19;91H\u001b[1;19r\u001b[H\u001b[19;91H "
+    ],
+    [
+      0.000029,
+      "\u001b[1;39r\u001b[H\u001b[19;92H"
+    ],
+    [
+      0.000033,
+      "\u001b[1;19r\u001b[H\u001b[19;92H \u001b[1;39r\u001b[H\u001b[19;93H\u001b[1;19r\u001b[H\u001b[19;93H "
+    ],
+    [
+      0.000042,
+      "\u001b[1;39r\u001b[H\u001b[19;94H\u001b[1;19r\u001b[H\u001b[19;94H \u001b[1;39r\u001b[H\u001b[19;95H"
+    ],
+    [
+      0.000044,
+      "\u001b[1;19r\u001b[H\u001b[19;95H \u001b[1;39r\u001b[H\u001b[19;96H\u001b[1;19r\u001b[H\u001b[19;96H "
+    ],
+    [
+      0.000023,
+      "\u001b[1;39r\u001b[H\u001b[19;97H\u001b[1;19r\u001b[H\u001b[19;97H "
+    ],
+    [
+      0.000041,
+      "\u001b[1;39r\u001b[H\u001b[19;98H"
+    ],
+    [
+      0.000007,
+      "\u001b[1;19r\u001b[H\u001b[19;98H \u001b[1;39r\u001b[H\u001b[19;99H"
+    ],
+    [
+      0.000040,
+      "\u001b[1;19r\u001b[H\u001b[19;99H \u001b[1;39r\u001b[H\u001b[19;100H\u001b[1;19r\u001b[H\u001b[19;100H "
+    ],
+    [
+      0.000013,
+      "\u001b[1;39r\u001b[H\u001b[19;101H"
+    ],
+    [
+      0.000060,
+      "\u001b[1;19r\u001b[H\u001b[19;101H \u001b[1;39r\u001b[H\u001b[19;102H\u001b[1;19r\u001b[H\u001b[19;102H \u001b[1;39r\u001b[H\u001b[19;103H"
+    ],
+    [
+      0.000029,
+      "\u001b[1;19r\u001b[H\u001b[19;103H \u001b[1;39r\u001b[H\u001b[19;104H"
+    ],
+    [
+      0.000061,
+      "\u001b[1;19r\u001b[H\u001b[19;104H \u001b[1;39r\u001b[H\u001b[19;105H\u001b[1;19r\u001b[H\u001b[19;105H "
+    ],
+    [
+      0.000007,
+      "\u001b[1;39r\u001b[H\u001b[19;106H"
+    ],
+    [
+      0.000021,
+      "\u001b[1;19r\u001b[H\u001b[19;106H \u001b[1;39r\u001b[H\u001b[19;107H\u001b[1;19r\u001b[H\u001b[19;107H "
+    ],
+    [
+      0.000015,
+      "\u001b[1;39r\u001b[H\u001b[19;108H"
+    ],
+    [
+      0.000062,
+      "\u001b[1;19r\u001b[H\u001b[19;108H \u001b[1;39r\u001b[H\u001b[19;109H\u001b[1;19r\u001b[H\u001b[19;109H \u001b[1;39r\u001b[H\u001b[19;110H"
+    ],
+    [
+      0.000038,
+      "\u001b[1;19r\u001b[H\u001b[19;110H \u001b[1;39r\u001b[H\u001b[19;111H\u001b[1;19r\u001b[H\u001b[19;111H "
+    ],
+    [
+      0.000007,
+      "\u001b[1;39r\u001b[H\u001b[19;112H"
+    ],
+    [
+      0.000028,
+      "\u001b[1;19r\u001b[H\u001b[19;112H \u001b[1;39r\u001b[H\u001b[19;113H"
+    ],
+    [
+      0.000038,
+      "\u001b[1;19r\u001b[H\u001b[19;113H \u001b[1;39r\u001b[H\u001b[19;114H"
+    ],
+    [
+      0.000023,
+      "\u001b[1;19r\u001b[H\u001b[19;114H \u001b[1;39r\u001b[H\u001b[19;115H\u001b[1;19r\u001b[H\u001b[19;115H "
+    ],
+    [
+      0.000030,
+      "\u001b[1;39r\u001b[H\u001b[19;116H"
+    ],
+    [
+      0.000019,
+      "\u001b[1;19r\u001b[H\u001b[19;116H \u001b[1;39r\u001b[H\u001b[19;117H"
+    ],
+    [
+      0.000047,
+      "\u001b[1;19r\u001b[H\u001b[19;117H \u001b[1;39r\u001b[H\u001b[19;118H\u001b[1;19r\u001b[H\u001b[19;118H \u001b[1;39r\u001b[H\u001b[19;119H"
+    ],
+    [
+      0.000045,
+      "\u001b[1;19r\u001b[H\u001b[19;119H \u001b[1;39r\u001b[H\u001b[19;120H\u001b[1;19r\u001b[H\u001b[19;120H "
+    ],
+    [
+      0.000006,
+      "\u001b[1;39r\u001b[H\u001b[19;121H"
+    ],
+    [
+      0.000057,
+      "\u001b[1;19r\u001b[H\u001b[19;121H \u001b[1;39r\u001b[H\u001b[19;122H"
+    ],
+    [
+      0.000041,
+      "\u001b[1;19r\u001b[H\u001b[19;122H \u001b[1;39r\u001b[H\u001b[19;123H"
+    ],
+    [
+      0.000175,
+      "\u001b[1;19r\u001b[H\u001b[19;123H \u001b[1;39r\u001b[H\u001b[19;124H\u001b[1;19r\u001b[H\u001b[19;124H \u001b[1;39r\u001b[H\u001b[19;125H\u001b[1;19r\u001b[H\u001b[19;125H \u001b[1;39r\u001b[H\u001b[19;126H"
+    ],
+    [
+      0.000120,
+      "\u001b[1;19r\u001b[H\u001b[19;126H \u001b[1;39r\u001b[H\u001b[19;127H\u001b[1;19r\u001b[H\u001b[19;127H \u001b[1;39r\u001b[H\u001b[19;128H"
+    ],
+    [
+      0.000062,
+      "\u001b[1;19r\u001b[H\u001b[19;128H \u001b[1;39r\u001b[H\u001b[19;129H"
+    ],
+    [
+      0.000007,
+      "\u001b[1;19r\u001b[H\u001b[19;129H \u001b[19;1H\u001b[1;39r\u001b[H\u001b[19;129H"
+    ],
+    [
+      0.000081,
+      "\r\u001b[1;19r\u001b[H\u001b[19d \u001b[1;39r\u001b[H\u001b[19;2H"
+    ],
+    [
+      0.000006,
+      "\r"
+    ],
+    [
+      0.020647,
+      "\u001b[1;19r\u001b[H\u001b[19d\u001b[K\u001b[31m\u001b[1m➜ \u001b[32m \u001b[36m~/r/reverse-proxy-rate-limiter \u001b[34mgit:(\u001b[31mmaster\u001b[34m) \u001b(B\u001b[m\u001b[K\u001b[1;39r\u001b[H\u001b[19;48H\u001b[?1h\u001b="
+    ],
+    [
+      0.000203,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000063,
+      "\u001b[1;19r\u001b[H\u001b[19d\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000525,
+      "\u001b[1;19r\u001b[H\u001b[19d\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                                                \u001b[19;1H \u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.025466,
+      "\u001b[1;19r\u001b[H\u001b[19d\u001b[K\u001b[31m\u001b[1m➜ \u001b[32m \u001b[36m~/r/reverse-proxy-rate-limiter \u001b[34mgit:(\u001b[31mmaster\u001b[34m) \u001b(B\u001b[m\u001b[K\u001b[1;39r\u001b[H\u001b[19;48H"
+    ],
+    [
+      0.000008,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.625075,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000028,
+      "\u001b[1;19r\u001b[H\u001b[19d\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000893,
+      "\u001b[1;19r\u001b[H\u001b[19d\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                                                \u001b[19;1H \u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.024433,
+      "\u001b[1;19r\u001b[H\u001b[19d\u001b[K\u001b[31m\u001b[1m➜ \u001b[32m \u001b[36m~/r/reverse-proxy-rate-limiter \u001b[34mgit:(\u001b[31mmaster\u001b[34m) \u001b[1;39r\u001b[H\u001b[19;48H\u001b(B\u001b[m"
+    ],
+    [
+      0.000009,
+      "\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.118388,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000105,
+      "\u001b[1;19r\u001b[H\u001b[19d\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000703,
+      "\u001b[1;19r\u001b[H\u001b[19d\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                                                \u001b[19;1H \u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.023749,
+      "\u001b[1;19r\u001b[H\u001b[19d\u001b[K\u001b[31m\u001b[1m➜ \u001b[32m \u001b[36m~/r/reverse-proxy-rate-limiter \u001b[34mgit:(\u001b[31mmaster\u001b[34m) \u001b[1;39r\u001b[H\u001b[19;48H\u001b(B\u001b[m"
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000025,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.170701,
+      "\u001b[1;19r\u001b[H\u001b[19;48H\u001b[32mcurl\u001b[39m localhost:7000/sleep5secs/\u001b[1;39r\u001b[H\u001b[19;79H"
+    ],
+    [
+      0.767902,
+      "\u001b[1;19r\u001b[H\u001b[19;79H \u001b[1;39r\u001b[H\u001b[19;80H"
+    ],
+    [
+      0.320932,
+      "\u001b[1;19r\u001b[H\u001b[19;80H\u001b[33m\u001b[4m\u0026\u001b[1;39r\u001b[H\u001b[19;81H\u001b(B\u001b[m"
+    ],
+    [
+      1.235776,
+      "\u001b[?1l\u001b\u003e\u001b[1;19r\u001b[H\u001b[19d\n"
+    ],
+    [
+      0.000016,
+      "\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.002145,
+      "\u001b[?25l\u001b[39d\u001b[30m\u001b[42m[0] 0:curl*                                                                              \"Daniels-MacBook-Air-2.\" 23:12 12-Már-15\u001b(B\u001b[m\u001b[19;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000460,
+      "\u001b[1;19r\u001b[H\u001b[19d[1] 22583\r\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000258,
+      "\u001b[1;19r\u001b[H\u001b[19d\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                                                \u001b[19;1H \u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000810,
+      "\u001b[?25l\u001b[39d\u001b[30m\u001b[42m[0] 0:..-rate-limiter*                                                                   \"Daniels-MacBook-Air-2.\" 23:12 12-Már-15\u001b(B\u001b[m\u001b[19;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.005625,
+      "\u001b[31;38r\u001b[H\u001b[38d2015-03-12 23:12:38.145 Daniels-MacBook-Air-2.local [default] DEBUG undefined GET /sleep5secs/ 1\r\n\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.022503,
+      "\u001b[1;19r\u001b[H\u001b[19d\u001b[K\u001b[31m\u001b[1m➜ \u001b[32m \u001b[36m~/r/reverse-proxy-rate-limiter \u001b[34mgit:(\u001b[31mmaster\u001b[34m) \u001b(B\u001b[m\u001b[K\u001b[1;39r\u001b[H\u001b[19;48H"
+    ],
+    [
+      0.000009,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.427361,
+      "\u001b[1;19r\u001b[H\u001b[19;48H\u001b[32mcurl\u001b[39m localhost:7000/sleep5secs/ \u001b[33m\u001b[4m\u0026\u001b[1;39r\u001b[H\u001b[19;81H\u001b(B\u001b[m"
+    ],
+    [
+      0.220815,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000179,
+      "\u001b[1;19r\u001b[H\u001b[19d\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.001605,
+      "\u001b[?25l\u001b[39d\u001b[30m\u001b[42m[0] 0:curl*                                                                              \"Daniels-MacBook-Air-2.\" 23:12 12-Már-15\u001b(B\u001b[m\u001b[19;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000543,
+      "\u001b[1;19r\u001b[H\u001b[19d[2] 22592\r\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000345,
+      "\u001b[1;19r\u001b[H\u001b[19d\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                                                \u001b[19;1H \u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.001027,
+      "\u001b[?25l\u001b[39d\u001b[30m\u001b[42m[0] 0:..-rate-limiter*                                                                   \"Daniels-MacBook-Air-2.\" 23:12 12-Már-15\u001b(B\u001b[m\u001b[19;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.006143,
+      "\u001b[31;38r\u001b[H\u001b[38d2015-03-12 23:12:38.825 Daniels-MacBook-Air-2.local [default] DEBUG undefined GET /sleep5secs/ 2\r\n\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.017999,
+      "\u001b[1;19r\u001b[H\u001b[19d\u001b[K\u001b[31m\u001b[1m➜ \u001b[32m \u001b[36m~/r/reverse-proxy-rate-limiter \u001b[34mgit:(\u001b[31mmaster\u001b[34m) \u001b[1;39r\u001b[H\u001b[19;48H\u001b(B\u001b[m"
+    ],
+    [
+      0.000009,
+      "\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.111594,
+      "\u001b[1;19r\u001b[H\u001b[19;48H\u001b[32mcurl\u001b[39m localhost:7000/sleep5secs/ \u001b[33m\u001b[4m\u0026\u001b[1;39r\u001b[H\u001b[19;81H\u001b(B\u001b[m"
+    ],
+    [
+      0.108421,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000153,
+      "\u001b[1;19r\u001b[H\u001b[19d\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.001810,
+      "\u001b[?25l\u001b[39d\u001b[30m\u001b[42m[0] 0:curl*                                                                              \"Daniels-MacBook-Air-2.\" 23:12 12-Már-15\u001b(B\u001b[m\u001b[19;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000554,
+      "\u001b[1;19r\u001b[H\u001b[19d[3] 22601\r\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000438,
+      "\u001b[1;19r\u001b[H\u001b[19d\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                                                \u001b[19;1H \u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.001077,
+      "\u001b[?25l\u001b[39d\u001b[30m\u001b[42m[0] 0:..-rate-limiter*                                                                   \"Daniels-MacBook-Air-2.\" 23:12 12-Már-15\u001b(B\u001b[m\u001b[19;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.007746,
+      "\u001b[31;38r\u001b[H\u001b[38d2015-03-12 23:12:39.075 Daniels-MacBook-Air-2.local [default] INFO Rejected by global limit: 2\r\n\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.001174,
+      "\u001b[1;19r\u001b[H\u001b[19dRequest has been rejected by the rate limiter\u001b[1;39r\u001b[H\u001b[19;46H"
+    ],
+    [
+      0.019647,
+      "\u001b[1;19r\u001b[H\u001b[19;46H[3]  + 22601 done       curl localhost:7000/sleep5secs/\r\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000351,
+      "\u001b[1;19r\u001b[H\u001b[19d\u001b[K\u001b[31m\u001b[1m➜ \u001b[32m \u001b[36m~/r/reverse-proxy-rate-limiter \u001b[34mgit:(\u001b[31mmaster\u001b[34m) \u001b(B\u001b[m\u001b[K\u001b[1;39r\u001b[H\u001b[19;48H"
+    ],
+    [
+      0.000007,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.098840,
+      "\u001b[1;19r\u001b[H\u001b[19;48H\u001b[32mcurl\u001b[39m localhost:7000/sleep5secs/ \u001b[33m\u001b[4m\u0026\u001b[1;39r\u001b[H\u001b[19;81H\u001b(B\u001b[m"
+    ],
+    [
+      0.100217,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000107,
+      "\u001b[1;19r\u001b[H\u001b[19d\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.001603,
+      "\u001b[?25l\u001b[39d\u001b[30m\u001b[42m[0] 0:curl*                                                                              \"Daniels-MacBook-Air-2.\" 23:12 12-Már-15\u001b(B\u001b[m\u001b[19;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000491,
+      "\u001b[1;19r\u001b[H\u001b[19d[3] 22610\r\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000385,
+      "\u001b[1;19r\u001b[H\u001b[19d\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                                                \u001b[19;1H \u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000410,
+      "\u001b[?25l\u001b[39d\u001b[30m\u001b[42m[0] 0:..-rate-limiter*                                                                   \"Daniels-MacBook-Air-2.\" 23:12 12-Már-15\u001b(B\u001b[m\u001b[19;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.006111,
+      "\u001b[31;38r\u001b[H\u001b[38d2015-03-12 23:12:39.304 Daniels-MacBook-Air-2.local [default] INFO Rejected by global limit: 2\r\n\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000724,
+      "\u001b[1;19r\u001b[H\u001b[19dRequest has been rejected by the rate limiter\u001b[1;39r\u001b[H\u001b[19;46H"
+    ],
+    [
+      0.017170,
+      "\u001b[1;19r\u001b[H\u001b[19;46H[3]  + 22610 done       curl localhost:7000/sleep5secs/\r\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000305,
+      "\u001b[1;19r\u001b[H\u001b[19d\u001b[K\u001b[31m\u001b[1m➜ \u001b[32m \u001b[36m~/r/reverse-proxy-rate-limiter \u001b[34mgit:(\u001b[31mmaster\u001b[34m) \u001b[1;39r\u001b[H\u001b[19;48H\u001b(B\u001b[m"
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000020,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.112192,
+      "\u001b[1;19r\u001b[H\u001b[19;48H\u001b[32mcurl\u001b[39m localhost:7000/sleep5secs/ \u001b[33m\u001b[4m\u0026\u001b[1;39r\u001b[H\u001b[19;81H\u001b(B\u001b[m"
+    ],
+    [
+      0.092485,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000127,
+      "\u001b[1;19r\u001b[H\u001b[19d\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.001616,
+      "\u001b[?25l\u001b[39d\u001b[30m\u001b[42m[0] 0:curl*                                                                              \"Daniels-MacBook-Air-2.\" 23:12 12-Már-15\u001b(B\u001b[m\u001b[19;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000538,
+      "\u001b[1;19r\u001b[H\u001b[19d[3] 22619\r\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000402,
+      "\u001b[1;19r\u001b[H\u001b[19d\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                                                \u001b[19;1H \u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.001013,
+      "\u001b[?25l\u001b[39d\u001b[30m\u001b[42m[0] 0:..-rate-limiter*                                                                   \"Daniels-MacBook-Air-2.\" 23:12 12-Már-15\u001b(B\u001b[m\u001b[19;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.006824,
+      "\u001b[31;38r\u001b[H\u001b[38d2015-03-12 23:12:39.538 Daniels-MacBook-Air-2.local [default] INFO Rejected by global limit: 2\r\n\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000858,
+      "\u001b[1;19r\u001b[H\u001b[19dRequest has been rejected by the rate limiter\u001b[1;39r\u001b[H\u001b[19;46H"
+    ],
+    [
+      0.017300,
+      "\u001b[1;19r\u001b[H\u001b[19;46H[3]  + 22619 done       curl localhost:7000/sleep5secs/\r\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000299,
+      "\u001b[1;19r\u001b[H\u001b[19d\u001b[K\u001b[31m\u001b[1m➜ \u001b[32m \u001b[36m~/r/reverse-proxy-rate-limiter \u001b[34mgit:(\u001b[31mmaster\u001b[34m) \u001b(B\u001b[m\u001b[K\u001b[1;39r\u001b[H\u001b[19;48H"
+    ],
+    [
+      0.000006,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.093510,
+      "\u001b[1;19r\u001b[H\u001b[19;48H\u001b[32mcurl\u001b[39m localhost:7000/sleep5secs/ \u001b[33m\u001b[4m\u0026\u001b[1;39r\u001b[H\u001b[19;81H\u001b(B\u001b[m"
+    ],
+    [
+      0.085759,
+      "\u001b[?1l\u001b\u003e\u001b[1;19r\u001b[H\u001b[19d\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.001724,
+      "\u001b[?25l\u001b[39d\u001b[30m\u001b[42m[0] 0:curl*                                                                              \"Daniels-MacBook-Air-2.\" 23:12 12-Már-15\u001b(B\u001b[m\u001b[19;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000494,
+      "\u001b[1;19r\u001b[H\u001b[19d[3] 22628\r\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000366,
+      "\u001b[1;19r\u001b[H\u001b[19d\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                                                \u001b[19;1H \u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000747,
+      "\u001b[?25l\u001b[39d\u001b[30m\u001b[42m[0] 0:..-rate-limiter*                                                                   \"Daniels-MacBook-Air-2.\" 23:12 12-Már-15\u001b(B\u001b[m\u001b[19;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.007005,
+      "\u001b[31;38r\u001b[H\u001b[38d2015-03-12 23:12:39.746 Daniels-MacBook-Air-2.local [default] INFO Rejected by global limit: 2\r\n\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000585,
+      "\u001b[1;19r\u001b[H\u001b[19dRequest has been rejected by the rate limiter\u001b[1;39r\u001b[H\u001b[19;46H"
+    ],
+    [
+      0.018104,
+      "\u001b[1;19r\u001b[H\u001b[19;46H[3]  + 22628 done       curl localhost:7000/sleep5secs/\r\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000292,
+      "\u001b[1;19r\u001b[H\u001b[19d\u001b[K\u001b[31m\u001b[1m➜ \u001b[32m \u001b[36m~/r/reverse-proxy-rate-limiter \u001b[34mgit:(\u001b[31mmaster\u001b[34m) \u001b(B\u001b[m\u001b[K\u001b[1;39r\u001b[H\u001b[19;48H"
+    ],
+    [
+      0.000007,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.102171,
+      "\u001b[1;19r\u001b[H\u001b[19;48H\u001b[32mcurl\u001b[39m localhost:7000/sleep5secs/ \u001b[33m\u001b[4m\u0026\u001b[1;39r\u001b[H\u001b[19;81H\u001b(B\u001b[m"
+    ],
+    [
+      0.084219,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000120,
+      "\u001b[1;19r\u001b[H\u001b[19d\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.001633,
+      "\u001b[?25l\u001b[39d\u001b[30m\u001b[42m[0] 0:curl*                                                                              \"Daniels-MacBook-Air-2.\" 23:12 12-Már-15\u001b(B\u001b[m\u001b[19;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000506,
+      "\u001b[1;19r\u001b[H\u001b[19d[3] 22637\r\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000576,
+      "\u001b[1;19r\u001b[H\u001b[19d\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                                                \u001b[19;1H \u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000628,
+      "\u001b[?25l\u001b[39d\u001b[30m\u001b[42m[0] 0:..-rate-limiter*                                                                   \"Daniels-MacBook-Air-2.\" 23:12 12-Már-15\u001b(B\u001b[m\u001b[19;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.006403,
+      "\u001b[31;38r\u001b[H\u001b[38d2015-03-12 23:12:39.961 Daniels-MacBook-Air-2.local [default] INFO Rejected by global limit: 2\r\n\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000416,
+      "\u001b[1;19r\u001b[H\u001b[19dRequest has been rejected by the rate limiter\u001b[1;39r\u001b[H\u001b[19;46H"
+    ],
+    [
+      0.017601,
+      "\u001b[1;19r\u001b[H\u001b[19;46H[3]  + 22637 done       curl localhost:7000/sleep5secs/\r\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000357,
+      "\u001b[1;19r\u001b[H\u001b[19d\u001b[K\u001b[31m\u001b[1m➜ \u001b[32m \u001b[36m~/r/reverse-proxy-rate-limiter \u001b[34mgit:(\u001b[31mmaster\u001b[34m) \u001b[1;39r\u001b[H\u001b[19;48H\u001b(B\u001b[m"
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000068,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.723740,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000076,
+      "\u001b[1;19r\u001b[H\u001b[19d\n\u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.000767,
+      "\u001b[1;19r\u001b[H\u001b[19d\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                                                \u001b[19;1H \u001b[1;39r\u001b[H\u001b[18B"
+    ],
+    [
+      0.024084,
+      "\u001b[1;19r\u001b[H\u001b[19d\u001b[K\u001b[31m\u001b[1m➜ \u001b[32m \u001b[36m~/r/reverse-proxy-rate-limiter \u001b[34mgit:(\u001b[31mmaster\u001b[34m) \u001b[1;39r\u001b[H\u001b[19;48H\u001b(B\u001b[m"
+    ]
+  ]
+}
