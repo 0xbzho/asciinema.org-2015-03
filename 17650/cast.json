@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "width": 150,
+  "height": 39,
+  "duration": 31.679893,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.286362,
+      "Warning! PATH is not properly set up, '/home/cesar/.rvm/gems/ruby-2.1.2/bin' is not at first place,\r\n"
+    ],
+    [
+      0.000039,
+      "         usually this is caused by shell initialization files - check them for 'PATH=...' entries,\r\n         it might also help to re-add RVM to your dotfiles: 'rvm get stable --auto-dotfiles',\r\n         to fix temporarily in this shell session run: 'rvm use ruby-2.1.2'.\r\n"
+    ],
+    [
+      0.365155,
+      "\u001b]0;cesar@cesar-work: ~/Downloads\u0007cesar@cesar-work:~/Downloads$ "
+    ],
+    [
+      17.212343,
+      "#"
+    ],
+    [
+      0.283535,
+      " "
+    ],
+    [
+      0.136769,
+      "t"
+    ],
+    [
+      0.070111,
+      "e"
+    ],
+    [
+      0.097639,
+      "s"
+    ],
+    [
+      0.148740,
+      "t"
+    ],
+    [
+      0.605090,
+      "i"
+    ],
+    [
+      0.144154,
+      "n"
+    ],
+    [
+      0.144583,
+      "g"
+    ],
+    [
+      0.214710,
+      "."
+    ],
+    [
+      0.134166,
+      "."
+    ],
+    [
+      0.136706,
+      "."
+    ],
+    [
+      0.272851,
+      "\r\n\u001b]0;cesar@cesar-work: ~/Downloads\u0007cesar@cesar-work:~/Downloads$ "
+    ],
+    [
+      2.673795,
+      "#"
+    ],
+    [
+      0.223345,
+      " "
+    ],
+    [
+      0.620451,
+      "i"
+    ],
+    [
+      0.147525,
+      "t"
+    ],
+    [
+      0.145832,
+      "s"
+    ],
+    [
+      0.264751,
+      " "
+    ],
+    [
+      0.547658,
+      "g"
+    ],
+    [
+      0.275429,
+      "r"
+    ],
+    [
+      0.082620,
+      "e"
+    ],
+    [
+      0.107330,
+      "a"
+    ],
+    [
+      0.141491,
+      "t"
+    ],
+    [
+      1.288594,
+      "\r\n\u001b]0;cesar@cesar-work: ~/Downloads\u0007cesar@cesar-work:~/Downloads$ "
+    ],
+    [
+      4.907824,
+      "exit\r\n"
+    ]
+  ]
+}
