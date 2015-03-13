@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "width": 237,
+  "height": 33,
+  "duration": 11.385136,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      1.714732,
+      "\u001b]0;stanislav@spopov: /var/www/agrosumka/core\u0007stanislav@spopov:/var/www/agrosumka/core$ "
+    ],
+    [
+      5.413301,
+      "h"
+    ],
+    [
+      0.207681,
+      "g"
+    ],
+    [
+      0.096300,
+      " "
+    ],
+    [
+      0.167931,
+      "s"
+    ],
+    [
+      0.128038,
+      "u"
+    ],
+    [
+      0.232028,
+      "m"
+    ],
+    [
+      0.304615,
+      "\r\n"
+    ],
+    [
+      1.009574,
+      "parent: 2465:e8c96192d009 tip\r\n"
+    ],
+    [
+      0.012402,
+      " #8530 - fix admin actions error responses\r\n"
+    ],
+    [
+      0.001336,
+      "branch: default\r\n"
+    ],
+    [
+      0.103066,
+      "commit: 4 unknown (clean)\r\n"
+    ],
+    [
+      0.009221,
+      "update: (current)\r\n"
+    ],
+    [
+      0.010123,
+      "\u001b]0;stanislav@spopov: /var/www/agrosumka/core\u0007stanislav@spopov:/var/www/agrosumka/core$ "
+    ],
+    [
+      1.974501,
+      "exit\r\n"
+    ]
+  ]
+}
