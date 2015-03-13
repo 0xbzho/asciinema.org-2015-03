@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "width": 118,
+  "height": 25,
+  "duration": 7.386155,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.863292,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                     \r \r"
+    ],
+    [
+      0.101964,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;30m┌──\u001b[01;30m(\u001b[01;32m~/personal/hyspike\u001b[01;30m)\u001b[00m\u001b[00m\u001b[34m v\u001b[01;30m(\u001b[34mhyspike\u001b[00m\u001b[01;30m)\u001b[00m\u001b[01;30m────────────────────────────────────────────────────────────────────────────────\u001b[00m\u001b[01;30m(\u001b[01;32m✔\u001b[01;30m)\u001b[00m\u001b[01;30m─\u001b[00m\r\n\u001b[01;30m├──\u001b[01;30m\u001b[01;30m(master)\u001b[00m\u001b[00m\u001b[00m\r\n\u001b[01;30m└──➤\u001b[00m "
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      1.162435,
+      "\u001b[32mc\u001b[39m"
+    ],
+    [
+      0.103122,
+      "\u0008\u001b[1m\u001b[31mc\u001b[1m\u001b[31ma\u001b[0m\u001b[39m"
+    ],
+    [
+      0.144402,
+      "\u0008\u0008\u001b[0m\u001b[32mc\u001b[0m\u001b[32ma\u001b[32mt\u001b[39m"
+    ],
+    [
+      0.112030,
+      " "
+    ],
+    [
+      0.719514,
+      "\u001b[4mt\u001b[24m"
+    ],
+    [
+      0.068746,
+      "\u0008\u001b[4mt\u001b[4me\u001b[24m"
+    ],
+    [
+      0.622455,
+      "\u0008\u001b[4me\u001b[4mst_runner.hy\u001b[24m\u001b[1m \u001b[0m"
+    ],
+    [
+      0.670094,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000014,
+      "\r\r\n"
+    ],
+    [
+      0.003260,
+      "(import sys unittest os glob)\r\n(import [koans [a_asserts b_language]])\r\n\r\n(defn file-to-module [x]\r\n  (setv file-without-filename (x.replace \".hy\" \"\"))\r\n  (file-without-filename.replace \"/\" \".\"))\r\n\r\n(setv modules\r\n  (filter\r\n    (fn [x]\r\n      (not (in \"__init__\" x)))\r\n    (map file-to-module (glob.glob \"koans/*.hy\"))))\r\n\r\n(setv module-args (list-comp (get sys.modules module) [module modules]))\r\n\r\n(setv loader (unittest.TestLoader))\r\n(setv suite (loader.loadTestsFromModule (first module-args)))\r\n\r\n(for [module (rest module-args)]\r\n     (suite.addTests (loader.loadTestsFromModule module)))\r\n\r\n(setv runner (apply unittest.TextTestRunner [] {\"verbosity\" 2 \"failfast\" true}))\r\n(runner.run suite)\r\n"
+    ],
+    [
+      0.000411,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                     \r \r"
+    ],
+    [
+      0.122414,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;30m┌──\u001b[01;30m(\u001b[01;32m~/personal/hyspike\u001b[01;30m)\u001b[00m\u001b[00m\u001b[34m v\u001b[01;30m(\u001b[34mhyspike\u001b[00m\u001b[01;30m)\u001b[00m\u001b[01;30m────────────────────────────────────────────────────────────────────────────────\u001b[00m\u001b[01;30m(\u001b[01;32m✔\u001b[01;30m)\u001b[00m\u001b[01;30m─\u001b[00m\r\n\u001b[01;30m├──\u001b[01;30m\u001b[01;30m(master)\u001b[00m\u001b[00m\u001b[00m\r\n\u001b[01;30m└──➤\u001b[00m \u001b[K"
+    ],
+    [
+      2.170330,
+      "\u001b[4m\u001b[33me\u001b[24m\u001b[39m"
+    ],
+    [
+      0.223982,
+      "\u0008\u001b[24m\u001b[32me\u001b[32mx\u001b[39m"
+    ],
+    [
+      0.102070,
+      "\u0008\u0008\u001b[1m\u001b[31me\u001b[1m\u001b[31mx\u001b[1m\u001b[31mi\u001b[0m\u001b[39m"
+    ],
+    [
+      0.100791,
+      "\u0008\u0008\u0008\u001b[0m\u001b[32me\u001b[0m\u001b[32mx\u001b[0m\u001b[32mi\u001b[32mt\u001b[39m"
+    ],
+    [
+      0.076571,
+      "\r\r\n"
+    ]
+  ]
+}
