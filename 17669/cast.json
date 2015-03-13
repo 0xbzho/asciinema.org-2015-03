@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "width": 100,
+  "height": 27,
+  "duration": 2619.975925,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.062461,
+      "\u001b]0;lab@Creator: ~\u0007lab@Creator:~$ "
+    ],
+    [
+      3.001975,
+      " asciinema rec\r\n"
+    ],
+    [
+      0.008299,
+      "\u001b[32m~ Asciicast recording started.\u001b[0m\r\n\u001b[32m~ Hit Ctrl-D or type \"exit\" to finish.\u001b[0m\r\n"
+    ],
+    [
+      0.067435,
+      "\u001b]0;lab@Creator: ~\u0007lab@Creator:~$ "
+    ],
+    [
+      2606.590837,
+      "exit\r\r\n"
+    ],
+    [
+      0.048922,
+      "\u001b[32m~ Asciicast recording finished.\u001b[0m\r\n"
+    ],
+    [
+      0.104972,
+      "\u001b[32m~ Press \u003cEnter\u003e to upload, \u003cCtrl-C\u003e to cancel.\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      8.891328,
+      "^C"
+    ],
+    [
+      0.002246,
+      "\u001b]0;lab@Creator: ~\u0007lab@Creator:~$ "
+    ],
+    [
+      1.197005,
+      "exit\r\n"
+    ]
+  ]
+}
