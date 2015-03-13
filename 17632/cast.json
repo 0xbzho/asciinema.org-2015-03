@@ -1,0 +1,422 @@
+{
+  "version": 1,
+  "width": 196,
+  "height": 59,
+  "duration": 41.091674,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.012602,
+      "\u001b%8"
+    ],
+    [
+      0.000352,
+      "\r\n"
+    ],
+    [
+      0.002916,
+      "kuko@misc04-11-contenidos:~/asciinema# "
+    ],
+    [
+      2.125614,
+      "c"
+    ],
+    [
+      0.063846,
+      "l"
+    ],
+    [
+      0.424057,
+      "e"
+    ],
+    [
+      0.199977,
+      "a"
+    ],
+    [
+      0.135885,
+      "r"
+    ],
+    [
+      0.328323,
+      "\r\n"
+    ],
+    [
+      0.003995,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.001114,
+      "kuko@misc04-11-contenidos:~/asciinema# "
+    ],
+    [
+      2.490517,
+      "l"
+    ],
+    [
+      0.063644,
+      "s"
+    ],
+    [
+      0.152374,
+      " "
+    ],
+    [
+      0.527691,
+      "/"
+    ],
+    [
+      0.231835,
+      "r"
+    ],
+    [
+      0.272474,
+      "o"
+    ],
+    [
+      0.151486,
+      "o"
+    ],
+    [
+      0.064003,
+      "t"
+    ],
+    [
+      0.240327,
+      "\r\n"
+    ],
+    [
+      0.002108,
+      "\u001b[0m\u001b[01;34maeat\u001b[0m          \u001b[01;34mDesktop\u001b[0m                 index.html    \u001b[01;32mntp-monlist.csv\u001b[0m                           \u001b[01;34mrkhunter-1.4.2\u001b[0m               ultimateguidetosetupdarkcometratwithnoip-131214212030-phpapp02.docx"
+    ],
+    [
+      0.000170,
+      "\r\n"
+    ],
+    [
+      0.000366,
+      "\u001b[01;34mamazon\u001b[0m        \u001b[01;34mDNS\u001b[0m                     index.html.1  \u001b[01;35mntp_reflection.png\u001b[0m                        \u001b[01;31mrkhunter-1.4.2.tar.gz\u001b[0m        \u001b[01;34mwhasspy\u001b[0m"
+    ],
+    [
+      0.000193,
+      "\r\n"
+    ],
+    [
+      0.000354,
+      "\u001b[01;34masciinema\u001b[0m     \u001b[01;34mDownloads\u001b[0m               index.html.2  ou.pl                                     root.keys                    \u001b[01;34mwireshark\u001b[0m"
+    ],
+    [
+      0.000164,
+      "\r\n"
+    ],
+    [
+      0.000353,
+      "\u001b[01;34mbashBug\u001b[0m       \u001b[01;34mFB\u001b[0m                      \u001b[01;32mintelIMQ.sh\u001b[0m   \u001b[01;34moutput\u001b[0m                                    \u001b[01;34mrootkit\u001b[0m                      wp-login.php"
+    ],
+    [
+      0.000161,
+      "\r\n"
+    ],
+    [
+      0.000428,
+      "\u001b[01;32mbashcheck.sh\u001b[0m  FFdetect.py             \u001b[01;34mkey\u001b[0m           \u001b[01;34moutput_Fri_Sep_19_14_31_21_2014\u001b[0m           salida                       wp-pass.php"
+    ],
+    [
+      0.000123,
+      "\r\n"
+    ],
+    [
+      0.000384,
+      "bot.txt       fichero.pcap            listaFF.txt   \u001b[01;31mou.zip\u001b[0m                                    salida_nmap                  \u001b[01;34mxdecode\u001b[0m"
+    ],
+    [
+      0.000159,
+      "\r\n"
+    ],
+    [
+      0.000354,
+      "bot.txt.1     file2                   \u001b[01;32mlista_ntp\u001b[0m     \u001b[01;32mover\u001b[0m                                      sc                           yankring_history_v2.txt"
+    ],
+    [
+      0.000148,
+      "\r\n"
+    ],
+    [
+      0.000345,
+      "\u001b[01;31mbot.zip\u001b[0m       \u001b[01;34mfisa-vim-config-master\u001b[0m  lsmod.txt     over.c                                    \u001b[01;34mscan\u001b[0m                         \u001b[01;34myowsup\u001b[0m"
+    ],
+    [
+      0.000127,
+      "\r\n"
+    ],
+    [
+      0.000346,
+      "\u001b[01;34mCareto\u001b[0m        \u001b[01;32mghost\u001b[0m                   \u001b[01;34mMail\u001b[0m          paste.php                                 sent"
+    ],
+    [
+      0.000129,
+      "\r\n"
+    ],
+    [
+      0.000349,
+      "\u001b[01;34mCartero\u001b[0m       ghostTest.c             mal           \u001b[01;34mPhEmail\u001b[0m                                   shellshock-py"
+    ],
+    [
+      0.000121,
+      "\r\n"
+    ],
+    [
+      0.000271,
+      "\u001b[01;32mchecksec.sh\u001b[0m   \u001b[01;34mhbad\u001b[0m                    \u001b[01;31mmaster.zip\u001b[0m    py.py                                     \u001b[01;31msquid3_3.1.20-2.2_amd64.deb\u001b[0m"
+    ],
+    [
+      0.000352,
+      "\r\n"
+    ],
+    [
+      0.000301,
+      "\u001b[01;34mCyL\u001b[0m           \u001b[01;31mhbad-release.tar.gz\u001b[0m     \u001b[01;34mNotebooks\u001b[0m     rat-a-tat-tat-131212025048-phpapp01.pptx  \u001b[01;32mstartvnc.sh\u001b[0m"
+    ],
+    [
+      0.000395,
+      "\r\n"
+    ],
+    [
+      0.000646,
+      "decode.html   \u001b[01;34mHearbleeder\u001b[0m             \u001b[01;34mNTP\u001b[0m           resultado.txt                             \u001b[01;34mtmp\u001b[0m"
+    ],
+    [
+      0.000126,
+      "\r\n"
+    ],
+    [
+      0.000669,
+      "kuko@misc04-11-contenidos:~/asciinema# "
+    ],
+    [
+      3.429790,
+      "!"
+    ],
+    [
+      0.327934,
+      "f"
+    ],
+    [
+      0.103905,
+      "o"
+    ],
+    [
+      0.632626,
+      "\r\nfor in in {1..20}; do echo WooW;done\r\nWooW\r\nWooW\r\nWooW\r\nWooW\r\nWooW\r\nWooW\r\nWooW\r\nWooW\r\nWooW\r\nWooW\r\nWooW\r\nWooW\r\nWooW\r\nWooW\r\nWooW\r\nWooW\r\nWooW\r\nWooW\r\nWooW\r\nWooW\r\n"
+    ],
+    [
+      0.000018,
+      "kuko@misc04-11-contenidos:~/asciinema# "
+    ],
+    [
+      4.463197,
+      "T"
+    ],
+    [
+      0.223951,
+      "h"
+    ],
+    [
+      0.087989,
+      "i"
+    ],
+    [
+      0.079885,
+      "s"
+    ],
+    [
+      0.192165,
+      " "
+    ],
+    [
+      0.527929,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.152042,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.160381,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.135590,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.079980,
+      "\u0008\u001b[K"
+    ],
+    [
+      1.064152,
+      "#"
+    ],
+    [
+      0.335709,
+      " "
+    ],
+    [
+      1.375844,
+      "T"
+    ],
+    [
+      0.183934,
+      "h"
+    ],
+    [
+      0.056005,
+      "i"
+    ],
+    [
+      0.160129,
+      "s"
+    ],
+    [
+      0.503981,
+      " "
+    ],
+    [
+      0.255875,
+      "i"
+    ],
+    [
+      0.288058,
+      "s"
+    ],
+    [
+      0.168350,
+      " "
+    ],
+    [
+      0.607592,
+      "t"
+    ],
+    [
+      0.095850,
+      "h"
+    ],
+    [
+      0.320116,
+      "e"
+    ],
+    [
+      0.287938,
+      " "
+    ],
+    [
+      0.680001,
+      "b"
+    ],
+    [
+      0.095806,
+      "e"
+    ],
+    [
+      0.408213,
+      "s"
+    ],
+    [
+      0.240684,
+      "t"
+    ],
+    [
+      0.215363,
+      " "
+    ],
+    [
+      1.480194,
+      "e"
+    ],
+    [
+      0.239484,
+      "v"
+    ],
+    [
+      0.088389,
+      "e"
+    ],
+    [
+      0.679644,
+      "r"
+    ],
+    [
+      0.144302,
+      " "
+    ],
+    [
+      0.239659,
+      "s"
+    ],
+    [
+      0.207981,
+      "e"
+    ],
+    [
+      0.311949,
+      "e"
+    ],
+    [
+      0.232402,
+      "n"
+    ],
+    [
+      0.463587,
+      " "
+    ],
+    [
+      0.567942,
+      "s"
+    ],
+    [
+      0.352040,
+      "h"
+    ],
+    [
+      0.047813,
+      "i"
+    ],
+    [
+      0.288149,
+      "t"
+    ],
+    [
+      2.015882,
+      " "
+    ],
+    [
+      0.327959,
+      "!"
+    ],
+    [
+      0.143987,
+      "!"
+    ],
+    [
+      0.144041,
+      "!"
+    ],
+    [
+      0.648087,
+      "\r\nkuko@misc04-11-contenidos:~/asciinema# "
+    ],
+    [
+      0.176059,
+      "\r\nkuko@misc04-11-contenidos:~/asciinema# "
+    ],
+    [
+      6.848397,
+      "exit\r\n"
+    ]
+  ]
+}
