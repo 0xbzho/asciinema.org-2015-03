@@ -1,0 +1,2410 @@
+{
+  "version": 1,
+  "width": 100,
+  "height": 27,
+  "duration": 199.135059,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.630137,
+      "\u001b]0;lab@Creator: ~\u0007lab@Creator:~$ "
+    ],
+    [
+      3.284530,
+      "s"
+    ],
+    [
+      0.159568,
+      "u"
+    ],
+    [
+      0.096019,
+      "d"
+    ],
+    [
+      0.120789,
+      "o"
+    ],
+    [
+      0.485952,
+      " "
+    ],
+    [
+      0.200934,
+      "a"
+    ],
+    [
+      0.161177,
+      "p"
+    ],
+    [
+      0.263229,
+      "t"
+    ],
+    [
+      0.335056,
+      "-"
+    ],
+    [
+      0.289052,
+      "g"
+    ],
+    [
+      0.158473,
+      "e"
+    ],
+    [
+      0.144886,
+      "t"
+    ],
+    [
+      0.480837,
+      " "
+    ],
+    [
+      0.327909,
+      "u"
+    ],
+    [
+      0.175607,
+      "p"
+    ],
+    [
+      0.253807,
+      "d"
+    ],
+    [
+      0.082425,
+      "a"
+    ],
+    [
+      1.423416,
+      "t"
+    ],
+    [
+      0.096515,
+      "e"
+    ],
+    [
+      0.438415,
+      "\r\n"
+    ],
+    [
+      0.231601,
+      "[sudo] password for lab: "
+    ],
+    [
+      3.798091,
+      "\r\n"
+    ],
+    [
+      0.467483,
+      "\r\r0% [Working]"
+    ],
+    [
+      0.500660,
+      "\r            \r0% [Connecting to id.archive.ubuntu.com] [Connecting to security.ubuntu.com] [C"
+    ],
+    [
+      0.500607,
+      "\r0% [Connecting to id.archive.ubuntu.com] [Connecting to security.ubuntu.com (91"
+    ],
+    [
+      0.481267,
+      "\r                                                                               \rIgn http://security.ubuntu.com trusty-security InRelease\r\n\r7% [Connecting to id.archive.ubuntu.com] [Connecting to extras.ubuntu.com] [Con"
+    ],
+    [
+      0.374512,
+      "\r                                                                               \rGet:1 http://security.ubuntu.com trusty-security Release.gpg [933 B]\r\n\r99% [Connecting to id.archive.ubuntu.com] [1 Release.gpg 933 B/933 B 100%] [Con"
+    ],
+    [
+      0.101503,
+      "\r99% [Connecting to id.archive.ubuntu.com] [Connecting to extras.ubuntu.com] [Co"
+    ],
+    [
+      0.414120,
+      "\r                                                                               \rGet:2 http://security.ubuntu.com trusty-security Release [62,0 kB]\r\n\r3% [Connecting to id.archive.ubuntu.com] [2 Release 1.131 B/62,0 kB 2%] [Connec"
+    ],
+    [
+      0.500690,
+      "\r15% [Connecting to id.archive.ubuntu.com] [2 Release 8.331 B/62,0 kB 13%] [Conn"
+    ],
+    [
+      0.500721,
+      "\r40% [Connecting to id.archive.ubuntu.com] [2 Release 24,2 kB/62,0 kB 39%] [Conn"
+    ],
+    [
+      0.500668,
+      "\r47% [Connecting to id.archive.ubuntu.com] [2 Release 28,5 kB/62,0 kB 46%] [Conn"
+    ],
+    [
+      0.500552,
+      "\r54% [Connecting to id.archive.ubuntu.com] [2 Release 32,8 kB/62,0 kB 53%] [Conn"
+    ],
+    [
+      0.276189,
+      "\r100% [Connecting to id.archive.ubuntu.com] [Connecting to extras.ubuntu.com] [C"
+    ],
+    [
+      0.000626,
+      "\r100% [2 Release gpgv 62,0 kB] [Connecting to id.archive.ubuntu.com] [Connecting"
+    ],
+    [
+      0.105586,
+      "\r100% [Connecting to id.archive.ubuntu.com] [Connecting to extras.ubuntu.com] [C"
+    ],
+    [
+      0.500348,
+      "\r100% [Connecting to id.archive.ubuntu.com (91.189.91.15)] [Waiting for headers]"
+    ],
+    [
+      0.500191,
+      "\r100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Connect"
+    ],
+    [
+      0.146701,
+      "\r                                                                               \rIgn http://id.archive.ubuntu.com trusty InRelease\r\n\r100% [Waiting for headers] [Waiting for headers] [Connecting to ppa.launchpad.n"
+    ],
+    [
+      0.215721,
+      "\r                                                                               \rIgn http://extras.ubuntu.com trusty InRelease\r\n\r100% [Waiting for headers] [Waiting for headers] [Connecting to ppa.launchpad.n"
+    ],
+    [
+      0.108461,
+      "\r                                                                               \rGet:3 http://security.ubuntu.com trusty-security/main Sources [72,1 kB]\r\n\r47% [Waiting for headers] [3 Sources 1.095 B/72,1 kB 2%] [Waiting for headers] "
+    ],
+    [
+      0.059849,
+      "\r                                                                               \rIgn http://id.archive.ubuntu.com trusty-updates InRelease\r\n\r47% [3 Sources 1.095 B/72,1 kB 2%] [Waiting for headers] [Connecting to ppa.lau"
+    ],
+    [
+      0.270039,
+      "\r                                                                               \rHit http://extras.ubuntu.com trusty Release.gpg\r\n\r47% [Waiting for headers] [3 Sources 1.095 B/72,1 kB 2%] [Connecting to ppa.lau"
+    ],
+    [
+      0.095588,
+      "\r                                                                               \rIgn http://id.archive.ubuntu.com trusty-backports InRelease\r\n\r47% [3 Sources 1.095 B/72,1 kB 2%] [Waiting for headers] [Connecting to ppa.lau"
+    ],
+    [
+      0.304858,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty Release.gpg\r\n\r47% [3 Sources 1.095 B/72,1 kB 2%] [Waiting for headers] [Connecting to ppa.lau"
+    ],
+    [
+      0.025428,
+      "\r                                                                               \rHit http://extras.ubuntu.com trusty Release\r\n\r47% [Waiting for headers] [3 Sources 1.095 B/72,1 kB 2%] [Connecting to ppa.lau"
+    ],
+    [
+      0.003723,
+      "\r47% [Release gpgv 11,9 kB] [Waiting for headers] [3 Sources 1.095 B/72,1 kB 2%]"
+    ],
+    [
+      0.035870,
+      "\r47% [Waiting for headers] [3 Sources 1.095 B/72,1 kB 2%] [Connecting to ppa.lau"
+    ],
+    [
+      0.287996,
+      "\r                                                                               \rGet:4 http://id.archive.ubuntu.com trusty-updates Release.gpg [933 B]\r\n\r53% [4 Release.gpg 933 B/933 B 100%] [3 Sources 8.295 B/72,1 kB 12%] [Waiting f"
+    ],
+    [
+      0.006415,
+      "\r53% [Waiting for headers] [3 Sources 8.295 B/72,1 kB 12%] [Waiting for headers]"
+    ],
+    [
+      0.206927,
+      "\r                                                                               \rHit http://extras.ubuntu.com trusty/main Sources\r\n"
+    ],
+    [
+      0.000018,
+      "\r53% [Waiting for headers] [3 Sources 8.295 B/72,1 kB 12%] [Connecting to ppa.la"
+    ],
+    [
+      0.001386,
+      "\r53% [Sources 0 B] [Waiting for headers] [3 Sources 8.295 B/72,1 kB 12%] [Waitin"
+    ],
+    [
+      0.000553,
+      "\r53% [Waiting for headers] [3 Sources 8.295 B/72,1 kB 12%] [Waiting for headers]"
+    ],
+    [
+      0.137141,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty-backports Release.gpg\r\n\r56% [3 Sources 12,6 kB/72,1 kB 17%] [Waiting for headers] [Connecting to ppa.la"
+    ],
+    [
+      0.277177,
+      "\r                                                                               \rHit http://extras.ubuntu.com trusty/main amd64 Packages\r\n\r56% [Waiting for headers] [3 Sources 12,6 kB/72,1 kB 17%] [Waiting for headers]\r56% [Packages 0 B] [Waiting for headers] [3 Sources 12,6 kB/72,1 kB 17%] [Waiti\r56% [Waiting for headers] [3 Sources 12,6 kB/72,1 kB 17%] [Waiting for headers]"
+    ],
+    [
+      0.070988,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty Release\r\n\r58% [3 Sources 15,5 kB/72,1 kB 21%] [Waiting for headers] [Connecting to ppa.la"
+    ],
+    [
+      0.000740,
+      "\r58% [Release gpgv 58,5 kB] [Waiting for headers] [3 Sources 15,5 kB/72,1 kB 21%"
+    ],
+    [
+      0.024637,
+      "\r58% [Waiting for headers] [3 Sources 15,5 kB/72,1 kB 21%] [Waiting for headers]"
+    ],
+    [
+      0.303468,
+      "\r                                                                               \rGet:5 http://id.archive.ubuntu.com trusty-updates Release [62,0 kB]\r\n\r42% [5 Release 1.149 B/62,0 kB 2%] [3 Sources 18,4 kB/72,1 kB 25%] [Waiting for"
+    ],
+    [
+      0.056747,
+      "\r                                                                               \rHit http://extras.ubuntu.com trusty/main i386 Packages\r\n\r45% [5 Release 6.909 B/62,0 kB 11%] [3 Sources 18,4 kB/72,1 kB 25%] [Connecting"
+    ],
+    [
+      0.000207,
+      "\r45% [Packages 0 B] [5 Release 6.909 B/62,0 kB 11%] [3 Sources 18,4 kB/72,1 kB 2\r45% [5 Release 6.909 B/62,0 kB 11%] [3 Sources 18,4 kB/72,1 kB 25%] [Waiting fo"
+    ],
+    [
+      0.500470,
+      "\r46% [5 Release 6.909 B/62,0 kB 11%] [3 Sources 19,8 kB/72,1 kB 27%] [Waiting fo"
+    ],
+    [
+      0.500501,
+      "\r66% [5 Release 34,3 kB/62,0 kB 55%] [3 Sources 32,8 kB/72,1 kB 45%] [Waiting fo"
+    ],
+    [
+      0.500813,
+      "\r79% [5 Release 54,4 kB/62,0 kB 88%] [3 Sources 38,5 kB/72,1 kB 53%] [Waiting fo"
+    ],
+    [
+      0.294132,
+      "\r85% [3 Sources 42,9 kB/72,1 kB 59%] [Waiting for headers] [Connecting to ppa.la"
+    ],
+    [
+      0.001433,
+      "\r85% [5 Release gpgv 62,0 kB] [Waiting for headers] [3 Sources 42,9 kB/72,1 kB 5"
+    ],
+    [
+      0.010209,
+      "\r86% [Waiting for headers] [3 Sources 44,3 kB/72,1 kB 61%] [Waiting for headers]"
+    ],
+    [
+      0.279998,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty-backports Release\r\n\r86% [3 Sources 44,3 kB/72,1 kB 61%] [Waiting for headers] [Connecting to ppa.la"
+    ],
+    [
+      0.000277,
+      "\r86% [Release gpgv 62,0 kB] [Waiting for headers] [3 Sources 44,3 kB/72,1 kB 61%"
+    ],
+    [
+      0.008242,
+      "\r87% [Waiting for headers] [3 Sources 45,7 kB/72,1 kB 63%] [Waiting for headers]"
+    ],
+    [
+      0.313546,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty/main Sources\r\n\r89% [3 Sources 50,1 kB/72,1 kB 69%] [Waiting for headers] [Waiting for headers]\r89% [Sources 5.000 kB] [Waiting for headers] [3 Sources 50,1 kB/72,1 kB 69%] [W"
+    ],
+    [
+      0.160841,
+      "\r100% [Waiting for headers] [3 Sources 52,9 kB/72,1 kB 73%] [Waiting for headers"
+    ],
+    [
+      0.143152,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty InRelease\r\n\r100% [Waiting for headers] [3 Sources 55,8 kB/72,1 kB 77%] [Waiting for headers"
+    ],
+    [
+      0.028158,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty/restricted Sources\r\n\r100% [Waiting for headers] [3 Sources 55,8 kB/72,1 kB 77%] [Waiting for headers\r100% [Sources 22,9 kB] [Waiting for headers] [3 Sources 55,8 kB/72,1 kB 77%] [W"
+    ],
+    [
+      0.007743,
+      "\r100% [Waiting for headers] [3 Sources 55,8 kB/72,1 kB 77%] [Waiting for headers"
+    ],
+    [
+      0.335678,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty/universe Sources\r\n\r100% [Waiting for headers] [3 Sources 61,6 kB/72,1 kB 85%] [Waiting for headers\r100% [Sources 27,9 MB] [Waiting for headers] [3 Sources 61,6 kB/72,1 kB 85%] [W"
+    ],
+    [
+      0.048495,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty Release.gpg\r\n\r100% [Sources 27,9 MB] [Waiting for headers] [3 Sources 61,6 kB/72,1 kB 85%] [W"
+    ],
+    [
+      0.284876,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty/multiverse Sources\r\n\r100% [Sources 27,9 MB] [Waiting for headers] [3 Sources 61,6 kB/72,1 kB 85%] [W"
+    ],
+    [
+      0.129393,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty Release\r\n\r100% [Sources 27,9 MB] [Waiting for headers] [3 Sources 61,6 kB/72,1 kB 85%] [W"
+    ],
+    [
+      0.000370,
+      "\r100% [Sources 27,9 MB] [Release gpgv 15,1 kB] [Waiting for headers] [3 Sources "
+    ],
+    [
+      0.048550,
+      "\r                                                                               \rIgn http://extras.ubuntu.com trusty/main Translation-en_US\r\n\r100% [Sources 27,9 MB] [Release gpgv 15,1 kB] [Waiting for headers] [3 Sources "
+    ],
+    [
+      0.021022,
+      "\r100% [Sources 27,9 MB] [Waiting for headers] [3 Sources 61,6 kB/72,1 kB 85%] [W"
+    ],
+    [
+      0.138204,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty/main amd64 Packages\r\n\r100% [Sources 27,9 MB] [Waiting for headers] [3 Sources 61,6 kB/72,1 kB 85%] [W"
+    ],
+    [
+      0.324873,
+      "\r100% [Sources 27,9 MB] [Waiting for headers] [Waiting for headers] [Waiting for"
+    ],
+    [
+      0.000144,
+      "\r                                                                               \rIgn http://extras.ubuntu.com trusty/main Translation-en"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.047682,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main amd64 Packages"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.000082,
+      "\r100% [Sources 27,9 MB] [Waiting for headers]                        853 kB/s 0s"
+    ],
+    [
+      0.000161,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty/restricted amd64 Packages"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\r100% [3 Sources bzip2 0 B] [Sources 27,9 MB] [Waiting for headers] [Connecting "
+    ],
+    [
+      0.002870,
+      "\r100% [3 Sources bzip2 0 B] [Waiting for headers] [Connecting to security.ubuntu"
+    ],
+    [
+      0.000108,
+      "\r100% [3 Sources bzip2 0 B] [Sources 711 kB] [Waiting for headers] [Connecting t"
+    ],
+    [
+      0.029315,
+      "\r100% [3 Sources bzip2 0 B] [Waiting for headers] [Connecting to security.ubuntu"
+    ],
+    [
+      0.000133,
+      "\r100% [3 Sources bzip2 0 B] [Packages 8.235 kB] [Waiting for headers] [Connectin"
+    ],
+    [
+      0.014758,
+      "\r100% [Packages 8.235 kB] [Waiting for headers] [Connecting to security.ubuntu.c"
+    ],
+    [
+      0.249065,
+      "\r100% [Waiting for headers] [Connecting to security.ubuntu.com (91.189.92.201)] "
+    ],
+    [
+      0.000152,
+      "\r100% [Packages 15,5 kB] [Waiting for headers] [Connecting to security.ubuntu.co"
+    ],
+    [
+      0.000699,
+      "\r100% [Waiting for headers] [Connecting to security.ubuntu.com (91.189.92.201)] "
+    ],
+    [
+      0.000084,
+      "\r100% [Packages 184 kB] [Waiting for headers] [Connecting to security.ubuntu.com"
+    ],
+    [
+      0.019479,
+      "\r100% [Waiting for headers] [Connecting to security.ubuntu.com (91.189.92.201)] "
+    ],
+    [
+      0.143997,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty/universe amd64 Packages\r\n\r                                                                               \r100% [Connecting to security.ubuntu.com (91.189.92.201)] [Waiting for headers]"
+    ],
+    [
+      0.001581,
+      "\r                                                                              \r100% [Packages 31,7 MB] [Waiting for headers] [Connecting to security.ubuntu.co"
+    ],
+    [
+      0.098024,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.316907,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty/multiverse amd64 Packages\r\n\r100% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.192696,
+      "\r                                                                               \rGet:6 http://security.ubuntu.com trusty-security/restricted Sources [2.061 B]\r\n\r100% [Packages 31,7 MB] [Waiting for headers] [6 Sources 1.098 B/2.061 B 53%] ["
+    ],
+    [
+      0.031820,
+      "\r100% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.000414,
+      "\r100% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.019044,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Translation-en\r\n\r                                                                               \r100% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.192148,
+      "\r                                                                   \rHit http://id.archive.ubuntu.com trusty/main i386 Packages"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.000065,
+      "\r                                                                   \r100% [Packages 31,7 MB] [Waiting for headers]                       853 kB/s 0s"
+    ],
+    [
+      0.058005,
+      "\r100% [Waiting for headers] [Waiting for headers]                    853 kB/s 0s"
+    ],
+    [
+      0.000108,
+      "\r                                                                               \r100% [Packages 15,5 kB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000718,
+      "\r                                                                   \r100% [Waiting for headers] [Waiting for headers]                    853 kB/s 0s"
+    ],
+    [
+      0.000154,
+      "\r100% [Packages 664 kB] [Waiting for headers] [Waiting for headers]  853 kB/s 0s"
+    ],
+    [
+      0.037600,
+      "\r100% [Waiting for headers] [Waiting for headers]                    853 kB/s 0s"
+    ],
+    [
+      0.000118,
+      "\r                                                                               \r100% [Translation-en 7.963 B] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000394,
+      "\r                                                                         \r100% [Waiting for headers] [Waiting for headers]                    853 kB/s 0s"
+    ],
+    [
+      0.000095,
+      "\r                                                                               \r100% [Packages 8.205 kB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.160108,
+      "\r                                                                    \rGet:7 http://security.ubuntu.com trusty-security/universe Sources [17,9 kB]\r\n\r                                                                    \r100% [Packages 8.205 kB] [Waiting for headers] [7 Sources 1.096 B/17,9 kB 6%]"
+    ],
+    [
+      0.076893,
+      "\r                                                                             \r100% [Waiting for headers] [7 Sources 3.976 B/17,9 kB 22%]          853 kB/s 0s"
+    ],
+    [
+      0.489056,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty/restricted i386 Packages\r\n\r100% [7 Sources 5.416 B/17,9 kB 30%]                                853 kB/s 0s"
+    ],
+    [
+      0.000421,
+      "\r                                                                               \r100% [Packages 185 kB] [Waiting for headers] [7 Sources 5.416 B/17,9 kB 30%]"
+    ],
+    [
+      0.022559,
+      "\r                                                                            \r100% [Waiting for headers] [7 Sources 5.416 B/17,9 kB 30%]          853 kB/s 0s"
+    ],
+    [
+      0.317579,
+      "\r100% [Waiting for headers]                                          853 kB/s 0s"
+    ],
+    [
+      0.003413,
+      "\r                                                                               \r100% [7 Sources bzip2 0 B] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.007215,
+      "\r                                                                      \r100% [Waiting for headers] [Waiting for headers]                    853 kB/s 0s"
+    ],
+    [
+      0.051330,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty/universe i386 Packages"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "\r100% [Waiting for headers]                                          853 kB/s 0s"
+    ],
+    [
+      0.001366,
+      "\r                                                                               \r100% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.285770,
+      "\r                                                                   \rHit http://id.archive.ubuntu.com trusty/multiverse i386 Packages"
+    ],
+    [
+      0.000129,
+      "\r\n"
+    ],
+    [
+      0.000069,
+      "\r                                                                   \r100% [Packages 31,7 MB] [Waiting for headers]                       853 kB/s 0s"
+    ],
+    [
+      0.025514,
+      "\r                                                                               \rGet:8 http://security.ubuntu.com trusty-security/multiverse Sources [1.905 B]\r\n\r                                                                               \r100% [Packages 31,7 MB] [Waiting for headers] [8 Sources 1.098 B/1.905 B 58%]"
+    ],
+    [
+      0.011468,
+      "\r                                                                             \r100% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000037,
+      "\r                                                                   \r100% [8 Sources bzip2 0 B] [Packages 31,7 MB] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.001014,
+      "\r                                                                               \r100% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.347390,
+      "\r                                                                   \rGet:9 http://security.ubuntu.com trusty-security/main amd64 Packages [222 kB]\r\n\r                                                                   \r100% [Packages 31,7 MB] [Waiting for headers] [9 Packages 1.094 B/222 kB 0%]"
+    ],
+    [
+      0.239766,
+      "\r                                                                            \rHit http://id.archive.ubuntu.com trusty/main Translation-en"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "\r                                                                            \r100% [Packages 31,7 MB] [9 Packages 3.974 B/222 kB 2%]              853 kB/s 0s"
+    ],
+    [
+      0.080555,
+      "\r100% [Waiting for headers] [9 Packages 3.974 B/222 kB 2%]           853 kB/s 0s"
+    ],
+    [
+      0.000179,
+      "\r                                                                               \r100% [Packages 674 kB] [Waiting for headers] [9 Packages 3.974 B/222 kB 2%]"
+    ],
+    [
+      0.038537,
+      "\r                                                                           \r100% [Waiting for headers] [9 Packages 3.974 B/222 kB 2%]           853 kB/s 0s"
+    ],
+    [
+      0.000152,
+      "\r100% [Translation-en 4.149 kB] [Waiting for headers] [9 Packages 3.974 B/222 kB"
+    ],
+    [
+      0.119420,
+      "\r100% [Waiting for headers] [9 Packages 8.294 B/222 kB 4%]           853 kB/s 0s"
+    ],
+    [
+      0.434693,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty/multiverse Translation-en\r\n\r100% [9 Packages 9.734 B/222 kB 4%]                                 853 kB/s 0s"
+    ],
+    [
+      0.003023,
+      "\r100% [Translation-en 409 kB] [Waiting for headers] [9 Packages 9.734 B/222 kB 4"
+    ],
+    [
+      0.033087,
+      "\r100% [Waiting for headers] [9 Packages 9.734 B/222 kB 4%]           853 kB/s 0s"
+    ],
+    [
+      0.500794,
+      "\r100% [Waiting for headers] [9 Packages 9.734 B/222 kB 4%]           853 kB/s 0s"
+    ],
+    [
+      0.500500,
+      "\r100% [Waiting for headers] [9 Packages 9.734 B/222 kB 4%]           853 kB/s 0s"
+    ],
+    [
+      0.181378,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty/restricted Translation-en\r\n\r100% [9 Packages 27,0 kB/222 kB 12%]                                853 kB/s 0s"
+    ],
+    [
+      0.001086,
+      "\r100% [Translation-en 21,2 kB] [Waiting for headers] [9 Packages 27,0 kB/222 kB "
+    ],
+    [
+      0.000214,
+      "\r100% [Waiting for headers] [9 Packages 27,0 kB/222 kB 12%]          853 kB/s 0s"
+    ],
+    [
+      0.500605,
+      "\r100% [Waiting for headers] [9 Packages 27,0 kB/222 kB 12%]         18,5 MB/s 0s"
+    ],
+    [
+      0.500719,
+      "\r100% [Waiting for headers] [9 Packages 42,9 kB/222 kB 19%]         18,5 MB/s 0s"
+    ],
+    [
+      0.259604,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty/universe Translation-en\r\n\r100% [Waiting for headers] [9 Packages 42,9 kB/222 kB 19%]         18,5 MB/s 0s"
+    ],
+    [
+      0.002188,
+      "\r100% [Translation-en 18,6 MB] [Waiting for headers] [9 Packages 42,9 kB/222 kB "
+    ],
+    [
+      0.314317,
+      "\r                                                                               \rGet:10 http://id.archive.ubuntu.com trusty-updates/main Sources [183 kB]\r\n\r100% [Translation-en 18,6 MB] [10 Sources 1.112 B/183 kB 1%] [9 Packages 52,9 k"
+    ],
+    [
+      0.246226,
+      "\r                                                                               \r100% [10 Sources 2.552 B/183 kB 1%] [9 Packages 54,4 kB/222 kB 25%]"
+    ],
+    [
+      0.500830,
+      "\r100% [10 Sources 3.992 B/183 kB 2%] [9 Packages 60,1 kB/222 kB 27%]"
+    ],
+    [
+      0.500711,
+      "\r100% [10 Sources 3.992 B/183 kB 2%] [9 Packages 64,5 kB/222 kB 29%]"
+    ],
+    [
+      0.500716,
+      "\r100% [10 Sources 5.432 B/183 kB 3%] [9 Packages 64,5 kB/222 kB 29%]"
+    ],
+    [
+      0.500658,
+      "\r100% [10 Sources 5.432 B/183 kB 3%] [9 Packages 67,3 kB/222 kB 30%]"
+    ],
+    [
+      0.500796,
+      "\r100% [10 Sources 5.432 B/183 kB 3%] [9 Packages 74,5 kB/222 kB 34%]"
+    ],
+    [
+      0.500751,
+      "\r100% [10 Sources 5.432 B/183 kB 3%] [9 Packages 77,4 kB/222 kB 35%]"
+    ],
+    [
+      0.500746,
+      "\r100% [10 Sources 12,6 kB/183 kB 7%] [9 Packages 78,9 kB/222 kB 36%]"
+    ],
+    [
+      0.500742,
+      "\r100% [10 Sources 17,0 kB/183 kB 9%] [9 Packages 78,9 kB/222 kB 36%]"
+    ],
+    [
+      0.500808,
+      "\r                                                                   \r100% [10 Sources 21,3 kB/183 kB 12%] [9 Packages 90,4 kB/222 kB 41%]"
+    ],
+    [
+      0.500748,
+      "\r100% [10 Sources 25,6 kB/183 kB 14%] [9 Packages 96,1 kB/222 kB 43%]"
+    ],
+    [
+      0.500752,
+      "\r                                                                    \r100% [10 Sources 31,4 kB/183 kB 17%] [9 Packages 100 kB/222 kB 45%]"
+    ],
+    [
+      0.500744,
+      "\r100% [10 Sources 38,6 kB/183 kB 21%] [9 Packages 102 kB/222 kB 46%]"
+    ],
+    [
+      0.500747,
+      "\r100% [10 Sources 45,8 kB/183 kB 25%] [9 Packages 102 kB/222 kB 46%]"
+    ],
+    [
+      0.501109,
+      "\r100% [10 Sources 51,5 kB/183 kB 28%] [9 Packages 115 kB/222 kB 52%]"
+    ],
+    [
+      0.500444,
+      "\r100% [10 Sources 51,5 kB/183 kB 28%] [9 Packages 116 kB/222 kB 52%]"
+    ],
+    [
+      0.500730,
+      "\r100% [10 Sources 70,2 kB/183 kB 38%] [9 Packages 118 kB/222 kB 53%]"
+    ],
+    [
+      0.500573,
+      "\r100% [10 Sources 84,6 kB/183 kB 46%] [9 Packages 118 kB/222 kB 53%]"
+    ],
+    [
+      0.500807,
+      "\r100% [10 Sources 90,4 kB/183 kB 50%] [9 Packages 128 kB/222 kB 58%]"
+    ],
+    [
+      0.500668,
+      "\r100% [10 Sources 96,2 kB/183 kB 53%] [9 Packages 134 kB/222 kB 60%]"
+    ],
+    [
+      0.500593,
+      "\r                                                                   \r100% [10 Sources 105 kB/183 kB 57%] [9 Packages 136 kB/222 kB 62%]"
+    ],
+    [
+      0.500654,
+      "\r100% [10 Sources 116 kB/183 kB 64%] [9 Packages 147 kB/222 kB 66%]"
+    ],
+    [
+      0.500803,
+      "\r100% [10 Sources 134 kB/183 kB 73%] [9 Packages 154 kB/222 kB 69%]"
+    ],
+    [
+      0.500613,
+      "\r100% [10 Sources 152 kB/183 kB 83%] [9 Packages 161 kB/222 kB 73%]"
+    ],
+    [
+      0.500687,
+      "\r100% [10 Sources 167 kB/183 kB 91%] [9 Packages 161 kB/222 kB 73%]"
+    ],
+    [
+      0.500754,
+      "\r100% [10 Sources 171 kB/183 kB 94%] [9 Packages 164 kB/222 kB 74%]"
+    ],
+    [
+      0.323675,
+      "\r                                                                  \r100% [9 Packages 164 kB/222 kB 74%]                                27,6 kB/s 2s"
+    ],
+    [
+      0.001488,
+      "\r100% [10 Sources bzip2 0 B] [Connecting to id.archive.ubuntu.com (91.189.91.23)"
+    ],
+    [
+      0.124824,
+      "\r100% [Connecting to id.archive.ubuntu.com (91.189.91.23)] [9 Packages 165 kB/22"
+    ],
+    [
+      0.500419,
+      "\r100% [Waiting for headers] [9 Packages 165 kB/222 kB 75%]          27,6 kB/s 2s"
+    ],
+    [
+      0.028253,
+      "\r                                                                               \rGet:11 http://id.archive.ubuntu.com trusty-updates/restricted Sources [2.564 B]\r\n\r                                                                               \r100% [11 Sources 1.114 B/2.564 B 43%] [9 Packages 165 kB/222 kB 75%]"
+    ],
+    [
+      0.024099,
+      "\r                                                                    \r100% [Waiting for headers] [9 Packages 165 kB/222 kB 75%]          27,6 kB/s 2s\r100% [11 Sources bzip2 0 B] [Waiting for headers] [9 Packages 165 kB/222 kB 75%\r100% [Waiting for headers] [9 Packages 165 kB/222 kB 75%]          27,6 kB/s 2s"
+    ],
+    [
+      0.270726,
+      "\r                                                                               \rGet:12 http://id.archive.ubuntu.com trusty-updates/universe Sources [107 kB]\r\n\r                                                                               \r100% [12 Sources 1.110 B/107 kB 1%] [9 Packages 172 kB/222 kB 78%]"
+    ],
+    [
+      0.500772,
+      "\r                                                                  \r100% [12 Sources 27,0 kB/107 kB 25%] [9 Packages 178 kB/222 kB 80%]"
+    ],
+    [
+      0.500599,
+      "\r100% [12 Sources 51,5 kB/107 kB 48%] [9 Packages 190 kB/222 kB 86%]"
+    ],
+    [
+      0.500714,
+      "\r100% [12 Sources 78,9 kB/107 kB 74%] [9 Packages 195 kB/222 kB 88%]"
+    ],
+    [
+      0.137590,
+      "\r                                                                   \r100% [9 Packages 195 kB/222 kB 88%]                                27,6 kB/s 0s"
+    ],
+    [
+      0.004274,
+      "\r100% [12 Sources bzip2 0 B] [9 Packages 195 kB/222 kB 88%]         27,6 kB/s 0s"
+    ],
+    [
+      0.040433,
+      "\r100% [Waiting for headers] [9 Packages 200 kB/222 kB 90%]          27,6 kB/s 0s"
+    ],
+    [
+      0.263779,
+      "\r                                                                               \rGet:13 http://id.archive.ubuntu.com trusty-updates/multiverse Sources [4.484 B]\r\n\r                                                                               \r100% [13 Sources 1.113 B/4.484 B 25%] [9 Packages 203 kB/222 kB 91%]"
+    ],
+    [
+      0.034821,
+      "\r                                                                    \r100% [9 Packages 203 kB/222 kB 91%]                                27,6 kB/s 0s"
+    ],
+    [
+      0.003424,
+      "\r100% [13 Sources bzip2 0 B] [Waiting for headers] [9 Packages 203 kB/222 kB 91%"
+    ],
+    [
+      0.000527,
+      "\r100% [Waiting for headers] [9 Packages 203 kB/222 kB 91%]          27,6 kB/s 0s"
+    ],
+    [
+      0.351659,
+      "\r                                                                               \rGet:14 http://id.archive.ubuntu.com trusty-updates/main amd64 Packages [449 kB]\r\n\r                                                                               \r100% [14 Packages 1.110 B/449 kB 0%] [9 Packages 210 kB/222 kB 95%]"
+    ],
+    [
+      0.500707,
+      "\r100% [14 Packages 3.990 B/449 kB 1%] [9 Packages 214 kB/222 kB 97%]"
+    ],
+    [
+      0.375240,
+      "\r                                                                   \r100% [14 Packages 14,1 kB/449 kB 3%]                              27,6 kB/s 15s"
+    ],
+    [
+      0.001078,
+      "\r100% [9 Packages bzip2 0 B] [14 Packages 14,1 kB/449 kB 3%] [Connecting to secu"
+    ],
+    [
+      0.120590,
+      "\r100% [14 Packages 14,1 kB/449 kB 3%] [Connecting to security.ubuntu.com (91.189"
+    ],
+    [
+      0.500599,
+      "\r100% [14 Packages 44,3 kB/449 kB 10%] [Waiting for headers]       40,1 kB/s 10s"
+    ],
+    [
+      0.076586,
+      "\r                                                                               \rGet:15 http://security.ubuntu.com trusty-security/restricted amd64 Packages [8.875 B]\r\n\r                                                                               \r100% [14 Packages 44,3 kB/449 kB 10%] [15 Packages 1.098 B/8.875 B 12%]"
+    ],
+    [
+      0.500766,
+      "\r100% [14 Packages 47,2 kB/449 kB 11%] [15 Packages 5.418 B/8.875 B 61%]"
+    ],
+    [
+      0.500594,
+      "\r100% [14 Packages 83,2 kB/449 kB 19%] [15 Packages 5.418 B/8.875 B 61%]"
+    ],
+    [
+      0.500647,
+      "\r                                                                       \r100% [14 Packages 100 kB/449 kB 22%] [15 Packages 5.418 B/8.875 B 61%]"
+    ],
+    [
+      0.028242,
+      "\r                                                                      \r100% [14 Packages 100 kB/449 kB 22%]                               40,1 kB/s 8s\r100% [15 Packages bzip2 0 B] [14 Packages 100 kB/449 kB 22%] [Waiting for heade"
+    ],
+    [
+      0.005345,
+      "\r100% [14 Packages 100 kB/449 kB 22%] [Waiting for headers]         40,1 kB/s 8s"
+    ],
+    [
+      0.341537,
+      "\r                                                                               \rGet:16 http://security.ubuntu.com trusty-security/universe amd64 Packages [88,0 kB]\r\n\r                                                                               \r100% [14 Packages 115 kB/449 kB 26%] [16 Packages 1.096 B/88,0 kB 1%]"
+    ],
+    [
+      0.500652,
+      "\r100% [14 Packages 138 kB/449 kB 31%] [16 Packages 2.536 B/88,0 kB 3%]"
+    ],
+    [
+      0.500684,
+      "\r100% [14 Packages 157 kB/449 kB 35%] [16 Packages 3.976 B/88,0 kB 5%]"
+    ],
+    [
+      0.500642,
+      "\r100% [14 Packages 174 kB/449 kB 39%] [16 Packages 6.856 B/88,0 kB 8%]"
+    ],
+    [
+      0.500622,
+      "\r100% [14 Packages 183 kB/449 kB 41%] [16 Packages 6.856 B/88,0 kB 8%]"
+    ],
+    [
+      0.500639,
+      "\r                                                                     \r100% [14 Packages 198 kB/449 kB 44%] [16 Packages 21,3 kB/88,0 kB 24%]"
+    ],
+    [
+      0.500675,
+      "\r100% [14 Packages 220 kB/449 kB 49%] [16 Packages 34,2 kB/88,0 kB 39%]"
+    ],
+    [
+      0.500622,
+      "\r100% [14 Packages 234 kB/449 kB 52%] [16 Packages 41,4 kB/88,0 kB 47%]"
+    ],
+    [
+      0.500698,
+      "\r100% [14 Packages 256 kB/449 kB 57%] [16 Packages 42,9 kB/88,0 kB 49%]"
+    ],
+    [
+      0.500777,
+      "\r100% [14 Packages 273 kB/449 kB 61%] [16 Packages 52,9 kB/88,0 kB 60%]"
+    ],
+    [
+      0.500762,
+      "\r100% [14 Packages 288 kB/449 kB 64%] [16 Packages 55,8 kB/88,0 kB 63%]"
+    ],
+    [
+      0.500738,
+      "\r100% [14 Packages 295 kB/449 kB 66%] [16 Packages 55,8 kB/88,0 kB 63%]"
+    ],
+    [
+      0.500724,
+      "\r100% [14 Packages 295 kB/449 kB 66%] [16 Packages 57,3 kB/88,0 kB 65%]"
+    ],
+    [
+      0.500649,
+      "\r100% [14 Packages 314 kB/449 kB 70%] [16 Packages 57,3 kB/88,0 kB 65%]"
+    ],
+    [
+      0.500624,
+      "\r100% [14 Packages 322 kB/449 kB 72%] [16 Packages 61,6 kB/88,0 kB 70%]"
+    ],
+    [
+      0.500668,
+      "\r100% [14 Packages 340 kB/449 kB 76%] [16 Packages 76,0 kB/88,0 kB 86%]"
+    ],
+    [
+      0.500677,
+      "\r100% [14 Packages 360 kB/449 kB 80%] [16 Packages 87,5 kB/88,0 kB 99%]"
+    ],
+    [
+      0.065124,
+      "\r                                                                      \r100% [14 Packages 363 kB/449 kB 81%]                               45,5 kB/s 1s"
+    ],
+    [
+      0.001253,
+      "\r100% [16 Packages bzip2 0 B] [14 Packages 363 kB/449 kB 81%] [Waiting for heade"
+    ],
+    [
+      0.049482,
+      "\r100% [14 Packages 363 kB/449 kB 81%] [Connecting to security.ubuntu.com (91.189"
+    ],
+    [
+      0.500563,
+      "\r100% [14 Packages 380 kB/449 kB 85%] [Waiting for headers]         45,5 kB/s 1s"
+    ],
+    [
+      0.141190,
+      "\r                                                                               \rGet:17 http://security.ubuntu.com trusty-security/multiverse amd64 Packages [3.459 B]\r\n\r                                                                               \r100% [14 Packages 386 kB/449 kB 86%] [17 Packages 1.098 B/3.459 B 32%]"
+    ],
+    [
+      0.022826,
+      "\r                                                                      \r100% [14 Packages 386 kB/449 kB 86%]                               45,5 kB/s 1s"
+    ],
+    [
+      0.000297,
+      "\r100% [17 Packages bzip2 0 B] [14 Packages 386 kB/449 kB 86%] [Waiting for heade"
+    ],
+    [
+      0.002148,
+      "\r100% [14 Packages 386 kB/449 kB 86%] [Waiting for headers]         45,5 kB/s 1s"
+    ],
+    [
+      0.342969,
+      "\r                                                                               \rGet:18 http://security.ubuntu.com trusty-security/main i386 Packages [212 kB]\r\n\r                                                                               \r100% [14 Packages 397 kB/449 kB 88%] [18 Packages 1.094 B/212 kB 1%]"
+    ],
+    [
+      0.500417,
+      "\r100% [14 Packages 414 kB/449 kB 92%] [18 Packages 5.414 B/212 kB 3%]"
+    ],
+    [
+      0.500782,
+      "\r100% [14 Packages 424 kB/449 kB 95%] [18 Packages 19,8 kB/212 kB 9%]"
+    ],
+    [
+      0.500634,
+      "\r                                                                    \r100% [14 Packages 432 kB/449 kB 96%] [18 Packages 38,5 kB/212 kB 18%]"
+    ],
+    [
+      0.126587,
+      "\r                                                                     \r100% [18 Packages 40,0 kB/212 kB 19%]                              38,6 kB/s 4s\r100% [14 Packages bzip2 0 B] [18 Packages 40,0 kB/212 kB 19%]      38,6 kB/s 4s"
+    ],
+    [
+      0.243400,
+      "\r100% [Connecting to id.archive.ubuntu.com (91.189.91.24)] [18 Packages 52,9 kB/"
+    ],
+    [
+      0.418922,
+      "\r                                                                               \rGet:19 http://id.archive.ubuntu.com trusty-updates/restricted amd64 Packages [9.238 B]\r\n\r                                                                               \r100% [19 Packages 1.101 B/9.238 B 12%] [18 Packages 70,2 kB/212 kB 33%]"
+    ],
+    [
+      0.500595,
+      "\r100% [19 Packages 5.385 B/9.238 B 58%] [18 Packages 94,7 kB/212 kB 45%]"
+    ],
+    [
+      0.500787,
+      "\r                                                                       \r100% [19 Packages 5.385 B/9.238 B 58%] [18 Packages 115 kB/212 kB 54%]"
+    ],
+    [
+      0.500641,
+      "\r100% [19 Packages 5.385 B/9.238 B 58%] [18 Packages 129 kB/212 kB 61%]"
+    ],
+    [
+      0.500777,
+      "\r100% [19 Packages 5.385 B/9.238 B 58%] [18 Packages 129 kB/212 kB 61%]"
+    ],
+    [
+      0.037397,
+      "\r                                                                      \r100% [18 Packages 129 kB/212 kB 61%]                               38,6 kB/s 2s"
+    ],
+    [
+      0.001545,
+      "\r100% [19 Packages bzip2 0 B] [Waiting for headers] [18 Packages 129 kB/212 kB 6"
+    ],
+    [
+      0.008505,
+      "\r100% [Waiting for headers] [18 Packages 129 kB/212 kB 61%]         38,6 kB/s 2s"
+    ],
+    [
+      0.361368,
+      "\r                                                                               \rGet:20 http://id.archive.ubuntu.com trusty-updates/universe amd64 Packages [257 kB]\r\n\r                                                                               \r100% [20 Packages 1.098 B/257 kB 0%] [18 Packages 158 kB/212 kB 75%]"
+    ],
+    [
+      0.500191,
+      "\r100% [20 Packages 11,1 kB/257 kB 4%] [18 Packages 171 kB/212 kB 81%]"
+    ],
+    [
+      0.500238,
+      "\r100% [20 Packages 21,1 kB/257 kB 8%] [18 Packages 174 kB/212 kB 82%]"
+    ],
+    [
+      0.500695,
+      "\r                                                                    \r100% [20 Packages 33,9 kB/257 kB 13%] [18 Packages 178 kB/212 kB 84%]"
+    ],
+    [
+      0.500782,
+      "\r100% [20 Packages 33,9 kB/257 kB 13%] [18 Packages 191 kB/212 kB 90%]"
+    ],
+    [
+      0.448147,
+      "\r                                                                     \r100% [20 Packages 55,4 kB/257 kB 22%]                              45,7 kB/s 4s\r100% [18 Packages bzip2 0 B] [20 Packages 55,4 kB/257 kB 22%] [Connecting to se"
+    ],
+    [
+      0.091698,
+      "\r100% [20 Packages 59,6 kB/257 kB 23%] [Connecting to security.ubuntu.com (91.18"
+    ],
+    [
+      0.500475,
+      "\r100% [20 Packages 75,4 kB/257 kB 29%] [Waiting for headers]        45,7 kB/s 3s"
+    ],
+    [
+      0.339539,
+      "\r                                                                               \rGet:21 http://security.ubuntu.com trusty-security/restricted i386 Packages [8.846 B]\r\n\r                                                                               \r100% [20 Packages 83,9 kB/257 kB 33%] [21 Packages 1.086 B/8.846 B 12%]"
+    ],
+    [
+      0.500687,
+      "\r100% [20 Packages 85,3 kB/257 kB 33%] [21 Packages 2.514 B/8.846 B 28%]"
+    ],
+    [
+      0.500653,
+      "\r100% [20 Packages 96,8 kB/257 kB 38%] [21 Packages 2.514 B/8.846 B 28%]"
+    ],
+    [
+      0.500663,
+      "\r                                                                       \r100% [20 Packages 114 kB/257 kB 44%] [21 Packages 2.514 B/8.846 B 28%]"
+    ],
+    [
+      0.500659,
+      "\r100% [20 Packages 127 kB/257 kB 49%] [21 Packages 5.370 B/8.846 B 61%]"
+    ],
+    [
+      0.500659,
+      "\r100% [20 Packages 131 kB/257 kB 51%] [21 Packages 6.798 B/8.846 B 77%]"
+    ],
+    [
+      0.031670,
+      "\r                                                                      \r100% [20 Packages 131 kB/257 kB 51%]                               45,7 kB/s 2s"
+    ],
+    [
+      0.001437,
+      "\r100% [21 Packages bzip2 0 B] [20 Packages 131 kB/257 kB 51%] [Waiting for heade"
+    ],
+    [
+      0.009449,
+      "\r100% [20 Packages 131 kB/257 kB 51%] [Waiting for headers]         45,7 kB/s 2s"
+    ],
+    [
+      0.448772,
+      "\r                                                                               \rGet:22 http://security.ubuntu.com trusty-security/universe i386 Packages [87,9 kB]\r\n\r                                                                               \r100% [20 Packages 142 kB/257 kB 55%] [22 Packages 1.084 B/87,9 kB 1%]"
+    ],
+    [
+      0.500767,
+      "\r100% [20 Packages 150 kB/257 kB 58%] [22 Packages 6.796 B/87,9 kB 8%]"
+    ],
+    [
+      0.500616,
+      "\r100% [20 Packages 164 kB/257 kB 64%] [22 Packages 8.224 B/87,9 kB 9%]"
+    ],
+    [
+      0.500806,
+      "\r                                                                     \r100% [20 Packages 170 kB/257 kB 66%] [22 Packages 25,4 kB/87,9 kB 29%]"
+    ],
+    [
+      0.500754,
+      "\r100% [20 Packages 178 kB/257 kB 69%] [22 Packages 38,2 kB/87,9 kB 43%]"
+    ],
+    [
+      0.500637,
+      "\r100% [20 Packages 190 kB/257 kB 74%] [22 Packages 51,1 kB/87,9 kB 58%]"
+    ],
+    [
+      0.500776,
+      "\r100% [20 Packages 200 kB/257 kB 78%] [22 Packages 63,9 kB/87,9 kB 73%]"
+    ],
+    [
+      0.500608,
+      "\r100% [20 Packages 218 kB/257 kB 85%] [22 Packages 78,2 kB/87,9 kB 89%]"
+    ],
+    [
+      0.253360,
+      "\r                                                                      \r100% [20 Packages 218 kB/257 kB 85%]                               30,2 kB/s 1s"
+    ],
+    [
+      0.003131,
+      "\r100% [22 Packages bzip2 0 B] [20 Packages 218 kB/257 kB 85%] [Waiting for heade"
+    ],
+    [
+      0.042005,
+      "\r100% [20 Packages 218 kB/257 kB 85%] [Waiting for headers]         30,2 kB/s 1s"
+    ],
+    [
+      0.411437,
+      "\r                                                                               \rGet:23 http://security.ubuntu.com trusty-security/multiverse i386 Packages [3.628 B]\r\n\r                                                                               \r100% [20 Packages 220 kB/257 kB 85%] [23 Packages 1.087 B/3.628 B 30%]"
+    ],
+    [
+      0.062714,
+      "\r                                                                      \r100% [20 Packages 220 kB/257 kB 85%]                               30,2 kB/s 1s\r100% [23 Packages bzip2 0 B] [20 Packages 220 kB/257 kB 85%] [Waiting for heade"
+    ],
+    [
+      0.001525,
+      "\r100% [20 Packages 220 kB/257 kB 85%] [Waiting for headers]         30,2 kB/s 1s"
+    ],
+    [
+      0.513295,
+      "\r                                                                               \rHit http://security.ubuntu.com trusty-security/main Translation-en\r\n\r100% [20 Packages 225 kB/257 kB 88%]                               30,2 kB/s 1s"
+    ],
+    [
+      0.001309,
+      "\r100% [Translation-en 1.141 kB] [20 Packages 225 kB/257 kB 88%] [Waiting for hea"
+    ],
+    [
+      0.050798,
+      "\r100% [20 Packages 228 kB/257 kB 89%] [Waiting for headers]         30,2 kB/s 0s"
+    ],
+    [
+      0.420578,
+      "\r                                                                               \rHit http://security.ubuntu.com trusty-security/multiverse Translation-en\r\n\r100% [20 Packages 244 kB/257 kB 95%]                               30,2 kB/s 0s"
+    ],
+    [
+      0.000800,
+      "\r100% [Translation-en 5.539 B] [20 Packages 244 kB/257 kB 95%] [Waiting for head"
+    ],
+    [
+      0.000376,
+      "\r100% [20 Packages 244 kB/257 kB 95%] [Waiting for headers]         30,2 kB/s 0s"
+    ],
+    [
+      0.282894,
+      "\r100% [Waiting for headers]                                         30,2 kB/s 0s"
+    ],
+    [
+      0.004564,
+      "\r100% [20 Packages bzip2 0 B] [Connecting to id.archive.ubuntu.com (91.189.92.20"
+    ],
+    [
+      0.058384,
+      "\r                                                                               \rHit http://security.ubuntu.com trusty-security/restricted Translation-en\r\n\r100% [20 Packages bzip2 0 B] [Connecting to id.archive.ubuntu.com (91.189.92.20\r100% [20 Packages bzip2 0 B] [Connecting to id.archive.ubuntu.com (91.189.92.20"
+    ],
+    [
+      0.061472,
+      "\r100% [Connecting to id.archive.ubuntu.com (91.189.92.200)] [Waiting for headers"
+    ],
+    [
+      0.265864,
+      "\r                                                                               \rHit http://security.ubuntu.com trusty-security/universe Translation-en"
+    ],
+    [
+      0.000188,
+      "\r\n"
+    ],
+    [
+      0.000143,
+      "\r100% [Connecting to id.archive.ubuntu.com (91.189.92.200)]         30,2 kB/s 0s"
+    ],
+    [
+      0.001848,
+      "\r100% [Translation-en 250 kB] [Waiting for headers]                 30,2 kB/s 0s"
+    ],
+    [
+      0.026282,
+      "\r100% [Waiting for headers]                                         30,2 kB/s 0s"
+    ],
+    [
+      0.358697,
+      "\r                                                                               \rGet:24 http://id.archive.ubuntu.com trusty-updates/multiverse amd64 Packages [11,2 kB]\r\n\r100% [24 Packages 1.111 B/11,2 kB 10%]                             30,2 kB/s 0s"
+    ],
+    [
+      0.500691,
+      "\r100% [24 Packages 9.751 B/11,2 kB 87%]                             30,2 kB/s 0s"
+    ],
+    [
+      0.500768,
+      "\r100% [24 Packages 9.751 B/11,2 kB 87%]                             30,2 kB/s 0s"
+    ],
+    [
+      0.500618,
+      "\r100% [24 Packages 9.751 B/11,2 kB 87%]                             30,2 kB/s 0s"
+    ],
+    [
+      0.500803,
+      "\r100% [24 Packages 9.751 B/11,2 kB 87%]                             30,2 kB/s 0s"
+    ],
+    [
+      0.500734,
+      "\r100% [24 Packages 9.751 B/11,2 kB 87%]                              242 kB/s 0s"
+    ],
+    [
+      0.267377,
+      "\r100% [Working]                                                      242 kB/s 0s"
+    ],
+    [
+      0.000067,
+      "\r100% [24 Packages bzip2 0 B] [Waiting for headers]                  242 kB/s 0s"
+    ],
+    [
+      0.002996,
+      "\r100% [Waiting for headers]                                          242 kB/s 0s"
+    ],
+    [
+      0.422575,
+      "\r                                                                               \rGet:25 http://id.archive.ubuntu.com trusty-updates/main i386 Packages [439 kB]\r\n\r100% [25 Packages 0 B/439 kB 0%]                                    242 kB/s 1s"
+    ],
+    [
+      0.500660,
+      "\r100% [25 Packages 5.429 B/439 kB 1%]                                242 kB/s 1s"
+    ],
+    [
+      0.500647,
+      "\r100% [25 Packages 5.429 B/439 kB 1%]                                242 kB/s 1s"
+    ],
+    [
+      0.500651,
+      "\r100% [25 Packages 14,1 kB/439 kB 3%]                                242 kB/s 1s"
+    ],
+    [
+      0.500775,
+      "\r100% [25 Packages 16,9 kB/439 kB 4%]                                242 kB/s 1s"
+    ],
+    [
+      0.500717,
+      "\r100% [25 Packages 21,3 kB/439 kB 5%]                                242 kB/s 1s"
+    ],
+    [
+      0.500602,
+      "\r100% [25 Packages 27,0 kB/439 kB 6%]                                242 kB/s 1s"
+    ],
+    [
+      0.500655,
+      "\r100% [25 Packages 34,2 kB/439 kB 8%]                                242 kB/s 1s"
+    ],
+    [
+      0.500770,
+      "\r100% [25 Packages 42,9 kB/439 kB 10%]                               242 kB/s 1s"
+    ],
+    [
+      0.500723,
+      "\r100% [25 Packages 48,6 kB/439 kB 11%]                               242 kB/s 1s"
+    ],
+    [
+      0.500321,
+      "\r100% [25 Packages 55,8 kB/439 kB 13%]                               242 kB/s 1s"
+    ],
+    [
+      0.500785,
+      "\r100% [25 Packages 64,5 kB/439 kB 15%]                             10,6 kB/s 35s"
+    ],
+    [
+      0.500725,
+      "\r100% [25 Packages 64,5 kB/439 kB 15%]                             10,6 kB/s 35s"
+    ],
+    [
+      0.500608,
+      "\r100% [25 Packages 88,9 kB/439 kB 20%]                             10,6 kB/s 32s"
+    ],
+    [
+      0.500770,
+      "\r100% [25 Packages 99,0 kB/439 kB 23%]                             10,6 kB/s 31s"
+    ],
+    [
+      0.500629,
+      "\r100% [25 Packages 109 kB/439 kB 25%]                              10,6 kB/s 31s"
+    ],
+    [
+      0.500752,
+      "\r100% [25 Packages 119 kB/439 kB 27%]                              10,6 kB/s 30s"
+    ],
+    [
+      0.500732,
+      "\r100% [25 Packages 121 kB/439 kB 27%]                              10,6 kB/s 29s"
+    ],
+    [
+      0.500590,
+      "\r100% [25 Packages 122 kB/439 kB 28%]                              10,6 kB/s 29s"
+    ],
+    [
+      0.500646,
+      "\r100% [25 Packages 145 kB/439 kB 33%]                              10,6 kB/s 27s"
+    ],
+    [
+      0.500767,
+      "\r100% [25 Packages 160 kB/439 kB 36%]                              10,6 kB/s 26s"
+    ],
+    [
+      0.500647,
+      "\r100% [25 Packages 160 kB/439 kB 36%]                              10,6 kB/s 26s"
+    ],
+    [
+      0.500688,
+      "\r100% [25 Packages 180 kB/439 kB 41%]                              10,6 kB/s 24s"
+    ],
+    [
+      0.500622,
+      "\r100% [25 Packages 185 kB/439 kB 42%]                              20,1 kB/s 12s"
+    ],
+    [
+      0.500773,
+      "\r100% [25 Packages 201 kB/439 kB 46%]                              20,1 kB/s 11s"
+    ],
+    [
+      0.500611,
+      "\r100% [25 Packages 210 kB/439 kB 48%]                              20,1 kB/s 11s"
+    ],
+    [
+      0.500642,
+      "\r100% [25 Packages 220 kB/439 kB 50%]                              20,1 kB/s 10s"
+    ],
+    [
+      0.500849,
+      "\r100% [25 Packages 226 kB/439 kB 51%]                              20,1 kB/s 10s"
+    ],
+    [
+      0.500610,
+      "\r100% [25 Packages 226 kB/439 kB 51%]                              20,1 kB/s 10s"
+    ],
+    [
+      0.500659,
+      "\r100% [25 Packages 229 kB/439 kB 52%]                              20,1 kB/s 10s"
+    ],
+    [
+      0.500771,
+      "\r100% [25 Packages 233 kB/439 kB 53%]                              20,1 kB/s 10s"
+    ],
+    [
+      0.500635,
+      "\r100% [25 Packages 239 kB/439 kB 54%]                               20,1 kB/s 9s"
+    ],
+    [
+      0.500755,
+      "\r100% [25 Packages 239 kB/439 kB 54%]                               20,1 kB/s 9s"
+    ],
+    [
+      0.500616,
+      "\r100% [25 Packages 249 kB/439 kB 57%]                               20,1 kB/s 9s"
+    ],
+    [
+      0.500658,
+      "\r100% [25 Packages 252 kB/439 kB 57%]                               20,1 kB/s 9s"
+    ],
+    [
+      0.500654,
+      "\r100% [25 Packages 255 kB/439 kB 58%]                              11,5 kB/s 16s"
+    ],
+    [
+      0.500749,
+      "\r100% [25 Packages 260 kB/439 kB 59%]                              11,5 kB/s 15s"
+    ],
+    [
+      0.500734,
+      "\r100% [25 Packages 268 kB/439 kB 61%]                              11,5 kB/s 14s"
+    ],
+    [
+      0.500585,
+      "\r100% [25 Packages 278 kB/439 kB 63%]                              11,5 kB/s 14s"
+    ],
+    [
+      0.500642,
+      "\r100% [25 Packages 280 kB/439 kB 64%]                              11,5 kB/s 13s"
+    ],
+    [
+      0.500636,
+      "\r100% [25 Packages 280 kB/439 kB 64%]                              11,5 kB/s 13s"
+    ],
+    [
+      0.500603,
+      "\r100% [25 Packages 302 kB/439 kB 69%]                              11,5 kB/s 11s"
+    ],
+    [
+      0.500694,
+      "\r100% [25 Packages 312 kB/439 kB 71%]                              11,5 kB/s 11s"
+    ],
+    [
+      0.500768,
+      "\r100% [25 Packages 322 kB/439 kB 73%]                              11,5 kB/s 10s"
+    ],
+    [
+      0.500740,
+      "\r100% [25 Packages 331 kB/439 kB 75%]                               11,5 kB/s 9s"
+    ],
+    [
+      0.500601,
+      "\r100% [25 Packages 344 kB/439 kB 78%]                               11,5 kB/s 8s"
+    ],
+    [
+      0.500747,
+      "\r100% [25 Packages 354 kB/439 kB 81%]                               11,5 kB/s 7s"
+    ],
+    [
+      0.500746,
+      "\r100% [25 Packages 361 kB/439 kB 82%]                               17,7 kB/s 4s"
+    ],
+    [
+      0.500719,
+      "\r100% [25 Packages 371 kB/439 kB 85%]                               17,7 kB/s 3s"
+    ],
+    [
+      0.500649,
+      "\r100% [25 Packages 390 kB/439 kB 89%]                               17,7 kB/s 2s"
+    ],
+    [
+      0.500683,
+      "\r100% [25 Packages 403 kB/439 kB 92%]                               17,7 kB/s 2s"
+    ],
+    [
+      0.500665,
+      "\r100% [25 Packages 420 kB/439 kB 96%]                               17,7 kB/s 1s"
+    ],
+    [
+      0.500759,
+      "\r100% [25 Packages 433 kB/439 kB 99%]                               17,7 kB/s 0s"
+    ],
+    [
+      0.244219,
+      "\r100% [Working]                                                     17,7 kB/s 0s"
+    ],
+    [
+      0.002859,
+      "\r100% [25 Packages bzip2 0 B] [Connecting to id.archive.ubuntu.com (91.189.92.20"
+    ],
+    [
+      0.194770,
+      "\r100% [Connecting to id.archive.ubuntu.com (91.189.92.201)]         17,7 kB/s 0s"
+    ],
+    [
+      0.500495,
+      "\r100% [Waiting for headers]                                         17,7 kB/s 0s"
+    ],
+    [
+      0.269060,
+      "\r                                                                               \rGet:26 http://id.archive.ubuntu.com trusty-updates/restricted i386 Packages [9.256 B]\r\n\r100% [26 Packages 1.112 B/9.256 B 12%]                             17,7 kB/s 0s"
+    ],
+    [
+      0.500730,
+      "\r100% [26 Packages 5.432 B/9.256 B 59%]                             17,7 kB/s 0s"
+    ],
+    [
+      0.500649,
+      "\r100% [26 Packages 5.432 B/9.256 B 59%]                             17,7 kB/s 0s"
+    ],
+    [
+      0.500688,
+      "\r100% [26 Packages 5.432 B/9.256 B 59%]                             17,7 kB/s 0s"
+    ],
+    [
+      0.500667,
+      "\r100% [26 Packages 5.432 B/9.256 B 59%]                             17,7 kB/s 0s"
+    ],
+    [
+      0.500752,
+      "\r100% [26 Packages 5.432 B/9.256 B 59%]                             13,4 kB/s 0s"
+    ],
+    [
+      0.500732,
+      "\r100% [26 Packages 6.872 B/9.256 B 74%]                             13,4 kB/s 0s"
+    ],
+    [
+      0.053058,
+      "\r100% [Working]                                                     13,4 kB/s 0s"
+    ],
+    [
+      0.002247,
+      "\r100% [26 Packages bzip2 0 B] [Waiting for headers]                 13,4 kB/s 0s"
+    ],
+    [
+      0.014754,
+      "\r100% [Waiting for headers]                                         13,4 kB/s 0s"
+    ],
+    [
+      0.385782,
+      "\r                                                                               \rGet:27 http://id.archive.ubuntu.com trusty-updates/universe i386 Packages [259 kB]\r\n\r100% [27 Packages 0 B/259 kB 0%]                                  13,4 kB/s 19s"
+    ],
+    [
+      0.500682,
+      "\r100% [27 Packages 8.309 B/259 kB 3%]                              13,4 kB/s 18s"
+    ],
+    [
+      0.500744,
+      "\r100% [27 Packages 9.749 B/259 kB 4%]                              13,4 kB/s 18s"
+    ],
+    [
+      0.500716,
+      "\r100% [27 Packages 25,6 kB/259 kB 10%]                             13,4 kB/s 17s"
+    ],
+    [
+      0.500657,
+      "\r100% [27 Packages 40,0 kB/259 kB 15%]                             13,4 kB/s 16s"
+    ],
+    [
+      0.500753,
+      "\r100% [27 Packages 47,2 kB/259 kB 18%]                             13,4 kB/s 15s"
+    ],
+    [
+      0.500732,
+      "\r100% [27 Packages 48,6 kB/259 kB 19%]                             13,4 kB/s 15s"
+    ],
+    [
+      0.500726,
+      "\r100% [27 Packages 57,3 kB/259 kB 22%]                             13,4 kB/s 15s"
+    ],
+    [
+      0.500709,
+      "\r100% [27 Packages 73,1 kB/259 kB 28%]                             13,4 kB/s 13s"
+    ],
+    [
+      0.500777,
+      "\r100% [27 Packages 83,2 kB/259 kB 32%]                             13,4 kB/s 13s"
+    ],
+    [
+      0.500740,
+      "\r100% [27 Packages 96,1 kB/259 kB 37%]                             13,4 kB/s 12s"
+    ],
+    [
+      0.500687,
+      "\r100% [27 Packages 111 kB/259 kB 43%]                               17,7 kB/s 8s"
+    ],
+    [
+      0.500585,
+      "\r100% [27 Packages 126 kB/259 kB 49%]                               17,7 kB/s 7s"
+    ],
+    [
+      0.500788,
+      "\r100% [27 Packages 136 kB/259 kB 53%]                               17,7 kB/s 6s"
+    ],
+    [
+      0.500808,
+      "\r100% [27 Packages 145 kB/259 kB 56%]                               17,7 kB/s 6s"
+    ],
+    [
+      0.500584,
+      "\r100% [27 Packages 164 kB/259 kB 63%]                               17,7 kB/s 5s"
+    ],
+    [
+      0.500644,
+      "\r100% [27 Packages 181 kB/259 kB 70%]                               17,7 kB/s 4s"
+    ],
+    [
+      0.500657,
+      "\r100% [27 Packages 197 kB/259 kB 76%]                               17,7 kB/s 3s"
+    ],
+    [
+      0.500758,
+      "\r100% [27 Packages 203 kB/259 kB 78%]                               17,7 kB/s 3s"
+    ],
+    [
+      0.500716,
+      "\r100% [27 Packages 210 kB/259 kB 81%]                               17,7 kB/s 2s"
+    ],
+    [
+      0.500573,
+      "\r100% [27 Packages 227 kB/259 kB 88%]                               17,7 kB/s 1s"
+    ],
+    [
+      0.409807,
+      "\r100% [Working]                                                     17,7 kB/s 0s"
+    ],
+    [
+      0.003697,
+      "\r100% [27 Packages bzip2 0 B] [Connecting to id.archive.ubuntu.com (91.189.88.14"
+    ],
+    [
+      0.111401,
+      "\r100% [Connecting to id.archive.ubuntu.com (91.189.88.149)]         17,7 kB/s 0s"
+    ],
+    [
+      0.500512,
+      "\r100% [Waiting for headers]                                         17,7 kB/s 0s"
+    ],
+    [
+      0.115762,
+      "\r                                                                               \rGet:28 http://id.archive.ubuntu.com trusty-updates/multiverse i386 Packages [11,3 kB]\r\n\r100% [28 Packages 1.111 B/11,3 kB 10%]                             17,7 kB/s 0s"
+    ],
+    [
+      0.500728,
+      "\r100% [28 Packages 8.311 B/11,3 kB 73%]                             25,4 kB/s 0s"
+    ],
+    [
+      0.500615,
+      "\r100% [28 Packages 8.311 B/11,3 kB 73%]                             25,4 kB/s 0s"
+    ],
+    [
+      0.500781,
+      "\r100% [28 Packages 8.311 B/11,3 kB 73%]                             25,4 kB/s 0s"
+    ],
+    [
+      0.218933,
+      "\r100% [Working]                                                     25,4 kB/s 0s"
+    ],
+    [
+      0.003188,
+      "\r100% [28 Packages bzip2 0 B] [Waiting for headers]                 25,4 kB/s 0s"
+    ],
+    [
+      0.005676,
+      "\r100% [Waiting for headers]                                         25,4 kB/s 0s"
+    ],
+    [
+      0.400760,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty-updates/main Translation-en\r\n\r100% [Working]                                                     25,4 kB/s 0s\r100% [Translation-en 1.785 kB] [Waiting for headers]               25,4 kB/s 0s"
+    ],
+    [
+      0.065533,
+      "\r100% [Waiting for headers]                                         25,4 kB/s 0s"
+    ],
+    [
+      0.341466,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty-updates/multiverse Translation-en\r\n\r100% [Working]                                                     25,4 kB/s 0s"
+    ],
+    [
+      0.000070,
+      "\r100% [Translation-en 18,8 kB] [Waiting for headers]                25,4 kB/s 0s"
+    ],
+    [
+      0.001931,
+      "\r100% [Waiting for headers]                                         25,4 kB/s 0s"
+    ],
+    [
+      0.430746,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty-updates/restricted Translation-en\r\n\r100% [Working]                                                     25,4 kB/s 0s\r100% [Translation-en 15,7 kB] [Waiting for headers]                25,4 kB/s 0s\r100% [Waiting for headers]                                         25,4 kB/s 0s"
+    ],
+    [
+      0.409877,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty-updates/universe Translation-en\r\n\r100% [Working]                                                     25,4 kB/s 0s\r100% [Translation-en 670 kB] [Waiting for headers]                 25,4 kB/s 0s"
+    ],
+    [
+      0.045992,
+      "\r100% [Waiting for headers]                                         25,4 kB/s 0s"
+    ],
+    [
+      0.349329,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty-backports/main Sources\r\n\r100% [Working]                                                     25,4 kB/s 0s"
+    ],
+    [
+      0.000431,
+      "\r100% [Sources 16,3 kB] [Waiting for headers]                       25,4 kB/s 0s"
+    ],
+    [
+      0.016593,
+      "\r100% [Waiting for headers]                                         25,4 kB/s 0s"
+    ],
+    [
+      0.500731,
+      "\r100% [Waiting for headers]                                         25,4 kB/s 0s"
+    ],
+    [
+      0.500710,
+      "\r100% [Waiting for headers]                                         25,4 kB/s 0s"
+    ],
+    [
+      0.351485,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty-backports/restricted Sources\r\n\r100% [Working]                                                     25,4 kB/s 0s"
+    ],
+    [
+      0.000566,
+      "\r100% [Sources 0 B] [Waiting for headers]                           25,4 kB/s 0s\r100% [Waiting for headers]                                         25,4 kB/s 0s"
+    ],
+    [
+      0.500628,
+      "\r100% [Waiting for headers]                                         25,4 kB/s 0s"
+    ],
+    [
+      0.095325,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty-backports/universe Sources\r\n\r100% [Working]                                                     25,4 kB/s 0s"
+    ],
+    [
+      0.000235,
+      "\r100% [Sources 83,7 kB] [Waiting for headers]                       25,4 kB/s 0s"
+    ],
+    [
+      0.023857,
+      "\r100% [Waiting for headers]                                         25,4 kB/s 0s"
+    ],
+    [
+      0.500663,
+      "\r100% [Waiting for headers]                                         25,4 kB/s 0s"
+    ],
+    [
+      0.014199,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty-backports/multiverse Sources\r\n\r100% [Working]                                                     25,4 kB/s 0s"
+    ],
+    [
+      0.000164,
+      "\r100% [Sources 4.444 B] [Waiting for headers]                       25,4 kB/s 0s"
+    ],
+    [
+      0.018743,
+      "\r100% [Waiting for headers]                                         25,4 kB/s 0s"
+    ],
+    [
+      0.500423,
+      "\r100% [Waiting for headers]                                          412 kB/s 0s"
+    ],
+    [
+      0.013408,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty-backports/main amd64 Packages\r\n\r100% [Waiting for headers]                                          412 kB/s 0s\r100% [Packages 20,9 kB] [Waiting for headers]                       412 kB/s 0s\r100% [Waiting for headers]                                          412 kB/s 0s"
+    ],
+    [
+      0.500037,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty-backports/restricted amd64 Packages\r\n\r100% [Working]                                                      412 kB/s 0s"
+    ],
+    [
+      0.000220,
+      "\r100% [Packages 0 B] [Waiting for headers]                           412 kB/s 0s\r100% [Waiting for headers]                                          412 kB/s 0s"
+    ],
+    [
+      0.500742,
+      "\r100% [Waiting for headers]                                          412 kB/s 0s"
+    ],
+    [
+      0.093366,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty-backports/universe amd64 Packages\r\n\r100% [Working]                                                      412 kB/s 0s"
+    ],
+    [
+      0.004108,
+      "\r100% [Packages 123 kB] [Waiting for headers]                        412 kB/s 0s"
+    ],
+    [
+      0.025250,
+      "\r100% [Waiting for headers]                                          412 kB/s 0s"
+    ],
+    [
+      0.500736,
+      "\r100% [Waiting for headers]                                          412 kB/s 0s"
+    ],
+    [
+      0.064274,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty-backports/multiverse amd64 Packages\r\n\r100% [Working]                                                      412 kB/s 0s"
+    ],
+    [
+      0.000424,
+      "\r100% [Packages 2.471 B] [Waiting for headers]                       412 kB/s 0s"
+    ],
+    [
+      0.000411,
+      "\r100% [Waiting for headers]                                          412 kB/s 0s"
+    ],
+    [
+      0.500774,
+      "\r100% [Waiting for headers]                                          412 kB/s 0s"
+    ],
+    [
+      0.035766,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty-backports/main i386 Packages\r\n\r100% [Working]                                                      412 kB/s 0s\r100% [Packages 20,9 kB] [Waiting for headers]                       412 kB/s 0s"
+    ],
+    [
+      0.000286,
+      "\r100% [Waiting for headers]                                          412 kB/s 0s"
+    ],
+    [
+      0.500245,
+      "\r100% [Waiting for headers]                                          412 kB/s 0s"
+    ],
+    [
+      0.033716,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty-backports/restricted i386 Packages\r\n\r100% [Waiting for headers]                                          412 kB/s 0s\r100% [Packages 0 B] [Waiting for headers]                           412 kB/s 0s"
+    ],
+    [
+      0.000220,
+      "\r100% [Waiting for headers]                                          412 kB/s 0s"
+    ],
+    [
+      0.475754,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty-backports/universe i386 Packages\r\n\r100% [Working]                                                      412 kB/s 0s"
+    ],
+    [
+      0.001646,
+      "\r100% [Packages 123 kB] [Waiting for headers]                        412 kB/s 0s"
+    ],
+    [
+      0.002565,
+      "\r100% [Waiting for headers]                                          412 kB/s 0s"
+    ],
+    [
+      0.500756,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty-backports/multiverse i386 Packages\r\n\r100% [Waiting for headers]                                          412 kB/s 0s\r100% [Packages 2.465 B] [Waiting for headers]                       412 kB/s 0s\r100% [Waiting for headers]                                          412 kB/s 0s"
+    ],
+    [
+      0.500645,
+      "\r100% [Waiting for headers]                                          412 kB/s 0s"
+    ],
+    [
+      0.500707,
+      "\r100% [Waiting for headers]                                          412 kB/s 0s"
+    ],
+    [
+      0.029172,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty-backports/main Translation-en\r\n\r100% [Waiting for headers]                                          412 kB/s 0s\r100% [Translation-en 11,1 kB] [Waiting for headers]                 412 kB/s 0s\r100% [Waiting for headers]                                          412 kB/s 0s"
+    ],
+    [
+      0.499565,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty-backports/multiverse Translation-en\r\n\r100% [Working]                                                      412 kB/s 0s"
+    ],
+    [
+      0.000236,
+      "\r100% [Translation-en 1.407 B] [Waiting for headers]                 412 kB/s 0s"
+    ],
+    [
+      0.000226,
+      "\r100% [Waiting for headers]                                          412 kB/s 0s"
+    ],
+    [
+      0.500951,
+      "\r100% [Waiting for headers]                                          412 kB/s 0s\r                                                                               \rHit http://id.archive.ubuntu.com trusty-backports/restricted Translation-en\r\n\r100% [Working]                                                      412 kB/s 0s"
+    ],
+    [
+      0.000150,
+      "\r100% [Translation-en 0 B] [Waiting for headers]                     412 kB/s 0s\r100% [Waiting for headers]                                          412 kB/s 0s"
+    ],
+    [
+      0.500697,
+      "\r100% [Waiting for headers]                                         48,5 kB/s 0s"
+    ],
+    [
+      0.036234,
+      "\r                                                                               \rHit http://id.archive.ubuntu.com trusty-backports/universe Translation-en\r\n\r100% [Waiting for headers]                                         48,5 kB/s 0s\r100% [Translation-en 91,4 kB] [Waiting for headers]                48,5 kB/s 0s"
+    ],
+    [
+      0.024304,
+      "\r100% [Waiting for headers]                                         48,5 kB/s 0s"
+    ],
+    [
+      0.500671,
+      "\r100% [Waiting for headers]                                         48,5 kB/s 0s"
+    ],
+    [
+      0.500416,
+      "\r100% [Waiting for headers]                                         48,5 kB/s 0s"
+    ],
+    [
+      0.500558,
+      "\r100% [Waiting for headers]                                         48,5 kB/s 0s"
+    ],
+    [
+      0.500576,
+      "\r100% [Waiting for headers]                                         48,5 kB/s 0s"
+    ],
+    [
+      0.500730,
+      "\r100% [Waiting for headers]                                         48,5 kB/s 0s"
+    ],
+    [
+      0.500828,
+      "\r100% [Waiting for headers]                                         48,5 kB/s 0s"
+    ],
+    [
+      0.500671,
+      "\r100% [Waiting for headers]                                         48,5 kB/s 0s"
+    ],
+    [
+      0.500602,
+      "\r100% [Waiting for headers]                                         48,5 kB/s 0s"
+    ],
+    [
+      0.500672,
+      "\r100% [Waiting for headers]                                         48,5 kB/s 0s"
+    ],
+    [
+      0.500742,
+      "\r100% [Waiting for headers]                                         48,5 kB/s 0s"
+    ],
+    [
+      0.500500,
+      "\r100% [Waiting for headers]                                         48,5 kB/s 0s"
+    ],
+    [
+      0.365240,
+      "\r                                                                               \rIgn http://id.archive.ubuntu.com trusty/main Translation-en_US\r\n\r100% [Working]                                                     48,5 kB/s 0s"
+    ],
+    [
+      0.423040,
+      "\r                                                                               \rIgn http://id.archive.ubuntu.com trusty/multiverse Translation-en_US\r\n\r100% [Working]                                                     14,4 kB/s 0s"
+    ],
+    [
+      0.422746,
+      "\r                                                                               \rIgn http://id.archive.ubuntu.com trusty/restricted Translation-en_US\r\n\r100% [Working]                                                     14,4 kB/s 0s"
+    ],
+    [
+      0.414262,
+      "\r                                                                               \rIgn http://id.archive.ubuntu.com trusty/universe Translation-en_US\r\n\r100% [Working]                                                     14,4 kB/s 0s\r                                                                               \rFetched 2.595 kB in 2min 11s (19,8 kB/s)\r\n"
+    ],
+    [
+      0.081634,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.071198,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.037493,
+      "\rReading package lists... 1%\r"
+    ],
+    [
+      0.203806,
+      "\rReading package lists... 6%\r"
+    ],
+    [
+      0.000028,
+      "\rReading package lists... 6%\r"
+    ],
+    [
+      0.001890,
+      "\rReading package lists... 6%\r"
+    ],
+    [
+      0.000079,
+      "\rReading package lists... 6%\r"
+    ],
+    [
+      0.524044,
+      "\rReading package lists... 20%\r"
+    ],
+    [
+      0.616064,
+      "\rReading package lists... 32%\r"
+    ],
+    [
+      0.000016,
+      "\rReading package lists... 32%\r"
+    ],
+    [
+      0.032011,
+      "\rReading package lists... 32%\r"
+    ],
+    [
+      0.000026,
+      "\rReading package lists... 32%\r"
+    ],
+    [
+      0.055989,
+      "\rReading package lists... 35%\r"
+    ],
+    [
+      0.136965,
+      "\rReading package lists... 39%\r"
+    ],
+    [
+      0.000027,
+      "\rReading package lists... 39%\r"
+    ],
+    [
+      0.002310,
+      "\rReading package lists... 39%\r"
+    ],
+    [
+      0.000087,
+      "\rReading package lists... 39%\r"
+    ],
+    [
+      0.565002,
+      "\rReading package lists... 59%\r"
+    ],
+    [
+      0.182413,
+      "\rReading package lists... 65%\r"
+    ],
+    [
+      0.000199,
+      "\rReading package lists... 65%\r"
+    ],
+    [
+      0.025611,
+      "\rReading package lists... 65%\r"
+    ],
+    [
+      0.001099,
+      "\rReading package lists... 65%\r"
+    ],
+    [
+      0.145981,
+      "\rReading package lists... 68%\r"
+    ],
+    [
+      0.000185,
+      "\rReading package lists... 68%\r"
+    ],
+    [
+      0.012352,
+      "\rReading package lists... 69%\r"
+    ],
+    [
+      0.000030,
+      "\rReading package lists... 69%\r"
+    ],
+    [
+      0.001111,
+      "\rReading package lists... 69%\r"
+    ],
+    [
+      0.000130,
+      "\rReading package lists... 69%\r"
+    ],
+    [
+      0.349491,
+      "\rReading package lists... 79%\r"
+    ],
+    [
+      0.166625,
+      "\rReading package lists... 84%\r"
+    ],
+    [
+      0.000056,
+      "\rReading package lists... 84%\r"
+    ],
+    [
+      0.118982,
+      "\rReading package lists... 86%\r"
+    ],
+    [
+      0.000027,
+      "\rReading package lists... 86%\r"
+    ],
+    [
+      0.001991,
+      "\rReading package lists... 86%\r"
+    ],
+    [
+      0.000091,
+      "\rReading package lists... 86%\r"
+    ],
+    [
+      0.066831,
+      "\rReading package lists... 87%\r"
+    ],
+    [
+      0.000027,
+      "\rReading package lists... 87%\r"
+    ],
+    [
+      0.003211,
+      "\rReading package lists... 87%\r"
+    ],
+    [
+      0.000090,
+      "\rReading package lists... 87%\r"
+    ],
+    [
+      0.078503,
+      "\rReading package lists... 90%\r"
+    ],
+    [
+      0.000026,
+      "\rReading package lists... 90%\r"
+    ],
+    [
+      0.001696,
+      "\rReading package lists... 90%\r"
+    ],
+    [
+      0.000078,
+      "\rReading package lists... 90%\r"
+    ],
+    [
+      0.051882,
+      "\rReading package lists... 91%\r"
+    ],
+    [
+      0.000026,
+      "\rReading package lists... 91%\r"
+    ],
+    [
+      0.002444,
+      "\rReading package lists... 91%\r"
+    ],
+    [
+      0.000094,
+      "\rReading package lists... 91%\r"
+    ],
+    [
+      0.050519,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.000028,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.000829,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.000072,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.000742,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.000070,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.021141,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.000026,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.001324,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.000019,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.000418,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.000071,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.006291,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.000009,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.000515,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.000072,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.000924,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.000070,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.000371,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.000070,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.003193,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.000020,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.000483,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.000070,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.000495,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.000067,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.000147,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.000068,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.000076,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.000063,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.002008,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.000077,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.022072,
+      "\rReading package lists... 95%\r"
+    ],
+    [
+      0.000126,
+      "\rReading package lists... 95%\r"
+    ],
+    [
+      0.000825,
+      "\rReading package lists... 95%\r"
+    ],
+    [
+      0.000095,
+      "\rReading package lists... 95%\r"
+    ],
+    [
+      0.008673,
+      "\rReading package lists... 95%\r"
+    ],
+    [
+      0.000008,
+      "\rReading package lists... 95%\r"
+    ],
+    [
+      0.001023,
+      "\rReading package lists... 95%\r"
+    ],
+    [
+      0.000076,
+      "\rReading package lists... 95%\r"
+    ],
+    [
+      0.015632,
+      "\rReading package lists... 96%\r"
+    ],
+    [
+      0.000025,
+      "\rReading package lists... 96%\r"
+    ],
+    [
+      0.000827,
+      "\rReading package lists... 96%\r"
+    ],
+    [
+      0.001340,
+      "\rReading package lists... 96%\r"
+    ],
+    [
+      0.005357,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000009,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000890,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000075,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.028572,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000024,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000382,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000071,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000701,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000070,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.008076,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000022,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000371,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000082,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000252,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000074,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.001275,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000075,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000965,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000071,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      1.723572,
+      "\rReading package lists... 98%\r\rReading package lists... 98%\r"
+    ],
+    [
+      0.003852,
+      "\rReading package lists... 99%\r"
+    ],
+    [
+      0.516899,
+      "\rReading package lists... Done\r\r\n"
+    ],
+    [
+      0.004654,
+      "\u001b]0;lab@Creator: ~\u0007lab@Creator:~$ "
+    ],
+    [
+      47.891103,
+      "exit\r\n"
+    ]
+  ]
+}
