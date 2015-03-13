@@ -1,0 +1,978 @@
+{
+  "version": 1,
+  "width": 90,
+  "height": 24,
+  "duration": 84.281614,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.154571,
+      "bash: /home/m005/nuo3rdparty/common/python/lib/python2.7/site-packages:: No such file or directory"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000674,
+      "bash: /home/m005/nuodb-git/nuodblocal/build/test:/home/m005/nuodb-git/nuodblocal/build/test/rest/util/api:: No such file or directory\r\n"
+    ],
+    [
+      0.000573,
+      "bash: /home/m005/nuodb-git/nuodblocal/build/test/shared/python: Is a directory"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000491,
+      "\u001b]0;m005@m005: ~\u0007m005@m005:~$ "
+    ],
+    [
+      8.931063,
+      " vi ~/.bashrc"
+    ],
+    [
+      1.154138,
+      "\r\n"
+    ],
+    [
+      0.374502,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.000591,
+      "\u001b[1;24r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[24;1H\"~/.bashrc\""
+    ],
+    [
+      0.000069,
+      " 120L, 4226C"
+    ],
+    [
+      0.042907,
+      "\u001b[\u003ec\u001b[1;1H\u001b[34m# ~/.bashrc: executed by bash(1) for non-login shells.\r\n# see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)\r\n# for examples\r\n\r\n# If not running interactively, don't do anything\u001b[m\r\n\u001b[33m[\u001b[m \u001b[33m-z\u001b[m \u001b[33m\"\u001b[m\u001b[35m$PS1\u001b[m\u001b[33m\"\u001b[m \u001b[33m]\u001b[m \u0026\u0026 \u001b[33mreturn\u001b[m\r\n\r\n\u001b[34m# don't put duplicate lines or lines starting with space in the history.\r\n# See bash(1) for more options\u001b[m\r\n\u001b[36mHISTCONTROL\u001b[m=ignoreboth\r\n\r\n\u001b[34m# append to the history file, don't overwrite it\u001b[m\r\n\u001b[33mshopt\u001b[m \u001b[35m-s\u001b[m histappend\r\n\r\n\u001b[34m# for setting history length see HISTSIZE and HISTFILESIZE in bash(1)\u001b[m\r\n\u001b[36mHISTSIZE\u001b[m=\u001b[31m1000\u001b[m\r\n\u001b[36mHISTFILESIZE\u001b[m=\u001b[31m2000\u001b[m\r\n\r\n\u001b[34m# check the window size after each command and, if necessary,\r\n# update the values of LINES and COLUMNS.\u001b[m\r\n\u001b[33mshopt\u001b[m \u001b[35m-s\u001b[m checkwinsize\r\n\r\n\u001b[34m# If set, the pattern \"**\" used in a pathname expansion context will\u001b[m\u001b[24;73H1,1\u001b[11CTop\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.014505,
+      "\u001bP+q436f\u001b\\\u001bP+q6b75\u001b\\\u001bP+q6b64\u001b\\\u001bP+q6b72\u001b\\\u001bP+q6b6c\u001b\\\u001bP+q2332\u001b\\\u001bP+q2334\u001b\\\u001bP+q2569\u001b\\\u001bP+q2a37\u001b\\\u001bP+q6b31\u001b\\"
+    ],
+    [
+      1.136377,
+      "\u001b[?25l\u001b[24;73H2\u001b[2;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[24;73H3\u001b[3;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[24;73H4,0-1\u001b[4;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028302,
+      "\u001b[?25l\u001b[24;73H5,1  \u001b[5;1H\u001b[?12l\u001b[?25h\u001b[?25l\r\n\u001b[33m\u001b[46m[\u001b[11C]\u001b[m\u001b[24;73H6\u001b[6;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[33m[\u001b[11C]\u001b[m\u001b[24;73H7,0-1\u001b[7;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027570,
+      "\u001b[?25l\u001b[24;73H8,1  \u001b[8;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[24;73H9\u001b[9;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[24;73H10,1\u001b[10;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.015589,
+      "\u001b[?25l\u001b[24;74H1,0-1\u001b[11;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[24;74H2,1  \u001b[12;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[24;74H3\u001b[13;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.023925,
+      "\u001b[?25l\u001b[24;74H4,0-1\u001b[14;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[24;74H5,1  \u001b[15;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[24;74H6\u001b[16;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.256485,
+      "\u001b[?25l\u001b[24;74H7\u001b[17;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[24;74H8,0-1\u001b[18;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[24;74H9,1  \u001b[19;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.016009,
+      "\u001b[?25l\u001b[24;73H20\u001b[20;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[24;74H1\u001b[21;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[24;74H2,0-1\u001b[22;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.023636,
+      "\u001b[?25l\u001b[24;74H3,1  \u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[34m# match all files and zero or more directories and subdirectories.\u001b[m\u001b[24;1H\u001b[K\u001b[24;73H24,1\u001b[11C1%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[34m#shopt -s globstar\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H25,1\u001b[11C2%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026126,
+      "\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[24;73H\u001b[K\u001b[24;73H26,0-1\u001b[9C3%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[34m# make less more friendly for non-text input files, see lesspipe(1)\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H27,1\u001b[11C4%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[33m\u001b[46m[\u001b[m \u001b[33m-x\u001b[m /usr/bin/lesspipe \u001b[33m\u001b[46m]\u001b[m \u0026\u0026 \u001b[33meval\u001b[m \u001b[33m\"\u001b[m\u001b[35m$(SHELL\u001b[m\u001b[33m=\u001b[m\u001b[35m/bin/sh lesspipe)\u001b[m\u001b[33m\"\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H28,1\u001b[11C5%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.058312,
+      "\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[22;1H\u001b[33m[\u001b[22C]\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H29,0-1\u001b[9C6%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[34m# set variable identifying the chroot you work in (used in the prompt below)\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H30,1\u001b[11C7%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[33mif [\u001b[m \u001b[33m-z\u001b[m \u001b[33m\"\u001b[m\u001b[35m$debian_chroot\u001b[m\u001b[33m\"\u001b[m \u001b[33m]\u001b[m \u001b[33m\u0026\u0026\u001b[m \u001b[33m[\u001b[m \u001b[33m-r\u001b[m /etc/debian_chroot \u001b[33m];\u001b[m \u001b[33mthen\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H31,1\u001b[11C8%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.316539,
+      "\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;4H \u001b[36mdebian_chroot\u001b[m=\u001b[35m$(cat /etc/debian_chroot)\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H32,1\u001b[11C9%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[33mfi\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H33,1\u001b[10C10%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[24;73H\u001b[K\u001b[24;73H34,0-1\u001b[8C11%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.016192,
+      "\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[34m# set a fancy prompt (non-color, unless we know we \"want\" color)\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H35,1\u001b[10C12%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[33mcase\u001b[m \u001b[33m\"\u001b[m\u001b[35m$TERM\u001b[m\u001b[33m\"\u001b[m \u001b[33min\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H36,1\u001b[10C13%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;4H xterm-color\u001b[33m)\u001b[m \u001b[36mcolor_prompt\u001b[m=yes\u001b[33m;;\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H37,1\u001b[10C14%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.015188,
+      "\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[33mesac\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H38,1\u001b[10C15%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[24;73H\u001b[K\u001b[24;73H39,0-1\u001b[8C16%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[34m# uncomment for a colored prompt, if the terminal has the capability; turned\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H40,1\u001b[10C17%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.015643,
+      "\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[34m# off by default to not distract the user: the focus in a terminal window\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H41,1\u001b[10C18%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[34m# should be on the output of commands, not on the prompt\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H42,1\u001b[10C19%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[34m#force_color_prompt=yes\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H43,1\u001b[10C20%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.016512,
+      "\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[24;73H\u001b[K\u001b[24;73H44,0-1\u001b[8C21%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[33mif [\u001b[m \u001b[33m-n\u001b[m \u001b[33m\"\u001b[m\u001b[35m$force_color_prompt\u001b[m\u001b[33m\"\u001b[m \u001b[33m];\u001b[m \u001b[33mthen\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H45,1\u001b[10C22%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;4H \u001b[33mif [\u001b[m \u001b[33m-x\u001b[m /usr/bin/tput \u001b[33m]\u001b[m \u001b[33m\u0026\u0026\u001b[m tput setaf \u001b[31m1\u001b[m \u001b[33m\u003e\u0026\u001b[m/dev/null\u001b[33m;\u001b[m \u001b[33mthen\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H46,1\u001b[10C23%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.273173,
+      "\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;8H \u001b[34m# We have color support; assume it's compliant with Ecma-48\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H47,1-8\u001b[8C24%\u001b[23;8H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;8H \u001b[34m# (ISO/IEC-6429). (Lack of such support is extremely rare, and such\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H48,1-8\u001b[8C25%\u001b[23;8H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;8H \u001b[34m# a case would tend to support setf rather than setaf.)\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H49,1-8\u001b[8C26%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.023304,
+      "\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;8H \u001b[36mcolor_prompt\u001b[m=yes\u001b[24;73H\u001b[K\u001b[24;73H50,1-8\u001b[8C27%\u001b[23;8H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;4H \u001b[33melse\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H51,1\u001b[10C28%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;8H \u001b[36mcolor_prompt\u001b[m=\u001b[24;73H\u001b[K\u001b[24;73H52,1-8\u001b[8C29%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.014931,
+      "\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;4H \u001b[33mfi\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H53,1\u001b[10C30%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[33mfi\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H54,1\u001b[10C31%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[24;73H\u001b[K\u001b[24;73H55,0-1\u001b[8C32%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.016433,
+      "\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[33mif [\u001b[m \u001b[33m\"\u001b[m\u001b[35m$color_prompt\u001b[m\u001b[33m\"\u001b[m \u001b[33m=\u001b[m \u001b[31myes\u001b[m \u001b[33m];\u001b[m \u001b[33mthen\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H56,1\u001b[10C34%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[1;1H\u001b[2M\u001b[1;24r\u001b[22;4H \u001b[35mPS1\u001b[m\u001b[33m=\u001b[m\u001b[31m'${debian_chroot:+($debian_chroot)}\\[\\033[01;32m\\]\\u@\\h\\[\\033[00m\\]:\\[\\033[01;34m\\\\\u001b[23;1H]\\w\\[\\033[00m\\]\\$ '\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H57,1\u001b[10C35%\u001b[22;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[33melse\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H58,1\u001b[10C36%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.015974,
+      "\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;4H \u001b[35mPS1\u001b[m\u001b[33m=\u001b[m\u001b[31m'${debian_chroot:+($debian_chroot)}\\u@\\h:\\w\\$ '\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H59,1\u001b[10C37%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[33mfi\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H60,1\u001b[10C38%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[33munset\u001b[m\u001b[36m color_prompt force_color_prompt\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H61,1\u001b[10C39%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.023855,
+      "\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[24;73H\u001b[K\u001b[24;73H62,0-1\u001b[8C40%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[34m# If this is an xterm set the title to user@host:dir\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H63,1\u001b[10C41%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[33mcase\u001b[m \u001b[33m\"\u001b[m\u001b[35m$TERM\u001b[m\u001b[33m\"\u001b[m \u001b[33min\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H64,1\u001b[10C42%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.305782,
+      "\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1Hxterm*\u001b[33m|\u001b[mrxvt*\u001b[33m)\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H65,1\u001b[10C43%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;4H \u001b[35mPS1\u001b[m\u001b[33m=\"\u001b[m\u001b[31m\\[\u001b[m\u001b[35m\\e\u001b[m\u001b[31m]0;\u001b[m\u001b[35m${debian_chroot\u001b[m\u001b[33m:+\u001b[m(\u001b[35m$debian_chroot\u001b[m)\u001b[35m}\u001b[m\u001b[31m\\u@\\h: \\w\u001b[m\u001b[35m\\a\u001b[m\u001b[31m\\]\u001b[m\u001b[35m$PS1\u001b[m\u001b[33m\"\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H66,1\u001b[10C44%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;4H \u001b[33m;;\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H67,1\u001b[10C45%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.014827,
+      "\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H*\u001b[33m)\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H68,1\u001b[10C46%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;4H \u001b[33m;;\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H69,1\u001b[10C47%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[33mesac\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H70,1\u001b[10C48%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.016201,
+      "\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[24;73H\u001b[K\u001b[24;73H71,0-1\u001b[8C50%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[34m# enable color support of ls and also add handy aliases\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H72,1\u001b[10C51%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[33mif [\u001b[m \u001b[33m-x\u001b[m /usr/bin/dircolors \u001b[33m];\u001b[m \u001b[33mthen\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H73,1\u001b[10C52%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.009862,
+      "\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;4H \u001b[33mtest\u001b[m \u001b[33m-r\u001b[m ~/.dircolors \u001b[33m\u0026\u0026\u001b[m \u001b[33meval\u001b[m \u001b[33m\"\u001b[m\u001b[35m$(dircolors -b ~/.dircolors)\u001b[m\u001b[33m\"\u001b[m \u001b[33m||\u001b[m \u001b[33meval\u001b[m \u001b[33m\"\u001b[m\u001b[35m$(dircolors -b)\u001b[m\u001b[33m\"\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H74,1\u001b[10C53%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;4H \u001b[33malias \u001b[m\u001b[36mls\u001b[m\u001b[33m='\u001b[m\u001b[31mls --color=auto\u001b[m\u001b[33m'\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H75,1\u001b[10C54%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;4H \u001b[34m#alias dir='dir --color=auto'\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H76,1\u001b[10C55%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.014150,
+      "\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;4H \u001b[34m#alias vdir='vdir --color=auto'\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H77,1\u001b[10C56%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[24;73H\u001b[K\u001b[24;73H78,0-1\u001b[8C57%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[1;1H\u001b[2M\u001b[1;24r\u001b[22;4H \u001b[33malias \u001b[m\u001b[36mgrep\u001b[m\u001b[33m='\u001b[m\u001b[31mgrep --color=auto\u001b[m\u001b[33m'\u001b[m\r\n    \u001b[33malias \u001b[m\u001b[36mfgrep\u001b[m\u001b[33m='\u001b[m\u001b[31mfgrep --color=auto\u001b[m\u001b[33m'\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H79,1\u001b[10C58%\u001b[22;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.015778,
+      "\u001b[?25l\u001b[24;73H80\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;4H \u001b[33malias \u001b[m\u001b[36megrep\u001b[m\u001b[33m='\u001b[m\u001b[31megrep --color=auto\u001b[m\u001b[33m'\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H81,1\u001b[10C59%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[33mfi\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H82,1\u001b[10C60%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.023266,
+      "\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[24;73H\u001b[K\u001b[24;73H83,0-1\u001b[8C61%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[34m# some more ls aliases\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H84,1\u001b[10C62%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[33malias \u001b[m\u001b[36mll\u001b[m\u001b[33m='\u001b[m\u001b[31mls -alF\u001b[m\u001b[33m'\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H85,1\u001b[10C63%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.240651,
+      "\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[33malias \u001b[m\u001b[36mla\u001b[m\u001b[33m='\u001b[m\u001b[31mls -A\u001b[m\u001b[33m'\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H86,1\u001b[10C64%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[33malias\u001b[m \u001b[36ml\u001b[m=\u001b[33m'\u001b[m\u001b[31mls -CF\u001b[m\u001b[33m'\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H87,1\u001b[10C65%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[24;73H\u001b[K\u001b[24;73H88,0-1\u001b[8C67%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.023950,
+      "\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[34m# Add an \"alert\" alias for long running commands.  Use like so:\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H89,1\u001b[10C68%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[34m#   sleep 10; alert\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H90,1\u001b[10C69%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[1;1H\u001b[2M\u001b[1;24r\u001b[22;1H\u001b[33malias \u001b[m\u001b[36malert\u001b[m\u001b[33m='\u001b[m\u001b[31mnotify-send --urgency=low -i \"$([ $? = 0 ] \u0026\u0026 echo terminal || echo error)\" \"\"\u001b[23;1H$(history|tail -n1|sed -e \u001b[m\u001b[33m'\u001b[m\u001b[35m\\'\u001b[m\u001b[33m'\u001b[m\u001b[31ms/^\\s*[0-9]\\+\\s*//;s/[;\u0026|]\\s*alert$//\u001b[m\u001b[33m'\u001b[m\u001b[35m\\'\u001b[m\u001b[33m'\u001b[m\u001b[31m)\"\u001b[m\u001b[33m'\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H91,1\u001b[10C70%\u001b[22;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.016058,
+      "\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[24;73H\u001b[K\u001b[24;73H92,0-1\u001b[8C71%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[34m# Alias definitions.\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H93,1\u001b[10C72%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[34m# You may want to put all your additions into a separate file like\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H94,1\u001b[10C73%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.015478,
+      "\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[34m# ~/.bash_aliases, instead of adding them here directly.\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H95,1\u001b[10C74%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[34m# See /usr/share/doc/bash-doc/examples in the bash-doc package.\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H96,1\u001b[10C75%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[24;73H\u001b[K\u001b[24;73H97,0-1\u001b[8C76%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.016950,
+      "\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[33mif [\u001b[m \u001b[33m-f\u001b[m ~/.bash_aliases \u001b[33m];\u001b[m \u001b[33mthen\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H98,1\u001b[10C77%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;4H\u001b[33m . \u001b[m~/.bash_aliases\u001b[24;73H\u001b[K\u001b[24;73H99,1\u001b[10C78%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[33mfi\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H100,1\u001b[9C79%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.047770,
+      "\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[24;73H\u001b[K\u001b[24;73H101,0-1\u001b[7C80%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[34m# enable programmable completion features (you don't need to enable\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H102,1\u001b[9C81%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[34m# this, if it's already enabled in /etc/bash.bashrc and /etc/profile\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H103,1\u001b[9C82%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.352541,
+      "\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[34m# sources /etc/bash.bashrc).\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H104,1\u001b[9C83%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[33mif [\u001b[m \u001b[33m-f\u001b[m /etc/bash_completion \u001b[33m]\u001b[m \u001b[33m\u0026\u0026\u001b[m \u001b[33m!\u001b[m \u001b[33mshopt\u001b[m \u001b[35m-oq\u001b[m posix\u001b[33m;\u001b[m \u001b[33mthen\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H105,1\u001b[9C84%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;4H\u001b[33m . \u001b[m/etc/bash_completion\u001b[24;73H\u001b[K\u001b[24;73H106,1\u001b[9C85%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.023131,
+      "\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[33mfi\u001b[m\u001b[24;73H\u001b[K\u001b[24;73H107,1\u001b[9C86%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[24;73H\u001b[K\u001b[24;73H108,0-1\u001b[7C87%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[24;73H\u001b[K\u001b[24;73H109,0-1\u001b[7C88%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.016988,
+      "\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[33mexport\u001b[m\u001b[36m JAVA_HOME=\u001b[m/home/m005/software/\u001b[33minstall\u001b[m/jdk1.7.0_60\u001b[24;73H\u001b[K\u001b[24;73H110,1\u001b[9C89%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[33mexport\u001b[m\u001b[36m PATH=\u001b[m\u001b[35m$PATH\u001b[m:\u001b[35m$JAVA_HOME\u001b[m/bin:/home/m005/software/\u001b[33minstall\u001b[m/apache-maven-3.2.3/bin\u001b[24;73H\u001b[K\u001b[24;73H111,1\u001b[9C90%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[33mexport\u001b[m\u001b[36m CATALINA_HOME=\u001b[m/home/m005/software/\u001b[33minstall\u001b[m/apache-tomcat-7.0.55\u001b[24;73H\u001b[K\u001b[24;73H112,1\u001b[9C91%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.023892,
+      "\u001b[?25l\u001b[1;23r\u001b[1;1H\u001b[2M\u001b[1;24r\u001b[22;1H\u001b[33mexport\u001b[m\u001b[36m TOMCAT_HOME=\u001b[m/home/m005/software/\u001b[33minstall\u001b[m/apache-tomcat-7.0.55\r\n\u001b[33mexport\u001b[m\u001b[36m NUODB_HOME=\u001b[m/home/m005/software/\u001b[33minstall\u001b[m/nuodb-2.2.0.9.linux.x86_64\u001b[24;73H\u001b[K\u001b[24;73H113,1\u001b[9C93%\u001b[22;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[24;75H4\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[33mexport\u001b[m\u001b[36m PATH=\u001b[m\u001b[35m$PATH\u001b[m:/home/m002/software/\u001b[33minstall\u001b[m/nuodb-2.2.0.9.linux.x86_64/bin\u001b[24;73H\u001b[K\u001b[24;73H115,1\u001b[9C94%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.015937,
+      "\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H\u001b[33mexport\u001b[m\u001b[36m PYTHONPATH=\u001b[m\u001b[35m$PATH\u001b[m:/home/m005/nuodb-git/nuodblocal/Management/src/main/python:\u001b[24;73H\u001b[K\u001b[24;73H116,1\u001b[9C95%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H/home/m005/nuo3rdparty/common/python/lib/python2.7/site-packages:\u001b[24;73H\u001b[K\u001b[24;73H117,1\u001b[9C96%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[1;1H\u001b[2M\u001b[1;24r\u001b[22;1H/home/m005/nuodb-git/nuodblocal/build/\u001b[33mtest\u001b[m:/home/m005/nuodb-git/nuodblocal/build/\u001b[33mtest\u001b[m/restt\u001b[23;1H/util/api:\u001b[24;73H\u001b[K\u001b[24;73H118,1\u001b[9C97%\u001b[22;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.335265,
+      "\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[23;1H/home/m005/nuodb-git/nuodblocal/build/\u001b[33mtest\u001b[m/shared/python\u001b[24;73H\u001b[K\u001b[24;73H119,1\u001b[9C98%\u001b[23;1H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;23r\u001b[23;1H\r\n\u001b[1;24r\u001b[24;73H\u001b[K\u001b[24;73H120,0-1\u001b[7CBot\u001b[23;1H\u001b[?12l\u001b[?25h\u0007"
+    ],
+    [
+      0.023288,
+      "\u0007\u0007\u0007"
+    ],
+    [
+      0.031639,
+      "\u0007\u0007\u0007"
+    ],
+    [
+      0.031961,
+      "\u0007\u0007\u0007"
+    ],
+    [
+      0.032023,
+      "\u0007\u0007\u0007"
+    ],
+    [
+      10.519221,
+      "\u001b[?25l\u001b[24;73H\u001b[K\u001b[24;1H:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.904127,
+      "q\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.320047,
+      "u\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.767956,
+      "i\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.399845,
+      "t\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.832690,
+      "\r"
+    ],
+    [
+      0.001794,
+      "\u001b[?25l\u001b[24;1H\u001b[K\u001b[24;1H\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.000211,
+      "\u001b]0;m005@m005: ~\u0007m005@m005:~$ "
+    ],
+    [
+      11.853620,
+      "c"
+    ],
+    [
+      0.207714,
+      "d"
+    ],
+    [
+      0.264049,
+      " "
+    ],
+    [
+      2.678817,
+      "/home/m005/nuo3rdparty/x86_64-linux/bin"
+    ],
+    [
+      1.041556,
+      "\r\n\u001b]0;m005@m005: ~/nuo3rdparty/x86_64-linux/bin\u0007m005@m005:~/nuo3rdparty/x86_64-linux/bin$ "
+    ],
+    [
+      19.991047,
+      "l"
+    ],
+    [
+      0.208428,
+      "l"
+    ],
+    [
+      0.760434,
+      "\r\n"
+    ],
+    [
+      0.040587,
+      "total 48696\r\n"
+    ],
+    [
+      0.000096,
+      "drwxrwxr-x  2 m005 m005     4096 Mar 13 09:31 \u001b[0m\u001b[01;34m.\u001b[0m/\r\ndrwxrwxr-x 19 m005 m005     4096 Mar 13 09:31 \u001b[01;34m..\u001b[0m/\r\n"
+    ],
+    [
+      0.000005,
+      "-rwxrwxr-x  1 m005 m005      490 Mar 13 09:30 \u001b[01;32mbison\u001b[0m*\r\n-rwxrwxr-x  1 m005 m005      564 Mar 13 09:30 \u001b[01;32mcmake\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "-rwxrwxr-x  1 m005 m005      564 Mar 13 09:30 \u001b[01;32mcpack\u001b[0m*\r\n"
+    ],
+    [
+      0.000013,
+      "-rwxrwxr-x  1 m005 m005      564 Mar 13 09:30 \u001b[01;32mctest\u001b[0m*"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "-rwxrwxr-x  1 m005 m005      444 Mar 13 09:30 \u001b[01;32mdltest\u001b[0m*"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "-rwxrwxr-x  1 m005 m005      490 Mar 13 09:30 \u001b[01;32mflex\u001b[0m*\r\n"
+    ],
+    [
+      0.000019,
+      "-rwxrwxr-x  1 m005 m005      490 Mar 13 09:30 \u001b[01;32mflex++\u001b[0m*\r\n"
+    ],
+    [
+      0.000012,
+      "-rwxrwxr-x  1 m005 m005     3659 Mar 13 09:30 \u001b[01;32mfroot\u001b[0m*\r\n"
+    ],
+    [
+      0.000014,
+      "-rwxrwxr-x  1 m005 m005     1063 Mar 13 09:30 \u001b[01;32mgcore\u001b[0m*\r\n"
+    ],
+    [
+      0.000013,
+      "-rwxrwxr-x  1 m005 m005     1063 Mar 13 09:30 \u001b[01;32mgdb\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "-rwxrwxr-x  1 m005 m005     1063 Mar 13 09:30 \u001b[01;32mgdbserver\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "-rwxrwxr-x  1 m005 m005      361 Mar 13 09:30 \u001b[01;32mgendesc\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "-rwxrwxr-x  1 m005 m005      361 Mar 13 09:30 \u001b[01;32mgenhtml\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "-rwxrwxr-x  1 m005 m005      361 Mar 13 09:30 \u001b[01;32mgeninfo\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "-rwxrwxr-x  1 m005 m005      361 Mar 13 09:30 \u001b[01;32mgenpng\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "-rwxrwxr-x  1 m005 m005      744 Mar 13 09:30 \u001b[01;32mgit\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "-rwxrwxr-x  1 m005 m005      744 Mar 13 09:30 \u001b[01;32mgit-cvsserver\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "-rwxrwxr-x  1 m005 m005   343666 Mar 13 09:30 \u001b[01;32mgitk\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "-rwxrwxr-x  1 m005 m005     2394 Mar 13 09:30 \u001b[01;32mgit-new-workdir\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "-rwxrwxr-x  1 m005 m005      744 Mar 13 09:30 \u001b[01;32mgit-receive-pack\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "-rwxrwxr-x  1 m005 m005      744 Mar 13 09:30 \u001b[01;32mgit-shell\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "-rwxrwxr-x  1 m005 m005      744 Mar 13 09:30 \u001b[01;32mgit-upload-archive\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "-rwxrwxr-x  1 m005 m005      744 Mar 13 09:30 \u001b[01;32mgit-upload-pack\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:30 \u001b[01;32mi686-rh55-linux-gnu-addr2line\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:30 \u001b[01;32mi686-rh55-linux-gnu-ar\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:30 \u001b[01;32mi686-rh55-linux-gnu-as\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:30 \u001b[01;32mi686-rh55-linux-gnu-c++\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:30 \u001b[01;32mi686-rh55-linux-gnu-c++filt\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:30 \u001b[01;32mi686-rh55-linux-gnu-cpp\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:30 \u001b[01;32mi686-rh55-linux-gnu-elfedit\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:30 \u001b[01;32mi686-rh55-linux-gnu-g++\u001b[0m*"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:30 \u001b[01;32mi686-rh55-linux-gnu-gcc\u001b[0m*"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:30 \u001b[01;32mi686-rh55-linux-gnu-gcc-4.9.2\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:30 \u001b[01;32mi686-rh55-linux-gnu-gcc-ar\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:30 \u001b[01;32mi686-rh55-linux-gnu-gcc-nm\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:30 \u001b[01;32mi686-rh55-linux-gnu-gcc-ranlib\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:30 \u001b[01;32mi686-rh55-linux-gnu-gcov\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:30 \u001b[01;32mi686-rh55-linux-gnu-gprof\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:30 \u001b[01;32mi686-rh55-linux-gnu-ld\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:30 \u001b[01;32mi686-rh55-linux-gnu-ld.bfd\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:30 \u001b[01;32mi686-rh55-linux-gnu-nm\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:30 \u001b[01;32mi686-rh55-linux-gnu-objcopy\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:30 \u001b[01;32mi686-rh55-linux-gnu-objdump\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:30 \u001b[01;32mi686-rh55-linux-gnu-ranlib\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:30 \u001b[01;32mi686-rh55-linux-gnu-readelf\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:30 \u001b[01;32mi686-rh55-linux-gnu-size\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:30 \u001b[01;32mi686-rh55-linux-gnu-strings\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:30 \u001b[01;32mi686-rh55-linux-gnu-strip\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "-rwxrwxr-x  1 m005 m005      444 Mar 13 09:30 \u001b[01;32misql\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "-rwxrwxr-x  1 m005 m005      444 Mar 13 09:30 \u001b[01;32miusql\u001b[0m*"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "-rwxrwxr-x  1 m005 m005      361 Mar 13 09:30 \u001b[01;32mlcov\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "-rwxrwxr-x  1 m005 m005      490 Mar 13 09:30 \u001b[01;32mm4\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "-rwxrwxr-x  1 m005 m005   199888 Mar 13 09:30 \u001b[01;32mmake\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "-rwxrwxr-x  1 m005 m005      772 Mar 13 09:30 \u001b[01;32mnuopython\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "-rwxrwxr-x  1 m005 m005 38346752 Mar 13 09:31 \u001b[01;32mphantomjs\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "-rwxrwxr-x  1 m005 m005     3848 Mar 13 09:31 \u001b[01;32msysroot\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:31 \u001b[01;32mtoolchain\u001b[0m*"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "-rwxrwxr-x  1 m005 m005   652856 Mar 13 09:31 \u001b[01;32muncrustify\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "-rwxrwxr-x  1 m005 m005  9982808 Mar 13 09:31 \u001b[01;32mwinexe\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:31 \u001b[01;32mx86_64-rh55-linux-gnu-addr2line\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:31 \u001b[01;32mx86_64-rh55-linux-gnu-ar\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:31 \u001b[01;32mx86_64-rh55-linux-gnu-as\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:31 \u001b[01;32mx86_64-rh55-linux-gnu-c++\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:31 \u001b[01;32mx86_64-rh55-linux-gnu-c++filt\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:31 \u001b[01;32mx86_64-rh55-linux-gnu-cpp\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:31 \u001b[01;32mx86_64-rh55-linux-gnu-elfedit\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:31 \u001b[01;32mx86_64-rh55-linux-gnu-g++\u001b[0m*\r\n"
+    ],
+    [
+      0.000007,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:31 \u001b[01;32mx86_64-rh55-linux-gnu-gcc\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:31 \u001b[01;32mx86_64-rh55-linux-gnu-gcc-4.9.2\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:31 \u001b[01;32mx86_64-rh55-linux-gnu-gcc-ar\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:31 \u001b[01;32mx86_64-rh55-linux-gnu-gcc-nm\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:31 \u001b[01;32mx86_64-rh55-linux-gnu-gcc-ranlib\u001b[0m*"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:31 \u001b[01;32mx86_64-rh55-linux-gnu-gcov\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:31 \u001b[01;32mx86_64-rh55-linux-gnu-gprof\u001b[0m*"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:31 \u001b[01;32mx86_64-rh55-linux-gnu-ld\u001b[0m*\r\n"
+    ],
+    [
+      0.000009,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:31 \u001b[01;32mx86_64-rh55-linux-gnu-ld.bfd\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:31 \u001b[01;32mx86_64-rh55-linux-gnu-nm\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:31 \u001b[01;32mx86_64-rh55-linux-gnu-objcopy\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:31 \u001b[01;32mx86_64-rh55-linux-gnu-objdump\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:31 \u001b[01;32mx86_64-rh55-linux-gnu-ranlib\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:31 \u001b[01;32mx86_64-rh55-linux-gnu-readelf\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:31 \u001b[01;32mx86_64-rh55-linux-gnu-size\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:31 \u001b[01;32mx86_64-rh55-linux-gnu-strings\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "-rwxrwxr-x  1 m005 m005     3198 Mar 13 09:31 \u001b[01;32mx86_64-rh55-linux-gnu-strip\u001b[0m*"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000441,
+      "\u001b]0;m005@m005: ~/nuo3rdparty/x86_64-linux/bin\u0007m005@m005:~/nuo3rdparty/x86_64-linux/bin$ "
+    ],
+    [
+      11.550935,
+      "nuopython build/run-tests.py -b nightly -p 17400 \r rest"
+    ],
+    [
+      1.846868,
+      "\r\n"
+    ],
+    [
+      0.064977,
+      "nuopython: command not found"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.007110,
+      "\u001b]0;m005@m005: ~/nuo3rdparty/x86_64-linux/bin\u0007m005@m005:~/nuo3rdparty/x86_64-linux/bin$ "
+    ],
+    [
+      4.336166,
+      "exit\r\n"
+    ]
+  ]
+}
