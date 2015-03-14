@@ -1,0 +1,186 @@
+{
+  "version": 1,
+  "width": 128,
+  "height": 48,
+  "duration": 22.958081,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "linux",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.004282,
+      "root@debian:~# "
+    ],
+    [
+      10.577461,
+      "p"
+    ],
+    [
+      0.184290,
+      "y"
+    ],
+    [
+      0.176253,
+      "t"
+    ],
+    [
+      0.119827,
+      "h"
+    ],
+    [
+      0.119914,
+      "o"
+    ],
+    [
+      0.127951,
+      "n"
+    ],
+    [
+      0.279912,
+      "\r\n"
+    ],
+    [
+      0.009642,
+      "Python 2.7.3 (default, Mar 13 2014, 11:03:55) "
+    ],
+    [
+      0.000394,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "[GCC 4.7.2] on linux2"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.000077,
+      "Type \"help\", \"copyright\", \"credits\" or \"license\" for more information."
+    ],
+    [
+      0.000084,
+      "\r\n"
+    ],
+    [
+      0.020651,
+      "\u003e\u003e\u003e "
+    ],
+    [
+      0.914682,
+      "i"
+    ],
+    [
+      0.191296,
+      "m"
+    ],
+    [
+      0.072039,
+      "p"
+    ],
+    [
+      0.152092,
+      "o"
+    ],
+    [
+      0.136502,
+      "r"
+    ],
+    [
+      0.200599,
+      "t"
+    ],
+    [
+      0.087610,
+      "t"
+    ],
+    [
+      0.688110,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.240306,
+      " "
+    ],
+    [
+      0.352776,
+      "t"
+    ],
+    [
+      0.183505,
+      "h"
+    ],
+    [
+      0.095906,
+      "i"
+    ],
+    [
+      0.128119,
+      "s"
+    ],
+    [
+      0.568232,
+      "\r\n"
+    ],
+    [
+      0.023848,
+      "The Zen of Python, by Tim Peters\r\n\r\nBeautiful is better than ugly.\r\nExplicit is better than implicit.\r\nSimple is better than complex.\r\nComplex is better than complicated.\r\nFlat is better than nested.\r\nSparse is better than dense.\r\nReadability counts.\r\nSpecial cases aren't special enough to break the rules.\r\nAlthough practicality beats purity.\r\nErrors should never pass silently.\r\nUnless explicitly silenced.\r\nIn the face of ambiguity, refuse the temptation to guess.\r\nThere should be one-- and preferably only one --obvious way to do it.\r\nAlthough that way may not be obvious at first unless you're Dutch.\r\nNow is better than never.\r\nAlthough never is often better than *right* now.\r\nIf the implementation is hard to explain, it's a bad idea.\r\nIf the implementation is easy to explain, it may be a good idea.\r\nNamespaces are one honking great idea -- let's do more of those!\r\n\u003e\u003e\u003e "
+    ],
+    [
+      1.617409,
+      "e"
+    ],
+    [
+      0.240185,
+      "x"
+    ],
+    [
+      0.119227,
+      "i"
+    ],
+    [
+      0.136820,
+      "t"
+    ],
+    [
+      0.480528,
+      "\r\nUse exit() or Ctrl-D (i.e. EOF) to exit\r\n\u003e\u003e\u003e "
+    ],
+    [
+      1.553148,
+      "e"
+    ],
+    [
+      0.207347,
+      "x"
+    ],
+    [
+      0.111544,
+      "i"
+    ],
+    [
+      0.128570,
+      "t"
+    ],
+    [
+      0.775892,
+      "("
+    ],
+    [
+      0.128733,
+      ")"
+    ],
+    [
+      0.394632,
+      "\r\nroot@debian:~# "
+    ],
+    [
+      1.407505,
+      "exit\r\n"
+    ]
+  ]
+}
