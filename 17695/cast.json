@@ -1,0 +1,118 @@
+{
+  "version": 1,
+  "width": 127,
+  "height": 33,
+  "duration": 7.208194,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.093046,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000023,
+      "bash-3.2$ "
+    ],
+    [
+      1.641059,
+      "l"
+    ],
+    [
+      0.192057,
+      "l"
+    ],
+    [
+      0.168011,
+      "\r\n"
+    ],
+    [
+      0.000797,
+      "bash: ll: command not found\r\n"
+    ],
+    [
+      0.000335,
+      "bash-3.2$ "
+    ],
+    [
+      1.054776,
+      "l"
+    ],
+    [
+      0.216196,
+      "s"
+    ],
+    [
+      0.279993,
+      " "
+    ],
+    [
+      0.143831,
+      "-"
+    ],
+    [
+      0.400037,
+      "l"
+    ],
+    [
+      0.241213,
+      "\r\n"
+    ],
+    [
+      0.004404,
+      "total 40\r\n"
+    ],
+    [
+      0.000147,
+      "-rw-r--r--   1 yoav  staff  2468 Jan  6 12:19 Gruntfile.js\r\n"
+    ],
+    [
+      0.000006,
+      "drwxr-xr-x   5 yoav  staff   170 Feb 28 17:03 \u001b[36mbackend\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000004,
+      "drwxr-xr-x   4 yoav  staff   136 Jan  5 16:18 \u001b[36mcommon\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "drwxr-xr-x   3 yoav  staff   102 Feb 18 10:35 \u001b[36mconfig\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000004,
+      "drwxr-xr-x   5 yoav  staff   170 Mar 10 13:22 \u001b[36mdocs\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000004,
+      "drwxr-xr-x  17 yoav  staff   578 Jan  5 16:18 \u001b[36mh2h\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "drwxr-xr-x   4 yoav  staff   136 Mar  4 11:06 \u001b[36miic\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000004,
+      "-rw-r--r--   1 yoav  staff    36 Jan  5 16:18 ionic.project\r\n"
+    ],
+    [
+      0.000031,
+      "drwxr-xr-x  12 yoav  staff   408 Mar  9 15:48 \u001b[36mmigrations\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x   9 yoav  staff   306 Mar  7 09:32 \u001b[36mmodels\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x  38 yoav  staff  1292 Mar 10 12:59 \u001b[36mnode_modules\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000335,
+      "-rw-r--r--   1 yoav  staff   698 Feb 28 17:04 package.json\r\n-rwxr-xr-x   1 yoav  staff   699 Jan 12 14:52 \u001b[35mprerender.js\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x   5 yoav  staff   170 Feb 28 17:03 \u001b[36mroutes\u001b[39;49m\u001b[0m\r\n-rw-r--r--   1 yoav  staff  2829 Feb 20 15:41 server.js\r\ndrwxr-xr-x   6 yoav  staff   204 Mar 12 17:13 \u001b[36mwww\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000150,
+      "bash-3.2$ "
+    ],
+    [
+      2.770166,
+      "exit\r\n"
+    ]
+  ]
+}
