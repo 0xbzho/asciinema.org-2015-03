@@ -1,0 +1,1598 @@
+{
+  "version": 1,
+  "width": 120,
+  "height": 30,
+  "duration": 101.047430,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.142352,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                     \r \r"
+    ],
+    [
+      0.000263,
+      "\u001b]2;bulla@s657t89: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.010658,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[38;5;040mbulla\u001b[00m \u001b[38;5;239mat\u001b[00m \u001b[38;5;033ms657t89\u001b[00m \u001b[38;5;239min\u001b[00m \u001b[1m\u001b[38;5;226m~\u001b[00m \u001b[38;5;239mon\u001b[00m master\u001b[38;5;202m✘✘✘\u001b[00m \u001b[38;5;239musing\u001b[38;5;243m\r\n╰─±\u001b[00m \u001b[K"
+    ],
+    [
+      0.000126,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.132867,
+      "c"
+    ],
+    [
+      0.139446,
+      "\u0008cl"
+    ],
+    [
+      0.231870,
+      "e"
+    ],
+    [
+      0.185732,
+      "a"
+    ],
+    [
+      0.071884,
+      "r"
+    ],
+    [
+      0.086649,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;clear\u0007\u001b]1;clear\u0007"
+    ],
+    [
+      0.004536,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000606,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                     \r \r\u001b]2;bulla@s657t89: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.012677,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[38;5;040mbulla\u001b[00m \u001b[38;5;239mat\u001b[00m \u001b[38;5;033ms657t89\u001b[00m \u001b[38;5;239min\u001b[00m \u001b[1m\u001b[38;5;226m~\u001b[00m \u001b[38;5;239mon\u001b[00m master\u001b[38;5;202m✘✘✘\u001b[00m \u001b[38;5;239musing\u001b[38;5;243m\r\n╰─±\u001b[00m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      2.013750,
+      "l"
+    ],
+    [
+      1.022303,
+      "\u0008 \u0008"
+    ],
+    [
+      0.528175,
+      "p"
+    ],
+    [
+      0.219544,
+      "\u0008pw"
+    ],
+    [
+      0.046208,
+      "d"
+    ],
+    [
+      0.190970,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;pwd\u0007\u001b]1;pwd\u0007/home/bulla\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                     \r \r\u001b]2;bulla@s657t89: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.009182,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[38;5;040mbulla\u001b[00m \u001b[38;5;239mat\u001b[00m \u001b[38;5;033ms657t89\u001b[00m \u001b[38;5;239min\u001b[00m \u001b[1m\u001b[38;5;226m~\u001b[00m \u001b[38;5;239mon\u001b[00m master\u001b[38;5;202m✘✘✘\u001b[00m \u001b[38;5;239musing\u001b[38;5;243m\r\n╰─±\u001b[00m \u001b[K"
+    ],
+    [
+      0.000006,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.475902,
+      "l"
+    ],
+    [
+      0.134000,
+      "\u0008ll"
+    ],
+    [
+      0.506468,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;ls --color=tty -lh\u0007\u001b]1;ll\u0007"
+    ],
+    [
+      0.056351,
+      "insgesamt 1,1G\r\n-rw-r--r-- 1 bulla users 4,2K 14. Mär 07:24 1.xspf\r\n-rw-r--r-- 1 bulla users 5,3K 14. Mär 12:22 2.xspf\r\n-rw-r--r-- 1 bulla users  51K 14. Mär 13:27 all.xspf\r\n-rw-r--r-- 1 bulla users 199K 25. Feb 14:28 ANONOPS\r\n-rw-r--r-- 1 root  root   15K 11. Mär 10:06 Ausgabe.pdf\r\n-rw-r--r-- 1 bulla users  23K  5. Mär 23:30 AVM ZMAP\r\ndrwxr-xr-x 3 bulla users 4,0K 14. Mär 15:40 \u001b[0m\u001b[01;34mBilder\u001b[0m\r\n-rw------- 1 bulla users 385K  5. Mär 09:28 BLUAWP.jpg\r\ndrwxr-xr-x 6 bulla users 4,0K 14. Mär 16:22 \u001b[01;34mDokumente\u001b[0m\r\ndrwxr-xr-x 5 bulla users 4,0K 14. Mär 17:00 \u001b[01;34mDownloads\u001b[0m\r\n-rw-r--r-- 1 bulla users  14K 14. Mär 13:32 JOURNEY.xspf\r\n-rw-r--r-- 1 bulla users 109K 25. Feb 13:12 kodi_crashlog-20150225_131249.log\r\n-rw-r--r-- 1 bulla users  56K 26. Feb 21:44 kodi_crashlog-20150226_214410.log\r\n-rw-r--r-- 1 bulla users  84K 12. Mär 23:03 kodi_crashlog-20150312_230342.log\r\n-rw-r--r-- 1 bulla users 1,1G 14. Mär 16:20 LIVE - Pegida und HoGeSa treffen auf Salafisten-DZayvBSinuw.mp4\r\ndrwxr-xr-x 2 bulla users 4,0K  5. Mär 11:39 \u001b[01;34mlog\u001b[0m\r\ndrwxr-xr-x 2 bulla users 4,0K 30. Nov 09:13 \u001b[01;34mManjaro\u001b[0m\r\n-rw-r--r-- 1 bulla users 2,1M 24. Feb 09:03 mozilla.pdf\r\n-rw-r--r-- 1 bulla users 8,6K  5. Mär 23:32 MUSIC.odt\r\ndrwxr-xr-x 4 bulla users 4,0K 14. Mär 14:11 \u001b[01;34mMusik\u001b[0m\r\n-rw-r--r-- 1 bulla users  774  5. Mär 23:06 netstat\r\n-rw-r--r-- 1 root  root   13K 11. Mär 10:07 netstat.xml\r\ndrwxr-xr-x 2 bulla users 4,0K 17. Feb 07:13 \u001b[01;34mÖffentlich\u001b[0m\r\n-rw-r--r-- 1 root  root  254K  5. Mär 08:36 photorec.ses\r\ndrwxr-xr-x 2 bulla users 4,0K  5. Mär 13:05 \u001b[01;34mSchreibtisch\u001b[0m\r\n-rw-r--r-- 1 bulla users 116K  5. Mär 09:01 testdisk.log\r\ndrwxr-xr-x 4 bulla users 4,0K 26. Feb 03:15 \u001b[01;34mtools\u001b[0m\r\ndrwx------ 3 bulla users 4,0K  1. Jan 2000  \u001b[01;34mtor-browser_en-US\u001b[0m\r\ndrwxr-xr-x 2 bulla users 4,0K 25. Feb 12:12 \u001b[01;34mVideos\u001b[0m\r\ndrwxr-xr-x 2 bulla users 4,0K 17. Feb 07:13 \u001b[01;34mVorlagen\u001b[0m\r\n-rw-r--r-- 1 bulla users   17  5. Mär 23:59 WLAN\r\ndrwxrwxr-x 3 bulla users 4,0K 25. Okt 2013  \u001b[01;34myumi-0.0.1.orig\u001b[0m\r\n"
+    ],
+    [
+      0.000323,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                     \r \r\u001b]2;bulla@s657t89: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.009978,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[38;5;040mbulla\u001b[00m \u001b[38;5;239mat\u001b[00m \u001b[38;5;033ms657t89\u001b[00m \u001b[38;5;239min\u001b[00m \u001b[1m\u001b[38;5;226m~\u001b[00m \u001b[38;5;239mon\u001b[00m master\u001b[38;5;202m✘✘✘\u001b[00m \u001b[38;5;239musing\u001b[38;5;243m\r\n╰─±\u001b[00m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      2.850937,
+      "c"
+    ],
+    [
+      0.024370,
+      "\u0008cd"
+    ],
+    [
+      0.350843,
+      " "
+    ],
+    [
+      2.375418,
+      "o"
+    ],
+    [
+      0.360213,
+      "\u0008 \u0008"
+    ],
+    [
+      0.106865,
+      "t"
+    ],
+    [
+      0.130102,
+      "o"
+    ],
+    [
+      0.253629,
+      "\u0007"
+    ],
+    [
+      0.000010,
+      "\r\r\n"
+    ],
+    [
+      0.000116,
+      "\u001b[J\u001b[1;31mtools\u001b[0m/              \u001b[J\u001b[1;31mtor-browser_en-US\u001b[0m/\u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4Ccd to\u001b[K"
+    ],
+    [
+      0.818811,
+      "ols\u001b[1m/\u001b[0m\r\r\n\u001b[J\u001b[7mtools/            \u001b[0m  \u001b[J\u001b[1;31mtor-browser_en-US\u001b[0m/\u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4Ccd tools\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.003162,
+      "\r\r\n\u001b[7mtools/            \u001b[0m  \r\u001b[7mtools/            \u001b[0m  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4Ccd tools\u001b[1m/\u001b[0m\u001b[K\r\r\n\u001b[J\u001b[A\u001b[13C\u0008\u001b[0m/q"
+    ],
+    [
+      0.650820,
+      "\u0008 \u0008"
+    ],
+    [
+      0.776527,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b[J\u001b]2;cd tools/\u0007\u001b]1;cd\u0007\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                     \r \r\u001b]2;bulla@s657t89: ~/tools\u0007\u001b]1;~/tools\u0007"
+    ],
+    [
+      0.010696,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[38;5;040mbulla\u001b[00m \u001b[38;5;239mat\u001b[00m \u001b[38;5;033ms657t89\u001b[00m \u001b[38;5;239min\u001b[00m \u001b[1m\u001b[38;5;226m~/tools\u001b[00m \u001b[38;5;239mon\u001b[00m master\u001b[38;5;202m✘✘✘\u001b[00m \u001b[38;5;239musing\u001b[38;5;243m\r\n╰─±\u001b[00m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.662560,
+      "l"
+    ],
+    [
+      0.120815,
+      "\u0008ll"
+    ],
+    [
+      0.434180,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;ls --color=tty -lh\u0007\u001b]1;ll\u0007"
+    ],
+    [
+      0.003005,
+      "insgesamt 8,0K\r\n"
+    ],
+    [
+      0.000006,
+      "drwxr-xr-x 2 bulla users 4,0K 25. Feb 16:39 \u001b[0m\u001b[01;34mmultibootusb_7.3.0-1_all\u001b[0m\r\n"
+    ],
+    [
+      0.000045,
+      "drwx------ 3 bulla users 4,0K  1. Jan 2000  \u001b[01;34mtor-browser_en-US\u001b[0m\r\n"
+    ],
+    [
+      0.000504,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                     \r \r\u001b]2;bulla@s657t89: ~/tools\u0007\u001b]1;~/tools\u0007"
+    ],
+    [
+      0.009830,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[38;5;040mbulla\u001b[00m \u001b[38;5;239mat\u001b[00m \u001b[38;5;033ms657t89\u001b[00m \u001b[38;5;239min\u001b[00m \u001b[1m\u001b[38;5;226m~/tools\u001b[00m \u001b[38;5;239mon\u001b[00m master\u001b[38;5;202m✘✘✘\u001b[00m \u001b[38;5;239musing\u001b[38;5;243m\r\n╰─±\u001b[00m \u001b[K"
+    ],
+    [
+      0.000044,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.946041,
+      "c"
+    ],
+    [
+      0.049972,
+      "\u0008cd"
+    ],
+    [
+      0.250203,
+      " "
+    ],
+    [
+      0.302649,
+      "."
+    ],
+    [
+      0.123149,
+      "."
+    ],
+    [
+      0.502468,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;cd ..\u0007\u001b]1;cd\u0007\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                     \r \r\u001b]2;bulla@s657t89: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.010197,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[38;5;040mbulla\u001b[00m \u001b[38;5;239mat\u001b[00m \u001b[38;5;033ms657t89\u001b[00m \u001b[38;5;239min\u001b[00m \u001b[1m\u001b[38;5;226m~\u001b[00m \u001b[38;5;239mon\u001b[00m master\u001b[38;5;202m✘✘✘\u001b[00m \u001b[38;5;239musing\u001b[38;5;243m\r\n╰─±\u001b[00m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.239297,
+      "c"
+    ],
+    [
+      0.062907,
+      "\u0008cd"
+    ],
+    [
+      0.166222,
+      " "
+    ],
+    [
+      0.047348,
+      "."
+    ],
+    [
+      0.125990,
+      "."
+    ],
+    [
+      0.463602,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;cd ..\u0007\u001b]1;cd\u0007\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                     \r \r\u001b]2;bulla@s657t89: /home\u0007\u001b]1;/home\u0007"
+    ],
+    [
+      0.005977,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[38;5;040mbulla\u001b[00m \u001b[38;5;239mat\u001b[00m \u001b[38;5;033ms657t89\u001b[00m \u001b[38;5;239min\u001b[00m \u001b[1m\u001b[38;5;226m/home\u001b[00m \u001b[38;5;239musing\u001b[38;5;243m\r\n╰─○\u001b[00m \u001b[K"
+    ],
+    [
+      0.000014,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.840059,
+      "l"
+    ],
+    [
+      0.147209,
+      "\u0008ll"
+    ],
+    [
+      0.663369,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;ls --color=tty -lh\u0007\u001b]1;ll\u0007"
+    ],
+    [
+      0.002743,
+      "insgesamt 8,0K\r\n"
+    ],
+    [
+      0.000004,
+      "drwx------ 16 alla  alla  4,0K 13. Mär 17:56 \u001b[0m\u001b[01;34malla\u001b[0m\r\n"
+    ],
+    [
+      0.000025,
+      "drwx------ 43 bulla users 4,0K 14. Mär 17:24 \u001b[01;34mbulla\u001b[0m\r\n"
+    ],
+    [
+      0.000418,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                     \r \r\u001b]2;bulla@s657t89: /home\u0007\u001b]1;/home\u0007"
+    ],
+    [
+      0.005795,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[38;5;040mbulla\u001b[00m \u001b[38;5;239mat\u001b[00m \u001b[38;5;033ms657t89\u001b[00m \u001b[38;5;239min\u001b[00m \u001b[1m\u001b[38;5;226m/home\u001b[00m \u001b[38;5;239musing\u001b[38;5;243m\r\n╰─○\u001b[00m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.587098,
+      "c"
+    ],
+    [
+      0.065425,
+      "\u0008cd"
+    ],
+    [
+      0.154381,
+      " "
+    ],
+    [
+      0.501409,
+      "."
+    ],
+    [
+      0.121281,
+      "."
+    ],
+    [
+      0.492466,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;cd ..\u0007\u001b]1;cd\u0007\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                     \r \r\u001b]2;bulla@s657t89: /\u0007\u001b]1;/\u0007"
+    ],
+    [
+      0.006133,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[38;5;040mbulla\u001b[00m \u001b[38;5;239mat\u001b[00m \u001b[38;5;033ms657t89\u001b[00m \u001b[38;5;239min\u001b[00m \u001b[1m\u001b[38;5;226m/\u001b[00m \u001b[38;5;239musing\u001b[38;5;243m\r\n╰─○\u001b[00m "
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      0.000038,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.354989,
+      "c"
+    ],
+    [
+      0.069725,
+      "\u0008cd"
+    ],
+    [
+      0.362280,
+      " "
+    ],
+    [
+      3.256509,
+      "~"
+    ],
+    [
+      1.112079,
+      "/"
+    ],
+    [
+      0.436903,
+      "."
+    ],
+    [
+      0.204614,
+      "\u0007\r\r\n\u001b[1;31m.adobe\u001b[0m/         \u001b[1;31m.dbus\u001b[0m/          \u001b[1;31m.irssi\u001b[0m/         \u001b[1;31m.macromedia\u001b[0m/    \u001b[1;31m.pki\u001b[0m/           \u001b[1;31m.thumbnails\u001b[0m/  \r\n\u001b[1;31m.aqemu\u001b[0m/         \u001b[1;31m.fishBMC-data\u001b[0m/  \u001b[34;42m.java\u001b[0m/          \u001b[1;31m.mixxx\u001b[0m/         \u001b[1;31m.Skype\u001b[0m/         \u001b[1;31m.wine\u001b[0m/        \r\n\u001b[1;31m.asciinema\u001b[0m/     \u001b[1;31m.gimp-2.8\u001b[0m/      \u001b[1;31m.kodi\u001b[0m/          \u001b[1;31m.mozilla\u001b[0m/       \u001b[1;31m.smb\u001b[0m/           \u001b[1;31m.zenmap\u001b[0m/      \r\n\u001b[1;31m.cache\u001b[0m/         \u001b[1;31m.git\u001b[0m/           \u001b[1;31m.links\u001b[0m/         \u001b[1;31m.multibootusb\u001b[0m/  \u001b[1;31m.ssh\u001b[0m/                         \r\n\u001b[J\u001b[1;31m.config\u001b[0m/        \u001b[J\u001b[1;31m.gnupg\u001b[0m/         \u001b[J\u001b[1;31m.local\u001b[0m/         \u001b[J\u001b[1;31m.oh-my-zsh\u001b[0m/     \u001b[J\u001b[1;31m.steam\u001b[0m/         \u001b[J              \u001b[5A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4Ccd ~/.\u001b[K"
+    ],
+    [
+      0.538664,
+      "adobe\u001b[1m/\u001b[0m\r\r\n\u001b[7m.adobe/       \u001b[0m  \u001b[1;31m.dbus\u001b[0m/          \u001b[1;31m.irssi\u001b[0m/         \u001b[1;31m.macromedia\u001b[0m/    \u001b[1;31m.pki\u001b[0m/           \u001b[1;31m.thumbnails\u001b[0m/  \u001b[K\r\n\u001b[1;31m.aqemu\u001b[0m/         \u001b[1;31m.fishBMC-data\u001b[0m/  \u001b[34;42m.java\u001b[0m/          \u001b[1;31m.mixxx\u001b[0m/         \u001b[1;31m.Skype\u001b[0m/         \u001b[1;31m.wine\u001b[0m/        \u001b[K\r\n\u001b[1;31m.asciinema\u001b[0m/     \u001b[1;31m.gimp-2.8\u001b[0m/      \u001b[1;31m.kodi\u001b[0m/          \u001b[1;31m.mozilla\u001b[0m/       \u001b[1;31m.smb\u001b[0m/           \u001b[1;31m.zenmap\u001b[0m/      \u001b[K\r\n\u001b[1;31m.cache\u001b[0m/         \u001b[1;31m.git\u001b[0m/           \u001b[1;31m.links\u001b[0m/         \u001b[1;31m.multibootusb\u001b[0m/  \u001b[1;31m.ssh\u001b[0m/                         \u001b[K\r\n\u001b[J\u001b[1;31m.config\u001b[0m/        \u001b[J\u001b[1;31m.gnupg\u001b[0m/         \u001b[J\u001b[1;31m.local\u001b[0m/         \u001b[J\u001b[1;31m.oh-my-zsh\u001b[0m/     \u001b[J\u001b[1;31m.steam\u001b[0m/         \u001b[J              \u001b[5A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4Ccd ~/.adobe\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.165854,
+      "\r\r\n\u001b[7m.adobe/       \u001b[0m  \r\u001b[7m.adobe/       \u001b[0m  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4Ccd ~/.adobe\u001b[1m/\u001b[0m\u001b[K\u0008\u0008\u0008\u0008\u0008qemu\u001b[1C\r\r\n\u001b[1;31m.adobe\u001b[0m/         \r\u001b[1B\u001b[7m.aqemu/       \u001b[0m  \r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4Ccd ~/.aqemu\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.322939,
+      "\u0008\u0008\u0008\u0008\u0008scii\u001b[0mnema\u001b[1m/\u001b[0m\r\r\n\u001b[1B\u001b[1;31m.aqemu\u001b[0m/         \r\u001b[1B\u001b[7m.asciinema/   \u001b[0m  \r\u001b[3A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4Ccd ~/.asciinema\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.014075,
+      "\u001b[10Dcache\u001b[1m/\u001b[0m   \u001b[0m \u0008\u0008\u0008\u0008\r\r\n\u001b[2B\u001b[1;31m.asciinema\u001b[0m/     \r\u001b[1B\u001b[7m.cache/       \u001b[0m  \r\u001b[4A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4Ccd ~/.cache\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.015083,
+      "\u0008\u0008\u0008\u0008\u0008onfi\u001b[0mg\u001b[1m/\u001b[0m\r\r\n\u001b[3B\u001b[1;31m.cache\u001b[0m/         \r\u001b[1B\u001b[7m.config/      \u001b[0m  \r\u001b[5A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4Ccd ~/.config\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.011876,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008dbus\u001b[1m/\u001b[0m \u001b[0m \u0008\u0008\r\r\n\u001b[16C\u001b[7m.dbus/        \u001b[0m  \r\u001b[4B\u001b[1;31m.config\u001b[0m/        \r\u001b[5A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4Ccd ~/.dbus\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.013933,
+      "\u0008\u0008\u0008\u0008\u0008fish\u001b[0mBMC-data\u001b[1m/\u001b[0m\r\r\n\u001b[16C\u001b[1;31m.dbus\u001b[0m/          \r\u001b[1B\u001b[16C\u001b[7m.fishBMC-data/\u001b[0m  \r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4Ccd ~/.fishBMC-data\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.014326,
+      "\u001b[13Dgimp-2.8\u001b[1m/\u001b[0m   \u001b[0m \u0008\u0008\u0008\u0008\r\r\n\u001b[1B\u001b[16C\u001b[1;31m.fishBMC-data\u001b[0m/  \r\u001b[1B\u001b[16C\u001b[7m.gimp-2.8/    \u001b[0m  \r\u001b[3A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4Ccd ~/.gimp-2.8\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.014299,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008t\u001b[1m/\u001b[0m    \u001b[0m \u0008\u0008\u0008\u0008\u0008\r\r\n\u001b[2B\u001b[16C\u001b[1;31m.gimp-2.8\u001b[0m/      \r\u001b[1B\u001b[16C\u001b[7m.git/         \u001b[0m  \r\u001b[4A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4Ccd ~/.git\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.014081,
+      "\u0008\u0008\u0008nu\u001b[0mpg\u001b[1m/\u001b[0m\r\r\n\u001b[3B\u001b[16C\u001b[1;31m.git\u001b[0m/           \r\u001b[1B\u001b[16C\u001b[7m.gnupg/       \u001b[0m  \r\u001b[5A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4Ccd ~/.gnupg\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.014518,
+      "\u0008\u0008\u0008\u0008\u0008\u0008irssi\u001b[1C\r\r\n\u001b[32C\u001b[7m.irssi/       \u001b[0m  \r\u001b[4B\u001b[16C\u001b[1;31m.gnupg\u001b[0m/         \r\u001b[5A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4Ccd ~/.irssi\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.014444,
+      "\u0008\u0008\u0008\u0008\u0008\u0008java\u001b[1m/\u001b[0m\u001b[0m \u0008\r\r\n\u001b[32C\u001b[1;31m.irssi\u001b[0m/         \r\u001b[1B\u001b[32C\u001b[7m.java/        \u001b[0m  \r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4Ccd ~/.java\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.014123,
+      "\u0008\u0008\u0008\u0008\u0008kodi\u001b[1C\r\r\n\u001b[1B\u001b[32C\u001b[34;42m.java\u001b[0m/          \r\u001b[1B\u001b[32C\u001b[7m.kodi/        \u001b[0m  \r\u001b[3A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4Ccd ~/.kodi\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.014963,
+      "\u0008\u0008\u0008\u0008\u0008link\u001b[0ms\u001b[1m/\u001b[0m\r\r\n\u001b[2B\u001b[32C\u001b[1;31m.kodi\u001b[0m/          \r\u001b[1B\u001b[32C\u001b[7m.links/       \u001b[0m  \r\u001b[4A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4Ccd ~/.links\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.012807,
+      "\u0008\u0008\u0008\u0008\u0008ocal\u001b[1C\r\r\n\u001b[3B\u001b[32C\u001b[1;31m.links\u001b[0m/         \r\u001b[1B\u001b[32C\u001b[7m.local/       \u001b[0m  \r\u001b[5A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4Ccd ~/.local\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.013261,
+      "\u0008\u0008\u0008\u0008\u0008\u0008macro\u001b[0mmedia\u001b[1m/\u001b[0m\r\r\n\u001b[48C\u001b[7m.macromedia/  \u001b[0m  \r\u001b[4B\u001b[32C\u001b[1;31m.local\u001b[0m/         \r\u001b[5A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4Ccd ~/.macromedia\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.014504,
+      "\u001b[10Dixxx\u001b[1m/\u001b[0m    \u001b[0m \u0008\u0008\u0008\u0008\u0008\r\r\n\u001b[48C\u001b[1;31m.macromedia\u001b[0m/    \r\u001b[1B\u001b[48C\u001b[7m.mixxx/       \u001b[0m  \r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4Ccd ~/.mixxx\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.013834,
+      "\u0008\u0008\u0008\u0008\u0008ozil\u001b[0mla\u001b[1m/\u001b[0m\r\r\n\u001b[1B\u001b[48C\u001b[1;31m.mixxx\u001b[0m/         \r\u001b[1B\u001b[48C\u001b[7m.mozilla/     \u001b[0m  \r\u001b[3A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4Ccd ~/.mozilla\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.273842,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008ultibo\u001b[0motusb\u001b[1m/\u001b[0m\r\r\n\u001b[2B\u001b[48C\u001b[1;31m.mozilla\u001b[0m/       \r\u001b[1B\u001b[48C\u001b[7m.multibootusb/\u001b[0m  \r\u001b[4A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4Ccd ~/.multibootusb\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.185788,
+      "\u001b[13Doh-my-zsh\u001b[1m/\u001b[0m  \u001b[0m \u0008\u0008\u0008\r\r\n\u001b[3B\u001b[48C\u001b[1;31m.multibootusb\u001b[0m/  \r\u001b[1B\u001b[48C\u001b[7m.oh-my-zsh/   \u001b[0m  \r\u001b[5A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4Ccd ~/.oh-my-zsh\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.183446,
+      "\u001b[10Dpki\u001b[1m/\u001b[0m     \u001b[0m \u0008\u0008\u0008\u0008\u0008\u0008\r\r\n\u001b[64C\u001b[7m.pki/         \u001b[0m  \r\u001b[4B\u001b[48C\u001b[1;31m.oh-my-zsh\u001b[0m/     \r\u001b[5A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4Ccd ~/.pki\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.601558,
+      "\u0008\u0008\u0008\u0008oh-\u001b[0mmy-zsh\u001b[1m/\u001b[0m\r\r\n\u001b[64C\u001b[1;31m.pki\u001b[0m/           \r\u001b[4B\u001b[48C\u001b[7m.oh-my-zsh/   \u001b[0m  \r\u001b[5A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4Ccd ~/.oh-my-zsh\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.182081,
+      "\u001b[10Dmultiboot\u001b[0musb\u001b[1m/\u001b[0m\r\r\n\u001b[3B\u001b[48C\u001b[7m.multibootusb/\u001b[0m  \r\u001b[1B\u001b[48C\u001b[1;31m.oh-my-zsh\u001b[0m/     \r\u001b[5A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4Ccd ~/.multibootusb\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.482541,
+      "\u001b[13Doh-my-zsh\u001b[1m/\u001b[0m  \u001b[0m \u0008\u0008\u0008\r\r\n\u001b[3B\u001b[48C\u001b[1;31m.multibootusb\u001b[0m/  \r\u001b[1B\u001b[48C\u001b[7m.oh-my-zsh/   \u001b[0m  \r\u001b[5A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4Ccd ~/.oh-my-zsh\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.151208,
+      "\r\r\n\u001b[J\u001b[A\u001b[20C"
+    ],
+    [
+      0.239975,
+      "\u0008\u001b[0m \u0008\u001b[?1l\u001b\u003e\r\r\n\u001b[J\u001b]2;cd ~/.oh-my-zsh\u0007\u001b]1;cd\u0007\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                     \r \r\u001b]2;bulla@s657t89: ~/.oh-my-zsh\u0007\u001b]1;~/.oh-my-zsh\u0007"
+    ],
+    [
+      0.212577,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[38;5;040mbulla\u001b[00m \u001b[38;5;239mat\u001b[00m \u001b[38;5;033ms657t89\u001b[00m \u001b[38;5;239min\u001b[00m \u001b[1m\u001b[38;5;226m~/.oh-my-zsh\u001b[00m \u001b[38;5;239mon\u001b[00m master\u001b[38;5;202m✘✘✘\u001b[00m \u001b[38;5;239musing\u001b[38;5;243m\r\n╰─±\u001b[00m \u001b[K"
+    ],
+    [
+      0.000031,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.640093,
+      "l"
+    ],
+    [
+      0.116850,
+      "\u0008ll"
+    ],
+    [
+      0.421015,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;ls --color=tty -lh\u0007\u001b]1;ll\u0007"
+    ],
+    [
+      0.002876,
+      "insgesamt 48K\r\ndrwxr-xr-x   2 bulla users 4,0K 24. Feb 23:09 \u001b[0m\u001b[01;34mcache\u001b[0m\r\ndrwxr-xr-x   3 bulla users 4,0K 24. Feb 23:09 \u001b[01;34mcustom\u001b[0m\r\ndrwxr-xr-x   2 bulla users 4,0K 24. Feb 23:09 \u001b[01;34mlib\u001b[0m\r\ndrwxr-xr-x   2 bulla users 4,0K 24. Feb 23:09 \u001b[01;34mlog\u001b[0m\r\n-rw-r--r--   1 bulla users 1,2K 24. Feb 23:09 MIT-LICENSE.txt\r\n-rw-r--r--   1 bulla users 2,9K 24. Feb 23:09 oh-my-zsh.sh\r\ndrwxr-xr-x 191 bulla users 4,0K 24. Feb 23:09 \u001b[01;34mplugins\u001b[0m\r\n-rw-r--r--   1 bulla users 7,3K 24. Feb 23:09 README.markdown\r\ndrwxr-xr-x   2 bulla users 4,0K 24. Feb 23:09 \u001b[01;34mtemplates\u001b[0m\r\ndrwxr-xr-x   2 bulla users 4,0K 24. Feb 23:09 \u001b[01;34mthemes\u001b[0m\r\ndrwxr-xr-x   2 bulla users 4,0K 24. Feb 23:09 \u001b[01;34mtools\u001b[0m\r\n"
+    ],
+    [
+      0.000329,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                     \r \r\u001b]2;bulla@s657t89: ~/.oh-my-zsh\u0007\u001b]1;~/.oh-my-zsh\u0007"
+    ],
+    [
+      0.013336,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[38;5;040mbulla\u001b[00m \u001b[38;5;239mat\u001b[00m \u001b[38;5;033ms657t89\u001b[00m \u001b[38;5;239min\u001b[00m \u001b[1m\u001b[38;5;226m~/.oh-my-zsh\u001b[00m \u001b[38;5;239mon\u001b[00m master\u001b[38;5;202m✘✘✘\u001b[00m \u001b[38;5;239musing\u001b[38;5;243m\r\n╰─±\u001b[00m \u001b[K"
+    ],
+    [
+      0.000006,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.378971,
+      "c"
+    ],
+    [
+      0.073164,
+      "\u0008cd"
+    ],
+    [
+      0.153170,
+      " "
+    ],
+    [
+      0.916525,
+      "t"
+    ],
+    [
+      0.198698,
+      "o"
+    ],
+    [
+      0.151673,
+      "ols\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.975876,
+      "\u0008\u001b[0m \u0008\u001b[?1l\u001b\u003e\r\r\n\u001b]2;cd tools\u0007\u001b]1;cd\u0007\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                     \r \r\u001b]2;bulla@s657t89: ~/.oh-my-zsh/tools\u0007\u001b]1;..-my-zsh/tools\u0007"
+    ],
+    [
+      0.019432,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[38;5;040mbulla\u001b[00m \u001b[38;5;239mat\u001b[00m \u001b[38;5;033ms657t89\u001b[00m \u001b[38;5;239min\u001b[00m \u001b[1m\u001b[38;5;226m~/.oh-my-zsh/tools\u001b[00m \u001b[38;5;239mon\u001b[00m master\u001b[38;5;202m✘✘✘\u001b[00m \u001b[38;5;239musing\u001b[38;5;243m\r\n╰─±\u001b[00m "
+    ],
+    [
+      0.000006,
+      "\u001b[K"
+    ],
+    [
+      0.000042,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.341124,
+      "l"
+    ],
+    [
+      0.141561,
+      "\u0008ll"
+    ],
+    [
+      0.417693,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;ls --color=tty -lh\u0007\u001b]1;ll\u0007"
+    ],
+    [
+      0.002670,
+      "insgesamt 28K\r\n"
+    ],
+    [
+      0.000004,
+      "-rw-r--r-- 1 bulla users 1,2K 24. Feb 23:09 check_for_upgrade.sh\r\n"
+    ],
+    [
+      0.000023,
+      "-rwxr-xr-x 1 bulla users 1,9K 24. Feb 23:09 \u001b[0m\u001b[01;32minstall.sh\u001b[0m\r\n"
+    ],
+    [
+      0.000004,
+      "-rwxr-xr-x 1 bulla users 4,3K 24. Feb 23:09 \u001b[01;32mrequire_tool.sh\u001b[0m\r\n"
+    ],
+    [
+      0.000002,
+      "-rwxr-xr-x 1 bulla users 3,6K 24. Feb 23:09 \u001b[01;32mtheme_chooser.sh\u001b[0m\r\n"
+    ],
+    [
+      0.000042,
+      "-rw-r--r-- 1 bulla users  673 24. Feb 23:09 uninstall.sh\r\n-rwxr-xr-x 1 bulla users 1,1K 24. Feb 23:09 \u001b[01;32mupgrade.sh\u001b[0m\r\n"
+    ],
+    [
+      0.000424,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                     \r \r\u001b]2;bulla@s657t89: ~/.oh-my-zsh/tools\u0007\u001b]1;..-my-zsh/tools\u0007"
+    ],
+    [
+      0.013051,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[38;5;040mbulla\u001b[00m \u001b[38;5;239mat\u001b[00m \u001b[38;5;033ms657t89\u001b[00m \u001b[38;5;239min\u001b[00m \u001b[1m\u001b[38;5;226m~/.oh-my-zsh/tools\u001b[00m \u001b[38;5;239mon\u001b[00m master\u001b[38;5;202m✘✘✘\u001b[00m \u001b[38;5;239musing\u001b[38;5;243m\r\n╰─±\u001b[00m \u001b[K"
+    ],
+    [
+      0.000012,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.130985,
+      "."
+    ],
+    [
+      0.468630,
+      "\u0008./"
+    ],
+    [
+      3.012824,
+      "r"
+    ],
+    [
+      0.176436,
+      "e"
+    ],
+    [
+      0.202746,
+      "quire_tool.sh\u001b[1m \u001b[0m"
+    ],
+    [
+      0.202074,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000005,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000073,
+      "\r\r\n"
+    ],
+    [
+      0.000459,
+      "\u001b]2;./require_tool.sh\u0007"
+    ],
+    [
+      0.000007,
+      "\u001b]1;./require_tool.sh\u0007"
+    ],
+    [
+      0.090588,
+      "XDG_VTNR=1\r\nXDG_SESSION_ID=c2\r\nGPG_AGENT_INFO=/run/user/1000/keyring/gpg:0:1\r\nVTE_VERSION=3803\r\nXDG_MENU_PREFIX=gnome-\r\nSHELL=/usr/bin/zsh\r\nTERM=xterm\r\nGTK2_RC_FILES=/home/bulla/.gtkrc-2.0\r\nWINDOWID=58720262\r\nZSH=/home/bulla/.oh-my-zsh\r\nUSER=bulla\r\nDESKTOP_AUTOSTART_ID=1010d930be2849183e142633823044287700000011060001\r\nASCIINEMA_REC=1\r\nSSH_AUTH_SOCK=/run/user/1000/keyring/ssh\r\nUSERNAME=bulla\r\nSESSION_MANAGER=local/s657t89:@/tmp/.ICE-unix/1106,unix/s657t89:/tmp/.ICE-unix/1106\r\nPAGER=less\r\nMOZ_PLUGIN_PATH=/usr/lib/mozilla/plugins\r\nLSCOLORS=Gxfxcxdxbxegedabagacad\r\nDESKTOP_SESSION=gnome\r\nMAIL=/var/spool/mail/bulla\r\nPATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\r\nPWD=/home/bulla/.oh-my-zsh/tools\r\nLANG=de_DE.UTF-8\r\nGDM_LANG=de_DE.utf8\r\nGDMSESSION=gnome\r\nSSH_ASKPASS=/usr/lib/seahorse/seahorse-ssh-askpass\r\nSHLVL=4\r\nHOME=/home/bulla\r\nXDG_SEAT=seat0\r\nGNOME_DESKTOP_SESSION_ID=this-is-deprecated\r\nLOGNAME=bulla\r\nXDG_SESSION_DESKTOP=gnome\r\nLESS=-R\r\nDBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-oYBBwngPjI,guid=b5da4cbc0b03ac44657c93ca550431b6\r\nLC_CTYPE=de_DE.UTF-8\r\nBROWSER=/usr/bin/xdg-open\r\nWINDOWPATH=1\r\nDISPLAY=:0\r\nXDG_RUNTIME_DIR=/run/user/1000\r\nXDG_CURRENT_DESKTOP=GNOME\r\nXAUTHORITY=/var/run/gdm/auth-for-bulla-B2YnRS/database\r\n"
+    ],
+    [
+      0.000010,
+      "_=/usr/bin/printenv is required\r\n"
+    ],
+    [
+      0.000268,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                     \r \r"
+    ],
+    [
+      0.000110,
+      "\u001b]2;bulla@s657t89: ~/.oh-my-zsh/tools\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b]1;..-my-zsh/tools\u0007"
+    ],
+    [
+      0.013646,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[38;5;040mbulla\u001b[00m \u001b[38;5;239mat\u001b[00m \u001b[38;5;033ms657t89\u001b[00m \u001b[38;5;239min\u001b[00m \u001b[1m\u001b[38;5;226m~/.oh-my-zsh/tools\u001b[00m \u001b[38;5;239mon\u001b[00m master\u001b[38;5;202m✘✘✘\u001b[00m \u001b[38;5;239musing\u001b[38;5;243m\r\n╰─±\u001b[00m \u001b[K"
+    ],
+    [
+      0.000023,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.501927,
+      "./require_tool.sh"
+    ],
+    [
+      0.668226,
+      "\u0008 \u0008"
+    ],
+    [
+      0.322025,
+      "\u0008 \u0008"
+    ],
+    [
+      0.014039,
+      "\u0008 \u0008"
+    ],
+    [
+      0.014301,
+      "\u0008 \u0008"
+    ],
+    [
+      0.013328,
+      "\u0008 \u0008"
+    ],
+    [
+      0.013699,
+      "\u0008 \u0008"
+    ],
+    [
+      0.014042,
+      "\u0008 \u0008"
+    ],
+    [
+      0.013368,
+      "\u0008 \u0008"
+    ],
+    [
+      0.015023,
+      "\u0008 \u0008"
+    ],
+    [
+      0.014690,
+      "\u0008 \u0008"
+    ],
+    [
+      0.013460,
+      "\u0008 \u0008"
+    ],
+    [
+      0.013959,
+      "\u0008 \u0008"
+    ],
+    [
+      0.013805,
+      "\u0008 \u0008"
+    ],
+    [
+      0.014159,
+      "\u0008 \u0008"
+    ],
+    [
+      0.014380,
+      "\u0008 \u0008"
+    ],
+    [
+      0.405495,
+      "\u0007"
+    ],
+    [
+      0.000009,
+      "\r\r\n"
+    ],
+    [
+      0.000100,
+      "\u001b[J\u001b[1;32minstall.sh\u001b[0m*        \u001b[J\u001b[1;32mrequire_tool.sh\u001b[0m*   \u001b[J\u001b[1;32mtheme_chooser.sh\u001b[0m*  \u001b[J\u001b[1;32mupgrade.sh\u001b[0m*      \u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4C./\u001b[K"
+    ],
+    [
+      0.488590,
+      "install.sh"
+    ],
+    [
+      0.000007,
+      "\r\r\n"
+    ],
+    [
+      0.000067,
+      "\u001b[J\u001b[7minstall.sh*      \u001b[0m  \u001b[J\u001b[1;32mrequire_tool.sh\u001b[0m*   \u001b[J\u001b[1;32mtheme_chooser.sh\u001b[0m*  \u001b[J\u001b[1;32mupgrade.sh\u001b[0m*      \u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4C"
+    ],
+    [
+      0.000004,
+      "./install.sh\u001b[K"
+    ],
+    [
+      0.160889,
+      "\r\r\n"
+    ],
+    [
+      0.000048,
+      "\u001b[7minstall.sh*      \u001b[0m  \r\u001b[7minstall.sh*      \u001b[0m  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4C"
+    ],
+    [
+      0.000004,
+      "./install.sh\u001b[K"
+    ],
+    [
+      0.000037,
+      "\u001b[10Drequire_tool.sh"
+    ],
+    [
+      0.000042,
+      "\r\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[19C\u001b[7mrequire_tool.sh* \u001b[0m  \r\u001b[1;32minstall.sh\u001b[0m*        \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4C./require_tool.sh\u001b[K"
+    ],
+    [
+      0.163851,
+      "\u001b[15Dtheme_chooser.sh"
+    ],
+    [
+      0.000011,
+      "\r\r\n"
+    ],
+    [
+      0.000079,
+      "\u001b[38C\u001b[7mtheme_chooser.sh*\u001b[0m  \r\u001b[19C\u001b[1;32mrequire_tool.sh\u001b[0m*   \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4C"
+    ],
+    [
+      0.000005,
+      "./theme_chooser.sh\u001b[K"
+    ],
+    [
+      0.175014,
+      "\u001b[16Dupgrade.sh      \u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000005,
+      "\r\r\n"
+    ],
+    [
+      0.000042,
+      "\u001b[57C\u001b[7mupgrade.sh*      \u001b[0m\r\u001b[38C\u001b[1;32mtheme_chooser.sh\u001b[0m*  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[4C"
+    ],
+    [
+      0.000002,
+      "./upgrade.sh\u001b[K"
+    ],
+    [
+      0.309922,
+      "\r\r\n\u001b[J\u001b[A\u001b[16C\u001b[1m \u001b[0m"
+    ],
+    [
+      0.195816,
+      "\u0008\u001b[0m \u0008\u001b[?1l\u001b\u003e\r\r\n\u001b[J"
+    ],
+    [
+      0.002099,
+      "\u001b]2;./upgrade.sh\u0007\u001b]1;./upgrade.sh\u0007"
+    ],
+    [
+      0.028680,
+      "\u001b[0;34mUpgrading Oh My Zsh\u001b[0m\r\n"
+    ],
+    [
+      0.199035,
+      "Cannot pull with rebase: You have unstaged changes.\r\n"
+    ],
+    [
+      0.005505,
+      "Please commit or stash them.\r\n"
+    ],
+    [
+      0.000612,
+      "\u001b[0;31mThere was an error updating. Try again later?\u001b[0m\r\n"
+    ],
+    [
+      0.000376,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                     \r \r"
+    ],
+    [
+      0.000165,
+      "\u001b]2;bulla@s657t89: ~/.oh-my-zsh/tools\u0007"
+    ],
+    [
+      0.000062,
+      "\u001b]1;..-my-zsh/tools\u0007"
+    ],
+    [
+      0.017055,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[38;5;040mbulla\u001b[00m \u001b[38;5;239mat\u001b[00m \u001b[38;5;033ms657t89\u001b[00m \u001b[38;5;239min\u001b[00m \u001b[1m\u001b[38;5;226m~/.oh-my-zsh/tools\u001b[00m \u001b[38;5;239mon\u001b[00m master\u001b[38;5;202m✘✘✘\u001b[00m \u001b[38;5;239musing\u001b[38;5;243m\r\n╰─±\u001b[00m \u001b[K"
+    ],
+    [
+      0.000006,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.776072,
+      "c"
+    ],
+    [
+      0.070798,
+      "\u0008cd"
+    ],
+    [
+      0.123738,
+      " "
+    ],
+    [
+      0.104994,
+      "."
+    ],
+    [
+      0.116139,
+      "."
+    ],
+    [
+      0.494401,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;cd ..\u0007\u001b]1;cd\u0007\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                     \r \r\u001b]2;bulla@s657t89: ~/.oh-my-zsh\u0007\u001b]1;~/.oh-my-zsh\u0007"
+    ],
+    [
+      0.014668,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[38;5;040mbulla\u001b[00m \u001b[38;5;239mat\u001b[00m \u001b[38;5;033ms657t89\u001b[00m \u001b[38;5;239min\u001b[00m \u001b[1m\u001b[38;5;226m~/.oh-my-zsh\u001b[00m \u001b[38;5;239mon\u001b[00m master\u001b[38;5;202m✘✘✘\u001b[00m \u001b[38;5;239musing\u001b[38;5;243m\r\n╰─±\u001b[00m "
+    ],
+    [
+      0.000005,
+      "\u001b[K"
+    ],
+    [
+      0.000040,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.810078,
+      "l"
+    ],
+    [
+      0.113699,
+      "\u0008ll"
+    ],
+    [
+      0.657566,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;ls --color=tty -lh\u0007\u001b]1;ll\u0007"
+    ],
+    [
+      0.002969,
+      "insgesamt 48K\r\n"
+    ],
+    [
+      0.000039,
+      "drwxr-xr-x   2 bulla users 4,0K 24. Feb 23:09 \u001b[0m\u001b[01;34mcache\u001b[0m\r\n"
+    ],
+    [
+      0.000047,
+      "drwxr-xr-x   3 bulla users 4,0K 24. Feb 23:09 \u001b[01;34mcustom\u001b[0m\r\ndrwxr-xr-x   2 bulla users 4,0K 24. Feb 23:09 \u001b[01;34mlib\u001b[0m\r\ndrwxr-xr-x   2 bulla users 4,0K 24. Feb 23:09 \u001b[01;34mlog\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "-rw-r--r--   1 bulla users 1,2K 24. Feb 23:09 MIT-LICENSE.txt\r\n-rw-r--r--   1 bulla users 2,9K 24. Feb 23:09 oh-my-zsh.sh\r\n"
+    ],
+    [
+      0.000002,
+      "drwxr-xr-x 191 bulla users 4,0K 24. Feb 23:09 \u001b[01;34mplugins\u001b[0m\r\n"
+    ],
+    [
+      0.000019,
+      "-rw-r--r--   1 bulla users 7,3K 24. Feb 23:09 README.markdown\r\n"
+    ],
+    [
+      0.000004,
+      "drwxr-xr-x   2 bulla users 4,0K 24. Feb 23:09 \u001b[01;34mtemplates\u001b[0m\r\n"
+    ],
+    [
+      0.000002,
+      "drwxr-xr-x   2 bulla users 4,0K 24. Feb 23:09 \u001b[01;34mthemes\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "drwxr-xr-x   2 bulla users 4,0K 24. Feb 23:09 \u001b[01;34mtools\u001b[0m\r\n"
+    ],
+    [
+      0.000452,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                     \r \r\u001b]2;bulla@s657t89: ~/.oh-my-zsh\u0007\u001b]1;~/.oh-my-zsh\u0007"
+    ],
+    [
+      0.013085,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[38;5;040mbulla\u001b[00m \u001b[38;5;239mat\u001b[00m \u001b[38;5;033ms657t89\u001b[00m \u001b[38;5;239min\u001b[00m \u001b[1m\u001b[38;5;226m~/.oh-my-zsh\u001b[00m \u001b[38;5;239mon\u001b[00m master\u001b[38;5;202m✘✘✘\u001b[00m \u001b[38;5;239musing\u001b[38;5;243m\r\n╰─±\u001b[00m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.773822,
+      "c"
+    ],
+    [
+      0.075059,
+      "\u0008cd"
+    ],
+    [
+      0.207420,
+      " "
+    ],
+    [
+      0.471945,
+      "t"
+    ],
+    [
+      0.143972,
+      "o"
+    ],
+    [
+      0.131632,
+      "m"
+    ],
+    [
+      0.378076,
+      "\u0008 \u0008"
+    ],
+    [
+      0.188513,
+      "ols\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.835474,
+      "\u0008\u001b[0m \u0008\u001b[?1l\u001b\u003e\r\r\n\u001b]2;cd tools\u0007\u001b]1;cd\u0007\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                     \r \r\u001b]2;bulla@s657t89: ~/.oh-my-zsh/tools\u0007\u001b]1;..-my-zsh/tools\u0007"
+    ],
+    [
+      0.016520,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[38;5;040mbulla\u001b[00m \u001b[38;5;239mat\u001b[00m \u001b[38;5;033ms657t89\u001b[00m \u001b[38;5;239min\u001b[00m \u001b[1m\u001b[38;5;226m~/.oh-my-zsh/tools\u001b[00m \u001b[38;5;239mon\u001b[00m master\u001b[38;5;202m✘✘✘\u001b[00m \u001b[38;5;239musing\u001b[38;5;243m\r\n╰─±\u001b[00m \u001b[K"
+    ],
+    [
+      0.000028,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.436983,
+      "."
+    ],
+    [
+      0.374565,
+      "\u0008./"
+    ],
+    [
+      0.297354,
+      "t"
+    ],
+    [
+      0.165503,
+      "heme_chooser.sh\u001b[1m \u001b[0m"
+    ],
+    [
+      0.683697,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000046,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000045,
+      "\r\r\n"
+    ],
+    [
+      0.000392,
+      "\u001b]2;./theme_chooser.sh\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b]1;./theme_chooser.sh\u0007"
+    ],
+    [
+      1.919035,
+      "\u001b]2;noyes () { ... }\u0007"
+    ],
+    [
+      0.000018,
+      "\u001b]1;\u0007"
+    ],
+    [
+      0.000077,
+      "\u001b]2;theme_preview () { ... }\u0007"
+    ],
+    [
+      0.000011,
+      "\u001b]1;\u0007"
+    ],
+    [
+      0.000153,
+      "\u001b]2;banner () { ... }\u0007\u001b]1;\u0007"
+    ],
+    [
+      0.000091,
+      "\u001b]2;usage () { ... }\u0007\u001b]1;\u0007"
+    ],
+    [
+      0.000087,
+      "\u001b]2;list_themes () { ... }\u0007\u001b]1;\u0007"
+    ],
+    [
+      0.000096,
+      "\u001b]2;insert_favlist () { ... }\u0007\u001b]1;\u0007"
+    ],
+    [
+      0.000085,
+      "\u001b]2;theme_chooser () { ... }\u0007\u001b]1;\u0007"
+    ],
+    [
+      0.000113,
+      "\u001b]2;while getopts \":lhs\" Option; do; case $Option in (l) list_themes ;; (s)  0 ;; \u0007\u001b]1;\u0007"
+    ],
+    [
+      0.000098,
+      "\u001b]2;if [[ -z $Option ]]; then; if [[ -z $1 ]]; then; banner; echo; theme_chooser;\u0007\u001b]1;\u0007"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[0;1;35;95m╺━\u001b[0;1;31;91m┓┏\u001b[0;1;33;93m━┓\u001b[0;1;32;92m╻\u001b[0m \u001b[0;1;36;96m╻\u001b[0m   \u001b[0;1;35;95m╺┳\u001b[0;1;31;91m╸╻\u001b[0m \u001b[0;1;33;93m╻\u001b[0;1;32;92m┏━\u001b[0;1;36;96m╸┏\u001b[0;1;34;94m┳┓\u001b[0;1;35;95m┏━\u001b[0;1;31;91m╸\u001b[0m   \u001b[0;1;32;92m┏━\u001b[0;1;36;96m╸╻\u001b[0m \u001b[0;1;34;94m╻\u001b[0;1;35;95m┏━\u001b[0;1;31;91m┓┏\u001b[0;1;33;93m━┓\u001b[0;1;32;92m┏━\u001b[0;1;36;96m┓┏\u001b[0;1;34;94m━╸\u001b[0;1;35;95m┏━\u001b[0;1;31;91m┓\u001b[0m\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[0;1;31;91m┏━\u001b[0;1;33;93m┛┗\u001b[0;1;32;92m━┓\u001b[0;1;36;96m┣━\u001b[0;1;34;94m┫\u001b[0m    \u001b[0;1;31;91m┃\u001b[0m \u001b[0;1;33;93m┣\u001b[0;1;32;92m━┫\u001b[0;1;36;96m┣╸\u001b[0m \u001b[0;1;34;94m┃\u001b[0;1;35;95m┃┃\u001b[0;1;31;91m┣╸\u001b[0m    \u001b[0;1;36;96m┃\u001b[0m  \u001b[0;1;34;94m┣\u001b[0;1;35;95m━┫\u001b[0;1;31;91m┃\u001b[0m \u001b[0;1;33;93m┃┃\u001b[0m \u001b[0;1;32;92m┃\u001b[0;1;36;96m┗━\u001b[0;1;34;94m┓┣\u001b[0;1;35;95m╸\u001b[0m \u001b[0;1;31;91m┣┳\u001b[0;1;33;93m┛\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[0;1;33;93m┗━\u001b[0;1;32;92m╸┗\u001b[0;1;36;96m━┛\u001b[0;1;34;94m╹\u001b[0m \u001b[0;1;35;95m╹\u001b[0m    \u001b[0;1;33;93m╹\u001b[0m \u001b[0;1;32;92m╹\u001b[0m \u001b[0;1;36;96m╹\u001b[0;1;34;94m┗━\u001b[0;1;35;95m╸╹\u001b[0m \u001b[0;1;31;91m╹\u001b[0;1;33;93m┗━\u001b[0;1;32;92m╸\u001b[0m   \u001b[0;1;34;94m┗━\u001b[0;1;35;95m╸╹\u001b[0m \u001b[0;1;31;91m╹\u001b[0;1;33;93m┗━\u001b[0;1;32;92m┛┗\u001b[0;1;36;96m━┛\u001b[0;1;34;94m┗━\u001b[0;1;35;95m┛┗\u001b[0;1;31;91m━╸\u001b[0;1;33;93m╹┗\u001b[0;1;32;92m╸\u001b[0m\r\n"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.002067,
+      "\r\n"
+    ],
+    [
+      0.004812,
+      "\u001b[34m─────────────────────────────────────────────────────────────────────────────────────────────\u001b[00m 3den \u001b[34m───\u001b[00m\r\n"
+    ],
+    [
+      0.099271,
+      "theme_preview:6: datei oder Verzeichnis nicht gefunden: /home/bulla/.rvm/bin/rvm-prompt\r\n"
+    ],
+    [
+      0.011887,
+      "\u001b[37m \u001b[01;36m~/.oh-my-zsh/tools\u001b[00m \u001b[37m(master*)\u001b[00m \u001b[36m[05:25:25]\r\n\u001b[01;32mbulla$\u001b[00m                                                                                       \r\n"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "Do you want to add it to your favourite list (/home/bulla/.zsh_favlist)? [y/N] "
+    ],
+    [
+      5.817893,
+      "^C"
+    ],
+    [
+      0.000770,
+      "\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                     \r \r\u001b]2;bulla@s657t89: ~/.oh-my-zsh/tools\u0007\u001b]1;..-my-zsh/tools\u0007"
+    ],
+    [
+      0.014978,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[38;5;040mbulla\u001b[00m \u001b[38;5;239mat\u001b[00m \u001b[38;5;033ms657t89\u001b[00m \u001b[38;5;239min\u001b[00m \u001b[1m\u001b[38;5;226m~/.oh-my-zsh/tools\u001b[00m \u001b[38;5;239mon\u001b[00m master\u001b[38;5;202m✘✘✘\u001b[00m \u001b[38;5;239musing\u001b[38;5;243m\r\n╰─±\u001b[00m \u001b[K"
+    ],
+    [
+      0.000045,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.226418,
+      "./theme_chooser.sh"
+    ],
+    [
+      1.012218,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;./theme_chooser.sh\u0007\u001b]1;./theme_chooser.sh\u0007"
+    ],
+    [
+      0.050495,
+      "\u001b]2;noyes () { ... }\u0007\u001b]1;\u0007"
+    ],
+    [
+      0.000115,
+      "\u001b]2;theme_preview () { ... }\u0007"
+    ],
+    [
+      0.000005,
+      "\u001b]1;\u0007"
+    ],
+    [
+      0.000174,
+      "\u001b]2;banner () { ... }\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b]1;\u0007"
+    ],
+    [
+      0.000157,
+      "\u001b]2;usage () { ... }\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b]1;\u0007"
+    ],
+    [
+      0.000083,
+      "\u001b]2;list_themes () { ... }\u0007\u001b]1;\u0007"
+    ],
+    [
+      0.000110,
+      "\u001b]2;insert_favlist () { ... }\u0007\u001b]1;\u0007"
+    ],
+    [
+      0.000104,
+      "\u001b]2;theme_chooser () { ... }\u0007\u001b]1;\u0007"
+    ],
+    [
+      0.000099,
+      "\u001b]2;while getopts \":lhs\" Option; do; case $Option in (l) list_themes ;; (s)  0 ;; \u0007\u001b]1;\u0007"
+    ],
+    [
+      0.000102,
+      "\u001b]2;if [[ -z $Option ]]; then; if [[ -z $1 ]]; then; banner; echo; theme_chooser;\u0007\u001b]1;\u0007"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[0;1;35;95m╺━\u001b[0;1;31;91m┓┏\u001b[0;1;33;93m━┓\u001b[0;1;32;92m╻\u001b[0m \u001b[0;1;36;96m╻\u001b[0m   \u001b[0;1;35;95m╺┳\u001b[0;1;31;91m╸╻\u001b[0m \u001b[0;1;33;93m╻\u001b[0;1;32;92m┏━\u001b[0;1;36;96m╸┏\u001b[0;1;34;94m┳┓\u001b[0;1;35;95m┏━\u001b[0;1;31;91m╸\u001b[0m   \u001b[0;1;32;92m┏━\u001b[0;1;36;96m╸╻\u001b[0m \u001b[0;1;34;94m╻\u001b[0;1;35;95m┏━\u001b[0;1;31;91m┓┏\u001b[0;1;33;93m━┓\u001b[0;1;32;92m┏━\u001b[0;1;36;96m┓┏\u001b[0;1;34;94m━╸\u001b[0;1;35;95m┏━\u001b[0;1;31;91m┓\u001b[0m\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[0;1;31;91m┏━\u001b[0;1;33;93m┛┗\u001b[0;1;32;92m━┓\u001b[0;1;36;96m┣━\u001b[0;1;34;94m┫\u001b[0m    \u001b[0;1;31;91m┃\u001b[0m \u001b[0;1;33;93m┣\u001b[0;1;32;92m━┫\u001b[0;1;36;96m┣╸\u001b[0m \u001b[0;1;34;94m┃\u001b[0;1;35;95m┃┃\u001b[0;1;31;91m┣╸\u001b[0m    \u001b[0;1;36;96m┃\u001b[0m  \u001b[0;1;34;94m┣\u001b[0;1;35;95m━┫\u001b[0;1;31;91m┃\u001b[0m \u001b[0;1;33;93m┃┃\u001b[0m \u001b[0;1;32;92m┃\u001b[0;1;36;96m┗━\u001b[0;1;34;94m┓┣\u001b[0;1;35;95m╸\u001b[0m \u001b[0;1;31;91m┣┳\u001b[0;1;33;93m┛\u001b[0m\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[0;1;33;93m┗━\u001b[0;1;32;92m╸┗\u001b[0;1;36;96m━┛\u001b[0;1;34;94m╹\u001b[0m \u001b[0;1;35;95m╹\u001b[0m    \u001b[0;1;33;93m╹\u001b[0m \u001b[0;1;32;92m╹\u001b[0m \u001b[0;1;36;96m╹\u001b[0;1;34;94m┗━\u001b[0;1;35;95m╸╹\u001b[0m \u001b[0;1;31;91m╹\u001b[0;1;33;93m┗━\u001b[0;1;32;92m╸\u001b[0m   \u001b[0;1;34;94m┗━\u001b[0;1;35;95m╸╹\u001b[0m \u001b[0;1;31;91m╹\u001b[0;1;33;93m┗━\u001b[0;1;32;92m┛┗\u001b[0;1;36;96m━┛\u001b[0;1;34;94m┗━\u001b[0;1;35;95m┛┗\u001b[0;1;31;91m━╸\u001b[0;1;33;93m╹┗\u001b[0;1;32;92m╸\u001b[0m\r\n"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.001501,
+      "\r\n"
+    ],
+    [
+      0.002898,
+      "\u001b[34m─────────────────────────────────────────────────────────────────────────────────────────────\u001b[00m 3den \u001b[34m───\u001b[00m\r\n"
+    ],
+    [
+      0.001518,
+      "theme_preview:6: datei oder Verzeichnis nicht gefunden: /home/bulla/.rvm/bin/rvm-prompt\r\n"
+    ],
+    [
+      0.011866,
+      "\u001b[37m \u001b[01;36m~/.oh-my-zsh/tools\u001b[00m \u001b[37m(master*)\u001b[00m \u001b[36m[05:25:32]\r\n\u001b[01;32mbulla$\u001b[00m                                                                                       \r\n"
+    ],
+    [
+      0.000007,
+      "\r\nDo you want to add it to your favourite list (/home/bulla/.zsh_favlist)? [y/N] "
+    ],
+    [
+      7.458371,
+      "^C"
+    ],
+    [
+      0.001047,
+      "\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                       \r \r\u001b]2;bulla@s657t89: ~/.oh-my-zsh/tools\u0007\u001b]1;..-my-zsh/tools\u0007"
+    ],
+    [
+      0.019505,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[38;5;040mbulla\u001b[00m \u001b[38;5;239mat\u001b[00m \u001b[38;5;033ms657t89\u001b[00m \u001b[38;5;239min\u001b[00m \u001b[1m\u001b[38;5;226m~/.oh-my-zsh/tools\u001b[00m \u001b[38;5;239mon\u001b[00m master\u001b[38;5;202m✘✘✘\u001b[00m \u001b[38;5;239musing\u001b[38;5;243m\r\n╰─±\u001b[00m \u001b[K"
+    ],
+    [
+      0.000006,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.121838,
+      "./theme_chooser.sh"
+    ],
+    [
+      0.251470,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000023,
+      "\r\r\n"
+    ],
+    [
+      0.000284,
+      "\u001b]2;./theme_chooser.sh\u0007\u001b]1;./theme_chooser.sh\u0007"
+    ],
+    [
+      0.050924,
+      "\u001b]2;noyes () { ... }\u0007\u001b]1;\u0007"
+    ],
+    [
+      0.000074,
+      "\u001b]2;theme_preview () { ... }\u0007"
+    ],
+    [
+      0.000003,
+      "\u001b]1;\u0007"
+    ],
+    [
+      0.000128,
+      "\u001b]2;banner () { ... }\u0007"
+    ],
+    [
+      0.000015,
+      "\u001b]1;\u0007"
+    ],
+    [
+      0.000078,
+      "\u001b]2;usage () { ... }\u0007"
+    ],
+    [
+      0.000011,
+      "\u001b]1;\u0007"
+    ],
+    [
+      0.000082,
+      "\u001b]2;list_themes () { ... }\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b]1;\u0007"
+    ],
+    [
+      0.000088,
+      "\u001b]2;insert_favlist () { ... }\u0007"
+    ],
+    [
+      0.000011,
+      "\u001b]1;\u0007"
+    ],
+    [
+      0.000104,
+      "\u001b]2;theme_chooser () { ... }\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b]1;\u0007"
+    ],
+    [
+      0.000085,
+      "\u001b]2;while getopts \":lhs\" Option; do; case $Option in (l) list_themes ;; (s)  0 ;; \u0007"
+    ],
+    [
+      0.000025,
+      "\u001b]1;\u0007"
+    ],
+    [
+      0.000076,
+      "\u001b]2;if [[ -z $Option ]]; then; if [[ -z $1 ]]; then; banner; echo; theme_chooser;\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b]1;\u0007"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[0;1;35;95m╺━\u001b[0;1;31;91m┓┏\u001b[0;1;33;93m━┓\u001b[0;1;32;92m╻\u001b[0m \u001b[0;1;36;96m╻\u001b[0m   \u001b[0;1;35;95m╺┳\u001b[0;1;31;91m╸╻\u001b[0m \u001b[0;1;33;93m╻\u001b[0;1;32;92m┏━\u001b[0;1;36;96m╸┏\u001b[0;1;34;94m┳┓\u001b[0;1;35;95m┏━\u001b[0;1;31;91m╸\u001b[0m   \u001b[0;1;32;92m┏━\u001b[0;1;36;96m╸╻\u001b[0m \u001b[0;1;34;94m╻\u001b[0;1;35;95m┏━\u001b[0;1;31;91m┓┏\u001b[0;1;33;93m━┓\u001b[0;1;32;92m┏━\u001b[0;1;36;96m┓┏\u001b[0;1;34;94m━╸\u001b[0;1;35;95m┏━\u001b[0;1;31;91m┓\u001b[0m\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[0;1;31;91m┏━\u001b[0;1;33;93m┛┗\u001b[0;1;32;92m━┓\u001b[0;1;36;96m┣━\u001b[0;1;34;94m┫\u001b[0m    \u001b[0;1;31;91m┃\u001b[0m \u001b[0;1;33;93m┣\u001b[0;1;32;92m━┫\u001b[0;1;36;96m┣╸\u001b[0m \u001b[0;1;34;94m┃\u001b[0;1;35;95m┃┃\u001b[0;1;31;91m┣╸\u001b[0m    \u001b[0;1;36;96m┃\u001b[0m  \u001b[0;1;34;94m┣\u001b[0;1;35;95m━┫\u001b[0;1;31;91m┃\u001b[0m \u001b[0;1;33;93m┃┃\u001b[0m \u001b[0;1;32;92m┃\u001b[0;1;36;96m┗━\u001b[0;1;34;94m┓┣\u001b[0;1;35;95m╸\u001b[0m \u001b[0;1;31;91m┣┳\u001b[0;1;33;93m┛\u001b[0m\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[0;1;33;93m┗━\u001b[0;1;32;92m╸┗\u001b[0;1;36;96m━┛\u001b[0;1;34;94m╹\u001b[0m \u001b[0;1;35;95m╹\u001b[0m    \u001b[0;1;33;93m╹\u001b[0m \u001b[0;1;32;92m╹\u001b[0m \u001b[0;1;36;96m╹\u001b[0;1;34;94m┗━\u001b[0;1;35;95m╸╹\u001b[0m \u001b[0;1;31;91m╹\u001b[0;1;33;93m┗━\u001b[0;1;32;92m╸\u001b[0m   \u001b[0;1;34;94m┗━\u001b[0;1;35;95m╸╹\u001b[0m \u001b[0;1;31;91m╹\u001b[0;1;33;93m┗━\u001b[0;1;32;92m┛┗\u001b[0;1;36;96m━┛\u001b[0;1;34;94m┗━\u001b[0;1;35;95m┛┗\u001b[0;1;31;91m━╸\u001b[0;1;33;93m╹┗\u001b[0;1;32;92m╸\u001b[0m\r\n"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.001497,
+      "\r\n"
+    ],
+    [
+      0.002932,
+      "\u001b[34m───────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[00m 3den \u001b[34m───\u001b[00m\r\n"
+    ],
+    [
+      0.001389,
+      "theme_preview:6: datei oder Verzeichnis nicht gefunden: /home/bulla/.rvm/bin/rvm-prompt\r\n"
+    ],
+    [
+      0.012188,
+      "\u001b[37m \u001b[01;36m~/.oh-my-zsh/tools\u001b[00m \u001b[37m(master*)\u001b[00m \u001b[36m[05:25:40]\r\n\u001b[01;32mbulla$\u001b[00m                                                                                       \r\n"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "Do you want to add it to your favourite list (/home/bulla/.zsh_favlist)? [y/N] "
+    ],
+    [
+      6.260807,
+      "y"
+    ],
+    [
+      0.704120,
+      "\r\n"
+    ],
+    [
+      0.032257,
+      "Already in favlist\r\n\r\n\r\n"
+    ],
+    [
+      0.003126,
+      "\u001b[34m──────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[00m adben \u001b[34m───\u001b[00m\r\n"
+    ],
+    [
+      0.025102,
+      "\r\n\u001b[00m\u001b[30m\u003c\u001b[00m\u001b[31m\u003c\u001b[01;31m\u003c\u001b[00m \u001b[00m\u001b[31mbulla@s657t89\u001b[00m\u001b[01;33m~/.oh-my-zsh/tools\u001b[00m\r\n\u001b[00m\u001b[00m\u001b[30m\u003e\u001b[00m\u001b[32m\u003e\u001b[01;32m\u003e\u001b[00m\u001b[00m                                                                                       \u001b[00m\u001b[00m\u001b[31m‹git:master\u001b[00m\u001b[33m ✘\u001b[00m\u001b[31m› \u001b[00m\u001b[33m17:25.47 Sa Mär 14 2015 \u001b[00m\u001b[01;32m\u003e\u001b[00m\u001b[32m\u003e\u001b[30m\u003e\u001b[00m \u001b[00m\r\n"
+    ],
+    [
+      0.000042,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "Do you want to add it to your favourite list (/home/bulla/.zsh_favlist)? [y/N] "
+    ],
+    [
+      1.241136,
+      "n"
+    ],
+    [
+      0.155074,
+      "\r\n"
+    ],
+    [
+      0.000535,
+      "\r\n\r\n"
+    ],
+    [
+      0.006009,
+      "\u001b[34m───────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[00m af-magic \u001b[34m───\u001b[00m\r\n"
+    ],
+    [
+      0.017660,
+      "\u001b[38;5;237m------------------------------------------------------------\u001b[00m\r\n\u001b[38;5;032m~/.oh-my-zsh/tools\r\n\u001b[38;5;075m(branch:master\u001b[38;5;214m*\u001b[00m\u001b[38;5;075m)\u001b[00m \r\n\u001b[38;5;105m»\u001b[00m                                                                                       \u001b[38;5;237mbulla@s657t89\u001b[00m\r\n"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "Do you want to add it to your favourite list (/home/bulla/.zsh_favlist)? [y/N] "
+    ],
+    [
+      0.712060,
+      "n"
+    ],
+    [
+      0.235605,
+      "\r\n\r\n\r\n"
+    ],
+    [
+      0.006170,
+      "\u001b[34m────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[00m afowler \u001b[34m───\u001b[00m\r\n"
+    ],
+    [
+      0.040920,
+      "s657t89 \u001b[01;34m:: \u001b[00m\u001b[32m~/.oh-my-zsh/tools \u001b[33m‹master\u001b[38;5;214m*\u001b[00m› \u001b[00m\u001b[01;34m»\u001b[00m                                                                                       \r\n\r\nDo you want to add it to your favourite list (/home/bulla/.zsh_favlist)? [y/N] "
+    ],
+    [
+      0.476810,
+      "n"
+    ],
+    [
+      0.138332,
+      "\r\n"
+    ],
+    [
+      0.000500,
+      "\r\n\r\n"
+    ],
+    [
+      0.006517,
+      "\u001b[34m───────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[00m agnoster \u001b[34m───\u001b[00m\r\n"
+    ],
+    [
+      0.139536,
+      "\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m bulla@s657t89 \u001b[44m\u001b[30m\u001b[30m ~/.oh-my-zsh/tools \u001b[43m\u001b[34m\u001b[30m  master ● \u001b[49m\u001b[33m\u001b[39m                                                                                       \r\n"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "Do you want to add it to your favourite list (/home/bulla/.zsh_favlist)? [y/N] "
+    ],
+    [
+      1.885458,
+      "y"
+    ],
+    [
+      1.420017,
+      "\r\n"
+    ],
+    [
+      0.003359,
+      "Saved to favlist\r\n\r\n\r\n"
+    ],
+    [
+      0.002958,
+      "\u001b[34m────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[00m alanpeabody \u001b[34m───\u001b[00m\r\n"
+    ],
+    [
+      0.070163,
+      "\u001b[35mbulla@\u001b[35ms657t89\u001b[00m \u001b[34m~/.oh-my-zsh/tools\u001b[00m$                                                                                        \u001b[34m ✹\u001b[00m\u001b[32mmaster\u001b[00m\u001b[00m \r\n"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "Do you want to add it to your favourite list (/home/bulla/.zsh_favlist)? [y/N] "
+    ],
+    [
+      1.690347,
+      "^C"
+    ],
+    [
+      0.001234,
+      "\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                       \r \r\u001b]2;bulla@s657t89: ~/.oh-my-zsh/tools\u0007\u001b]1;..-my-zsh/tools\u0007"
+    ],
+    [
+      0.014409,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[38;5;040mbulla\u001b[00m \u001b[38;5;239mat\u001b[00m \u001b[38;5;033ms657t89\u001b[00m \u001b[38;5;239min\u001b[00m \u001b[1m\u001b[38;5;226m~/.oh-my-zsh/tools\u001b[00m \u001b[38;5;239mon\u001b[00m master\u001b[38;5;202m✘✘✘\u001b[00m \u001b[38;5;239musing\u001b[38;5;243m\r\n╰─±\u001b[00m \u001b[K"
+    ],
+    [
+      0.000005,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.299319,
+      "./theme_chooser.sh"
+    ],
+    [
+      0.222001,
+      "\u001b[18Dcd tools          \u001b[10D"
+    ],
+    [
+      1.084199,
+      "\u0008 \u0008"
+    ],
+    [
+      0.322197,
+      "\u0008 \u0008"
+    ],
+    [
+      0.013770,
+      "\u0008 \u0008"
+    ],
+    [
+      0.015041,
+      "\u0008 \u0008"
+    ],
+    [
+      0.013947,
+      "\u0008 \u0008"
+    ],
+    [
+      0.014888,
+      "\u0008"
+    ],
+    [
+      0.013451,
+      "\u0008\u0008c \u0008"
+    ],
+    [
+      0.014829,
+      "\u0008 \u0008"
+    ],
+    [
+      0.460596,
+      "e"
+    ],
+    [
+      0.051265,
+      "\u0008ex"
+    ],
+    [
+      0.070615,
+      "i"
+    ],
+    [
+      0.169796,
+      "t"
+    ],
+    [
+      0.695518,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;exit\u0007\u001b]1;exit\u0007"
+    ]
+  ]
+}
