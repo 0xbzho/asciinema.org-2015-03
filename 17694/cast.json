@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "width": 170,
+  "height": 40,
+  "duration": 5.175027,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.157141,
+      "\u001b]0;administrador@coord-ssocial-ver: ~\u0007administrador@coord-ssocial-ver:~$ "
+    ],
+    [
+      3.954886,
+      "e"
+    ],
+    [
+      0.256100,
+      "x"
+    ],
+    [
+      0.312072,
+      "i"
+    ],
+    [
+      0.271754,
+      "t"
+    ],
+    [
+      0.200250,
+      "\r\n"
+    ],
+    [
+      0.021363,
+      "exit\r\n"
+    ]
+  ]
+}
