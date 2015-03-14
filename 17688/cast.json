@@ -1,0 +1,5018 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 363.739316,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.012191,
+      "\u001b]0;syfaro@morath: ~\u0007syfaro@morath:~$ "
+    ],
+    [
+      4.890640,
+      "sudo apt-get install libncurses5-dev libgnome2-dev libgnomeui-d \rev \\\r\n\u003e     libgtk2.0-dev libatk1.0-dev libbonoboui2-dev \\\r\n\u003e     libcairo2-dev libx11-dev libxpm-dev libxt-dev python-dev \\\r\n\u003e     ruby-dev mercurial"
+    ],
+    [
+      0.853228,
+      "\r\n"
+    ],
+    [
+      0.004954,
+      "[sudo] password for syfaro: "
+    ],
+    [
+      2.143996,
+      "\r\n"
+    ],
+    [
+      0.030040,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.013035,
+      "\rReading package lists... 100%\r\rReading package lists... Done\r\r\n"
+    ],
+    [
+      0.033926,
+      "\rBuilding dependency tree... 0%\r\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.398004,
+      "\rBuilding dependency tree... 50%\r\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.155002,
+      "\rBuilding dependency tree       \r\r\n\rReading state information... 0%\r\rReading state information... 0%\r"
+    ],
+    [
+      0.002988,
+      "\rReading state information... Done\r\r\n"
+    ],
+    [
+      0.087017,
+      "libcairo2-dev is already the newest version.\r\nlibcairo2-dev set to manually installed.\r\nlibx11-dev is already the newest version.\r\nlibx11-dev set to manually installed.\r\nlibxt-dev is already the newest version.\r\nlibxt-dev set to manually installed.\r\nlibncurses5-dev is already the newest version.\r\npython-dev is already the newest version.\r\nruby-dev is already the newest version.\r\n"
+    ],
+    [
+      0.111995,
+      "The following package was automatically installed and is no longer required:\r\n  libnss3-1d\r\nUse 'apt-get autoremove' to remove it.\r\n"
+    ],
+    [
+      0.026007,
+      "The following extra packages will be installed:\r\n  gir1.2-atk-1.0 gir1.2-gconf-2.0 gir1.2-gdkpixbuf-2.0 gir1.2-gnomekeyring-1.0\r\n  libart-2.0-2 libart-2.0-dev libavahi-client-dev libavahi-common-dev\r\n  libavahi-glib-dev libbonobo2-dev libbonoboui2-0 libbonoboui2-common\r\n  libcanberra-dev libdbus-1-dev libgail-common libgail-dev libgail18\r\n  libgconf2-dev libgconf2-doc libgdk-pixbuf2.0-dev libgnome-keyring-dev\r\n  libgnomecanvas2-0 libgnomecanvas2-common libgnomecanvas2-dev libgnomeui-0\r\n  libgnomeui-common libgnomevfs2-dev libidl-dev liborbit2-dev libpopt-dev\r\n  libselinux1-dev libsepol1-dev libxcomposite-dev libxcursor-dev\r\n  libxdamage-dev libxext-dev libxfixes-dev libxi-dev libxinerama-dev\r\n  libxml2-utils libxrandr-dev mercurial-common orbit2 x11proto-composite-dev\r\n  x11proto-damage-dev x11proto-fixes-dev x11proto-randr-dev x11proto-xext-dev\r\n  x11proto-xinerama-dev\r\n"
+    ],
+    [
+      0.001987,
+      "Suggested packages:\r\n  libgail-doc libgnome2-doc libgnomecanvas2-doc gnome-icon-theme\r\n  libgnomeui-doc libgtk2.0-doc libxext-doc qct kdiff3 kdiff3-qt kompare meld\r\n  xxdiff tkcvs mgdiff python-mysqldb\r\n"
+    ],
+    [
+      0.004019,
+      "The following NEW packages will be installed:\r\n  gir1.2-atk-1.0 gir1.2-gconf-2.0 gir1.2-gdkpixbuf-2.0 gir1.2-gnomekeyring-1.0\r\n  libart-2.0-2 libart-2.0-dev libatk1.0-dev libavahi-client-dev\r\n  libavahi-common-dev libavahi-glib-dev libbonobo2-dev libbonoboui2-0\r\n  libbonoboui2-common libbonoboui2-dev libcanberra-dev libdbus-1-dev\r\n  libgail-common libgail-dev libgail18 libgconf2-dev libgconf2-doc\r\n  libgdk-pixbuf2.0-dev libgnome-keyring-dev libgnome2-dev libgnomecanvas2-0\r\n  libgnomecanvas2-common libgnomecanvas2-dev libgnomeui-0 libgnomeui-common\r\n  libgnomeui-dev libgnomevfs2-dev libgtk2.0-dev libidl-dev liborbit2-dev\r\n  libpopt-dev libselinux1-dev libsepol1-dev libxcomposite-dev libxcursor-dev\r\n  libxdamage-dev libxext-dev libxfixes-dev libxi-dev libxinerama-dev\r\n  libxml2-utils libxpm-dev libxrandr-dev mercurial mercurial-common orbit2\r\n  x11proto-composite-dev x11proto-damage-dev x11proto-fixes-dev\r\n  x11proto-randr-dev x11proto-xext-dev x11proto-xinerama-dev\r\n"
+    ],
+    [
+      0.011981,
+      "0 upgraded, 56 newly installed, 0 to remove and 0 not upgraded.\r\n"
+    ],
+    [
+      0.189001,
+      "Need to get 16.3 MB of archives.\r\nAfter this operation, 62.5 MB of additional disk space will be used.\r\nDo you want to continue [Y/n]? "
+    ],
+    [
+      1.085944,
+      "\r\n"
+    ],
+    [
+      0.004218,
+      "\r\r0% [Working]"
+    ],
+    [
+      0.132859,
+      "\r            \rGet:1 http://security.debian.org/ wheezy/updates/main libdbus-1-dev amd64 1.6.8-1+deb7u6 [248 kB]\r\n\r            \r0% [Waiting for headers] [1 libdbus-1-dev 0 B/248 kB 0%]"
+    ],
+    [
+      0.110742,
+      "\r                                                        \rGet:2 http://ftp.debian.org/debian/ wheezy/main libart-2.0-2 amd64 2.3.21-2 [72.7 kB]\r\n\r                                                        \r0% [2 libart-2.0-2 0 B/72.7 kB 0%] [1 libdbus-1-dev 39.7 kB/248 kB 16%]"
+    ],
+    [
+      0.133927,
+      "\r                                                                       \r2% [2 libart-2.0-2 39.7 kB/72.7 kB 55%]"
+    ],
+    [
+      0.060038,
+      "\r                                       \rGet:3 http://security.debian.org/ wheezy/updates/main libxml2-utils amd64 2.8.0+dfsg1-7+wheezy3 [97.0 kB]\r\n\r                                       \r2% [2 libart-2.0-2 39.7 kB/72.7 kB 55%] [3 libxml2-utils 3,912 B/97.0 kB 4%]"
+    ],
+    [
+      0.007970,
+      "\r                                                                            \r2% [2 libart-2.0-2 39.7 kB/72.7 kB 55%]"
+    ],
+    [
+      0.027247,
+      "\r                                       \r3% [Working]"
+    ],
+    [
+      0.116752,
+      "\r            \rGet:4 http://ftp.debian.org/debian/ wheezy/main libgail18 amd64 2.24.10-2 [482 kB]\r\n\r            \r3% [4 libgail18 0 B/482 kB 0%]"
+    ],
+    [
+      0.499243,
+      "\r                              \r4% [4 libgail18 297 kB/482 kB 62%]"
+    ],
+    [
+      0.310003,
+      "\r                                  \r6% [Working]"
+    ],
+    [
+      0.116001,
+      "\r            \rGet:5 http://ftp.debian.org/debian/ wheezy/main gir1.2-atk-1.0 amd64 2.4.0-2 [64.7 kB]\r\n\r            \r6% [5 gir1.2-atk-1.0 34.5 kB/64.7 kB 53%]"
+    ],
+    [
+      0.000985,
+      "\r                                         \r6% [Working]"
+    ],
+    [
+      0.116017,
+      "\r            \rGet:6 http://ftp.debian.org/debian/ wheezy/main gir1.2-gconf-2.0 amd64 3.2.5-1+build1 [357 kB]\r\n\r            \r6% [6 gir1.2-gconf-2.0 0 B/357 kB 0%]"
+    ],
+    [
+      0.461755,
+      "\r                                     \r8% [Working]"
+    ],
+    [
+      0.115247,
+      "\r            \rGet:7 http://ftp.debian.org/debian/ wheezy/main gir1.2-gdkpixbuf-2.0 amd64 2.26.1-1 [16.6 kB]\r\n\r            \r8% [7 gir1.2-gdkpixbuf-2.0 5,712 B/16.6 kB 34%]"
+    ],
+    [
+      0.000991,
+      "\r                                               \r8% [Waiting for headers]"
+    ],
+    [
+      0.115758,
+      "\r                        \rGet:8 http://ftp.debian.org/debian/ wheezy/main gir1.2-gnomekeyring-1.0 amd64 3.4.1-1 [37.2 kB]\r\n\r                        \r8% [8 gir1.2-gnomekeyring-1.0 0 B/37.2 kB 0%]\r                                             \r8% [Working]"
+    ],
+    [
+      0.130996,
+      "\r            \rGet:9 http://ftp.debian.org/debian/ wheezy/main libart-2.0-dev amd64 2.3.21-2 [91.9 kB]\r\n\r            \r8% [9 libart-2.0-dev 0 B/91.9 kB 0%]"
+    ],
+    [
+      0.001232,
+      "\r                                    \r9% [Working]"
+    ],
+    [
+      0.143020,
+      "\r            \rGet:10 http://ftp.debian.org/debian/ wheezy/main libatk1.0-dev amd64 2.4.0-2 [117 kB]\r\n\r            \r9% [10 libatk1.0-dev 49.2 kB/117 kB 42%]"
+    ],
+    [
+      0.002769,
+      "\r                                        \r10% [Working]"
+    ],
+    [
+      0.128059,
+      "\r             \rGet:11 http://ftp.debian.org/debian/ wheezy/main libavahi-common-dev amd64 0.6.31-2 [73.1 kB]\r\n\r             \r10% [11 libavahi-common-dev 0 B/73.1 kB 0%]\r                                           \r10% [Working]"
+    ],
+    [
+      0.132917,
+      "\r             \rGet:12 http://ftp.debian.org/debian/ wheezy/main libavahi-client-dev amd64 0.6.31-2 [67.4 kB]\r\n\r             \r10% [12 libavahi-client-dev 0 B/67.4 kB 0%]\r                                           \r11% [Working]"
+    ],
+    [
+      0.128000,
+      "\r             \rGet:13 http://ftp.debian.org/debian/ wheezy/main libavahi-glib-dev amd64 0.6.31-2 [38.0 kB]\r\n\r             \r11% [13 libavahi-glib-dev 0 B/38.0 kB 0%]\r                                         \r11% [Working]"
+    ],
+    [
+      0.128007,
+      "\r             \rGet:14 http://ftp.debian.org/debian/ wheezy/main libidl-dev amd64 0.8.14-0.2 [144 kB]\r\n\r             \r11% [14 libidl-dev 0 B/144 kB 0%]"
+    ],
+    [
+      0.114254,
+      "\r                                 \r12% [Working]"
+    ],
+    [
+      0.134542,
+      "\r             \rGet:15 http://ftp.debian.org/debian/ wheezy/main liborbit2-dev amd64 1:2.14.19-0.1 [501 kB]\r\n\r             \r12% [15 liborbit2-dev 0 B/501 kB 0%]"
+    ],
+    [
+      0.346199,
+      "\r                                    \r15% [Working]"
+    ],
+    [
+      0.125279,
+      "\r             \rGet:16 http://ftp.debian.org/debian/ wheezy/main libpopt-dev amd64 1.16-7 [56.2 kB]\r\n\r             \r15% [16 libpopt-dev 9,698 B/56.2 kB 17%]"
+    ],
+    [
+      0.001274,
+      "\r                                        \r15% [Working]"
+    ],
+    [
+      0.158168,
+      "\r             \rGet:17 http://ftp.debian.org/debian/ wheezy/main libbonobo2-dev amd64 2.24.3-1 [792 kB]\r\n\r             \r15% [17 libbonobo2-dev 0 B/792 kB 0%]"
+    ],
+    [
+      0.464279,
+      "\r                                     \r20% [Working]"
+    ],
+    [
+      0.116999,
+      "\r             \rGet:18 http://ftp.debian.org/debian/ wheezy/main libgnomecanvas2-common all 2.30.3-1.2 [133 kB]\r\n\r             \r20% [18 libgnomecanvas2-common 0 B/133 kB 0%]"
+    ],
+    [
+      0.001237,
+      "\r                                             \r21% [Working]"
+    ],
+    [
+      0.132023,
+      "\r             \rGet:19 http://ftp.debian.org/debian/ wheezy/main libgnomecanvas2-0 amd64 2.30.3-1.2 [112 kB]\r\n\r             \r21% [19 libgnomecanvas2-0 0 B/112 kB 0%]"
+    ],
+    [
+      0.001981,
+      "\r                                        \r22% [Working]"
+    ],
+    [
+      0.128229,
+      "\r             \rGet:20 http://ftp.debian.org/debian/ wheezy/main libbonoboui2-common all 2.24.3-1 [401 kB]\r\n\r             \r22% [20 libbonoboui2-common 0 B/401 kB 0%]"
+    ],
+    [
+      0.120551,
+      "\r                                          \r24% [Working]"
+    ],
+    [
+      0.137294,
+      "\r             \rGet:21 http://ftp.debian.org/debian/ wheezy/main libbonoboui2-0 amd64 2.24.3-1 [246 kB]\r\n\r             \r24% [21 libbonoboui2-0 42.0 kB/246 kB 17%]"
+    ],
+    [
+      0.004993,
+      "\r                                          \r26% [Working]"
+    ],
+    [
+      0.134984,
+      "\r             \rGet:22 http://ftp.debian.org/debian/ wheezy/main libgdk-pixbuf2.0-dev amd64 2.26.1-1 [59.0 kB]\r\n\r             \r26% [22 libgdk-pixbuf2.0-dev 53.2 kB/59.0 kB 90%]\r                                                 \r26% [Working]"
+    ],
+    [
+      0.117977,
+      "\r             \rGet:23 http://ftp.debian.org/debian/ wheezy/main x11proto-xext-dev all 7.2.1-1 [273 kB]\r\n\r             \r26% [23 x11proto-xext-dev 0 B/273 kB 0%]"
+    ],
+    [
+      0.115979,
+      "\r                                        \r28% [Working]"
+    ],
+    [
+      0.126692,
+      "\r             \rGet:24 http://ftp.debian.org/debian/ wheezy/main libxext-dev amd64 2:1.3.1-2+deb7u1 [114 kB]\r\n\r             \r28% [24 libxext-dev 8,192 B/114 kB 7%]"
+    ],
+    [
+      0.001989,
+      "\r                                      \r28% [Working]"
+    ],
+    [
+      0.127077,
+      "\r             \rGet:25 http://ftp.debian.org/debian/ wheezy/main x11proto-xinerama-dev all 1.2.1-2 [4,938 B]\r\n\r             \r28% [25 x11proto-xinerama-dev 0 B/4,938 B 0%]\r                                             \r28% [Working]"
+    ],
+    [
+      0.286049,
+      "\r             \rGet:26 http://ftp.debian.org/debian/ wheezy/main libxinerama-dev amd64 2:1.1.2-1+deb7u1 [19.0 kB]\r\n\r             \r28% [26 libxinerama-dev 0 B/19.0 kB 0%]                            764 kB/s 15s\r28% [Working]                                                      764 kB/s 15s"
+    ],
+    [
+      0.134952,
+      "\r                                                                               \rGet:27 http://ftp.debian.org/debian/ wheezy/main libxi-dev amd64 2:1.6.1-1+deb7u1 [248 kB]\r\n\r29% [27 libxi-dev 65.5 kB/248 kB 26%]                              764 kB/s 15s"
+    ],
+    [
+      0.002999,
+      "\r30% [Working]                                                      764 kB/s 14s"
+    ],
+    [
+      0.115549,
+      "\r                                                                               \rGet:28 http://ftp.debian.org/debian/ wheezy/main x11proto-randr-dev all 1.3.2-2 [40.0 kB]\r\n\r30% [28 x11proto-randr-dev 0 B/40.0 kB 0%]                         764 kB/s 14s\r30% [Working]                                                      764 kB/s 14s"
+    ],
+    [
+      0.123450,
+      "\r                                                                               \rGet:29 http://ftp.debian.org/debian/ wheezy/main libxrandr-dev amd64 2:1.3.2-2+deb7u1 [41.1 kB]\r\n\r30% [29 libxrandr-dev 0 B/41.1 kB 0%]                              764 kB/s 14s\r30% [Working]                                                      764 kB/s 14s"
+    ],
+    [
+      0.128250,
+      "\r                                                                               \rGet:30 http://ftp.debian.org/debian/ wheezy/main x11proto-fixes-dev all 1:5.0-2 [19.2 kB]\r\n\r30% [30 x11proto-fixes-dev 2,558 B/19.2 kB 13%]                    764 kB/s 14s\r31% [Working]                                                      764 kB/s 14s"
+    ],
+    [
+      0.128933,
+      "\r                                                                               \rGet:31 http://ftp.debian.org/debian/ wheezy/main libxfixes-dev amd64 1:5.0-4+deb7u1 [23.0 kB]\r\n\r31% [31 libxfixes-dev 23.0 kB/23.0 kB 100%]                        764 kB/s 14s\r31% [Working]                                                      764 kB/s 14s"
+    ],
+    [
+      0.127066,
+      "\r                                                                               \rGet:32 http://ftp.debian.org/debian/ wheezy/main libxcursor-dev amd64 1:1.1.13-1+deb7u1 [34.6 kB]\r\n\r31% [32 libxcursor-dev 0 B/34.6 kB 0%]                             764 kB/s 14s\r31% [Working]                                                      764 kB/s 14s"
+    ],
+    [
+      0.116007,
+      "\r                                                                               \rGet:33 http://ftp.debian.org/debian/ wheezy/main x11proto-composite-dev all 1:0.4.2-2 [15.3 kB]\r\n\r31% [33 x11proto-composite-dev 2,558 B/15.3 kB 17%]                764 kB/s 14s\r31% [Working]                                                      764 kB/s 14s"
+    ],
+    [
+      0.131997,
+      "\r                                                                               \rGet:34 http://ftp.debian.org/debian/ wheezy/main libxcomposite-dev amd64 1:0.4.3-2 [20.2 kB]\r\n\r31% [34 libxcomposite-dev 14.9 kB/20.2 kB 74%]                     764 kB/s 14s\r31% [Working]                                                      764 kB/s 14s"
+    ],
+    [
+      0.123019,
+      "\r                                                                               \rGet:35 http://ftp.debian.org/debian/ wheezy/main x11proto-damage-dev all 1:1.2.1-2 [11.8 kB]\r\n\r31% [35 x11proto-damage-dev 11.8 kB/11.8 kB 100%]                  764 kB/s 14s\r31% [Working]                                                      764 kB/s 14s"
+    ],
+    [
+      0.115373,
+      "\r                                                                               \rGet:36 http://ftp.debian.org/debian/ wheezy/main libxdamage-dev amd64 1:1.1.3-2 [14.0 kB]\r\n\r31% [36 libxdamage-dev 0 B/14.0 kB 0%]                             764 kB/s 14s\r31% [Working]                                                      764 kB/s 14s"
+    ],
+    [
+      0.121752,
+      "\r                                                                               \rGet:37 http://ftp.debian.org/debian/ wheezy/main libgtk2.0-dev amd64 2.24.10-2 [2,999 kB]\r\n\r31% [37 libgtk2.0-dev 0 B/2,999 kB 0%]                             764 kB/s 14s"
+    ],
+    [
+      0.496597,
+      "\r42% [37 libgtk2.0-dev 1,798 kB/2,999 kB 60%]                       764 kB/s 12s"
+    ],
+    [
+      0.216187,
+      "\r50% [Working]                                                      764 kB/s 10s"
+    ],
+    [
+      0.120092,
+      "\r                                                                               \rGet:38 http://ftp.debian.org/debian/ wheezy/main libgail-common amd64 2.24.10-2 [580 kB]\r\n\r50% [38 libgail-common 6,840 B/580 kB 1%]                          764 kB/s 10s"
+    ],
+    [
+      0.010903,
+      "\r53% [Working]                                                       764 kB/s 9s"
+    ],
+    [
+      0.133741,
+      "\r                                                                               \rGet:39 http://ftp.debian.org/debian/ wheezy/main libgail-dev amd64 2.24.10-2 [482 kB]\r\n\r53% [39 libgail-dev 0 B/482 kB 0%]                                  764 kB/s 9s"
+    ],
+    [
+      0.013315,
+      "\r56% [Working]                                                       764 kB/s 9s"
+    ],
+    [
+      0.131974,
+      "\r                                                                               \rGet:40 http://ftp.debian.org/debian/ wheezy/main libgnomecanvas2-dev amd64 2.30.3-1.2 [129 kB]\r\n\r56% [40 libgnomecanvas2-dev 35.1 kB/129 kB 27%]                     764 kB/s 9s"
+    ],
+    [
+      0.003782,
+      "\r57% [Working]                                                       764 kB/s 9s"
+    ],
+    [
+      0.125949,
+      "\r                                                                               \rGet:41 http://ftp.debian.org/debian/ wheezy/main libgconf2-dev amd64 3.2.5-1+build1 [441 kB]\r\n\r57% [41 libgconf2-dev 5,412 B/441 kB 1%]                            764 kB/s 9s"
+    ],
+    [
+      0.019057,
+      "\r60% [Working]                                                       764 kB/s 8s"
+    ],
+    [
+      0.131060,
+      "\r                                                                               \rGet:42 http://ftp.debian.org/debian/ wheezy/main libsepol1-dev amd64 2.1.4-3 [199 kB]\r\n\r60% [42 libsepol1-dev 0 B/199 kB 0%]                                764 kB/s 8s"
+    ],
+    [
+      0.005269,
+      "\r61% [Working]                                                       764 kB/s 8s"
+    ],
+    [
+      0.125389,
+      "\r                                                                               \rGet:43 http://ftp.debian.org/debian/ wheezy/main libselinux1-dev amd64 2.1.9-5 [172 kB]\r\n\r61% [43 libselinux1-dev 0 B/172 kB 0%]                              764 kB/s 8s"
+    ],
+    [
+      0.000584,
+      "\r62% [Working]                                                       764 kB/s 8s"
+    ],
+    [
+      0.143011,
+      "\r                                                                               \rGet:44 http://ftp.debian.org/debian/ wheezy/main libgnomevfs2-dev amd64 1:2.24.4-2 [496 kB]\r\n\r62% [44 libgnomevfs2-dev 0 B/496 kB 0%]                             764 kB/s 8s"
+    ],
+    [
+      0.011695,
+      "\r65% [Working]                                                       764 kB/s 7s"
+    ],
+    [
+      0.129077,
+      "\r                                                                               \rGet:45 http://ftp.debian.org/debian/ wheezy/main libcanberra-dev amd64 0.28-6 [13.7 kB]\r\n\r65% [45 libcanberra-dev 13.7 kB/13.7 kB 100%]                       764 kB/s 7s\r65% [Working]                                                       764 kB/s 7s"
+    ],
+    [
+      0.130223,
+      "\r                                                                               \rGet:46 http://ftp.debian.org/debian/ wheezy/main libgnome2-dev amd64 2.32.1-3 [473 kB]\r\n\r65% [46 libgnome2-dev 0 B/473 kB 0%]                                764 kB/s 7s"
+    ],
+    [
+      0.027755,
+      "\r68% [Working]                                                       764 kB/s 6s"
+    ],
+    [
+      0.138151,
+      "\r                                                                               \rGet:47 http://ftp.debian.org/debian/ wheezy/main libbonoboui2-dev amd64 2.24.3-1 [333 kB]\r\n\r68% [47 libbonoboui2-dev 0 B/333 kB 0%]                             764 kB/s 6s"
+    ],
+    [
+      0.007799,
+      "\r70% [Working]                                                       764 kB/s 6s"
+    ],
+    [
+      0.139939,
+      "\r                                                                               \rGet:48 http://ftp.debian.org/debian/ wheezy/main libgconf2-doc all 3.2.5-1+build1 [410 kB]\r\n\r70% [48 libgconf2-doc 21.1 kB/410 kB 5%]                            764 kB/s 6s"
+    ],
+    [
+      0.016070,
+      "\r73% [Working]                                                       764 kB/s 5s"
+    ],
+    [
+      0.135369,
+      "\r                                                                               \rGet:49 http://ftp.debian.org/debian/ wheezy/main libgnome-keyring-dev amd64 3.4.1-1 [96.8 kB]\r\n\r73% [49 libgnome-keyring-dev 52.0 kB/96.8 kB 54%]                   764 kB/s 5s"
+    ],
+    [
+      0.006670,
+      "\r73% [Waiting for headers]                                           764 kB/s 5s"
+    ],
+    [
+      0.281937,
+      "\r                                                                               \rGet:50 http://ftp.debian.org/debian/ wheezy/main libgnomeui-common all 2.24.5-2 [863 kB]\r\n\r74% [50 libgnomeui-common 86.0 kB/863 kB 10%]                       764 kB/s 5s"
+    ],
+    [
+      0.118020,
+      "\r79% [Working]                                                       764 kB/s 4s"
+    ],
+    [
+      0.125986,
+      "\r                                                                               \rGet:51 http://ftp.debian.org/debian/ wheezy/main libgnomeui-0 amd64 2.24.5-2 [380 kB]\r\n\r79% [51 libgnomeui-0 65.4 kB/380 kB 17%]                            764 kB/s 4s"
+    ],
+    [
+      0.013247,
+      "\r81% [Working]                                                       764 kB/s 4s"
+    ],
+    [
+      0.136008,
+      "\r                                                                               \rGet:52 http://ftp.debian.org/debian/ wheezy/main libgnomeui-dev amd64 2.24.5-2 [485 kB]\r\n\r81% [52 libgnomeui-dev 65.5 kB/485 kB 14%]                          764 kB/s 3s"
+    ],
+    [
+      0.008805,
+      "\r84% [Working]                                                       764 kB/s 3s"
+    ],
+    [
+      0.115951,
+      "\r                                                                               \rGet:53 http://ftp.debian.org/debian/ wheezy/main libxpm-dev amd64 1:3.5.10-1 [107 kB]\r\n\r84% [53 libxpm-dev 61.4 kB/107 kB 57%]                              764 kB/s 3s"
+    ],
+    [
+      0.007232,
+      "\r85% [Working]                                                       764 kB/s 3s"
+    ],
+    [
+      0.117300,
+      "\r                                                                               \rGet:54 http://ftp.debian.org/debian/ wheezy/main mercurial-common all 2.2.2-3 [2,320 kB]\r\n\r85% [54 mercurial-common 0 B/2,320 kB 0%]                           764 kB/s 3s"
+    ],
+    [
+      0.274698,
+      "\r99% [Working]                                                       764 kB/s 0s"
+    ],
+    [
+      0.127006,
+      "\r                                                                               \rGet:55 http://ftp.debian.org/debian/ wheezy/main mercurial amd64 2.2.2-3 [93.1 kB]\r\n\r99% [55 mercurial 45.1 kB/93.1 kB 48%]                              764 kB/s 0s"
+    ],
+    [
+      0.002731,
+      "\r99% [Working]                                                       764 kB/s 0s"
+    ],
+    [
+      0.130270,
+      "\r                                                                               \rGet:56 http://ftp.debian.org/debian/ wheezy/main orbit2 amd64 1:2.14.19-0.1 [106 kB]\r\n\r100% [56 orbit2 30.9 kB/106 kB 29%]                                 764 kB/s 0s"
+    ],
+    [
+      0.001988,
+      "\r100% [Working]                                                      764 kB/s 0s\r                                                                               \rFetched 16.3 MB in 11s (1,443 kB/s)\r\n"
+    ],
+    [
+      0.204888,
+      "debconf: delaying package configuration, since apt-utils is not installed\r\n"
+    ],
+    [
+      0.064196,
+      "Selecting previously unselected package libart-2.0-2:amd64.\r\n(Reading database ... \r"
+    ],
+    [
+      0.043993,
+      "(Reading database ... 5%\r(Reading database ... 10%\r(Reading database ... 15%\r(Reading database ... 20%\r(Reading database ... 25%\r(Reading database ... 30%\r(Reading database ... 35%\r(Reading database ... 40%\r(Reading database ... 45%\r(Reading database ... 50%\r(Reading database ... 55%\r"
+    ],
+    [
+      0.037738,
+      "(Reading database ... 60%\r"
+    ],
+    [
+      0.050076,
+      "(Reading database ... 65%\r"
+    ],
+    [
+      0.049944,
+      "(Reading database ... 70%\r"
+    ],
+    [
+      0.036111,
+      "(Reading database ... 75%\r"
+    ],
+    [
+      0.034873,
+      "(Reading database ... 80%\r"
+    ],
+    [
+      0.042995,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.042019,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.043987,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.047908,
+      "(Reading database ... 100%\r(Reading database ... 76106 files and directories currently installed.)\r\nUnpacking libart-2.0-2:amd64 (from .../libart-2.0-2_2.3.21-2_amd64.deb) ...\r\n"
+    ],
+    [
+      0.026029,
+      "Selecting previously unselected package libgail18:amd64.\r\n"
+    ],
+    [
+      0.004005,
+      "Unpacking libgail18:amd64 (from .../libgail18_2.24.10-2_amd64.deb) ...\r\n"
+    ],
+    [
+      0.037334,
+      "Selecting previously unselected package gir1.2-atk-1.0.\r\n"
+    ],
+    [
+      0.006058,
+      "Unpacking gir1.2-atk-1.0 (from .../gir1.2-atk-1.0_2.4.0-2_amd64.deb) ...\r\n"
+    ],
+    [
+      0.024921,
+      "Selecting previously unselected package gir1.2-gconf-2.0.\r\n"
+    ],
+    [
+      0.006112,
+      "Unpacking gir1.2-gconf-2.0 (from .../gir1.2-gconf-2.0_3.2.5-1+build1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.037751,
+      "Selecting previously unselected package gir1.2-gdkpixbuf-2.0.\r\n"
+    ],
+    [
+      0.004132,
+      "Unpacking gir1.2-gdkpixbuf-2.0 (from .../gir1.2-gdkpixbuf-2.0_2.26.1-1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.022002,
+      "Selecting previously unselected package gir1.2-gnomekeyring-1.0.\r\n"
+    ],
+    [
+      0.006103,
+      "Unpacking gir1.2-gnomekeyring-1.0 (from .../gir1.2-gnomekeyring-1.0_3.4.1-1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.024911,
+      "Selecting previously unselected package libart-2.0-dev.\r\n"
+    ],
+    [
+      0.007203,
+      "Unpacking libart-2.0-dev (from .../libart-2.0-dev_2.3.21-2_amd64.deb) ...\r\n"
+    ],
+    [
+      0.046466,
+      "Selecting previously unselected package libatk1.0-dev.\r\n"
+    ],
+    [
+      0.005347,
+      "Unpacking libatk1.0-dev (from .../libatk1.0-dev_2.4.0-2_amd64.deb) ...\r\n"
+    ],
+    [
+      0.036904,
+      "Selecting previously unselected package libavahi-common-dev.\r\n"
+    ],
+    [
+      0.004999,
+      "Unpacking libavahi-common-dev (from .../libavahi-common-dev_0.6.31-2_amd64.deb) ...\r\n"
+    ],
+    [
+      0.022754,
+      "Selecting previously unselected package libdbus-1-dev.\r\n"
+    ],
+    [
+      0.005996,
+      "Unpacking libdbus-1-dev (from .../libdbus-1-dev_1.6.8-1+deb7u6_amd64.deb) ...\r\n"
+    ],
+    [
+      0.043058,
+      "Selecting previously unselected package libavahi-client-dev.\r\n"
+    ],
+    [
+      0.003885,
+      "Unpacking libavahi-client-dev (from .../libavahi-client-dev_0.6.31-2_amd64.deb) ...\r\n"
+    ],
+    [
+      0.025996,
+      "Selecting previously unselected package libavahi-glib-dev.\r\n"
+    ],
+    [
+      0.005000,
+      "Unpacking libavahi-glib-dev (from .../libavahi-glib-dev_0.6.31-2_amd64.deb) ...\r\n"
+    ],
+    [
+      0.022126,
+      "Selecting previously unselected package libidl-dev.\r\n"
+    ],
+    [
+      0.005996,
+      "Unpacking libidl-dev (from .../libidl-dev_0.8.14-0.2_amd64.deb) ...\r\n"
+    ],
+    [
+      0.035972,
+      "Selecting previously unselected package liborbit2-dev.\r\n"
+    ],
+    [
+      0.005992,
+      "Unpacking liborbit2-dev (from .../liborbit2-dev_1%3a2.14.19-0.1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.079040,
+      "Selecting previously unselected package libpopt-dev:amd64.\r\n"
+    ],
+    [
+      0.006009,
+      "Unpacking libpopt-dev:amd64 (from .../libpopt-dev_1.16-7_amd64.deb) ...\r\n"
+    ],
+    [
+      0.031011,
+      "Selecting previously unselected package libbonobo2-dev.\r\n"
+    ],
+    [
+      0.002103,
+      "Unpacking libbonobo2-dev (from .../libbonobo2-dev_2.24.3-1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.105164,
+      "Selecting previously unselected package libgnomecanvas2-common.\r\n"
+    ],
+    [
+      0.005981,
+      "Unpacking libgnomecanvas2-common (from .../libgnomecanvas2-common_2.30.3-1.2_all.deb) ...\r\n"
+    ],
+    [
+      0.104981,
+      "Selecting previously unselected package libgnomecanvas2-0.\r\n"
+    ],
+    [
+      0.006247,
+      "Unpacking libgnomecanvas2-0 (from .../libgnomecanvas2-0_2.30.3-1.2_amd64.deb) ...\r\n"
+    ],
+    [
+      0.028756,
+      "Selecting previously unselected package libbonoboui2-common.\r\n"
+    ],
+    [
+      0.005996,
+      "Unpacking libbonoboui2-common (from .../libbonoboui2-common_2.24.3-1_all.deb) ...\r\n"
+    ],
+    [
+      0.082307,
+      "Selecting previously unselected package libbonoboui2-0.\r\n"
+    ],
+    [
+      0.001630,
+      "Unpacking libbonoboui2-0 (from .../libbonoboui2-0_2.24.3-1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.026756,
+      "Selecting previously unselected package libgdk-pixbuf2.0-dev.\r\n"
+    ],
+    [
+      0.005122,
+      "Unpacking libgdk-pixbuf2.0-dev (from .../libgdk-pixbuf2.0-dev_2.26.1-1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.030469,
+      "Selecting previously unselected package x11proto-xext-dev.\r\n"
+    ],
+    [
+      0.002714,
+      "Unpacking x11proto-xext-dev (from .../x11proto-xext-dev_7.2.1-1_all.deb) ...\r\n"
+    ],
+    [
+      0.035940,
+      "Selecting previously unselected package libxext-dev:amd64.\r\n"
+    ],
+    [
+      0.003813,
+      "Unpacking libxext-dev:amd64 (from .../libxext-dev_2%3a1.3.1-2+deb7u1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.044254,
+      "Selecting previously unselected package x11proto-xinerama-dev.\r\n"
+    ],
+    [
+      0.004998,
+      "Unpacking x11proto-xinerama-dev (from .../x11proto-xinerama-dev_1.2.1-2_all.deb) ...\r\n"
+    ],
+    [
+      0.018011,
+      "Selecting previously unselected package libxinerama-dev:amd64.\r\n"
+    ],
+    [
+      0.005992,
+      "Unpacking libxinerama-dev:amd64 (from .../libxinerama-dev_2%3a1.1.2-1+deb7u1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.021997,
+      "Selecting previously unselected package libxi-dev.\r\n"
+    ],
+    [
+      0.006012,
+      "Unpacking libxi-dev (from .../libxi-dev_2%3a1.6.1-1+deb7u1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.034981,
+      "Selecting previously unselected package x11proto-randr-dev.\r\n"
+    ],
+    [
+      0.005753,
+      "Unpacking x11proto-randr-dev (from .../x11proto-randr-dev_1.3.2-2_all.deb) ...\r\n"
+    ],
+    [
+      0.016243,
+      "Selecting previously unselected package libxrandr-dev.\r\n"
+    ],
+    [
+      0.005790,
+      "Unpacking libxrandr-dev (from .../libxrandr-dev_2%3a1.3.2-2+deb7u1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.019153,
+      "Selecting previously unselected package x11proto-fixes-dev.\r\n"
+    ],
+    [
+      0.005997,
+      "Unpacking x11proto-fixes-dev (from .../x11proto-fixes-dev_1%3a5.0-2_all.deb) ...\r\n"
+    ],
+    [
+      0.029647,
+      "Selecting previously unselected package libxfixes-dev.\r\n"
+    ],
+    [
+      0.001985,
+      "Unpacking libxfixes-dev (from .../libxfixes-dev_1%3a5.0-4+deb7u1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.022994,
+      "Selecting previously unselected package libxcursor-dev:amd64.\r\n"
+    ],
+    [
+      0.006003,
+      "Unpacking libxcursor-dev:amd64 (from .../libxcursor-dev_1%3a1.1.13-1+deb7u1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.024061,
+      "Selecting previously unselected package x11proto-composite-dev.\r\n"
+    ],
+    [
+      0.006024,
+      "Unpacking x11proto-composite-dev (from .../x11proto-composite-dev_1%3a0.4.2-2_all.deb) ...\r\n"
+    ],
+    [
+      0.018163,
+      "Selecting previously unselected package libxcomposite-dev.\r\n"
+    ],
+    [
+      0.005964,
+      "Unpacking libxcomposite-dev (from .../libxcomposite-dev_1%3a0.4.3-2_amd64.deb) ...\r\n"
+    ],
+    [
+      0.024230,
+      "Selecting previously unselected package x11proto-damage-dev.\r\n"
+    ],
+    [
+      0.006084,
+      "Unpacking x11proto-damage-dev (from .../x11proto-damage-dev_1%3a1.2.1-2_all.deb) ...\r\n"
+    ],
+    [
+      0.021940,
+      "Selecting previously unselected package libxdamage-dev.\r\n"
+    ],
+    [
+      0.005972,
+      "Unpacking libxdamage-dev (from .../libxdamage-dev_1%3a1.1.3-2_amd64.deb) ...\r\n"
+    ],
+    [
+      0.019018,
+      "Selecting previously unselected package libxml2-utils.\r\n"
+    ],
+    [
+      0.006402,
+      "Unpacking libxml2-utils (from .../libxml2-utils_2.8.0+dfsg1-7+wheezy3_amd64.deb) ...\r\n"
+    ],
+    [
+      0.022151,
+      "Selecting previously unselected package libgtk2.0-dev.\r\n"
+    ],
+    [
+      0.005239,
+      "Unpacking libgtk2.0-dev (from .../libgtk2.0-dev_2.24.10-2_amd64.deb) ...\r\n"
+    ],
+    [
+      0.446002,
+      "Selecting previously unselected package libgail-common:amd64.\r\n"
+    ],
+    [
+      0.007007,
+      "Unpacking libgail-common:amd64 (from .../libgail-common_2.24.10-2_amd64.deb) ...\r\n"
+    ],
+    [
+      0.036743,
+      "Selecting previously unselected package libgail-dev.\r\n"
+    ],
+    [
+      0.006012,
+      "Unpacking libgail-dev (from .../libgail-dev_2.24.10-2_amd64.deb) ...\r\n"
+    ],
+    [
+      0.028986,
+      "Selecting previously unselected package libgnomecanvas2-dev.\r\n"
+    ],
+    [
+      0.006016,
+      "Unpacking libgnomecanvas2-dev (from .../libgnomecanvas2-dev_2.30.3-1.2_amd64.deb) ...\r\n"
+    ],
+    [
+      0.036988,
+      "Selecting previously unselected package libgconf2-dev.\r\n"
+    ],
+    [
+      0.005997,
+      "Unpacking libgconf2-dev (from .../libgconf2-dev_3.2.5-1+build1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.037252,
+      "Selecting previously unselected package libsepol1-dev.\r\n"
+    ],
+    [
+      0.007751,
+      "Unpacking libsepol1-dev (from .../libsepol1-dev_2.1.4-3_amd64.deb) ...\r\n"
+    ],
+    [
+      0.032093,
+      "Selecting previously unselected package libselinux1-dev.\r\n"
+    ],
+    [
+      0.005967,
+      "Unpacking libselinux1-dev (from .../libselinux1-dev_2.1.9-5_amd64.deb) ...\r\n"
+    ],
+    [
+      0.041241,
+      "Selecting previously unselected package libgnomevfs2-dev.\r\n"
+    ],
+    [
+      0.006886,
+      "Unpacking libgnomevfs2-dev (from .../libgnomevfs2-dev_1%3a2.24.4-2_amd64.deb) ...\r\n"
+    ],
+    [
+      0.064000,
+      "Selecting previously unselected package libcanberra-dev:amd64.\r\n"
+    ],
+    [
+      0.006857,
+      "Unpacking libcanberra-dev:amd64 (from .../libcanberra-dev_0.28-6_amd64.deb) ...\r\n"
+    ],
+    [
+      0.020955,
+      "Selecting previously unselected package libgnome2-dev.\r\n"
+    ],
+    [
+      0.006191,
+      "Unpacking libgnome2-dev (from .../libgnome2-dev_2.32.1-3_amd64.deb) ...\r\n"
+    ],
+    [
+      0.036825,
+      "Selecting previously unselected package libbonoboui2-dev.\r\n"
+    ],
+    [
+      0.005989,
+      "Unpacking libbonoboui2-dev (from .../libbonoboui2-dev_2.24.3-1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.037032,
+      "Selecting previously unselected package libgconf2-doc.\r\n"
+    ],
+    [
+      0.005140,
+      "Unpacking libgconf2-doc (from .../libgconf2-doc_3.2.5-1+build1_all.deb) ...\r\n"
+    ],
+    [
+      0.054827,
+      "Selecting previously unselected package libgnome-keyring-dev.\r\n"
+    ],
+    [
+      0.002998,
+      "Unpacking libgnome-keyring-dev (from .../libgnome-keyring-dev_3.4.1-1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.031326,
+      "Selecting previously unselected package libgnomeui-common.\r\n"
+    ],
+    [
+      0.005993,
+      "Unpacking libgnomeui-common (from .../libgnomeui-common_2.24.5-2_all.deb) ...\r\n"
+    ],
+    [
+      0.084992,
+      "Selecting previously unselected package libgnomeui-0.\r\n"
+    ],
+    [
+      0.006010,
+      "Unpacking libgnomeui-0 (from .../libgnomeui-0_2.24.5-2_amd64.deb) ...\r\n"
+    ],
+    [
+      0.033866,
+      "Selecting previously unselected package libgnomeui-dev.\r\n"
+    ],
+    [
+      0.005936,
+      "Unpacking libgnomeui-dev (from .../libgnomeui-dev_2.24.5-2_amd64.deb) ...\r\n"
+    ],
+    [
+      0.041011,
+      "Selecting previously unselected package libxpm-dev:amd64.\r\n"
+    ],
+    [
+      0.005984,
+      "Unpacking libxpm-dev:amd64 (from .../libxpm-dev_1%3a3.5.10-1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.021077,
+      "Selecting previously unselected package mercurial-common.\r\n"
+    ],
+    [
+      0.006998,
+      "Unpacking mercurial-common (from .../mercurial-common_2.2.2-3_all.deb) ...\r\n"
+    ],
+    [
+      0.232999,
+      "Selecting previously unselected package mercurial.\r\n"
+    ],
+    [
+      0.006991,
+      "Unpacking mercurial (from .../mercurial_2.2.2-3_amd64.deb) ...\r\n"
+    ],
+    [
+      0.041003,
+      "Selecting previously unselected package orbit2.\r\n"
+    ],
+    [
+      0.006000,
+      "Unpacking orbit2 (from .../orbit2_1%3a2.14.19-0.1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.015071,
+      "Processing triggers for man-db ...\r\n"
+    ],
+    [
+      2.658753,
+      "Setting up libart-2.0-2:amd64 (2.3.21-2) ...\r\n"
+    ],
+    [
+      0.019984,
+      "Setting up libgail18:amd64 (2.24.10-2) ...\r\n"
+    ],
+    [
+      0.010998,
+      "Setting up gir1.2-atk-1.0 (2.4.0-2) ...\r\n"
+    ],
+    [
+      0.001240,
+      "Setting up gir1.2-gconf-2.0 (3.2.5-1+build1) ...\r\n"
+    ],
+    [
+      0.001212,
+      "Setting up gir1.2-gdkpixbuf-2.0 (2.26.1-1) ...\r\n"
+    ],
+    [
+      0.002114,
+      "Setting up gir1.2-gnomekeyring-1.0 (3.4.1-1) ...\r\n"
+    ],
+    [
+      0.001886,
+      "Setting up libart-2.0-dev (2.3.21-2) ...\r\n"
+    ],
+    [
+      0.001842,
+      "Setting up libatk1.0-dev (2.4.0-2) ...\r\n"
+    ],
+    [
+      0.000010,
+      "Setting up libavahi-common-dev (0.6.31-2) ...\r\n"
+    ],
+    [
+      0.002488,
+      "Setting up libdbus-1-dev (1.6.8-1+deb7u6) ...\r\n"
+    ],
+    [
+      0.000015,
+      "Setting up libavahi-client-dev (0.6.31-2) ...\r\n"
+    ],
+    [
+      0.001651,
+      "Setting up libavahi-glib-dev (0.6.31-2) ...\r\n"
+    ],
+    [
+      0.001988,
+      "Setting up libidl-dev (0.8.14-0.2) ...\r\n"
+    ],
+    [
+      0.000980,
+      "Setting up liborbit2-dev (1:2.14.19-0.1) ...\r\n"
+    ],
+    [
+      0.002007,
+      "Setting up libpopt-dev:amd64 (1.16-7) ...\r\n"
+    ],
+    [
+      0.001063,
+      "Setting up libbonobo2-dev (2.24.3-1) ...\r\n"
+    ],
+    [
+      0.001683,
+      "Setting up libgnomecanvas2-common (2.30.3-1.2) ...\r\n"
+    ],
+    [
+      0.001250,
+      "Setting up libgnomecanvas2-0 (2.30.3-1.2) ...\r\n"
+    ],
+    [
+      0.011014,
+      "Setting up libbonoboui2-common (2.24.3-1) ...\r\n"
+    ],
+    [
+      0.002738,
+      "Setting up libbonoboui2-0 (2.24.3-1) ...\r\n"
+    ],
+    [
+      0.011020,
+      "Setting up libgdk-pixbuf2.0-dev (2.26.1-1) ...\r\nSetting up x11proto-xext-dev (7.2.1-1) ...\r\n"
+    ],
+    [
+      0.001987,
+      "Setting up libxext-dev:amd64 (2:1.3.1-2+deb7u1) ...\r\nSetting up x11proto-xinerama-dev (1.2.1-2) ...\r\n"
+    ],
+    [
+      0.002251,
+      "Setting up libxinerama-dev:amd64 (2:1.1.2-1+deb7u1) ...\r\n"
+    ],
+    [
+      0.001011,
+      "Setting up libxi-dev (2:1.6.1-1+deb7u1) ...\r\n"
+    ],
+    [
+      0.001045,
+      "Setting up x11proto-randr-dev (1.3.2-2) ...\r\n"
+    ],
+    [
+      0.002696,
+      "Setting up libxrandr-dev (2:1.3.2-2+deb7u1) ...\r\nSetting up x11proto-fixes-dev (1:5.0-2) ...\r\n"
+    ],
+    [
+      0.001312,
+      "Setting up libxfixes-dev (1:5.0-4+deb7u1) ...\r\n"
+    ],
+    [
+      0.002693,
+      "Setting up libxcursor-dev:amd64 (1:1.1.13-1+deb7u1) ...\r\nSetting up x11proto-composite-dev (1:0.4.2-2) ...\r\n"
+    ],
+    [
+      0.001992,
+      "Setting up libxcomposite-dev (1:0.4.3-2) ...\r\n"
+    ],
+    [
+      0.001241,
+      "Setting up x11proto-damage-dev (1:1.2.1-2) ...\r\n"
+    ],
+    [
+      0.001005,
+      "Setting up libxdamage-dev (1:1.1.3-2) ...\r\n"
+    ],
+    [
+      0.002781,
+      "Setting up libxml2-utils (2.8.0+dfsg1-7+wheezy3) ...\r\nSetting up libgtk2.0-dev (2.24.10-2) ...\r\n"
+    ],
+    [
+      0.001298,
+      "Setting up libgail-common:amd64 (2.24.10-2) ...\r\n"
+    ],
+    [
+      0.001926,
+      "Setting up libgail-dev (2.24.10-2) ...\r\n"
+    ],
+    [
+      0.000990,
+      "Setting up libgnomecanvas2-dev (2.30.3-1.2) ...\r\n"
+    ],
+    [
+      0.001007,
+      "Setting up libgconf2-dev (3.2.5-1+build1) ...\r\n"
+    ],
+    [
+      0.001999,
+      "Setting up libsepol1-dev (2.1.4-3) ...\r\n"
+    ],
+    [
+      0.001014,
+      "Setting up libselinux1-dev (2.1.9-5) ...\r\n"
+    ],
+    [
+      0.001982,
+      "Setting up libgnomevfs2-dev (1:2.24.4-2) ...\r\n"
+    ],
+    [
+      0.001095,
+      "Setting up libcanberra-dev:amd64 (0.28-6) ...\r\n"
+    ],
+    [
+      0.001913,
+      "Setting up libgnome2-dev (2.32.1-3) ...\r\n"
+    ],
+    [
+      0.000988,
+      "Setting up libbonoboui2-dev (2.24.3-1) ...\r\n"
+    ],
+    [
+      0.002000,
+      "Setting up libgconf2-doc (3.2.5-1+build1) ...\r\n"
+    ],
+    [
+      0.001005,
+      "Setting up libgnome-keyring-dev (3.4.1-1) ...\r\n"
+    ],
+    [
+      0.001000,
+      "Setting up libgnomeui-common (2.24.5-2) ...\r\n"
+    ],
+    [
+      0.001006,
+      "Setting up libgnomeui-0 (2.24.5-2) ...\r\n"
+    ],
+    [
+      0.011004,
+      "Setting up libgnomeui-dev (2.24.5-2) ...\r\n"
+    ],
+    [
+      0.000994,
+      "Setting up libxpm-dev:amd64 (1:3.5.10-1) ...\r\n"
+    ],
+    [
+      0.000992,
+      "Setting up mercurial-common (2.2.2-3) ...\r\n"
+    ],
+    [
+      0.611013,
+      "Setting up mercurial (2.2.2-3) ...\r\n"
+    ],
+    [
+      0.180120,
+      "\r\nCreating config file /etc/mercurial/hgrc.d/hgext.rc with new version\r\n"
+    ],
+    [
+      0.069695,
+      "Setting up orbit2 (1:2.14.19-0.1) ...\r\n"
+    ],
+    [
+      0.874187,
+      "\u001b]0;syfaro@morath: ~\u0007syfaro@morath:~$ "
+    ],
+    [
+      0.949576,
+      "sudo apt-get remove vim vim-runtime gvim vim-tiny vim-common vi \rm-gui-common"
+    ],
+    [
+      0.907301,
+      "\r\n"
+    ],
+    [
+      0.005696,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.002002,
+      "\rReading package lists... 100%\r\rReading package lists... Done\r\r\n"
+    ],
+    [
+      0.004994,
+      "\rBuilding dependency tree... 0%\r\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.041993,
+      "\rBuilding dependency tree... 50%\r\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.157003,
+      "\rBuilding dependency tree       \r\r\n\rReading state information... 0%\r\rReading state information... 0%\r"
+    ],
+    [
+      0.002991,
+      "\rReading state information... Done\r\r\n"
+    ],
+    [
+      0.088007,
+      "Virtual packages like 'gvim' can't be removed\r\nPackage 'vim-gui-common' is not installed, so not removed\r\nPackage 'vim-tiny' is not installed, so not removed\r\n"
+    ],
+    [
+      0.113008,
+      "The following package was automatically installed and is no longer required:\r\n  libnss3-1d\r\nUse 'apt-get autoremove' to remove it.\r\n"
+    ],
+    [
+      0.027000,
+      "The following packages will be REMOVED:\r\n  vim vim-common vim-nox vim-runtime\r\n"
+    ],
+    [
+      0.013993,
+      "0 upgraded, 0 newly installed, 4 to remove and 0 not upgraded.\r\n"
+    ],
+    [
+      0.006995,
+      "After this operation, 27.3 MB disk space will be freed.\r\nDo you want to continue [Y/n]? "
+    ],
+    [
+      0.683128,
+      "\r\n\r\r"
+    ],
+    [
+      0.130316,
+      "(Reading database ... \r"
+    ],
+    [
+      0.003001,
+      "(Reading database ... 5%\r(Reading database ... 10%\r(Reading database ... 15%\r(Reading database ... 20%\r(Reading database ... 25%\r(Reading database ... 30%\r(Reading database ... 35%\r(Reading database ... 40%\r(Reading database ... 45%\r(Reading database ... 50%\r(Reading database ... 55%\r"
+    ],
+    [
+      0.005823,
+      "(Reading database ... 60%\r"
+    ],
+    [
+      0.002920,
+      "(Reading database ... 65%\r"
+    ],
+    [
+      0.003001,
+      "(Reading database ... 70%\r"
+    ],
+    [
+      0.002017,
+      "(Reading database ... 75%\r"
+    ],
+    [
+      0.003007,
+      "(Reading database ... 80%\r"
+    ],
+    [
+      0.003991,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.002236,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.001996,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.004187,
+      "(Reading database ... 100%\r(Reading database ... 79141 files and directories currently installed.)\r\nRemoving vim ...\r\n"
+    ],
+    [
+      0.034819,
+      "Removing vim-nox ...\r\n"
+    ],
+    [
+      0.004999,
+      "update-alternatives: using /usr/bin/see to provide /usr/bin/view (view) in auto mode\r\n"
+    ],
+    [
+      0.003752,
+      "update-alternatives: using /bin/nano to provide /usr/bin/editor (editor) in auto mode\r\n"
+    ],
+    [
+      0.017001,
+      "Removing vim-common ...\r\n"
+    ],
+    [
+      0.025251,
+      "Removing vim-runtime ...\r\n"
+    ],
+    [
+      0.079003,
+      "Removing 'diversion of /usr/share/vim/vim73/doc/help.txt to /usr/share/vim/vim73/doc/help.txt.vim-tiny by vim-runtime'\r\n"
+    ],
+    [
+      0.016999,
+      "Removing 'diversion of /usr/share/vim/vim73/doc/tags to /usr/share/vim/vim73/doc/tags.vim-tiny by vim-runtime'\r\n"
+    ],
+    [
+      0.004025,
+      "Processing triggers for man-db ...\r\n"
+    ],
+    [
+      0.303557,
+      "Processing triggers for mime-support ...\r\n"
+    ],
+    [
+      0.668993,
+      "\u001b]0;syfaro@morath: ~\u0007syfaro@morath:~$ "
+    ],
+    [
+      6.449480,
+      "cd ~\r\n\u001b]0;syfaro@morath: ~\u0007syfaro@morath:~$ hg clone https://code.google.com/p/vim/\r\n"
+    ],
+    [
+      0.191662,
+      "destination directory: vim\r\n"
+    ],
+    [
+      0.089024,
+      "requesting all changes\r\n"
+    ],
+    [
+      1.197034,
+      "adding changesets\r\n"
+    ],
+    [
+      8.828218,
+      "adding manifests\r\n"
+    ],
+    [
+      10.361804,
+      "adding file changes\r\n"
+    ],
+    [
+      104.153912,
+      "added 6679 changesets with 32443 changes to 2772 files (+2 heads)\r\n"
+    ],
+    [
+      0.984245,
+      "updating to branch default\r\n"
+    ],
+    [
+      1.571982,
+      "2590 files updated, 0 files merged, 0 files removed, 0 files unresolved\r\n"
+    ],
+    [
+      0.018653,
+      "\u001b]0;syfaro@morath: ~\u0007syfaro@morath:~$ cd vim\r\n\u001b]0;syfaro@morath: ~/vim\u0007syfaro@morath:~/vim$ ./configure --with-features=huge \\\r\n\u003e             --enable-multibyte \\\r\n\u003e             --enable-rubyinterp \\\r\n\u003e             --enable-pythoninterp \\\r\n\u003e             --with-python-config-dir=/usr/lib/python2.7/config \\\r\n\u003e             --enable-perlinterp \\\r\n\u003e             --enable-luainterp \\\r\n\u003e             --enable-gui=gtk2 --enable-cscope --prefi"
+    ],
+    [
+      0.000963,
+      "x=/usr"
+    ],
+    [
+      2.250751,
+      "\r\n"
+    ],
+    [
+      0.101255,
+      "configure: creating cache auto/config.cache\r\nchecking whether make sets $(MAKE)... "
+    ],
+    [
+      0.007256,
+      "yes\r\n"
+    ],
+    [
+      0.000993,
+      "checking for gcc... gcc\r\n"
+    ],
+    [
+      0.017872,
+      "checking whether the C compiler works... "
+    ],
+    [
+      0.099141,
+      "yes\r\nchecking for C compiler default output file name... a.out\r\nchecking for suffix of executables... "
+    ],
+    [
+      0.026737,
+      "\r\n"
+    ],
+    [
+      0.001985,
+      "checking whether we are cross compiling... "
+    ],
+    [
+      0.036278,
+      "no\r\n"
+    ],
+    [
+      0.001803,
+      "checking for suffix of object files... "
+    ],
+    [
+      0.014940,
+      "o\r\nchecking whether we are using the GNU C compiler... "
+    ],
+    [
+      0.018995,
+      "yes\r\nchecking whether gcc accepts -g... "
+    ],
+    [
+      0.015018,
+      "yes\r\nchecking for gcc option to accept ISO C89... "
+    ],
+    [
+      0.038985,
+      "none needed\r\nchecking how to run the C preprocessor... "
+    ],
+    [
+      0.017993,
+      "gcc -E\r\n"
+    ],
+    [
+      0.012011,
+      "checking for grep that handles long lines and -e... "
+    ],
+    [
+      0.002009,
+      "/bin/grep\r\nchecking for egrep... /bin/grep -E\r\n"
+    ],
+    [
+      0.005977,
+      "checking for fgrep... /bin/grep -F\r\nchecking for library containing strerror... "
+    ],
+    [
+      0.030035,
+      "none required\r\nchecking for gawk... gawk\r\nchecking for strip... strip\r\nchecking for ANSI C header files... "
+    ],
+    [
+      0.085978,
+      "yes\r\nchecking for sys/wait.h that is POSIX.1 compatible... "
+    ],
+    [
+      0.025998,
+      "yes\r\nchecking --enable-fail-if-missing argument... no\r\nchecking for recent clang version... "
+    ],
+    [
+      0.002990,
+      "no\r\nconfigure: checking for buggy tools...\r\n"
+    ],
+    [
+      0.002011,
+      "- sed is\t'GNU sed version 4.2.1\r\nCopyright (C) 2009 Free Software Foundation, Inc.\r\nThis is free software; see the source for copying conditions.  There is NO\r\nwarranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE,\r\nto the extent permitted by law.\r\n\r\nGNU sed home page: \u003chttp://www.gnu.org/software/sed/\u003e.\r\nGeneral help using GNU software: \u003chttp://www.gnu.org/gethelp/\u003e.\r\nE-mail bug reports to: \u003cbug-gnu-utils@gnu.org\u003e.\r\nBe sure to include the word ``sed'' somewhere in the ``Subject:'' field.'.\r\nchecking for BeOS... no\r\nchecking for QNX... "
+    ],
+    [
+      0.001994,
+      "no\r\nchecking for Darwin (Mac OS X)... "
+    ],
+    [
+      0.001998,
+      "no\r\nchecking AvailabilityMacros.h usability... "
+    ],
+    [
+      0.055008,
+      "no\r\nchecking AvailabilityMacros.h presence... "
+    ],
+    [
+      0.007989,
+      "no\r\nchecking for AvailabilityMacros.h... no\r\nchecking --with-local-dir argument... Defaulting to /usr/local\r\n"
+    ],
+    [
+      0.030318,
+      "checking --with-vim-name argument... Defaulting to vim\r\nchecking --with-ex-name argument... Defaulting to ex\r\nchecking --with-view-name argument... Defaulting to view\r\nchecking --with-global-runtime argument... no\r\nchecking --with-modified-by argument... no\r\n"
+    ],
+    [
+      0.001335,
+      "checking if character set is EBCDIC... "
+    ],
+    [
+      0.014353,
+      "no\r\nchecking --disable-smack argument... no\r\nchecking linux/xattr.h usability... "
+    ],
+    [
+      0.023025,
+      "yes\r\nchecking linux/xattr.h presence... "
+    ],
+    [
+      0.005969,
+      "yes\r\nchecking for linux/xattr.h... yes\r\nchecking attr/xattr.h usability... "
+    ],
+    [
+      0.060002,
+      "no\r\nchecking attr/xattr.h presence... "
+    ],
+    [
+      0.009004,
+      "no\r\nchecking for attr/xattr.h... no\r\nchecking --disable-selinux argument... no\r\nchecking for is_selinux_enabled in -lselinux... "
+    ],
+    [
+      0.032254,
+      "yes\r\nchecking --with-features argument... huge\r\nchecking --with-compiledby argument... no\r\nchecking --disable-xsmp argument... no\r\nchecking --disable-xsmp-interact argument... no\r\n"
+    ],
+    [
+      0.000984,
+      "checking --enable-luainterp argument... yes\r\n"
+    ],
+    [
+      0.000999,
+      "checking --with-lua-prefix argument... no\r\nchecking LUA_PREFIX environment var... not set, default to /usr\r\nchecking --with-luajit... no\r\nchecking for lua... "
+    ],
+    [
+      0.001003,
+      "/usr/bin/lua\r\nchecking Lua version... "
+    ],
+    [
+      0.004000,
+      "5.2\r\nchecking if lua.h can be found in /usr/include... no\r\nchecking if lua.h can be found in /usr/include/lua5.2... "
+    ],
+    [
+      0.000012,
+      "yes\r\n"
+    ],
+    [
+      0.001199,
+      "checking if link with -L/usr/lib -llua5.2 is sane... "
+    ],
+    [
+      0.034748,
+      "yes\r\nchecking --enable-mzschemeinterp argument... no\r\n"
+    ],
+    [
+      0.002037,
+      "checking --enable-perlinterp argument... yes\r\nchecking for perl... "
+    ],
+    [
+      0.001036,
+      "/usr/bin/perl\r\nchecking Perl version... "
+    ],
+    [
+      0.021723,
+      "OK\r\n"
+    ],
+    [
+      0.138255,
+      "checking if compile and link flags for Perl are sane... "
+    ],
+    [
+      0.029753,
+      "no: PERL DISABLED\r\nchecking --enable-pythoninterp argument... yes\r\n"
+    ],
+    [
+      0.001984,
+      "checking for python2... /usr/bin/python2\r\nchecking Python version... "
+    ],
+    [
+      0.014195,
+      "2.7\r\nchecking Python is 2.3 or better... "
+    ],
+    [
+      0.009269,
+      "yep\r\nchecking Python's install prefix... "
+    ],
+    [
+      0.010733,
+      "/usr\r\nchecking Python's execution prefix... "
+    ],
+    [
+      0.013949,
+      "/usr\r\n"
+    ],
+    [
+      0.008038,
+      "checking Python's configuration directory... (cached) /usr/lib/python2.7/config\r\n"
+    ],
+    [
+      0.018135,
+      "checking if -pthread should be used... "
+    ],
+    [
+      0.039705,
+      "yes\r\nchecking if compile and link flags for Python are sane... "
+    ],
+    [
+      0.043546,
+      "yes\r\nchecking --enable-python3interp argument... no\r\nchecking if -fPIE can be added for Python... "
+    ],
+    [
+      0.040463,
+      "yes\r\nchecking --enable-tclinterp argument... no\r\n"
+    ],
+    [
+      0.001993,
+      "checking --enable-rubyinterp argument... yes\r\nchecking --with-ruby-command argument... defaulting to ruby\r\nchecking for ruby... "
+    ],
+    [
+      0.001404,
+      "/usr/bin/ruby\r\nchecking Ruby version... "
+    ],
+    [
+      0.027772,
+      "OK\r\nchecking Ruby rbconfig... "
+    ],
+    [
+      0.009806,
+      "RbConfig\r\nchecking Ruby header files... "
+    ],
+    [
+      0.031250,
+      "/usr/include/ruby-1.9.1\r\n"
+    ],
+    [
+      0.086760,
+      "checking --enable-cscope argument... yes\r\nchecking --enable-workshop argument... no\r\nchecking --disable-netbeans argument... no\r\nchecking for socket in -lsocket... "
+    ],
+    [
+      0.033306,
+      "no\r\nchecking for gethostbyname in -lnsl... "
+    ],
+    [
+      0.039688,
+      "yes\r\n"
+    ],
+    [
+      0.001140,
+      "checking whether compiling netbeans integration is possible... "
+    ],
+    [
+      0.056864,
+      "yes\r\nchecking --enable-sniff argument... no\r\nchecking --enable-multibyte argument... yes\r\nchecking --enable-hangulinput argument... no\r\nchecking --enable-xim argument... defaulting to auto\r\nchecking --enable-fontset argument... no\r\n"
+    ],
+    [
+      0.003989,
+      "checking for xmkmf... no\r\nchecking for X... "
+    ],
+    [
+      0.065020,
+      "libraries , headers \r\n"
+    ],
+    [
+      0.035983,
+      "checking for gethostbyname... "
+    ],
+    [
+      0.032008,
+      "yes\r\nchecking for connect... "
+    ],
+    [
+      0.031990,
+      "yes\r\nchecking for remove... "
+    ],
+    [
+      0.033013,
+      "yes\r\nchecking for shmat... "
+    ],
+    [
+      0.033087,
+      "yes\r\nchecking for IceConnectionNumber in -lICE... "
+    ],
+    [
+      0.033899,
+      "yes\r\n"
+    ],
+    [
+      0.004057,
+      "checking if X11 header files can be found... "
+    ],
+    [
+      0.045951,
+      "yes\r\nchecking for _XdmcpAuthDoIt in -lXdmcp... "
+    ],
+    [
+      0.037076,
+      "yes\r\nchecking for IceOpenConnection in -lICE... "
+    ],
+    [
+      0.034921,
+      "yes\r\nchecking for XpmCreatePixmapFromData in -lXpm... "
+    ],
+    [
+      0.036139,
+      "yes\r\nchecking if X11 header files implicitly declare return values... "
+    ],
+    [
+      0.024874,
+      "no\r\nchecking size of wchar_t is 2 bytes... "
+    ],
+    [
+      0.043988,
+      "no\r\nchecking --enable-gui argument... "
+    ],
+    [
+      0.002314,
+      "GTK+ 2.x GUI support\r\n"
+    ],
+    [
+      0.000999,
+      "checking --disable-gtktest argument... gtk test enabled\r\nchecking for pkg-config... "
+    ],
+    [
+      0.001670,
+      "/usr/bin/pkg-config\r\nchecking for GTK - version \u003e= 2.2.0... "
+    ],
+    [
+      0.586024,
+      "yes; found version 2.24.10\r\n"
+    ],
+    [
+      0.001998,
+      "checking X11/SM/SMlib.h usability... "
+    ],
+    [
+      0.024994,
+      "yes\r\nchecking X11/SM/SMlib.h presence... "
+    ],
+    [
+      0.006008,
+      "yes\r\nchecking for X11/SM/SMlib.h... yes\r\n"
+    ],
+    [
+      0.003986,
+      "checking X11/xpm.h usability... "
+    ],
+    [
+      0.031009,
+      "yes\r\nchecking X11/xpm.h presence... "
+    ],
+    [
+      0.011996,
+      "yes\r\nchecking for X11/xpm.h... yes\r\n"
+    ],
+    [
+      0.004994,
+      "checking X11/Sunkeysym.h usability... "
+    ],
+    [
+      0.025005,
+      "yes\r\nchecking X11/Sunkeysym.h presence... "
+    ],
+    [
+      0.004997,
+      "yes\r\nchecking for X11/Sunkeysym.h... yes\r\n"
+    ],
+    [
+      0.003029,
+      "checking for XIMText in X11/Xlib.h... "
+    ],
+    [
+      0.009971,
+      "yes\r\nX GUI selected; xim has been enabled\r\nchecking for CYGWIN environment... "
+    ],
+    [
+      0.002017,
+      "no\r\nchecking whether toupper is broken... "
+    ],
+    [
+      0.041989,
+      "no\r\nchecking whether __DATE__ and __TIME__ work... "
+    ],
+    [
+      0.020005,
+      "yes\r\nchecking whether __attribute__((unused)) is allowed... "
+    ],
+    [
+      0.022007,
+      "yes\r\nchecking elf.h usability... "
+    ],
+    [
+      0.026992,
+      "yes\r\nchecking elf.h presence... "
+    ],
+    [
+      0.006993,
+      "yes\r\nchecking for elf.h... yes\r\nchecking for main in -lelf... "
+    ],
+    [
+      0.029023,
+      "no\r\n"
+    ],
+    [
+      0.001973,
+      "checking for dirent.h that defines DIR... "
+    ],
+    [
+      0.021025,
+      "yes\r\n"
+    ],
+    [
+      0.002224,
+      "checking for library containing opendir... "
+    ],
+    [
+      0.035753,
+      "none required\r\n"
+    ],
+    [
+      0.003005,
+      "checking stdarg.h usability... "
+    ],
+    [
+      0.025004,
+      "yes\r\nchecking stdarg.h presence... "
+    ],
+    [
+      0.003303,
+      "yes\r\nchecking for stdarg.h... "
+    ],
+    [
+      0.001003,
+      "yes\r\n"
+    ],
+    [
+      0.005688,
+      "checking stdint.h usability... "
+    ],
+    [
+      0.024009,
+      "yes\r\nchecking stdint.h presence... "
+    ],
+    [
+      0.008013,
+      "yes\r\nchecking for stdint.h... yes\r\n"
+    ],
+    [
+      0.005282,
+      "checking stdlib.h usability... "
+    ],
+    [
+      0.024710,
+      "yes\r\nchecking stdlib.h presence... "
+    ],
+    [
+      0.007991,
+      "yes\r\nchecking for stdlib.h... yes\r\n"
+    ],
+    [
+      0.007998,
+      "checking string.h usability... "
+    ],
+    [
+      0.037011,
+      "yes\r\nchecking string.h presence... "
+    ],
+    [
+      0.007045,
+      "yes\r\nchecking for string.h... yes\r\n"
+    ],
+    [
+      0.006150,
+      "checking sys/select.h usability... "
+    ],
+    [
+      0.024981,
+      "yes\r\nchecking sys/select.h presence... "
+    ],
+    [
+      0.006000,
+      "yes\r\nchecking for sys/select.h... yes\r\n"
+    ],
+    [
+      0.005877,
+      "checking sys/utsname.h usability... "
+    ],
+    [
+      0.030115,
+      "yes\r\nchecking sys/utsname.h presence... "
+    ],
+    [
+      0.007082,
+      "yes\r\nchecking for sys/utsname.h... yes\r\n"
+    ],
+    [
+      0.004768,
+      "checking termcap.h usability... "
+    ],
+    [
+      0.026974,
+      "yes\r\nchecking termcap.h presence... "
+    ],
+    [
+      0.007021,
+      "yes\r\nchecking for termcap.h... yes\r\n"
+    ],
+    [
+      0.005282,
+      "checking fcntl.h usability... "
+    ],
+    [
+      0.025709,
+      "yes\r\nchecking fcntl.h presence... "
+    ],
+    [
+      0.007979,
+      "yes\r\nchecking for fcntl.h... yes\r\n"
+    ],
+    [
+      0.005020,
+      "checking sgtty.h usability... "
+    ],
+    [
+      0.028979,
+      "yes\r\nchecking sgtty.h presence... "
+    ],
+    [
+      0.004997,
+      "yes\r\nchecking for sgtty.h... yes\r\n"
+    ],
+    [
+      0.006064,
+      "checking sys/ioctl.h usability... "
+    ],
+    [
+      0.024944,
+      "yes\r\nchecking sys/ioctl.h presence... "
+    ],
+    [
+      0.005994,
+      "yes\r\nchecking for sys/ioctl.h... yes\r\n"
+    ],
+    [
+      0.005003,
+      "checking sys/time.h usability... "
+    ],
+    [
+      0.024066,
+      "yes\r\nchecking sys/time.h presence... "
+    ],
+    [
+      0.006952,
+      "yes\r\nchecking for sys/time.h... yes\r\n"
+    ],
+    [
+      0.006041,
+      "checking sys/types.h usability... "
+    ],
+    [
+      0.024943,
+      "yes\r\nchecking sys/types.h presence... "
+    ],
+    [
+      0.005995,
+      "yes\r\nchecking for sys/types.h... yes\r\n"
+    ],
+    [
+      0.005400,
+      "checking termio.h usability... "
+    ],
+    [
+      0.026603,
+      "yes\r\nchecking termio.h presence... "
+    ],
+    [
+      0.007002,
+      "yes\r\nchecking for termio.h... yes\r\n"
+    ],
+    [
+      0.004992,
+      "checking iconv.h usability... "
+    ],
+    [
+      0.024008,
+      "yes\r\nchecking iconv.h presence... "
+    ],
+    [
+      0.006061,
+      "yes\r\nchecking for iconv.h... yes\r\n"
+    ],
+    [
+      0.004940,
+      "checking inttypes.h usability... "
+    ],
+    [
+      0.028249,
+      "yes\r\nchecking inttypes.h presence... "
+    ],
+    [
+      0.006745,
+      "yes\r\nchecking for inttypes.h... yes\r\n"
+    ],
+    [
+      0.005020,
+      "checking langinfo.h usability... "
+    ],
+    [
+      0.025984,
+      "yes\r\nchecking langinfo.h presence... "
+    ],
+    [
+      0.005995,
+      "yes\r\nchecking for langinfo.h... yes\r\n"
+    ],
+    [
+      0.004994,
+      "checking math.h usability... "
+    ],
+    [
+      0.033020,
+      "yes\r\nchecking math.h presence... "
+    ],
+    [
+      0.009125,
+      "yes\r\nchecking for math.h... yes\r\n"
+    ],
+    [
+      0.006113,
+      "checking unistd.h usability... "
+    ],
+    [
+      0.027753,
+      "yes\r\nchecking unistd.h presence... "
+    ],
+    [
+      0.007001,
+      "yes\r\nchecking for unistd.h... yes\r\n"
+    ],
+    [
+      0.004995,
+      "checking stropts.h usability... "
+    ],
+    [
+      0.028003,
+      "yes\r\nchecking stropts.h presence... "
+    ],
+    [
+      0.006004,
+      "yes\r\nchecking for stropts.h... yes\r\n"
+    ],
+    [
+      0.004241,
+      "checking errno.h usability... "
+    ],
+    [
+      0.028751,
+      "yes\r\nchecking errno.h presence... "
+    ],
+    [
+      0.006008,
+      "yes\r\nchecking for errno.h... yes\r\n"
+    ],
+    [
+      0.004387,
+      "checking sys/resource.h usability... "
+    ],
+    [
+      0.026998,
+      "yes\r\nchecking sys/resource.h presence... "
+    ],
+    [
+      0.006602,
+      "yes\r\nchecking for sys/resource.h... yes\r\n"
+    ],
+    [
+      0.005010,
+      "checking sys/systeminfo.h usability... "
+    ],
+    [
+      0.076005,
+      "no\r\nchecking sys/systeminfo.h presence... "
+    ],
+    [
+      0.007995,
+      "no\r\nchecking for sys/systeminfo.h... no\r\n"
+    ],
+    [
+      0.002053,
+      "checking locale.h usability... "
+    ],
+    [
+      0.026947,
+      "yes\r\nchecking locale.h presence... "
+    ],
+    [
+      0.005993,
+      "yes\r\nchecking for locale.h... yes\r\n"
+    ],
+    [
+      0.005001,
+      "checking sys/stream.h usability... "
+    ],
+    [
+      0.072010,
+      "no\r\nchecking sys/stream.h presence... "
+    ],
+    [
+      0.007434,
+      "no\r\nchecking for sys/stream.h... no\r\n"
+    ],
+    [
+      0.002610,
+      "checking termios.h usability... "
+    ],
+    [
+      0.026955,
+      "yes\r\nchecking termios.h presence... "
+    ],
+    [
+      0.005992,
+      "yes\r\nchecking for termios.h... yes\r\n"
+    ],
+    [
+      0.005259,
+      "checking libc.h usability... "
+    ],
+    [
+      0.074748,
+      "no\r\nchecking libc.h presence... "
+    ],
+    [
+      0.008009,
+      "no\r\nchecking for libc.h... no\r\n"
+    ],
+    [
+      0.001238,
+      "checking sys/statfs.h usability... "
+    ],
+    [
+      0.056759,
+      "yes\r\nchecking sys/statfs.h presence... "
+    ],
+    [
+      0.006005,
+      "yes\r\nchecking for sys/statfs.h... yes\r\n"
+    ],
+    [
+      0.004988,
+      "checking poll.h usability... "
+    ],
+    [
+      0.034004,
+      "yes\r\nchecking poll.h presence... "
+    ],
+    [
+      0.006038,
+      "yes\r\nchecking for poll.h... yes\r\n"
+    ],
+    [
+      0.004953,
+      "checking sys/poll.h usability... "
+    ],
+    [
+      0.028007,
+      "yes\r\nchecking sys/poll.h presence... "
+    ],
+    [
+      0.005001,
+      "yes\r\nchecking for sys/poll.h... yes\r\n"
+    ],
+    [
+      0.005239,
+      "checking pwd.h usability... "
+    ],
+    [
+      0.030763,
+      "yes\r\nchecking pwd.h presence... "
+    ],
+    [
+      0.006999,
+      "yes\r\nchecking for pwd.h... yes\r\n"
+    ],
+    [
+      0.005997,
+      "checking utime.h usability... "
+    ],
+    [
+      0.033000,
+      "yes\r\nchecking utime.h presence... "
+    ],
+    [
+      0.006001,
+      "yes\r\nchecking for utime.h... yes\r\n"
+    ],
+    [
+      0.004988,
+      "checking sys/param.h usability... "
+    ],
+    [
+      0.031016,
+      "yes\r\nchecking sys/param.h presence... "
+    ],
+    [
+      0.007996,
+      "yes\r\nchecking for sys/param.h... yes\r\n"
+    ],
+    [
+      0.009266,
+      "checking libintl.h usability... "
+    ],
+    [
+      0.029749,
+      "yes\r\nchecking libintl.h presence... "
+    ],
+    [
+      0.007049,
+      "yes\r\nchecking for libintl.h... yes\r\n"
+    ],
+    [
+      0.006194,
+      "checking libgen.h usability... "
+    ],
+    [
+      0.026872,
+      "yes\r\nchecking libgen.h presence... "
+    ],
+    [
+      0.004248,
+      "yes\r\nchecking for libgen.h... yes\r\n"
+    ],
+    [
+      0.006747,
+      "checking util/debug.h usability... "
+    ],
+    [
+      0.082881,
+      "no\r\nchecking util/debug.h presence... "
+    ],
+    [
+      0.011003,
+      "no\r\nchecking for util/debug.h... no\r\n"
+    ],
+    [
+      0.003189,
+      "checking util/msg18n.h usability... "
+    ],
+    [
+      0.082122,
+      "no\r\nchecking util/msg18n.h presence... "
+    ],
+    [
+      0.007749,
+      "no\r\nchecking for util/msg18n.h... no\r\n"
+    ],
+    [
+      0.003940,
+      "checking frame.h usability... "
+    ],
+    [
+      0.076006,
+      "no\r\nchecking frame.h presence... "
+    ],
+    [
+      0.008996,
+      "no\r\nchecking for frame.h... no\r\n"
+    ],
+    [
+      0.002010,
+      "checking sys/acl.h usability... "
+    ],
+    [
+      0.081979,
+      "no\r\nchecking sys/acl.h presence... "
+    ],
+    [
+      0.009005,
+      "no\r\nchecking for sys/acl.h... no\r\n"
+    ],
+    [
+      0.002987,
+      "checking sys/access.h usability... "
+    ],
+    [
+      0.080008,
+      "no\r\nchecking sys/access.h presence... "
+    ],
+    [
+      0.009010,
+      "no\r\nchecking for sys/access.h... no\r\n"
+    ],
+    [
+      0.005057,
+      "checking sys/sysinfo.h usability... "
+    ],
+    [
+      0.037055,
+      "yes\r\nchecking sys/sysinfo.h presence... "
+    ],
+    [
+      0.004941,
+      "yes\r\nchecking for sys/sysinfo.h... yes\r\n"
+    ],
+    [
+      0.006318,
+      "checking wchar.h usability... "
+    ],
+    [
+      0.042107,
+      "yes\r\nchecking wchar.h presence... "
+    ],
+    [
+      0.008641,
+      "yes\r\nchecking for wchar.h... yes\r\n"
+    ],
+    [
+      0.006305,
+      "checking wctype.h usability... "
+    ],
+    [
+      0.031757,
+      "yes\r\nchecking wctype.h presence... "
+    ],
+    [
+      0.007251,
+      "yes\r\nchecking for wctype.h... yes\r\n"
+    ],
+    [
+      0.005266,
+      "checking for sys/ptem.h... "
+    ],
+    [
+      0.033549,
+      "no\r\n"
+    ],
+    [
+      0.000983,
+      "checking for sys/sysctl.h... "
+    ],
+    [
+      0.029015,
+      "yes\r\n"
+    ],
+    [
+      0.000990,
+      "checking for pthread_np.h... "
+    ],
+    [
+      0.061010,
+      "no\r\n"
+    ],
+    [
+      0.001520,
+      "checking strings.h usability... "
+    ],
+    [
+      0.042477,
+      "yes\r\nchecking strings.h presence... "
+    ],
+    [
+      0.009844,
+      "yes\r\nchecking for strings.h... yes\r\n"
+    ],
+    [
+      0.002038,
+      "checking if strings.h can be included after string.h... "
+    ],
+    [
+      0.029922,
+      "yes\r\nchecking whether gcc needs -traditional... "
+    ],
+    [
+      0.015007,
+      "no\r\nchecking for an ANSI C-conforming const... "
+    ],
+    [
+      0.019998,
+      "yes\r\nchecking for working volatile... "
+    ],
+    [
+      0.025059,
+      "yes\r\nchecking for mode_t... "
+    ],
+    [
+      0.066883,
+      "yes\r\nchecking for off_t... "
+    ],
+    [
+      0.062999,
+      "yes\r\nchecking for pid_t... "
+    ],
+    [
+      0.062311,
+      "yes\r\nchecking for size_t... "
+    ],
+    [
+      0.057934,
+      "yes\r\nchecking for uid_t in sys/types.h... "
+    ],
+    [
+      0.010769,
+      "yes\r\nchecking for uint32_t... "
+    ],
+    [
+      0.032986,
+      "yes\r\nchecking whether time.h and sys/time.h may both be included... "
+    ],
+    [
+      0.022998,
+      "yes\r\nchecking for ino_t... "
+    ],
+    [
+      0.061128,
+      "yes\r\nchecking for dev_t... "
+    ],
+    [
+      0.060997,
+      "yes\r\nchecking whether byte ordering is bigendian... "
+    ],
+    [
+      0.055014,
+      "no\r\nchecking for rlim_t... "
+    ],
+    [
+      0.009890,
+      "yes\r\nchecking for stack_t... "
+    ],
+    [
+      0.011165,
+      "yes\r\nchecking whether stack_t has an ss_base field... "
+    ],
+    [
+      0.021995,
+      "no\r\nchecking --with-tlib argument... empty: automatic terminal library selection\r\n"
+    ],
+    [
+      0.004809,
+      "checking for tgetent in -ltinfo... "
+    ],
+    [
+      0.047258,
+      "yes\r\n"
+    ],
+    [
+      0.065740,
+      "checking whether we talk terminfo... "
+    ],
+    [
+      0.060007,
+      "yes\r\nchecking what tgetent() returns for an unknown terminal... "
+    ],
+    [
+      0.091183,
+      "zero\r\nchecking whether termcap.h contains ospeed... "
+    ],
+    [
+      0.059399,
+      "yes\r\nchecking whether termcap.h contains UP, BC and PC... "
+    ],
+    [
+      0.051901,
+      "yes\r\nchecking whether tputs() uses outfuntype... "
+    ],
+    [
+      0.017889,
+      "no\r\nchecking whether sys/select.h and sys/time.h may both be included... "
+    ],
+    [
+      0.023719,
+      "yes\r\nchecking for /dev/ptc... no\r\nchecking for SVR4 ptys... "
+    ],
+    [
+      0.038909,
+      "yes\r\nchecking for ptyranges... "
+    ],
+    [
+      0.013994,
+      "p / 0123456789abcdef\r\nchecking default tty permissions/group... "
+    ],
+    [
+      0.067021,
+      "can't determine - assume ptys are world accessible\r\nworld\r\n"
+    ],
+    [
+      0.001984,
+      "checking return type of signal handlers... "
+    ],
+    [
+      0.019001,
+      "void\r\nchecking for struct sigcontext... "
+    ],
+    [
+      0.027312,
+      "yes\r\n"
+    ],
+    [
+      0.001675,
+      "checking getcwd implementation is broken... "
+    ],
+    [
+      0.046254,
+      "no\r\n"
+    ],
+    [
+      0.002056,
+      "checking for bcmp... "
+    ],
+    [
+      0.040723,
+      "yes\r\n"
+    ],
+    [
+      0.005977,
+      "checking for fchdir... "
+    ],
+    [
+      0.046188,
+      "yes\r\n"
+    ],
+    [
+      0.005810,
+      "checking for fchown... "
+    ],
+    [
+      0.042260,
+      "yes\r\n"
+    ],
+    [
+      0.006947,
+      "checking for fsync... "
+    ],
+    [
+      0.048873,
+      "yes\r\n"
+    ],
+    [
+      0.006236,
+      "checking for getcwd... "
+    ],
+    [
+      0.049748,
+      "yes\r\n"
+    ],
+    [
+      0.005991,
+      "checking for getpseudotty... "
+    ],
+    [
+      0.042951,
+      "no\r\n"
+    ],
+    [
+      0.002983,
+      "checking for getpwent... "
+    ],
+    [
+      0.041284,
+      "yes\r\n"
+    ],
+    [
+      0.005731,
+      "checking for getpwnam... "
+    ],
+    [
+      0.042059,
+      "yes\r\n"
+    ],
+    [
+      0.009270,
+      "checking for getpwuid... "
+    ],
+    [
+      0.038730,
+      "yes\r\n"
+    ],
+    [
+      0.006933,
+      "checking for getrlimit... "
+    ],
+    [
+      0.045247,
+      "yes\r\n"
+    ],
+    [
+      0.005061,
+      "checking for gettimeofday... "
+    ],
+    [
+      0.040711,
+      "yes\r\n"
+    ],
+    [
+      0.005240,
+      "checking for getwd... "
+    ],
+    [
+      0.046814,
+      "yes\r\n"
+    ],
+    [
+      0.007241,
+      "checking for lstat... "
+    ],
+    [
+      0.037799,
+      "yes\r\n"
+    ],
+    [
+      0.004261,
+      "checking for memcmp... "
+    ],
+    [
+      0.041753,
+      "yes\r\n"
+    ],
+    [
+      0.007180,
+      "checking for memset... "
+    ],
+    [
+      0.043756,
+      "yes\r\n"
+    ],
+    [
+      0.005195,
+      "checking for mkdtemp... "
+    ],
+    [
+      0.044059,
+      "yes\r\n"
+    ],
+    [
+      0.010752,
+      "checking for nanosleep... "
+    ],
+    [
+      0.033000,
+      "yes\r\n"
+    ],
+    [
+      0.006375,
+      "checking for opendir... "
+    ],
+    [
+      0.043624,
+      "yes\r\n"
+    ],
+    [
+      0.011024,
+      "checking for putenv... "
+    ],
+    [
+      0.038976,
+      "yes\r\n"
+    ],
+    [
+      0.005312,
+      "checking for qsort... "
+    ],
+    [
+      0.040685,
+      "yes\r\n"
+    ],
+    [
+      0.006060,
+      "checking for readlink... "
+    ],
+    [
+      0.033878,
+      "yes\r\n"
+    ],
+    [
+      0.006027,
+      "checking for select... "
+    ],
+    [
+      0.031977,
+      "yes\r\n"
+    ],
+    [
+      0.004994,
+      "checking for setenv... "
+    ],
+    [
+      0.043266,
+      "yes\r\n"
+    ],
+    [
+      0.007866,
+      "checking for setpgid... "
+    ],
+    [
+      0.035868,
+      "yes\r\n"
+    ],
+    [
+      0.006262,
+      "checking for setsid... "
+    ],
+    [
+      0.040989,
+      "yes\r\n"
+    ],
+    [
+      0.006012,
+      "checking for sigaltstack... "
+    ],
+    [
+      0.037745,
+      "yes\r\n"
+    ],
+    [
+      0.005366,
+      "checking for sigstack... "
+    ],
+    [
+      0.037754,
+      "yes\r\n"
+    ],
+    [
+      0.004244,
+      "checking for sigset... "
+    ],
+    [
+      0.035773,
+      "yes\r\n"
+    ],
+    [
+      0.006009,
+      "checking for sigsetjmp... "
+    ],
+    [
+      0.034856,
+      "no\r\n"
+    ],
+    [
+      0.002997,
+      "checking for sigaction... "
+    ],
+    [
+      0.032005,
+      "yes\r\n"
+    ],
+    [
+      0.004239,
+      "checking for sigvec... "
+    ],
+    [
+      0.035798,
+      "yes\r\n"
+    ],
+    [
+      0.006065,
+      "checking for strcasecmp... "
+    ],
+    [
+      0.033898,
+      "yes\r\n"
+    ],
+    [
+      0.004994,
+      "checking for strerror... "
+    ],
+    [
+      0.034024,
+      "yes\r\n"
+    ],
+    [
+      0.004968,
+      "checking for strftime... "
+    ],
+    [
+      0.034064,
+      "yes\r\n"
+    ],
+    [
+      0.004304,
+      "checking for stricmp... "
+    ],
+    [
+      0.039701,
+      "no\r\n"
+    ],
+    [
+      0.002990,
+      "checking for strncasecmp... "
+    ],
+    [
+      0.039086,
+      "yes\r\n"
+    ],
+    [
+      0.005936,
+      "checking for strnicmp... "
+    ],
+    [
+      0.037988,
+      "no\r\n"
+    ],
+    [
+      0.001995,
+      "checking for strpbrk... "
+    ],
+    [
+      0.040947,
+      "yes\r\n"
+    ],
+    [
+      0.004304,
+      "checking for strtol... "
+    ],
+    [
+      0.038690,
+      "yes\r\n"
+    ],
+    [
+      0.004329,
+      "checking for tgetent... "
+    ],
+    [
+      0.033670,
+      "yes\r\n"
+    ],
+    [
+      0.005094,
+      "checking for towlower... "
+    ],
+    [
+      0.034915,
+      "yes\r\n"
+    ],
+    [
+      0.004288,
+      "checking for towupper... "
+    ],
+    [
+      0.037708,
+      "yes\r\n"
+    ],
+    [
+      0.004989,
+      "checking for iswupper... "
+    ],
+    [
+      0.041006,
+      "yes\r\n"
+    ],
+    [
+      0.004114,
+      "checking for usleep... "
+    ],
+    [
+      0.033902,
+      "yes\r\n"
+    ],
+    [
+      0.005993,
+      "checking for utime... "
+    ],
+    [
+      0.032986,
+      "yes\r\n"
+    ],
+    [
+      0.004244,
+      "checking for utimes... "
+    ],
+    [
+      0.032761,
+      "yes\r\n"
+    ],
+    [
+      0.002995,
+      "checking for _LARGEFILE_SOURCE value needed for large files... "
+    ],
+    [
+      0.039257,
+      "no\r\n"
+    ],
+    [
+      0.005169,
+      "checking for special C compiler options needed for large files... no\r\nchecking for _FILE_OFFSET_BITS value needed for large files... "
+    ],
+    [
+      0.020827,
+      "no\r\n"
+    ],
+    [
+      0.000985,
+      "checking for st_blksize... "
+    ],
+    [
+      0.023776,
+      "yes\r\nchecking whether stat() ignores a trailing slash... "
+    ],
+    [
+      0.044055,
+      "no\r\nchecking for iconv_open()... "
+    ],
+    [
+      0.060003,
+      "yes\r\n"
+    ],
+    [
+      0.000998,
+      "checking for nl_langinfo(CODESET)... "
+    ],
+    [
+      0.036933,
+      "yes\r\nchecking for strtod in -lm... "
+    ],
+    [
+      0.045089,
+      "yes\r\nchecking for strtod() and other floating point functions... "
+    ],
+    [
+      0.045915,
+      "yes\r\nchecking --disable-acl argument... no\r\nchecking for acl_get_file in -lposix1e... "
+    ],
+    [
+      0.031033,
+      "no\r\nchecking for acl_get_file in -lacl... "
+    ],
+    [
+      0.030029,
+      "no\r\nchecking for POSIX ACL support... "
+    ],
+    [
+      0.018941,
+      "no\r\nchecking for acl_get in -lsec... "
+    ],
+    [
+      0.028991,
+      "no\r\nchecking for Solaris ACL support... "
+    ],
+    [
+      0.014002,
+      "no\r\nchecking for AIX ACL support... "
+    ],
+    [
+      0.019000,
+      "no\r\nchecking --disable-gpm argument... no\r\nchecking for gpm... "
+    ],
+    [
+      0.028998,
+      "no\r\nchecking --disable-sysmouse argument... no\r\nchecking for sysmouse... "
+    ],
+    [
+      0.036805,
+      "no\r\nchecking for FD_CLOEXEC... "
+    ],
+    [
+      0.016198,
+      "yes\r\nchecking for rename... "
+    ],
+    [
+      0.039134,
+      "yes\r\nchecking for sysctl... "
+    ],
+    [
+      0.017177,
+      "not usable\r\n"
+    ],
+    [
+      0.001751,
+      "checking for sysinfo... "
+    ],
+    [
+      0.018020,
+      "yes\r\nchecking for sysinfo.mem_unit... "
+    ],
+    [
+      0.021026,
+      "yes\r\nchecking for sysconf... "
+    ],
+    [
+      0.019902,
+      "yes\r\nchecking size of int... "
+    ],
+    [
+      0.058052,
+      "4\r\nchecking size of long... "
+    ],
+    [
+      0.063937,
+      "8\r\nchecking size of time_t... "
+    ],
+    [
+      0.059010,
+      "8\r\nchecking size of off_t... "
+    ],
+    [
+      0.055998,
+      "8\r\n"
+    ],
+    [
+      0.002989,
+      "checking uint32_t is 32 bits... "
+    ],
+    [
+      0.037021,
+      "ok\r\nchecking whether memmove handles overlaps... "
+    ],
+    [
+      0.047987,
+      "yes\r\nchecking whether X_LOCALE needed... "
+    ],
+    [
+      0.060026,
+      "no\r\nchecking whether Xutf8SetWMProperties() can be used... "
+    ],
+    [
+      0.044980,
+      "yes\r\nchecking for _xpg4_setrunelocale in -lxpg4... "
+    ],
+    [
+      0.029998,
+      "no\r\nchecking how to create tags... "
+    ],
+    [
+      0.009244,
+      "ctags\r\nchecking how to run man with a section nr... "
+    ],
+    [
+      0.034003,
+      "man -s\r\nchecking --disable-nls argument... "
+    ],
+    [
+      0.000980,
+      "no\r\nchecking for msgfmt... msgfmt\r\nchecking for NLS... "
+    ],
+    [
+      0.031769,
+      "gettext() works\r\nchecking for bind_textdomain_codeset... "
+    ],
+    [
+      0.037998,
+      "yes\r\nchecking for _nl_msg_cat_cntr... "
+    ],
+    [
+      0.035001,
+      "yes\r\nchecking dlfcn.h usability... "
+    ],
+    [
+      0.029998,
+      "yes\r\nchecking dlfcn.h presence... "
+    ],
+    [
+      0.006012,
+      "yes\r\nchecking for dlfcn.h... yes\r\nchecking for dlopen()... "
+    ],
+    [
+      0.041989,
+      "yes\r\nchecking for dlsym()... "
+    ],
+    [
+      0.037004,
+      "yes\r\nchecking setjmp.h usability... "
+    ],
+    [
+      0.037995,
+      "yes\r\nchecking setjmp.h presence... "
+    ],
+    [
+      0.006999,
+      "yes\r\nchecking for setjmp.h... yes\r\n"
+    ],
+    [
+      0.001988,
+      "checking for GCC 3 or later... yes\r\nchecking whether we need -D_FORTIFY_SOURCE=1... "
+    ],
+    [
+      0.001251,
+      "yes\r\n"
+    ],
+    [
+      0.000998,
+      "checking linker --as-needed support... "
+    ],
+    [
+      0.010134,
+      "yes\r\n"
+    ],
+    [
+      0.025628,
+      "configure: updating cache auto/config.cache\r\n"
+    ],
+    [
+      0.003001,
+      "configure: creating auto/config.status\r\n"
+    ],
+    [
+      0.055262,
+      "config.status: creating auto/config.mk\r\n"
+    ],
+    [
+      0.008996,
+      "config.status: creating auto/config.h\r\n"
+    ],
+    [
+      0.044746,
+      "\u001b]0;syfaro@morath: ~/vim\u0007syfaro@morath:~/vim$ "
+    ],
+    [
+      2.208070,
+      "make VIMRUNTIMEDIR=/usr/share/vim/vim74"
+    ],
+    [
+      0.577361,
+      "\r\n"
+    ],
+    [
+      0.005053,
+      "Starting make in the src directory.\r\nIf there are problems, cd to the src directory and run make there\r\ncd src \u0026\u0026 make first\r\nmake[1]: Entering directory `/home/syfaro/vim/src'\r\nmkdir objects\r\n"
+    ],
+    [
+      0.002710,
+      "CC=\"gcc -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12        \" srcdir=. sh ./osdef.sh\r\n"
+    ],
+    [
+      0.416269,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/buffer.o buffer.c\r\n"
+    ],
+    [
+      1.745983,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/blowfish.o blowfish.c\r\n"
+    ],
+    [
+      0.415740,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/charset.o charset.c\r\n"
+    ],
+    [
+      0.802171,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/crypt.o crypt.c\r\n"
+    ],
+    [
+      0.477107,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/crypt_zip.o crypt_zip.c\r\n"
+    ],
+    [
+      0.455728,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/diff.o diff.c\r\n"
+    ],
+    [
+      0.962001,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/digraph.o digraph.c\r\n"
+    ],
+    [
+      0.584876,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/edit.o edit.c\r\n"
+    ],
+    [
+      2.376243,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/eval.o eval.c\r\n"
+    ],
+    [
+      5.412004,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/ex_cmds.o ex_cmds.c\r\n"
+    ],
+    [
+      1.662688,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/ex_cmds2.o ex_cmds2.c\r\n"
+    ],
+    [
+      0.989087,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/ex_docmd.o ex_docmd.c\r\n"
+    ],
+    [
+      2.693153,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/ex_eval.o ex_eval.c\r\n"
+    ],
+    [
+      0.679880,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/ex_getln.o ex_getln.c\r\n"
+    ],
+    [
+      1.794288,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/fileio.o fileio.c\r\n"
+    ],
+    [
+      2.102777,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/fold.o fold.c\r\n"
+    ],
+    [
+      1.040812,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/getchar.o getchar.c\r\n"
+    ],
+    [
+      1.287317,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/hardcopy.o hardcopy.c\r\n"
+    ],
+    [
+      0.870926,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/hashtab.o hashtab.c\r\n"
+    ],
+    [
+      0.454884,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/if_cscope.o if_cscope.c\r\n"
+    ],
+    [
+      0.972293,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/if_xcmdsrv.o if_xcmdsrv.c\r\n"
+    ],
+    [
+      0.609951,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/mark.o mark.c\r\n"
+    ],
+    [
+      0.731006,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/memline.o memline.c\r\n"
+    ],
+    [
+      1.169021,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/menu.o menu.c\r\n"
+    ],
+    [
+      0.761977,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/message.o message.c\r\n"
+    ],
+    [
+      1.269747,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/misc1.o misc1.c\r\n"
+    ],
+    [
+      2.675877,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/misc2.o misc2.c\r\n"
+    ],
+    [
+      1.199994,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/move.o move.c\r\n"
+    ],
+    [
+      0.699998,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/mbyte.o mbyte.c\r\n"
+    ],
+    [
+      1.194158,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/normal.o normal.c\r\n"
+    ],
+    [
+      1.944969,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/ops.o ops.c\r\n"
+    ],
+    [
+      1.582004,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/option.o option.c\r\n"
+    ],
+    [
+      1.844996,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/os_unix.o os_unix.c\r\n"
+    ],
+    [
+      1.117204,
+      "creating auto/pathdef.c\r\n"
+    ],
+    [
+      0.017691,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/pathdef.o auto/pathdef.c\r\n"
+    ],
+    [
+      0.403013,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/popupmnu.o popupmnu.c\r\n"
+    ],
+    [
+      0.450118,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/quickfix.o quickfix.c\r\n"
+    ],
+    [
+      1.258365,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/regexp.o regexp.c\r\n"
+    ],
+    [
+      5.650703,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/screen.o screen.c\r\n"
+    ],
+    [
+      3.593935,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/search.o search.c\r\n"
+    ],
+    [
+      1.557913,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/sha256.o sha256.c\r\n"
+    ],
+    [
+      0.672007,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/spell.o spell.c\r\n"
+    ],
+    [
+      4.333997,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/syntax.o syntax.c\r\n"
+    ],
+    [
+      2.505204,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/tag.o tag.c\r\n"
+    ],
+    [
+      1.246986,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/term.o term.c\r\n"
+    ],
+    [
+      1.202793,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/ui.o ui.c\r\n"
+    ],
+    [
+      0.868215,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/undo.o undo.c\r\n"
+    ],
+    [
+      1.002987,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/window.o window.c\r\n"
+    ],
+    [
+      1.685002,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/gui.o gui.c\r\n"
+    ],
+    [
+      1.371002,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/gui_gtk.o gui_gtk.c\r\n"
+    ],
+    [
+      0.809746,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/gui_gtk_x11.o gui_gtk_x11.c\r\n"
+    ],
+    [
+      1.416006,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/pty.o pty.c\r\n"
+    ],
+    [
+      0.479994,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/gui_gtk_f.o gui_gtk_f.c\r\n"
+    ],
+    [
+      0.584000,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/gui_beval.o gui_beval.c\r\n"
+    ],
+    [
+      0.513057,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -I/usr/include/lua5.2 -o objects/if_lua.o if_lua.c\r\n"
+    ],
+    [
+      0.656945,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -I/usr/include/python2.7 -DPYTHON_HOME='\"/usr\"' -pthread -fPIE  -o objects/if_python.o if_python.c\r\n"
+    ],
+    [
+      1.794060,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -I/usr/include/ruby-1.9.1 -I/usr/include/ruby-1.9.1/x86_64-linux -DRUBY_VERSION=19 -o objects/if_ruby.o if_ruby.c\r\n"
+    ],
+    [
+      0.555252,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/netbeans.o netbeans.c\r\n"
+    ],
+    [
+      1.012810,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/main.o main.c\r\n"
+    ],
+    [
+      1.436862,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       -o objects/memfile.o memfile.c\r\n"
+    ],
+    [
+      0.751467,
+      "gcc -c -I. -Iproto -DHAVE_CONFIG_H -DFEAT_GUI_GTK  -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12     -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       version.c -o objects/version.o\r\n"
+    ],
+    [
+      0.500550,
+      "link.sh: $LINK_AS_NEEDED set to 'yes': invoking linker directly.\r\n  gcc   -L. -Wl,-z,relro -rdynamic -Wl,-export-dynamic  -L/usr/local/lib -Wl,--as-needed \t-o vim objects/buffer.o objects/blowfish.o objects/charset.o objects/crypt.o objects/crypt_zip.o objects/diff.o objects/digraph.o objects/edit.o objects/eval.o objects/ex_cmds.o objects/ex_cmds2.o objects/ex_docmd.o objects/ex_eval.o objects/ex_getln.o objects/fileio.o objects/fold.o objects/getchar.o objects/hardcopy.o objects/hashtab.o  objects/if_cscope.o objects/if_xcmdsrv.o objects/mark.o objects/memline.o objects/menu.o objects/message.o objects/misc1.o objects/misc2.o objects/move.o objects/mbyte.o objects/normal.o objects/ops.o objects/option.o objects/os_unix.o objects/pathdef.o objects/popupmnu.o objects/quickfix.o objects/regexp.o objects/screen.o objects/search.o objects/sha256.o objects/spell.o objects/syntax.o  objects/tag.o objects/term.o objects/ui.o objects/undo.o objects/version.o objects/window.o objects/gui.o objects/gui_gtk.o objects/gui_gtk_x11.o objects/pty.o objects/gui_gtk_f.o objects/gui_beval.o objects/if_lua.o   objects/if_python.o   objects/if_ruby.o   objects/netbeans.o  objects/main.o objects/memfile.o   -lgtk-x11-2.0 -lgdk-x11-2.0 -latk-1.0 -lgio-2.0 -lpangoft2-1.0 -lpangocairo-1.0 -lgdk_pixbuf-2.0 -lcairo -lpango-1.0 -lfreetype -lfontconfig -lgobject-2.0 -lglib-2.0   -lSM -lICE -lXpm -lXt -lX11 -lXdmcp -lSM -lICE  -lm -ltinfo -lnsl  -lselinux   -L/usr/lib -llua5.2  -L/usr/lib/python2.7/config -lpython2.7 -lpthread -ldl -lutil -lm -Xlinker -export-dynamic -Wl,-O1 -Wl,-Bsymbolic-functions   -lruby-1.9.1 -lpthread -lrt -ldl -lcrypt -lm  -L/usr/lib   \r\n"
+    ],
+    [
+      0.334307,
+      "link.sh: Linked fine\r\n"
+    ],
+    [
+      0.001802,
+      "cd xxd; CC=\"gcc\" CFLAGS=\" -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1\" LDFLAGS=\"-L. -Wl,-z,relro -rdynamic -Wl,-export-dynamic  -L/usr/local/lib -Wl,--as-needed\" \\\r\n\t\tmake -f Makefile\r\n"
+    ],
+    [
+      0.001244,
+      "make[2]: Entering directory `/home/syfaro/vim/src/xxd'\r\ngcc  -g -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -L. -Wl,-z,relro -rdynamic -Wl,-export-dynamic  -L/usr/local/lib -Wl,--as-needed -DUNIX -o xxd xxd.c\r\n"
+    ],
+    [
+      0.256037,
+      "make[2]: Leaving directory `/home/syfaro/vim/src/xxd'\r\n"
+    ],
+    [
+      0.002986,
+      "make[2]: Entering directory `/home/syfaro/vim/src/po'\r\nOLD_PO_FILE_INPUT=yes msgfmt -v -o af.mo af.po\r\n"
+    ],
+    [
+      0.015052,
+      "1423 translated messages.\r\n"
+    ],
+    [
+      0.004699,
+      "OLD_PO_FILE_INPUT=yes msgfmt -v -o ca.mo ca.po\r\n"
+    ],
+    [
+      0.004977,
+      "1697 translated messages.\r\nOLD_PO_FILE_INPUT=yes msgfmt -v -o cs.mo cs.po\r\n"
+    ],
+    [
+      0.005378,
+      "1284 translated messages.\r\n"
+    ],
+    [
+      0.001630,
+      "OLD_PO_FILE_INPUT=yes msgfmt -v -o de.mo de.po\r\n"
+    ],
+    [
+      0.007264,
+      "1701 translated messages.\r\nOLD_PO_FILE_INPUT=yes msgfmt -v -o en_GB.mo en_GB.po\r\n"
+    ],
+    [
+      0.003737,
+      "78 translated messages.\r\nOLD_PO_FILE_INPUT=yes msgfmt -v -o eo.mo eo.po\r\n"
+    ],
+    [
+      0.008999,
+      "1883 translated messages.\r\nOLD_PO_FILE_INPUT=yes msgfmt -v -o es.mo es.po\r\n"
+    ],
+    [
+      0.009331,
+      "1733 translated messages.\r\nOLD_PO_FILE_INPUT=yes msgfmt -v -o fi.mo fi.po\r\n"
+    ],
+    [
+      0.008990,
+      "1768 translated messages.\r\nOLD_PO_FILE_INPUT=yes msgfmt -v -o fr.mo fr.po\r\n"
+    ],
+    [
+      0.009980,
+      "1883 translated messages.\r\n"
+    ],
+    [
+      0.004952,
+      "OLD_PO_FILE_INPUT=yes msgfmt -v -o ga.mo ga.po\r\n"
+    ],
+    [
+      0.009633,
+      "1733 translated messages.\r\nOLD_PO_FILE_INPUT=yes msgfmt -v -o it.mo it.po\r\n"
+    ],
+    [
+      0.010061,
+      "1863 translated messages.\r\nOLD_PO_FILE_INPUT=yes msgfmt -v -o ja.mo ja.po\r\n"
+    ],
+    [
+      0.010543,
+      "1869 translated messages.\r\nOLD_PO_FILE_INPUT=yes msgfmt -v -o ko.mo ko.po\r\n"
+    ],
+    [
+      0.007575,
+      "1728 translated messages.\r\nOLD_PO_FILE_INPUT=yes msgfmt -v -o ko.UTF-8.mo ko.UTF-8.po\r\n"
+    ],
+    [
+      0.009879,
+      "1728 translated messages.\r\ncp no.po nb.po\r\nOLD_PO_FILE_INPUT=yes msgfmt -v -o nb.mo nb.po\r\n"
+    ],
+    [
+      0.008251,
+      "1668 translated messages.\r\nOLD_PO_FILE_INPUT=yes msgfmt -v -o nl.mo nl.po\r\n"
+    ],
+    [
+      0.008114,
+      "1213 translated messages.\r\nOLD_PO_FILE_INPUT=yes msgfmt -v -o no.mo no.po\r\n"
+    ],
+    [
+      0.008946,
+      "1668 translated messages.\r\n"
+    ],
+    [
+      0.000019,
+      "OLD_PO_FILE_INPUT=yes msgfmt -v -o pl.mo pl.po\r\n"
+    ],
+    [
+      0.009913,
+      "1869 translated messages.\r\nOLD_PO_FILE_INPUT=yes msgfmt -v -o pt_BR.mo pt_BR.po\r\n"
+    ],
+    [
+      0.008131,
+      "1735 translated messages.\r\n"
+    ],
+    [
+      0.000986,
+      "OLD_PO_FILE_INPUT=yes msgfmt -v -o ru.mo ru.po\r\n"
+    ],
+    [
+      0.010016,
+      "1882 translated messages.\r\nOLD_PO_FILE_INPUT=yes msgfmt -v -o sk.mo sk.po\r\n"
+    ],
+    [
+      0.007993,
+      "1628 translated messages.\r\nOLD_PO_FILE_INPUT=yes msgfmt -v -o sv.mo sv.po\r\n"
+    ],
+    [
+      0.010004,
+      "1697 translated messages.\r\nOLD_PO_FILE_INPUT=yes msgfmt -v -o uk.mo uk.po\r\n"
+    ],
+    [
+      0.009981,
+      "1883 translated messages.\r\n"
+    ],
+    [
+      0.001019,
+      "OLD_PO_FILE_INPUT=yes msgfmt -v -o vi.mo vi.po\r\n"
+    ],
+    [
+      0.007011,
+      "1422 translated messages.\r\nOLD_PO_FILE_INPUT=yes msgfmt -v -o zh_CN.UTF-8.mo zh_CN.UTF-8.po\r\n"
+    ],
+    [
+      0.008983,
+      "1634 translated messages, 3 fuzzy translations.\r\nOLD_PO_FILE_INPUT=yes msgfmt -v -o zh_CN.mo zh_CN.po\r\n"
+    ],
+    [
+      0.007872,
+      "1633 translated messages, 3 fuzzy translations.\r\nOLD_PO_FILE_INPUT=yes msgfmt -v -o zh_TW.UTF-8.mo zh_TW.UTF-8.po\r\n"
+    ],
+    [
+      0.008145,
+      "1422 translated messages.\r\nOLD_PO_FILE_INPUT=yes msgfmt -v -o zh_TW.mo zh_TW.po\r\n"
+    ],
+    [
+      0.006997,
+      "1422 translated messages.\r\nrm -f cs.cp1250.po\r\n"
+    ],
+    [
+      0.000993,
+      "iconv -f iso-8859-2 -t cp1250 cs.po | \\\r\n\t\tsed -e 's/charset=ISO-8859-2/charset=cp1250/' -e 's/# Original translations/# Generated from cs.po, DO NOT EDIT/' \u003e cs.cp1250.po\r\n"
+    ],
+    [
+      0.007008,
+      "OLD_PO_FILE_INPUT=yes msgfmt -v -o cs.cp1250.mo cs.cp1250.po\r\n"
+    ],
+    [
+      0.008506,
+      "1284 translated messages.\r\nOLD_PO_FILE_INPUT=yes msgfmt -v -o ja.sjis.mo ja.sjis.po\r\n"
+    ],
+    [
+      0.011478,
+      "1869 translated messages.\r\niconv -f utf-8 -t euc-jp ja.po | \\\r\n\t\tsed -e 's/charset=utf-8/charset=euc-jp/' -e 's/# Original translations/# Generated from ja.po, DO NOT EDIT/' \u003e ja.euc-jp.po\r\n"
+    ],
+    [
+      0.010635,
+      "OLD_PO_FILE_INPUT=yes msgfmt -v -o ja.euc-jp.mo ja.euc-jp.po\r\n"
+    ],
+    [
+      0.009309,
+      "1869 translated messages.\r\nrm -f pl.cp1250.po\r\n"
+    ],
+    [
+      0.001735,
+      "iconv -f iso-8859-2 -t cp1250 pl.po | \\\r\n\t\tsed -e 's/charset=ISO-8859-2/charset=cp1250/' -e 's/# Original translations/# Generated from pl.po, DO NOT EDIT/' \u003e pl.cp1250.po\r\n"
+    ],
+    [
+      0.005258,
+      "OLD_PO_FILE_INPUT=yes msgfmt -v -o pl.cp1250.mo pl.cp1250.po\r\n"
+    ],
+    [
+      0.009078,
+      "1869 translated messages.\r\nrm -f pl.UTF-8.po\r\n"
+    ],
+    [
+      0.000959,
+      "iconv -f iso-8859-2 -t utf-8 pl.po | \\\r\n\t\tsed -e 's/charset=ISO-8859-2/charset=utf-8/' -e 's/# Original translations/# Generated from pl.po, DO NOT EDIT/' \u003e pl.UTF-8.po\r\n"
+    ],
+    [
+      0.005961,
+      "OLD_PO_FILE_INPUT=yes msgfmt -v -o pl.UTF-8.mo pl.UTF-8.po\r\n"
+    ],
+    [
+      0.010098,
+      "1869 translated messages.\r\n"
+    ],
+    [
+      0.000906,
+      "rm -f ru.cp1251.po\r\niconv -f utf-8 -t cp1251 ru.po | \\\r\n\t\tsed -e 's/charset=utf-8/charset=cp1251/' -e 's/# Original translations/# Generated from ru.po, DO NOT EDIT/' \u003e ru.cp1251.po\r\n"
+    ],
+    [
+      0.012753,
+      "OLD_PO_FILE_INPUT=yes msgfmt -v -o ru.cp1251.mo ru.cp1251.po\r\n"
+    ],
+    [
+      0.010316,
+      "1882 translated messages.\r\nrm -f sk.cp1250.po\r\n"
+    ],
+    [
+      0.001685,
+      "iconv -f iso-8859-2 -t cp1250 sk.po | \\\r\n\t\tsed -e 's/charset=ISO-8859-2/charset=cp1250/' -e 's/# Original translations/# Generated from sk.po, DO NOT EDIT/' \u003e sk.cp1250.po\r\n"
+    ],
+    [
+      0.003947,
+      "OLD_PO_FILE_INPUT=yes msgfmt -v -o sk.cp1250.mo sk.cp1250.po\r\n"
+    ],
+    [
+      0.008244,
+      "1628 translated messages.\r\nrm -f uk.cp1251.po\r\niconv -f utf-8 -t cp1251 uk.po | \\\r\n\t\tsed -e 's/charset=utf-8/charset=cp1251/' -e 's/# Original translations/# Generated from uk.po, DO NOT EDIT/' \u003e uk.cp1251.po\r\n"
+    ],
+    [
+      0.009750,
+      "OLD_PO_FILE_INPUT=yes msgfmt -v -o uk.cp1251.mo uk.cp1251.po\r\n"
+    ],
+    [
+      0.008334,
+      "1883 translated messages.\r\nrm -f zh_CN.cp936.po\r\niconv -f gb2312 -t cp936 zh_CN.po | \\\r\n\t\tsed -e 's/charset=gb2312/charset=gbk/' -e 's/# Original translations/# Generated from zh_CN.po, DO NOT EDIT/' \u003e zh_CN.cp936.po\r\n"
+    ],
+    [
+      0.007663,
+      "OLD_PO_FILE_INPUT=yes msgfmt -v -o zh_CN.cp936.mo zh_CN.cp936.po\r\n"
+    ],
+    [
+      0.011274,
+      "1633 translated messages, 3 fuzzy translations.\r\nmake[2]: Leaving directory `/home/syfaro/vim/src/po'\r\n"
+    ],
+    [
+      0.003701,
+      "make[2]: Entering directory `/home/syfaro/vim/src/po'\r\nmake[2]: Nothing to be done for `converted'.\r\nmake[2]: Leaving directory `/home/syfaro/vim/src/po'\r\nmake[1]: Leaving directory `/home/syfaro/vim/src'\r\n\u001b]0;syfaro@morath: ~/vim\u0007syfaro@morath:~/vim$ "
+    ],
+    [
+      1.500929,
+      "sudo apt-get install checkinstall\r\n"
+    ],
+    [
+      0.005293,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.001996,
+      "\rReading package lists... 100%\r\rReading package lists... Done\r\r\n"
+    ],
+    [
+      0.004019,
+      "\rBuilding dependency tree... 0%\r\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.041981,
+      "\rBuilding dependency tree... 50%\r\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.246998,
+      "\rBuilding dependency tree       \r\r\n\rReading state information... 0%\r\rReading state information... 0%\r"
+    ],
+    [
+      0.004003,
+      "\rReading state information... Done\r\r\n"
+    ],
+    [
+      0.119003,
+      "checkinstall is already the newest version.\r\n"
+    ],
+    [
+      0.144997,
+      "The following package was automatically installed and is no longer required:\r\n  libnss3-1d\r\nUse 'apt-get autoremove' to remove it.\r\n"
+    ],
+    [
+      0.062157,
+      "0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.\r\n"
+    ],
+    [
+      0.004916,
+      "\u001b]0;syfaro@morath: ~/vim\u0007syfaro@morath:~/vim$ cd vim\r\nbash: cd: vim: No such file or directory\r\n\u001b]0;syfaro@morath: ~/vim\u0007syfaro@morath:~/vim$ sudo checkinstall"
+    ],
+    [
+      1.676568,
+      "\r\n"
+    ],
+    [
+      0.011116,
+      "\r\ncheckinstall 1.6.2, Copyright 2009 Felipe Eduardo Sanchez Diaz Duran\r\n           This software is released under the GNU GPL.\r\n"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.009968,
+      "\r\n"
+    ],
+    [
+      0.004993,
+      "The package documentation directory ./doc-pak does not exist. \r\nShould I create a default set of package docs?  [y]: "
+    ],
+    [
+      2.992245,
+      "\r\n"
+    ],
+    [
+      0.005756,
+      "\r\nPreparing package documentation..."
+    ],
+    [
+      0.032439,
+      "OK\r\n"
+    ],
+    [
+      0.001990,
+      "\r\n"
+    ],
+    [
+      0.001017,
+      "Please write a description for the package.\r\n"
+    ],
+    [
+      0.001980,
+      "End your description with an empty line or EOF.\r\n\u003e\u003e "
+    ],
+    [
+      3.768625,
+      "V"
+    ],
+    [
+      0.056121,
+      "I"
+    ],
+    [
+      0.045251,
+      "M"
+    ],
+    [
+      0.328099,
+      "\r\n\u003e\u003e "
+    ],
+    [
+      0.389592,
+      "\r\n"
+    ],
+    [
+      0.003076,
+      "\r\n*****************************************\r\n**** Debian package creation selected ***\r\n*****************************************\r\n"
+    ],
+    [
+      0.078879,
+      "\r\nThis package will be built according to these values: \r\n\r\n"
+    ],
+    [
+      0.001987,
+      "0 -  Maintainer: [ root@morath ]\r\n1 -  Summary: [ VIM ]\r\n"
+    ],
+    [
+      0.002003,
+      "2 -  Name:    [ vim ]\r\n3 -  Version: [ 20150314 ]\r\n"
+    ],
+    [
+      0.001006,
+      "4 -  Release: [ 1 ]\r\n5 -  License: [ GPL ]\r\n"
+    ],
+    [
+      0.002005,
+      "6 -  Group:   [ checkinstall ]\r\n7 -  Architecture: [ amd64 ]\r\n"
+    ],
+    [
+      0.006143,
+      "8 -  Source location: [ vim ]\r\n9 -  Alternate source location: [  ]\r\n10 - Requires: [  ]\r\n11 - Provides: [ vim ]\r\n12 - Conflicts: [  ]\r\n13 - Replaces: [  ]\r\n\r\n"
+    ],
+    [
+      0.001216,
+      "Enter a number to change any of them or press ENTER to continue: "
+    ],
+    [
+      2.516700,
+      "\r\n"
+    ],
+    [
+      0.003951,
+      "\r\nInstalling with make install...\r\n\r\n"
+    ],
+    [
+      0.002002,
+      "========================= Installation results ===========================\r\n"
+    ],
+    [
+      0.031625,
+      "Starting make in the src directory.\r\nIf there are problems, cd to the src directory and run make there\r\n"
+    ],
+    [
+      0.000021,
+      "cd src \u0026\u0026 make install\r\n"
+    ],
+    [
+      0.012593,
+      "make[1]: Entering directory `/home/syfaro/vim/src'\r\nif test -f /usr/bin/vim; then \\\r\n\t  mv -f /usr/bin/vim /usr/bin/vim.rm; \\\r\n\t  rm -f /usr/bin/vim.rm; \\\r\n\tfi\r\n"
+    ],
+    [
+      0.000985,
+      "cp vim /usr/bin\r\n"
+    ],
+    [
+      0.012009,
+      "strip /usr/bin/vim\r\n"
+    ],
+    [
+      0.015776,
+      "chmod 755 /usr/bin/vim\r\ncp vimtutor /usr/bin/vimtutor\r\n"
+    ],
+    [
+      0.002046,
+      "chmod 755 /usr/bin/vimtutor\r\n/bin/sh ./mkinstalldirs /usr/share/vim/vim74\r\n"
+    ],
+    [
+      0.002950,
+      "mkdir /usr/share/vim/vim74\r\n"
+    ],
+    [
+      0.001986,
+      "chmod 755 /usr/share/vim/vim74\r\n/bin/sh ./mkinstalldirs /usr/share/vim/vim74/doc\r\n"
+    ],
+    [
+      0.003000,
+      "mkdir /usr/share/vim/vim74/doc\r\nchmod 755 /usr/share/vim/vim74/doc\r\n"
+    ],
+    [
+      0.002005,
+      "/bin/sh ./mkinstalldirs /usr/share/vim/vim74/print\r\n"
+    ],
+    [
+      0.001986,
+      "mkdir /usr/share/vim/vim74/print\r\nchmod 755 /usr/share/vim/vim74/print\r\n"
+    ],
+    [
+      0.002007,
+      "/bin/sh ./mkinstalldirs /usr/share/vim/vim74/colors\r\n"
+    ],
+    [
+      0.001990,
+      "mkdir /usr/share/vim/vim74/colors\r\nchmod 755 /usr/share/vim/vim74/colors\r\n/bin/sh ./mkinstalldirs /usr/share/vim/vim74/syntax\r\n"
+    ],
+    [
+      0.003001,
+      "mkdir /usr/share/vim/vim74/syntax\r\nchmod 755 /usr/share/vim/vim74/syntax\r\n"
+    ],
+    [
+      0.002016,
+      "/bin/sh ./mkinstalldirs /usr/share/vim/vim74/indent\r\n"
+    ],
+    [
+      0.002119,
+      "mkdir /usr/share/vim/vim74/indent\r\n"
+    ],
+    [
+      0.001103,
+      "chmod 755 /usr/share/vim/vim74/indent\r\n/bin/sh ./mkinstalldirs /usr/share/vim/vim74/ftplugin\r\n"
+    ],
+    [
+      0.003952,
+      "mkdir /usr/share/vim/vim74/ftplugin\r\n"
+    ],
+    [
+      0.001061,
+      "chmod 755 /usr/share/vim/vim74/ftplugin\r\n"
+    ],
+    [
+      0.001024,
+      "/bin/sh ./mkinstalldirs /usr/share/vim/vim74/autoload\r\n"
+    ],
+    [
+      0.002980,
+      "mkdir /usr/share/vim/vim74/autoload\r\n"
+    ],
+    [
+      0.000985,
+      "chmod 755 /usr/share/vim/vim74/autoload\r\n"
+    ],
+    [
+      0.001008,
+      "/bin/sh ./mkinstalldirs /usr/share/vim/vim74/autoload/xml\r\n"
+    ],
+    [
+      0.002750,
+      "mkdir /usr/share/vim/vim74/autoload/xml\r\n"
+    ],
+    [
+      0.001248,
+      "chmod 755 /usr/share/vim/vim74/autoload/xml\r\n/bin/sh ./mkinstalldirs /usr/share/vim/vim74/plugin\r\n"
+    ],
+    [
+      0.005086,
+      "mkdir /usr/share/vim/vim74/plugin\r\n"
+    ],
+    [
+      0.001665,
+      "chmod 755 /usr/share/vim/vim74/plugin\r\n/bin/sh ./mkinstalldirs /usr/share/vim/vim74/tutor\r\n"
+    ],
+    [
+      0.002998,
+      "mkdir /usr/share/vim/vim74/tutor\r\n"
+    ],
+    [
+      0.002001,
+      "chmod 755 /usr/share/vim/vim74/tutor\r\n/bin/sh ./mkinstalldirs /usr/share/vim/vim74/spell\r\n"
+    ],
+    [
+      0.002032,
+      "mkdir /usr/share/vim/vim74/spell\r\n"
+    ],
+    [
+      0.001997,
+      "chmod 755 /usr/share/vim/vim74/spell\r\n/bin/sh ./mkinstalldirs /usr/share/vim/vim74/compiler\r\n"
+    ],
+    [
+      0.003070,
+      "mkdir /usr/share/vim/vim74/compiler\r\n"
+    ],
+    [
+      0.001946,
+      "chmod 755 /usr/share/vim/vim74/compiler\r\n/bin/sh ./installman.sh install /usr/share/man/man1 \"\" /usr/share/vim /usr/share/vim/vim74 /usr/share/vim ../runtime/doc 644 vim vimdiff evim\r\n"
+    ],
+    [
+      0.002965,
+      "installing /usr/share/man/man1/vim.1\r\n"
+    ],
+    [
+      0.004019,
+      "installing /usr/share/man/man1/vimtutor.1\r\n"
+    ],
+    [
+      0.002976,
+      "installing /usr/share/man/man1/vimdiff.1\r\n"
+    ],
+    [
+      0.001993,
+      "installing /usr/share/man/man1/evim.1\r\n"
+    ],
+    [
+      0.004006,
+      "generating help tags\r\n"
+    ],
+    [
+      0.005003,
+      "make[2]: Entering directory `/home/syfaro/vim/runtime/doc'\r\n/usr/bin/vim -u NONE -esX -c \"helptags ++t .\" -c quit\r\n/bin/sh: 1: /usr/bin/vim: not found\r\nmake[2]: *** [vimtags] Error 127\r\nmake[2]: Leaving directory `/home/syfaro/vim/runtime/doc'\r\n"
+    ],
+    [
+      0.002001,
+      "make[1]: [installrtbase] Error 2 (ignored)\r\ncd ../runtime/doc; \\\r\n\t\tfiles=`ls *.txt tags`; \\\r\n\t\tfiles=\"$files `ls *.??x tags-?? 2\u003e/dev/null || true`\"; \\\r\n\t\tcp $files  /usr/share/vim/vim74/doc; \\\r\n\t\tcd /usr/share/vim/vim74/doc; \\\r\n\t\tchmod 644 $files\r\n"
+    ],
+    [
+      0.074334,
+      "cp  ../runtime/doc/*.pl /usr/share/vim/vim74/doc\r\n"
+    ],
+    [
+      0.001917,
+      "chmod 755 /usr/share/vim/vim74/doc/*.pl\r\n"
+    ],
+    [
+      0.002548,
+      "cp ../runtime/menu.vim /usr/share/vim/vim74/menu.vim\r\n"
+    ],
+    [
+      0.001219,
+      "chmod 644 /usr/share/vim/vim74/menu.vim\r\ncp ../runtime/synmenu.vim /usr/share/vim/vim74/synmenu.vim\r\n"
+    ],
+    [
+      0.001980,
+      "chmod 644 /usr/share/vim/vim74/synmenu.vim\r\ncp ../runtime/delmenu.vim /usr/share/vim/vim74/delmenu.vim\r\n"
+    ],
+    [
+      0.001085,
+      "chmod 644 /usr/share/vim/vim74/delmenu.vim\r\ncp ../runtime/mswin.vim /usr/share/vim/vim74/mswin.vim\r\n"
+    ],
+    [
+      0.001939,
+      "chmod 644 /usr/share/vim/vim74/mswin.vim\r\ncp ../runtime/evim.vim /usr/share/vim/vim74/evim.vim\r\n"
+    ],
+    [
+      0.000987,
+      "chmod 644 /usr/share/vim/vim74/evim.vim\r\ncp ../runtime/bugreport.vim /usr/share/vim/vim74/bugreport.vim\r\n"
+    ],
+    [
+      0.001249,
+      "chmod 644 /usr/share/vim/vim74/bugreport.vim\r\n"
+    ],
+    [
+      0.001769,
+      "cp ../runtime/vimrc_example.vim /usr/share/vim/vim74\r\nchmod 644 /usr/share/vim/vim74/vimrc_example.vim\r\n"
+    ],
+    [
+      0.001967,
+      "cp ../runtime/gvimrc_example.vim /usr/share/vim/vim74\r\nchmod 644 /usr/share/vim/vim74/gvimrc_example.vim\r\ncp ../runtime/filetype.vim /usr/share/vim/vim74/filetype.vim\r\n"
+    ],
+    [
+      0.001296,
+      "chmod 644 /usr/share/vim/vim74/filetype.vim\r\n"
+    ],
+    [
+      0.000947,
+      "cp ../runtime/ftoff.vim /usr/share/vim/vim74/ftoff.vim\r\n"
+    ],
+    [
+      0.001012,
+      "chmod 644 /usr/share/vim/vim74/ftoff.vim\r\n"
+    ],
+    [
+      0.000987,
+      "cp ../runtime/scripts.vim /usr/share/vim/vim74/scripts.vim\r\n"
+    ],
+    [
+      0.001766,
+      "chmod 644 /usr/share/vim/vim74/scripts.vim\r\ncp ../runtime/ftplugin.vim /usr/share/vim/vim74/ftplugin.vim\r\nchmod 644 /usr/share/vim/vim74/ftplugin.vim\r\n"
+    ],
+    [
+      0.001253,
+      "cp ../runtime/ftplugof.vim /usr/share/vim/vim74/ftplugof.vim\r\n"
+    ],
+    [
+      0.001791,
+      "chmod 644 /usr/share/vim/vim74/ftplugof.vim\r\ncp ../runtime/indent.vim /usr/share/vim/vim74/indent.vim\r\nchmod 644 /usr/share/vim/vim74/indent.vim\r\n"
+    ],
+    [
+      0.002074,
+      "cp ../runtime/indoff.vim /usr/share/vim/vim74/indoff.vim\r\nchmod 644 /usr/share/vim/vim74/indoff.vim\r\n"
+    ],
+    [
+      0.002011,
+      "cp ../runtime/optwin.vim /usr/share/vim/vim74/optwin.vim\r\nchmod 644 /usr/share/vim/vim74/optwin.vim\r\ncd ../runtime/print; cp *.ps /usr/share/vim/vim74/print\r\n"
+    ],
+    [
+      0.007001,
+      "cd /usr/share/vim/vim74/print; chmod 644 *.ps\r\n"
+    ],
+    [
+      0.006016,
+      "cd ../runtime/colors; cp *.vim README.txt /usr/share/vim/vim74/colors\r\n"
+    ],
+    [
+      0.003989,
+      "cd /usr/share/vim/vim74/colors; chmod 644 *.vim README.txt\r\n"
+    ],
+    [
+      0.004008,
+      "cd ../runtime/syntax; cp *.vim README.txt /usr/share/vim/vim74/syntax\r\n"
+    ],
+    [
+      0.094977,
+      "cd /usr/share/vim/vim74/syntax; chmod 644 *.vim README.txt\r\n"
+    ],
+    [
+      0.117006,
+      "cd ../runtime/indent; cp *.vim README.txt /usr/share/vim/vim74/indent\r\n"
+    ],
+    [
+      0.025998,
+      "cd /usr/share/vim/vim74/indent; chmod 644 *.vim README.txt\r\n"
+    ],
+    [
+      0.017017,
+      "cd ../runtime/autoload; cp *.vim README.txt /usr/share/vim/vim74/autoload\r\n"
+    ],
+    [
+      0.006863,
+      "cd /usr/share/vim/vim74/autoload; chmod 644 *.vim README.txt\r\n"
+    ],
+    [
+      0.009988,
+      "cd ../runtime/autoload/xml; cp *.vim /usr/share/vim/vim74/autoload/xml\r\n"
+    ],
+    [
+      0.004265,
+      "cd /usr/share/vim/vim74/autoload/xml; chmod 644 *.vim\r\n"
+    ],
+    [
+      0.004740,
+      "cd ../runtime/plugin; cp *.vim README.txt /usr/share/vim/vim74/plugin\r\n"
+    ],
+    [
+      0.003010,
+      "cd /usr/share/vim/vim74/plugin; chmod 644 *.vim README.txt\r\n"
+    ],
+    [
+      0.002986,
+      "cd ../runtime/ftplugin; cp *.vim README.txt logtalk.dict /usr/share/vim/vim74/ftplugin\r\n"
+    ],
+    [
+      0.029255,
+      "cd /usr/share/vim/vim74/ftplugin; chmod 644 *.vim README.txt\r\n"
+    ],
+    [
+      0.044765,
+      "cd ../runtime/compiler; cp *.vim README.txt /usr/share/vim/vim74/compiler\r\n"
+    ],
+    [
+      0.009279,
+      "cd /usr/share/vim/vim74/compiler; chmod 644 *.vim README.txt\r\n"
+    ],
+    [
+      0.013958,
+      "/bin/sh ./mkinstalldirs /usr/share/vim/vim74/macros\r\n"
+    ],
+    [
+      0.001997,
+      "mkdir /usr/share/vim/vim74/macros\r\n"
+    ],
+    [
+      0.001022,
+      "chmod 755 /usr/share/vim/vim74/macros\r\n"
+    ],
+    [
+      0.000963,
+      "cp -r ../runtime/macros/* /usr/share/vim/vim74/macros\r\n"
+    ],
+    [
+      0.017762,
+      "chmod 755 `find /usr/share/vim/vim74/macros -type d -print`\r\n"
+    ],
+    [
+      0.005038,
+      "chmod 644 `find /usr/share/vim/vim74/macros -type f -print`\r\n"
+    ],
+    [
+      0.005972,
+      "chmod 755 /usr/share/vim/vim74/macros/less.sh\r\ncvs=`find /usr/share/vim/vim74/macros \\( -name CVS -o -name AAPDIR -o -name \"*.info\" \\) -print`; \\\r\n\t      if test -n \"$cvs\"; then \\\r\n\t\t rm -rf $cvs; \\\r\n\t      fi\r\n"
+    ],
+    [
+      0.004998,
+      "cp ../runtime/tutor/README* ../runtime/tutor/tutor* /usr/share/vim/vim74/tutor\r\n"
+    ],
+    [
+      0.018014,
+      "rm -f /usr/share/vim/vim74/tutor/*.info\r\n"
+    ],
+    [
+      0.001974,
+      "chmod 644 /usr/share/vim/vim74/tutor/*\r\n"
+    ],
+    [
+      0.005137,
+      "if test -f ../runtime/spell/en.latin1.spl; then \\\r\n\t  cp ../runtime/spell/*.spl ../runtime/spell/*.sug ../runtime/spell/*.vim /usr/share/vim/vim74/spell; \\\r\n\t  chmod 644 /usr/share/vim/vim74/spell/*.spl /usr/share/vim/vim74/spell/*.sug /usr/share/vim/vim74/spell/*.vim; \\\r\n\tfi\r\n"
+    ],
+    [
+      0.006088,
+      "cd /usr/bin; ln -s vim gvim\r\n"
+    ],
+    [
+      0.001960,
+      "cd /usr/bin; ln -s vim gview\r\n"
+    ],
+    [
+      0.002012,
+      "cd /usr/bin; ln -s vim rgvim\r\n"
+    ],
+    [
+      0.002005,
+      "cd /usr/bin; ln -s vim rgview\r\n"
+    ],
+    [
+      0.001731,
+      "cd /usr/bin; ln -s vim evim\r\n"
+    ],
+    [
+      0.002012,
+      "cd /usr/bin; ln -s vim eview\r\n"
+    ],
+    [
+      0.000234,
+      "cd /usr/bin; ln -s vim gvimdiff\r\n"
+    ],
+    [
+      0.002008,
+      "cd /usr/bin; ln -s vim ex\r\n"
+    ],
+    [
+      0.001004,
+      "cd /usr/bin; ln -s vim rvim\r\n"
+    ],
+    [
+      0.000990,
+      "cd /usr/bin; ln -s vim rview\r\n"
+    ],
+    [
+      0.001014,
+      "cd /usr/bin; ln -s vim vimdiff\r\n"
+    ],
+    [
+      0.002011,
+      "/bin/sh ./installml.sh install \"yes\" \\\r\n\t\t/usr/share/man/man1 vim vimdiff evim ex view rvim rview gvim gview rgvim rgview gvimdiff eview\r\n"
+    ],
+    [
+      0.001996,
+      "creating link /usr/share/man/man1/ex.1\r\n"
+    ],
+    [
+      0.001994,
+      "creating link /usr/share/man/man1/view.1\r\n"
+    ],
+    [
+      0.001010,
+      "creating link /usr/share/man/man1/rvim.1\r\n"
+    ],
+    [
+      0.001021,
+      "creating link /usr/share/man/man1/rview.1\r\n"
+    ],
+    [
+      0.001766,
+      "creating link /usr/share/man/man1/gvim.1\r\ncreating link /usr/share/man/man1/gview.1\r\ncreating link /usr/share/man/man1/rgvim.1\r\n"
+    ],
+    [
+      0.001945,
+      "creating link /usr/share/man/man1/rgview.1\r\ncreating link /usr/share/man/man1/gvimdiff.1\r\n"
+    ],
+    [
+      0.002006,
+      "creating link /usr/share/man/man1/eview.1\r\n/bin/sh ./mkinstalldirs /usr/share/vim/vim74/tools\r\n"
+    ],
+    [
+      0.003097,
+      "mkdir /usr/share/vim/vim74/tools\r\n"
+    ],
+    [
+      0.001911,
+      "chmod 755 /usr/share/vim/vim74/tools\r\n/bin/sh ./installman.sh xxd /usr/share/man/fr/man1 \"-fr\" /usr/share/vim /usr/share/vim/vim74 /usr/share/vim ../runtime/doc 644 vim vimdiff evim\r\n"
+    ],
+    [
+      0.001255,
+      "installing /usr/share/man/fr/man1/xxd.1\r\n"
+    ],
+    [
+      0.002991,
+      "/bin/sh ./installman.sh xxd /usr/share/man/fr.ISO8859-1/man1 \"-fr\" /usr/share/vim /usr/share/vim/vim74 /usr/share/vim ../runtime/doc 644 vim vimdiff evim\r\n"
+    ],
+    [
+      0.002039,
+      "creating /usr/share/man/fr.ISO8859-1/man1\r\n"
+    ],
+    [
+      0.002706,
+      "mkdir /usr/share/man/fr.ISO8859-1\r\nmkdir /usr/share/man/fr.ISO8859-1/man1\r\n"
+    ],
+    [
+      0.001244,
+      "installing /usr/share/man/fr.ISO8859-1/man1/xxd.1\r\n"
+    ],
+    [
+      0.002548,
+      "/bin/sh ./installman.sh xxd /usr/share/man/fr.UTF-8/man1 \"-fr.UTF-8\" /usr/share/vim /usr/share/vim/vim74 /usr/share/vim ../runtime/doc 644 vim vimdiff evim\r\ncreating /usr/share/man/fr.UTF-8/man1\r\n"
+    ],
+    [
+      0.002212,
+      "mkdir /usr/share/man/fr.UTF-8\r\nmkdir /usr/share/man/fr.UTF-8/man1\r\n"
+    ],
+    [
+      0.004013,
+      "installing /usr/share/man/fr.UTF-8/man1/xxd.1\r\n"
+    ],
+    [
+      0.004003,
+      "/bin/sh ./installman.sh xxd /usr/share/man/it/man1 \"-it\" /usr/share/vim /usr/share/vim/vim74 /usr/share/vim ../runtime/doc 644 vim vimdiff evim\r\ninstalling /usr/share/man/it/man1/xxd.1\r\n"
+    ],
+    [
+      0.002978,
+      "/bin/sh ./installman.sh xxd /usr/share/man/it.ISO8859-1/man1 \"-it\" /usr/share/vim /usr/share/vim/vim74 /usr/share/vim ../runtime/doc 644 vim vimdiff evim\r\ncreating /usr/share/man/it.ISO8859-1/man1\r\n"
+    ],
+    [
+      0.003065,
+      "mkdir /usr/share/man/it.ISO8859-1\r\nmkdir /usr/share/man/it.ISO8859-1/man1\r\n"
+    ],
+    [
+      0.001947,
+      "installing /usr/share/man/it.ISO8859-1/man1/xxd.1\r\n"
+    ],
+    [
+      0.002995,
+      "/bin/sh ./installman.sh xxd /usr/share/man/it.UTF-8/man1 \"-it.UTF-8\" /usr/share/vim /usr/share/vim/vim74 /usr/share/vim ../runtime/doc 644 vim vimdiff evim\r\n"
+    ],
+    [
+      0.001993,
+      "creating /usr/share/man/it.UTF-8/man1\r\n"
+    ],
+    [
+      0.002003,
+      "mkdir /usr/share/man/it.UTF-8\r\n"
+    ],
+    [
+      0.001993,
+      "mkdir /usr/share/man/it.UTF-8/man1\r\ninstalling /usr/share/man/it.UTF-8/man1/xxd.1\r\n"
+    ],
+    [
+      0.010008,
+      "/bin/sh ./installman.sh xxd /usr/share/man/ja/man1 \"-ja.UTF-8\" /usr/share/vim /usr/share/vim/vim74 /usr/share/vim ../runtime/doc 644 vim vimdiff evim\r\ninstalling /usr/share/man/ja/man1/xxd.1\r\n/bin/sh ./installman.sh xxd /usr/share/man/pl/man1 \"-pl\" /usr/share/vim /usr/share/vim/vim74 /usr/share/vim ../runtime/doc 644 vim vimdiff evim\r\n"
+    ],
+    [
+      0.000014,
+      "installing /usr/share/man/pl/man1/xxd.1\r\n"
+    ],
+    [
+      0.004181,
+      "/bin/sh ./installman.sh xxd /usr/share/man/pl.ISO8859-2/man1 \"-pl\" /usr/share/vim /usr/share/vim/vim74 /usr/share/vim ../runtime/doc 644 vim vimdiff evim\r\ncreating /usr/share/man/pl.ISO8859-2/man1\r\n"
+    ],
+    [
+      0.002803,
+      "mkdir /usr/share/man/pl.ISO8859-2\r\nmkdir /usr/share/man/pl.ISO8859-2/man1\r\n"
+    ],
+    [
+      0.001243,
+      "installing /usr/share/man/pl.ISO8859-2/man1/xxd.1\r\n"
+    ],
+    [
+      0.002952,
+      "/bin/sh ./installman.sh xxd /usr/share/man/pl.UTF-8/man1 \"-pl.UTF-8\" /usr/share/vim /usr/share/vim/vim74 /usr/share/vim ../runtime/doc 644 vim vimdiff evim\r\ncreating /usr/share/man/pl.UTF-8/man1\r\n"
+    ],
+    [
+      0.002061,
+      "mkdir /usr/share/man/pl.UTF-8\r\n"
+    ],
+    [
+      0.002897,
+      "mkdir /usr/share/man/pl.UTF-8/man1\r\n"
+    ],
+    [
+      0.003851,
+      "installing /usr/share/man/pl.UTF-8/man1/xxd.1\r\n"
+    ],
+    [
+      0.002195,
+      "/bin/sh ./installman.sh xxd /usr/share/man/ru.KOI8-R/man1 \"-ru\" /usr/share/vim /usr/share/vim/vim74 /usr/share/vim ../runtime/doc 644 vim vimdiff evim\r\ncreating /usr/share/man/ru.KOI8-R/man1\r\n"
+    ],
+    [
+      0.002055,
+      "mkdir /usr/share/man/ru.KOI8-R\r\n"
+    ],
+    [
+      0.001747,
+      "mkdir /usr/share/man/ru.KOI8-R/man1\r\ninstalling /usr/share/man/ru.KOI8-R/man1/xxd.1\r\n"
+    ],
+    [
+      0.005205,
+      "/bin/sh ./installman.sh xxd /usr/share/man/ru.UTF-8/man1 \"-ru.UTF-8\" /usr/share/vim /usr/share/vim/vim74 /usr/share/vim ../runtime/doc 644 vim vimdiff evim\r\ncreating /usr/share/man/ru.UTF-8/man1\r\n"
+    ],
+    [
+      0.003858,
+      "mkdir /usr/share/man/ru.UTF-8\r\nmkdir /usr/share/man/ru.UTF-8/man1\r\n"
+    ],
+    [
+      0.002002,
+      "installing /usr/share/man/ru.UTF-8/man1/xxd.1\r\n"
+    ],
+    [
+      0.002117,
+      "if test -f /usr/bin/xxd; then \\\r\n\t  mv -f /usr/bin/xxd /usr/bin/xxd.rm; \\\r\n\t  rm -f /usr/bin/xxd.rm; \\\r\n\tfi\r\ncp xxd/xxd /usr/bin\r\n"
+    ],
+    [
+      0.002002,
+      "strip /usr/bin/xxd\r\n"
+    ],
+    [
+      0.002013,
+      "chmod 755 /usr/bin/xxd\r\n/bin/sh ./installman.sh xxd /usr/share/man/man1 \"\" /usr/share/vim /usr/share/vim/vim74 /usr/share/vim ../runtime/doc 644 vim vimdiff evim\r\ninstalling /usr/share/man/man1/xxd.1\r\n"
+    ],
+    [
+      0.005012,
+      "cp -r ../runtime/tools/* /usr/share/vim/vim74/tools\r\n"
+    ],
+    [
+      0.005983,
+      "cvs=`find /usr/share/vim/vim74/tools \\( -name CVS -o -name AAPDIR \\) -print`; \\\r\n\t      if test -n \"$cvs\"; then \\\r\n\t\t rm -rf $cvs; \\\r\n\t      fi\r\n"
+    ],
+    [
+      0.002000,
+      "chmod 644 /usr/share/vim/vim74/tools/*\r\n"
+    ],
+    [
+      0.001989,
+      "perlpath=`./which.sh perl` \u0026\u0026 sed -e \"s+/usr/bin/perl+$perlpath+\" ../runtime/tools/efm_perl.pl \u003e/usr/share/vim/vim74/tools/efm_perl.pl\r\n"
+    ],
+    [
+      0.002011,
+      "awkpath=`./which.sh nawk` \u0026\u0026 sed -e \"s+/usr/bin/nawk+$awkpath+\" ../runtime/tools/mve.awk \u003e/usr/share/vim/vim74/tools/mve.awk; if test -z \"$awkpath\"; then \\\r\n\t\tawkpath=`./which.sh gawk` \u0026\u0026 sed -e \"s+/usr/bin/nawk+$awkpath+\" ../runtime/tools/mve.awk \u003e/usr/share/vim/vim74/tools/mve.awk; if test -z \"$awkpath\"; then \\\r\n\t\tawkpath=`./which.sh awk` \u0026\u0026 sed -e \"s+/usr/bin/nawk+$awkpath+\" ../runtime/tools/mve.awk \u003e/usr/share/vim/vim74/tools/mve.awk; fi; fi\r\n"
+    ],
+    [
+      0.002867,
+      "chmod 755 `grep -l \"^#!\" /usr/share/vim/vim74/tools/*`\r\n"
+    ],
+    [
+      0.007232,
+      "make[2]: Entering directory `/home/syfaro/vim/src/po'\r\nmake[2]: Nothing to be done for `first'.\r\nmake[2]: Leaving directory `/home/syfaro/vim/src/po'\r\n"
+    ],
+    [
+      0.004720,
+      "make[2]: Entering directory `/home/syfaro/vim/src/po'\r\nmake[2]: Nothing to be done for `converted'.\r\nmake[2]: Leaving directory `/home/syfaro/vim/src/po'\r\n/bin/sh ./mkinstalldirs /usr/share/vim/vim74/lang\r\n"
+    ],
+    [
+      0.002985,
+      "mkdir /usr/share/vim/vim74/lang\r\n"
+    ],
+    [
+      0.002068,
+      "chmod 755 /usr/share/vim/vim74/lang\r\n"
+    ],
+    [
+      0.000990,
+      "/bin/sh ./mkinstalldirs /usr/share/vim/vim74/keymap\r\n"
+    ],
+    [
+      0.002946,
+      "mkdir /usr/share/vim/vim74/keymap\r\n"
+    ],
+    [
+      0.001130,
+      "chmod 755 /usr/share/vim/vim74/keymap\r\n"
+    ],
+    [
+      0.001928,
+      "/bin/sh ./installman.sh install /usr/share/man/fr/man1 \"-fr\" /usr/share/vim /usr/share/vim/vim74 /usr/share/vim ../runtime/doc 644 vim vimdiff evim\r\ninstalling /usr/share/man/fr/man1/vim.1\r\n"
+    ],
+    [
+      0.007011,
+      "installing /usr/share/man/fr/man1/vimtutor.1\r\n"
+    ],
+    [
+      0.002002,
+      "installing /usr/share/man/fr/man1/vimdiff.1\r\n"
+    ],
+    [
+      0.003003,
+      "installing /usr/share/man/fr/man1/evim.1\r\n"
+    ],
+    [
+      0.001983,
+      "/bin/sh ./installman.sh install /usr/share/man/fr.ISO8859-1/man1 \"-fr\" /usr/share/vim /usr/share/vim/vim74 /usr/share/vim ../runtime/doc 644 vim vimdiff evim\r\n"
+    ],
+    [
+      0.000180,
+      "installing /usr/share/man/fr.ISO8859-1/man1/vim.1\r\n"
+    ],
+    [
+      0.004048,
+      "installing /usr/share/man/fr.ISO8859-1/man1/vimtutor.1\r\n"
+    ],
+    [
+      0.000952,
+      "installing /usr/share/man/fr.ISO8859-1/man1/vimdiff.1\r\n"
+    ],
+    [
+      0.003052,
+      "installing /usr/share/man/fr.ISO8859-1/man1/evim.1\r\n"
+    ],
+    [
+      0.003718,
+      "/bin/sh ./installman.sh install /usr/share/man/fr.UTF-8/man1 \"-fr.UTF-8\" /usr/share/vim /usr/share/vim/vim74 /usr/share/vim ../runtime/doc 644 vim vimdiff evim\r\ninstalling /usr/share/man/fr.UTF-8/man1/vim.1\r\n"
+    ],
+    [
+      0.004995,
+      "installing /usr/share/man/fr.UTF-8/man1/vimtutor.1\r\ninstalling /usr/share/man/fr.UTF-8/man1/vimdiff.1\r\n"
+    ],
+    [
+      0.003004,
+      "installing /usr/share/man/fr.UTF-8/man1/evim.1\r\n"
+    ],
+    [
+      0.005466,
+      "/bin/sh ./installman.sh install /usr/share/man/it/man1 \"-it\" /usr/share/vim /usr/share/vim/vim74 /usr/share/vim ../runtime/doc 644 vim vimdiff evim\r\ninstalling /usr/share/man/it/man1/vim.1\r\n"
+    ],
+    [
+      0.004654,
+      "installing /usr/share/man/it/man1/vimtutor.1\r\n"
+    ],
+    [
+      0.002005,
+      "installing /usr/share/man/it/man1/vimdiff.1\r\n"
+    ],
+    [
+      0.001491,
+      "installing /usr/share/man/it/man1/evim.1\r\n"
+    ],
+    [
+      0.007566,
+      "/bin/sh ./installman.sh install /usr/share/man/it.ISO8859-1/man1 \"-it\" /usr/share/vim /usr/share/vim/vim74 /usr/share/vim ../runtime/doc 644 vim vimdiff evim\r\ninstalling /usr/share/man/it.ISO8859-1/man1/vim.1\r\ninstalling /usr/share/man/it.ISO8859-1/man1/vimtutor.1\r\n"
+    ],
+    [
+      0.003859,
+      "installing /usr/share/man/it.ISO8859-1/man1/vimdiff.1\r\n"
+    ],
+    [
+      0.001194,
+      "installing /usr/share/man/it.ISO8859-1/man1/evim.1\r\n"
+    ],
+    [
+      0.002007,
+      "/bin/sh ./installman.sh install /usr/share/man/it.UTF-8/man1 \"-it.UTF-8\" /usr/share/vim /usr/share/vim/vim74 /usr/share/vim ../runtime/doc 644 vim vimdiff evim\r\n"
+    ],
+    [
+      0.000994,
+      "installing /usr/share/man/it.UTF-8/man1/vim.1\r\n"
+    ],
+    [
+      0.005012,
+      "installing /usr/share/man/it.UTF-8/man1/vimtutor.1\r\n"
+    ],
+    [
+      0.002014,
+      "installing /usr/share/man/it.UTF-8/man1/vimdiff.1\r\n"
+    ],
+    [
+      0.002734,
+      "installing /usr/share/man/it.UTF-8/man1/evim.1\r\n"
+    ],
+    [
+      0.001992,
+      "/bin/sh ./installman.sh install /usr/share/man/ja/man1 \"-ja.UTF-8\" /usr/share/vim /usr/share/vim/vim74 /usr/share/vim ../runtime/doc 644 vim vimdiff evim\r\n"
+    ],
+    [
+      0.000239,
+      "installing /usr/share/man/ja/man1/vim.1\r\n"
+    ],
+    [
+      0.006776,
+      "installing /usr/share/man/ja/man1/vimtutor.1\r\n"
+    ],
+    [
+      0.003031,
+      "installing /usr/share/man/ja/man1/vimdiff.1\r\n"
+    ],
+    [
+      0.002207,
+      "installing /usr/share/man/ja/man1/evim.1\r\n"
+    ],
+    [
+      0.003779,
+      "/bin/sh ./installman.sh install /usr/share/man/pl/man1 \"-pl\" /usr/share/vim /usr/share/vim/vim74 /usr/share/vim ../runtime/doc 644 vim vimdiff evim\r\ninstalling /usr/share/man/pl/man1/vim.1\r\n"
+    ],
+    [
+      0.008360,
+      "installing /usr/share/man/pl/man1/vimtutor.1\r\ninstalling /usr/share/man/pl/man1/vimdiff.1\r\ninstalling /usr/share/man/pl/man1/evim.1\r\n"
+    ],
+    [
+      0.010006,
+      "/bin/sh ./installman.sh install /usr/share/man/pl.ISO8859-2/man1 \"-pl\" /usr/share/vim /usr/share/vim/vim74 /usr/share/vim ../runtime/doc 644 vim vimdiff evim\r\ninstalling /usr/share/man/pl.ISO8859-2/man1/vim.1\r\ninstalling /usr/share/man/pl.ISO8859-2/man1/vimtutor.1\r\ninstalling /usr/share/man/pl.ISO8859-2/man1/vimdiff.1\r\ninstalling /usr/share/man/pl.ISO8859-2/man1/evim.1\r\n"
+    ],
+    [
+      0.001676,
+      "/bin/sh ./installman.sh install /usr/share/man/pl.UTF-8/man1 \"-pl.UTF-8\" /usr/share/vim /usr/share/vim/vim74 /usr/share/vim ../runtime/doc 644 vim vimdiff evim\r\n"
+    ],
+    [
+      0.001232,
+      "installing /usr/share/man/pl.UTF-8/man1/vim.1\r\n"
+    ],
+    [
+      0.003064,
+      "installing /usr/share/man/pl.UTF-8/man1/vimtutor.1\r\n"
+    ],
+    [
+      0.002699,
+      "installing /usr/share/man/pl.UTF-8/man1/vimdiff.1\r\n"
+    ],
+    [
+      0.002017,
+      "installing /usr/share/man/pl.UTF-8/man1/evim.1\r\n"
+    ],
+    [
+      0.001983,
+      "/bin/sh ./installman.sh install /usr/share/man/ru.KOI8-R/man1 \"-ru\" /usr/share/vim /usr/share/vim/vim74 /usr/share/vim ../runtime/doc 644 vim vimdiff evim\r\n"
+    ],
+    [
+      0.002009,
+      "installing /usr/share/man/ru.KOI8-R/man1/vim.1\r\n"
+    ],
+    [
+      0.002239,
+      "installing /usr/share/man/ru.KOI8-R/man1/vimtutor.1\r\n"
+    ],
+    [
+      0.002749,
+      "installing /usr/share/man/ru.KOI8-R/man1/vimdiff.1\r\n"
+    ],
+    [
+      0.001250,
+      "installing /usr/share/man/ru.KOI8-R/man1/evim.1\r\n"
+    ],
+    [
+      0.002770,
+      "/bin/sh ./installman.sh install /usr/share/man/ru.UTF-8/man1 \"-ru.UTF-8\" /usr/share/vim /usr/share/vim/vim74 /usr/share/vim ../runtime/doc 644 vim vimdiff evim\r\ninstalling /usr/share/man/ru.UTF-8/man1/vim.1\r\n"
+    ],
+    [
+      0.004290,
+      "installing /usr/share/man/ru.UTF-8/man1/vimtutor.1\r\n"
+    ],
+    [
+      0.001746,
+      "installing /usr/share/man/ru.UTF-8/man1/vimdiff.1\r\n"
+    ],
+    [
+      0.001995,
+      "installing /usr/share/man/ru.UTF-8/man1/evim.1\r\n"
+    ],
+    [
+      0.001940,
+      "/bin/sh ./installml.sh install \"yes\" \\\r\n\t\t/usr/share/man/fr/man1 vim vimdiff evim ex view rvim rview gvim gview rgvim rgview gvimdiff eview\r\ncreating link /usr/share/man/fr/man1/ex.1\r\n"
+    ],
+    [
+      0.002082,
+      "creating link /usr/share/man/fr/man1/view.1\r\ncreating link /usr/share/man/fr/man1/rvim.1\r\ncreating link /usr/share/man/fr/man1/rview.1\r\n"
+    ],
+    [
+      0.001243,
+      "creating link /usr/share/man/fr/man1/gvim.1\r\n"
+    ],
+    [
+      0.001745,
+      "creating link /usr/share/man/fr/man1/gview.1\r\ncreating link /usr/share/man/fr/man1/rgvim.1\r\n"
+    ],
+    [
+      0.000992,
+      "creating link /usr/share/man/fr/man1/rgview.1\r\ncreating link /usr/share/man/fr/man1/gvimdiff.1\r\n"
+    ],
+    [
+      0.002028,
+      "creating link /usr/share/man/fr/man1/eview.1\r\n/bin/sh ./installml.sh install \"yes\" \\\r\n\t\t/usr/share/man/fr.ISO8859-1/man1 vim vimdiff evim ex view rvim rview gvim gview rgvim rgview gvimdiff eview\r\n"
+    ],
+    [
+      0.001233,
+      "creating link /usr/share/man/fr.ISO8859-1/man1/ex.1\r\n"
+    ],
+    [
+      0.001747,
+      "creating link /usr/share/man/fr.ISO8859-1/man1/view.1\r\ncreating link /usr/share/man/fr.ISO8859-1/man1/rvim.1\r\n"
+    ],
+    [
+      0.002021,
+      "creating link /usr/share/man/fr.ISO8859-1/man1/rview.1\r\ncreating link /usr/share/man/fr.ISO8859-1/man1/gvim.1\r\ncreating link /usr/share/man/fr.ISO8859-1/man1/gview.1\r\n"
+    ],
+    [
+      0.001224,
+      "creating link /usr/share/man/fr.ISO8859-1/man1/rgvim.1\r\ncreating link /usr/share/man/fr.ISO8859-1/man1/rgview.1\r\n"
+    ],
+    [
+      0.001780,
+      "creating link /usr/share/man/fr.ISO8859-1/man1/gvimdiff.1\r\ncreating link /usr/share/man/fr.ISO8859-1/man1/eview.1\r\n"
+    ],
+    [
+      0.001922,
+      "/bin/sh ./installml.sh install \"yes\" \\\r\n\t\t/usr/share/man/fr.UTF-8/man1 vim vimdiff evim ex view rvim rview gvim gview rgvim rgview gvimdiff eview\r\ncreating link /usr/share/man/fr.UTF-8/man1/ex.1\r\n"
+    ],
+    [
+      0.000984,
+      "creating link /usr/share/man/fr.UTF-8/man1/view.1\r\ncreating link /usr/share/man/fr.UTF-8/man1/rvim.1\r\n"
+    ],
+    [
+      0.002029,
+      "creating link /usr/share/man/fr.UTF-8/man1/rview.1\r\ncreating link /usr/share/man/fr.UTF-8/man1/gvim.1\r\ncreating link /usr/share/man/fr.UTF-8/man1/gview.1\r\n"
+    ],
+    [
+      0.001985,
+      "creating link /usr/share/man/fr.UTF-8/man1/rgvim.1\r\ncreating link /usr/share/man/fr.UTF-8/man1/rgview.1\r\n"
+    ],
+    [
+      0.000300,
+      "creating link /usr/share/man/fr.UTF-8/man1/gvimdiff.1\r\n"
+    ],
+    [
+      0.001751,
+      "creating link /usr/share/man/fr.UTF-8/man1/eview.1\r\n/bin/sh ./installml.sh install \"yes\" \\\r\n\t\t/usr/share/man/it/man1 vim vimdiff evim ex view rvim rview gvim gview rgvim rgview gvimdiff eview\r\n"
+    ],
+    [
+      0.001180,
+      "creating link /usr/share/man/it/man1/ex.1\r\n"
+    ],
+    [
+      0.001768,
+      "creating link /usr/share/man/it/man1/view.1\r\ncreating link /usr/share/man/it/man1/rvim.1\r\n"
+    ],
+    [
+      0.001994,
+      "creating link /usr/share/man/it/man1/rview.1\r\ncreating link /usr/share/man/it/man1/gvim.1\r\n"
+    ],
+    [
+      0.000251,
+      "creating link /usr/share/man/it/man1/gview.1\r\n"
+    ],
+    [
+      0.000989,
+      "creating link /usr/share/man/it/man1/rgvim.1\r\n"
+    ],
+    [
+      0.001004,
+      "creating link /usr/share/man/it/man1/rgview.1\r\n"
+    ],
+    [
+      0.000995,
+      "creating link /usr/share/man/it/man1/gvimdiff.1\r\n"
+    ],
+    [
+      0.001005,
+      "creating link /usr/share/man/it/man1/eview.1\r\n"
+    ],
+    [
+      0.000994,
+      "/bin/sh ./installml.sh install \"yes\" \\\r\n\t\t/usr/share/man/it.ISO8859-1/man1 vim vimdiff evim ex view rvim rview gvim gview rgvim rgview gvimdiff eview\r\n"
+    ],
+    [
+      0.001011,
+      "creating link /usr/share/man/it.ISO8859-1/man1/ex.1\r\n"
+    ],
+    [
+      0.001755,
+      "creating link /usr/share/man/it.ISO8859-1/man1/view.1\r\ncreating link /usr/share/man/it.ISO8859-1/man1/rvim.1\r\ncreating link /usr/share/man/it.ISO8859-1/man1/rview.1\r\n"
+    ],
+    [
+      0.001256,
+      "creating link /usr/share/man/it.ISO8859-1/man1/gvim.1\r\ncreating link /usr/share/man/it.ISO8859-1/man1/gview.1\r\n"
+    ],
+    [
+      0.000983,
+      "creating link /usr/share/man/it.ISO8859-1/man1/rgvim.1\r\n"
+    ],
+    [
+      0.001762,
+      "creating link /usr/share/man/it.ISO8859-1/man1/rgview.1\r\ncreating link /usr/share/man/it.ISO8859-1/man1/gvimdiff.1\r\ncreating link /usr/share/man/it.ISO8859-1/man1/eview.1\r\n"
+    ],
+    [
+      0.002021,
+      "/bin/sh ./installml.sh install \"yes\" \\\r\n\t\t/usr/share/man/it.UTF-8/man1 vim vimdiff evim ex view rvim rview gvim gview rgvim rgview gvimdiff eview\r\ncreating link /usr/share/man/it.UTF-8/man1/ex.1\r\n"
+    ],
+    [
+      0.002294,
+      "creating link /usr/share/man/it.UTF-8/man1/view.1\r\ncreating link /usr/share/man/it.UTF-8/man1/rvim.1\r\ncreating link /usr/share/man/it.UTF-8/man1/rview.1\r\n"
+    ],
+    [
+      0.000924,
+      "creating link /usr/share/man/it.UTF-8/man1/gvim.1\r\n"
+    ],
+    [
+      0.000991,
+      "creating link /usr/share/man/it.UTF-8/man1/gview.1\r\n"
+    ],
+    [
+      0.001014,
+      "creating link /usr/share/man/it.UTF-8/man1/rgvim.1\r\n"
+    ],
+    [
+      0.001813,
+      "creating link /usr/share/man/it.UTF-8/man1/rgview.1\r\ncreating link /usr/share/man/it.UTF-8/man1/gvimdiff.1\r\n"
+    ],
+    [
+      0.000865,
+      "creating link /usr/share/man/it.UTF-8/man1/eview.1\r\n"
+    ],
+    [
+      0.000318,
+      "/bin/sh ./installml.sh install \"yes\" \\\r\n\t\t/usr/share/man/ja/man1 vim vimdiff evim ex view rvim rview gvim gview rgvim rgview gvimdiff eview\r\n"
+    ],
+    [
+      0.002016,
+      "creating link /usr/share/man/ja/man1/ex.1\r\ncreating link /usr/share/man/ja/man1/view.1\r\n"
+    ],
+    [
+      0.001753,
+      "creating link /usr/share/man/ja/man1/rvim.1\r\ncreating link /usr/share/man/ja/man1/rview.1\r\n"
+    ],
+    [
+      0.001229,
+      "creating link /usr/share/man/ja/man1/gvim.1\r\n"
+    ],
+    [
+      0.001007,
+      "creating link /usr/share/man/ja/man1/gview.1\r\n"
+    ],
+    [
+      0.000991,
+      "creating link /usr/share/man/ja/man1/rgvim.1\r\ncreating link /usr/share/man/ja/man1/rgview.1\r\n"
+    ],
+    [
+      0.001834,
+      "creating link /usr/share/man/ja/man1/gvimdiff.1\r\ncreating link /usr/share/man/ja/man1/eview.1\r\n"
+    ],
+    [
+      0.001928,
+      "/bin/sh ./installml.sh install \"yes\" \\\r\n\t\t/usr/share/man/pl/man1 vim vimdiff evim ex view rvim rview gvim gview rgvim rgview gvimdiff eview\r\n"
+    ],
+    [
+      0.001007,
+      "creating link /usr/share/man/pl/man1/ex.1\r\n"
+    ],
+    [
+      0.000241,
+      "creating link /usr/share/man/pl/man1/view.1\r\n"
+    ],
+    [
+      0.001750,
+      "creating link /usr/share/man/pl/man1/rvim.1\r\ncreating link /usr/share/man/pl/man1/rview.1\r\n"
+    ],
+    [
+      0.003995,
+      "creating link /usr/share/man/pl/man1/gvim.1\r\ncreating link /usr/share/man/pl/man1/gview.1\r\n"
+    ],
+    [
+      0.001998,
+      "creating link /usr/share/man/pl/man1/rgvim.1\r\ncreating link /usr/share/man/pl/man1/rgview.1\r\n"
+    ],
+    [
+      0.002004,
+      "creating link /usr/share/man/pl/man1/gvimdiff.1\r\ncreating link /usr/share/man/pl/man1/eview.1\r\n"
+    ],
+    [
+      0.001247,
+      "/bin/sh ./installml.sh install \"yes\" \\\r\n\t\t/usr/share/man/pl.ISO8859-2/man1 vim vimdiff evim ex view rvim rview gvim gview rgvim rgview gvimdiff eview\r\n"
+    ],
+    [
+      0.001058,
+      "creating link /usr/share/man/pl.ISO8859-2/man1/ex.1\r\n"
+    ],
+    [
+      0.001749,
+      "creating link /usr/share/man/pl.ISO8859-2/man1/view.1\r\ncreating link /usr/share/man/pl.ISO8859-2/man1/rvim.1\r\ncreating link /usr/share/man/pl.ISO8859-2/man1/rview.1\r\n"
+    ],
+    [
+      0.001246,
+      "creating link /usr/share/man/pl.ISO8859-2/man1/gvim.1\r\ncreating link /usr/share/man/pl.ISO8859-2/man1/gview.1\r\n"
+    ],
+    [
+      0.001036,
+      "creating link /usr/share/man/pl.ISO8859-2/man1/rgvim.1\r\n"
+    ],
+    [
+      0.000967,
+      "creating link /usr/share/man/pl.ISO8859-2/man1/rgview.1\r\n"
+    ],
+    [
+      0.001752,
+      "creating link /usr/share/man/pl.ISO8859-2/man1/gvimdiff.1\r\ncreating link /usr/share/man/pl.ISO8859-2/man1/eview.1\r\n"
+    ],
+    [
+      0.001936,
+      "/bin/sh ./installml.sh install \"yes\" \\\r\n\t\t/usr/share/man/pl.UTF-8/man1 vim vimdiff evim ex view rvim rview gvim gview rgvim rgview gvimdiff eview\r\ncreating link /usr/share/man/pl.UTF-8/man1/ex.1\r\n"
+    ],
+    [
+      0.001194,
+      "creating link /usr/share/man/pl.UTF-8/man1/view.1\r\n"
+    ],
+    [
+      0.001010,
+      "creating link /usr/share/man/pl.UTF-8/man1/rvim.1\r\n"
+    ],
+    [
+      0.000990,
+      "creating link /usr/share/man/pl.UTF-8/man1/rview.1\r\n"
+    ],
+    [
+      0.000994,
+      "creating link /usr/share/man/pl.UTF-8/man1/gvim.1\r\n"
+    ],
+    [
+      0.001009,
+      "creating link /usr/share/man/pl.UTF-8/man1/gview.1\r\n"
+    ],
+    [
+      0.000989,
+      "creating link /usr/share/man/pl.UTF-8/man1/rgvim.1\r\n"
+    ],
+    [
+      0.001021,
+      "creating link /usr/share/man/pl.UTF-8/man1/rgview.1\r\n"
+    ],
+    [
+      0.000998,
+      "creating link /usr/share/man/pl.UTF-8/man1/gvimdiff.1\r\n"
+    ],
+    [
+      0.001739,
+      "creating link /usr/share/man/pl.UTF-8/man1/eview.1\r\n/bin/sh ./installml.sh install \"yes\" \\\r\n\t\t/usr/share/man/ru.KOI8-R/man1 vim vimdiff evim ex view rvim rview gvim gview rgvim rgview gvimdiff eview\r\n"
+    ],
+    [
+      0.001536,
+      "creating link /usr/share/man/ru.KOI8-R/man1/ex.1\r\ncreating link /usr/share/man/ru.KOI8-R/man1/view.1\r\n"
+    ],
+    [
+      0.001526,
+      "creating link /usr/share/man/ru.KOI8-R/man1/rvim.1\r\ncreating link /usr/share/man/ru.KOI8-R/man1/rview.1\r\n"
+    ],
+    [
+      0.000937,
+      "creating link /usr/share/man/ru.KOI8-R/man1/gvim.1\r\ncreating link /usr/share/man/ru.KOI8-R/man1/gview.1\r\n"
+    ],
+    [
+      0.002417,
+      "creating link /usr/share/man/ru.KOI8-R/man1/rgvim.1\r\ncreating link /usr/share/man/ru.KOI8-R/man1/rgview.1\r\ncreating link /usr/share/man/ru.KOI8-R/man1/gvimdiff.1\r\n"
+    ],
+    [
+      0.000838,
+      "creating link /usr/share/man/ru.KOI8-R/man1/eview.1\r\n/bin/sh ./installml.sh install \"yes\" \\\r\n\t\t/usr/share/man/ru.UTF-8/man1 vim vimdiff evim ex view rvim rview gvim gview rgvim rgview gvimdiff eview\r\n"
+    ],
+    [
+      0.002012,
+      "creating link /usr/share/man/ru.UTF-8/man1/ex.1\r\n"
+    ],
+    [
+      0.000984,
+      "creating link /usr/share/man/ru.UTF-8/man1/view.1\r\n"
+    ],
+    [
+      0.001050,
+      "creating link /usr/share/man/ru.UTF-8/man1/rvim.1\r\n"
+    ],
+    [
+      0.001707,
+      "creating link /usr/share/man/ru.UTF-8/man1/rview.1\r\ncreating link /usr/share/man/ru.UTF-8/man1/gvim.1\r\n"
+    ],
+    [
+      0.001283,
+      "creating link /usr/share/man/ru.UTF-8/man1/gview.1\r\n"
+    ],
+    [
+      0.001706,
+      "creating link /usr/share/man/ru.UTF-8/man1/rgvim.1\r\ncreating link /usr/share/man/ru.UTF-8/man1/rgview.1\r\n"
+    ],
+    [
+      0.001002,
+      "creating link /usr/share/man/ru.UTF-8/man1/gvimdiff.1\r\ncreating link /usr/share/man/ru.UTF-8/man1/eview.1\r\n"
+    ],
+    [
+      0.002078,
+      "if test -n \"yes\" -a -f po/Makefile; then \\\r\n\t   cd po; make prefix=/usr LOCALEDIR=/usr/share/vim/vim74/lang \\\r\n\t   INSTALL_DATA=cp FILEMOD=644 install; \\\r\n\tfi\r\n"
+    ],
+    [
+      0.003300,
+      "make[2]: Entering directory `/home/syfaro/vim/src/po'\r\n"
+    ],
+    [
+      0.002014,
+      "make[3]: Entering directory `/home/syfaro/vim/src/po'\r\nmake[3]: Leaving directory `/home/syfaro/vim/src/po'\r\nfor lang in af ca cs de en_GB eo es fi fr ga it ja ko ko.UTF-8 nb nl no pl pt_BR ru sk sv uk vi zh_CN zh_CN.UTF-8 zh_TW zh_TW.UTF-8 cs.cp1250 ja.sjis ja.euc-jp pl.cp1250 pl.UTF-8 ru.cp1251 sk.cp1250 uk.cp1251 zh_CN.cp936; do \\\r\n\t  dir=/usr/share/vim/vim74/lang/$lang/; \\\r\n\t  if test ! -x \"$dir\"; then \\\r\n\t    mkdir $dir; chmod 755 $dir; \\\r\n\t  fi; \\\r\n\t  dir=/usr/share/vim/vim74/lang/$lang/LC_MESSAGES; \\\r\n\t  if test ! -x \"$dir\"; then \\\r\n\t    mkdir $dir; chmod 755 $dir; \\\r\n\t  fi; \\\r\n\t  if test -r $lang.mo; then \\\r\n\t    cp $lang.mo $dir/vim.mo; \\\r\n\t    chmod 644 $dir/vim.mo; \\\r\n\t  fi; \\\r\n\tdone\r\n"
+    ],
+    [
+      0.190724,
+      "make[2]: Leaving directory `/home/syfaro/vim/src/po'\r\nif test -d ../runtime/lang; then \\\r\n\t   cp ../runtime/lang/README.txt ../runtime/lang/*.vim /usr/share/vim/vim74/lang; \\\r\n\t   chmod 644 /usr/share/vim/vim74/lang/README.txt /usr/share/vim/vim74/lang/*.vim; \\\r\n\tfi\r\n"
+    ],
+    [
+      0.027216,
+      "if test -d ../runtime/keymap; then \\\r\n\t   cp ../runtime/keymap/README.txt ../runtime/keymap/*.vim /usr/share/vim/vim74/keymap; \\\r\n\t   chmod 644 /usr/share/vim/vim74/keymap/README.txt /usr/share/vim/vim74/keymap/*.vim; \\\r\n\tfi\r\n"
+    ],
+    [
+      0.014998,
+      "if test -d /usr/share/icons/hicolor/48x48/apps -a -w /usr/share/icons/hicolor/48x48/apps \\\r\n\t\t-a ! -f /usr/share/icons/hicolor/48x48/apps/gvim.png; then \\\r\n\t   cp ../runtime/vim48x48.png /usr/share/icons/hicolor/48x48/apps/gvim.png; \\\r\n\tfi\r\n"
+    ],
+    [
+      0.003997,
+      "if test -d /usr/share/icons/locolor/32x32/apps -a -w /usr/share/icons/locolor/32x32/apps \\\r\n\t\t-a ! -f /usr/share/icons/locolor/32x32/apps/gvim.png; then \\\r\n\t   cp ../runtime/vim32x32.png /usr/share/icons/locolor/32x32/apps/gvim.png; \\\r\n\tfi\r\n"
+    ],
+    [
+      0.001763,
+      "if test -d /usr/share/icons/locolor/16x16/apps -a -w /usr/share/icons/locolor/16x16/apps \\\r\n\t\t-a ! -f /usr/share/icons/locolor/16x16/apps/gvim.png; then \\\r\n\t   cp ../runtime/vim16x16.png /usr/share/icons/locolor/16x16/apps/gvim.png; \\\r\n\tfi\r\ncp gvimtutor /usr/bin/gvimtutor\r\nchmod 755 /usr/bin/gvimtutor\r\n"
+    ],
+    [
+      0.001320,
+      "make[1]: Leaving directory `/home/syfaro/vim/src'\r\n"
+    ],
+    [
+      0.006672,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "======================== Installation successful ==========================\r\n\r\nCopying documentation directory...\r\n"
+    ],
+    [
+      0.010176,
+      "./\r\n./README_amisrc.txt.info\r\n./README_mac.txt\r\n./README_os2.txt\r\n"
+    ],
+    [
+      0.000011,
+      "./README_vms.txt\r\n"
+    ],
+    [
+      0.000982,
+      "./README_extra.txt\r\n./README_amisrc.txt\r\n./README_dos.txt\r\n./README.txt.info\r\n./README_amibin.txt.info\r\n./README_os390.txt\r\n./README.txt\r\n./README_ole.txt\r\n./README_w32s.txt\r\n./README_bindos.txt\r\n./README_src.txt\r\n./README_srcdos.txt\r\n./README_ami.txt\r\n./README_ami.txt.info\r\n./README_amibin.txt\r\n./README_unix.txt\r\n"
+    ],
+    [
+      0.339225,
+      "\r\n"
+    ],
+    [
+      0.000781,
+      "Copying files to the temporary directory..."
+    ],
+    [
+      68.780752,
+      "OK\r\n\r\nStripping ELF binaries and libraries..."
+    ],
+    [
+      0.142314,
+      "OK\r\n"
+    ],
+    [
+      0.000988,
+      "\r\n"
+    ],
+    [
+      0.001013,
+      "Compressing man pages..."
+    ],
+    [
+      1.685879,
+      "OK\r\n\r\nBuilding file list..."
+    ],
+    [
+      0.047803,
+      "OK\r\n"
+    ],
+    [
+      0.017248,
+      "\r\n"
+    ],
+    [
+      0.001739,
+      "Building Debian package..."
+    ],
+    [
+      3.156136,
+      "OK\r\n\r\nInstalling Debian package..."
+    ],
+    [
+      1.880066,
+      "OK\r\n"
+    ],
+    [
+      0.001987,
+      "\r\nErasing temporary files..."
+    ],
+    [
+      0.049048,
+      "OK\r\n"
+    ],
+    [
+      0.006958,
+      "\r\nWriting backup package..."
+    ],
+    [
+      0.891008,
+      "OK\r\nOK\r\n\r\nDeleting temp dir..."
+    ],
+    [
+      0.082645,
+      "OK\r\n\r\n\r\n**********************************************************************\r\n\r\n Done. The new package has been installed and saved to\r\n\r\n /home/syfaro/vim/vim_20150314-1_amd64.deb\r\n\r\n You can remove it from your system anytime using: \r\n\r\n      dpkg -r vim\r\n\r\n**********************************************************************\r\n\r\n"
+    ],
+    [
+      0.001459,
+      "\u001b]0;syfaro@morath: ~/vim\u0007syfaro@morath:~/vim$ "
+    ],
+    [
+      3.909325,
+      "exit\r\n"
+    ]
+  ]
+}
