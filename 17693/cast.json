@@ -1,0 +1,126 @@
+{
+  "version": 1,
+  "width": 114,
+  "height": 24,
+  "duration": 19.515383,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.009152,
+      "\u001b]0;root@e5-1620v3:~\u0007\u001b[?1034h[root@e5-1620v3 ~]# "
+    ],
+    [
+      6.201950,
+      "p"
+    ],
+    [
+      0.317000,
+      "i"
+    ],
+    [
+      0.263991,
+      "n"
+    ],
+    [
+      0.124999,
+      "g"
+    ],
+    [
+      0.103000,
+      " "
+    ],
+    [
+      1.368015,
+      "1"
+    ],
+    [
+      0.090990,
+      "0"
+    ],
+    [
+      0.200961,
+      "."
+    ],
+    [
+      0.209051,
+      "0"
+    ],
+    [
+      0.203985,
+      "."
+    ],
+    [
+      0.226980,
+      "0"
+    ],
+    [
+      0.210021,
+      "."
+    ],
+    [
+      0.159002,
+      "1"
+    ],
+    [
+      0.154972,
+      "\r\n"
+    ],
+    [
+      0.001095,
+      "PING 10.0.0.1 (10.0.0.1) 56(84) bytes of data.\r\n"
+    ],
+    [
+      0.036130,
+      "64 bytes from 10.0.0.1: icmp_seq=1 ttl=64 time=35.5 ms\r\n"
+    ],
+    [
+      0.965998,
+      "64 bytes from 10.0.0.1: icmp_seq=2 ttl=64 time=0.187 ms\r\n"
+    ],
+    [
+      1.000002,
+      "64 bytes from 10.0.0.1: icmp_seq=3 ttl=64 time=0.177 ms\r\n"
+    ],
+    [
+      1.000008,
+      "64 bytes from 10.0.0.1: icmp_seq=4 ttl=64 time=0.183 ms\r\n"
+    ],
+    [
+      0.999995,
+      "64 bytes from 10.0.0.1: icmp_seq=5 ttl=64 time=0.173 ms\r\n"
+    ],
+    [
+      0.999994,
+      "64 bytes from 10.0.0.1: icmp_seq=6 ttl=64 time=0.139 ms\r\n"
+    ],
+    [
+      0.999997,
+      "64 bytes from 10.0.0.1: icmp_seq=7 ttl=64 time=0.174 ms\r\n"
+    ],
+    [
+      0.999998,
+      "64 bytes from 10.0.0.1: icmp_seq=8 ttl=64 time=0.178 ms\r\n"
+    ],
+    [
+      0.175857,
+      "^C\r\n--- 10.0.0.1 ping statistics ---\r\n8 packets transmitted, 8 received, 0% packet loss, time 7177ms\r\nrtt min/avg/max/mdev = 0.139/4.595/35.556/11.702 ms\r\n\u001b]0;root@e5-1620v3:~\u0007[root@e5-1620v3 ~]# "
+    ],
+    [
+      0.196664,
+      "^C\r\n\u001b]0;root@e5-1620v3:~\u0007[root@e5-1620v3 ~]# "
+    ],
+    [
+      0.177037,
+      "^C\r\n\u001b]0;root@e5-1620v3:~\u0007[root@e5-1620v3 ~]# "
+    ],
+    [
+      2.118482,
+      "exit\r\n"
+    ]
+  ]
+}
