@@ -1,0 +1,206 @@
+{
+  "version": 1,
+  "width": 135,
+  "height": 48,
+  "duration": 23.217203,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.021684,
+      "\u001b]0;root@vrajesh: /var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64\u0007root@vrajesh:/var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64# "
+    ],
+    [
+      0.674020,
+      "\r\n"
+    ],
+    [
+      0.002232,
+      "\u001b]0;root@vrajesh: /var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64\u0007root@vrajesh:/var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64# "
+    ],
+    [
+      0.233081,
+      "\r\n"
+    ],
+    [
+      0.001128,
+      "\u001b]0;root@vrajesh: /var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64\u0007root@vrajesh:/var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64# "
+    ],
+    [
+      0.221665,
+      "\r\n"
+    ],
+    [
+      0.004679,
+      "\u001b]0;root@vrajesh: /var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64\u0007root@vrajesh:/var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64# "
+    ],
+    [
+      0.340487,
+      "l"
+    ],
+    [
+      0.107100,
+      "s"
+    ],
+    [
+      0.088575,
+      "\r\n"
+    ],
+    [
+      0.002894,
+      "\u001b[0m\u001b[01;32masciinema\u001b[0m  \u001b[01;34masciinema-player-master\u001b[0m  CHANGELOG.md  LICENSE  \u001b[01;31mmaster.zip\u001b[0m  \u001b[01;34mnode_modules\u001b[0m  npm-debug.log  README.md  test.html  test.json"
+    ],
+    [
+      0.000075,
+      "\r\n"
+    ],
+    [
+      0.001360,
+      "\u001b]0;root@vrajesh: /var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64\u0007root@vrajesh:/var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64# "
+    ],
+    [
+      2.477438,
+      "^C\r\n\u001b]0;root@vrajesh: /var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64\u0007root@vrajesh:/var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64# "
+    ],
+    [
+      0.726036,
+      "^C\r\n\u001b]0;root@vrajesh: /var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64\u0007root@vrajesh:/var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64# "
+    ],
+    [
+      2.884178,
+      "\u0007"
+    ],
+    [
+      2.302984,
+      "\r\n\u001b]0;root@vrajesh: /var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64\u0007root@vrajesh:/var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64# "
+    ],
+    [
+      0.396696,
+      "\r\n\u001b]0;root@vrajesh: /var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64\u0007root@vrajesh:/var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64# "
+    ],
+    [
+      7.550588,
+      "\r\u001b[43P(reverse-i-search)`':\u001b[C"
+    ],
+    [
+      1.478281,
+      "^C\r\n\u001b]0;root@vrajesh: /var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64\u0007root@vrajesh:/var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64# "
+    ],
+    [
+      0.962189,
+      "\r\n\u001b]0;root@vrajesh: /var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64\u0007root@vrajesh:/var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64# "
+    ],
+    [
+      0.287877,
+      "\r\n\u001b]0;root@vrajesh: /var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64\u0007root@vrajesh:/var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64# "
+    ],
+    [
+      0.118696,
+      "\r\n"
+    ],
+    [
+      0.000976,
+      "\u001b]0;root@vrajesh: /var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64\u0007root@vrajesh:/var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64# "
+    ],
+    [
+      0.138530,
+      "\r\n"
+    ],
+    [
+      0.001022,
+      "\u001b]0;root@vrajesh: /var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64\u0007root@vrajesh:/var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64# "
+    ],
+    [
+      0.167244,
+      "c"
+    ],
+    [
+      0.098490,
+      "l"
+    ],
+    [
+      0.130841,
+      "e"
+    ],
+    [
+      0.057413,
+      "a"
+    ],
+    [
+      0.059777,
+      "r"
+    ],
+    [
+      0.081153,
+      "\r\n"
+    ],
+    [
+      0.002203,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000871,
+      "\u001b]0;root@vrajesh: /var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64\u0007root@vrajesh:/var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64# "
+    ],
+    [
+      0.063833,
+      "l"
+    ],
+    [
+      0.110093,
+      "s"
+    ],
+    [
+      0.073754,
+      "\r\n"
+    ],
+    [
+      0.003041,
+      "\u001b[0m\u001b[01;32masciinema\u001b[0m  \u001b[01;34masciinema-player-master\u001b[0m  CHANGELOG.md  LICENSE  \u001b[01;31mmaster.zip\u001b[0m  \u001b[01;34mnode_modules\u001b[0m  npm-debug.log  README.md  test.html  test.json"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.001099,
+      "\u001b]0;root@vrajesh: /var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64\u0007root@vrajesh:/var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64# "
+    ],
+    [
+      0.259394,
+      "l"
+    ],
+    [
+      0.153827,
+      "s"
+    ],
+    [
+      0.094249,
+      "\r\n"
+    ],
+    [
+      0.003133,
+      "\u001b[0m\u001b[01;32masciinema\u001b[0m  \u001b[01;34masciinema-player-master\u001b[0m  CHANGELOG.md  LICENSE  \u001b[01;31mmaster.zip\u001b[0m  \u001b[01;34mnode_modules\u001b[0m  npm-debug.log  README.md  test.html  test.json"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.001393,
+      "\u001b]0;root@vrajesh: /var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64\u0007root@vrajesh:/var/www/asciinema/asciinema-1.0.0.rc1-linux-amd64# "
+    ],
+    [
+      0.829089,
+      "exit"
+    ],
+    [
+      0.000212,
+      "\r\n"
+    ]
+  ]
+}
