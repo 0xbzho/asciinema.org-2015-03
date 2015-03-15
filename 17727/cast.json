@@ -1,0 +1,202 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 12.893681,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.146731,
+      "[[ -s \"$HOME/.rvm/scripts/rvm\" ]] \u0026\u0026 source \"$HOME/.rvm/scripts/rvm\"\r\n"
+    ],
+    [
+      0.000624,
+      "\u001b]0;corganfuzz@debian: ~\u0007\u001b[01;32mcorganfuzz@debian\u001b[00m:\u001b[01;34m~\u001b[00m$ "
+    ],
+    [
+      7.270442,
+      "l"
+    ],
+    [
+      0.131947,
+      "s"
+    ],
+    [
+      1.853968,
+      "\r\n"
+    ],
+    [
+      0.002937,
+      "\u001b[0m\u001b[01;34mcaps\u001b[0m         myfile4.txt  \u001b[01;34mRubymineProjects\u001b[0m\r\n\u001b[01;34mcsps\u001b[0m         myfile.txt   \u001b[01;34msam10\u001b[0m\r\n"
+    ],
+    [
+      0.000042,
+      "\u001b[01;34mDesktop\u001b[0m      output.pdf   \u001b[01;34msams8\u001b[0m\r\n\u001b[01;34mDocuments\u001b[0m    \u001b[01;34mPictures\u001b[0m     \u001b[01;31msublime-text_build-3047_amd64.deb\u001b[0m\r\n\u001b[01;34mDownloads\u001b[0m    \u001b[01;34mPublic\u001b[0m       \u001b[01;31msublime-text_build-3047_i386.deb\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n\u001b[01;34mMusic\u001b[0m        q            \u001b[01;34mTemplates\u001b[0m\r\n"
+    ],
+    [
+      0.000053,
+      "myfile2.txt  \u001b[01;34mreal\u001b[0m         \u001b[01;34mVideos\u001b[0m\r\n"
+    ],
+    [
+      0.001000,
+      "\u001b]0;corganfuzz@debian: ~\u0007\u001b[01;32mcorganfuzz@debian\u001b[00m:\u001b[01;34m~\u001b[00m$ "
+    ],
+    [
+      0.837413,
+      "r"
+    ],
+    [
+      0.102537,
+      "a"
+    ],
+    [
+      0.167916,
+      "i"
+    ],
+    [
+      0.223264,
+      "l"
+    ],
+    [
+      0.178765,
+      "s"
+    ],
+    [
+      0.258628,
+      "\r\n"
+    ],
+    [
+      0.472656,
+      "Usage:\r\n"
+    ],
+    [
+      0.000028,
+      "  rails new APP_PATH [options]\r\n\r\n"
+    ],
+    [
+      0.000447,
+      "Options:\r\n"
+    ],
+    [
+      0.000064,
+      "  -r, [--ruby=PATH]                                      # Path to the Ruby binary of your choice\r\n                                                         # Default: /home/corganfuzz/.rvm/rubies/ruby-2.1.3/bin/ruby\r\n"
+    ],
+    [
+      0.000031,
+      "  -m, [--template=TEMPLATE]                              # Path to some application template (can be a filesystem path or URL)\r\n      [--skip-gemfile], [--no-skip-gemfile]              # Don't create a Gemfile\r\n"
+    ],
+    [
+      0.000019,
+      "  -B, [--skip-bundle], [--no-skip-bundle]                # Don't run bundle install\r\n"
+    ],
+    [
+      0.000006,
+      "  -G, [--skip-git], [--no-skip-git]                      # Skip .gitignore file\r\n"
+    ],
+    [
+      0.000046,
+      "      [--skip-keeps], [--no-skip-keeps]                  # Skip source control .keep files\r\n  -O, [--skip-active-record], [--no-skip-active-record]  # Skip Active Record files\r\n  -V, [--skip-action-view], [--no-skip-action-view]      # Skip Action View files"
+    ],
+    [
+      0.000050,
+      "\r\n  -S, [--skip-sprockets], [--no-skip-sprockets]          # Skip Sprockets files\r\n      [--skip-spring], [--no-skip-spring]                # Don't install Spring application preloader\r\n  -d, [--database=DATABASE]                              # Preconfigure for selected database (options: mysql/oracle/postgresql/sqlite3/frontbase/ibm_db/sqlserver/jdbcmysql/jdbcsqlite3/jdbcpostgresql/jdbc)\r\n"
+    ],
+    [
+      0.000011,
+      "                                                         # Default: sqlite3\r\n"
+    ],
+    [
+      0.000224,
+      "  -j, [--javascript=JAVASCRIPT]                          # Preconfigure for selected JavaScript library\r\n                                                         # Default: jquery\r\n  -J, [--skip-javascript], [--no-skip-javascript]        # Skip JavaScript files\r\n"
+    ],
+    [
+      0.000006,
+      "      [--dev], [--no-dev]                                # Setup the application with Gemfile pointing to your Rails checkout\r\n"
+    ],
+    [
+      0.000021,
+      "      [--edge], [--no-edge]                              # Setup the application with Gemfile pointing to Rails repository\r\n"
+    ],
+    [
+      0.000004,
+      "  -T, [--skip-test-unit], [--no-skip-test-unit]          # Skip Test::Unit files"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "      [--rc=RC]                                          # Path to file containing extra configuration options for rails command\r\n"
+    ],
+    [
+      0.000013,
+      "      [--no-rc], [--no-no-rc]                            # Skip loading of extra configuration options from .railsrc file"
+    ],
+    [
+      0.000014,
+      "\r\n\r\n"
+    ],
+    [
+      0.000084,
+      "Runtime options:\r\n"
+    ],
+    [
+      0.000033,
+      "  -f, [--force]                    # Overwrite files that already exist"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "  -p, [--pretend], [--no-pretend]  # Run but do not make any changes\r\n"
+    ],
+    [
+      0.000046,
+      "  -q, [--quiet], [--no-quiet]      # Suppress status output\r\n  -s, [--skip], [--no-skip]        # Skip files that already exist\r\n"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000078,
+      "Rails options:\r\n  -h, [--help], [--no-help]        # Show this help message and quit\r\n"
+    ],
+    [
+      0.000005,
+      "  -v, [--version], [--no-version]  # Show Rails version number and quit\r\n"
+    ],
+    [
+      0.000064,
+      "\r\n"
+    ],
+    [
+      0.000383,
+      "Description:\r\n    The 'rails new' command creates a new Rails application with a default\r\n    directory structure and configuration at the path you specify.\r\n\r\n    You can specify extra command-line arguments to be used every time\r\n    'rails new' runs in the .railsrc configuration file in your home directory.\r\n\r\n    Note that the arguments specified in the .railsrc file don't affect the\r\n    defaults values shown above in this help message.\r\n\r\nExample:"
+    ],
+    [
+      0.000015,
+      "\r\n    rails new ~/Code/Ruby/weblog\r\n\r\n    This generates a skeletal Rails installation in ~/Code/Ruby/weblog.\r\n    See the README in the newly created application to get going.\r\n"
+    ],
+    [
+      0.007620,
+      "\u001b]0;corganfuzz@debian: ~\u0007\u001b[01;32mcorganfuzz@debian\u001b[00m:\u001b[01;34m~\u001b[00m$ "
+    ],
+    [
+      1.235002,
+      "exit\r\n"
+    ]
+  ]
+}
