@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "width": 221,
+  "height": 43,
+  "duration": 12.857512,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.041504,
+      "\u001b[?1034hbash-3.2$ "
+    ],
+    [
+      9.494399,
+      "p"
+    ],
+    [
+      0.240057,
+      "w"
+    ],
+    [
+      0.312326,
+      "d"
+    ],
+    [
+      0.311884,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "/Users/chmoulli/Downloads/asciinema-1.0.0-darwin-amd64\r\n"
+    ],
+    [
+      0.000061,
+      "bash-3.2$ "
+    ],
+    [
+      2.455656,
+      "exit\r\n"
+    ]
+  ]
+}
