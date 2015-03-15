@@ -1,0 +1,774 @@
+{
+  "version": 1,
+  "width": 208,
+  "height": 21,
+  "duration": 57.790221,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.009117,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000007,
+      "bash-3.2$ "
+    ],
+    [
+      3.814159,
+      "p"
+    ],
+    [
+      0.128511,
+      "w"
+    ],
+    [
+      0.199992,
+      "d"
+    ],
+    [
+      0.160898,
+      "\r\n"
+    ],
+    [
+      0.000081,
+      "/Users/cbourne\r\n"
+    ],
+    [
+      0.000070,
+      "bash-3.2$ "
+    ],
+    [
+      1.775027,
+      "c"
+    ],
+    [
+      0.079804,
+      "d"
+    ],
+    [
+      0.247768,
+      " "
+    ],
+    [
+      1.035367,
+      "I"
+    ],
+    [
+      0.204656,
+      "d"
+    ],
+    [
+      0.175911,
+      "e"
+    ],
+    [
+      0.256370,
+      "aProjects/"
+    ],
+    [
+      0.519047,
+      "\r\n"
+    ],
+    [
+      0.000117,
+      "bash-3.2$ "
+    ],
+    [
+      1.792227,
+      "c"
+    ],
+    [
+      0.088203,
+      "d"
+    ],
+    [
+      1.199591,
+      " "
+    ],
+    [
+      0.440033,
+      "c"
+    ],
+    [
+      0.232242,
+      "h"
+    ],
+    [
+      0.159971,
+      "e"
+    ],
+    [
+      0.304114,
+      "\u0007f"
+    ],
+    [
+      1.183780,
+      "_"
+    ],
+    [
+      0.296194,
+      "local/"
+    ],
+    [
+      0.567638,
+      "\r\n"
+    ],
+    [
+      0.000192,
+      "bash-3.2$ "
+    ],
+    [
+      0.703899,
+      "c"
+    ],
+    [
+      0.071913,
+      "d"
+    ],
+    [
+      0.112179,
+      " "
+    ],
+    [
+      3.527590,
+      "p"
+    ],
+    [
+      0.513661,
+      "r"
+    ],
+    [
+      0.309914,
+      "\u0007"
+    ],
+    [
+      0.703746,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.144548,
+      "a"
+    ],
+    [
+      0.296157,
+      "rt2_examples/"
+    ],
+    [
+      0.663870,
+      "\r\n"
+    ],
+    [
+      0.000168,
+      "bash-3.2$ "
+    ],
+    [
+      0.943967,
+      "l"
+    ],
+    [
+      0.167862,
+      "s"
+    ],
+    [
+      0.375820,
+      "\r\n"
+    ],
+    [
+      0.005239,
+      "alex.pfx\t\tcarl-1010.pfx\t\tcarl-cert-1.pfx\t\tclient.rb\t\thello-there-100.pem\tlogs.txt\r\ncarl-1000000.pfx\tcarl-2000000.pfx\tcarl-cert-5.pfx\t\tclients\t\t\thello-there-100.pfx\tnodes\r\n"
+    ],
+    [
+      0.000022,
+      "carl-1010.pem\t\tcarl-5000.pfx\t\tcarl-test-50.pfx\tcookbooks\t\tlocal-mode-cache\tterminal-recorder-html\r\n"
+    ],
+    [
+      0.000350,
+      "bash-3.2$ "
+    ],
+    [
+      0.810358,
+      "ls"
+    ],
+    [
+      0.399942,
+      "\u0008\u0008cd part2_examples/"
+    ],
+    [
+      0.416074,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[4Pchef_local/"
+    ],
+    [
+      0.352026,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008IdeaProjects/"
+    ],
+    [
+      0.336019,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cpwd\u001b[K"
+    ],
+    [
+      0.384183,
+      "\u0008\u0008\u0008echo '{\"tpp\": {\"certificate_dn\": \"\\\\VED\\\\Policy\\\\robin\\\\carl-test-201\", \"policy_dn\": \"\\\\VED\\\\Policy\\\\robin\\\\\", \"object_name\":\"carl-test-201\" } }' | sudo chef-client --local -j /dev/stdin -o recipe['v\rvenafi_tpp::tpp_authenticate'],recipe['venafi_tpp::request_certificate']"
+    ],
+    [
+      3.767436,
+      "\r\n"
+    ],
+    [
+      1.209667,
+      "[2015-03-15T16:58:10+00:00] INFO: Started chef-zero at http://localhost:8889 with repository at /Users/cbourne/IdeaProjects/chef_local/part2_examples\r\n  One version per cookbook\r\n\r\n"
+    ],
+    [
+      0.000229,
+      "[2015-03-15T16:58:10+00:00] INFO: Forking chef instance to converge...\r\n"
+    ],
+    [
+      0.048499,
+      "Starting Chef Client, version 12.0.3\u001b[0m\r\n"
+    ],
+    [
+      0.000130,
+      "[2015-03-15T16:58:10+00:00] INFO: *** Chef 12.0.3 ***\r\n"
+    ],
+    [
+      0.000036,
+      "[2015-03-15T16:58:10+00:00] INFO: Chef-client pid: 27748\r\n"
+    ],
+    [
+      2.174252,
+      "[2015-03-15T16:58:12+00:00] WARN: Run List override has been provided.\r\n"
+    ],
+    [
+      0.000042,
+      "[2015-03-15T16:58:12+00:00] WARN: Original Run List: []\r\n"
+    ],
+    [
+      0.000071,
+      "[2015-03-15T16:58:12+00:00] WARN: Overridden Run List: [recipe[venafi_tpp::tpp_authenticate], recipe[venafi_tpp::request_certificate]]\r\n"
+    ],
+    [
+      0.000486,
+      "[2015-03-15T16:58:12+00:00] INFO: Run List is [recipe[venafi_tpp::tpp_authenticate], recipe[venafi_tpp::request_certificate]]\r\n"
+    ],
+    [
+      0.001480,
+      "[2015-03-15T16:58:12+00:00] INFO: Run List expands to [venafi_tpp::tpp_authenticate, venafi_tpp::request_certificate]\r\n"
+    ],
+    [
+      0.000177,
+      "[2015-03-15T16:58:12+00:00] INFO: Starting Chef Run for _securityagent\r\n"
+    ],
+    [
+      0.000116,
+      "[2015-03-15T16:58:12+00:00] INFO: Running start handlers\r\n"
+    ],
+    [
+      0.000112,
+      "[2015-03-15T16:58:12+00:00] INFO: Start handlers complete.\r\n"
+    ],
+    [
+      0.004069,
+      "[2015-03-15T16:58:12+00:00] INFO: HTTP Request Returned 404 Not Found : Object not found: /reports/nodes/_securityagent/runs\r\n"
+    ],
+    [
+      0.000244,
+      "resolving cookbooks for run list: [\"venafi_tpp::tpp_authenticate\", \"venafi_tpp::request_certificate\"]\u001b[0m\r\n"
+    ],
+    [
+      0.014853,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'files' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/files\r\n"
+    ],
+    [
+      0.002007,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'templates' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/templates\r\n"
+    ],
+    [
+      0.000048,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'test' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/test\r\n"
+    ],
+    [
+      0.008269,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'files' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/files\r\n"
+    ],
+    [
+      0.001888,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'templates' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/templates\r\n"
+    ],
+    [
+      0.000050,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'test' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/test\r\n"
+    ],
+    [
+      0.009650,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'files' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/files\r\n"
+    ],
+    [
+      0.001586,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'templates' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/templates\r\n"
+    ],
+    [
+      0.000040,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'test' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/test\r\n"
+    ],
+    [
+      0.009224,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'files' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/files\r\n"
+    ],
+    [
+      0.001652,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'templates' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/templates\r\n"
+    ],
+    [
+      0.000130,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'test' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/test\r\n"
+    ],
+    [
+      0.008738,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'files' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/files\r\n"
+    ],
+    [
+      0.001390,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'templates' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/templates\r\n"
+    ],
+    [
+      0.000047,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'test' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/test\r\n"
+    ],
+    [
+      0.015767,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'files' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/files\r\n"
+    ],
+    [
+      0.001731,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'templates' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/templates\r\n"
+    ],
+    [
+      0.000033,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'test' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/test\r\n"
+    ],
+    [
+      0.008357,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'files' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/files\r\n"
+    ],
+    [
+      0.001922,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'templates' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/templates\r\n"
+    ],
+    [
+      0.000046,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'test' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/test\r\n"
+    ],
+    [
+      0.012451,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'files' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/files\r\n"
+    ],
+    [
+      0.003557,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'templates' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/templates\r\n"
+    ],
+    [
+      0.000056,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'test' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/test\r\n"
+    ],
+    [
+      0.008784,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'files' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/files\r\n"
+    ],
+    [
+      0.001435,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'templates' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/templates\r\n"
+    ],
+    [
+      0.000034,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'test' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/test\r\n"
+    ],
+    [
+      0.015360,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'files' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/files\r\n"
+    ],
+    [
+      0.001530,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'templates' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/templates\r\n"
+    ],
+    [
+      0.000082,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'test' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/test\r\n"
+    ],
+    [
+      0.007972,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'files' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/files\r\n"
+    ],
+    [
+      0.001310,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'templates' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/templates\r\n"
+    ],
+    [
+      0.000059,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'test' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/test\r\n"
+    ],
+    [
+      0.013597,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'files' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/files\r\n"
+    ],
+    [
+      0.001508,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'templates' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/templates\r\n"
+    ],
+    [
+      0.000036,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'test' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/test\r\n"
+    ],
+    [
+      0.009067,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'files' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/files\r\n"
+    ],
+    [
+      0.001592,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'templates' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/templates\r\n"
+    ],
+    [
+      0.000072,
+      "[2015-03-15T16:58:12+00:00] WARN: Cookbook 'test' is empty or entirely chefignored at /Users/cbourne/IdeaProjects/chef_local/part2_examples/cookbooks/test\r\n"
+    ],
+    [
+      0.017467,
+      "[2015-03-15T16:58:12+00:00] INFO: Loading cookbooks [Venafi_TPP@0.1.0, webhooks@0.2.0]\r\n"
+    ],
+    [
+      0.000860,
+      "[2015-03-15T16:58:12+00:00] INFO: Skipping removal of obsoleted cookbooks from the cache\r\n"
+    ],
+    [
+      0.004766,
+      "Synchronizing Cookbooks:\u001b[0m\r\n"
+    ],
+    [
+      0.007995,
+      "  "
+    ],
+    [
+      0.000188,
+      "- Venafi_TPP\u001b[0m\r\n"
+    ],
+    [
+      0.000476,
+      "  "
+    ],
+    [
+      0.000029,
+      "- webhooks\u001b[0m\r\n"
+    ],
+    [
+      0.000295,
+      "Compiling Cookbooks...\u001b[0m\r\n"
+    ],
+    [
+      0.004736,
+      "Converging 4 resources\u001b[0m\r\n"
+    ],
+    [
+      0.000194,
+      "Recipe: Venafi_TPP::tpp_authenticate\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "  "
+    ],
+    [
+      0.000022,
+      "* webhooks_request[vedsdk_authorize] action nothing"
+    ],
+    [
+      0.000142,
+      "[2015-03-15T16:58:12+00:00] INFO: Processing webhooks_request[vedsdk_authorize] action nothing (Venafi_TPP::tpp_authenticate line 15)\r\n"
+    ],
+    [
+      0.000092,
+      " (skipped due to action :nothing)\r\n"
+    ],
+    [
+      0.000090,
+      "  * ruby_block[set_auth_key] action run"
+    ],
+    [
+      0.000074,
+      "[2015-03-15T16:58:12+00:00] INFO: Processing ruby_block[set_auth_key] action run (Venafi_TPP::tpp_authenticate line 31)\r\n"
+    ],
+    [
+      0.000911,
+      "\r\n    * webhooks_request[vedsdk_authorize] action post"
+    ],
+    [
+      0.000093,
+      "[2015-03-15T16:58:12+00:00] INFO: Processing webhooks_request[vedsdk_authorize] action post (Venafi_TPP::tpp_authenticate line 15)\r\n"
+    ],
+    [
+      0.001011,
+      "[2015-03-15T16:58:12+00:00] INFO: Complete URI: https://172.16.28.200/vedsdk/authorize/\r\n"
+    ],
+    [
+      0.005710,
+      "[2015-03-15T16:58:12+00:00] INFO: Disabled SSL Validation.\r\n"
+    ],
+    [
+      0.000056,
+      "[2015-03-15T16:58:12+00:00] INFO: Setting up request for https://172.16.28.200/vedsdk/authorize/.\r\n"
+    ],
+    [
+      0.000052,
+      "[2015-03-15T16:58:12+00:00] INFO: Setting up action post: /vedsdk/authorize/.\r\n"
+    ],
+    [
+      0.001877,
+      "[2015-03-15T16:58:12+00:00] INFO: Setting form data for post.\r\n"
+    ],
+    [
+      0.000030,
+      "[2015-03-15T16:58:12+00:00] INFO: Setting body to JSON\r\n[2015-03-15T16:58:12+00:00] INFO: Populating headers.\r\n"
+    ],
+    [
+      0.086520,
+      "[2015-03-15T16:58:12+00:00] INFO: Webhooks Operation Successful! Response Code 200.\r\n"
+    ],
+    [
+      0.000026,
+      "[2015-03-15T16:58:12+00:00] INFO: Saving Response.\r\n"
+    ],
+    [
+      0.000133,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "      "
+    ],
+    [
+      0.000030,
+      "\u001b[32m- Completed POST of vedsdk_authorize\u001b[0m"
+    ],
+    [
+      0.000142,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000460,
+      "[2015-03-15T16:58:12+00:00] INFO: API Key: 99e6fac2-3b51-2ac8-174e-463066a9262b\r\n"
+    ],
+    [
+      0.000047,
+      "[2015-03-15T16:58:12+00:00] INFO: ruby_block[set_auth_key] called\r\n"
+    ],
+    [
+      0.000093,
+      "    "
+    ],
+    [
+      0.000011,
+      "\u001b[32m- execute the ruby block set_auth_key\u001b[0m"
+    ],
+    [
+      0.000020,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000059,
+      "Recipe: Venafi_TPP::request_certificate\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "  "
+    ],
+    [
+      0.000002,
+      "* webhooks_request[certificates_request] action nothing"
+    ],
+    [
+      0.000113,
+      "[2015-03-15T16:58:12+00:00] INFO: Processing webhooks_request[certificates_request] action nothing (Venafi_TPP::request_certificate line 19)\r\n"
+    ],
+    [
+      0.000014,
+      " (skipped due to action :nothing)\r\n"
+    ],
+    [
+      0.000044,
+      "  * ruby_block[Request Certificate] action run"
+    ],
+    [
+      0.000151,
+      "[2015-03-15T16:58:12+00:00] INFO: Processing ruby_block[Request Certificate] action run (Venafi_TPP::request_certificate line 44)\r\n"
+    ],
+    [
+      0.000492,
+      "\r\n    * webhooks_request[certificates_request] action post"
+    ],
+    [
+      0.000114,
+      "[2015-03-15T16:58:12+00:00] INFO: Processing webhooks_request[certificates_request] action post (Venafi_TPP::request_certificate line 19)\r\n"
+    ],
+    [
+      0.000720,
+      "[2015-03-15T16:58:12+00:00] INFO: Complete URI: https://172.16.28.200/vedsdk/certificates/request?apikey=99e6fac2-3b51-2ac8-174e-463066a9262b\r\n"
+    ],
+    [
+      0.000078,
+      "[2015-03-15T16:58:12+00:00] INFO: Encoding parameters for: 172.16.28.200/vedsdk/certificates/request?apikey=99e6fac2-3b51-2ac8-174e-463066a9262b\r\n"
+    ],
+    [
+      0.004690,
+      "[2015-03-15T16:58:12+00:00] INFO: Disabled SSL Validation.\r\n"
+    ],
+    [
+      0.000029,
+      "[2015-03-15T16:58:12+00:00] INFO: Setting up request for https://172.16.28.200/vedsdk/certificates/request.\r\n"
+    ],
+    [
+      0.000053,
+      "[2015-03-15T16:58:12+00:00] INFO: Setting up action post: /vedsdk/certificates/request?apikey=99e6fac2-3b51-2ac8-174e-463066a9262b.\r\n"
+    ],
+    [
+      0.000434,
+      "[2015-03-15T16:58:12+00:00] INFO: Setting form data for post.\r\n"
+    ],
+    [
+      0.000026,
+      "[2015-03-15T16:58:12+00:00] INFO: Setting body to JSON\r\n"
+    ],
+    [
+      0.000175,
+      "[2015-03-15T16:58:12+00:00] INFO: Populating headers.\r\n"
+    ],
+    [
+      0.050816,
+      "[2015-03-15T16:58:12+00:00] INFO: Webhooks Operation Successful! Response Code 200.\r\n"
+    ],
+    [
+      0.000095,
+      "[2015-03-15T16:58:12+00:00] INFO: Saving Response.\r\n"
+    ],
+    [
+      0.000111,
+      "\r\n      "
+    ],
+    [
+      0.000053,
+      "\u001b[32m- Completed POST of certificates_request\u001b[0m"
+    ],
+    [
+      0.000056,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000478,
+      "[2015-03-15T16:58:12+00:00] INFO: Request for new certificate was successful, certificate DN is: \\VED\\Policy\\robin\\\\carl-test-201\r\n"
+    ],
+    [
+      0.000053,
+      "[2015-03-15T16:58:12+00:00] INFO: ===============================================================================\r\n"
+    ],
+    [
+      0.000052,
+      "[2015-03-15T16:58:12+00:00] INFO: \r\n\r\nTPP response message: OK\r\n"
+    ],
+    [
+      0.000050,
+      "[2015-03-15T16:58:12+00:00] INFO: \r\n\r\nTPP response code: 200\r\n"
+    ],
+    [
+      0.000049,
+      "[2015-03-15T16:58:12+00:00] INFO: \r\n\r\nTPP response: {\"CertificateDN\":\"\\\\VED\\\\Policy\\\\robin\\\\\\\\carl-test-201\"}\r\n"
+    ],
+    [
+      0.000044,
+      "[2015-03-15T16:58:12+00:00] INFO: ===============================================================================\r\n"
+    ],
+    [
+      0.000052,
+      "[2015-03-15T16:58:12+00:00] INFO: ruby_block[Request Certificate] called\r\n"
+    ],
+    [
+      0.000030,
+      "    "
+    ],
+    [
+      0.000022,
+      "\u001b[32m- execute the ruby block Request Certificate\u001b[0m"
+    ],
+    [
+      0.000021,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000141,
+      "[2015-03-15T16:58:12+00:00] WARN: Skipping final node save because override_runlist was given\r\n"
+    ],
+    [
+      0.000059,
+      "[2015-03-15T16:58:12+00:00] INFO: Chef Run complete in 0.364584 seconds\r\n"
+    ],
+    [
+      0.000076,
+      "[2015-03-15T16:58:12+00:00] INFO: Skipping removal of unused files from the cache\r\n"
+    ],
+    [
+      0.000045,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000036,
+      "Running handlers:\u001b[0m\r\n"
+    ],
+    [
+      0.000074,
+      "[2015-03-15T16:58:12+00:00] INFO: Running report handlers\r\n"
+    ],
+    [
+      0.000050,
+      "Running handlers complete\r\n\u001b[0m"
+    ],
+    [
+      0.000066,
+      "[2015-03-15T16:58:12+00:00] INFO: Report handlers complete\r\n"
+    ],
+    [
+      0.000058,
+      "Chef Client finished, 4/4 resources updated in 2.59021 seconds\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.125774,
+      "bash-3.2$ "
+    ],
+    [
+      12.169517,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "bash-3.2$ "
+    ],
+    [
+      1.183787,
+      "\r\n"
+    ],
+    [
+      0.000048,
+      "bash-3.2$ "
+    ],
+    [
+      10.631315,
+      "exit\r\n"
+    ]
+  ]
+}
