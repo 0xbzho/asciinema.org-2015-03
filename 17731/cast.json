@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 11.011477,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.190205,
+      "\u001b[?1034h"
+    ],
+    [
+      0.001228,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000624,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000198,
+      "\u001b]0;pc138.home: ~\u0007"
+    ],
+    [
+      0.000253,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000023,
+      "23:07:35 \u001b[1;37mpc138.home\u001b[39m:\u001b[0;31m~/\u001b[39m\u001b[39m$ "
+    ],
+    [
+      6.426179,
+      "h"
+    ],
+    [
+      0.088035,
+      "t"
+    ],
+    [
+      0.080001,
+      "o"
+    ],
+    [
+      0.064058,
+      "p"
+    ],
+    [
+      0.223965,
+      "\r\n"
+    ],
+    [
+      0.014575,
+      "\u001b[?1049h\u001b[1;25r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.000038,
+      "\u001b[?25l"
+    ],
+    [
+      0.000510,
+      "\u001b[39;49m\u001b[?1000h"
+    ],
+    [
+      0.183987,
+      "\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b[2d  \u001b[36m1  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[32m|||\u001b[31m|||\u001b(B\u001b[0;1m\u001b[30m\u001b[19X\u001b[2;32H15.4%\u001b[39m]\u001b(B\u001b[m     \u001b[36mTasks: \u001b(B\u001b[0;1m\u001b[36m189\u001b(B\u001b[0m\u001b[36m total, \u001b(B\u001b[0;1m\u001b[32m0\u001b(B\u001b[0m\u001b[36m running\u001b[3;3H2  \u001b[39m\u001b(B\u001b[0;1m[\u001b[30m\u001b[26X\u001b[3;33H0.0%\u001b[39m]\u001b(B\u001b[m     \u001b[36mLoad average: \u001b(B\u001b[0;1m\u001b[30m0.67 \u001b[39m\u001b(B\u001b[m1.00 \u001b(B\u001b[0;1m1.08 \u001b[4;3H\u001b(B\u001b[0m\u001b[36m3  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[32m|||\u001b[31m|||\u001b(B\u001b[0;1m\u001b[30m\u001b[19X\u001b[4;32H15.4%\u001b[39m]\u001b(B\u001b[m     \u001b[36mUptime: \u001b(B\u001b[0;1m\u001b[36m2 days, 05:45:01\u001b[5;3H\u001b(B\u001b[0m\u001b[36m4  \u001b[39m\u001b(B\u001b[0;1m[\u001b[30m\u001b[26X\u001b[5;33H0.0%\u001b[39m]\u001b(B\u001b[m     \u001b[36mMem\u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[32m|||||||||\u001b[34m|||\u001b(B\u001b[0;1m\u001b[30m      4614/16384MB\u001b[39m]\u001b[6;3H\u001b(B\u001b[0m\u001b[36m5  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[32m|||\u001b[31m|||\u001b(B\u001b[0;1m\u001b[30m\u001b[19X\u001b[6;32H14.3%\u001b[39m]\u001b(B\u001b[m     \u001b[36mAvg\u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[32m||\u001b[31m||\u001b(B\u001b[0;1m\u001b[30m\u001b[22X\u001b[73G7.3%\u001b[39m]\u001b[7;3H\u001b(B\u001b[0m\u001b[36m6  \u001b[39m\u001b(B\u001b[0;1m[\u001b[30m\u001b[26X\u001b[7;33H0.0%\u001b[39m]\u001b[8;3H\u001b(B\u001b[0m\u001b[36m7  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[32m|||\u001b[31m|||\u001b(B\u001b[0;1m\u001b[30m\u001b[19X\u001b[8;32H14.3%\u001b[39m]\u001b[9;3H\u001b(B\u001b[0m\u001b[36m8  \u001b[39m\u001b(B\u001b["
+    ],
+    [
+      0.000086,
+      "0;1m[\u001b[30m\u001b[26X\u001b[9;33H0.0%\u001b[39m]\u001b[10;3H\u001b(B\u001b[0m\u001b[36mMem\u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[32m|||||||||\u001b[34m|||\u001b(B\u001b[0;1m\u001b[30m      4614/16384MB\u001b[39m]\u001b[11;3H\u001b(B\u001b[0m\u001b[36mSwp\u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m\u001b[20X\u001b[11;28H27/1024MB\u001b[39m]\r\u001b[13d\u001b(B\u001b[0m\u001b[30m\u001b[42m  PID USER     PRI  NI  VIRT   RES   SHR S CPU% \u001b[30m\u001b[46mMEM% \u001b[30m\u001b[42m  TIME+  Command\u001b[K\r\u001b[14d\u001b[30m\u001b[46m 7675 julienro  31   0 2395M  1532     0 C  2.0  0.0  0:00.00 htop\u001b[K\u001b[15;5H\u001b[39;49m\u001b(B\u001b[m1 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b(B\u001b[0;1m\u001b[36m(launchd)\u001b[16;4H\u001b[39m\u001b(B\u001b[m16 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b(B\u001b[0;1m\u001b[36m(UserEventAgent)\u001b[17;4H\u001b[39m\u001b(B\u001b[m17 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b(B\u001b[0;1m\u001b[36m(syslogd)\u001b[18;4H\u001b[39m\u001b(B\u001b[m19 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b(B\u001b[0;1m\u001b[36m(kextd)\u001b[19;4H\u001b[39m\u001b(B\u001b[m20 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  "
+    ],
+    [
+      0.000418,
+      "0.0  0:00.00 \u001b(B\u001b[0;1m\u001b[36m(fseventsd)\u001b[20;4H\u001b[39m\u001b(B\u001b[m22 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0   0  "
+    ],
+    [
+      0.000042,
+      "   0     0     0 ?  0.0  0.0  0:00.00 \u001b(B\u001b[0;1m\u001b[36m(thermald)\u001b[21;4H\u001b[39m\u001b(B\u001b[m24 \u001b(B\u001b[0;1m\u001b[30m_appleev \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b(B\u001b[0;1m\u001b[36m(appleeventsd)\u001b[22;4H\u001b[39m\u001b(B\u001b[m25 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b(B\u001b[0;1m\u001b[36m(configd)\u001b[23;4H\u001b[39m\u001b(B\u001b[m26 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b(B\u001b[0;1m\u001b[36m(powerd)\u001b[24;4H\u001b[39m\u001b(B\u001b[m29 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b(B\u001b[0;1m\u001b[36m(airportd)\r\u001b[25d\u001b[39m\u001b(B\u001b[mF1\u001b[30m\u001b[46mHelp  \u001b[39;49m\u001b(B\u001b[mF2\u001b[30m\u001b[46mSetup \u001b[39;49m\u001b(B\u001b[mF3\u001b[30m\u001b[46mSearch\u001b[39;49m\u001b(B\u001b[mF4\u001b[30m\u001b[46mInvert\u001b[39;49m\u001b(B\u001b[mF5\u001b[30m\u001b[46mTree  \u001b[39;49m\u001b(B\u001b[mF6\u001b[30m\u001b[46mSortBy\u001b[39;49m\u001b(B\u001b[mF7\u001b[30m\u001b[46mNice -\u001b[39;49m\u001b(B\u001b[mF8\u001b[30m\u001b[46mNice +\u001b[39;49m\u001b(B\u001b[mF9\u001b[30m\u001b[46mKill  \u001b[39;49m\u001b(B\u001b[mF10\u001b[30m\u001b[46mQuit\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.545704,
+      "\u001b[2;8H\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m    \u001b[2;32H 2.6\u001b[3;60H2 \u001b[39m\u001b(B\u001b[m0.99\u001b[4;8H\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m    \u001b[4;32H 1.9\u001b[4;66H\u001b[36m2\u001b[5d\u001b[30m53\u001b[6;8H\u001b(B\u001b[0m\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m    \u001b[6;32H 1\u001b[6;48H\u001b(B\u001b[0m\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m  \u001b[73G0.7\u001b[8;7H      \u001b[8;32H 0.0\u001b[10;27H53\u001b[14;33H\u001b(B\u001b[0m\u001b[30m\u001b[46m56\u001b[14;45H0\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.334575,
+      "\u001b[25d\u001b[J\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000009,
+      "\u001b[?1000l\u001b[25;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.003100,
+      "\u001b]0;pc138.home: ~\u0007"
+    ],
+    [
+      0.000133,
+      "23:07:45 \u001b[1;37mpc138.home\u001b[39m:\u001b[0;31m~/\u001b[39m\u001b[39m$ "
+    ],
+    [
+      0.852929,
+      "exit\r\n"
+    ]
+  ]
+}
