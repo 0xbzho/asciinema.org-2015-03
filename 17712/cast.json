@@ -1,0 +1,482 @@
+{
+  "version": 1,
+  "width": 69,
+  "height": 24,
+  "duration": 25.520945,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.434724,
+      "\u001b]0;leucos@michel:~/dev/tests/ansible-nginx\u0007"
+    ],
+    [
+      0.005890,
+      "\u001b[0;33mleucos@michel\u001b[00m\u001b[1;31m\u001b[00m:\u001b[01;34mtests/ansible-nginx\u001b[00m$ "
+    ],
+    [
+      1.109477,
+      "v"
+    ],
+    [
+      0.094665,
+      "a"
+    ],
+    [
+      0.151719,
+      "g"
+    ],
+    [
+      0.187487,
+      "r"
+    ],
+    [
+      0.041994,
+      "a"
+    ],
+    [
+      0.170408,
+      "n"
+    ],
+    [
+      0.105382,
+      "t"
+    ],
+    [
+      0.114367,
+      " "
+    ],
+    [
+      0.301352,
+      "s"
+    ],
+    [
+      0.134838,
+      "s"
+    ],
+    [
+      0.128466,
+      " "
+    ],
+    [
+      0.829983,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.506032,
+      "h"
+    ],
+    [
+      0.089159,
+      " "
+    ],
+    [
+      0.234472,
+      "-"
+    ],
+    [
+      0.134615,
+      "c"
+    ],
+    [
+      0.081613,
+      " "
+    ],
+    [
+      0.303376,
+      "'"
+    ],
+    [
+      0.178931,
+      "s"
+    ],
+    [
+      0.073678,
+      "p"
+    ],
+    [
+      0.115468,
+      "e"
+    ],
+    [
+      0.182424,
+      "c"
+    ],
+    [
+      0.047922,
+      "s"
+    ],
+    [
+      0.101994,
+      " "
+    ],
+    [
+      0.272879,
+      "-"
+    ],
+    [
+      0.219670,
+      "p"
+    ],
+    [
+      0.389638,
+      "'"
+    ],
+    [
+      0.323584,
+      "\r\n"
+    ],
+    [
+      2.672702,
+      "\r\n"
+    ],
+    [
+      0.000143,
+      "ROLESPEC: [Running tests on ansible-nginx]"
+    ],
+    [
+      0.000148,
+      "\r\n"
+    ],
+    [
+      0.000145,
+      "\r\n"
+    ],
+    [
+      0.029699,
+      "\r\n"
+    ],
+    [
+      0.000253,
+      "Setting up Ansible to run out of checkout..."
+    ],
+    [
+      0.000170,
+      "\r\n"
+    ],
+    [
+      0.000130,
+      "\r\n"
+    ],
+    [
+      0.000140,
+      "PATH=/tmp/ansible/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"
+    ],
+    [
+      0.000131,
+      "\r\n"
+    ],
+    [
+      0.000199,
+      "PYTHONPATH=/tmp/ansible/lib:"
+    ],
+    [
+      0.000165,
+      "\r\n"
+    ],
+    [
+      0.000139,
+      "MANPATH=/tmp/ansible/docs/man:"
+    ],
+    [
+      0.000115,
+      "\r\n"
+    ],
+    [
+      0.000142,
+      "\r\n"
+    ],
+    [
+      0.000163,
+      "Remember, you may wish to specify your host file with -i"
+    ],
+    [
+      0.000102,
+      "\r\n"
+    ],
+    [
+      0.000181,
+      "\r\n"
+    ],
+    [
+      0.000144,
+      "Done!"
+    ],
+    [
+      0.000127,
+      "\r\n"
+    ],
+    [
+      0.000143,
+      "\r\n"
+    ],
+    [
+      0.114126,
+      "ansible 1.8.3 (detached HEAD 64d1249598) last updated 2015/03/15 09:30:22 (GMT +000)"
+    ],
+    [
+      0.000390,
+      "\r\n"
+    ],
+    [
+      0.000196,
+      "  lib/ansible/modules/core: (detached HEAD 6bed6e6bbb) last updated 2015/03/15 09:30:38 (GMT +000)"
+    ],
+    [
+      0.000122,
+      "\r\n"
+    ],
+    [
+      0.000145,
+      "  lib/ansible/modules/extras: (detached HEAD 7b4f8c3ef9) last updated 2015/03/15 09:30:55 (GMT +000)"
+    ],
+    [
+      0.000117,
+      "\r\n"
+    ],
+    [
+      0.000153,
+      "  v2/ansible/modules/core: (detached HEAD cb69744bce) last updated 2015/03/15 09:31:12 (GMT +000)"
+    ],
+    [
+      0.000125,
+      "\r\n"
+    ],
+    [
+      0.000141,
+      "  v2/ansible/modules/extras: (detached HEAD 8a4f07eecd) last updated 2015/03/15 09:31:30 (GMT +000)"
+    ],
+    [
+      0.000126,
+      "\r\n"
+    ],
+    [
+      0.000129,
+      "  configured module search path = None"
+    ],
+    [
+      0.000126,
+      "\r\n"
+    ],
+    [
+      0.009715,
+      "\r\n"
+    ],
+    [
+      0.000889,
+      "\r\n"
+    ],
+    [
+      0.001414,
+      "\u001b[1;35mTEST\u001b[0m: [\u001b[;36mRun playbook syntax check\u001b[0m]"
+    ],
+    [
+      0.000169,
+      "\r\n"
+    ],
+    [
+      0.146037,
+      "\r\n"
+    ],
+    [
+      0.000180,
+      "playbook: /home/vagrant/testdir/tests/ansible-nginx/playbooks/test.yml"
+    ],
+    [
+      0.000174,
+      "\r\n"
+    ],
+    [
+      0.000187,
+      "\r\n"
+    ],
+    [
+      0.062729,
+      "\r\n"
+    ],
+    [
+      0.001718,
+      "\u001b[1;35mTEST\u001b[0m: [\u001b[;36mRun playbook\u001b[0m]"
+    ],
+    [
+      0.000158,
+      "\r\n"
+    ],
+    [
+      0.194768,
+      "\r\n"
+    ],
+    [
+      0.000127,
+      "PLAY [vagrant-ubuntu-trusty-64] *********************************************** "
+    ],
+    [
+      0.000153,
+      "\r\n"
+    ],
+    [
+      0.000260,
+      "\r\n"
+    ],
+    [
+      0.000144,
+      "GATHERING FACTS *************************************************************** "
+    ],
+    [
+      0.000128,
+      "\r\n"
+    ],
+    [
+      1.576067,
+      "\u001b[0;32mok: [vagrant-ubuntu-trusty-64]\u001b[0m"
+    ],
+    [
+      0.000264,
+      "\r\n"
+    ],
+    [
+      0.000585,
+      "\r\n"
+    ],
+    [
+      0.000086,
+      "TASK: [ansible-nginx | Adds nginx ppa] **************************************** "
+    ],
+    [
+      0.000124,
+      "\r\n"
+    ],
+    [
+      6.416501,
+      "\u001b[0;32mok: [vagrant-ubuntu-trusty-64]\u001b[0m"
+    ],
+    [
+      0.000237,
+      "\r\n"
+    ],
+    [
+      0.000514,
+      "\r\n"
+    ],
+    [
+      0.000127,
+      "TASK: [ansible-nginx | Adds PPA key] ****************************************** "
+    ],
+    [
+      0.000233,
+      "\r\n"
+    ],
+    [
+      5.436572,
+      "\u001b[0;32mok: [vagrant-ubuntu-trusty-64]\u001b[0m"
+    ],
+    [
+      0.000254,
+      "\r\n"
+    ],
+    [
+      0.000511,
+      "\r\n"
+    ],
+    [
+      0.000153,
+      "TASK: [ansible-nginx | Installs nginx] **************************************** "
+    ],
+    [
+      0.000133,
+      "\r\n"
+    ],
+    [
+      0.309917,
+      "\u001b[0;32mok: [vagrant-ubuntu-trusty-64]\u001b[0m"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000547,
+      "\r\n"
+    ],
+    [
+      0.000438,
+      "TASK: [ansible-nginx | Writes nginx.conf] ************************************* "
+    ],
+    [
+      0.000143,
+      "\r\n"
+    ],
+    [
+      0.100840,
+      "\u001b[0;32mok: [vagrant-ubuntu-trusty-64]\u001b[0m"
+    ],
+    [
+      0.000049,
+      "\r\n"
+    ],
+    [
+      0.000503,
+      "\r\n"
+    ],
+    [
+      0.000182,
+      "TASK: [ansible-nginx | Replaces nginx default server] ************************* "
+    ],
+    [
+      0.000166,
+      "\r\n"
+    ],
+    [
+      0.123285,
+      "\u001b[0;32mok: [vagrant-ubuntu-trusty-64]\u001b[0m"
+    ],
+    [
+      0.000214,
+      "\r\n"
+    ],
+    [
+      0.000643,
+      "\r\n"
+    ],
+    [
+      0.000065,
+      "PLAY RECAP ******************************************************************** "
+    ],
+    [
+      0.000206,
+      "\r\n"
+    ],
+    [
+      0.000249,
+      "\u001b[0;32mvagrant-ubuntu-trusty-64\u001b[0m   : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m6\u001b[0m    changed=0    unreachable=0    failed=0   "
+    ],
+    [
+      0.000179,
+      "\r\n"
+    ],
+    [
+      0.000171,
+      "\r\n"
+    ],
+    [
+      0.022111,
+      "Connection to 127.0.0.1 closed.\r\r\n"
+    ],
+    [
+      0.022970,
+      "\u001b]0;leucos@michel:~/dev/tests/ansible-nginx\u0007"
+    ],
+    [
+      0.005470,
+      "\u001b[0;33mleucos@michel\u001b[00m\u001b[1;31m\u001b[00m:\u001b[01;34mtests/ansible-nginx\u001b[00m$ "
+    ],
+    [
+      1.192474,
+      "exit\r\n"
+    ]
+  ]
+}
