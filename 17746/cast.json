@@ -1,0 +1,626 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 73.206878,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "screen-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.823084,
+      "guilherme@tango:~/prog/n2liquid/right-angle/example$ "
+    ],
+    [
+      1.729098,
+      "n"
+    ],
+    [
+      0.087911,
+      "p"
+    ],
+    [
+      0.143936,
+      "m"
+    ],
+    [
+      0.135993,
+      " "
+    ],
+    [
+      0.184037,
+      "t"
+    ],
+    [
+      0.056023,
+      "e"
+    ],
+    [
+      0.152134,
+      "s"
+    ],
+    [
+      0.047855,
+      "t"
+    ],
+    [
+      0.719941,
+      "\r\n"
+    ],
+    [
+      1.205709,
+      "\r\n"
+    ],
+    [
+      0.000317,
+      "\u003e right-angle-example@0.0.0 test /home/guilherme/prog/n2liquid/right-angle/example"
+    ],
+    [
+      0.000146,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "\u003e protractor"
+    ],
+    [
+      0.000110,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "\r\n"
+    ],
+    [
+      0.682218,
+      "Using the selenium server at http://localhost:4444/wd/hub"
+    ],
+    [
+      0.000323,
+      "\r\n"
+    ],
+    [
+      0.001780,
+      "[launcher] Running 1 instances of WebDriver"
+    ],
+    [
+      0.000183,
+      "\r\n"
+    ],
+    [
+      4.824308,
+      "Feature: Basic Calculations."
+    ],
+    [
+      0.000326,
+      "\r\n"
+    ],
+    [
+      0.000207,
+      "  Scenario: Add two numbers"
+    ],
+    [
+      0.000213,
+      "\r\n"
+    ],
+    [
+      0.000356,
+      "\u001b[32m    When I go to 'https://juliemr.github.io/protractor-demo/' - pass\u001b[0m"
+    ],
+    [
+      0.000185,
+      "\r\n"
+    ],
+    [
+      0.417967,
+      "    Given I add '1' and '2'\r\n\u001b[32m      Given I type '1' in the first number field - pass\u001b[0m\r\n"
+    ],
+    [
+      0.353113,
+      "\u001b[32m      And I select '+' from the operators dropdown - pass\u001b[0m\r\n"
+    ],
+    [
+      0.339115,
+      "\u001b[32m      And I type '2' in the second number field - pass\u001b[0m"
+    ],
+    [
+      0.000924,
+      "\r\n"
+    ],
+    [
+      0.346671,
+      "\u001b[32m      And I click 'Go!' - pass\u001b[0m\r\n"
+    ],
+    [
+      1.976592,
+      "\u001b[32m    Then I should see '3' as a result - pass\u001b[0m"
+    ],
+    [
+      0.000322,
+      "\r\n"
+    ],
+    [
+      0.662769,
+      "  Scenario: Add two numbers\r\n\u001b[32m    When I go to 'https://juliemr.github.io/protractor-demo/' - pass\u001b[0m\r\n"
+    ],
+    [
+      0.291704,
+      "    Given I add '2' and '8'\r\n\u001b[32m      Given I type '2' in the first number field - pass\u001b[0m\r\n"
+    ],
+    [
+      0.316989,
+      "\u001b[32m      And I select '+' from the operators dropdown - pass\u001b[0m\r\n"
+    ],
+    [
+      0.343535,
+      "\u001b[32m      And I type '8' in the second number field - pass\u001b[0m\r\n"
+    ],
+    [
+      0.319488,
+      "\u001b[32m      And I click 'Go!' - pass\u001b[0m\r\n"
+    ],
+    [
+      1.998489,
+      "\u001b[32m    Then I should see '10' as a result - pass\u001b[0m\r\n"
+    ],
+    [
+      0.523926,
+      "  Scenario: Add two numbers\r\n\u001b[32m    When I go to 'https://juliemr.github.io/protractor-demo/' - pass\u001b[0m\r\n"
+    ],
+    [
+      0.317809,
+      "    Given I add '3' and '4'\r\n\u001b[32m      Given I type '3' in the first number field - pass\u001b[0m\r\n"
+    ],
+    [
+      0.337234,
+      "\u001b[32m      And I select '+' from the operators dropdown - pass\u001b[0m\r\n"
+    ],
+    [
+      0.326306,
+      "\u001b[32m      And I type '4' in the second number field - pass\u001b[0m\r\n"
+    ],
+    [
+      0.278708,
+      "\u001b[32m      And I click 'Go!' - pass\u001b[0m\r\n"
+    ],
+    [
+      1.978879,
+      "\u001b[32m    Then I should see '7' as a result - pass\u001b[0m"
+    ],
+    [
+      0.000316,
+      "\r\n"
+    ],
+    [
+      0.431765,
+      "  Scenario: Add two numbers\r\n\u001b[32m    When I go to 'https://juliemr.github.io/protractor-demo/' - pass\u001b[0m\r\n"
+    ],
+    [
+      0.279274,
+      "    Given I add '4' and '5'\r\n\u001b[32m      Given I type '4' in the first number field - pass\u001b[0m\r\n"
+    ],
+    [
+      0.359606,
+      "\u001b[32m      And I select '+' from the operators dropdown - pass\u001b[0m\r\n"
+    ],
+    [
+      0.359967,
+      "\u001b[32m      And I type '5' in the second number field - pass\u001b[0m\r\n"
+    ],
+    [
+      0.317511,
+      "\u001b[32m      And I click 'Go!' - pass\u001b[0m\r\n"
+    ],
+    [
+      1.958211,
+      "\u001b[32m    Then I should see '9' as a result - pass\u001b[0m"
+    ],
+    [
+      0.000534,
+      "\r\n"
+    ],
+    [
+      0.509509,
+      "  Scenario: Subtract two numbers\r\n\u001b[32m    When I go to 'https://juliemr.github.io/protractor-demo/' - pass\u001b[0m\r\n"
+    ],
+    [
+      0.273387,
+      "    Given I subtract '1' from '2'\r\n\u001b[32m      Given I type '2' in the first number field - pass\u001b[0m\r\n"
+    ],
+    [
+      0.387221,
+      "\u001b[32m      And I select '-' from the operators dropdown - pass\u001b[0m\r\n"
+    ],
+    [
+      0.291967,
+      "\u001b[32m      And I type '1' in the second number field - pass\u001b[0m"
+    ],
+    [
+      0.000342,
+      "\r\n"
+    ],
+    [
+      0.290714,
+      "\u001b[32m      And I click 'Go!' - pass\u001b[0m\r\n"
+    ],
+    [
+      1.982445,
+      "\u001b[32m    Then I should see '1' as a result - pass\u001b[0m"
+    ],
+    [
+      0.000354,
+      "\r\n"
+    ],
+    [
+      0.485990,
+      "  Scenario: Subtract two numbers\r\n\u001b[32m    When I go to 'https://juliemr.github.io/protractor-demo/' - pass\u001b[0m\r\n"
+    ],
+    [
+      0.269321,
+      "    Given I subtract '2' from '8'\r\n\u001b[32m      Given I type '8' in the first number field - pass\u001b[0m\r\n"
+    ],
+    [
+      0.363592,
+      "\u001b[32m      And I select '-' from the operators dropdown - pass\u001b[0m\r\n"
+    ],
+    [
+      0.315799,
+      "\u001b[32m      And I type '2' in the second number field - pass\u001b[0m"
+    ],
+    [
+      0.001937,
+      "\r\n"
+    ],
+    [
+      0.294264,
+      "\u001b[32m      And I click 'Go!' - pass\u001b[0m\r\n"
+    ],
+    [
+      2.034757,
+      "\u001b[32m    Then I should see '6' as a result - pass\u001b[0m"
+    ],
+    [
+      0.000295,
+      "\r\n"
+    ],
+    [
+      0.443846,
+      "  Scenario: Subtract two numbers\r\n\u001b[32m    When I go to 'https://juliemr.github.io/protractor-demo/' - pass\u001b[0m\r\n"
+    ],
+    [
+      0.271491,
+      "    Given I subtract '3' from '4'\r\n\u001b[32m      Given I type '4' in the first number field - pass\u001b[0m\r\n"
+    ],
+    [
+      0.350411,
+      "\u001b[32m      And I select '-' from the operators dropdown - pass\u001b[0m\r\n"
+    ],
+    [
+      0.389216,
+      "\u001b[32m      And I type '3' in the second number field - pass\u001b[0m\r\n"
+    ],
+    [
+      0.283754,
+      "\u001b[32m      And I click 'Go!' - pass\u001b[0m\r\n"
+    ],
+    [
+      1.988199,
+      "\u001b[32m    Then I should see '1' as a result - pass\u001b[0m"
+    ],
+    [
+      0.000318,
+      "\r\n"
+    ],
+    [
+      0.570045,
+      "  Scenario: Subtract two numbers\r\n\u001b[32m    When I go to 'https://juliemr.github.io/protractor-demo/' - pass\u001b[0m\r\n"
+    ],
+    [
+      0.316473,
+      "    Given I subtract '4' from '5'\r\n\u001b[32m      Given I type '5' in the first number field - pass\u001b[0m\r\n"
+    ],
+    [
+      0.334127,
+      "\u001b[32m      And I select '-' from the operators dropdown - pass\u001b[0m\r\n"
+    ],
+    [
+      0.314486,
+      "\u001b[32m      And I type '4' in the second number field - pass\u001b[0m\r\n"
+    ],
+    [
+      0.280002,
+      "\u001b[32m      And I click 'Go!' - pass\u001b[0m\r\n"
+    ],
+    [
+      1.970274,
+      "\u001b[32m    Then I should see '1' as a result - pass\u001b[0m"
+    ],
+    [
+      0.000429,
+      "\r\n"
+    ],
+    [
+      0.570585,
+      "  Scenario: Multiply two numbers\r\n\u001b[32m    When I go to 'https://juliemr.github.io/protractor-demo/' - pass\u001b[0m\r\n"
+    ],
+    [
+      0.262161,
+      "    Given I multiply '1' by '2'\r\n\u001b[32m      Given I type '1' in the first number field - pass\u001b[0m\r\n"
+    ],
+    [
+      0.356553,
+      "\u001b[32m      And I select '*' from the operators dropdown - pass\u001b[0m\r\n"
+    ],
+    [
+      0.319549,
+      "\u001b[32m      And I type '2' in the second number field - pass\u001b[0m\r\n"
+    ],
+    [
+      0.273593,
+      "\u001b[32m      And I click 'Go!' - pass\u001b[0m\r\n"
+    ],
+    [
+      1.968841,
+      "\u001b[32m    Then I should see '2' as a result - pass\u001b[0m"
+    ],
+    [
+      0.000328,
+      "\r\n"
+    ],
+    [
+      0.431943,
+      "  Scenario: Multiply two numbers\r\n\u001b[32m    When I go to 'https://juliemr.github.io/protractor-demo/' - pass\u001b[0m\r\n"
+    ],
+    [
+      0.263696,
+      "    Given I multiply '2' by '8'\r\n\u001b[32m      Given I type '2' in the first number field - pass\u001b[0m\r\n"
+    ],
+    [
+      0.360906,
+      "\u001b[32m      And I select '*' from the operators dropdown - pass\u001b[0m\r\n"
+    ],
+    [
+      0.326457,
+      "\u001b[32m      And I type '8' in the second number field - pass\u001b[0m\r\n"
+    ],
+    [
+      0.286663,
+      "\u001b[32m      And I click 'Go!' - pass\u001b[0m\r\n"
+    ],
+    [
+      1.942222,
+      "\u001b[32m    Then I should see '16' as a result - pass\u001b[0m"
+    ],
+    [
+      0.000316,
+      "\r\n"
+    ],
+    [
+      0.553824,
+      "  Scenario: Multiply two numbers\r\n\u001b[32m    When I go to 'https://juliemr.github.io/protractor-demo/' - pass\u001b[0m\r\n"
+    ],
+    [
+      0.273288,
+      "    Given I multiply '3' by '4'\r\n\u001b[32m      Given I type '3' in the first number field - pass\u001b[0m\r\n"
+    ],
+    [
+      0.343081,
+      "\u001b[32m      And I select '*' from the operators dropdown - pass\u001b[0m\r\n"
+    ],
+    [
+      0.298710,
+      "\u001b[32m      And I type '4' in the second number field - pass\u001b[0m\r\n"
+    ],
+    [
+      0.251315,
+      "\u001b[32m      And I click 'Go!' - pass\u001b[0m\r\n"
+    ],
+    [
+      1.952906,
+      "\u001b[32m    Then I should see '12' as a result - pass\u001b[0m"
+    ],
+    [
+      0.000313,
+      "\r\n"
+    ],
+    [
+      0.406723,
+      "  Scenario: Multiply two numbers\r\n\u001b[32m    When I go to 'https://juliemr.github.io/protractor-demo/' - pass\u001b[0m\r\n"
+    ],
+    [
+      0.250992,
+      "    Given I multiply '4' by '5'\r\n\u001b[32m      Given I type '4' in the first number field - pass\u001b[0m\r\n"
+    ],
+    [
+      0.429648,
+      "\u001b[32m      And I select '*' from the operators dropdown - pass\u001b[0m\r\n"
+    ],
+    [
+      0.388395,
+      "\u001b[32m      And I type '5' in the second number field - pass\u001b[0m\r\n"
+    ],
+    [
+      0.294143,
+      "\u001b[32m      And I click 'Go!' - pass\u001b[0m\r\n"
+    ],
+    [
+      1.986781,
+      "\u001b[32m    Then I should see '20' as a result - pass\u001b[0m"
+    ],
+    [
+      0.000321,
+      "\r\n"
+    ],
+    [
+      0.550895,
+      "  Scenario: Divide two numbers\r\n\u001b[32m    When I go to 'https://juliemr.github.io/protractor-demo/' - pass\u001b[0m\r\n"
+    ],
+    [
+      0.260439,
+      "    Given I divide '1' by '2'\r\n\u001b[32m      Given I type '1' in the first number field - pass\u001b[0m\r\n"
+    ],
+    [
+      0.344919,
+      "\u001b[32m      And I select '/' from the operators dropdown - pass\u001b[0m\r\n"
+    ],
+    [
+      0.279737,
+      "\u001b[32m      And I type '2' in the second number field - pass\u001b[0m\r\n"
+    ],
+    [
+      0.280124,
+      "\u001b[32m      And I click 'Go!' - pass\u001b[0m\r\n"
+    ],
+    [
+      1.961409,
+      "\u001b[32m    Then I should see '0.5' as a result - pass\u001b[0m"
+    ],
+    [
+      0.000412,
+      "\r\n"
+    ],
+    [
+      0.559241,
+      "  Scenario: Divide two numbers\r\n\u001b[32m    When I go to 'https://juliemr.github.io/protractor-demo/' - pass\u001b[0m\r\n"
+    ],
+    [
+      0.256430,
+      "    Given I divide '2' by '8'\r\n\u001b[32m      Given I type '2' in the first number field - pass\u001b[0m\r\n"
+    ],
+    [
+      0.339376,
+      "\u001b[32m      And I select '/' from the operators dropdown - pass\u001b[0m\r\n"
+    ],
+    [
+      0.292914,
+      "\u001b[32m      And I type '8' in the second number field - pass\u001b[0m\r\n"
+    ],
+    [
+      0.287968,
+      "\u001b[32m      And I click 'Go!' - pass\u001b[0m\r\n"
+    ],
+    [
+      1.939275,
+      "\u001b[32m    Then I should see '0.25' as a result - pass\u001b[0m"
+    ],
+    [
+      0.000322,
+      "\r\n"
+    ],
+    [
+      0.497958,
+      "  Scenario: Divide two numbers\r\n\u001b[32m    When I go to 'https://juliemr.github.io/protractor-demo/' - pass\u001b[0m\r\n"
+    ],
+    [
+      0.257693,
+      "    Given I divide '3' by '4'\r\n\u001b[32m      Given I type '3' in the first number field - pass\u001b[0m\r\n"
+    ],
+    [
+      0.319659,
+      "\u001b[32m      And I select '/' from the operators dropdown - pass\u001b[0m\r\n"
+    ],
+    [
+      0.271588,
+      "\u001b[32m      And I type '4' in the second number field - pass\u001b[0m\r\n"
+    ],
+    [
+      0.275178,
+      "\u001b[32m      And I click 'Go!' - pass\u001b[0m\r\n"
+    ],
+    [
+      1.951855,
+      "\u001b[32m    Then I should see '0.75' as a result - pass\u001b[0m"
+    ],
+    [
+      0.000325,
+      "\r\n"
+    ],
+    [
+      0.419258,
+      "  Scenario: Divide two numbers\r\n\u001b[32m    When I go to 'https://juliemr.github.io/protractor-demo/' - pass\u001b[0m\r\n"
+    ],
+    [
+      0.247280,
+      "    Given I divide '4' by '5'\r\n\u001b[32m      Given I type '4' in the first number field - pass\u001b[0m\r\n"
+    ],
+    [
+      0.351457,
+      "\u001b[32m      And I select '/' from the operators dropdown - pass\u001b[0m\r\n"
+    ],
+    [
+      0.305983,
+      "\u001b[32m      And I type '5' in the second number field - pass\u001b[0m\r\n"
+    ],
+    [
+      0.271698,
+      "\u001b[32m      And I click 'Go!' - pass\u001b[0m\r\n"
+    ],
+    [
+      1.964302,
+      "\u001b[32m    Then I should see '0.8' as a result - pass\u001b[0m"
+    ],
+    [
+      0.000418,
+      "\r\n"
+    ],
+    [
+      0.001360,
+      "\r\n"
+    ],
+    [
+      0.000152,
+      "\r\n"
+    ],
+    [
+      0.000108,
+      "Finished in 61.673 seconds"
+    ],
+    [
+      0.000157,
+      "\r\n"
+    ],
+    [
+      0.001176,
+      "\u001b[32m96 tests, 16 assertions, 0 failures"
+    ],
+    [
+      0.000158,
+      "\r\n"
+    ],
+    [
+      0.000109,
+      "\u001b[0m"
+    ],
+    [
+      0.000193,
+      "\r\n"
+    ],
+    [
+      0.691165,
+      "[launcher] 0 instance(s) of WebDriver still running"
+    ],
+    [
+      0.000424,
+      "\r\n"
+    ],
+    [
+      0.000679,
+      "[launcher] chrome #1 passed"
+    ],
+    [
+      0.000135,
+      "\r\n"
+    ],
+    [
+      0.081922,
+      "guilherme@tango:~/prog/n2liquid/right-angle/example$ "
+    ],
+    [
+      2.427530,
+      "exit\r\n"
+    ]
+  ]
+}
