@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 12.011785,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.007661,
+      "\u001b[?1034hbash-3.2$ "
+    ],
+    [
+      1.903541,
+      "l"
+    ],
+    [
+      0.087220,
+      "s"
+    ],
+    [
+      0.288071,
+      "\r\n"
+    ],
+    [
+      0.004739,
+      "Applications\t\tPictures\t\tmalus.log\r\nDesktop\t\t\tPublic\t\t\tmalus_2015-01-14.0.log\r\nDocuments\t\tSites\t\t\tnode_modules\r\nDownloads\t\tVirtualBox VMs\t\tnpm-debug.log\r\nLibrary\t\t\tdiffer\t\t\tpy.py\r\nMovies\t\t\terrors.log\t\tscript.sh\r\nMusic\t\t\tgenymotion-log.zip\r\n"
+    ],
+    [
+      0.000407,
+      "bash-3.2$ "
+    ],
+    [
+      2.002378,
+      "w"
+    ],
+    [
+      0.152577,
+      "h"
+    ],
+    [
+      0.079583,
+      "a"
+    ],
+    [
+      0.048393,
+      "t"
+    ],
+    [
+      0.943674,
+      "."
+    ],
+    [
+      0.496809,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.127178,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.151787,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.160328,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.160729,
+      "\u0008\u001b[K"
+    ],
+    [
+      1.519029,
+      "p"
+    ],
+    [
+      0.056294,
+      "w"
+    ],
+    [
+      0.056412,
+      "d"
+    ],
+    [
+      0.231582,
+      "\r\n"
+    ],
+    [
+      0.000137,
+      "/Users/jfeehley\r\n"
+    ],
+    [
+      0.000101,
+      "bash-3.2$ "
+    ],
+    [
+      3.528032,
+      "exit\r\n"
+    ]
+  ]
+}
