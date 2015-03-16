@@ -1,0 +1,194 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 12.348510,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.141719,
+      "\u001b]0;root@kali: ~/Kali-post-install\u0007\u001b[01;31mroot@kali\u001b[00m:\u001b[01;34m~/Kali-post-install\u001b[00m# "
+    ],
+    [
+      2.430955,
+      "l"
+    ],
+    [
+      0.087871,
+      "s"
+    ],
+    [
+      0.352216,
+      " "
+    ],
+    [
+      0.352967,
+      "="
+    ],
+    [
+      0.446955,
+      "a"
+    ],
+    [
+      0.327898,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.159918,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.472011,
+      "-"
+    ],
+    [
+      0.159998,
+      "a"
+    ],
+    [
+      0.111792,
+      "l"
+    ],
+    [
+      0.192537,
+      "\r\n"
+    ],
+    [
+      0.003164,
+      "total 156\r\n"
+    ],
+    [
+      0.000005,
+      "drwxr-xr-x  3 root root   4096 Mar 16 09:15 \u001b[0m\u001b[01;34m.\u001b[0m\r\ndrwxrwxr-x 18 root root   4096 Mar 16 09:36 \u001b[01;34m..\u001b[0m\r\ndrwxr-xr-x  8 root root   4096 Mar 16 08:58 \u001b[01;34m.git\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "-rwxr-xr-x  1 root root 141907 Mar 16 08:58 \u001b[01;32mkali.sh\u001b[0m\r\n"
+    ],
+    [
+      0.000002,
+      "-rw-r--r--  1 root root     20 Mar 16 08:58 README.md"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000691,
+      "\u001b]0;root@kali: ~/Kali-post-install\u0007\u001b[01;31mroot@kali\u001b[00m:\u001b[01;34m~/Kali-post-install\u001b[00m# "
+    ],
+    [
+      0.347843,
+      "d"
+    ],
+    [
+      0.087677,
+      "f"
+    ],
+    [
+      0.296177,
+      " "
+    ],
+    [
+      0.383926,
+      "-"
+    ],
+    [
+      0.119914,
+      "h"
+    ],
+    [
+      0.169575,
+      "\r\n"
+    ],
+    [
+      0.003572,
+      "Filesystem                                              Size  Used Avail Use% Mounted on\r\nrootfs                                                   15G  8.9G  5.3G  63% /\r\nudev                                                     10M     0   10M   0% /dev\r\ntmpfs                                                   100M  580K   99M   1% /run\r\n/dev/disk/by-uuid/4e4b33a6-fb8e-46fe-a8b8-7f516e775ab7   15G  8.9G  5.3G  63% /\r\ntmpfs                                                   5.0M     0  5.0M   0% /run/lock"
+    ],
+    [
+      0.000005,
+      "\r\ntmpfs                                                   342M  336K  341M   1% /run/shm\r\n"
+    ],
+    [
+      0.000388,
+      "\u001b]0;root@kali: ~/Kali-post-install\u0007\u001b[01;31mroot@kali\u001b[00m:\u001b[01;34m~/Kali-post-install\u001b[00m# "
+    ],
+    [
+      1.090536,
+      "s"
+    ],
+    [
+      0.392110,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.263911,
+      "p"
+    ],
+    [
+      0.103994,
+      "s"
+    ],
+    [
+      0.096277,
+      "\r\n"
+    ],
+    [
+      0.006877,
+      "  PID TTY          TIME CMD\r\n"
+    ],
+    [
+      0.000013,
+      "37614 pts/3    00:00:00 sh\r\n"
+    ],
+    [
+      0.000077,
+      "37617 pts/3    00:00:00 bash\r\n37725 pts/3    00:00:00 ps\r\n"
+    ],
+    [
+      0.000442,
+      "\u001b]0;root@kali: ~/Kali-post-install\u0007\u001b[01;31mroot@kali\u001b[00m:\u001b[01;34m~/Kali-post-install\u001b[00m# "
+    ],
+    [
+      0.439940,
+      "t"
+    ],
+    [
+      0.112398,
+      "o"
+    ],
+    [
+      0.079779,
+      "p"
+    ],
+    [
+      0.304706,
+      "\r\n"
+    ],
+    [
+      0.162071,
+      "\u001b[?1h\u001b=\u001b[H\u001b[2J\u001b[?25l\u001b(B\u001b[mtop - 09:36:10 up 32 min,  4 users,  load average: 0.29, 0.36, 0.33\u001b(B\u001b[m\u001b[39;49m\u001b(B\u001b[m\u001b[39;49m\u001b[K\r\nTasks:\u001b(B\u001b[m\u001b[39;49m\u001b[1m 147 \u001b(B\u001b[m\u001b[39;49mtotal,\u001b(B\u001b[m\u001b[39;49m\u001b[1m   1 \u001b(B\u001b[m\u001b[39;49mrunning,\u001b(B\u001b[m\u001b[39;49m\u001b[1m 146 \u001b(B\u001b[m\u001b[39;49msleeping,\u001b(B\u001b[m\u001b[39;49m\u001b[1m   0 \u001b(B\u001b[m\u001b[39;49mstopped,\u001b(B\u001b[m\u001b[39;49m\u001b[1m   0 \u001b(B\u001b[m\u001b[39;49mzombie\u001b(B\u001b[m\u001b[39;49m\u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n%Cpu(s):\u001b(B\u001b[m\u001b[39;49m\u001b[1m  4.9 \u001b(B\u001b[m\u001b[39;49mus,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  3.7 \u001b(B\u001b[m\u001b[39;49msy,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49mni,\u001b(B\u001b[m\u001b[39;49m\u001b[1m 88.0 \u001b(B\u001b[m\u001b[39;49mid,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  1.9 \u001b(B\u001b[m\u001b[39;49mwa,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49mhi,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  1.4 \u001b(B\u001b[m\u001b[39;49msi,\u001b(B\u001b[m\u001b[39;49m\u001b[1m  0.0 \u001b(B\u001b[m\u001b[39;49mst\u001b(B\u001b[m\u001b[39;49m\u001b(B\u001b[m\u001b[39;49m\u001b[K\r\nKiB Mem: \u001b(B\u001b[m\u001b[39;49m\u001b[1m  1016208 \u001b(B\u001b[m\u001b[39;49mtotal,\u001b(B\u001b[m\u001b[39;49m\u001b[1m   883736 \u001b(B\u001b[m\u001b[39;49mused,\u001b(B\u001b[m\u001b[39;49m\u001b[1m   132472 \u001b(B\u001b[m\u001b[39;49mfree,\u001b(B\u001b[m\u001b[39;49m\u001b[1m    22736 \u001b(B\u001b[m\u001b[39;49mbuffers\u001b(B\u001b[m\u001b[39;49m\u001b(B\u001b[m\u001b[39;49m\u001b[K\r\nKiB Swap:\u001b(B\u001b[m\u001b[39;49m\u001b[1m   731132 \u001b(B\u001b[m\u001b[39;49mtotal,\u001b(B\u001b[m\u001b[39;49m\u001b[1m   133096 \u001b(B\u001b[m\u001b[39;49mused,\u001b(B\u001b[m\u001b[39;49m\u001b[1m   598036 \u001b(B\u001b[m\u001b[39;49mfree,\u001b(B\u001b[m\u001b[39;49m\u001b[1m   311912 \u001b(B\u001b[m\u001b[39;49mcached\u001b(B\u001b[m\u001b[39;49m\u001b(B\u001b[m\u001b[39;49m\u001b[K\r\n\r\n\u001b[7m  PID USER      PR  NI  VIRT  RES  SHR S  %CPU %MEM    TIME+  COMMAND           \u001b(B\u001b[m\u001b[39;49m\r\n\u001b(B\u001b[m29733 postgres  20   0 98.9m  12m  12m S   6.6  1.3   0:00.29 postgres          \u001b(B\u001b[m\u001b[39;49m\r\n\u001b(B\u001b[m    1 root      20   0 10664   32    0 S   0.0  0.0   0:01.09 init              \u001b(B\u001b[m\u001b[39;49m\r\n\u001b(B\u001b[m    2 root      20   0     0    0    0 S   0.0  0.0   0:00.00 kthreadd          \u001b(B\u001b[m\u001b[39;49m\r\n\u001b(B\u001b[m    3 root      20   0     0    0    0 S   0.0  0.0   0:17.89 ksoftirqd/0       \u001b(B\u001b[m\u001b[39;49m\r\n\u001b(B\u001b[m    5 root       0 -20     0    0    0 S   0.0  0.0   0:00.00 kworker/0:0H      \u001b(B\u001b[m\u001b[39;49m\r\n\u001b(B\u001b[m    7 root      20   0     0    0    0 S   0.0  0.0   0:03.49 rcu_sched         \u001b(B\u001b[m\u001b[39;49m\r\n\u001b(B\u001b[m    8 root      20   0     0    0    0 S   0.0  0.0   0:00.00 rcu_bh            \u001b(B\u001b[m\u001b[39;49m\r\n\u001b(B\u001b[m    9 root      rt  "
+    ],
+    [
+      0.000013,
+      " 0     0    0    0 S   0.0  0.0   0:00.74 migration/0       \u001b(B\u001b[m\u001b[39;49m\r\n\u001b(B\u001b[m   10 root      rt   0     0    0    0 S   0.0  0.0   0:00.09 watchdog/0        \u001b(B\u001b[m\u001b[39;49m\r\n\u001b(B\u001b[m   11 root      rt   0     0    0    0 S   0.0  0.0   0:00.43 watchdog/1        \u001b(B\u001b[m\u001b[39;49m\r\n\u001b(B\u001b[m   12 root      rt   0     0    0    0 S   0.0  0.0   0:00.52 migration/1       \u001b(B\u001b[m\u001b[39;49m\r\n\u001b(B\u001b[m   13 root      20   0     0    0    0 S   0.0  0.0   0:01.08 ksoftirqd/1       \u001b(B\u001b[m\u001b[39;49m\r\n\u001b(B\u001b[m   15 root       0 -20     0    0    0 S   0.0  0.0   0:00.00 kworker/1:0H      \u001b(B\u001b[m\u001b[39;49m\r\n\u001b(B\u001b[m   16 root       0 -20     0    0    0 S   0.0  0.0   0:00.00 khelper           \u001b(B\u001b[m\u001b[39;49m\r\n\u001b(B\u001b[m   17 root      20   0     0    0    0 S   0.0  0.0   0:00.00 kdevtmpfs         \u001b(B\u001b[m\u001b[39;49m"
+    ],
+    [
+      0.000003,
+      "\r\n\u001b(B\u001b[m   18 root       0 -20     0    0    0 S   0.0  0.0   0:00.00 netns             \u001b(B\u001b[m\u001b[39;49m\r\n\u001b(B\u001b[m   19 root       0 -20     0    0    0 S   0.0  0.0   0:00.00 perf              \u001b(B\u001b[m\u001b[39;49m\u001b[6;1H\u001b[K\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.765284,
+      "\u001b[25;1H\u001b[?12l\u001b[?25h\r\n\u001b]0;root@kali: ~/Kali-post-install\u0007\u001b[01;31mroot@kali\u001b[00m:\u001b[01;34m~/Kali-post-install\u001b[00m# "
+    ],
+    [
+      0.880247,
+      "exit\r\n"
+    ]
+  ]
+}
