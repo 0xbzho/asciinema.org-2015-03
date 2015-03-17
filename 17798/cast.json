@@ -1,0 +1,194 @@
+{
+  "version": 1,
+  "width": 146,
+  "height": 41,
+  "duration": 3.529648,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.091257,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                 \r \r"
+    ],
+    [
+      0.001386,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mwyrihaximus@Inspiron-7537\u001b[49m \u001b[1m\u001b[32m~/Projects/filesystem\r\n"
+    ],
+    [
+      0.000012,
+      "\r\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.442287,
+      "exit"
+    ],
+    [
+      0.287916,
+      "\u0008\u0008\u0008\u0008php examples/directory_ls_recursive_regexp_interfaces.php"
+    ],
+    [
+      0.688673,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000099,
+      "\r\r\n"
+    ],
+    [
+      0.157517,
+      "/home/wyrihaximus/Projects/filesystem/src/AdapterInterface.php\r\n"
+    ],
+    [
+      0.000015,
+      "/home/wyrihaximus/Projects/filesystem/src/CallInvokerInterface.php\r\n/home/wyrihaximus/Projects/filesystem/src/FlagResolverInterface.php"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.001776,
+      "/home/wyrihaximus/Projects/filesystem/src/Node/NodeInterface.php\r\n"
+    ],
+    [
+      0.000024,
+      "/home/wyrihaximus/Projects/filesystem/src/Node/GenericOperationInterface.php\r\n"
+    ],
+    [
+      0.000025,
+      "/home/wyrihaximus/Projects/filesystem/src/Node/FileInterface.php\r\n"
+    ],
+    [
+      0.000027,
+      "/home/wyrihaximus/Projects/filesystem/src/Node/DirectoryInterface.php\r\n"
+    ],
+    [
+      0.000008,
+      "/home/wyrihaximus/Projects/filesystem/src/Stream/DuplexStreamInterface.php\r\n"
+    ],
+    [
+      0.000022,
+      "/home/wyrihaximus/Projects/filesystem/src/Stream/GenericStreamInterface.php\r\n"
+    ],
+    [
+      0.000011,
+      "/home/wyrihaximus/Projects/filesystem/src/Stream/WritableStreamInterface.php"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "/home/wyrihaximus/Projects/filesystem/src/Stream/ReadableStreamInterface.php"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.004033,
+      "/home/wyrihaximus/Projects/filesystem/vendor/react/event-loop/LoopInterface.php\r\n"
+    ],
+    [
+      0.000277,
+      "/home/wyrihaximus/Projects/filesystem/vendor/react/event-loop/Timer/TimerInterface.php\r\n"
+    ],
+    [
+      0.000170,
+      "/home/wyrihaximus/Projects/filesystem/vendor/react/stream/src/DuplexStreamInterface.php\r\n"
+    ],
+    [
+      0.000024,
+      "/home/wyrihaximus/Projects/filesystem/vendor/react/stream/src/ReadableStreamInterface.php\r\n"
+    ],
+    [
+      0.000042,
+      "/home/wyrihaximus/Projects/filesystem/vendor/react/stream/src/WritableStreamInterface.php"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000110,
+      "/home/wyrihaximus/Projects/filesystem/vendor/react/promise/src/CancellablePromiseInterface.php"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "/home/wyrihaximus/Projects/filesystem/vendor/react/promise/src/ExtendedPromiseInterface.php\r\n"
+    ],
+    [
+      0.000037,
+      "/home/wyrihaximus/Projects/filesystem/vendor/react/promise/src/PromiseInterface.php\r\n"
+    ],
+    [
+      0.000017,
+      "/home/wyrihaximus/Projects/filesystem/vendor/react/promise/src/PromisorInterface.php\r\n"
+    ],
+    [
+      0.000057,
+      "/home/wyrihaximus/Projects/filesystem/vendor/react/promise/tests/PromiseAdapter/PromiseAdapterInterface.php"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000106,
+      "/home/wyrihaximus/Projects/filesystem/vendor/evenement/evenement/src/Evenement/EventEmitterInterface.php\r\n"
+    ],
+    [
+      0.007489,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                 \r \r"
+    ],
+    [
+      0.001150,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mwyrihaximus@Inspiron-7537\u001b[49m \u001b[1m\u001b[32m~/Projects/filesystem\r\n\r\u001b[37m % \u001b[0m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000023,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.782193,
+      "e"
+    ],
+    [
+      0.206886,
+      "\u0008ex"
+    ],
+    [
+      0.151903,
+      "i"
+    ],
+    [
+      0.148359,
+      "t"
+    ],
+    [
+      0.551543,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000024,
+      "\r"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ]
+  ]
+}
