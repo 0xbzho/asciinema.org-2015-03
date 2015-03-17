@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "width": 123,
+  "height": 30,
+  "duration": 4.292264,
+  "command": "/usr/local/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "screen-256color",
+    "SHELL": "/usr/local/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.756669,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                          \r \r"
+    ],
+    [
+      0.072732,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[37m\u001b[48;5;20m syui\u001b[49m\u001b[39m\u001b[37m\u001b[48;5;20m@\u001b[49m\u001b[39m\u001b[37m\u001b[48;5;20mMBA \u001b[49m\u001b[39m\u001b[1m\u001b[38;5;20m\u001b[48;5;20m\u001b[0m\u001b[39m\u001b[49m\u001b[48;5;26m\u001b[34m⮀\u001b[49m\u001b[39m\u001b[1m\u001b[37m\u001b[48;5;26m  [~]  \u001b[49m\u001b[39m\u001b[0m\u001b[49m\u001b[39m\u001b[48;5;69m\u001b[38;5;26m⮀\u001b[49m\u001b[39m\u001b[37m\u001b[48;5;69m 1 user |  system \u001b[49m\u001b[39m\u001b[48;5;45m\u001b[38;5;69m⮀\u001b[49m\u001b[39m\u001b[37m\u001b[48;5;45m 7149  \u001b[49m\u001b[39m\u001b[40m\u001b[38;5;45m⮀\u001b[49m\u001b[39m  \u001b[47m\u001b[30m⮀\u001b[49m\u001b[39m\u001b[30m\u001b[47m s001 \u001b[40m\u001b[37m⮀\u001b[49m\u001b[39m\u001b[49m\u001b[39m\u001b[37m\u001b[40m  ja_JP.UTF-8  \u001b[49m\u001b[39m\u001b[30m⮀\r\n\u001b[37m\u001b[40m  /usr/local/bin/zsh  \u001b[49m\u001b[39m\u001b[47m\u001b[30m\u003e\u001b[49m\u001b[39m\u001b[1m\u001b[30m\u001b[47m %  \u001b[0m\u001b[49m\u001b[39m\u001b[39m\u001b[40m\u001b[37m\u003e\u001b[49m\u001b[39m "
+    ],
+    [
+      0.000040,
+      "\u001b[K\u001b[76C\u001b[40m\u001b[38;5;34m⮂\u001b[49m\u001b[39m\u001b[48;5;34m\u001b[93m viins \u001b[49m\u001b[39m\u001b[48;5;34m\u001b[38;5;75m⮂\u001b[49m\u001b[39m\u001b[48;5;75m\u001b[38;5;26m INSERT \u001b[49m\u001b[39m\u001b[48;5;75m\u001b[30m⮂\u001b[49m\u001b[39m\u001b[94D"
+    ],
+    [
+      3.436359,
+      "\u001b[K"
+    ],
+    [
+      0.000007,
+      "\r\r\n"
+    ]
+  ]
+}
