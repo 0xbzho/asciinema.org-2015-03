@@ -1,0 +1,170 @@
+{
+  "version": 1,
+  "width": 134,
+  "height": 41,
+  "duration": 13.008007,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.261546,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                     \r \r"
+    ],
+    [
+      0.000070,
+      "\u001b]2;bubo@obsidian: /tmp\u0007\u001b]1;/tmp\u0007"
+    ],
+    [
+      0.003686,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[1m\u001b[34m#\u001b[00m \u001b[36mbubo \u001b[37mat \u001b[32mobsidian \u001b[37min \u001b[1m\u001b[33m/tmp\u001b[00m \u001b[37m[16:33:12]\r\n\u001b[1m\u001b[31m$ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000049,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.239359,
+      "o"
+    ],
+    [
+      0.207463,
+      "\u0008op"
+    ],
+    [
+      0.135835,
+      "s"
+    ],
+    [
+      0.175887,
+      "c"
+    ],
+    [
+      0.064215,
+      "i"
+    ],
+    [
+      1.057770,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;opsci\u0007\u001b]1;opsci\u0007"
+    ],
+    [
+      0.000682,
+      "zsh: command not found: opsci\r\n"
+    ],
+    [
+      0.000444,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                     \r \r\u001b]2;bubo@obsidian: /tmp\u0007\u001b]1;/tmp\u0007"
+    ],
+    [
+      0.005476,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[1m\u001b[34m#\u001b[00m \u001b[36mbubo \u001b[37mat \u001b[32mobsidian \u001b[37min \u001b[1m\u001b[33m/tmp\u001b[00m \u001b[37m[16:33:15]\r\n\u001b[1m\u001b[31m$ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000114,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.271514,
+      "s"
+    ],
+    [
+      0.176088,
+      "\u0008sh"
+    ],
+    [
+      0.407555,
+      "\u0008\u0008s \u0008"
+    ],
+    [
+      0.080295,
+      "\u0008ss"
+    ],
+    [
+      0.143981,
+      "h"
+    ],
+    [
+      0.384160,
+      " "
+    ],
+    [
+      0.128241,
+      "o"
+    ],
+    [
+      0.151825,
+      "p"
+    ],
+    [
+      0.087899,
+      "s"
+    ],
+    [
+      0.183910,
+      "c"
+    ],
+    [
+      0.055878,
+      "i"
+    ],
+    [
+      0.248805,
+      "\\"
+    ],
+    [
+      0.487257,
+      "\u0008 \u0008"
+    ],
+    [
+      0.273157,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;ssh opsci\u0007\u001b]1;opsci\u0007"
+    ],
+    [
+      0.520120,
+      "Welcome to Ubuntu 14.04.1 LTS (GNU/Linux 3.13.0-46-generic x86_64)\r\n\r\n * Documentation:  https://help.ubuntu.com/\r\n\r\n  System information as of Tue Mar 17 16:19:15 CET 2015\r\n\r\n  System load:  0.17               Processes:               230\r\n  Usage of /:   1.6% of 377.61GB   Users logged in:         1\r\n  Memory usage: 4%                 IP address for eth0:     10.70.10.16\r\n  Swap usage:   0%                 IP address for vboxnet0: 192.168.33.1\r\n\r\n  Graph this data and manage this system at:\r\n    https://landscape.canonical.com/\r\n\r\n*** System restart required ***\r\nLast login: Tue Mar 17 16:19:15 2015 from 10.70.10.87\r\r\n"
+    ],
+    [
+      0.144996,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                     \r \r\u001b]2;rsd@opsci: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.010812,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31mopsci\u001b[00m:\u001b[32m~\u001b[00m $ \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.773509,
+      "l"
+    ],
+    [
+      0.669974,
+      "\u0008 \u0008"
+    ],
+    [
+      1.108025,
+      "\r\r\nConnection to opsci.rsd.com closed.\r\r\n"
+    ],
+    [
+      0.000602,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                     \r \r\u001b]2;bubo@obsidian: /tmp\u0007\u001b]1;/tmp\u0007"
+    ],
+    [
+      0.006374,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mbubo \u001b[37mat \u001b[32mobsidian \u001b[37min \u001b[1m\u001b[33m/tmp\u001b[00m \u001b[37m[16:33:23]\r\n\u001b[1m\u001b[31m$ \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.532594,
+      "\r\r\n"
+    ]
+  ]
+}
