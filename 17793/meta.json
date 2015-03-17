@@ -1,0 +1,1 @@
+{"ID":17793,"Author":{"Name":"oren","ID":0,"FullName":"","Gravatar":"ea28a1533185f15e9364a8db6f9c0bae"},"Title":"Scaling an app with Deis","Description":"\u003cdiv class=\"content\"\u003e\u003cp\u003edeis ps:scale cmd=3 -a culture\u003c/p\u003e\n\u003c/div\u003e","Time":"2015-03-17T19:03:44Z","Tags":["Linux","bash","xterm-256color"]}
