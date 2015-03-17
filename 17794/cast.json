@@ -1,0 +1,286 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 52.722810,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.020329,
+      "\u001b]0;magnus@arch:~/temp\u0007"
+    ],
+    [
+      0.000700,
+      "[magnus@arch temp]$ "
+    ],
+    [
+      1.947344,
+      "l"
+    ],
+    [
+      0.360408,
+      "e"
+    ],
+    [
+      0.290672,
+      "s"
+    ],
+    [
+      0.148389,
+      "s"
+    ],
+    [
+      0.140405,
+      " "
+    ],
+    [
+      0.210505,
+      "r"
+    ],
+    [
+      0.180630,
+      "e"
+    ],
+    [
+      0.360717,
+      "g"
+    ],
+    [
+      0.299052,
+      "ex.html "
+    ],
+    [
+      1.271513,
+      "\r\n"
+    ],
+    [
+      0.002085,
+      "\u001b[?1049h\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.000109,
+      "\u003chtml\u003e\r\n\u003chead\u003e\r\n\u003ctitle\u003eA test page to use for regex\u003c/title\u003e\r\n\u003c/head\u003e\r\n\u003cbody\u003e\r\n\u003cdiv\u003e\r\n\u003cp\u003eNothing much to read  here...\u003c/p\u003e\r\n\u003c/div\u003e\r\n\u003c/body\u003e\r\n\u003c/html\u003e\r\n\r\n\u001b[7mregex.html (END)\u001b[27m\u001b[K"
+    ],
+    [
+      5.569471,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l"
+    ],
+    [
+      0.000677,
+      "\u001b]0;magnus@arch:~/temp\u0007[magnus@arch temp]$ "
+    ],
+    [
+      1.471854,
+      "sed -n '/\u003cbody\u003e/,/\u003c\\/body\u003e/p' regex.html"
+    ],
+    [
+      3.310122,
+      "\r\n"
+    ],
+    [
+      0.010846,
+      "\u003cbody\u003e\r\n"
+    ],
+    [
+      0.000018,
+      "\u003cdiv\u003e\r\n"
+    ],
+    [
+      0.000013,
+      "\u003cp\u003eNothing much to read  here...\u003c/p\u003e\r\n"
+    ],
+    [
+      0.000011,
+      "\u003c/div\u003e\r\n"
+    ],
+    [
+      0.000148,
+      "\u003c/body\u003e\r\n"
+    ],
+    [
+      0.000656,
+      "\u001b]0;magnus@arch:~/temp\u0007"
+    ],
+    [
+      0.000303,
+      "[magnus@arch temp]$ "
+    ],
+    [
+      5.709305,
+      "#"
+    ],
+    [
+      0.401572,
+      " "
+    ],
+    [
+      1.299837,
+      "A"
+    ],
+    [
+      0.310673,
+      "g"
+    ],
+    [
+      0.200533,
+      "a"
+    ],
+    [
+      0.140214,
+      "i"
+    ],
+    [
+      0.228604,
+      "n"
+    ],
+    [
+      0.741933,
+      "."
+    ],
+    [
+      0.178679,
+      "."
+    ],
+    [
+      0.190111,
+      "."
+    ],
+    [
+      0.712886,
+      "\r\n\u001b]0;magnus@arch:~/temp\u0007[magnus@arch temp]$ "
+    ],
+    [
+      2.087974,
+      "\u001b[H\u001b[2J[magnus@arch temp]$ "
+    ],
+    [
+      1.011060,
+      "l"
+    ],
+    [
+      0.209905,
+      "e"
+    ],
+    [
+      0.260630,
+      "s"
+    ],
+    [
+      0.170431,
+      "s"
+    ],
+    [
+      0.120190,
+      " "
+    ],
+    [
+      0.549586,
+      "r"
+    ],
+    [
+      0.190217,
+      "e"
+    ],
+    [
+      0.281088,
+      "g"
+    ],
+    [
+      0.248926,
+      "ex.html "
+    ],
+    [
+      0.751806,
+      "\r\n"
+    ],
+    [
+      0.002457,
+      "\u001b[?1049h\u001b[?1h\u001b=\r\u003chtml\u003e\r\n\u003chead\u003e\r\n\u003ctitle\u003eA test page to use for regex\u003c/title\u003e\r\n\u003c/head\u003e\r\n\u003cbody\u003e\r\n\u003cdiv\u003e\r\n\u003cp\u003eNothing much to read  here...\u003c/p\u003e\r\n\u003c/div\u003e\r\n\u003c/body\u003e\r\n\u003c/html\u003e\r\n\r\n\u001b[7mregex.html (END)\u001b[27m\u001b[K"
+    ],
+    [
+      4.759239,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l"
+    ],
+    [
+      0.000057,
+      "\u001b]0;magnus@arch:~/temp\u0007[magnus@arch temp]$ "
+    ],
+    [
+      1.121678,
+      "sed -n '/\u003cbody\u003e/,/\u003c\\/body\u003e/p' regex.html"
+    ],
+    [
+      2.759683,
+      "\r\n"
+    ],
+    [
+      0.007901,
+      "\u003cbody\u003e\r\n"
+    ],
+    [
+      0.000014,
+      "\u003cdiv\u003e\r\n\u003cp\u003eNothing much to read  here...\u003c/p\u003e\r\n"
+    ],
+    [
+      0.000008,
+      "\u003c/div\u003e\r\n"
+    ],
+    [
+      0.000046,
+      "\u003c/body\u003e\r\n"
+    ],
+    [
+      0.000601,
+      "\u001b]0;magnus@arch:~/temp\u0007"
+    ],
+    [
+      0.000182,
+      "[magnus@arch temp]$ "
+    ],
+    [
+      7.455703,
+      "#"
+    ],
+    [
+      1.399612,
+      " "
+    ],
+    [
+      0.280564,
+      "b"
+    ],
+    [
+      0.230283,
+      "y"
+    ],
+    [
+      0.248659,
+      "e"
+    ],
+    [
+      1.120201,
+      "."
+    ],
+    [
+      0.180294,
+      "."
+    ],
+    [
+      0.160075,
+      "."
+    ],
+    [
+      0.590429,
+      "\r\n\u001b]0;magnus@arch:~/temp\u0007[magnus@arch temp]$ "
+    ],
+    [
+      0.811606,
+      "exit\r\n"
+    ]
+  ]
+}
