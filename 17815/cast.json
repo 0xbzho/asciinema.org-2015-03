@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "width": 153,
+  "height": 44,
+  "duration": 13.577811,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.124708,
+      "\u001b7\u001b]2;mroeh@de1200ca.berendsen.net:~\u0007\u001b]1;de1200ca.berendsen.net\u0007\u001b8mroeh@de1200ca:~\u003e "
+    ],
+    [
+      3.883342,
+      "c"
+    ],
+    [
+      0.096021,
+      "d"
+    ],
+    [
+      0.119527,
+      " "
+    ],
+    [
+      0.312301,
+      "/"
+    ],
+    [
+      0.304196,
+      "t"
+    ],
+    [
+      0.143952,
+      "m"
+    ],
+    [
+      0.216155,
+      "p"
+    ],
+    [
+      0.240798,
+      "\r\n"
+    ],
+    [
+      0.002321,
+      "\u001b7\u001b]2;mroeh@de1200ca.berendsen.net:/tmp\u0007\u001b]1;de1200ca.berendsen.net\u0007\u001b8mroeh@de1200ca:/tmp\u003e "
+    ],
+    [
+      0.500986,
+      "l"
+    ],
+    [
+      0.063291,
+      "s"
+    ],
+    [
+      0.088287,
+      " "
+    ],
+    [
+      0.168313,
+      "-"
+    ],
+    [
+      0.376150,
+      "a"
+    ],
+    [
+      0.151727,
+      "l"
+    ],
+    [
+      0.192676,
+      "\r\n"
+    ],
+    [
+      0.064899,
+      "insgesamt 1508\r\ndrwxrwxrwt 50 root  root      12288 18. Mär 15:42 \u001b[0m\u001b[30;42m.\u001b[0m\r\ndrwxr-xr-x 27 root  root       4096 18. Mär 08:47 \u001b[01;34m..\u001b[0m\r\ndrwxrwxrwt  2 mroeh users      4096 18. Mär 08:47 \u001b[30;42makonadi-mroeh.TNHZHM\u001b[0m\r\n-rw-------  1 mroeh domusers      0 18. Mär 15:42 \u001b[00masciicast-262449960\u001b[0m\r\n-rw-r--r--  1 mroeh domusers   7425 16. Mär 11:43 \u001b[00mBerendsen.conf\u001b[0m\r\n-rw-r--r--  1 mroeh users    210128  5. Mär 2014  \u001b[01;35mberendsen_mysql_grants_glweb.png\u001b[0m\r\n-rw-r--r--  1 mroeh users      8642 26. Feb 2014  \u001b[01;35mberendsen_new_logo.png\u001b[0m\r\n-rw-------  1 mroeh users      7120  7. Jan 15:58 \u001b[00mchat.txt\u001b[0m\r\ndrwxr-xr-x  5 mroeh users      4096 30. Mai 2014  \u001b[01;34mduc-master\u001b[0m\r\ndrwx------  2 root  root       4096  5. Jan 09:29 \u001b[01;34m.esd-0\u001b[0m\r\ndrwxrwxrwt  2 mroeh users      4096 10. Mär 11:06 \u001b[30;42m.esd-1000\u001b[0m\r\ndrwx------  2 mroeh domusers   4096 18. Mär 08:47 \u001b[01;34m.esd-1001\u001b[0m\r\ndrwxrwxrwt  2 root  root       4096 13. Feb 2013  \u001b[30;42m.font-unix\u001b[0m\r\n-rw-r--r--  1 mroeh domusers  28849 17. Mär 14:34 \u001b[01;35mforeman.jpg\u001b[0m\r\n-rw-r--r--  1 mroeh domusers 743706 18. Mär 14:44 \u001b[00mFoxPro (1).pdf\u001b[0m\r\ndrwx------  2 mroeh domusers   4096 18. Mär 08:46 \u001b[01;34mgpg-AW6fko\u001b[0m\r\ndrwx------  2 mroeh users      4096  4. Mär 21:40 \u001b[01;34mgpg-BdW5sl\u001b[0m\r\ndrwx------  2 mroeh domusers   4096 17. Mär 08:45 \u001b[01;34mgpg-lvuTWq\u001b[0m\r\ndrwx------  2 mroeh domusers   4096 13. Mär 08:54 \u001b[01;34mgpg-pOsx6u\u001b[0m\r\nprw-------  1 root  root          0 18. Mär 08:47 \u001b[40;33mhogsuspend\u001b[0m\r\ndrwxr-xr-x  2 mroeh users      4096 11. Mär 16:51 \u001b[01;34mhsperfdata_mroeh\u001b[0m\r\ndrwxr-xr-x  2 root  root       4096 25. Nov 17:18 \u001b[01;34mhsperfdata_root\u001b[0m\r\ndrwx------  2 mroeh users      4096 29. Jan 2014  \u001b[01;34micedteaplugin-mroeh\u001b[0m\r\ndrwx------  2 root  root       4096  5. Nov 15:47 \u001b[01;34micedteaplugin-root-xeKsQl\u001b[0m\r\ndrwxrwxrwt  2 root  root       4096 18. Mär 08:47 \u001b[30;42m.ICE-unix\u001b[0m\r\n-rw-r--r--  1 mroeh domusers   8568 18. Mär 10:29 \u001b[01;35mimage001.png\u001b[0m\r\ndrwx------  2 kdm   kdm        4096 18. Mär 08:46 \u001b[01;34mkde-kdm\u001b[0m\r\ndrwxrwxrwt 12 mroeh users     12288 18. Mär 08:47 \u001b[30;42mkde-mroeh\u001b[0m\r\ndrwx------  2 root  root       4096 29. Jan 08:28 \u001b[01;34mkde-root\u001b[0m\r\ndrwx------  2 kdm   kdm        4096 18. Mär 08:46 \u001b[01;34mksocket-kdm\u001b[0m\r\ndrwxrwxrwt  2 mroeh users     20480 24. Nov 14:51 \u001b[30;42mksocket-mroeh\u001b[0m\r\ndrwx------  2 root  root       4096 20. Jun 2014  \u001b[01;34mksocket-root\u001b[0m\r\ndrwxr-xr-x  2 root  root       4096 19. Mai 2014  \u001b[01;34m.libs\u001b[0m\r\ndrwxrwxrwt  2 root  root      16384 13. Feb 2013  \u001b[30;42mlost+found\u001b[0m\r\ndrwx------  2 mroeh users      4096  4. Feb 18:21 \u001b[01;34mluqxq4bf.tmp\u001b[0m\r\ndrwx------  2 mroeh users      4096 16. Jan 11:01 \u001b[01;34mmc-mroeh\u001b[0m\r\ndrwx------  2 mroeh users      4096  6. Mär 09:36 \u001b[01;34mMozillaMailnews\u001b[0m\r\ndrwxrwxrwt  4 mroeh users      4096 27. Nov 2013  \u001b[30;42mmroeh\u001b[0m\r\ndrwx------  2 mroeh domusers   4096 17. Mär 17:49 \u001b[01;34mmysql-workbench.mroeh\u001b[0m\r\ndrwxr-xr-x 10 mroeh users      4096  9. Apr 2014  \u001b[01;34mOcsinventory-Unix-Agent-2.1\u001b[0m\r\ndrwx------  2 mroeh users      4096  1. Jan 1970  \u001b[01;34morbit-mroeh\u001b[0m\r\ndrwx------  2 mroeh users      4096  8. Apr 2014  \u001b[01;34m.org.chromium.Chromium.2TIH4r\u001b[0m\r\ndrwx------  2 mroeh users      4096 18. Feb 2014  \u001b[01;34m.org.chromium.Chromium.DX70as\u001b[0m\r\ndrwxr-xr-x  3 mroeh users      4096  5. Jun 2014  \u001b[01;34mowncloud\u001b[0m\r\ndrwx------  2 mroeh domusers   4096 18. Mär 13:40 \u001b[01;34mplugtmp\u001b[0m\r\ndrwxr-xr-x  2 mroeh users      4096 18. Mär 2014  \u001b[01;34mproject-open-VMware-4.0.4.0.0-final\u001b[0m\r\n-rw-r-----  1 mroeh domusers      0 18. Mär 08:47 \u001b[00mqipc_sharedmemory_qtsingleapplicationbfdea197b12d8f91a6a6cea6c2bacb0ae4a20d33f380\u001b[0m\r\n-rw-r-----  1 mroeh domusers      0 18. Mär 08:47 \u001b[00mqipc_systemsem_qtsingleapplicationbfdea197b12d8f91a6a6cea6c2bacb0ae4a20d33f380\u001b[0m\r\nsrwxr-xr-x  1 mroeh domusers      0 18. Mär 08:47 \u001b[01;35mqtsingleapplication-9086-3e9\u001b[0m\r\n-rw-r--r--  1 mroeh domusers      0 18. Mär 08:47 \u001b[00mqtsingleapplication-9086-3e9-lockfile\u001b[0m\r\n-rw-r--r--  1 mroeh users   "
+    ],
+    [
+      0.000051,
+      "  56123 22. Sep 16:49 \u001b[00msmb_password_date_nb_user.ods\u001b[0m\r\n-rw-r--r--  1 mroeh users     71642 22. Sep 16:43 \u001b[00msmb_password_date_pc_user.ods\u001b[0m\r\ndrwx------  2 mroeh domusers   4096 18. Mär 08:46 \u001b[01;34mssh-8pdBliytJFQV\u001b[0m\r\ndrwx------  2 mroeh users      4096 13. Feb 08:54 \u001b[01;34mssh-CC3Gypd10aFb\u001b[0m\r\ndrwx------  2 mroeh users      4096  6. Mär 09:13 \u001b[01;34mssh-f5R2Y8F3v2yN\u001b[0m\r\ndrwx------  2 mroeh domusers   4096 16. Mär 09:49 \u001b[01;34mssh-GWvv6tOK13KJ\u001b[0m\r\ndrwx------  2 mroeh users      4096  4. Mär 21:40 \u001b[01;34mssh-Us8ZXN5hXwuH\u001b[0m\r\n-rw-r--r--  1 mroeh users      7375 11. Apr 2014  \u001b[00mstore_size.csv\u001b[0m\r\n-rw-r--r--  1 mroeh users     57064 11. Apr 2014  \u001b[00mstore_size.ods\u001b[0m\r\ndrwx------  3 root  root       4096 18. Mär 08:47 \u001b[01;34msystemd-private-00761ab25b4d41da92733703df64d6a3-rtkit-daemon.service-iBeyRi\u001b[0m\r\n-rw-r--r--  1 mroeh domusers  40006 18. Mär 14:41 \u001b[00m.._temp_Newsletter 51.pdf\u001b[0m\r\ndrwxrwxrwt  2 root  root       4096 13. Feb 2013  \u001b[30;42m.Test-unix\u001b[0m\r\ndrwx------  4 mroeh users      4096  6. Mai 2014  \u001b[01;34m.Trash-1000\u001b[0m\r\ndrwxr-xr-x  3 mroeh users      4096 12. Feb 11:44 \u001b[01;34mts01desrv01\u001b[0m\r\n-rw-r--r--  1 mroeh users     17917 22. Aug 2014  \u001b[00multravnc_repeater.pl\u001b[0m\r\ndrwx------  2 mroeh users      4096 23. Jan 08:55 \u001b[01;34m.vbox-mroeh-ipc\u001b[0m\r\ndrwx------  8 mroeh users      4096 15. Dez 15:14 \u001b[01;34m.wine-1000\u001b[0m\r\n-r--r--r--  1 root  root         11 18. Mär 08:46 \u001b[00m.X0-lock\u001b[0m\r\ndrwxrwxrwt  2 root  root       4096 18. Mär 08:46 \u001b[30;42m.X11-unix\u001b[0m\r\ndrwxrwxrwt  2 root  root       4096 13. Feb 2013  \u001b[30;42m.XIM-unix\u001b[0m\r\n"
+    ],
+    [
+      0.002794,
+      "\u001b7\u001b]2;mroeh@de1200ca.berendsen.net:/tmp\u0007\u001b]1;de1200ca.berendsen.net\u0007\u001b8mroeh@de1200ca:/tmp\u003e "
+    ],
+    [
+      0.563545,
+      "l"
+    ],
+    [
+      0.071823,
+      "e"
+    ],
+    [
+      0.264094,
+      "s"
+    ],
+    [
+      0.176027,
+      "s"
+    ],
+    [
+      0.143766,
+      " "
+    ],
+    [
+      0.568322,
+      "u"
+    ],
+    [
+      0.384527,
+      "ltravnc_repeater.pl "
+    ],
+    [
+      0.640206,
+      "\r\n"
+    ],
+    [
+      0.052628,
+      "\u001b[?1049h\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.000210,
+      "#!/usr/bin/env perl\u001b[m\r\n#\u001b[m\r\n# Copyright (c) 2009-2010 by Karl J. Runge \u003crunge@karlrunge.com\u003e\u001b[m\r\n#\u001b[m\r\n# ultravnc_repeater.pl is free software; you can redistribute it and/or modify\u001b[m\r\n# it under the terms of the GNU General Public License as published by\u001b[m\r\n# the Free Software Foundation; either version 2 of the License, or (at\u001b[m\r\n# your option) any later version.\u001b[m\r\n# \u001b[m\r\n# ultravnc_repeater.pl is distributed in the hope that it will be useful,\u001b[m\r\n# but WITHOUT ANY WARRANTY; without even the implied warranty of\u001b[m\r\n# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\u001b[m\r\n# GNU General Public License for more details.\u001b[m\r\n# \u001b[m\r\n# You should have received a copy of the GNU General Public License\u001b[m\r\n# along with ultravnc_repeater.pl; if not, write to the Free Software\u001b[m\r\n# Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA\u001b[m\r\n# or see \u003chttp://www.gnu.org/licenses/\u003e.\u001b[m\r\n# \u001b[m\r\n\u001b[m\r\nmy $usage = '\u001b[m\r\nultravnc_repeater.pl:\u001b[m\r\n          perl script implementing the ultravnc repeater\u001b[m\r\n          proxy pr"
+    ],
+    [
+      0.000339,
+      "otocol.\u001b[m\r\n\u001b[m\r\nprotocol: Listen on one port for vnc clients (default 5900.)\u001b[m\r\n          Listen on one port for vnc servers (default 5500.)\u001b[m\r\n          Read 250 bytes from connecting vnc client or server.\u001b[m\r\n          Accept ID:\u003cstring\u003e from clients and servers, connect them\u001b[m\r\n          together once both are present.\u001b[m\r\n\u001b[m\r\n          The string \"RFB 000.000\\n\" is sent to the client (the client\u001b[m\r\n          must understand this means send ID:... or host:port.)\u001b[m\r\n          Also accept \u003chost\u003e:\u003cport\u003e from clients and make the\u001b[m\r\n          connection to the vnc server immediately. \u001b[m\r\n\u001b[m\r\n          Note there is no authentication or security WRT ID names or\u001b[m\r\n          identities; it is up to the client and server to completely\u001b[m\r\n          manage that aspect and whether to encrypt the session, etc.\u001b[m\r\n\u001b[m\r\nusage:  ultravnc_repeater.pl [-r] [client_port [server_port]]\u001b[m\r\n\u001b[m\r\nUse -r to refuse new server/client connections when there is an existing\u001b[m\r\n"
+    ],
+    [
+      0.000155,
+      "\u001b[7multravnc_repeater.pl lines 1-43/741 10%\u001b[27m\u001b[K"
+    ],
+    [
+      1.610480,
+      "\r\u001b[Kserver/client ID.  The default is to close the previous one.\u001b[m\r\n\u001b[m\r\nTo write to a log file set the env. var ULTRAVNC_REPEATER_LOGFILE.\u001b[m\r\n\u001b[m\r\nTo run in a loop restarting the server if it exits set the env. var.\u001b[m\r\nULTRAVNC_REPEATER_LOOP=1 or ULTRAVNC_REPEATER_LOOP=BG, the latter\u001b[m\r\nforks into the background.  Set ULTRAVNC_REPEATER_PIDFILE to a file\u001b[m\r\nto store the master pid in.\u001b[m\r\n\u001b[m\r\nSet ULTRAVNC_REPEATER_NO_RFB=1 to disable sending \"RFB 000.000\" to\u001b[m\r\nthe client.  Then this program acts as general TCP rendezvous tool.\u001b[m\r\n\u001b[m\r\nExamples:\u001b[m\r\n\u001b[m\r\n        ultravnc_repeater.pl\u001b[m\r\n        ultravnc_repeater.pl -r\u001b[m\r\n        ultravnc_repeater.pl 5901\u001b[m\r\n        ultravnc_repeater.pl 5901 5501\u001b[m\r\n\u001b[m\r\n        env ULTRAVNC_REPEATER_LOOP=BG ULTRAVNC_REPEATER_LOGFILE=/tmp/u.log ultravnc_repeater.pl ...\u001b[m\r\n\u001b[m\r\n';\u001b[m\r\n\u001b[m\r\nuse strict;\u001b[m\r\n\u001b[m\r\n# Set up logging:\u001b[m\r\n#\u001b[m\r\nif (exists $ENV{ULTRAVNC_REPEATER_LOGFILE}) {\u001b[m\r\n        close STDOUT;\u001b[m\r\n        if (!open(STDOUT, \"\u003e\u003e$ENV{ULTRAVNC_REPEATER_LOGFILE}\")) {\u001b[m\r\n                die \"ultravnc_repeater.pl: $ENV{ULTRAVNC_REPEATER_LOGFILE} $!\\n\";\u001b[m\r\n        }\u001b[m\r\n        close STDERR;\u001b[m\r\n        open(STDERR, \"\u003e\u0026STDOUT\");\u001b[m\r\n}\u001b[m\r\nselect(STDERR); $| = 1;\u001b[m\r\nselect(STDOUT); $| = 1;\u001b[m\r\n\u001b[m\r\n# interrupt handler:\u001b[m\r\n#\u001b[m\r\nmy $looppid = '';\u001b[m\r\nmy $pidfile = '';\u001b[m\r\n#\u001b[m\r\n\u001b[7multravnc_repeater.pl lines 44-86/741 16%\u001b[27m\u001b[K"
+    ],
+    [
+      0.983614,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l"
+    ],
+    [
+      0.003151,
+      "\u001b7\u001b]2;mroeh@de1200ca.berendsen.net:/tmp\u0007\u001b]1;de1200ca.berendsen.net\u0007\u001b8mroeh@de1200ca:/tmp\u003e "
+    ],
+    [
+      1.062248,
+      "exit\r\n"
+    ]
+  ]
+}
