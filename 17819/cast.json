@@ -1,0 +1,230 @@
+{
+  "version": 1,
+  "width": 151,
+  "height": 40,
+  "duration": 22.288397,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "screen",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.475505,
+      "/home/anand/.virtualenvs/exp/bin/python: No module named virtualenvwrapper\r\n"
+    ],
+    [
+      0.018123,
+      "virtualenvwrapper.sh: There was a problem running the initialization hooks. \r\n\r\nIf Python could not import the module virtualenvwrapper.hook_loader,\r\ncheck that virtualenvwrapper has been installed for\r\n"
+    ],
+    [
+      0.000030,
+      "VIRTUALENVWRAPPER_PYTHON=/home/anand/.virtualenvs/exp/bin/python and that PATH is\r\nset properly.\r\n"
+    ],
+    [
+      0.030366,
+      "/home/anand/.oh-my-zsh/custom/custom.zsh:source:37: no such file or directory: /usr/local/bin/virtualenv-auto-activate.sh\r\n"
+    ],
+    [
+      0.012538,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                      \r \r"
+    ],
+    [
+      0.000097,
+      "\u001bk..ango/junction\u001b\\"
+    ],
+    [
+      0.127289,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\r\n"
+    ],
+    [
+      0.000032,
+      "(\u001b[34mexp\u001b[00m) \u001b[35manand\u001b[00m at \u001b[33manand-X550EA\u001b[00m in \u001b[32m~/projects/python/django/junction\u001b[00m (\u001b[36madmin\u001b[33m●\u001b[31m●\u001b[00m) \u001b[00m|\r\n$ "
+    ],
+    [
+      0.000020,
+      "\u001b[K"
+    ],
+    [
+      0.000251,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      12.891808,
+      "\u001b[H\u001b[J\u001b[0m\u001b[23m\u001b[24m\u001b[J\r\n(\u001b[34mexp\u001b[00m) \u001b[35manand\u001b[00m at \u001b[33manand-X550EA\u001b[00m in \u001b[32m~/projects/python/django/junction\u001b[00m (\u001b[36madmin\u001b[33m●\u001b[31m●\u001b[00m) \u001b[00m|\r\n$ \u001b[K"
+    ],
+    [
+      0.397808,
+      "l"
+    ],
+    [
+      0.142918,
+      "\u0008ls"
+    ],
+    [
+      0.227848,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001bkls\u001b\\"
+    ],
+    [
+      0.007026,
+      "CONTRIBUTING.md   db          debug.log   \u001b[0m\u001b[01;34mdocs\u001b[0m     \u001b[01;34mjunction\u001b[0m  \u001b[01;32mmanage.py\u001b[0m   README.md      requirements-dev.txt  \u001b[01;34msettings\u001b[0m   \u001b[01;34mtests\u001b[0m    wsgi.pyc\r\n"
+    ],
+    [
+      0.000027,
+      "CONTRIBUTORS.txt  db.sqlite3  Dockerfile  fig.yml  LICENSE   mkdocs.yml  \u001b[01;32mregenerate.sh\u001b[0m  requirements.txt      setup.cfg  wsgi.py\r\n"
+    ],
+    [
+      0.000785,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                      \r \r"
+    ],
+    [
+      0.000324,
+      "\u001bk..ango/junction\u001b\\"
+    ],
+    [
+      0.066859,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\r\n"
+    ],
+    [
+      0.000025,
+      "(\u001b[34mexp\u001b[00m) \u001b[35manand\u001b[00m at \u001b[33manand-X550EA\u001b[00m in \u001b[32m~/projects/python/django/junction\u001b[00m (\u001b[36madmin\u001b[33m●\u001b[31m●\u001b[00m) \u001b[00m|\r\n$ \u001b[K"
+    ],
+    [
+      0.000136,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.782811,
+      "l"
+    ],
+    [
+      0.162931,
+      "\u0008ls"
+    ],
+    [
+      0.213241,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001bkls\u001b\\"
+    ],
+    [
+      0.005894,
+      "CONTRIBUTING.md   db          debug.log   \u001b[0m\u001b[01;34mdocs\u001b[0m     \u001b[01;34mjunction\u001b[0m  \u001b[01;32mmanage.py\u001b[0m   README.md      requirements-dev.txt  \u001b[01;34msettings\u001b[0m   \u001b[01;34mtests\u001b[0m    wsgi.pyc\r\n"
+    ],
+    [
+      0.000015,
+      "CONTRIBUTORS.txt  db.sqlite3  Dockerfile  fig.yml  LICENSE   mkdocs.yml  \u001b[01;32mregenerate.sh\u001b[0m  requirements.txt      setup.cfg  wsgi.py\r\n"
+    ],
+    [
+      0.000460,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                      \r \r"
+    ],
+    [
+      0.000199,
+      "\u001bk..ango/junction\u001b\\"
+    ],
+    [
+      0.067305,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\r\n"
+    ],
+    [
+      0.000019,
+      "(\u001b[34mexp\u001b[00m) \u001b[35manand\u001b[00m at \u001b[33manand-X550EA\u001b[00m in \u001b[32m~/projects/python/django/junction\u001b[00m (\u001b[36madmin\u001b[33m●\u001b[31m●\u001b[00m) \u001b[00m|\r\n$ \u001b[K"
+    ],
+    [
+      0.000136,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.108046,
+      "c"
+    ],
+    [
+      0.084704,
+      "\u0008cd"
+    ],
+    [
+      0.161116,
+      "\u001b[?1l\u001b\u003e\r\r\n"
+    ],
+    [
+      0.001538,
+      "\u001bkcd\u001b\\"
+    ],
+    [
+      0.005357,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                      \r \r"
+    ],
+    [
+      0.000154,
+      "\u001bk~\u001b\\"
+    ],
+    [
+      0.053254,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\r\n"
+    ],
+    [
+      0.000030,
+      "(\u001b[34mexp\u001b[00m) \u001b[35manand\u001b[00m at \u001b[33manand-X550EA\u001b[00m in \u001b[32m~\u001b[00m \u001b[00m|\r\n$ \u001b[K"
+    ],
+    [
+      0.000641,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.377729,
+      "j"
+    ],
+    [
+      0.409413,
+      "\u0008j "
+    ],
+    [
+      0.103313,
+      "j"
+    ],
+    [
+      0.341764,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001bkj\u001b\\"
+    ],
+    [
+      0.010055,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                      \r \r"
+    ],
+    [
+      0.000233,
+      "\u001bk..ango/junction\u001b\\"
+    ],
+    [
+      0.077203,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\r\n"
+    ],
+    [
+      0.000021,
+      "(\u001b[34mexp\u001b[00m) \u001b[35manand\u001b[00m at \u001b[33manand-X550EA\u001b[00m in \u001b[32m~/projects/python/django/junction\u001b[00m (\u001b[36madmin\u001b[33m●\u001b[31m●\u001b[00m) \u001b[00m|\r\n$ \u001b[K"
+    ],
+    [
+      0.000161,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.952218,
+      "e"
+    ],
+    [
+      0.238778,
+      "\u0008ex"
+    ],
+    [
+      0.152784,
+      "i"
+    ],
+    [
+      0.173063,
+      "t"
+    ],
+    [
+      0.398367,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001bkexit\u001b\\"
+    ]
+  ]
+}
