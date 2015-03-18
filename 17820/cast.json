@@ -1,0 +1,890 @@
+{
+  "version": 1,
+  "width": 151,
+  "height": 40,
+  "duration": 77.827116,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "screen",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.263467,
+      "fatal: Not a git repository (or any of the parent directories): .git\r\n"
+    ],
+    [
+      0.053235,
+      "/home/anand/.virtualenvs/exp/bin/python: No module named virtualenvwrapper"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.006575,
+      "virtualenvwrapper.sh: There was a problem running the initialization hooks. \r\n"
+    ],
+    [
+      0.000023,
+      "\r\nIf Python could not import the module virtualenvwrapper.hook_loader,\r\ncheck that virtualenvwrapper has been installed for\r\nVIRTUALENVWRAPPER_PYTHON=/home/anand/.virtualenvs/exp/bin/python and that PATH is\r\nset properly.\r\n"
+    ],
+    [
+      0.004714,
+      "/home/anand/.oh-my-zsh/custom/custom.zsh:source:37: no such file or directory: /usr/local/bin/virtualenv-auto-activate.sh"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.010243,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                      \r \r"
+    ],
+    [
+      0.000084,
+      "\u001bk~\u001b\\"
+    ],
+    [
+      0.041462,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\r\n(\u001b[34mexp\u001b[00m) \u001b[35manand\u001b[00m at \u001b[33manand-X550EA\u001b[00m in \u001b[32m~\u001b[00m \u001b[00m|\r\n"
+    ],
+    [
+      0.000038,
+      "$ \u001b[K"
+    ],
+    [
+      0.000235,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.522805,
+      "e"
+    ],
+    [
+      0.596381,
+      "\u0008em"
+    ],
+    [
+      0.183832,
+      "a"
+    ],
+    [
+      0.230677,
+      "c"
+    ],
+    [
+      0.191300,
+      "s"
+    ],
+    [
+      0.301301,
+      " "
+    ],
+    [
+      0.680122,
+      "-"
+    ],
+    [
+      0.463962,
+      "n"
+    ],
+    [
+      0.170961,
+      "d"
+    ],
+    [
+      0.399445,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001bkemacs\u001b\\"
+    ],
+    [
+      11.108121,
+      "^C"
+    ],
+    [
+      0.519829,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                      \r \r\u001bk~\u001b\\"
+    ],
+    [
+      0.019807,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\r\n(\u001b[34mexp\u001b[00m) \u001b[35manand\u001b[00m at \u001b[33manand-X550EA\u001b[00m in \u001b[32m~\u001b[00m \u001b[00m|\r\n"
+    ],
+    [
+      0.000024,
+      "$ \u001b[K"
+    ],
+    [
+      0.002412,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.735534,
+      "e"
+    ],
+    [
+      1.745245,
+      "\u0008em"
+    ],
+    [
+      0.156278,
+      "a"
+    ],
+    [
+      0.236587,
+      "c"
+    ],
+    [
+      0.236148,
+      "s"
+    ],
+    [
+      0.307016,
+      " "
+    ],
+    [
+      1.182644,
+      "-"
+    ],
+    [
+      0.258260,
+      "t"
+    ],
+    [
+      0.381699,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001bkemacs\u001b\\"
+    ],
+    [
+      0.033403,
+      "emacs: "
+    ],
+    [
+      0.000024,
+      "Option `-t' requires an argument\r\n"
+    ],
+    [
+      0.004850,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                      \r \r\u001bk~\u001b\\"
+    ],
+    [
+      0.014461,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\r\n(\u001b[34mexp\u001b[00m) \u001b[35manand\u001b[00m at \u001b[33manand-X550EA\u001b[00m in \u001b[32m~\u001b[00m \u001b[00m|\r\n$ "
+    ],
+    [
+      0.000015,
+      "\u001b[K"
+    ],
+    [
+      0.000069,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.196039,
+      "m"
+    ],
+    [
+      0.180224,
+      "\u0008ma"
+    ],
+    [
+      0.121513,
+      "n"
+    ],
+    [
+      0.922542,
+      " "
+    ],
+    [
+      0.048828,
+      "e"
+    ],
+    [
+      0.126988,
+      "m"
+    ],
+    [
+      0.166860,
+      "a"
+    ],
+    [
+      0.398658,
+      "c"
+    ],
+    [
+      0.206386,
+      "s"
+    ],
+    [
+      0.389577,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001bkman\u001b\\"
+    ],
+    [
+      0.214305,
+      "\u001b[?1049h\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.258320,
+      "EMACS(1)                                                      General Commands Manual                                                      EMACS(1)\u001b[m\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[m\r\n\u001b[m\r\n\u001b[m\r\n\u001b[1;31mNAME\u001b[0m\u001b[m\r\n       emacs - GNU project Emacs\u001b[m\r\n\u001b[m"
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[1;31mSYNOPSIS\u001b[0m\u001b[m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "       \u001b[1;31memacs\u001b[0m [ \u001b[1;32mcommand-line\u001b[0m \u001b[1;32mswitches\u001b[0m ] [ \u001b[1;32mfiles\u001b[0m \u001b[1;32m...\u001b[0m ]\u001b[m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1;31mDESCRIPTION\u001b[0m\u001b[m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "       \u001b[1;32mGNU\u001b[0m  \u001b[1;32mEmacs\u001b[0m  is  a  version  of \u001b[1;32mEmacs\u001b[0m, written by the author of the original (PDP-10) \u001b[1;32mEmacs\u001b[0m, Richard Stallman.  The user functionality of GNU\u001b[m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "       Emacs encompasses everything other editors do, and it is easily extensible since its editing commands are written in Lisp.\u001b[m\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[m\r\n"
+    ],
+    [
+      0.000007,
+      "       The primary documentation of GNU Emacs is in the GNU Emacs Manual, which you can read using Info, either from Emacs or as a standalone  pro‐\u001b[m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "       gram.  Please look there for complete and up-to-date documentation.  This man page is updated only when someone volunteers to do so.\u001b[m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "     "
+    ],
+    [
+      0.000364,
+      "  \u001b[1;32mEmacs\u001b[0m has an extensive interactive help facility, but the facility assumes that you know how to manipulate \u001b[1;32mEmacs\u001b[0m windows and buffers.  CTRL-\u001b[m\r\n       h or F1 enters the Help facility.  Help Tutorial (CTRL-h t) starts an interactive tutorial to quickly teach beginners  the  fundamentals  of\u001b[m\r\n       \u001b[1;32mEmacs.\u001b[0m   Help  Apropos  (CTRL-h  a) helps you find a command with a name matching a given pattern, Help Key (CTRL-h k) describes a given key\u001b[m"
+    ],
+    [
+      0.000010,
+      "\r\n       sequence, and Help Function (CTRL-h f) describes a given Lisp function.\u001b[m\r\n\u001b[m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "       \u001b[1;32mGNU\u001b[0m \u001b[1;32mEmacs\u001b[0m's many special packages handle mail reading (RMail) and sending (Mail), outline editing (Outline),  compiling  (Compile),  running\u001b[m"
+    ],
+    [
+      0.000009,
+      "\r\n       subshells  within  \u001b[1;32mEmacs\u001b[0m windows (Shell), running a Lisp read-eval-print loop (Lisp-Interaction-Mode), automated psychotherapy (Doctor), and\u001b[m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "       much more.\u001b[m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "   \u001b[1;31mEmacs\u001b[0m \u001b[1;31mOptions\u001b[0m\u001b[m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "       The following options are of general interest:\u001b"
+    ],
+    [
+      0.000413,
+      "[m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[m\r\n"
+    ],
+    [
+      0.000006,
+      "              \u001b[1;32mfile\u001b[0m    Edit \u001b[1;32mfile\u001b[0m.\u001b[m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "              \u001b[1;31m--file\u001b[0m \u001b[1;32mfile\u001b[0m, \u001b[1;31m--find-file\u001b[0m \u001b[1;32mfile\u001b[0m, \u001b[1;31m--visit\u001b[0m \u001b[1;32mfile\u001b[0m\u001b[m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "                      The same as specifying \u001b[1;32mfile\u001b[0m directly as an argument.\u001b[m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "              \u001b[1;31m+\u001b[0m\u001b[1;32mnumber\u001b[0m Go to the line specified by \u001b[1;32mnumber\u001b[0m (do not insert a space between the \"+\" sign and the number).  This  applies  only  to  the\u001b[m"
+    ],
+    [
+      0.000008,
+      "\r\n                      next file specified.\u001b[m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "              \u001b[1;31m+\u001b[0m\u001b[1;32mline:column\u001b[0m\u001b[m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "                      Go to the specified \u001b[1;32mline\u001b[0m and \u001b[1;32mcolumn\u001b[0m.\u001b[m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1;44;33m Manual page emacs(1) line 1 (press h for help or q to quit)\u001b[0m\u001b[K"
+    ],
+    [
+      2.872760,
+      "\r\u001b[K\u001b[m\r\n              \u001b[1;31m--chdir\u001b[0m \u001b[1;32mdirectory\u001b[0m\u001b[m\r\n                      Change to \u001b[1;32mdirectory\u001b[0m.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m-q\u001b[0m, \u001b[1;31m--no-init-file\u001b[0m\u001b[m\r\n                      Do not load an init file.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m-nl\u001b[0m, \u001b[1;31m--no-shared-memory\u001b[0m\u001b[m\r\n                      Do not use shared memory.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m--no-site-file\u001b[0m\u001b[m\r\n                      Do not load the site-wide startup file.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m-nsl\u001b[0m, \u001b[1;31m--no-site-lisp\u001b[0m\u001b[m\r\n                      Do not add site-lisp directories to load-path.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m--no-desktop\u001b[0m\u001b[m\r\n                      Do not load a saved desktop.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m-Q\u001b[0m, \u001b[1;31m--quick\u001b[0m\u001b[m\r\n                      Similar to \"-q --no-site-file --no-splash\".  Also, avoid processing X resources.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m--no-splash\u001b[0m\u001b[m\r\n                      Do not display a splash screen during start-up.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m--debug-init\u001b[0m\u001b[m\r\n                      Enable  \u001b[1;32mEmacs\u001b[0m  Lisp  debugger during the processing of the user init file \u001b[1;31m~/.emacs\u001b[0m.  This is useful for debugging problems in\u001b[m\r\n                      the init file.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m-u\u001b[0m \u001b[1;32muser\u001b[0m, \u001b[1;31m--user\u001b[0m \u001b[1;32muser\u001b[0m\u001b[m\r\n                      Load \u001b[1;32muser\u001b[0m's init file.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m-t\u001b[0m \u001b[1;32mfile\u001b[0m, \u001b[1;31m--terminal\u001b[0m \u001b[1;32mfile\u001b[0m\u001b[m\r\n                      Use specified \u001b[1;32mfile\u001b[0m as the terminal instead of using stdin/stdout.  This must be the first argument specified in  the  command\u001b[m\r\n                      line.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m--daemon\u001b[0m\u001b[m\r\n                      Start  Emacs  as  a  daemon, enabling the Emacs server and disconnecting from the terminal.  You can then use the emacsclient\u001b[m\r\n                      command to connect to the server (see \u001b[1;31memacsclient\u001b[0m(1)).\u001b[m\r\n\u001b[1;44;33m Manual page emacs(1) line 40 (press h for help or q to quit)\u001b[0m\u001b[K"
+    ],
+    [
+      10.691507,
+      "\r\u001b[K\u001b[m\r\n              \u001b[1;31m--version\u001b[0m\u001b[m\r\n                      Display \u001b[1;32mEmacs\u001b[0m version information and exit.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m--help\u001b[0m  Display this help and exit.\u001b[m\r\n\u001b[m\r\n       The following options are Lisp-oriented (these options are processed in the order encountered):\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m-f\u001b[0m \u001b[1;32mfunction\u001b[0m, \u001b[1;31m--funcall\u001b[0m \u001b[1;32mfunction\u001b[0m\u001b[m\r\n                      Execute the lisp function \u001b[1;32mfunction\u001b[0m.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m-l\u001b[0m \u001b[1;32mfile\u001b[0m, \u001b[1;31m--load\u001b[0m \u001b[1;32mfile\u001b[0m\u001b[m\r\n                      Load the lisp code in the file \u001b[1;32mfile\u001b[0m.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m--eval\u001b[0m \u001b[1;32mexpr\u001b[0m, \u001b[1;31m--execute\u001b[0m \u001b[1;32mexpr\u001b[0m\u001b[m\r\n                      Evaluate the Lisp expression \u001b[1;32mexpr\u001b[0m.\u001b[m\r\n\u001b[m\r\n       The following options are useful when running \u001b[1;32mEmacs\u001b[0m as a batch editor:\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m--batch\u001b[0m Edit in batch mode.  The editor will send messages to stderr.  You must use -l and -f options to specify files to execute and\u001b[m\r\n                      functions to call.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m--script\u001b[0m \u001b[1;32mfile\u001b[0m\u001b[m\r\n                      Run \u001b[1;32mfile\u001b[0m as an Emacs Lisp script.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m--insert\u001b[0m \u001b[1;32mfile\u001b[0m\u001b[m\r\n                      Insert contents of \u001b[1;32mfile\u001b[0m into the current buffer.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m--kill\u001b[0m  Exit \u001b[1;32mEmacs\u001b[0m while in batch mode.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m-L\u001b[0m \u001b[1;32mdir\u001b[0m, \u001b[1;31m--directory\u001b[0m \u001b[1;32mdir\u001b[0m\u001b[m\r\n                      Add \u001b[1;32mdir\u001b[0m to the list of directories \u001b[1;32mEmacs\u001b[0m searches for Lisp files.\u001b[m\r\n\u001b[m\r\n   \u001b[1;31mUsing\u001b[0m \u001b[1;31mEmacs\u001b[0m \u001b[1;31mwith\u001b[0m \u001b[1;31mX\u001b[0m\u001b[m\r\n       \u001b[1;32mEmacs\u001b[0m  has  been  tailored to work well with the X window system.  If you run \u001b[1;32mEmacs\u001b[0m from under X windows, it will create its own X window to\u001b[m\r\n       display in.  You will probably want to start the editor as a background process so that you can continue using your original window.\u001b[m\r\n\u001b[m\r\n       \u001b[1;32mEmacs\u001b[0m can be started with the following X switches:\u001b[m\r\n\u001b[m\r\n\u001b[1;44;33m Manual page emacs(1) line 79 (press h for help or q to quit)\u001b[0m\u001b[K"
+    ],
+    [
+      3.288275,
+      "\r\u001b[K              \u001b[1;31m--name\u001b[0m \u001b[1;32mname\u001b[0m\u001b[m\r\n                      Specify the name which should be assigned to the initial \u001b[1;32mEmacs\u001b[0m window.  This controls looking up X resources as well  as  the\u001b[m\r\n                      window title.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m-T\u001b[0m \u001b[1;32mname\u001b[0m, \u001b[1;31m--title\u001b[0m \u001b[1;32mname\u001b[0m\u001b[m\r\n                      Specify the title for the initial X window.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m-r\u001b[0m, \u001b[1;31m-rv\u001b[0m, \u001b[1;31m--reverse-video\u001b[0m\u001b[m\r\n                      Display the \u001b[1;32mEmacs\u001b[0m window in reverse video.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m-fn\u001b[0m \u001b[1;32mfont\u001b[0m, \u001b[1;31m--font\u001b[0m \u001b[1;32mfont\u001b[0m\u001b[m\r\n                      Set  the  \u001b[1;32mEmacs\u001b[0m  window's font to that specified by \u001b[1;32mfont\u001b[0m.  You will find the various \u001b[1;32mX\u001b[0m fonts in the \u001b[1;32m/usr/lib/X11/fonts\u001b[0m direc‐\u001b[m\r\n                      tory.  Note that \u001b[1;32mEmacs\u001b[0m will only accept fixed width fonts.  Under the X11 Release 4 font-naming conventions,  any  font  with\u001b[m\r\n                      the  value \"m\" or \"c\" in the eleventh field of the font name is a fixed width font.  Furthermore, fonts whose name are of the\u001b[m\r\n                      form \u001b[1;32mwidth\u001b[0mx\u001b[1;32mheight\u001b[0m are generally fixed width, as is the font \u001b[1;32mfixed\u001b[0m.  See \u001b[1;31mxlsfonts\u001b[0m(1) for more information.\u001b[m\r\n\u001b[m\r\n                      When you specify a font, be sure to put a space between the switch and the font name.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m--xrm\u001b[0m \u001b[1;32mresources\u001b[0m\u001b[m\r\n                      Set additional X resources.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m--color\u001b[0m, \u001b[1;31m--color=\u001b[0m\u001b[1;32mmode\u001b[0m\u001b[m\r\n                      Override color mode for character terminals; \u001b[1;32mmode\u001b[0m defaults to `auto', and can also be `never', `auto', `always',  or  a  mode\u001b[m\r\n                      name like `ansi8'.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m-bw\u001b[0m \u001b[1;32mpixels\u001b[0m, \u001b[1;31m--border-width\u001b[0m \u001b[1;32mpixels\u001b[0m\u001b[m\r\n                      Set  the  \u001b[1;32mEmacs\u001b[0m window's border width to the number of pixels specified by \u001b[1;32mpixels\u001b[0m.  Defaults to one pixel on each side of the\u001b[m\r\n                      window.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m-ib\u001b[0m \u001b[1;32mpixels\u001b[0m, \u001b[1;31m--internal-border\u001b[0m \u001b[1;32mpixels\u001b[0m\u001b[m\r\n                      Set the window's internal border width to the number of pixels specified by \u001b[1;32mpixels\u001b[0m.  Defaults to one pixel of padding on each\u001b[m\r\n                      side of the window.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m-g\u001b[0m \u001b[1;32mgeometry\u001b[0m, \u001b[1;31m--geometry\u001b[0m \u001b[1;32mgeometry\u001b[0m\u001b[m\r\n                      Set the \u001b[1;32mEmacs\u001b[0m window's width, height, and position as specified.  The geometry specification is in the standard X format; see\u001b[m\r\n                      \u001b[1;31mX\u001b[0m(7) for more information.  The width and height are specified in characters; the default is 80 by 24.  See the Emacs manual,\u001b[m\r\n                      section  \"Options  for  Window Size and Position\", for information on how window sizes interact with selecting or deselecting\u001b[m\r\n                      the tool bar and menu bar.\u001b[m\r\n\u001b[m\r\n\u001b[1;44;33m Manual page emacs(1) line 118 (press h for help or q to quit)\u001b[0m\u001b[K"
+    ],
+    [
+      2.673131,
+      "\r\u001b[K              \u001b[1;31m-lsp\u001b[0m \u001b[1;32mpixels\u001b[0m, \u001b[1;31m--line-spacing\u001b[0m \u001b[1;32mpixels\u001b[0m\u001b[m\r\n                      Additional space to put between lines.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m-vb\u001b[0m, \u001b[1;31m--vertical-scroll-bars\u001b[0m\u001b[m\r\n                      Enable vertical scrollbars.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m-fh\u001b[0m, \u001b[1;31m--fullheight\u001b[0m\u001b[m\r\n                      Make the first frame as high as the screen.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m-fs\u001b[0m, \u001b[1;31m--fullscreen\u001b[0m\u001b[m\r\n                      Make the first frame fullscreen.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m-fw\u001b[0m, \u001b[1;31m--fullwidth\u001b[0m\u001b[m\r\n                      Make the first frame as wide as the screen.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m-mm\u001b[0m, \u001b[1;31m--maximized\u001b[0m\u001b[m\r\n                      Maximize the first frame, like \"-fw -fh\".\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m-fg\u001b[0m \u001b[1;32mcolor\u001b[0m, \u001b[1;31m--foreground-color\u001b[0m \u001b[1;32mcolor\u001b[0m\u001b[m\r\n                      On color displays, set the color of the text.\u001b[m\r\n\u001b[m\r\n                      Use the command \u001b[1;32mM-x\u001b[0m \u001b[1;32mlist-colors-display\u001b[0m for a list of valid color names.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m-bg\u001b[0m \u001b[1;32mcolor\u001b[0m, \u001b[1;31m--background-color\u001b[0m \u001b[1;32mcolor\u001b[0m\u001b[m\r\n                      On color displays, set the color of the window's background.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m-bd\u001b[0m \u001b[1;32mcolor\u001b[0m, \u001b[1;31m--border-color\u001b[0m \u001b[1;32mcolor\u001b[0m\u001b[m\r\n                      On color displays, set the color of the window's border.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m-cr\u001b[0m \u001b[1;32mcolor\u001b[0m, \u001b[1;31m--cursor-color\u001b[0m \u001b[1;32mcolor\u001b[0m\u001b[m\r\n                      On color displays, set the color of the window's text cursor.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m-ms\u001b[0m \u001b[1;32mcolor\u001b[0m, \u001b[1;31m--mouse-color\u001b[0m \u001b[1;32mcolor\u001b[0m\u001b[m\r\n                      On color displays, set the color of the window's mouse cursor.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m-d\u001b[0m \u001b[1;32mdisplayname\u001b[0m, \u001b[1;31m--display\u001b[0m \u001b[1;32mdisplayname\u001b[0m\u001b[m\r\n                      Create the \u001b[1;32mEmacs\u001b[0m window on the display specified by \u001b[1;32mdisplayname\u001b[0m.  Must be the first option specified in the command line.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m-nbi\u001b[0m, \u001b[1;31m--no-bitmap-icon\u001b[0m\u001b[m\r\n\u001b[1;44;33m Manual page emacs(1) line 157 (press h for help or q to quit)\u001b[0m\u001b[K"
+    ],
+    [
+      5.302484,
+      "\r\u001b[K                      Do not use picture of gnu for Emacs icon.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m--iconic\u001b[0m\u001b[m\r\n                      Start \u001b[1;32mEmacs\u001b[0m in iconified state.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m-nbc\u001b[0m, \u001b[1;31m--no-blinking-cursor\u001b[0m\u001b[m\r\n                      Disable blinking cursor.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m--parent-id\u001b[0m \u001b[1;32mxid\u001b[0m\u001b[m\r\n                      Set parent window.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m-nw\u001b[0m, \u001b[1;31m--no-window-system\u001b[0m\u001b[m\r\n                      Tell \u001b[1;32mEmacs\u001b[0m not to create a graphical frame.  If you use this switch when invoking \u001b[1;32mEmacs\u001b[0m from an \u001b[1;31mxterm\u001b[0m(1) window,  display  is\u001b[m\r\n                      done in that window.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31m-D\u001b[0m, \u001b[1;31m--basic-display\u001b[0m\u001b[m\r\n                      This option disables many display features; use it for debugging Emacs.\u001b[m\r\n\u001b[m\r\n       You can set \u001b[1;32mX\u001b[0m default values for your \u001b[1;32mEmacs\u001b[0m windows in your \u001b[1;32m.Xresources\u001b[0m file (see \u001b[1;31mxrdb\u001b[0m(1)).  Use the following format:\u001b[m\r\n\u001b[m\r\n              emacs.\u001b[1;32mkeyword\u001b[0m:\u001b[1;32mvalue\u001b[0m\u001b[m\r\n\u001b[m\r\n       where \u001b[1;32mvalue\u001b[0m specifies the default value of \u001b[1;32mkeyword\u001b[0m.  \u001b[1;32mEmacs\u001b[0m lets you set default values for the following keywords:\u001b[m\r\n\u001b[m\r\n              \u001b[1;31mbackground\u001b[0m (class \u001b[1;31mBackground\u001b[0m)\u001b[m\r\n                      For color displays, sets the window's background color.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31mbitmapIcon\u001b[0m (class \u001b[1;31mBitmapIcon\u001b[0m)\u001b[m\r\n                      If \u001b[1;31mbitmapIcon\u001b[0m's value is set to \u001b[1;32mon\u001b[0m, the window will iconify into the \"kitchen sink.\"\u001b[m\r\n\u001b[m\r\n              \u001b[1;31mborderColor\u001b[0m (class \u001b[1;31mBorderColor\u001b[0m)\u001b[m\r\n                      For color displays, sets the color of the window's border.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31mborderWidth\u001b[0m (class \u001b[1;31mBorderWidth\u001b[0m)\u001b[m\r\n                      Sets the window's border width in pixels.\u001b[m\r\n\u001b[m\r\n              \u001b[1;31mcursorColor\u001b[0m (class \u001b[1;31mForeground\u001b[0m)\u001b[m\r\n                      For color displays, sets the color of the window's text cursor.\u001b[m\r\n\u001b[m\r\n\u001b[1;44;33m Manual page emacs(1) line 196 (press h for help or q to quit)\u001b[0m\u001b[K"
+    ],
+    [
+      3.105861,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l"
+    ],
+    [
+      0.002071,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                      \r \r\u001bk~\u001b\\"
+    ],
+    [
+      0.013843,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\r\n"
+    ],
+    [
+      0.000018,
+      "(\u001b[34mexp\u001b[00m) \u001b[35manand\u001b[00m at \u001b[33manand-X550EA\u001b[00m in \u001b[32m~\u001b[00m \u001b[00m|\r\n$ \u001b[K"
+    ],
+    [
+      0.000108,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.768451,
+      "e"
+    ],
+    [
+      0.222429,
+      "\u0008em"
+    ],
+    [
+      0.132552,
+      "a"
+    ],
+    [
+      0.215578,
+      "c"
+    ],
+    [
+      0.192709,
+      "s"
+    ],
+    [
+      0.339146,
+      " "
+    ],
+    [
+      0.186453,
+      "0"
+    ],
+    [
+      0.794358,
+      "\u0008 \u0008"
+    ],
+    [
+      0.504231,
+      "-"
+    ],
+    [
+      0.462286,
+      "n"
+    ],
+    [
+      0.137375,
+      "w"
+    ],
+    [
+      0.440497,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001bkemacs\u001b\\"
+    ],
+    [
+      0.038409,
+      "\u001b[?1049h\u001b[34l\u001b[?1h\u001b="
+    ],
+    [
+      0.063862,
+      "\u001b[H\u001b[J"
+    ],
+    [
+      0.000072,
+      "\u001b[40;1H\u001b[K"
+    ],
+    [
+      0.000009,
+      "\u001b[?1l\u001b\u003e\u001b[34h\u001b[?25h\u001b[?1049l\u001b[39;49m\r"
+    ],
+    [
+      0.000114,
+      "\u001b[?1049h\u001b[34l\u001b[?1h\u001b="
+    ],
+    [
+      0.023495,
+      "\u001b[H\u001b[J"
+    ],
+    [
+      0.002938,
+      "\u001b[39;1H\u001b[?25l\u001b[3m-UUU:----F1  \u001b[0m\u001b[39;49m\u001b[23m\u001b[3m\u001b[1m*scratch*   \u001b[0m\u001b[39;49m\u001b[23m\u001b[3m   All L1     (Fundamental) --------------------------------------------------------------------------------------------------\u001b[0m\u001b[39;49m\u001b[23m\r\n\u001bM\u001b[H\n\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.002177,
+      "\u001b[40;1H\u001b[?25lLoading Prelude's core...\u001b[K\u001b[H\n\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      1.045665,
+      "\u001b[40;1H\u001b[?25l\u001b[37m\u001b[40mLoading /home/anand/.emacs.d/savefile/recentf...                                                                                                      \u001b[39;49m\r\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.001694,
+      "\u001b[40;49H\u001b[?25l\u001b[37m\u001b[40mdone\u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      1.296614,
+      "\u001b[40;9H\u001b[?25l\u001b[37m\u001b[40mPrelude's modules...                        \u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000350,
+      "\u001b[40;1H\u001b[?25l\u001b[37m\u001b[40mMissing modules file /home/anand/.emacs.d/prelude-modules.el\u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000179,
+      "\u001b[40;1H\u001b[?25l\u001b[37m\u001b[40mYou can get started by copying the bundled example file     \u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000436,
+      "\u001b[40;1H\u001b[?25l\u001b[37m\u001b[40mLoading personal configuration files in /home/anand/.emacs.d/personal...\u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000825,
+      "\u001b[40;9H\u001b[?25l\u001b[37m\u001b[40m/home/anand/.emacs.d/personal/config.el (source)...             \u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.291065,
+      "\u001b[40;30H\u001b[?25l\u001b[37m\u001b[40mvendor/ox-reveal.el (source)...\u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      1.026496,
+      "\u001b[40;61H\u001b[?25l\u001b[37m\u001b[40mdone\u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.024378,
+      "\u001b[40;37H\u001b[?25l\u001b[37m\u001b[40mhtmlize.el (source)...      \u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.131236,
+      "\u001b[40;59H\u001b[?25l\u001b[37m\u001b[40mdone\u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.008477,
+      "\u001b[40;1H\u001b[?25l\u001b[37m\u001b[40mzsh:1: no such file or directory: /home/anand/projects/Space2Ctrl/s2cctl\u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.010530,
+      "\u001b[40;1H\u001b[?25l\u001b[37m\u001b[40mLoading /home/anand/.emacs.d/personal/config.el (source)...done         \u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.021235,
+      "\u001b[40;40H\u001b[?25l\u001b[37m\u001b[40mustom.el (source)...    \u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.003547,
+      "\u001b[40;60H\u001b[?25l\u001b[37m\u001b[40mdone\u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.012731,
+      "\u001b[40;39H\u001b[?25l\u001b[37m\u001b[40mkey-bindings.el (source)...\u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.058579,
+      "\u001b[40;1H\u001b[?25l\u001b[37m\u001b[40mKey Chord mode on                                                \u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000847,
+      "\u001b[40;1H\u001b[?25l\u001b[37m\u001b[40mLoading /home/anand/.emacs.d/personal/key-bindings.el (source)...done\u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.020929,
+      "\u001b[40;39H\u001b[?25l\u001b[37m\u001b[40mpackages.el (source)...        \u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.474387,
+      "\u001b[40;1H\u001b[?25l\u001b[37m\u001b[40mad-handle-definition: `ido-find-file' got redefined          \u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.474150,
+      "\u001b[40;1H\u001b[?25l\u001b[37m\u001b[40m[yas] Prepared just-in-time loading for /home/anand/.emacs.d/elpa/elpy-20150226.1148/snippets/\u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.113308,
+      "\u001b[40;7H\u001b[?25l\u001b[37m\u001b[40mDiscovered there was already *scratch* in fundamental-mode                              \u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000191,
+      "\u001b[40;36H\u001b[?25l\u001b[37m\u001b[40m *code-conversion-work* in fundamental-mode\u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000210,
+      "\u001b[40;38H\u001b[?25l\u001b[37m\u001b[40mload* in fundamental-mode                \u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000207,
+      "\u001b[40;38H\u001b[?25l\u001b[37m\u001b[40mEcho Area 0* in fundamental-mode\u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000221,
+      "\u001b[40;48H\u001b[?25l\u001b[37m\u001b[40m1\u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000194,
+      "\u001b[40;36H\u001b[?25l\u001b[37m\u001b[40m*Shell Command Output* in fundamental-mode\u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000201,
+      "\u001b[40;36H\u001b[?25l\u001b[37m\u001b[40m *load*-845404 in fundamental-mode        \u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.171279,
+      "\u001b[40;1H\u001b[?25l\u001b[37m\u001b[40ms/fundamental-mode) (quote fundamental-mode)))!                                                                                                       \u001b[39;49m\r\u001b[H\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM"
+    ],
+    [
+      0.000079,
+      "\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM"
+    ],
+    [
+      0.000139,
+      "\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM"
+    ],
+    [
+      0.000112,
+      "\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM"
+    ],
+    [
+      0.000151,
+      "\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM"
+    ],
+    [
+      0.000119,
+      "\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM"
+    ],
+    [
+      0.000112,
+      "\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM"
+    ],
+    [
+      0.000135,
+      "\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM\n\u001b[37m\u001b[40m                                                                                                                                                       \u001b[39;49m\r\n\u001bM\n\u001b[30m\u001b[47m-UUU:----F1  \u001b[0m\u001b[39;49m\u001b[1m\u001b[30m\u001b[43m*scratch*   \u001b[0m\u001b[39;49m\u001b[30m\u001b[47m   All of 0    (1,0)      (Fundamental Projectile[~] SP/s Pre) ---------------------------------------------------------------\u001b[0m\u001b[39;49m\r\n\u001bM\n\u001b[37m\u001b[40m[yas] Loading for `fundamental-mode', just-in-time: (lambda nil (yas--load-directory-1 (quote /home/anand/.emacs.d/elpa/yasnippet-20150212.240/snippet\\\u001b[39;49m\r\n\u001bM\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000452,
+      "\u001b[40;1H\u001b[?25l\u001b[37m\u001b[40m                                               \u001b[39;49m\u001b[39;15H\u001b[37m\u001b[40mcompiled snippets from /home/anand/.emacs.d/elpa/yasnippet-20150212.240/snippets/fundamental-mode                                        \u001b[39;49m\r\n\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.009539,
+      "\u001b[39;1H\u001b[?25l\u001b[37m\u001b[40mLoading /home/anand/.emacs.d/elpa/yasnippet-20150212.240/snippets/fundamental-mode/.yas-setup...               \u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l\u001b[39;97H\u001b[?25l\u001b[37m\u001b[40mdone\u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.007404,
+      "\u001b[39;1H\u001b[?25l\u001b[37m\u001b[40m[yas] Prepared just-in-time loading for /home/anand/.emacs.d/elpa/yasnippet-20150212.240/snippets   \u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.004923,
+      "\u001b[39;41H\u001b[?25l\u001b[37m\u001b[40m~/.emacs.d/snippets                                      \u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000192,
+      "\u001b[39;7H\u001b[?25l\u001b[37m\u001b[40mReloaded everything (snippets will load just-in-time)....\u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      2.328141,
+      "\u001b[39;1H\u001b[?25l\u001b[37m\u001b[40mLoading /home/anand/.emacs.d/.private.el (source)...           \u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.001915,
+      "\u001b[39;53H\u001b[?25l\u001b[37m\u001b[40mdone\u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.851686,
+      "\u001b[39;30H\u001b[?25l\u001b[37m\u001b[40melpa/pony-mode-20150308.937/pony-tpl.el (source)...\u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.007070,
+      "\u001b[39;81H\u001b[?25l\u001b[37m\u001b[40mdone\u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.327142,
+      "\u001b[39;30H\u001b[?25l\u001b[37m\u001b[40mpersonal/packages.el (source)...done                   \u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.023953,
+      "\u001b[39;40H\u001b[?25l\u001b[37m\u001b[40mrelude-modules.el (source)...\u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      1.039412,
+      "\u001b[39;30H\u001b[?25l\u001b[37m\u001b[40melpa/helm-20150317.538/helm-autoloads.el (source)...\u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.008820,
+      "\u001b[39;82H\u001b[?25l\u001b[37m\u001b[40mdone\u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.967707,
+      "\u001b[39;1H\u001b[?25l\u001b[37m\u001b[40mHelm completion enabled                                                              \u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000244,
+      "\u001b[39;1H\u001b[?25l\u001b[37m\u001b[40mTurn on helm-projectile key bindings\u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.315902,
+      "\u001b[39;1H\u001b[?25l\u001b[37m\u001b[40mLoading /home/anand/.emacs.d/personal/prelude-modules.el (source)...done\u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.018967,
+      "\u001b[39;39H\u001b[?25l\u001b[37m\u001b[40mui.el (source)...                 \u001b[39;49m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.589727,
+      "\u001b[40;1H\u001b[K\u001b[H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K"
+    ],
+    [
+      0.000051,
+      "\n\u001b[?25l\u001b[3m-UUU:----F1  \u001b[0m\u001b[39;49m\u001b[23m\u001b[3m\u001b[1m*scratch*   \u001b[0m\u001b[39;49m\u001b[23m\u001b[3m   (*^ｰﾟ)----------------------------- of 0    (1,0)      (Fundamental FlyC Helm Guide MRev proj SP/s Pre) [\u001b[0m\u001b[39;49m\u001b[23m\u001b[3m\u001b[34m???\u001b[0m\u001b[39;49m\u001b[23m\u001b[3m] -------------\u001b[0m\u001b[39;49m\u001b[23m\r\n\u001bM\nWarning (initialization): An error occurred while loading `/home/anand/.emacs.d/init.el':\u001b[K\r\n\u001b[K\nerror: X windows are not in use or not initialized\u001b[K\r\n\u001b[K\nTo ensure normal operation, you should investigate and remove the\u001b[K\r\ncause of the error in your initialization file.  Start Emacs with\u001b[K\r\nthe `--debug-init' option to view a complete error backtrace.\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K"
+    ],
+    [
+      0.000029,
+      "\n\u001b[K\n\u001b[K\n\u001b[3m-UUU:%*--F1  \u001b[0m\u001b[39;49m\u001b[23m\u001b[3m\u001b[1m*Warnings*  \u001b[0m\u001b[39;49m\u001b[23m\u001b[3m   |||||||||||||||||||||||||||||(ﾟｰ^*) of 337  (8,0)      (Special Helm Guide MRev proj Pre) ---------------------------------\u001b[0m\u001b[39;49m\u001b[23m\r\n\u001bM\nLoading /home/anand/.emacs.d/personal/ui.el (source)...\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.165629,
+      "\u001b[39;1H\u001b[?25lStarting new Ispell process [aspell::default] ...\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.004185,
+      "\u001b[19;85H\u001b[?25l\u001b[3mLisp Interaction Helm Guide MRev) --------------------\u001b[0m\u001b[39;49m\u001b[23m\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.337876,
+      "\u001b[\u003e0c"
+    ],
+    [
+      0.008150,
+      "\u001b[40;1H\u001b[K\u001b[H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K"
+    ],
+    [
+      0.000079,
+      "\n\u001b[?25l\u001b[3m-UUU:----F1  \u001b[0m\u001b[39;49m\u001b[23m\u001b[3m\u001b[1m*scratch*   \u001b[0m\u001b[39;49m\u001b[23m\u001b[3m   (*^ｰﾟ)----------------------------- of 0    (1,0)      (Lisp Interaction guru FlyC Helm Guide MRev proj SP Pre) -----------\u001b[0m\u001b[39;49m\u001b[23m\r\n\u001bM\nWarning (initialization): An error occurred while loading `/home/anand/.emacs.d/init.el':\u001b[K\r\n\u001b[K\nerror: X windows are not in use or not initialized\u001b[K\r\n\u001b[K\nTo ensure normal operation, you should investigate and remove the\u001b[K\r\ncause of the error in your initialization file.  Start Emacs with\u001b[K\r\nthe `--debug-init' option to view a complete error backtrace.\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K"
+    ],
+    [
+      0.000032,
+      "\n\u001b[K\n\u001b[K\n\u001b[3m-UUU:%*--F1  \u001b[0m\u001b[39;49m\u001b[23m\u001b[3m\u001b[1m*Warnings*  \u001b[0m\u001b[39;49m\u001b[23m\u001b[3m   |||||||||||||||||||||||||||||(ﾟｰ^*) of 337  (8,0)      (Special Helm Guide MRev proj Pre) ---------------------------------\u001b[0m\u001b[39;49m\u001b[23m\r\n\u001bM\nStarting new Ispell process [aspell::default] ...\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.000168,
+      "\u001b[?2004h"
+    ],
+    [
+      0.006841,
+      "\u001b[1;39r\u001b[38;1H\u001b[1L\u001b[1;40r\u001b[40;1H\u001b[?25lFor information about GNU Emacs and the GNU system, type C-h C-a."
+    ],
+    [
+      0.000075,
+      "\r\u001bM\u001bM\u001b[K\u001b[H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.232498,
+      "\u001b[40;1H\u001b[K\u001b[H"
+    ],
+    [
+      0.009322,
+      "\u001b[40;1H\u001b[K\u001b[H\u001b[?25l\u001b[33m;; This buffer is for notes you don't want to save, and for Lisp evaluation.                                                                           \u001b[39;49m\r\n\u001bM"
+    ],
+    [
+      0.000035,
+      "\n\u001b[33m;; If you want to create a file, visit that file with C-x C-f,                                                                                         \u001b[39;49m\r\n\u001bM\n\u001b[33m;; then enter the text in that file's own buffer.                                                                                                      \u001b[39;49m\r\n\u001bM\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K"
+    ],
+    [
+      0.000081,
+      "\n\u001b[3m-UUU:----F1  \u001b[0m\u001b[39;49m\u001b[23m\u001b[3m\u001b[1m*scratch*   \u001b[0m\u001b[39;49m\u001b[23m\u001b[3m   ||||||||||||||||||||||||||||(ﾟｰ^*)- of 191  (5,0)      (Lisp Interaction guru FlyC- Helm Guide MRev proj SP Pre) ----------\u001b[0m\u001b[39;49m\u001b[23m\r\n\u001bM\nWarning (initialization): An error occurred while loading `/home/anand/.emacs.d/init.el':\u001b[K\r\n\u001b[K\nerror: X windows are not in use or not initialized\u001b[K\r\n\u001b[K\nTo ensure normal operation, you should investigate and remove the\u001b[K\r\ncause of the error in your initialization file.  Start Emacs with\u001b[K\r\nthe `--debug-init' option to view a complete error backtrace.\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K"
+    ],
+    [
+      0.000041,
+      "\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[3m-UUU:%*--F1  \u001b[0m\u001b[39;49m\u001b[23m\u001b[3m\u001b[1m*Warnings*  \u001b[0m\u001b[39;49m\u001b[23m\u001b[3m   |||||||||||||||||||||||||||||(ﾟｰ^*) of 337  (8,0)      (Special Helm Guide MRev proj Pre) ---------------------------------\u001b[0m\u001b[39;49m\u001b[23m\r\n\u001bM\u001b[5;1H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      2.749909,
+      "\u001b[40;1H\u001b[?25l(No files need saving)\u001b[5;1H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.072378,
+      "\u001b[40;1H\u001b[?25lSaving tag summaries...\u001b[5;1H\u001b[34h\u001b[?25h\u001b[34l\u001b[40;24H\u001b[?25ldone\u001b[5;1H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.009246,
+      "\u001b[40;8H\u001b[?25lfile /home/anand/.emacs.d/savefile/recentf...\u001b[5;1H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.085704,
+      "\u001b[40;1H\u001b[?25lWrote /home/anand/.emacs.d/savefile/recentf\u001b[K\u001b[5;1H\u001b[34h\u001b[?25h\u001b[34l"
+    ],
+    [
+      0.067081,
+      "\u001b[40;1H\u001b[K\u001b[?2004l\u001b[?1l\u001b\u003e\u001b[34h\u001b[?25h\u001b[?1049l\u001b[39;49m\r"
+    ],
+    [
+      0.031861,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                      \r \r\u001bk~\u001b\\"
+    ],
+    [
+      0.015861,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\r\n"
+    ],
+    [
+      0.000016,
+      "(\u001b[34mexp\u001b[00m) \u001b[35manand\u001b[00m at \u001b[33manand-X550EA\u001b[00m in \u001b[32m~\u001b[00m \u001b[00m|\r\n$ \u001b[K"
+    ],
+    [
+      0.000112,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.563092,
+      "\r\r\n"
+    ]
+  ]
+}
