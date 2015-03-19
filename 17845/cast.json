@@ -1,0 +1,310 @@
+{
+  "version": 1,
+  "width": 120,
+  "height": 35,
+  "duration": 25.365179,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.092900,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                       \r \r"
+    ],
+    [
+      0.000008,
+      "\u001b]2;henryyang@yangzonhandeMBP: ~\u0007"
+    ],
+    [
+      0.000023,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.013261,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000158,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.717167,
+      "l"
+    ],
+    [
+      0.033880,
+      "\u0008ls"
+    ],
+    [
+      0.200017,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000396,
+      "\r\r\n"
+    ],
+    [
+      0.000725,
+      "\u001b]2;ls -G\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.003618,
+      "\u001b[1m\u001b[36mApplications\u001b[39;49m\u001b[0m             \u001b[1m\u001b[36mDownloads\u001b[39;49m\u001b[0m                \u001b[1m\u001b[36mMusic\u001b[39;49m\u001b[0m                    \u001b[1m\u001b[36mPublic\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[36mApplications (Parallels)\u001b[39;49m\u001b[0m \u001b[1m\u001b[36mDropbox\u001b[39;49m\u001b[0m                  \u001b[1m\u001b[36mNTHUOJ_web_bruce\u001b[39;49m\u001b[0m         \u001b[1m\u001b[36mVENV\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[1m\u001b[36mDesktop\u001b[39;49m\u001b[0m                  \u001b[1m\u001b[36mLibrary\u001b[39;49m\u001b[0m                  \u001b[1m\u001b[36mNTHUOJ_web_henry\u001b[39;49m\u001b[0m         \u001b[1m\u001b[36mgit\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[36mDocuments\u001b[39;49m\u001b[0m                \u001b[1m\u001b[36mMovies\u001b[39;49m\u001b[0m                   \u001b[1m\u001b[36mPictures\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000405,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                       \r \r"
+    ],
+    [
+      0.000148,
+      "\u001b]2;henryyang@yangzonhandeMBP: ~\u0007"
+    ],
+    [
+      0.000025,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.014686,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000015,
+      "\u001b[K"
+    ],
+    [
+      0.000021,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.847181,
+      "c"
+    ],
+    [
+      0.135826,
+      "\u0008cl"
+    ],
+    [
+      0.149934,
+      "s"
+    ],
+    [
+      0.225883,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000041,
+      "\r\r\n"
+    ],
+    [
+      0.000804,
+      "\u001b]2;clear\u0007\u001b]1;cls\u0007"
+    ],
+    [
+      0.003133,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000241,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                       \r \r"
+    ],
+    [
+      0.000110,
+      "\u001b]2;henryyang@yangzonhandeMBP: ~\u0007"
+    ],
+    [
+      0.000006,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.014709,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000058,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.707678,
+      "c"
+    ],
+    [
+      0.094321,
+      "\u0008cd"
+    ],
+    [
+      0.065153,
+      " "
+    ],
+    [
+      0.325963,
+      "N"
+    ],
+    [
+      0.140058,
+      "THUOJ_web_"
+    ],
+    [
+      1.112148,
+      "\u0007"
+    ],
+    [
+      0.000026,
+      "\r\r\n"
+    ],
+    [
+      0.000113,
+      "\u001b[J\u001b[1;31mNTHUOJ_web_bruce\u001b[0m/  \u001b[J\u001b[1;31mNTHUOJ_web_henry\u001b[0m/\u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[6C"
+    ],
+    [
+      0.000008,
+      "cd NTHUOJ_web_\u001b[K"
+    ],
+    [
+      0.796535,
+      "bruce\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\r\n"
+    ],
+    [
+      0.000067,
+      "\u001b[J\u001b[7mNTHUOJ_web_bruce/\u001b[0m  \u001b[J\u001b[1;31mNTHUOJ_web_henry\u001b[0m/\u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[6C"
+    ],
+    [
+      0.000009,
+      "cd NTHUOJ_web_bruce\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.933139,
+      "\r\r\n"
+    ],
+    [
+      0.000150,
+      "\u001b[7mNTHUOJ_web_bruce/\u001b[0m  \r\u001b[7mNTHUOJ_web_bruce/\u001b[0m  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[6Ccd NTHUOJ_web_bruce\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.000078,
+      "\r\r\n\u001b[J\u001b[A\u001b[26C"
+    ],
+    [
+      0.851575,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000051,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000101,
+      "\r\r\n\u001b[J"
+    ],
+    [
+      0.000769,
+      "\u001b]2;cd NTHUOJ_web_bruce\u0007\u001b]1;cd\u0007"
+    ],
+    [
+      0.000158,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                       \r \r"
+    ],
+    [
+      0.000072,
+      "\u001b]2;henryyang@yangzonhandeMBP: ~/NTHUOJ_web_bruce\u0007"
+    ],
+    [
+      0.000027,
+      "\u001b]1;..UOJ_web_bruce\u0007"
+    ],
+    [
+      0.065134,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mNTHUOJ_web_bruce \u001b[01;34mgit:(\u001b[31mdev\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000122,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.157175,
+      "r"
+    ],
+    [
+      0.150639,
+      "\u0008ru"
+    ],
+    [
+      0.239871,
+      "n"
+    ],
+    [
+      0.300861,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000048,
+      "\r\r\n"
+    ],
+    [
+      0.000533,
+      "\u001b]2;python manage.py runserver\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b]1;run\u0007"
+    ],
+    [
+      1.052121,
+      "Performing system checks...\r\n\r\n"
+    ],
+    [
+      0.015612,
+      "System check identified no issues (0 silenced).\r\n"
+    ],
+    [
+      5.397559,
+      "\r\n"
+    ],
+    [
+      0.305609,
+      "March 20, 2015 - 02:07:30\r\nDjango version 1.7.4, using settings 'nthuoj.settings'\r\nStarting development server at http://127.0.0.1:8000/\r\nQuit the server with CONTROL-C.\r\n"
+    ],
+    [
+      1.939965,
+      "^C"
+    ],
+    [
+      0.032650,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                       \r \r"
+    ],
+    [
+      0.000094,
+      "\u001b]2;henryyang@yangzonhandeMBP: ~/NTHUOJ_web_bruce\u0007"
+    ],
+    [
+      0.000005,
+      "\u001b]1;..UOJ_web_bruce\u0007"
+    ],
+    [
+      0.023001,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mNTHUOJ_web_bruce \u001b[01;34mgit:(\u001b[31mdev\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000079,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.191782,
+      "\r\r\n"
+    ]
+  ]
+}
