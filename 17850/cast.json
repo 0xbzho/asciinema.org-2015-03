@@ -1,0 +1,1666 @@
+{
+  "version": 1,
+  "width": 129,
+  "height": 17,
+  "duration": 406.526474,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "screen",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.008504,
+      "root@ip-172-23-4-12:~# "
+    ],
+    [
+      1.567193,
+      "d"
+    ],
+    [
+      0.129825,
+      "o"
+    ],
+    [
+      0.118378,
+      "c"
+    ],
+    [
+      0.147987,
+      "k"
+    ],
+    [
+      0.076318,
+      "e"
+    ],
+    [
+      0.079362,
+      "r"
+    ],
+    [
+      0.512580,
+      " "
+    ],
+    [
+      0.087749,
+      "i"
+    ],
+    [
+      0.192173,
+      "m"
+    ],
+    [
+      0.080161,
+      "a"
+    ],
+    [
+      0.127798,
+      "g"
+    ],
+    [
+      0.127600,
+      "e"
+    ],
+    [
+      0.168110,
+      "s"
+    ],
+    [
+      0.456954,
+      "\r\n"
+    ],
+    [
+      0.012713,
+      "REPOSITORY"
+    ],
+    [
+      0.000006,
+      "        "
+    ],
+    [
+      0.000064,
+      "        TAG        "
+    ],
+    [
+      0.000005,
+      "         "
+    ],
+    [
+      0.000043,
+      "IMAGE ID            "
+    ],
+    [
+      0.000006,
+      "CREATED             "
+    ],
+    [
+      0.000070,
+      "VIRTUAL SIZE\r\n"
+    ],
+    [
+      0.000005,
+      "rprashad/xo-trusty-base   latest"
+    ],
+    [
+      0.000044,
+      "              "
+    ],
+    [
+      0.000005,
+      "a6357c79e2a5        10 minutes ago"
+    ],
+    [
+      0.000077,
+      "      544.7 MB"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000402,
+      "root@ip-172-23-4-12:~# "
+    ],
+    [
+      2.553919,
+      "c"
+    ],
+    [
+      0.103866,
+      "d"
+    ],
+    [
+      0.056335,
+      " "
+    ],
+    [
+      0.376626,
+      "d"
+    ],
+    [
+      0.191211,
+      "o"
+    ],
+    [
+      0.136466,
+      "c"
+    ],
+    [
+      0.303401,
+      "k"
+    ],
+    [
+      0.111768,
+      "\u0007er-"
+    ],
+    [
+      4.800151,
+      "r"
+    ],
+    [
+      0.192494,
+      "uby-app/"
+    ],
+    [
+      1.015302,
+      "\r\nroot@ip-172-23-4-12:~/docker-ruby-app# "
+    ],
+    [
+      1.529360,
+      "d"
+    ],
+    [
+      0.095119,
+      "o"
+    ],
+    [
+      0.112003,
+      "c"
+    ],
+    [
+      0.135541,
+      "k"
+    ],
+    [
+      0.064191,
+      "e"
+    ],
+    [
+      0.067824,
+      "r"
+    ],
+    [
+      0.108068,
+      " "
+    ],
+    [
+      0.953134,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.511280,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.072548,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.085275,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084595,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084265,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.083168,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.082839,
+      "\u0007"
+    ],
+    [
+      0.083521,
+      "\u0007"
+    ],
+    [
+      0.084904,
+      "\u0007"
+    ],
+    [
+      0.058699,
+      "c"
+    ],
+    [
+      0.103893,
+      "a"
+    ],
+    [
+      0.152323,
+      "t"
+    ],
+    [
+      0.104055,
+      " "
+    ],
+    [
+      0.463630,
+      "D"
+    ],
+    [
+      0.216373,
+      "o"
+    ],
+    [
+      0.088697,
+      "c"
+    ],
+    [
+      0.095058,
+      "kerfile "
+    ],
+    [
+      0.600399,
+      "\r\n"
+    ],
+    [
+      0.000820,
+      "FROM rprashad/xo-trusty-base\r\n\r\n"
+    ],
+    [
+      0.000030,
+      "USER root\r\n\r\n# SUPERVISOR\r\nADD supervisor_sshd.conf /etc/supervisor/conf.d/\r\nADD supervisor_unicorn.conf /etc/supervisor/conf.d/\r\n\r\n# NGINX - Should be exporting /unicorn.sock to /var/run/unicorn.sock\r\nADD nginx.conf /etc/nginx/nginx.conf"
+    ],
+    [
+      0.000059,
+      "\r\nADD default_app.conf /etc/nginx/sites-available/default_app.conf\r\n#RUN ln -sf /etc/nginx/sites-available/default_app.conf /etc/nginx/sites-enabled/\r\n\r\n# UNICORN\r\nADD unicorn.conf /etc/unicorn/unicorn.conf\r\n\r\nUSER deploy\r\n\r\n# ADD APPLICATION\r\nRUN git clone git@git.xogrp.com:Shared/taxonomy_api.git /webapp/current\r\nWORKDIR /webapp/current\r\nRUN git checkout master\r\n\r\n"
+    ],
+    [
+      0.000034,
+      "USER root\r\nRUN sudo /bin/bash -c \"source /etc/profile \u0026\u0026 /usr/local/rvm/bin/rvm install `cat .ruby-version ` 2\u003e /dev/null || rvm install 2.1.2\"\r\n\r\n# bundle install\r\nRUN /bin/bash -l -c \"bundle install\"\r\n\r\n\r\nCMD [\"/usr/bin/supervisord\",  \"-c\", \"/etc/supervisor/supervisord.conf\", \"-n\"]\r\nEXPOSE 22 80\r\n"
+    ],
+    [
+      0.000134,
+      "root@ip-172-23-4-12:~/docker-ruby-app# "
+    ],
+    [
+      3.943584,
+      "d"
+    ],
+    [
+      0.174695,
+      "o"
+    ],
+    [
+      0.080034,
+      "c"
+    ],
+    [
+      0.248577,
+      "\u0007"
+    ],
+    [
+      0.000008,
+      "ker"
+    ],
+    [
+      0.600271,
+      " "
+    ],
+    [
+      0.663293,
+      "b"
+    ],
+    [
+      0.393379,
+      "u"
+    ],
+    [
+      0.093931,
+      "i"
+    ],
+    [
+      0.241143,
+      "l"
+    ],
+    [
+      0.111508,
+      "t"
+    ],
+    [
+      0.896923,
+      " "
+    ],
+    [
+      0.215541,
+      "-"
+    ],
+    [
+      0.119841,
+      "t"
+    ],
+    [
+      0.063953,
+      " "
+    ],
+    [
+      1.303642,
+      "r"
+    ],
+    [
+      0.248287,
+      "u"
+    ],
+    [
+      0.248119,
+      "b"
+    ],
+    [
+      0.240277,
+      "y"
+    ],
+    [
+      0.312142,
+      "-"
+    ],
+    [
+      0.151645,
+      "t"
+    ],
+    [
+      0.071536,
+      "e"
+    ],
+    [
+      0.112215,
+      "s"
+    ],
+    [
+      0.103712,
+      "t"
+    ],
+    [
+      0.096099,
+      " "
+    ],
+    [
+      2.217281,
+      "."
+    ],
+    [
+      0.759519,
+      "\r\n"
+    ],
+    [
+      0.012409,
+      "Error: Command not found: built\r\n"
+    ],
+    [
+      0.000008,
+      "Error: Command not found: -t"
+    ],
+    [
+      0.000078,
+      "\r\n"
+    ],
+    [
+      0.000121,
+      "Usage: docker [OPTIONS] COMMAND [arg...]\r\n -H=[unix:///var/run/docker.sock]: tcp://host:port to bind/connect to or unix://path/to/socket to use"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "A self-sufficient runtime for linux containers.\r\n\r\n"
+    ],
+    [
+      0.000035,
+      "Commands:\r\n    attach    Attach to a running container\r\n"
+    ],
+    [
+      0.000009,
+      "    build     Build an image from a Dockerfile\r\n    commit    Create a new image from a container's changes"
+    ],
+    [
+      0.000033,
+      "\r\n    cp        Copy files/folders from the containers filesystem to the host path\r\n"
+    ],
+    [
+      0.000018,
+      "    diff      Inspect changes on a container's filesystem\r\n    events    Get real time events from the server"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "    export    Stream the contents of a container as a tar archive\r\n    history   Show the history of an image\r\n"
+    ],
+    [
+      0.000037,
+      "    images    List images\r\n    import    Create a new filesystem image from the contents of a tarball\r\n"
+    ],
+    [
+      0.000011,
+      "    info      Display system-wide information\r\n    inspect   Return low-level information on a container\r\n"
+    ],
+    [
+      0.000033,
+      "    kill      Kill a running container\r\n    load      Load an image from a tar archive"
+    ],
+    [
+      0.000012,
+      "\r\n    login     Register or Login to the docker registry server\r\n    logs      Fetch the logs of a container"
+    ],
+    [
+      0.000058,
+      "\r\n    port      Lookup the public-facing port which is NAT-ed to PRIVATE_PORT\r\n"
+    ],
+    [
+      0.000016,
+      "    pause     Pause all processes within a container\r\n    ps        List containers\r\n    pull      Pull an image or a repository from the docker registry server\r\n"
+    ],
+    [
+      0.000032,
+      "    push      Push an image or a repository to the docker registry server\r\n    restart   Restart a running container\r\n"
+    ],
+    [
+      0.000009,
+      "    rm        Remove one or more containers\r\n    rmi       Remove one or more images"
+    ],
+    [
+      0.000033,
+      "\r\n    run       Run a command in a new container\r\n"
+    ],
+    [
+      0.000009,
+      "    save      Save an image to a tar archive\r\n    search    Search for an image in the docker index"
+    ],
+    [
+      0.000045,
+      "\r\n    start     Start a stopped container\r\n    stop      Stop a running container"
+    ],
+    [
+      0.000016,
+      "\r\n    tag       Tag an image into a repository\r\n"
+    ],
+    [
+      0.000007,
+      "    top       Lookup the running processes of a container\r\n"
+    ],
+    [
+      0.000032,
+      "    unpause   Unpause a paused container\r\n    version   Show the docker version information\r\n"
+    ],
+    [
+      0.000010,
+      "    wait      Block until a container stops, then print its exit code\r\n\r\n"
+    ],
+    [
+      0.000470,
+      "root@ip-172-23-4-12:~/docker-ruby-app# "
+    ],
+    [
+      1.169704,
+      "docker built -t ruby-test ."
+    ],
+    [
+      1.224240,
+      "\u0008"
+    ],
+    [
+      0.500261,
+      "\u0008"
+    ],
+    [
+      0.084799,
+      "\u0008"
+    ],
+    [
+      0.084241,
+      "\u0008"
+    ],
+    [
+      0.083609,
+      "\u0008"
+    ],
+    [
+      0.083807,
+      "\u0008"
+    ],
+    [
+      0.083307,
+      "\u0008"
+    ],
+    [
+      0.084309,
+      "\u0008"
+    ],
+    [
+      0.084816,
+      "\u0008"
+    ],
+    [
+      0.083207,
+      "\u0008"
+    ],
+    [
+      0.083908,
+      "\u0008"
+    ],
+    [
+      0.085119,
+      "\u0008"
+    ],
+    [
+      0.083765,
+      "\u0008"
+    ],
+    [
+      0.083021,
+      "\u0008"
+    ],
+    [
+      0.085327,
+      "\u0008"
+    ],
+    [
+      0.662927,
+      "\u0008\u001b[1P"
+    ],
+    [
+      0.144478,
+      "\u001b[1@d"
+    ],
+    [
+      0.599236,
+      "\r\n"
+    ],
+    [
+      0.012634,
+      "Sending build context to Docker daemon  12.8 kB\r"
+    ],
+    [
+      0.000027,
+      "\r"
+    ],
+    [
+      0.000040,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "Sending build context to Docker daemon \r"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.000895,
+      "Step 0 : FROM rprashad/xo-trusty-base"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      " ---\u003e a6357c79e2a5"
+    ],
+    [
+      0.000064,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "Step 1 : USER root"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.129339,
+      " ---\u003e Running in c75f226c9a90\r\n"
+    ],
+    [
+      2.973000,
+      " ---\u003e 4f7b00f6bb92\r\n"
+    ],
+    [
+      0.801992,
+      "Removing intermediate container c75f226c9a90\r\nStep 2 : ADD supervisor_sshd.conf /etc/supervisor/conf.d/\r\n"
+    ],
+    [
+      3.101028,
+      " ---\u003e 10f270bdda5b\r\n"
+    ],
+    [
+      0.818682,
+      "Removing intermediate container b4399946b4cb\r\nStep 3 : ADD supervisor_unicorn.conf /etc/supervisor/conf.d/\r\n"
+    ],
+    [
+      3.096476,
+      " ---\u003e d161f971ede5\r\n"
+    ],
+    [
+      0.773263,
+      "Removing intermediate container 3b9058482d41\r\nStep 4 : ADD nginx.conf /etc/nginx/nginx.conf\r\n"
+    ],
+    [
+      3.144522,
+      " ---\u003e 760351e3b0a2\r\n"
+    ],
+    [
+      0.810064,
+      "Removing intermediate container 893ef2c509e6\r\nStep 5 : ADD default_app.conf /etc/nginx/sites-available/default_app.conf\r\n"
+    ],
+    [
+      3.134492,
+      " ---\u003e 69d8f9188b7c\r\n"
+    ],
+    [
+      0.810506,
+      "Removing intermediate container c0445a53decd\r\nStep 6 : ADD unicorn.conf /etc/unicorn/unicorn.conf\r\n"
+    ],
+    [
+      3.104261,
+      " ---\u003e 60f017da9c74\r\n"
+    ],
+    [
+      0.801286,
+      "Removing intermediate container a9ef31f2bc07\r\nStep 7 : USER deploy\r\n"
+    ],
+    [
+      0.118181,
+      " ---\u003e Running in fd0dad835093\r\n"
+    ],
+    [
+      2.993036,
+      " ---\u003e 0ae6b16fe9fe\r\n"
+    ],
+    [
+      0.778499,
+      "Removing intermediate container fd0dad835093\r\nStep 8 : RUN git clone git@git.xogrp.com:Shared/taxonomy_api.git /webapp/current\r\n"
+    ],
+    [
+      0.112024,
+      " ---\u003e Running in 7bd64bd3530f\r\n"
+    ],
+    [
+      0.082191,
+      "\u001b[91mCloning into '/webapp/current'...\r\n\u001b[0m"
+    ],
+    [
+      0.177800,
+      "\u001b[91mWarning: Permanently added the ECDSA host key for IP address '172.25.168.21' to the list of known hosts.\r\r\n\u001b[0m"
+    ],
+    [
+      4.199007,
+      " ---\u003e d489303ed24b\r\n"
+    ],
+    [
+      0.813847,
+      "Removing intermediate container 7bd64bd3530f\r\nStep 9 : WORKDIR /webapp/current\r\n"
+    ],
+    [
+      0.119670,
+      " ---\u003e Running in a3f545d979d2\r\n"
+    ],
+    [
+      3.010031,
+      " ---\u003e 7a1785b4b7e7\r\n"
+    ],
+    [
+      0.797523,
+      "Removing intermediate container a3f545d979d2\r\nStep 10 : RUN git checkout master\r\n"
+    ],
+    [
+      0.116215,
+      " ---\u003e Running in 1e6cb25b4c93\r\n"
+    ],
+    [
+      0.100020,
+      "\u001b[91mAlready on 'master'\r\n\u001b[0m"
+    ],
+    [
+      0.000386,
+      "Your branch is up-to-date with 'origin/master'.\r\n"
+    ],
+    [
+      3.125215,
+      " ---\u003e cb53510bba03\r\n"
+    ],
+    [
+      0.813910,
+      "Removing intermediate container 1e6cb25b4c93\r\nStep 11 : USER root\r\n"
+    ],
+    [
+      0.124613,
+      " ---\u003e Running in 823a8491e7b3\r\n"
+    ],
+    [
+      3.017316,
+      " ---\u003e 014923dd9a66\r\n"
+    ],
+    [
+      0.840370,
+      "Removing intermediate container 823a8491e7b3\r\nStep 12 : RUN sudo /bin/bash -c \"source /etc/profile \u0026\u0026 /usr/local/rvm/bin/rvm install `cat .ruby-version ` 2\u003e /dev/null || rvm install 2.1.2\"\r\n"
+    ],
+    [
+      0.114195,
+      " ---\u003e Running in 63e64f3077f3\r\n"
+    ],
+    [
+      0.221977,
+      "\u001b[91mruby-2.1.5 is not installed.\r\n\u001b[0m"
+    ],
+    [
+      0.000244,
+      "To install do: 'rvm install ruby-2.1.5'\r\n"
+    ],
+    [
+      0.125722,
+      "To install do: 'rvm install ruby-2.1.5'\r\n"
+    ],
+    [
+      0.401683,
+      "Searching for binary rubies, this might take some time.\r\n"
+    ],
+    [
+      0.406231,
+      "Found remote file https://rvm_io.global.ssl.fastly.net/binaries/ubuntu/14.04/x86_64/ruby-2.1.5.tar.bz2\r\n"
+    ],
+    [
+      0.002708,
+      "Checking requirements for ubuntu.\r\n"
+    ],
+    [
+      0.214564,
+      "Requirements installation successful.\r\n"
+    ],
+    [
+      0.069126,
+      "ruby-2.1.5 - #configure\r\n"
+    ],
+    [
+      0.001580,
+      "ruby-2.1.5 - #download\r\n"
+    ],
+    [
+      1.503200,
+      "ruby-2.1.5 - #validate archive\r\n"
+    ],
+    [
+      6.329658,
+      "ruby-2.1.5 - #extract\r\n"
+    ],
+    [
+      3.324935,
+      "ruby-2.1.5 - #validate binary\r\n"
+    ],
+    [
+      0.300558,
+      "ruby-2.1.5 - #setup\r\n"
+    ],
+    [
+      0.242538,
+      "ruby-2.1.5 - #gemset created /usr/local/rvm/gems/ruby-2.1.5@global\r\n"
+    ],
+    [
+      0.045931,
+      "ruby-2.1.5 - #importing gemset /usr/local/rvm/gemsets/global.gems"
+    ],
+    [
+      0.028285,
+      "...................................\r\n"
+    ],
+    [
+      0.007363,
+      "ruby-2.1.5 - #generating global wrappers"
+    ],
+    [
+      0.135536,
+      "........\r\n"
+    ],
+    [
+      0.020467,
+      "ruby-2.1.5 - #gemset created /usr/local/rvm/gems/ruby-2.1.5\r\n"
+    ],
+    [
+      0.029940,
+      "ruby-2.1.5 - #importing gemsetfile /usr/local/rvm/gemsets/default.gems evaluated to empty gem list\r\n"
+    ],
+    [
+      0.011649,
+      "ruby-2.1.5 - #generating default wrappers"
+    ],
+    [
+      0.165733,
+      "........\r\n"
+    ],
+    [
+      7.852675,
+      " ---\u003e 72778c64384a\r\n"
+    ],
+    [
+      0.875789,
+      "Removing intermediate container 63e64f3077f3\r\nStep 13 : RUN /bin/bash -l -c \"bundle install\"\r\n"
+    ],
+    [
+      0.116682,
+      " ---\u003e Running in 71020c9a4c2e\r\n"
+    ],
+    [
+      0.195081,
+      "ruby-2.1.5 - #gemset created /usr/local/rvm/gems/ruby-2.1.5@keywords_admin\r\n"
+    ],
+    [
+      0.035510,
+      "ruby-2.1.5 - #generating keywords_admin wrappers"
+    ],
+    [
+      0.184833,
+      "..........\r\n"
+    ],
+    [
+      0.133820,
+      "Don't run Bundler as root. Bundler can ask for sudo if it is needed, and\r\ninstalling your bundle as root will break this application for all non-root\r\nusers on this machine.\r\n"
+    ],
+    [
+      0.332391,
+      "Fetching source index from https://gem.fury.io/xogroupinc/\r\n"
+    ],
+    [
+      0.213946,
+      "Fetching source index from https://rubygems.org/"
+    ],
+    [
+      0.000100,
+      "\r\n"
+    ],
+    [
+      47.949539,
+      "Installing rake 10.4.2\r\n"
+    ],
+    [
+      0.483779,
+      "Installing i18n 0.7.0\r\n"
+    ],
+    [
+      2.502824,
+      "Installing json 1.8.2\r\n"
+    ],
+    [
+      0.428094,
+      "Installing minitest 5.5.1\r\n"
+    ],
+    [
+      0.465758,
+      "Installing thread_safe 0.3.4\r\n"
+    ],
+    [
+      0.543791,
+      "Installing tzinfo 1.2.2\r\n"
+    ],
+    [
+      0.703486,
+      "Installing activesupport 4.1.9\r\n"
+    ],
+    [
+      0.406008,
+      "Installing builder 3.2.2\r\n"
+    ],
+    [
+      0.631923,
+      "Installing erubis 2.7.0\r\n"
+    ],
+    [
+      0.486697,
+      "Installing actionview 4.1.9\r\n"
+    ],
+    [
+      0.630127,
+      "Installing rack 1.5.2\r\n"
+    ],
+    [
+      0.400307,
+      "Installing rack-test 0.6.3\r\n"
+    ],
+    [
+      0.626999,
+      "Installing actionpack 4.1.9\r\n"
+    ],
+    [
+      0.419684,
+      "Installing mime-types 2.4.3\r\n"
+    ],
+    [
+      0.685164,
+      "Installing mail 2.6.3\r\n"
+    ],
+    [
+      0.372134,
+      "Installing actionmailer 4.1.9\r\n"
+    ],
+    [
+      0.380104,
+      "Installing activemodel 4.1.9\r\n"
+    ],
+    [
+      0.513953,
+      "Installing arel 5.0.1.20140414130214\r\n"
+    ],
+    [
+      0.495676,
+      "Installing activerecord 4.1.9\r\n"
+    ],
+    [
+      0.506018,
+      "Installing addressable 2.3.7\r\n"
+    ],
+    [
+      0.403893,
+      "Installing execjs 2.3.0\r\n"
+    ],
+    [
+      0.451468,
+      "Installing autoprefixer-rails 5.1.7\r\n"
+    ],
+    [
+      0.463364,
+      "Installing mini_portile 0.6.2\r\n"
+    ],
+    [
+      52.680437,
+      "Installing nokogiri 1.6.6.2\r\n"
+    ],
+    [
+      0.648302,
+      "Installing aws-sdk-v1 1.63.0\r\n"
+    ],
+    [
+      0.413278,
+      "Installing aws-sdk 1.63.0\r\n"
+    ],
+    [
+      0.621482,
+      "Installing coderay 1.1.0\r\n"
+    ],
+    [
+      0.399627,
+      "Installing better_errors 2.1.1\r\n"
+    ],
+    [
+      0.627829,
+      "Installing debug_inspector 0.0.2\r\n"
+    ],
+    [
+      0.503721,
+      "Installing binding_of_caller 0.7.2\r\n"
+    ],
+    [
+      0.539353,
+      "Installing sass 3.2.19\r\n"
+    ],
+    [
+      0.502073,
+      "Installing bootstrap-sass 3.3.3\r\n"
+    ],
+    [
+      0.771916,
+      "Installing bson 2.3.0\r\n"
+    ],
+    [
+      1.445074,
+      "Installing bson_ext 1.5.1\r\n"
+    ],
+    [
+      0.434605,
+      "Installing columnize 0.9.0\r\n"
+    ],
+    [
+      0.376517,
+      "Installing debugger-linecache 1.2.0\r\n"
+    ],
+    [
+      0.399739,
+      "Installing slop 3.6.0\r\n"
+    ],
+    [
+      1.523135,
+      "Installing byebug 3.5.1\r\n"
+    ],
+    [
+      0.445774,
+      "Installing xpath 2.0.0\r\n"
+    ],
+    [
+      0.463113,
+      "Installing capybara 2.4.4\r\n"
+    ],
+    [
+      0.490676,
+      "Installing coffee-script-source 1.9.1\r\n"
+    ],
+    [
+      0.387481,
+      "Installing coffee-script 2.3.0\r\n"
+    ],
+    [
+      0.475723,
+      "Installing thor 0.19.1\r\n"
+    ],
+    [
+      0.501159,
+      "Installing railties 4.1.9\r\n"
+    ],
+    [
+      0.420997,
+      "Installing coffee-rails 4.1.0\r\n"
+    ],
+    [
+      0.382444,
+      "Installing connection_pool 2.1.1\r\n"
+    ],
+    [
+      0.494030,
+      "Installing database_cleaner 1.4.0\r\n"
+    ],
+    [
+      0.381626,
+      "Installing diff-lcs 1.2.5\r\n"
+    ],
+    [
+      0.432819,
+      "Installing dotenv 1.0.2\r\n"
+    ],
+    [
+      0.398225,
+      "Installing launchy 2.4.3\r\n"
+    ],
+    [
+      0.429024,
+      "Installing email_spec 1.6.0\r\n"
+    ],
+    [
+      0.489377,
+      "Installing factory_girl 4.5.0\r\n"
+    ],
+    [
+      0.422896,
+      "Installing factory_girl_rails 4.5.0\r\n"
+    ],
+    [
+      0.366084,
+      "Installing multipart-post 2.0.0\r\n"
+    ],
+    [
+      0.442662,
+      "Installing faraday 0.9.1\r\n"
+    ],
+    [
+      0.436020,
+      "Installing figaro 1.1.0\r\n"
+    ],
+    [
+      0.426793,
+      "Installing foreman 0.77.0\r\n"
+    ],
+    [
+      0.423707,
+      "Installing tilt 1.4.1\r\n"
+    ],
+    [
+      0.497854,
+      "Installing haml 4.0.6\r\n"
+    ],
+    [
+      0.375614,
+      "Installing sexp_processor 4.4.5\r\n"
+    ],
+    [
+      0.619147,
+      "Installing ruby_parser 3.6.4\r\n"
+    ],
+    [
+      0.407988,
+      "Installing html2haml 2.0.0\r\n"
+    ],
+    [
+      0.404498,
+      "Installing haml-rails 0.8.2\r\n"
+    ],
+    [
+      0.422699,
+      "Installing jquery-rails 3.1.2\r\n"
+    ],
+    [
+      0.000196,
+      "Using bundler 1.7.6\r\n"
+    ],
+    [
+      0.376373,
+      "Installing hike 1.2.3\r\n"
+    ],
+    [
+      0.468968,
+      "Installing multi_json 1.10.1\r\n"
+    ],
+    [
+      0.437022,
+      "Installing sprockets 2.12.3\r\n"
+    ],
+    [
+      0.461701,
+      "Installing sprockets-rails 2.2.4\r\n"
+    ],
+    [
+      0.664590,
+      "Installing rails 4.1.9\r\n"
+    ],
+    [
+      0.544072,
+      "Installing hermitage 0.0.6"
+    ],
+    [
+      0.000045,
+      "\r\n"
+    ],
+    [
+      0.472591,
+      "Installing honeybadger 2.0.6"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.429463,
+      "Installing interception 0.5\r\n"
+    ],
+    [
+      0.405703,
+      "Installing jbuilder 2.2.8\r\n"
+    ],
+    [
+      0.521888,
+      "Installing sass-rails 4.0.5\r\n"
+    ],
+    [
+      0.493361,
+      "Installing jquery-datatables-rails 3.1.1\r\n"
+    ],
+    [
+      6.640903,
+      "Installing kgio 2.9.3\r\n"
+    ],
+    [
+      0.853257,
+      "Installing libv8 3.16.14.7\r\n"
+    ],
+    [
+      0.392415,
+      "Installing systemu 2.6.4\r\n"
+    ],
+    [
+      0.765354,
+      "Installing macaddr 1.7.1\r\n"
+    ],
+    [
+      0.401566,
+      "Installing method_source 0.8.2"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.410844,
+      "Installing optionable 0.2.0\r\n"
+    ],
+    [
+      0.415509,
+      "Installing moped 2.0.4\r\n"
+    ],
+    [
+      0.443248,
+      "Installing origin 2.1.1\r\n"
+    ],
+    [
+      0.677123,
+      "Installing mongoid 4.0.2\r\n"
+    ],
+    [
+      0.421227,
+      "Installing rspec-support 3.2.2\r\n"
+    ],
+    [
+      0.462101,
+      "Installing rspec-core 3.2.1\r\n"
+    ],
+    [
+      0.467958,
+      "Installing rspec-expectations 3.2.0\r\n"
+    ],
+    [
+      0.393869,
+      "Installing rspec-mocks 3.2.1\r\n"
+    ],
+    [
+      0.337902,
+      "Installing rspec 3.2.0\r\n"
+    ],
+    [
+      0.526950,
+      "Installing mongoid-rspec 2.1.0\r\n"
+    ],
+    [
+      0.402707,
+      "Installing mongoid-tree 2.0.0\r\n"
+    ],
+    [
+      0.194024,
+      "Installing mongotastic 0.0.7\r\n"
+    ],
+    [
+      0.875683,
+      "Installing newrelic_rpm 3.10.0.279\r\n"
+    ],
+    [
+      0.424377,
+      "Installing pry 0.10.1\r\n"
+    ],
+    [
+      0.494383,
+      "Installing pry-nav 0.2.4\r\n"
+    ],
+    [
+      0.382582,
+      "Installing pry-rails 0.3.3\r\n"
+    ],
+    [
+      0.405798,
+      "Installing pry-rescue 1.4.1\r\n"
+    ],
+    [
+      0.417861,
+      "Installing quiet_assets 1.1.0\r\n"
+    ],
+    [
+      0.393019,
+      "Installing rack-timeout 0.2.0\r\n"
+    ],
+    [
+      0.438846,
+      "Installing rails_layout 1.0.24\r\n"
+    ],
+    [
+      2.333726,
+      "Installing raindrops 0.13.0\r\n"
+    ],
+    [
+      0.388530,
+      "Installing ref 1.0.5\r\n"
+    ],
+    [
+      0.478217,
+      "Installing rspec-rails 3.2.1\r\n"
+    ],
+    [
+      0.367972,
+      "Installing uuid 2.3.7\r\n"
+    ],
+    [
+      0.450974,
+      "Installing ruby-saml 0.9.1\r\n"
+    ],
+    [
+      0.408349,
+      "Installing simple_form 3.1.0\r\n"
+    ],
+    [
+      9.760316,
+      "Installing therubyracer 0.12.1\r\n"
+    ],
+    [
+      0.463806,
+      "Installing uglifier 2.7.0\r\n"
+    ],
+    [
+      3.569265,
+      "Installing unicorn 4.8.3\r\n"
+    ],
+    [
+      0.452461,
+      "Installing uuidtools 2.1.5\r\n"
+    ],
+    [
+      0.006347,
+      "Your bundle is complete!\r\nUse `bundle show [gemname]` to see where a bundled gem is installed.\r\nPost-install message from haml:\r\n"
+    ],
+    [
+      0.000307,
+      "\r\nHEADS UP! Haml 4.0 has many improvements, but also has changes that may break\r\nyour application:\r\n\r\n* Support for Ruby 1.8.6 dropped\r\n* Support for Rails 2 dropped\r\n* Sass filter now always outputs \u003cstyle\u003e tags\r\n* Data attributes are now hyphenated, not underscored\r\n* html2haml utility moved to the html2haml gem\r\n* Textile and Maruku filters moved to the haml-contrib gem\r\n\r\nFor more info see:\r\n\r\nhttp://rubydoc.info/github/haml/haml/file/CHANGELOG.md\r\n\r\nPost-install message from honeybadger:\r\n\r\n  Thanks for installing honeybadger version 2.0! If you're upgrading from 1.x,\r\n  please note that there may be a few configuration changes required. Read the\r\n  upgrade instructions at:\r\n\r\n  https://www.honeybadger.io/s/gem-upgrade\r\n\r\n"
+    ],
+    [
+      11.694780,
+      " ---\u003e 91605c8c9999\r\n"
+    ],
+    [
+      0.969225,
+      "Removing intermediate container 71020c9a4c2e\r\nStep 14 : CMD [\"/usr/bin/supervisord\",  \"-c\", \"/etc/supervisor/supervisord.conf\", \"-n\"]\r\n"
+    ],
+    [
+      0.121287,
+      " ---\u003e Running in d3beab411f09\r\n"
+    ],
+    [
+      5.223016,
+      " ---\u003e d84def7efa9b\r\n"
+    ],
+    [
+      0.934721,
+      "Removing intermediate container d3beab411f09\r\nStep 15 : EXPOSE 22 80\r\n"
+    ],
+    [
+      0.119107,
+      " ---\u003e Running in c7ef0f28af98\r\n"
+    ],
+    [
+      5.157248,
+      " ---\u003e bc71655fc284\r\n"
+    ],
+    [
+      0.994345,
+      "Removing intermediate container c7ef0f28af98\r\nSuccessfully built bc71655fc284\r\n"
+    ],
+    [
+      0.001012,
+      "root@ip-172-23-4-12:~/docker-ruby-app# "
+    ],
+    [
+      2.981696,
+      "d"
+    ],
+    [
+      0.151857,
+      "o"
+    ],
+    [
+      0.137321,
+      "c"
+    ],
+    [
+      0.080025,
+      "\u0007ker"
+    ],
+    [
+      0.712518,
+      " "
+    ],
+    [
+      0.247233,
+      "i"
+    ],
+    [
+      0.183168,
+      "m"
+    ],
+    [
+      0.072007,
+      "a"
+    ],
+    [
+      0.088233,
+      "g"
+    ],
+    [
+      0.128807,
+      "e"
+    ],
+    [
+      0.158648,
+      "s"
+    ],
+    [
+      0.237548,
+      "\r\n"
+    ],
+    [
+      0.019796,
+      "REPOSITORY                TAG        "
+    ],
+    [
+      0.000047,
+      "         IMAGE ID            CREATED             VIRTUAL SIZE\r\nruby-test                 latest              bc71655fc284        9 seconds ago       824.2 MB\r\nrprashad/xo-trusty-base   latest              a6357c79e2a5        16 minutes ago      544.7 MB\r\n"
+    ],
+    [
+      0.000472,
+      "root@ip-172-23-4-12:~/docker-ruby-app# "
+    ],
+    [
+      0.582431,
+      "d"
+    ],
+    [
+      0.111978,
+      "o"
+    ],
+    [
+      0.096493,
+      "c"
+    ],
+    [
+      0.096793,
+      "\u0007"
+    ],
+    [
+      0.000066,
+      "ker"
+    ],
+    [
+      0.279272,
+      " "
+    ],
+    [
+      0.296398,
+      "r"
+    ],
+    [
+      0.127914,
+      "u"
+    ],
+    [
+      0.783403,
+      "n"
+    ],
+    [
+      0.880799,
+      " "
+    ],
+    [
+      0.391483,
+      "r"
+    ],
+    [
+      0.138504,
+      "u"
+    ],
+    [
+      0.165439,
+      "b"
+    ],
+    [
+      0.232220,
+      "y"
+    ],
+    [
+      0.480221,
+      "t"
+    ],
+    [
+      0.408319,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.199194,
+      "-"
+    ],
+    [
+      0.103501,
+      "t"
+    ],
+    [
+      0.072367,
+      "e"
+    ],
+    [
+      0.065780,
+      "s"
+    ],
+    [
+      0.094002,
+      "t"
+    ],
+    [
+      0.576959,
+      "\u001b[H\u001b[Jroot@ip-172-23-4-12:~/docker-ruby-app# docker run ruby-test"
+    ],
+    [
+      1.975642,
+      "\r\n"
+    ],
+    [
+      0.292860,
+      "2015-03-19 20:01:02,164 CRIT Supervisor running as root (no user in config file)\r\n"
+    ],
+    [
+      0.000184,
+      "2015-03-19 20:01:02,164 WARN Included extra file \"/etc/supervisor/conf.d/supervisor_unicorn.conf\" during parsing\r\n2015-03-19 20:01:02,164 WARN Included extra file \"/etc/supervisor/conf.d/supervisor_sshd.conf\" during parsing\r\n"
+    ],
+    [
+      0.019278,
+      "2015-03-19 20:01:02,184 INFO RPC interface 'supervisor' initialized\r\n"
+    ],
+    [
+      0.000184,
+      "2015-03-19 20:01:02,184 CRIT Server 'unix_http_server' running without any HTTP authentication checking\r\n"
+    ],
+    [
+      0.000308,
+      "2015-03-19 20:01:02,184 INFO supervisord started with pid 1\r\n"
+    ],
+    [
+      1.002215,
+      "2015-03-19 20:01:03,186 INFO spawned: 'sshd' with pid 12\r\n"
+    ],
+    [
+      0.001393,
+      "2015-03-19 20:01:03,188 INFO spawned: 'unicorn' with pid 13\r\n"
+    ],
+    [
+      0.734260,
+      "2015-03-19 20:01:03,922 INFO exited: unicorn (exit status 1; not expected)\r\n"
+    ],
+    [
+      1.001405,
+      "2015-03-19 20:01:04,923 INFO success: sshd entered RUNNING state, process has stayed up for \u003e than 1 seconds (startsecs)\r\n"
+    ],
+    [
+      0.000905,
+      "2015-03-19 20:01:04,924 INFO spawned: 'unicorn' with pid 103\r\n"
+    ],
+    [
+      0.675552,
+      "2015-03-19 20:01:05,600 INFO exited: unicorn (exit status 1; not expected)\r\n"
+    ],
+    [
+      2.003590,
+      "2015-03-19 20:01:07,603 INFO spawned: 'unicorn' with pid 193\r\n"
+    ],
+    [
+      0.683164,
+      "2015-03-19 20:01:08,287 INFO exited: unicorn (exit status 1; not expected)\r\n"
+    ],
+    [
+      3.004785,
+      "2015-03-19 20:01:11,291 INFO spawned: 'unicorn' with pid 283\r\n"
+    ],
+    [
+      0.675695,
+      "2015-03-19 20:01:11,967 INFO exited: unicorn (exit status 1; not expected)\r\n"
+    ],
+    [
+      1.001345,
+      "2015-03-19 20:01:12,968 INFO gave up: unicorn entered FATAL state, too many start retries too quickly\r\n"
+    ],
+    [
+      55.989788,
+      "\r\n"
+    ],
+    [
+      1.055775,
+      "\r\n"
+    ],
+    [
+      0.431743,
+      "\r\n"
+    ],
+    [
+      0.191943,
+      "\r\n"
+    ],
+    [
+      3.928726,
+      "\r\n"
+    ],
+    [
+      0.199505,
+      "\r\n"
+    ],
+    [
+      0.167885,
+      "\r\n"
+    ],
+    [
+      0.639855,
+      "^C"
+    ],
+    [
+      0.001276,
+      "2015-03-19 20:02:15,575 WARN received SIGINT indicating exit request\r\n"
+    ],
+    [
+      0.000340,
+      "2015-03-19 20:02:15,575 INFO waiting for sshd to die\r\n"
+    ],
+    [
+      1.002035,
+      "2015-03-19 20:02:16,577 INFO stopped: sshd (exit status 0)\r\n"
+    ],
+    [
+      0.088038,
+      "root@ip-172-23-4-12:~/docker-ruby-app# "
+    ],
+    [
+      9.413236,
+      "exit\r\n"
+    ]
+  ]
+}
