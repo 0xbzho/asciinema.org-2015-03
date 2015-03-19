@@ -1,0 +1,2134 @@
+{
+  "version": 1,
+  "width": 129,
+  "height": 17,
+  "duration": 315.558929,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "screen",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.009059,
+      "root@ip-172-23-4-12:~# "
+    ],
+    [
+      1.374999,
+      "p"
+    ],
+    [
+      0.095827,
+      "w"
+    ],
+    [
+      0.056672,
+      "d"
+    ],
+    [
+      0.135448,
+      "\r\n"
+    ],
+    [
+      0.000067,
+      "/root\r\n"
+    ],
+    [
+      0.000057,
+      "root@ip-172-23-4-12:~# "
+    ],
+    [
+      0.448650,
+      "l"
+    ],
+    [
+      0.082320,
+      "s"
+    ],
+    [
+      0.108678,
+      "\r\n"
+    ],
+    [
+      0.001268,
+      "\u001b[0m\u001b[01;34mdocker-ruby-app\u001b[0m  \u001b[01;34mdocker-xo-web\u001b[0m  \u001b[01;32meditenv.sh\u001b[0m  \u001b[01;32mmkimage.sh\u001b[0m  \u001b[01;34mstaging\u001b[0m  t13.pem\r\n"
+    ],
+    [
+      0.000128,
+      "root@ip-172-23-4-12:~# "
+    ],
+    [
+      1.567756,
+      "c"
+    ],
+    [
+      0.095136,
+      "d"
+    ],
+    [
+      0.047867,
+      " "
+    ],
+    [
+      0.176672,
+      "d"
+    ],
+    [
+      0.159592,
+      "o"
+    ],
+    [
+      0.048704,
+      "c"
+    ],
+    [
+      0.102983,
+      "\u0007"
+    ],
+    [
+      0.000030,
+      "ker-"
+    ],
+    [
+      0.840328,
+      "r"
+    ],
+    [
+      0.176244,
+      "uby-app/"
+    ],
+    [
+      0.471812,
+      "\r\n"
+    ],
+    [
+      0.000191,
+      "root@ip-172-23-4-12:~/docker-ruby-app# "
+    ],
+    [
+      0.407947,
+      "c"
+    ],
+    [
+      0.080116,
+      "a"
+    ],
+    [
+      0.183232,
+      "t"
+    ],
+    [
+      0.079855,
+      " "
+    ],
+    [
+      0.312985,
+      "D"
+    ],
+    [
+      0.207585,
+      "o"
+    ],
+    [
+      0.143627,
+      "c"
+    ],
+    [
+      0.072345,
+      "kerfile "
+    ],
+    [
+      0.624800,
+      "\r\n"
+    ],
+    [
+      0.001065,
+      "FROM rprashad/xo-trusty-base\r\n\r\nUSER root"
+    ],
+    [
+      0.000191,
+      "\r\n\r\n# SUPERVISOR\r\nADD supervisor_sshd.conf /etc/supervisor/conf.d/\r\nADD supervisor_unicorn.conf /etc/supervisor/conf.d/\r\n\r\n# NGINX - Should be exporting /unicorn.sock to /var/run/unicorn.sock\r\nADD nginx.conf /etc/nginx/nginx.conf\r\nADD default_app.conf /etc/nginx/sites-available/default_app.conf\r\n#RUN ln -sf /etc/nginx/sites-available/default_app.conf /etc/nginx/sites-enabled/\r\n\r\n# UNICORN\r\nADD unicorn.conf /etc/unicorn/unicorn.conf\r\n\r\nUSER deploy\r\n\r\n# ADD APPLICATION\r\nRUN git clone git@git.xogrp.com:Shared/taxonomy_api.git /webapp/current\r\nWORKDIR /webapp/current\r\nRUN git checkout master\r\n\r\nUSER root\r\nRUN sudo /bin/bash -c \"source /etc/profile \u0026\u0026 /usr/local/rvm/bin/rvm install `cat .ruby-version ` 2\u003e /dev/null || rvm install 2.1.2\"\r\n\r\n# bundle install\r\nRUN /bin/bash -l -c \"bundle install\"\r\n\r\n\r\nCMD [\"/usr/bin/supervisord\",  \"-c\", \"/etc/supervisor/supervisord.conf\", \"-n\"]"
+    ],
+    [
+      0.000050,
+      "\r\nEXPOSE 22 80\r\nroot@ip-172-23-4-12:~/docker-ruby-app# "
+    ],
+    [
+      1.062820,
+      "d"
+    ],
+    [
+      0.150886,
+      "o"
+    ],
+    [
+      0.072298,
+      "c"
+    ],
+    [
+      0.064598,
+      "\u0007"
+    ],
+    [
+      0.000008,
+      "ker"
+    ],
+    [
+      0.447860,
+      " "
+    ],
+    [
+      0.198839,
+      "b"
+    ],
+    [
+      0.233210,
+      "u"
+    ],
+    [
+      0.056101,
+      "i"
+    ],
+    [
+      0.207156,
+      "l"
+    ],
+    [
+      0.139524,
+      "d"
+    ],
+    [
+      0.397467,
+      " "
+    ],
+    [
+      0.199335,
+      "-"
+    ],
+    [
+      0.136700,
+      "t"
+    ],
+    [
+      0.079087,
+      " "
+    ],
+    [
+      0.303728,
+      "r"
+    ],
+    [
+      0.154939,
+      "u"
+    ],
+    [
+      0.180915,
+      "b"
+    ],
+    [
+      0.209001,
+      "y"
+    ],
+    [
+      0.273835,
+      "-"
+    ],
+    [
+      0.147811,
+      "t"
+    ],
+    [
+      0.026224,
+      "e"
+    ],
+    [
+      0.087387,
+      "s"
+    ],
+    [
+      0.079498,
+      "t"
+    ],
+    [
+      0.121255,
+      " "
+    ],
+    [
+      0.327028,
+      "."
+    ],
+    [
+      0.417444,
+      "\u001b[H\u001b[Jroot@ip-172-23-4-12:~/docker-ruby-app# docker build -t ruby-test ."
+    ],
+    [
+      0.543628,
+      "\r\n"
+    ],
+    [
+      0.020734,
+      "Sending build context to Docker daemon  12.8 kB\r\r\r\nSending build context to Docker daemon \r\r\nStep 0 : FROM rprashad/xo-trusty-base\r\n ---\u003e bf60a24a1028\r\nStep 1 : USER root\r\n ---\u003e Using cache\r\n ---\u003e f09a4f417904\r\nStep 2 : ADD supervisor_sshd.conf /etc/supervisor/conf.d/\r\n"
+    ],
+    [
+      0.001630,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000057,
+      " ---\u003e 2c14cb6cd4cb"
+    ],
+    [
+      0.000059,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "Step 3 : ADD supervisor_unicorn.conf /etc/supervisor/conf.d/\r\n"
+    ],
+    [
+      0.002383,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000004,
+      " ---\u003e e38998792c52"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "Step 4 : ADD nginx.conf /etc/nginx/nginx.conf\r\n"
+    ],
+    [
+      0.002473,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000007,
+      " ---\u003e 7272eca85f4d"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "Step 5 : ADD default_app.conf /etc/nginx/sites-available/default_app.conf\r\n"
+    ],
+    [
+      0.002407,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000004,
+      " ---\u003e ddceb4ae78d5\r\n"
+    ],
+    [
+      0.000067,
+      "Step 6 : ADD unicorn.conf /etc/unicorn/unicorn.conf\r\n"
+    ],
+    [
+      0.002351,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000004,
+      " ---\u003e 81da221e2a7a"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "Step 7 : USER deploy\r\n"
+    ],
+    [
+      0.002051,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000004,
+      " ---\u003e 8b23fd514585"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "Step 8 : RUN git clone git@git.xogrp.com:Shared/taxonomy_api.git /webapp/current"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.001534,
+      " ---\u003e Using cache"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      " ---\u003e 8208b3f3181d"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "Step 9 : WORKDIR /webapp/current"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.001626,
+      " ---\u003e Using cache"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      " ---\u003e 170f6454b149"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "Step 10 : RUN git checkout master"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.001450,
+      " ---\u003e Using cache"
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      " ---\u003e f070eb0c45ba"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000055,
+      "Step 11 : USER root"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.001868,
+      " ---\u003e Using cache"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      " ---\u003e cb8990a10ac9"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "Step 12 : RUN sudo /bin/bash -c \"source /etc/profile \u0026\u0026 /usr/local/rvm/bin/rvm install `cat .ruby-version ` 2\u003e /dev/null || rvm install 2.1.2\""
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.003494,
+      " ---\u003e Using cache"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      " ---\u003e ba28ba35281a"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "Step 13 : RUN /bin/bash -l -c \"bundle install\""
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.124427,
+      " ---\u003e Running in 4a7083a80237\r\n"
+    ],
+    [
+      0.204707,
+      "ruby-2.1.5 - #gemset created /usr/local/rvm/gems/ruby-2.1.5@keywords_admin\r\n"
+    ],
+    [
+      0.039176,
+      "ruby-2.1.5 - #generating keywords_admin wrappers"
+    ],
+    [
+      0.193207,
+      "..........\r\n"
+    ],
+    [
+      0.138294,
+      "Don't run Bundler as root. Bundler can ask for sudo if it is needed, and\r\ninstalling your bundle as root will break this application for all non-root\r\nusers on this machine.\r\n"
+    ],
+    [
+      0.297779,
+      "Fetching source index from https://gem.fury.io/xogroupinc/\r\n"
+    ],
+    [
+      0.231783,
+      "Fetching source index from https://rubygems.org/\r\n"
+    ],
+    [
+      45.469164,
+      "o"
+    ],
+    [
+      0.374596,
+      "m"
+    ],
+    [
+      0.287936,
+      "g"
+    ],
+    [
+      0.992413,
+      "\u0008 \u0008"
+    ],
+    [
+      0.175978,
+      "\u0008 \u0008"
+    ],
+    [
+      0.152179,
+      "\u0008 \u0008"
+    ],
+    [
+      2.123025,
+      "Installing rake 10.4.2\r\n"
+    ],
+    [
+      0.528860,
+      "Installing i18n 0.7.0\r\n"
+    ],
+    [
+      2.448141,
+      "Installing json 1.8.2\r\n"
+    ],
+    [
+      0.421737,
+      "Installing minitest 5.5.1\r\n"
+    ],
+    [
+      0.516408,
+      "Installing thread_safe 0.3.4\r\n"
+    ],
+    [
+      0.448646,
+      "Installing tzinfo 1.2.2\r\n"
+    ],
+    [
+      0.687885,
+      "Installing activesupport 4.1.9\r\n"
+    ],
+    [
+      0.377215,
+      "Installing builder 3.2.2\r\n"
+    ],
+    [
+      0.610573,
+      "Installing erubis 2.7.0\r\n"
+    ],
+    [
+      0.391382,
+      "Installing actionview 4.1.9\r\n"
+    ],
+    [
+      0.609884,
+      "Installing rack 1.5.2\r\n"
+    ],
+    [
+      0.401484,
+      "Installing rack-test 0.6.3\r\n"
+    ],
+    [
+      0.544362,
+      "Installing actionpack 4.1.9\r\n"
+    ],
+    [
+      0.404365,
+      "Installing mime-types 2.4.3\r\n"
+    ],
+    [
+      0.722301,
+      "Installing mail 2.6.3\r\n"
+    ],
+    [
+      0.350754,
+      "Installing actionmailer 4.1.9\r\n"
+    ],
+    [
+      0.409477,
+      "Installing activemodel 4.1.9\r\n"
+    ],
+    [
+      0.537321,
+      "Installing arel 5.0.1.20140414130214\r\n"
+    ],
+    [
+      0.587558,
+      "Installing activerecord 4.1.9\r\n"
+    ],
+    [
+      0.526619,
+      "Installing addressable 2.3.7\r\n"
+    ],
+    [
+      0.395504,
+      "Installing execjs 2.3.0\r\n"
+    ],
+    [
+      0.404407,
+      "Installing autoprefixer-rails 5.1.7\r\n"
+    ],
+    [
+      0.473403,
+      "Installing mini_portile 0.6.2\r\n"
+    ],
+    [
+      52.489790,
+      "Installing nokogiri 1.6.6.2\r\n"
+    ],
+    [
+      0.710415,
+      "Installing aws-sdk-v1 1.63.0\r\n"
+    ],
+    [
+      0.476083,
+      "Installing aws-sdk 1.63.0\r\n"
+    ],
+    [
+      0.648831,
+      "Installing coderay 1.1.0\r\n"
+    ],
+    [
+      0.423939,
+      "Installing better_errors 2.1.1\r\n"
+    ],
+    [
+      0.726996,
+      "Installing debug_inspector 0.0.2\r\n"
+    ],
+    [
+      0.538206,
+      "Installing binding_of_caller 0.7.2\r\n"
+    ],
+    [
+      0.690834,
+      "Installing sass 3.2.19\r\n"
+    ],
+    [
+      0.594053,
+      "Installing bootstrap-sass 3.3.3\r\n"
+    ],
+    [
+      0.846145,
+      "Installing bson 2.3.0\r\n"
+    ],
+    [
+      1.523506,
+      "Installing bson_ext 1.5.1\r\n"
+    ],
+    [
+      0.508885,
+      "Installing columnize 0.9.0\r\n"
+    ],
+    [
+      0.458814,
+      "Installing debugger-linecache 1.2.0\r\n"
+    ],
+    [
+      0.484154,
+      "Installing slop 3.6.0\r\n"
+    ],
+    [
+      1.546941,
+      "Installing byebug 3.5.1\r\n"
+    ],
+    [
+      0.446834,
+      "Installing xpath 2.0.0\r\n"
+    ],
+    [
+      0.538882,
+      "Installing capybara 2.4.4\r\n"
+    ],
+    [
+      0.522716,
+      "Installing coffee-script-source 1.9.1\r\n"
+    ],
+    [
+      0.434455,
+      "Installing coffee-script 2.3.0\r\n"
+    ],
+    [
+      0.544599,
+      "Installing thor 0.19.1\r\n"
+    ],
+    [
+      0.510543,
+      "Installing railties 4.1.9\r\n"
+    ],
+    [
+      0.421263,
+      "Installing coffee-rails 4.1.0\r\n"
+    ],
+    [
+      0.395685,
+      "Installing connection_pool 2.1.1\r\n"
+    ],
+    [
+      0.541834,
+      "Installing database_cleaner 1.4.0\r\n"
+    ],
+    [
+      0.454125,
+      "Installing diff-lcs 1.2.5\r\n"
+    ],
+    [
+      0.474667,
+      "Installing dotenv 1.0.2\r\n"
+    ],
+    [
+      0.458324,
+      "Installing launchy 2.4.3\r\n"
+    ],
+    [
+      0.449116,
+      "Installing email_spec 1.6.0\r\n"
+    ],
+    [
+      0.582796,
+      "Installing factory_girl 4.5.0\r\n"
+    ],
+    [
+      0.453655,
+      "Installing factory_girl_rails 4.5.0\r\n"
+    ],
+    [
+      0.426053,
+      "Installing multipart-post 2.0.0\r\n"
+    ],
+    [
+      0.444424,
+      "Installing faraday 0.9.1\r\n"
+    ],
+    [
+      0.384807,
+      "Installing figaro 1.1.0\r\n"
+    ],
+    [
+      0.433546,
+      "Installing foreman 0.77.0\r\n"
+    ],
+    [
+      0.510476,
+      "Installing tilt 1.4.1\r\n"
+    ],
+    [
+      0.486804,
+      "Installing haml 4.0.6\r\n"
+    ],
+    [
+      0.505905,
+      "Installing sexp_processor 4.4.5\r\n"
+    ],
+    [
+      0.568446,
+      "Installing ruby_parser 3.6.4\r\n"
+    ],
+    [
+      0.478538,
+      "Installing html2haml 2.0.0\r\n"
+    ],
+    [
+      0.425098,
+      "Installing haml-rails 0.8.2\r\n"
+    ],
+    [
+      0.402117,
+      "Installing jquery-rails 3.1.2\r\n"
+    ],
+    [
+      0.000205,
+      "Using bundler 1.7.6\r\n"
+    ],
+    [
+      0.453194,
+      "Installing hike 1.2.3\r\n"
+    ],
+    [
+      0.404651,
+      "Installing multi_json 1.10.1\r\n"
+    ],
+    [
+      0.523915,
+      "Installing sprockets 2.12.3\r\n"
+    ],
+    [
+      0.419498,
+      "Installing sprockets-rails 2.2.4\r\n"
+    ],
+    [
+      0.955151,
+      "Installing rails 4.1.9\r\n"
+    ],
+    [
+      0.499165,
+      "Installing hermitage 0.0.6\r\n"
+    ],
+    [
+      0.420752,
+      "Installing honeybadger 2.0.6\r\n"
+    ],
+    [
+      0.545404,
+      "Installing interception 0.5\r\n"
+    ],
+    [
+      0.437178,
+      "Installing jbuilder 2.2.8\r\n"
+    ],
+    [
+      0.493597,
+      "Installing sass-rails 4.0.5\r\n"
+    ],
+    [
+      0.694759,
+      "Installing jquery-datatables-rails 3.1.1\r\n"
+    ],
+    [
+      7.007862,
+      "Installing kgio 2.9.3\r\n"
+    ],
+    [
+      0.835765,
+      "Installing libv8 3.16.14.7\r\n"
+    ],
+    [
+      0.445319,
+      "Installing systemu 2.6.4\r\n"
+    ],
+    [
+      0.421154,
+      "Installing macaddr 1.7.1\r\n"
+    ],
+    [
+      0.394280,
+      "Installing method_source 0.8.2\r\n"
+    ],
+    [
+      0.468468,
+      "Installing optionable 0.2.0\r\n"
+    ],
+    [
+      0.418229,
+      "Installing moped 2.0.4\r\n"
+    ],
+    [
+      0.427355,
+      "Installing origin 2.1.1\r\n"
+    ],
+    [
+      0.656289,
+      "Installing mongoid 4.0.2\r\n"
+    ],
+    [
+      0.549127,
+      "Installing rspec-support 3.2.2\r\n"
+    ],
+    [
+      0.510253,
+      "Installing rspec-core 3.2.1\r\n"
+    ],
+    [
+      0.509008,
+      "Installing rspec-expectations 3.2.0\r\n"
+    ],
+    [
+      0.387899,
+      "Installing rspec-mocks 3.2.1\r\n"
+    ],
+    [
+      0.413990,
+      "Installing rspec 3.2.0\r\n"
+    ],
+    [
+      0.408867,
+      "Installing mongoid-rspec 2.1.0\r\n"
+    ],
+    [
+      0.396595,
+      "Installing mongoid-tree 2.0.0\r\n"
+    ],
+    [
+      0.187982,
+      "Installing mongotastic 0.0.7\r\n"
+    ],
+    [
+      1.032471,
+      "Installing newrelic_rpm 3.10.0.279\r\n"
+    ],
+    [
+      0.468991,
+      "Installing pry 0.10.1\r\n"
+    ],
+    [
+      0.612285,
+      "Installing pry-nav 0.2.4\r\n"
+    ],
+    [
+      0.423075,
+      "Installing pry-rails 0.3.3\r\n"
+    ],
+    [
+      0.408477,
+      "Installing pry-rescue 1.4.1\r\n"
+    ],
+    [
+      0.447051,
+      "Installing quiet_assets 1.1.0\r\n"
+    ],
+    [
+      0.395823,
+      "Installing rack-timeout 0.2.0\r\n"
+    ],
+    [
+      0.411968,
+      "Installing rails_layout 1.0.24\r\n"
+    ],
+    [
+      2.252403,
+      "Installing raindrops 0.13.0\r\n"
+    ],
+    [
+      0.411873,
+      "Installing ref 1.0.5\r\n"
+    ],
+    [
+      0.676684,
+      "Installing rspec-rails 3.2.1\r\n"
+    ],
+    [
+      0.384169,
+      "Installing uuid 2.3.7\r\n"
+    ],
+    [
+      0.571085,
+      "Installing ruby-saml 0.9.1\r\n"
+    ],
+    [
+      0.427486,
+      "Installing simple_form 3.1.0\r\n"
+    ],
+    [
+      9.422539,
+      "Installing therubyracer 0.12.1\r\n"
+    ],
+    [
+      0.508704,
+      "Installing uglifier 2.7.0\r\n"
+    ],
+    [
+      3.712138,
+      "Installing unicorn 4.8.3\r\n"
+    ],
+    [
+      0.400937,
+      "Installing uuidtools 2.1.5\r\n"
+    ],
+    [
+      0.006935,
+      "Your bundle is complete!\r\nUse `bundle show [gemname]` to see where a bundled gem is installed.\r\nPost-install message from haml:\r\n"
+    ],
+    [
+      0.000313,
+      "\r\nHEADS UP! Haml 4.0 has many improvements, but also has changes that may break\r\nyour application:\r\n\r\n* Support for Ruby 1.8.6 dropped\r\n* Support for Rails 2 dropped\r\n* Sass filter now always outputs \u003cstyle\u003e tags\r\n* Data attributes are now hyphenated, not underscored\r\n* html2haml utility moved to the html2haml gem\r\n* Textile and Maruku filters moved to the haml-contrib gem\r\n\r\nFor more info see:\r\n\r\nhttp://rubydoc.info/github/haml/haml/file/CHANGELOG.md\r\n\r\nPost-install message from honeybadger:\r\n\r\n  Thanks for installing honeybadger version 2.0! If you're upgrading from 1.x,\r\n  please note that there may be a few configuration changes required. Read the\r\n  upgrade instructions at:\r\n\r\n  https://www.honeybadger.io/s/gem-upgrade\r\n\r\n"
+    ],
+    [
+      11.733656,
+      " ---\u003e 588d2f7b4bcc\r\n"
+    ],
+    [
+      1.016079,
+      "Removing intermediate container 4a7083a80237\r\nStep 14 : CMD [\"/usr/bin/supervisord\",  \"-c\", \"/etc/supervisor/supervisord.conf\", \"-n\"]\r\n"
+    ],
+    [
+      0.119887,
+      " ---\u003e Running in c177077e431b\r\n"
+    ],
+    [
+      5.128694,
+      " ---\u003e c552bb6071e4\r\n"
+    ],
+    [
+      0.953245,
+      "Removing intermediate container c177077e431b\r\nStep 15 : EXPOSE 22 80\r\n"
+    ],
+    [
+      0.121218,
+      " ---\u003e Running in 70de8ee216ba\r\n"
+    ],
+    [
+      5.171915,
+      " ---\u003e ba8d3c4822be\r\n"
+    ],
+    [
+      1.068778,
+      "Removing intermediate container 70de8ee216ba\r\nSuccessfully built ba8d3c4822be\r\n"
+    ],
+    [
+      0.001043,
+      "root@ip-172-23-4-12:~/docker-ruby-app# "
+    ],
+    [
+      4.027491,
+      "d"
+    ],
+    [
+      0.176538,
+      "o"
+    ],
+    [
+      0.271307,
+      "c"
+    ],
+    [
+      0.144079,
+      "\u0007ker"
+    ],
+    [
+      0.496902,
+      " "
+    ],
+    [
+      0.142827,
+      "i"
+    ],
+    [
+      0.160035,
+      "m"
+    ],
+    [
+      0.096215,
+      "a"
+    ],
+    [
+      0.152243,
+      "g"
+    ],
+    [
+      0.103031,
+      "e"
+    ],
+    [
+      0.192153,
+      "s"
+    ],
+    [
+      0.640504,
+      "\r\n"
+    ],
+    [
+      0.019678,
+      "REPOSITORY                "
+    ],
+    [
+      0.000120,
+      "TAG                 IMAGE ID            CREATED             VIRTUAL SIZE\r\nruby-test                 latest              ba8d3c4822be        11 seconds ago      824.2 MB\r\nrprashad/xo-trusty-base   latest              bf60a24a1028        16 minutes ago      544.7 MB\r\n"
+    ],
+    [
+      0.000531,
+      "root@ip-172-23-4-12:~/docker-ruby-app# "
+    ],
+    [
+      1.179013,
+      "d"
+    ],
+    [
+      0.143960,
+      "o"
+    ],
+    [
+      0.104437,
+      "c"
+    ],
+    [
+      0.088359,
+      "\u0007"
+    ],
+    [
+      0.000008,
+      "ker"
+    ],
+    [
+      0.215922,
+      " "
+    ],
+    [
+      1.168834,
+      "r"
+    ],
+    [
+      0.110394,
+      "u"
+    ],
+    [
+      0.193332,
+      "n"
+    ],
+    [
+      0.079390,
+      " "
+    ],
+    [
+      0.640101,
+      "-"
+    ],
+    [
+      0.456396,
+      "d"
+    ],
+    [
+      0.215174,
+      " "
+    ],
+    [
+      0.344896,
+      "r"
+    ],
+    [
+      0.080091,
+      "u"
+    ],
+    [
+      0.190486,
+      "b"
+    ],
+    [
+      0.256677,
+      "y"
+    ],
+    [
+      0.631629,
+      "-"
+    ],
+    [
+      0.288448,
+      "t"
+    ],
+    [
+      0.079874,
+      "e"
+    ],
+    [
+      0.079977,
+      "s"
+    ],
+    [
+      0.104127,
+      "t"
+    ],
+    [
+      1.679375,
+      "\r\n"
+    ],
+    [
+      0.136354,
+      "4c25f490df1ba1f8b7ecf91779898cddf2186dc96a22f00cc2c04a8ab8774363\r\n"
+    ],
+    [
+      0.048178,
+      "root@ip-172-23-4-12:~/docker-ruby-app# "
+    ],
+    [
+      1.272556,
+      "d"
+    ],
+    [
+      0.130652,
+      "o"
+    ],
+    [
+      0.084340,
+      "c"
+    ],
+    [
+      0.073095,
+      "\u0007ker"
+    ],
+    [
+      0.218987,
+      " "
+    ],
+    [
+      0.323780,
+      "p"
+    ],
+    [
+      0.176069,
+      "s"
+    ],
+    [
+      1.121477,
+      "\r\n"
+    ],
+    [
+      0.012356,
+      "CONTAINER ID"
+    ],
+    [
+      0.000021,
+      "        "
+    ],
+    [
+      0.000045,
+      "IMAGE"
+    ],
+    [
+      0.000055,
+      "        "
+    ],
+    [
+      0.000036,
+      "       "
+    ],
+    [
+      0.000044,
+      "COMMAND"
+    ],
+    [
+      0.000034,
+      "        "
+    ],
+    [
+      0.000057,
+      "        "
+    ],
+    [
+      0.000036,
+      "CREATED"
+    ],
+    [
+      0.000035,
+      "        "
+    ],
+    [
+      0.000024,
+      "     "
+    ],
+    [
+      0.000043,
+      "STATUS"
+    ],
+    [
+      0.000024,
+      "        "
+    ],
+    [
+      0.000022,
+      "      "
+    ],
+    [
+      0.000022,
+      "PORTS"
+    ],
+    [
+      0.000021,
+      "        "
+    ],
+    [
+      0.000022,
+      "       "
+    ],
+    [
+      0.000022,
+      "NAMES"
+    ],
+    [
+      0.000053,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "4c25f490df1b"
+    ],
+    [
+      0.000022,
+      "        "
+    ],
+    [
+      0.000022,
+      "ruby-test:latest"
+    ],
+    [
+      0.000022,
+      "    "
+    ],
+    [
+      0.000026,
+      "/usr/bin/supervisord"
+    ],
+    [
+      0.000041,
+      "   "
+    ],
+    [
+      0.000024,
+      "3 seconds ago"
+    ],
+    [
+      0.000021,
+      "       "
+    ],
+    [
+      0.000021,
+      "Up 3 seconds"
+    ],
+    [
+      0.000021,
+      "        "
+    ],
+    [
+      0.000098,
+      "22/tcp, 80/tcp"
+    ],
+    [
+      0.000031,
+      "      "
+    ],
+    [
+      0.000023,
+      "kickass_rosalind"
+    ],
+    [
+      0.000022,
+      "    "
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000526,
+      "root@ip-172-23-4-12:~/docker-ruby-app# "
+    ],
+    [
+      1.664920,
+      "d"
+    ],
+    [
+      0.679857,
+      "o"
+    ],
+    [
+      0.480574,
+      "c"
+    ],
+    [
+      0.132151,
+      "\u0007ker"
+    ],
+    [
+      0.163636,
+      " "
+    ],
+    [
+      0.463824,
+      "i"
+    ],
+    [
+      0.199748,
+      "n"
+    ],
+    [
+      0.480327,
+      "s"
+    ],
+    [
+      0.144203,
+      "p"
+    ],
+    [
+      0.103340,
+      "e"
+    ],
+    [
+      0.105033,
+      "c"
+    ],
+    [
+      0.263437,
+      "t"
+    ],
+    [
+      0.128453,
+      " "
+    ],
+    [
+      5.129305,
+      "4c25f490df1b"
+    ],
+    [
+      0.424048,
+      " "
+    ],
+    [
+      0.494884,
+      "|"
+    ],
+    [
+      0.103630,
+      " "
+    ],
+    [
+      0.095879,
+      "g"
+    ],
+    [
+      0.169467,
+      "r"
+    ],
+    [
+      0.062446,
+      "e"
+    ],
+    [
+      0.096115,
+      "p"
+    ],
+    [
+      0.111565,
+      " "
+    ],
+    [
+      0.456728,
+      "I"
+    ],
+    [
+      0.312568,
+      "P"
+    ],
+    [
+      0.583173,
+      "\r\n"
+    ],
+    [
+      0.013402,
+      "        \"\u001b[01;31m\u001b[KIP\u001b[m\u001b[KAddress\": \"172.17.0.28\","
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "        \"\u001b[01;31m\u001b[KIP\u001b[m\u001b[KPrefixLen\": 16,"
+    ],
+    [
+      0.000081,
+      "\r\n"
+    ],
+    [
+      0.000594,
+      "root@ip-172-23-4-12:~/docker-ruby-app# "
+    ],
+    [
+      0.690639,
+      "s"
+    ],
+    [
+      0.160092,
+      "s"
+    ],
+    [
+      0.129975,
+      "h"
+    ],
+    [
+      0.197135,
+      " "
+    ],
+    [
+      0.988644,
+      "-"
+    ],
+    [
+      0.316307,
+      "i"
+    ],
+    [
+      0.417839,
+      " "
+    ],
+    [
+      0.141339,
+      "."
+    ],
+    [
+      0.171094,
+      "."
+    ],
+    [
+      0.164382,
+      "/"
+    ],
+    [
+      0.196646,
+      "t"
+    ],
+    [
+      0.267341,
+      "13.pem "
+    ],
+    [
+      0.849362,
+      "u"
+    ],
+    [
+      0.174978,
+      "b"
+    ],
+    [
+      0.160514,
+      "u"
+    ],
+    [
+      0.184316,
+      "n"
+    ],
+    [
+      0.103934,
+      "t"
+    ],
+    [
+      1.466918,
+      "u"
+    ],
+    [
+      0.300113,
+      "@"
+    ],
+    [
+      4.792869,
+      "1"
+    ],
+    [
+      0.432803,
+      "7"
+    ],
+    [
+      0.000008,
+      "2"
+    ],
+    [
+      0.000146,
+      ".17.0.28"
+    ],
+    [
+      0.918250,
+      "\r\n"
+    ],
+    [
+      0.015804,
+      "The authenticity of host '172.17.0.28 (172.17.0.28)' can't be established.\r\nECDSA key fingerprint is 9e:d1:2a:70:96:67:c2:35:d8:e2:30:46:7a:6f:41:c2.\r\n"
+    ],
+    [
+      0.000007,
+      "Are you sure you want to continue connecting (yes/no)? "
+    ],
+    [
+      1.369103,
+      "y"
+    ],
+    [
+      0.079671,
+      "e"
+    ],
+    [
+      0.086998,
+      "s"
+    ],
+    [
+      0.501368,
+      "\r\n"
+    ],
+    [
+      0.000213,
+      "Warning: Permanently added '172.17.0.28' (ECDSA) to the list of known hosts.\r\r\n"
+    ],
+    [
+      0.055732,
+      "Welcome to Ubuntu 14.04 LTS (GNU/Linux 3.13.0-29-generic x86_64)\r\n\r\n * Documentation:  https://help.ubuntu.com/\r\n"
+    ],
+    [
+      0.090063,
+      "ubuntu@4c25f490df1b:~$ "
+    ],
+    [
+      1.338227,
+      "p"
+    ],
+    [
+      0.102684,
+      "s"
+    ],
+    [
+      0.029643,
+      " "
+    ],
+    [
+      0.178702,
+      "-"
+    ],
+    [
+      0.103576,
+      "e"
+    ],
+    [
+      0.055851,
+      "f"
+    ],
+    [
+      0.825852,
+      "\r\n"
+    ],
+    [
+      0.001831,
+      "UID        PID  PPID  C STIME TTY          TIME CMD\r\n"
+    ],
+    [
+      0.000106,
+      "root         1     0  0 21:08 ?        00:00:00 /usr/bin/python /usr/bin/supervisord -c /etc/supervisor/supervisord.conf -n\r\n"
+    ],
+    [
+      0.000106,
+      "root        15     1  0 21:08 ?        00:00:00 /usr/sbin/sshd -D -f /etc/ssh/sshd_config\r\n"
+    ],
+    [
+      0.000098,
+      "root        16     1  0 21:08 ?        00:00:00 bash -c source /etc/profile \u0026\u0026 bundle exec unicorn -c /etc/unicorn/unicorn.conf\r\nroot       103    16  9 21:08 ?        00:00:03 unicorn master -c /etc/unicorn/unicorn.conf                                      \r\n"
+    ],
+    [
+      0.000104,
+      "deploy     111   103  0 21:08 ?        00:00:00 unicorn worker[0] -c /etc/unicorn/unicorn.conf                                   \r\ndeploy     114   103  0 21:08 ?        00:00:00 unicorn worker[1] -c /etc/unicorn/unicorn.conf                                   \r\n"
+    ],
+    [
+      0.000123,
+      "deploy     116   103  0 21:08 ?        00:00:00 unicorn worker[2] -c /etc/unicorn/unicorn.conf                                   \r\n"
+    ],
+    [
+      0.000083,
+      "root       120    15  0 21:08 ?        00:00:00 sshd: ubuntu [priv]                         \r\n"
+    ],
+    [
+      0.000096,
+      "ubuntu     131   120  0 21:08 ?        00:00:00 sshd: ubuntu@pts/0                          \r\n"
+    ],
+    [
+      0.000084,
+      "ubuntu     132   131  2 21:08 pts/0    00:00:00 -bash\r\n"
+    ],
+    [
+      0.000107,
+      "ubuntu     194   132  0 21:08 pts/0    00:00:00 ps -ef\r\n"
+    ],
+    [
+      0.000037,
+      "ubuntu@4c25f490df1b:~$ "
+    ],
+    [
+      4.103428,
+      "l"
+    ],
+    [
+      0.301279,
+      "o"
+    ],
+    [
+      0.144116,
+      "o"
+    ],
+    [
+      0.152616,
+      "k"
+    ],
+    [
+      0.236991,
+      "s"
+    ],
+    [
+      0.084771,
+      " "
+    ],
+    [
+      0.383282,
+      "l"
+    ],
+    [
+      0.173859,
+      "i"
+    ],
+    [
+      0.080855,
+      "s"
+    ],
+    [
+      0.613706,
+      "\u0008 \u0008"
+    ],
+    [
+      0.182810,
+      "k"
+    ],
+    [
+      0.054844,
+      "e"
+    ],
+    [
+      0.086769,
+      " "
+    ],
+    [
+      0.157359,
+      "s"
+    ],
+    [
+      0.106316,
+      "t"
+    ],
+    [
+      0.119275,
+      "u"
+    ],
+    [
+      0.078234,
+      "f"
+    ],
+    [
+      0.143670,
+      "f"
+    ],
+    [
+      0.073191,
+      " "
+    ],
+    [
+      0.137480,
+      "i"
+    ],
+    [
+      0.058641,
+      "s"
+    ],
+    [
+      0.104200,
+      " "
+    ],
+    [
+      0.268916,
+      "r"
+    ],
+    [
+      0.096550,
+      "u"
+    ],
+    [
+      0.185351,
+      "n"
+    ],
+    [
+      0.141310,
+      "n"
+    ],
+    [
+      0.176359,
+      "i"
+    ],
+    [
+      0.115388,
+      "n"
+    ],
+    [
+      0.150305,
+      "g"
+    ],
+    [
+      0.745952,
+      "\u0008 \u0008"
+    ],
+    [
+      0.500729,
+      "\u0008 \u0008"
+    ],
+    [
+      0.083955,
+      "\u0008 \u0008"
+    ],
+    [
+      0.077371,
+      "\u0008 \u0008"
+    ],
+    [
+      0.089320,
+      "\u0008 \u0008"
+    ],
+    [
+      0.079805,
+      "\u0008 \u0008"
+    ],
+    [
+      0.089667,
+      "\u0008 \u0008"
+    ],
+    [
+      0.081469,
+      "\u0008 \u0008"
+    ],
+    [
+      0.081757,
+      "\u0008 \u0008"
+    ],
+    [
+      0.086454,
+      "\u0008 \u0008"
+    ],
+    [
+      0.081999,
+      "\u0008 \u0008"
+    ],
+    [
+      0.089239,
+      "\u0008 \u0008"
+    ],
+    [
+      0.078840,
+      "\u0008 \u0008"
+    ],
+    [
+      0.085593,
+      "\u0008 \u0008"
+    ],
+    [
+      0.085709,
+      "\u0008 \u0008"
+    ],
+    [
+      0.080430,
+      "\u0008 \u0008"
+    ],
+    [
+      0.088664,
+      "\u0008 \u0008"
+    ],
+    [
+      0.081102,
+      "\u0008 \u0008"
+    ],
+    [
+      0.082604,
+      "\u0008 \u0008"
+    ],
+    [
+      0.086217,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084282,
+      "\u0008 \u0008"
+    ],
+    [
+      0.081303,
+      "\u0008 \u0008"
+    ],
+    [
+      0.086633,
+      "\u0008 \u0008"
+    ],
+    [
+      0.084272,
+      "\u0008 \u0008"
+    ],
+    [
+      0.087193,
+      "\u0008 \u0008"
+    ],
+    [
+      0.080049,
+      "\u0008 \u0008"
+    ],
+    [
+      0.089057,
+      "\u0008 \u0008"
+    ],
+    [
+      0.083899,
+      "\u0007"
+    ],
+    [
+      0.079429,
+      "\u0007"
+    ],
+    [
+      0.085684,
+      "\u0007"
+    ],
+    [
+      0.082944,
+      "\u0007"
+    ],
+    [
+      1.847445,
+      "logout\r\n"
+    ],
+    [
+      0.001782,
+      "Connection to 172.17.0.28 closed.\r"
+    ],
+    [
+      0.000040,
+      "\r\n"
+    ],
+    [
+      0.000496,
+      "root@ip-172-23-4-12:~/docker-ruby-app# "
+    ],
+    [
+      2.289553,
+      "d"
+    ],
+    [
+      0.079759,
+      "o"
+    ],
+    [
+      0.104907,
+      "c"
+    ],
+    [
+      0.094994,
+      "\u0007"
+    ],
+    [
+      0.000008,
+      "ker"
+    ],
+    [
+      0.116679,
+      " "
+    ],
+    [
+      0.528809,
+      "p"
+    ],
+    [
+      0.103759,
+      "s"
+    ],
+    [
+      0.537072,
+      "\r\n"
+    ],
+    [
+      0.013046,
+      "CONTAINER ID"
+    ],
+    [
+      0.000007,
+      "        IMAGE               COMMAND"
+    ],
+    [
+      0.000072,
+      "                CREATED"
+    ],
+    [
+      0.000005,
+      "        "
+    ],
+    [
+      0.000042,
+      "     "
+    ],
+    [
+      0.000005,
+      "STATUS        "
+    ],
+    [
+      0.000061,
+      "      PORTS        "
+    ],
+    [
+      0.000005,
+      "       "
+    ],
+    [
+      0.000004,
+      "NAMES"
+    ],
+    [
+      0.000054,
+      "\r\n4c25f490df1b"
+    ],
+    [
+      0.000005,
+      "        ruby-test:latest    "
+    ],
+    [
+      0.000044,
+      "/usr/bin/supervisord   "
+    ],
+    [
+      0.000005,
+      "53 seconds ago      Up 52 seconds"
+    ],
+    [
+      0.000054,
+      "       22/tcp, 80/tcp      kickass_rosalind"
+    ],
+    [
+      0.000014,
+      "    "
+    ],
+    [
+      0.000041,
+      "\r\n"
+    ],
+    [
+      0.000391,
+      "root@ip-172-23-4-12:~/docker-ruby-app# "
+    ],
+    [
+      4.463252,
+      "c"
+    ],
+    [
+      0.253104,
+      "u"
+    ],
+    [
+      0.183210,
+      "r"
+    ],
+    [
+      0.593669,
+      "l"
+    ],
+    [
+      0.118795,
+      " "
+    ],
+    [
+      0.976110,
+      "1"
+    ],
+    [
+      0.431732,
+      "7"
+    ],
+    [
+      0.000008,
+      "2"
+    ],
+    [
+      0.000004,
+      "."
+    ],
+    [
+      0.000102,
+      "17.0.28"
+    ],
+    [
+      2.615442,
+      "\r\n"
+    ],
+    [
+      10.286241,
+      "\u003c!DOCTYPE html\u003e\r\n\u003chtml lang=\"en\"\u003e\r\n\u003chead\u003e\r\n  \u003cmeta charset=\"utf-8\" /\u003e\r\n  \u003ctitle\u003eAction Controller: Exception caught\u003c/title\u003e\r\n  \u003cstyle\u003e\r\n    body {\r\n      background-color: #FAFAFA;\r\n      color: #333;\r\n      margin: 0px;\r\n    }\r\n\r\n    body, p, ol, ul, td {\r\n      font-family: helvetica, verdana, arial, sans-serif;\r\n      font-size:   13px;\r\n      line-height: 18px;\r\n    }\r\n\r\n    pre {\r\n      font-size: 11px;\r\n      white-space: pre-wrap;\r\n    }\r\n\r\n    pre.box {\r\n      border: 1px solid #EEE;\r\n      padding: 10px;\r\n      margin: 0px;\r\n      width: 958px;\r\n    }\r\n\r\n    header {\r\n      color: #F0F0F0;\r\n      background: #C52F24;\r\n      padding: 0.5em 1.5em;\r\n    }\r\n\r\n    h1 {\r\n      margin: 0.2em 0;\r\n      line-height: 1.1em;\r\n      font-size: 2em;\r\n    }\r\n\r\n    h2 {\r\n      color: #C52F24;\r\n      line-height: 25px;\r\n    }\r\n\r\n    .details {\r\n      border: 1px solid #D0D0D0;\r\n      border-radius: 4px;\r\n      margin: 1em 0px;\r\n      display: block;\r\n      width: 978px;\r\n    }\r\n\r\n    .summary {\r\n      padding: 8px 15px;\r\n      border-bottom: 1px solid #D0D0D0;\r\n      display: block;\r\n    }\r\n\r\n    .details pre {\r\n      margin: 5px;\r\n      border: none;\r\n    }\r\n\r\n    #container {\r\n      box-sizing: border-box;\r\n      width: 100%;\r\n      padding: 0 1.5em;\r\n    }\r\n\r\n    .source * {\r\n      margin: 0px;\r\n      padding: 0px;\r\n    }\r\n\r\n    .source {\r\n      border: 1px solid #D9D9D9;\r\n      background: #ECECEC;\r\n      width: 978px;\r\n    }\r\n\r\n    .source pre {\r\n      padding: 10px 0px;\r\n      border: none;\r\n    }\r\n\r\n    .source .data {\r\n      font-size: 80%;\r\n      overflow: auto;\r\n      background-color: #FFF;\r\n    }\r\n\r\n    .info {\r\n      padding: 0.5em;\r\n    }\r\n\r\n    .source .data .line_numbers {\r\n      background-color: #ECECEC;\r\n      color: #AAA;\r\n      padding: 1em .5em;\r\n      border-right: 1px solid #DDD;\r\n      text-align: right;\r\n    }\r\n\r\n    .line {\r\n      padding-left: 10px;\r\n    }\r\n\r\n    .line:hover {\r\n      background-color: #F6F6F6;\r\n    }\r\n\r\n    .line.active {\r\n      background-color: #FFCCCC;\r\n    }\r\n\r\n    a { color: #980905; }\r\n    a:visited { color: #666; }\r\n    a:hover { color: #C52F24; }\r\n\r\n    \r\n  \u003c/style\u003e\r\n\r\n  \u003cscript\u003e\r\n    var toggle = function(id) {\r\n      var s = document.getElementById(id).style;\r\n      s.display = s.display == 'none' ? 'block' : 'none';\r\n      return false;\r\n    }\r\n    var show = function(id) {\r\n      document.getElementById(id).style.display = 'block';\r\n    }\r\n    var hide = function(id) {\r\n      document.getElementById(id).style.display = 'none';\r\n    }\r\n    var toggleTrace = function() {\r\n      return toggle('blame_trace');\r\n    }\r\n    var toggleSessionDump = function() {\r\n      return toggle('session_dump');\r\n    }\r\n    var toggleEnvDump = function() {\r\n      return toggle('env_dump');\r\n    }\r\n  \u003c/script\u003e\r\n\u003c/head\u003e\r\n\u003cbody\u003e\r\n\r\n\u003cheader\u003e\r\n  \u003ch1\u003e\r\n    Moped::Errors::ConnectionFailure in\r\n    Keywords#index\r\n  \u003c/h1\u003e\r\n\u003c/header\u003e\r\n\r\n\u003cdiv id=\"container\"\u003e\r\n  \u003cp\u003e\r\n    Showing \u003ci\u003e/webapp/current/app/views/keywords/index.html.haml\u003c/i\u003e where line \u003cb\u003e#27\u003c/b\u003e raised:\r\n  \u003c/p\u003e\r\n  \u003cpre\u003e\u003ccode\u003eCould not connect to a primary node for replica set #\u0026lt;Moped::Cluster:46737160 @seeds=[\u0026lt;Moped::Node resolved_address=\u0026quot;127.0.0.1:27017\u0026quot;\u0026gt;]\u0026gt;\u003c/code\u003e\u003c/pre\u003e\r\n\r\n  \u003cdiv class=\"source\"\u003e\r\n    \u003cdiv class=\"info\"\u003e\r\n      \u003cp\u003eExtracted source (around line \u003cstrong\u003e#27\u003c/strong\u003e):\u003c/p\u003e\r\n    \u003c/div\u003e\r\n    \u003cdiv class=\"data\"\u003e\r\n    \u003ctable cellpadding=\"0\" cellspacing=\"0\" class=\"lines\"\u003e\r\n      \u003ctr\u003e\r\n        \u003ctd\u003e\r\n          \u003cpre class=\"line_numbers\"\u003e\r\n\u003cspan\u003e24\u003c/span\u003e\r\n\u003cspan\u003e25\u003c/span\u003e\r\n\u003cspan\u003e26\u003c/span\u003e\r\n\u003cspan\u003e27\u003c/span\u003e\r\n\u003cspan\u003e28\u003c/span\u003e\r\n\u003cspan\u003e29\u003c/span\u003e\r\n\u003cspan\u003e30\u003c/span\u003e\r\n          \u003c/pre\u003e\r\n        \u003c/td\u003e\r\n\u003ctd width=\"100%\"\u003e\r\n\u003cpre\u003e\r\n\u003cdiv class=\"line\"\u003e                   %td.term-headers\r\n\u003c/div\u003e\u003cdiv class=\"line\"\u003e                     Tune\r\n\u003c/div\u003e\u003cdiv class=\"line\"\u003e               %tbody\r\n\u003c/div\u003e\u003cdiv class=\"line active\"\u003e                 - @keywords.each do |keyword|\r\n\u003c/div\u003e\u003cdiv class=\"line\"\u003e                   - if keyword[:term_status] != \u0026quot;Proposed\u0026quot; or !Rails.env.production?\r\n\u003c/div\u003e\u003cdiv class=\"line\"\u003e                     %tr\r\n\u003c/div\u003e"
+    ],
+    [
+      0.000058,
+      "\u003cdiv class=\"line\"\u003e                       %td.index-term\r\n\u003c/div\u003e\r\n\u003c/pre\u003e\r\n\u003c/td\u003e\r\n    \u003c/tr\u003e\r\n  \u003c/table\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e\r\n\r\n  \u003cp\u003e\u003c/p\u003e\r\n\r\n  \r\n\u003cp\u003e\u003ccode\u003eRails.root: /webapp/current\u003c/code\u003e\u003c/p\u003e\r\n\r\n\u003cdiv id=\"traces\"\u003e\r\n    \u003ca href=\"#\" onclick=\"hide(\u0026#39;Framework-Trace\u0026#39;);hide(\u0026#39;Full-Trace\u0026#39;);show(\u0026#39;Application-Trace\u0026#39;);; return false;\"\u003eApplication Trace\u003c/a\u003e |\r\n    \u003ca href=\"#\" onclick=\"hide(\u0026#39;Application-Trace\u0026#39;);hide(\u0026#39;Full-Trace\u0026#39;);show(\u0026#39;Framework-Trace\u0026#39;);; return false;\"\u003eFramework Trace\u003c/a\u003e |\r\n    \u003ca href=\"#\" onclick=\"hide(\u0026#39;Application-Trace\u0026#39;);hide(\u0026#39;Framework-Trace\u0026#39;);show(\u0026#39;Full-Trace\u0026#39;);; return false;\"\u003eFull Trace\u003c/a\u003e \r\n\r\n    \u003cdiv id=\"Application-Trace\" style=\"display: block;\"\u003e\r\n      \u003cpre\u003e\u003ccode\u003eapp/views/keywords/index.html.haml:27:in `_app_views_keywords_index_html_haml___2633416303856493319_71787740\u0026#39;\u003c/code\u003e\u003c/pre\u003e\r\n    \u003c/div\u003e\r\n    \u003cdiv id=\"Framework-Trace\" style=\"display: none;\"\u003e\r\n      \u003cpre\u003e\u003ccode\u003emoped (2.0.4) lib/moped/cluster.rb:254:in `with_primary\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/primary.rb:55:in `block in with_node\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:65:in `call\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:65:in `with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:71:in `rescue in with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:64:in `with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:71:in `rescue in with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:64:in `with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:71:in `rescue in with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:64:in `with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:71:in `rescue in with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:64:in `with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:71:in `rescue in with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:64:in `with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:71:in `rescue in with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:64:in `with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:71:in `rescue in with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:64:in `with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:71:in `rescue in with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:64:in `with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:71:in `rescue in with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:64:in `with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:71:in `rescue in with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:64:in `with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/primary.rb:54:in `with_node\u0026#39;\r\nmoped (2.0.4) lib/moped/cursor.rb:136:in `load_docs\u0026#39;\r\nmongoid (4.0.2) lib/mongoid/query_cache.rb:234:in `block in load_docs\u0026#39;\r\nmongoid (4.0.2) lib/mongoid/query_cache.rb:135:in `with_cache\u0026#39;\r\nmongoid (4.0.2) lib/mongoid/query_cache.rb:234:in `load_docs\u0026#39;\r\nmoped (2.0.4) lib/moped/cursor.rb:27:in `each\u0026#39;\r\nmoped (2.0.4) lib/moped/query.rb:77:in `each\u0026#39;\r\nmongoid (4.0.2) lib/mongoid/contextual/mongo.rb:122:in `each\u0026#39;\r\nmongoid (4.0.2) lib/mongoid/contextual.rb:20:in `each\u0026#39;\r\nactionview (4.1.9) lib/action_view/template.rb:145:in `block in render\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/notifications.rb:159:in `block in instrument\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/notifications/instrumenter.rb:20:in `instrument\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/notifications.rb:159:in `instrument\u0026#39;\r\nactionview (4.1.9) lib/action_view/template.rb:339:in `instrument\u0026#39;\r\nactionview (4.1.9) lib/action_view/template.rb:143:in `render\u0026#39;\r\nactionview (4.1.9) lib/action_view/renderer/template_renderer.rb:55:in `block (2 levels) in render_template\u0026#39;\r"
+    ],
+    [
+      0.000040,
+      "\nactionview (4.1.9) lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/notifications.rb:159:in `block in instrument\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/notifications/instrumenter.rb:20:in `instrument\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/notifications.rb:159:in `instrument\u0026#39;\r\nactionview (4.1.9) lib/action_view/renderer/abstract_renderer.rb:38:in `instrument\u0026#39;\r\nactionview (4.1.9) lib/action_view/renderer/template_renderer.rb:54:in `block in render_template\u0026#39;\r\nactionview (4.1.9) lib/action_view/renderer/template_renderer.rb:62:in `render_with_layout\u0026#39;\r\nactionview (4.1.9) lib/action_view/renderer/template_renderer.rb:53:in `render_template\u0026#39;\r\nactionview (4.1.9) lib/action_view/renderer/template_renderer.rb:17:in `render\u0026#39;\r\nactionview (4.1.9) lib/action_view/renderer/renderer.rb:42:in `render_template\u0026#39;\r\nactionview (4.1.9) lib/action_view/renderer/renderer.rb:23:in `render\u0026#39;\r\nactionview (4.1.9) lib/action_view/rendering.rb:99:in `_render_template\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal/streaming.rb:217:in `_render_template\u0026#39;\r\nactionview (4.1.9) lib/action_view/rendering.rb:82:in `render_to_body\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal/rendering.rb:32:in `render_to_body\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal/renderers.rb:32:in `render_to_body\u0026#39;\r\nactionpack (4.1.9) lib/abstract_controller/rendering.rb:25:in `render\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal/rendering.rb:16:in `render\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal/instrumentation.rb:41:in `block (2 levels) in render\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/core_ext/benchmark.rb:12:in `block in ms\u0026#39;\r\n/usr/local/rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/benchmark.rb:294:in `realtime\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/core_ext/benchmark.rb:12:in `ms\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal/instrumentation.rb:41:in `block in render\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal/instrumentation.rb:84:in `cleanup_view_runtime\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal/instrumentation.rb:40:in `render\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal/implicit_render.rb:10:in `default_render\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal/implicit_render.rb:5:in `send_action\u0026#39;\r\nactionpack (4.1.9) lib/abstract_controller/base.rb:189:in `process_action\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal/rendering.rb:10:in `process_action\u0026#39;\r\nactionpack (4.1.9) lib/abstract_controller/callbacks.rb:20:in `block in process_action\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/callbacks.rb:113:in `call\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/callbacks.rb:113:in `call\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/callbacks.rb:149:in `block in halting_and_conditional\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/callbacks.rb:149:in `call\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/callbacks.rb:149:in `block in halting_and_conditional\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/callbacks.rb:166:in `call\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/callbacks.rb:166:in `block in halting\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/callbacks.rb:229:in `call\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/callbacks.rb:229:in `block in halting\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/callbacks.rb:166:in `call\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/callbacks.rb:166:in `block in halting\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/callbacks.rb:166:in `call\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/callbacks.rb:166:in `block in halting\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/callbacks.rb:86:in `call\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/callbacks.rb:86:in `run_callbacks\u0026#39;\r\nactionpack (4.1.9) lib/abstract_controller/callbacks.rb:19:in `process_action\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal/rescue.rb:29:in `process_action\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal/instrumentation"
+    ],
+    [
+      0.000044,
+      ".rb:31:in `block in process_action\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/notifications.rb:159:in `block in instrument\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/notifications/instrumenter.rb:20:in `instrument\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/notifications.rb:159:in `instrument\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal/instrumentation.rb:30:in `process_action\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal/params_wrapper.rb:250:in `process_action\u0026#39;\r\nactionpack (4.1.9) lib/abstract_controller/base.rb:136:in `process\u0026#39;\r\nactionview (4.1.9) lib/action_view/rendering.rb:30:in `process\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal.rb:196:in `dispatch\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal.rb:232:in `block in action\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/routing/route_set.rb:82:in `call\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/routing/route_set.rb:82:in `dispatch\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/routing/route_set.rb:50:in `call\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/journey/router.rb:73:in `block in call\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/journey/router.rb:59:in `each\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/journey/router.rb:59:in `call\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/routing/route_set.rb:685:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/rack/agent_hooks.rb:30:in `traced_call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/rack/browser_monitoring.rb:23:in `traced_call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/rack/developer_mode.rb:56:in `traced_call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nrack (1.5.2) lib/rack/etag.rb:23:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nrack (1.5.2) lib/rack/conditionalget.rb:25:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nrack (1.5.2) lib/rack/head.rb:11:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/middleware/params_parser.rb:27:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/middleware/flash.rb:254:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nrack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context\u0026#39;\r\nrack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/middleware/cookies.rb:562:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/callbacks.rb:82:in `run_callbacks\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/middleware/callbacks.rb:27:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/middleware/reloader.rb:73:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/middleware/remote_ip.rb:76:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nbetter_errors (2.1.1) lib/be"
+    ],
+    [
+      0.000056,
+      "tter_errors/middleware.rb:59:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nrailties (4.1.9) lib/rails/rack/logger.rb:38:in `call_app\u0026#39;\r\nrailties (4.1.9) lib/rails/rack/logger.rb:20:in `block in call\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/tagged_logging.rb:68:in `block in tagged\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/tagged_logging.rb:26:in `tagged\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/tagged_logging.rb:68:in `tagged\u0026#39;\r\nrailties (4.1.9) lib/rails/rack/logger.rb:20:in `call\u0026#39;\r\nquiet_assets (1.1.0) lib/quiet_assets.rb:27:in `call_with_quiet_assets\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/middleware/request_id.rb:21:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nrack (1.5.2) lib/rack/methodoverride.rb:21:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nrack (1.5.2) lib/rack/runtime.rb:17:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nrack (1.5.2) lib/rack/lock.rb:17:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/middleware/static.rb:84:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nrack (1.5.2) lib/rack/sendfile.rb:112:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nrack-timeout (0.2.0) lib/rack/timeout.rb:108:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nhoneybadger (2.0.6) lib/honeybadger/rack/error_notifier.rb:33:in `block in call\u0026#39;\r\nhoneybadger (2.0.6) lib/honeybadger/config.rb:189:in `with_request\u0026#39;\r\nhoneybadger (2.0.6) lib/honeybadger/rack/error_notifier.rb:30:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nhoneybadger (2.0.6) lib/honeybadger/rack/user_feedback.rb:29:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nhoneybadger (2.0.6) lib/honeybadger/rack/user_informer.rb:19:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nrailties (4.1.9) lib/rails/engine.rb:514:in `call\u0026#39;\r\nrailties (4.1.9) lib/rails/application.rb:144:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nrack (1.5.2) lib/rack/lint.rb:49:in `_call\u0026#39;\r\nrack (1.5.2) lib/rack/lint.rb:37:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nrack (1.5.2) lib/rack/showexceptions.rb:24:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nrack (1.5.2) lib/rack/commonlogger.rb:33:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nrack (1.5.2) lib/rack/chunked.rb:43:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nrack (1.5.2) lib/rack/c"
+    ],
+    [
+      0.000033,
+      "ontent_length.rb:14:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nunicorn (4.8.3) lib/unicorn/http_server.rb:576:in `process_client\u0026#39;\r\nunicorn (4.8.3) lib/unicorn/http_server.rb:670:in `worker_loop\u0026#39;\r\nunicorn (4.8.3) lib/unicorn/http_server.rb:525:in `spawn_missing_workers\u0026#39;\r\nunicorn (4.8.3) lib/unicorn/http_server.rb:140:in `start\u0026#39;\r\nunicorn (4.8.3) bin/unicorn:126:in `\u0026lt;top (required)\u0026gt;\u0026#39;\r\n/usr/local/rvm/gems/ruby-2.1.5@keywords_admin/bin/unicorn:23:in `load\u0026#39;\r\n/usr/local/rvm/gems/ruby-2.1.5@keywords_admin/bin/unicorn:23:in `\u0026lt;main\u0026gt;\u0026#39;\r\n/usr/local/rvm/gems/ruby-2.1.5@keywords_admin/bin/ruby_executable_hooks:15:in `eval\u0026#39;\r\n/usr/local/rvm/gems/ruby-2.1.5@keywords_admin/bin/ruby_executable_hooks:15:in `\u0026lt;main\u0026gt;\u0026#39;\u003c/code\u003e\u003c/pre\u003e\r\n    \u003c/div\u003e\r\n    \u003cdiv id=\"Full-Trace\" style=\"display: none;\"\u003e\r\n      \u003cpre\u003e\u003ccode\u003emoped (2.0.4) lib/moped/cluster.rb:254:in `with_primary\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/primary.rb:55:in `block in with_node\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:65:in `call\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:65:in `with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:71:in `rescue in with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:64:in `with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:71:in `rescue in with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:64:in `with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:71:in `rescue in with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:64:in `with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:71:in `rescue in with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:64:in `with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:71:in `rescue in with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:64:in `with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:71:in `rescue in with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:64:in `with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:71:in `rescue in with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:64:in `with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:71:in `rescue in with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:64:in `with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:71:in `rescue in with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:64:in `with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:71:in `rescue in with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/selectable.rb:64:in `with_retry\u0026#39;\r\nmoped (2.0.4) lib/moped/read_preference/primary.rb:54:in `with_node\u0026#39;\r\nmoped (2.0.4) lib/moped/cursor.rb:136:in `load_docs\u0026#39;\r\nmongoid (4.0.2) lib/mongoid/query_cache.rb:234:in `block in load_docs\u0026#39;\r\nmongoid (4.0.2) lib/mongoid/query_cache.rb:135:in `with_cache\u0026#39;\r\nmongoid (4.0.2) lib/mongoid/query_cache.rb:234:in `load_docs\u0026#39;\r\nmoped (2.0.4) lib/moped/cursor.rb:27:in `each\u0026#39;\r\nmoped (2.0.4) lib/moped/query.rb:77:in `each\u0026#39;\r\nmongoid (4.0.2) lib/mongoid/contextual/mongo.rb:122:in `each\u0026#39;\r\nmongoid (4.0.2) lib/mongoid/contextual.rb:20:in `each\u0026#39;\r\napp/views/keywords/index.html.haml:27:in `_app_views_keywords_index_html_haml___2633416303856493319_71787740\u0026#39;\r\nactionview (4.1.9) lib/action_view/template.rb:145:in `block in render\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/notifications.rb:159:in `block in instrument\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/notifications/instrumenter.rb:20:in `instrument\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/notifications.rb:159:in `instrument\u0026#39;\r\nactionview (4.1.9) lib/action_view/template.rb:339:in `instrument\u0026#39;\r\nactionview (4.1.9) lib/action_view/template.rb:143:in `render\u0026#39;\r\nactionview (4.1.9) lib/action_view/rende"
+    ],
+    [
+      0.000042,
+      "rer/template_renderer.rb:55:in `block (2 levels) in render_template\u0026#39;\r\nactionview (4.1.9) lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/notifications.rb:159:in `block in instrument\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/notifications/instrumenter.rb:20:in `instrument\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/notifications.rb:159:in `instrument\u0026#39;\r\nactionview (4.1.9) lib/action_view/renderer/abstract_renderer.rb:38:in `instrument\u0026#39;\r\nactionview (4.1.9) lib/action_view/renderer/template_renderer.rb:54:in `block in render_template\u0026#39;\r\nactionview (4.1.9) lib/action_view/renderer/template_renderer.rb:62:in `render_with_layout\u0026#39;\r\nactionview (4.1.9) lib/action_view/renderer/template_renderer.rb:53:in `render_template\u0026#39;\r\nactionview (4.1.9) lib/action_view/renderer/template_renderer.rb:17:in `render\u0026#39;\r\nactionview (4.1.9) lib/action_view/renderer/renderer.rb:42:in `render_template\u0026#39;\r\nactionview (4.1.9) lib/action_view/renderer/renderer.rb:23:in `render\u0026#39;\r\nactionview (4.1.9) lib/action_view/rendering.rb:99:in `_render_template\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal/streaming.rb:217:in `_render_template\u0026#39;\r\nactionview (4.1.9) lib/action_view/rendering.rb:82:in `render_to_body\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal/rendering.rb:32:in `render_to_body\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal/renderers.rb:32:in `render_to_body\u0026#39;\r\nactionpack (4.1.9) lib/abstract_controller/rendering.rb:25:in `render\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal/rendering.rb:16:in `render\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal/instrumentation.rb:41:in `block (2 levels) in render\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/core_ext/benchmark.rb:12:in `block in ms\u0026#39;\r\n/usr/local/rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/benchmark.rb:294:in `realtime\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/core_ext/benchmark.rb:12:in `ms\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal/instrumentation.rb:41:in `block in render\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal/instrumentation.rb:84:in `cleanup_view_runtime\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal/instrumentation.rb:40:in `render\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal/implicit_render.rb:10:in `default_render\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal/implicit_render.rb:5:in `send_action\u0026#39;\r\nactionpack (4.1.9) lib/abstract_controller/base.rb:189:in `process_action\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal/rendering.rb:10:in `process_action\u0026#39;\r\nactionpack (4.1.9) lib/abstract_controller/callbacks.rb:20:in `block in process_action\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/callbacks.rb:113:in `call\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/callbacks.rb:113:in `call\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/callbacks.rb:149:in `block in halting_and_conditional\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/callbacks.rb:149:in `call\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/callbacks.rb:149:in `block in halting_and_conditional\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/callbacks.rb:166:in `call\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/callbacks.rb:166:in `block in halting\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/callbacks.rb:229:in `call\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/callbacks.rb:229:in `block in halting\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/callbacks.rb:166:in `call\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/callbacks.rb:166:in `block in halting\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/callbacks.rb:166:in `call\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/callbacks.rb:166:in `block in halting\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/callbacks.rb:86:in `call\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/callbacks.rb:86:in `run_callbacks\u0026#39;\r\nactionpack (4.1.9) lib/abstract_controller/callbacks.rb:19:in `process_action\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal/rescue.rb:29:in `process_ac"
+    ],
+    [
+      0.000033,
+      "tion\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal/instrumentation.rb:31:in `block in process_action\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/notifications.rb:159:in `block in instrument\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/notifications/instrumenter.rb:20:in `instrument\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/notifications.rb:159:in `instrument\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal/instrumentation.rb:30:in `process_action\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal/params_wrapper.rb:250:in `process_action\u0026#39;\r\nactionpack (4.1.9) lib/abstract_controller/base.rb:136:in `process\u0026#39;\r\nactionview (4.1.9) lib/action_view/rendering.rb:30:in `process\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal.rb:196:in `dispatch\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch\u0026#39;\r\nactionpack (4.1.9) lib/action_controller/metal.rb:232:in `block in action\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/routing/route_set.rb:82:in `call\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/routing/route_set.rb:82:in `dispatch\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/routing/route_set.rb:50:in `call\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/journey/router.rb:73:in `block in call\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/journey/router.rb:59:in `each\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/journey/router.rb:59:in `call\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/routing/route_set.rb:685:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/rack/agent_hooks.rb:30:in `traced_call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/rack/browser_monitoring.rb:23:in `traced_call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/rack/developer_mode.rb:56:in `traced_call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nrack (1.5.2) lib/rack/etag.rb:23:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nrack (1.5.2) lib/rack/conditionalget.rb:25:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nrack (1.5.2) lib/rack/head.rb:11:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/middleware/params_parser.rb:27:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/middleware/flash.rb:254:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nrack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context\u0026#39;\r\nrack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/middleware/cookies.rb:562:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/callbacks.rb:82:in `run_callbacks\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/middleware/callbacks.rb:27:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/middleware/reloader.rb:73:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/middleware/remote_ip.rb:76:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumenta"
+    ],
+    [
+      0.000045,
+      "tion/middleware_tracing.rb:67:in `call\u0026#39;\r\nbetter_errors (2.1.1) lib/better_errors/middleware.rb:59:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nrailties (4.1.9) lib/rails/rack/logger.rb:38:in `call_app\u0026#39;\r\nrailties (4.1.9) lib/rails/rack/logger.rb:20:in `block in call\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/tagged_logging.rb:68:in `block in tagged\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/tagged_logging.rb:26:in `tagged\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/tagged_logging.rb:68:in `tagged\u0026#39;\r\nrailties (4.1.9) lib/rails/rack/logger.rb:20:in `call\u0026#39;\r\nquiet_assets (1.1.0) lib/quiet_assets.rb:27:in `call_with_quiet_assets\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/middleware/request_id.rb:21:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nrack (1.5.2) lib/rack/methodoverride.rb:21:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nrack (1.5.2) lib/rack/runtime.rb:17:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nactivesupport (4.1.9) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nrack (1.5.2) lib/rack/lock.rb:17:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nactionpack (4.1.9) lib/action_dispatch/middleware/static.rb:84:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nrack (1.5.2) lib/rack/sendfile.rb:112:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nrack-timeout (0.2.0) lib/rack/timeout.rb:108:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nhoneybadger (2.0.6) lib/honeybadger/rack/error_notifier.rb:33:in `block in call\u0026#39;\r\nhoneybadger (2.0.6) lib/honeybadger/config.rb:189:in `with_request\u0026#39;\r\nhoneybadger (2.0.6) lib/honeybadger/rack/error_notifier.rb:30:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nhoneybadger (2.0.6) lib/honeybadger/rack/user_feedback.rb:29:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nhoneybadger (2.0.6) lib/honeybadger/rack/user_informer.rb:19:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nrailties (4.1.9) lib/rails/engine.rb:514:in `call\u0026#39;\r\nrailties (4.1.9) lib/rails/application.rb:144:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nrack (1.5.2) lib/rack/lint.rb:49:in `_call\u0026#39;\r\nrack (1.5.2) lib/rack/lint.rb:37:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nrack (1.5.2) lib/rack/showexceptions.rb:24:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nrack (1.5.2) lib/rack/commonlogger.rb:33:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nrack (1.5.2) lib/rack/chunked.rb:43:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instru"
+    ],
+    [
+      0.000023,
+      "mentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nrack (1.5.2) lib/rack/content_length.rb:14:in `call\u0026#39;\r\nnewrelic_rpm (3.10.0.279) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call\u0026#39;\r\nunicorn (4.8.3) lib/unicorn/http_server.rb:576:in `process_client\u0026#39;\r\nunicorn (4.8.3) lib/unicorn/http_server.rb:670:in `worker_loop\u0026#39;\r\nunicorn (4.8.3) lib/unicorn/http_server.rb:525:in `spawn_missing_workers\u0026#39;\r\nunicorn (4.8.3) lib/unicorn/http_server.rb:140:in `start\u0026#39;\r\nunicorn (4.8.3) bin/unicorn:126:in `\u0026lt;top (required)\u0026gt;\u0026#39;\r\n/usr/local/rvm/gems/ruby-2.1.5@keywords_admin/bin/unicorn:23:in `load\u0026#39;\r\n/usr/local/rvm/gems/ruby-2.1.5@keywords_admin/bin/unicorn:23:in `\u0026lt;main\u0026gt;\u0026#39;\r\n/usr/local/rvm/gems/ruby-2.1.5@keywords_admin/bin/ruby_executable_hooks:15:in `eval\u0026#39;\r\n/usr/local/rvm/gems/ruby-2.1.5@keywords_admin/bin/ruby_executable_hooks:15:in `\u0026lt;main\u0026gt;\u0026#39;\u003c/code\u003e\u003c/pre\u003e\r\n    \u003c/div\u003e\r\n\u003c/div\u003e\r\n\r\n  \r\n\r\n\u003ch2 style=\"margin-top: 30px\"\u003eRequest\u003c/h2\u003e\r\n\u003cp\u003e\u003cb\u003eParameters\u003c/b\u003e:\u003c/p\u003e \u003cpre\u003eNone\u003c/pre\u003e\r\n\r\n\u003cdiv class=\"details\"\u003e\r\n  \u003cdiv class=\"summary\"\u003e\u003ca href=\"#\" onclick=\"return toggleSessionDump()\"\u003eToggle session dump\u003c/a\u003e\u003c/div\u003e\r\n  \u003cdiv id=\"session_dump\" style=\"display:none\"\u003e\u003cpre\u003e\u003c/pre\u003e\u003c/div\u003e\r\n\u003c/div\u003e\r\n\r\n\u003cdiv class=\"details\"\u003e\r\n  \u003cdiv class=\"summary\"\u003e\u003ca href=\"#\" onclick=\"return toggleEnvDump()\"\u003eToggle env dump\u003c/a\u003e\u003c/div\u003e\r\n  \u003cdiv id=\"env_dump\" style=\"display:none\"\u003e\u003cpre\u003eHTTP_ACCEPT: \u0026quot;*/*\u0026quot;\r\nREMOTE_ADDR: \u0026quot;172.17.42.1\u0026quot;\r\nSERVER_NAME: \u0026quot;172.17.0.28\u0026quot;\r\nSERVER_PROTOCOL: \u0026quot;HTTP/1.1\u0026quot;\u003c/pre\u003e\u003c/div\u003e\r\n\u003c/div\u003e\r\n\r\n\u003ch2 style=\"margin-top: 30px\"\u003eResponse\u003c/h2\u003e\r\n\u003cp\u003e\u003cb\u003eHeaders\u003c/b\u003e:\u003c/p\u003e \u003cpre\u003eNone\u003c/pre\u003e\r\n\r\n\u003c/div\u003e\r\n\r\n\r\n\u003c/body\u003e\r\n\u003c/html\u003e\r\nroot@ip-172-23-4-12:~/docker-ruby-app# "
+    ],
+    [
+      6.224351,
+      "exit\r\n"
+    ]
+  ]
+}
