@@ -1,0 +1,6910 @@
+{
+  "version": 1,
+  "width": 97,
+  "height": 29,
+  "duration": 192.433278,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.005483,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000005,
+      "bash-3.2$ "
+    ],
+    [
+      0.522409,
+      "#"
+    ],
+    [
+      0.231683,
+      " "
+    ],
+    [
+      0.344301,
+      "I"
+    ],
+    [
+      0.160090,
+      "'"
+    ],
+    [
+      0.095558,
+      "m"
+    ],
+    [
+      0.104398,
+      " "
+    ],
+    [
+      0.167793,
+      "g"
+    ],
+    [
+      0.095800,
+      "o"
+    ],
+    [
+      0.072359,
+      "i"
+    ],
+    [
+      0.055905,
+      "n"
+    ],
+    [
+      0.071738,
+      "g"
+    ],
+    [
+      0.104407,
+      " "
+    ],
+    [
+      0.111803,
+      "t"
+    ],
+    [
+      0.087802,
+      "o"
+    ],
+    [
+      0.104356,
+      " "
+    ],
+    [
+      0.135825,
+      "s"
+    ],
+    [
+      0.088474,
+      "h"
+    ],
+    [
+      0.047662,
+      "o"
+    ],
+    [
+      0.063877,
+      "w"
+    ],
+    [
+      0.104133,
+      " "
+    ],
+    [
+      0.159818,
+      "y"
+    ],
+    [
+      0.048062,
+      "o"
+    ],
+    [
+      0.063785,
+      "u"
+    ],
+    [
+      0.088616,
+      " "
+    ],
+    [
+      0.255786,
+      "o"
+    ],
+    [
+      0.031981,
+      "n"
+    ],
+    [
+      0.071948,
+      "e"
+    ],
+    [
+      0.127902,
+      " "
+    ],
+    [
+      0.192113,
+      "t"
+    ],
+    [
+      0.103509,
+      "h"
+    ],
+    [
+      0.088099,
+      "i"
+    ],
+    [
+      0.111908,
+      "n"
+    ],
+    [
+      0.096340,
+      "g"
+    ],
+    [
+      0.095933,
+      " "
+    ],
+    [
+      0.152221,
+      "I"
+    ],
+    [
+      0.119935,
+      " "
+    ],
+    [
+      0.152024,
+      "d"
+    ],
+    [
+      0.095842,
+      "o"
+    ],
+    [
+      0.128119,
+      " "
+    ],
+    [
+      0.119865,
+      "o"
+    ],
+    [
+      0.064181,
+      "n"
+    ],
+    [
+      0.127985,
+      " "
+    ],
+    [
+      0.327563,
+      "f"
+    ],
+    [
+      0.112418,
+      "r"
+    ],
+    [
+      0.143931,
+      "e"
+    ],
+    [
+      0.128052,
+      "s"
+    ],
+    [
+      0.087849,
+      "h"
+    ],
+    [
+      0.103962,
+      " "
+    ],
+    [
+      0.168287,
+      "c"
+    ],
+    [
+      0.039705,
+      "o"
+    ],
+    [
+      0.080204,
+      "m"
+    ],
+    [
+      0.111852,
+      "p"
+    ],
+    [
+      0.143909,
+      "u"
+    ],
+    [
+      0.087806,
+      "t"
+    ],
+    [
+      0.144231,
+      "e"
+    ],
+    [
+      0.103937,
+      "r"
+    ],
+    [
+      0.168141,
+      "s"
+    ],
+    [
+      0.127597,
+      " "
+    ],
+    [
+      0.168109,
+      "f"
+    ],
+    [
+      0.088287,
+      "o"
+    ],
+    [
+      0.056095,
+      "r"
+    ],
+    [
+      0.111973,
+      " "
+    ],
+    [
+      0.367999,
+      "w"
+    ],
+    [
+      0.055615,
+      "o"
+    ],
+    [
+      0.111954,
+      "r"
+    ],
+    [
+      0.088343,
+      "k"
+    ],
+    [
+      0.143886,
+      "i"
+    ],
+    [
+      0.072184,
+      "n"
+    ],
+    [
+      0.079975,
+      "g"
+    ],
+    [
+      0.087872,
+      " "
+    ],
+    [
+      0.104058,
+      "w"
+    ],
+    [
+      0.087921,
+      "i"
+    ],
+    [
+      0.112136,
+      "t"
+    ],
+    [
+      0.063999,
+      "h"
+    ],
+    [
+      0.127710,
+      " "
+    ],
+    [
+      0.071936,
+      "p"
+    ],
+    [
+      0.144634,
+      "y"
+    ],
+    [
+      0.127755,
+      "t"
+    ],
+    [
+      0.087815,
+      "h"
+    ],
+    [
+      0.064087,
+      "o"
+    ],
+    [
+      0.071412,
+      "n"
+    ],
+    [
+      0.312158,
+      "\r\n"
+    ],
+    [
+      0.000112,
+      "bash-3.2$ "
+    ],
+    [
+      0.272044,
+      "#"
+    ],
+    [
+      0.160349,
+      " "
+    ],
+    [
+      0.207562,
+      "I"
+    ],
+    [
+      0.176391,
+      "'"
+    ],
+    [
+      0.160019,
+      "l"
+    ],
+    [
+      0.119994,
+      "l"
+    ],
+    [
+      0.071497,
+      " "
+    ],
+    [
+      0.144145,
+      "s"
+    ],
+    [
+      0.080138,
+      "h"
+    ],
+    [
+      0.055804,
+      "o"
+    ],
+    [
+      0.088346,
+      "w"
+    ],
+    [
+      0.088047,
+      " "
+    ],
+    [
+      0.311768,
+      "y"
+    ],
+    [
+      0.080138,
+      "o"
+    ],
+    [
+      0.056045,
+      "u"
+    ],
+    [
+      0.087641,
+      " "
+    ],
+    [
+      0.104220,
+      "i"
+    ],
+    [
+      0.040165,
+      "n"
+    ],
+    [
+      0.087803,
+      " "
+    ],
+    [
+      0.120034,
+      "a"
+    ],
+    [
+      0.095784,
+      " "
+    ],
+    [
+      1.000000,
+      "b"
+    ],
+    [
+      0.103559,
+      "r"
+    ],
+    [
+      0.120060,
+      "a"
+    ],
+    [
+      0.120085,
+      "n"
+    ],
+    [
+      0.088222,
+      "d"
+    ],
+    [
+      0.095919,
+      " "
+    ],
+    [
+      0.095813,
+      "n"
+    ],
+    [
+      0.071976,
+      "e"
+    ],
+    [
+      0.120268,
+      "w"
+    ],
+    [
+      0.104064,
+      " "
+    ],
+    [
+      0.143595,
+      "d"
+    ],
+    [
+      0.072226,
+      "o"
+    ],
+    [
+      0.127798,
+      "c"
+    ],
+    [
+      0.080181,
+      "k"
+    ],
+    [
+      0.079788,
+      "e"
+    ],
+    [
+      0.088356,
+      "r"
+    ],
+    [
+      0.127975,
+      " "
+    ],
+    [
+      0.911891,
+      "c"
+    ],
+    [
+      0.080076,
+      "o"
+    ],
+    [
+      0.088604,
+      "n"
+    ],
+    [
+      0.063055,
+      "t"
+    ],
+    [
+      0.152006,
+      "a"
+    ],
+    [
+      0.112393,
+      "i"
+    ],
+    [
+      0.063872,
+      "n"
+    ],
+    [
+      0.071781,
+      "e"
+    ],
+    [
+      0.096176,
+      "r"
+    ],
+    [
+      0.560021,
+      "\r\n"
+    ],
+    [
+      0.000119,
+      "bash-3.2$ "
+    ],
+    [
+      0.167657,
+      "d"
+    ],
+    [
+      0.120079,
+      "o"
+    ],
+    [
+      0.087810,
+      "c"
+    ],
+    [
+      0.104579,
+      "k"
+    ],
+    [
+      0.055465,
+      "e"
+    ],
+    [
+      0.080083,
+      "r"
+    ],
+    [
+      0.104201,
+      " "
+    ],
+    [
+      0.151701,
+      "r"
+    ],
+    [
+      0.072322,
+      "u"
+    ],
+    [
+      0.056042,
+      "n"
+    ],
+    [
+      0.112038,
+      " "
+    ],
+    [
+      0.103608,
+      "-"
+    ],
+    [
+      0.111995,
+      "-"
+    ],
+    [
+      0.120239,
+      "r"
+    ],
+    [
+      0.104114,
+      "m"
+    ],
+    [
+      0.143579,
+      " "
+    ],
+    [
+      0.064238,
+      "-"
+    ],
+    [
+      0.175763,
+      "i"
+    ],
+    [
+      0.576231,
+      " "
+    ],
+    [
+      0.143791,
+      "-"
+    ],
+    [
+      0.104174,
+      "t"
+    ],
+    [
+      0.112202,
+      " "
+    ],
+    [
+      0.639860,
+      "u"
+    ],
+    [
+      0.127674,
+      "b"
+    ],
+    [
+      0.072317,
+      "u"
+    ],
+    [
+      0.191670,
+      "n"
+    ],
+    [
+      0.128421,
+      "t"
+    ],
+    [
+      0.095727,
+      "u"
+    ],
+    [
+      0.335941,
+      " "
+    ],
+    [
+      0.176329,
+      "/"
+    ],
+    [
+      0.183609,
+      "b"
+    ],
+    [
+      0.096215,
+      "i"
+    ],
+    [
+      0.087976,
+      "n"
+    ],
+    [
+      0.215908,
+      "/"
+    ],
+    [
+      0.079957,
+      "b"
+    ],
+    [
+      0.136282,
+      "a"
+    ],
+    [
+      0.080070,
+      "s"
+    ],
+    [
+      0.095507,
+      "h"
+    ],
+    [
+      0.432228,
+      "\r\n"
+    ],
+    [
+      0.494359,
+      "\u001b]0;root@9dad073af223: /\u0007root@9dad073af223:/# "
+    ],
+    [
+      1.000000,
+      "PS1=\" \\[\\033[1;36m\\]\\"
+    ],
+    [
+      0.000009,
+      "$\\[\\033[00m\\]"
+    ],
+    [
+      0.004565,
+      " \""
+    ],
+    [
+      0.420312,
+      "\r\n"
+    ],
+    [
+      0.005640,
+      " \u001b[1;36m$\u001b[00m \u001b[K"
+    ],
+    [
+      1.000000,
+      "s"
+    ],
+    [
+      0.084501,
+      "u"
+    ],
+    [
+      0.106028,
+      "d"
+    ],
+    [
+      0.110110,
+      "o"
+    ],
+    [
+      0.109182,
+      " "
+    ],
+    [
+      0.168211,
+      "a"
+    ],
+    [
+      0.151760,
+      "p"
+    ],
+    [
+      0.129120,
+      "t"
+    ],
+    [
+      0.103848,
+      "-"
+    ],
+    [
+      0.111101,
+      "g"
+    ],
+    [
+      0.138129,
+      "e"
+    ],
+    [
+      0.072712,
+      "t"
+    ],
+    [
+      0.096613,
+      " "
+    ],
+    [
+      0.222905,
+      "u"
+    ],
+    [
+      0.166089,
+      "p"
+    ],
+    [
+      0.103447,
+      "d"
+    ],
+    [
+      0.147492,
+      "a"
+    ],
+    [
+      0.080632,
+      "t"
+    ],
+    [
+      0.157648,
+      "e"
+    ],
+    [
+      0.120255,
+      " "
+    ],
+    [
+      0.133930,
+      "-"
+    ],
+    [
+      0.146673,
+      "q"
+    ],
+    [
+      0.144676,
+      "q"
+    ],
+    [
+      0.293799,
+      "\r\n"
+    ],
+    [
+      1.000000,
+      " \u001b[1;36m$\u001b[00m \u001b[K"
+    ],
+    [
+      1.000000,
+      "#"
+    ],
+    [
+      0.196387,
+      " "
+    ],
+    [
+      0.176614,
+      "f"
+    ],
+    [
+      0.158351,
+      "i"
+    ],
+    [
+      0.073139,
+      "r"
+    ],
+    [
+      0.158922,
+      "s"
+    ],
+    [
+      0.090168,
+      "t"
+    ],
+    [
+      0.111340,
+      " "
+    ],
+    [
+      0.199248,
+      "I"
+    ],
+    [
+      0.186678,
+      "'"
+    ],
+    [
+      0.152610,
+      "l"
+    ],
+    [
+      0.120788,
+      "l"
+    ],
+    [
+      0.111521,
+      " "
+    ],
+    [
+      0.144530,
+      "i"
+    ],
+    [
+      0.063903,
+      "n"
+    ],
+    [
+      0.064270,
+      "s"
+    ],
+    [
+      0.071704,
+      "t"
+    ],
+    [
+      0.128320,
+      "a"
+    ],
+    [
+      0.039644,
+      "l"
+    ],
+    [
+      0.135702,
+      "l"
+    ],
+    [
+      0.088798,
+      " "
+    ],
+    [
+      0.120075,
+      "p"
+    ],
+    [
+      0.095621,
+      "i"
+    ],
+    [
+      0.127309,
+      "p"
+    ],
+    [
+      0.104829,
+      " "
+    ],
+    [
+      0.143442,
+      "g"
+    ],
+    [
+      0.106388,
+      "l"
+    ],
+    [
+      0.141905,
+      "o"
+    ],
+    [
+      0.053027,
+      "b"
+    ],
+    [
+      0.130365,
+      "a"
+    ],
+    [
+      0.055668,
+      "l"
+    ],
+    [
+      0.112152,
+      "l"
+    ],
+    [
+      0.120195,
+      "y"
+    ],
+    [
+      0.319828,
+      "\r\n \u001b[1;36m$\u001b[00m \u001b[K"
+    ],
+    [
+      0.448815,
+      "s"
+    ],
+    [
+      0.071245,
+      "u"
+    ],
+    [
+      0.120054,
+      "d"
+    ],
+    [
+      0.072604,
+      "o"
+    ],
+    [
+      0.104271,
+      " "
+    ],
+    [
+      0.159895,
+      "a"
+    ],
+    [
+      0.111646,
+      "p"
+    ],
+    [
+      0.103494,
+      "t"
+    ],
+    [
+      0.176532,
+      "-"
+    ],
+    [
+      0.104035,
+      "g"
+    ],
+    [
+      0.144294,
+      "e"
+    ],
+    [
+      0.071414,
+      "t"
+    ],
+    [
+      0.111877,
+      " "
+    ],
+    [
+      0.712566,
+      "i"
+    ],
+    [
+      0.079275,
+      "n"
+    ],
+    [
+      0.056556,
+      "s"
+    ],
+    [
+      0.063238,
+      "t"
+    ],
+    [
+      0.136463,
+      "a"
+    ],
+    [
+      0.071824,
+      "l"
+    ],
+    [
+      0.119985,
+      "l"
+    ],
+    [
+      0.112040,
+      " "
+    ],
+    [
+      0.208009,
+      "-"
+    ],
+    [
+      0.239759,
+      "q"
+    ],
+    [
+      0.168601,
+      "q"
+    ],
+    [
+      0.128323,
+      " "
+    ],
+    [
+      0.143166,
+      "p"
+    ],
+    [
+      0.128375,
+      "y"
+    ],
+    [
+      0.103712,
+      "t"
+    ],
+    [
+      0.096565,
+      "h"
+    ],
+    [
+      0.071320,
+      "o"
+    ],
+    [
+      0.088506,
+      "n"
+    ],
+    [
+      0.168276,
+      "-"
+    ],
+    [
+      0.223465,
+      "p"
+    ],
+    [
+      0.088306,
+      "i"
+    ],
+    [
+      0.136293,
+      "p"
+    ],
+    [
+      0.095479,
+      " "
+    ],
+    [
+      0.192921,
+      "\u003e"
+    ],
+    [
+      0.135401,
+      " "
+    ],
+    [
+      0.360084,
+      "/"
+    ],
+    [
+      0.071431,
+      "d"
+    ],
+    [
+      0.145860,
+      "e"
+    ],
+    [
+      0.133970,
+      "v"
+    ],
+    [
+      0.088435,
+      "/"
+    ],
+    [
+      0.239878,
+      "n"
+    ],
+    [
+      0.097049,
+      "u"
+    ],
+    [
+      0.174936,
+      "l"
+    ],
+    [
+      0.151676,
+      "l"
+    ],
+    [
+      0.327751,
+      "\r\n"
+    ],
+    [
+      1.000000,
+      "\rExtracting templates from packages: 52%"
+    ],
+    [
+      1.000000,
+      "\rExtracting templates from packages: 100%\r\n"
+    ],
+    [
+      1.000000,
+      " \u001b[1;36m$\u001b[00m \u001b[K"
+    ],
+    [
+      0.912148,
+      "#"
+    ],
+    [
+      0.227147,
+      " "
+    ],
+    [
+      0.326005,
+      "n"
+    ],
+    [
+      0.076509,
+      "e"
+    ],
+    [
+      0.182058,
+      "x"
+    ],
+    [
+      0.210381,
+      "t"
+    ],
+    [
+      0.115838,
+      " "
+    ],
+    [
+      0.178553,
+      "I"
+    ],
+    [
+      0.113414,
+      " "
+    ],
+    [
+      0.096583,
+      "i"
+    ],
+    [
+      0.101692,
+      "n"
+    ],
+    [
+      0.058014,
+      "s"
+    ],
+    [
+      0.062899,
+      "t"
+    ],
+    [
+      0.130670,
+      "a"
+    ],
+    [
+      0.061768,
+      "l"
+    ],
+    [
+      0.118174,
+      "l"
+    ],
+    [
+      0.081691,
+      " "
+    ],
+    [
+      0.169233,
+      "v"
+    ],
+    [
+      0.110965,
+      "i"
+    ],
+    [
+      0.077421,
+      "r"
+    ],
+    [
+      0.082064,
+      "t"
+    ],
+    [
+      0.079889,
+      "u"
+    ],
+    [
+      0.116523,
+      "a"
+    ],
+    [
+      0.084007,
+      "l"
+    ],
+    [
+      0.117161,
+      "e"
+    ],
+    [
+      0.102054,
+      "n"
+    ],
+    [
+      0.146766,
+      "v"
+    ],
+    [
+      0.209916,
+      "w"
+    ],
+    [
+      0.135525,
+      "r"
+    ],
+    [
+      0.130129,
+      "a"
+    ],
+    [
+      0.084341,
+      "p"
+    ],
+    [
+      0.132591,
+      "p"
+    ],
+    [
+      0.067602,
+      "e"
+    ],
+    [
+      0.120983,
+      "r"
+    ],
+    [
+      0.559873,
+      " "
+    ],
+    [
+      0.187104,
+      "g"
+    ],
+    [
+      0.091221,
+      "l"
+    ],
+    [
+      0.133689,
+      "o"
+    ],
+    [
+      0.076041,
+      "b"
+    ],
+    [
+      0.124761,
+      "a"
+    ],
+    [
+      0.028053,
+      "l"
+    ],
+    [
+      0.132123,
+      "l"
+    ],
+    [
+      0.079338,
+      "y"
+    ],
+    [
+      0.117473,
+      " "
+    ],
+    [
+      0.193387,
+      "("
+    ],
+    [
+      0.196278,
+      "y"
+    ],
+    [
+      0.093050,
+      "o"
+    ],
+    [
+      0.058477,
+      "u"
+    ],
+    [
+      0.072132,
+      " "
+    ],
+    [
+      0.175552,
+      "c"
+    ],
+    [
+      0.114806,
+      "a"
+    ],
+    [
+      0.085688,
+      "n"
+    ],
+    [
+      0.133577,
+      " "
+    ],
+    [
+      0.118664,
+      "a"
+    ],
+    [
+      0.080818,
+      "l"
+    ],
+    [
+      0.107273,
+      "s"
+    ],
+    [
+      0.079374,
+      "o"
+    ],
+    [
+      0.121785,
+      " "
+    ],
+    [
+      0.111958,
+      "d"
+    ],
+    [
+      0.105530,
+      "o"
+    ],
+    [
+      0.114085,
+      " "
+    ],
+    [
+      0.119390,
+      "i"
+    ],
+    [
+      0.178709,
+      "t"
+    ],
+    [
+      0.118221,
+      " "
+    ],
+    [
+      0.110847,
+      "p"
+    ],
+    [
+      0.060158,
+      "e"
+    ],
+    [
+      0.089067,
+      "r"
+    ],
+    [
+      0.131093,
+      " "
+    ],
+    [
+      0.114327,
+      "u"
+    ],
+    [
+      0.106812,
+      "s"
+    ],
+    [
+      0.039230,
+      "e"
+    ],
+    [
+      0.078443,
+      "r"
+    ],
+    [
+      0.110221,
+      " "
+    ],
+    [
+      0.091323,
+      "i"
+    ],
+    [
+      0.069077,
+      "f"
+    ],
+    [
+      0.100362,
+      " "
+    ],
+    [
+      0.081994,
+      "y"
+    ],
+    [
+      0.067326,
+      "o"
+    ],
+    [
+      0.080028,
+      "u"
+    ],
+    [
+      0.060155,
+      " "
+    ],
+    [
+      0.089295,
+      "w"
+    ],
+    [
+      0.130530,
+      "a"
+    ],
+    [
+      0.113931,
+      "n"
+    ],
+    [
+      0.063299,
+      "t"
+    ],
+    [
+      0.220225,
+      ")"
+    ],
+    [
+      0.270851,
+      "\r\n"
+    ],
+    [
+      0.001670,
+      " \u001b[1;36m$\u001b[00m \u001b[K"
+    ],
+    [
+      0.969722,
+      "s"
+    ],
+    [
+      0.075142,
+      "u"
+    ],
+    [
+      0.110394,
+      "d"
+    ],
+    [
+      0.093422,
+      "o"
+    ],
+    [
+      0.083258,
+      " "
+    ],
+    [
+      0.104421,
+      "p"
+    ],
+    [
+      0.102470,
+      "i"
+    ],
+    [
+      0.152509,
+      "p"
+    ],
+    [
+      0.142613,
+      " "
+    ],
+    [
+      0.096570,
+      "i"
+    ],
+    [
+      0.080950,
+      "n"
+    ],
+    [
+      0.078110,
+      "s"
+    ],
+    [
+      0.059139,
+      "t"
+    ],
+    [
+      0.131815,
+      "a"
+    ],
+    [
+      0.074463,
+      "l"
+    ],
+    [
+      0.113401,
+      "l"
+    ],
+    [
+      0.085763,
+      " "
+    ],
+    [
+      0.155634,
+      "v"
+    ],
+    [
+      0.128933,
+      "i"
+    ],
+    [
+      0.060647,
+      "r"
+    ],
+    [
+      0.090784,
+      "t"
+    ],
+    [
+      0.057224,
+      "u"
+    ],
+    [
+      0.112677,
+      "a"
+    ],
+    [
+      0.085631,
+      "l"
+    ],
+    [
+      0.105083,
+      "e"
+    ],
+    [
+      0.096181,
+      "n"
+    ],
+    [
+      0.087554,
+      "v"
+    ],
+    [
+      0.144557,
+      "w"
+    ],
+    [
+      0.115021,
+      "r"
+    ],
+    [
+      0.124361,
+      "a"
+    ],
+    [
+      0.051763,
+      "p"
+    ],
+    [
+      0.132493,
+      "p"
+    ],
+    [
+      0.077201,
+      "e"
+    ],
+    [
+      0.095642,
+      "r"
+    ],
+    [
+      0.498284,
+      "\r\n"
+    ],
+    [
+      0.144643,
+      "Downloading/unpacking virtualenvwrapper\r\n"
+    ],
+    [
+      0.276044,
+      "  Downloading virtualenvwrapper-4.3.2.tar.gz (86kB): "
+    ],
+    [
+      0.000014,
+      "\r  Downloading virtualenvwrapper-4.3.2.tar.gz (86kB):   4%  4.1kB"
+    ],
+    [
+      0.003598,
+      "\r  Downloading virtualenvwrapper-4.3.2.tar.gz (86kB):   9%  8.2kB"
+    ],
+    [
+      0.032393,
+      "\r  Downloading virtualenvwrapper-4.3.2.tar.gz (86kB):  14%  12kB "
+    ],
+    [
+      0.000476,
+      "\r  Downloading virtualenvwrapper-4.3.2.tar.gz (86kB):  18%  16kB"
+    ],
+    [
+      0.000409,
+      "\r  Downloading virtualenvwrapper-4.3.2.tar.gz (86kB):  23%  20kB"
+    ],
+    [
+      0.007441,
+      "\r  Downloading virtualenvwrapper-4.3.2.tar.gz (86kB):  28%  24kB"
+    ],
+    [
+      0.003430,
+      "\r  Downloading virtualenvwrapper-4.3.2.tar.gz (86kB):  33%  28kB\r  Downloading virtualenvwrapper-4.3.2.tar.gz (86kB):  37%  32kB"
+    ],
+    [
+      0.029994,
+      "\r  Downloading virtualenvwrapper-4.3.2.tar.gz (86kB):  42%  36kB"
+    ],
+    [
+      0.000653,
+      "\r  Downloading virtualenvwrapper-4.3.2.tar.gz (86kB):  47%  40kB"
+    ],
+    [
+      0.000006,
+      "\r  Downloading virtualenvwrapper-4.3.2.tar.gz (86kB):  52%  45kB"
+    ],
+    [
+      0.000801,
+      "\r  Downloading virtualenvwrapper-4.3.2.tar.gz (86kB):  56%  49kB"
+    ],
+    [
+      0.000262,
+      "\r  Downloading virtualenvwrapper-4.3.2.tar.gz (86kB):  61%  53kB"
+    ],
+    [
+      0.000291,
+      "\r  Downloading virtualenvwrapper-4.3.2.tar.gz (86kB):  66%  57kB"
+    ],
+    [
+      0.004878,
+      "\r  Downloading virtualenvwrapper-4.3.2.tar.gz (86kB):  71%  61kB"
+    ],
+    [
+      0.000013,
+      "\r  Downloading virtualenvwrapper-4.3.2.tar.gz (86kB):  75%  65kB"
+    ],
+    [
+      0.001996,
+      "\r  Downloading virtualenvwrapper-4.3.2.tar.gz (86kB):  80%  69kB\r  Downloading virtualenvwrapper-4.3.2.tar.gz (86kB):  85%  73kB"
+    ],
+    [
+      0.034078,
+      "\r  Downloading virtualenvwrapper-4.3.2.tar.gz (86kB):  89%  77kB"
+    ],
+    [
+      0.000006,
+      "\r  Downloading virtualenvwrapper-4.3.2.tar.gz (86kB):  94%  81kB\r  Downloading virtualenvwrapper-4.3.2.tar.gz (86kB):  99%  86kB\r  Downloading virtualenvwrapper-4.3.2.tar.gz (86kB): 100%  86kB"
+    ],
+    [
+      0.003261,
+      "\r  Downloading virtualenvwrapper-4.3.2.tar.gz (86kB):           \r  Downloading virtualenvwrapper-4.3.2.tar.gz (86kB): 86kB downloaded\r\n"
+    ],
+    [
+      0.015317,
+      "  Running setup.py (path:/tmp/pip_build_root/virtualenvwrapper/setup.py) egg_info for package virtualenvwrapper\r\n"
+    ],
+    [
+      0.785268,
+      "    \r\n    Installed /tmp/pip_build_root/virtualenvwrapper/pbr-0.10.8-py2.7.egg\r\n"
+    ],
+    [
+      0.025350,
+      "    [pbr] Processing SOURCES.txt\r\n"
+    ],
+    [
+      0.004307,
+      "    warning: LocalManifestMaker: standard file '-c' not found\r\n    \r\n"
+    ],
+    [
+      0.003235,
+      "    warning: no previously-included files found matching '.gitignore'\r\n"
+    ],
+    [
+      0.000009,
+      "    warning: no previously-included files found matching '.gitreview'\r\n    warning: no previously-included files matching '*.pyc' found anywhere in distribution\r\n    warning: no files found matching '*.html' under directory 'docs'\r\n    warning: no files found matching '*.css' under directory 'docs'\r\n"
+    ],
+    [
+      0.001092,
+      "    warning: no files found matching '*.js' under directory 'docs'\r\n"
+    ],
+    [
+      0.005469,
+      "    warning: no files found matching '*.png' under directory 'docs'\r\n"
+    ],
+    [
+      0.015279,
+      "Downloading/unpacking virtualenv (from virtualenvwrapper)\r\n"
+    ],
+    [
+      0.124126,
+      "  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB): "
+    ],
+    [
+      0.000007,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   0%  4.1kB"
+    ],
+    [
+      0.000261,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   0%  8.2kB"
+    ],
+    [
+      0.000564,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   0%  12kB "
+    ],
+    [
+      0.000015,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   0%  16kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   1%  20kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   1%  24kB"
+    ],
+    [
+      0.000279,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   1%  28kB"
+    ],
+    [
+      0.000284,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   1%  32kB"
+    ],
+    [
+      0.004435,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   2%  36kB"
+    ],
+    [
+      0.010958,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   2%  40kB"
+    ],
+    [
+      0.024140,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   2%  45kB"
+    ],
+    [
+      0.000007,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   2%  49kB"
+    ],
+    [
+      0.000215,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   2%  53kB"
+    ],
+    [
+      0.003022,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   3%  57kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   3%  61kB"
+    ],
+    [
+      0.000344,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   3%  65kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   3%  69kB"
+    ],
+    [
+      0.000504,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   4%  73kB"
+    ],
+    [
+      0.000006,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   4%  77kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   4%  81kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   4%  86kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   5%  90kB"
+    ],
+    [
+      0.000166,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   5%  94kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   5%  98kB"
+    ],
+    [
+      0.000315,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   5%  102kB"
+    ],
+    [
+      0.000005,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   5%  106kB"
+    ],
+    [
+      0.000282,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   6%  110kB"
+    ],
+    [
+      0.005247,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   6%  114kB"
+    ],
+    [
+      0.026782,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   6%  118kB"
+    ],
+    [
+      0.002542,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   6%  122kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   7%  126kB"
+    ],
+    [
+      0.001468,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   7%  131kB"
+    ],
+    [
+      0.000339,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   7%  135kB"
+    ],
+    [
+      0.002094,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   7%  139kB"
+    ],
+    [
+      0.000859,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   8%  143kB"
+    ],
+    [
+      0.000542,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   8%  147kB"
+    ],
+    [
+      0.000004,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   8%  151kB"
+    ],
+    [
+      0.001056,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   8%  155kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   8%  159kB"
+    ],
+    [
+      0.000005,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   9%  163kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   9%  167kB"
+    ],
+    [
+      0.000003,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   9%  172kB"
+    ],
+    [
+      0.000002,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):   9%  176kB"
+    ],
+    [
+      0.000018,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  10%  180kB"
+    ],
+    [
+      0.000004,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  10%  184kB"
+    ],
+    [
+      0.003710,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  10%  188kB"
+    ],
+    [
+      0.000035,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  10%  192kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  10%  196kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  11%  200kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  11%  204kB"
+    ],
+    [
+      0.000007,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  11%  208kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  11%  212kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  12%  217kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  12%  221kB"
+    ],
+    [
+      0.000104,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  12%  225kB"
+    ],
+    [
+      0.000071,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  12%  229kB"
+    ],
+    [
+      0.000112,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  13%  233kB"
+    ],
+    [
+      0.001150,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  13%  237kB"
+    ],
+    [
+      0.026368,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  13%  241kB"
+    ],
+    [
+      0.000010,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  13%  245kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  13%  249kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  14%  253kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  14%  258kB"
+    ],
+    [
+      0.000004,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  14%  262kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  14%  266kB"
+    ],
+    [
+      0.000004,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  15%  270kB"
+    ],
+    [
+      0.000018,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  15%  274kB"
+    ],
+    [
+      0.008452,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  15%  278kB"
+    ],
+    [
+      0.000004,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  15%  282kB"
+    ],
+    [
+      0.000048,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  16%  286kB"
+    ],
+    [
+      0.000195,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  16%  290kB"
+    ],
+    [
+      0.000178,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  16%  294kB"
+    ],
+    [
+      0.000181,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  16%  299kB"
+    ],
+    [
+      0.000216,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  16%  303kB"
+    ],
+    [
+      0.000226,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  17%  307kB"
+    ],
+    [
+      0.002928,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  17%  311kB"
+    ],
+    [
+      0.001960,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  17%  315kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  17%  319kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  18%  323kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  18%  327kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  18%  331kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  18%  335kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  18%  339kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  19%  344kB"
+    ],
+    [
+      0.000012,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  19%  348kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  19%  352kB"
+    ],
+    [
+      0.000225,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  19%  356kB"
+    ],
+    [
+      0.000007,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  20%  360kB"
+    ],
+    [
+      0.000216,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  20%  364kB"
+    ],
+    [
+      0.000004,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  20%  368kB"
+    ],
+    [
+      0.000278,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  20%  372kB"
+    ],
+    [
+      0.000342,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  21%  376kB"
+    ],
+    [
+      0.026767,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  21%  380kB"
+    ],
+    [
+      0.001539,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  21%  385kB"
+    ],
+    [
+      0.003484,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  21%  389kB"
+    ],
+    [
+      0.000310,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  21%  393kB"
+    ],
+    [
+      0.003546,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  22%  397kB"
+    ],
+    [
+      0.000313,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  22%  401kB"
+    ],
+    [
+      0.000318,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  22%  405kB"
+    ],
+    [
+      0.000358,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  22%  409kB"
+    ],
+    [
+      0.000204,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  23%  413kB"
+    ],
+    [
+      0.000169,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  23%  417kB"
+    ],
+    [
+      0.000177,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  23%  421kB"
+    ],
+    [
+      0.000169,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  23%  425kB"
+    ],
+    [
+      0.000187,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  24%  430kB"
+    ],
+    [
+      0.000179,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  24%  434kB"
+    ],
+    [
+      0.000173,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  24%  438kB"
+    ],
+    [
+      0.000181,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  24%  442kB"
+    ],
+    [
+      0.000181,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  24%  446kB"
+    ],
+    [
+      0.000190,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  25%  450kB"
+    ],
+    [
+      0.000175,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  25%  454kB"
+    ],
+    [
+      0.000169,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  25%  458kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  25%  462kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  26%  466kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  26%  471kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  26%  475kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  26%  479kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  27%  483kB"
+    ],
+    [
+      0.002679,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  27%  487kB"
+    ],
+    [
+      0.000244,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  27%  491kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  27%  495kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  27%  499kB"
+    ],
+    [
+      0.000221,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  28%  503kB"
+    ],
+    [
+      0.000193,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  28%  507kB"
+    ],
+    [
+      0.000209,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  28%  512kB"
+    ],
+    [
+      0.002641,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  28%  516kB"
+    ],
+    [
+      0.000160,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  29%  520kB"
+    ],
+    [
+      0.000234,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  29%  524kB"
+    ],
+    [
+      0.000283,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  29%  528kB"
+    ],
+    [
+      0.000252,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  29%  532kB"
+    ],
+    [
+      0.000257,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  29%  536kB"
+    ],
+    [
+      0.000149,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  30%  540kB"
+    ],
+    [
+      0.000128,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  30%  544kB"
+    ],
+    [
+      0.000110,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  30%  548kB"
+    ],
+    [
+      0.000022,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  30%  552kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  31%  557kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  31%  561kB"
+    ],
+    [
+      0.000046,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  31%  565kB"
+    ],
+    [
+      0.001292,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  31%  569kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  32%  573kB"
+    ],
+    [
+      0.000954,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  32%  577kB"
+    ],
+    [
+      0.000014,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  32%  581kB"
+    ],
+    [
+      0.000003,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  32%  585kB"
+    ],
+    [
+      0.000567,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  32%  589kB"
+    ],
+    [
+      0.015173,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  33%  593kB"
+    ],
+    [
+      0.003243,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  33%  598kB"
+    ],
+    [
+      0.000004,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  33%  602kB"
+    ],
+    [
+      0.000175,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  33%  606kB"
+    ],
+    [
+      0.002070,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  34%  610kB"
+    ],
+    [
+      0.000106,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  34%  614kB"
+    ],
+    [
+      0.000226,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  34%  618kB"
+    ],
+    [
+      0.000231,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  34%  622kB"
+    ],
+    [
+      0.000271,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  35%  626kB"
+    ],
+    [
+      0.000195,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  35%  630kB"
+    ],
+    [
+      0.000129,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  35%  634kB"
+    ],
+    [
+      0.000640,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  35%  638kB"
+    ],
+    [
+      0.001451,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  35%  643kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  36%  647kB"
+    ],
+    [
+      0.000294,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  36%  651kB"
+    ],
+    [
+      0.000335,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  36%  655kB"
+    ],
+    [
+      0.002594,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  36%  659kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  37%  663kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  37%  667kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  37%  671kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  37%  675kB"
+    ],
+    [
+      0.000009,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  37%  679kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  38%  684kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  38%  688kB"
+    ],
+    [
+      0.000029,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  38%  692kB"
+    ],
+    [
+      0.005856,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  38%  696kB"
+    ],
+    [
+      0.000006,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  39%  700kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  39%  704kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  39%  708kB"
+    ],
+    [
+      0.000013,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  39%  712kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  40%  716kB"
+    ],
+    [
+      0.000004,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  40%  720kB"
+    ],
+    [
+      0.000178,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  40%  724kB"
+    ],
+    [
+      0.000307,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  40%  729kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  40%  733kB"
+    ],
+    [
+      0.000264,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  41%  737kB"
+    ],
+    [
+      0.003042,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  41%  741kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  41%  745kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  41%  749kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  42%  753kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  42%  757kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  42%  761kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  42%  765kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  43%  770kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  43%  774kB"
+    ],
+    [
+      0.000032,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  43%  778kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  43%  782kB"
+    ],
+    [
+      0.000225,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  43%  786kB"
+    ],
+    [
+      0.000234,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  44%  790kB"
+    ],
+    [
+      0.000210,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  44%  794kB"
+    ],
+    [
+      0.000175,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  44%  798kB"
+    ],
+    [
+      0.000196,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  44%  802kB"
+    ],
+    [
+      0.003975,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  45%  806kB"
+    ],
+    [
+      0.000300,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  45%  811kB"
+    ],
+    [
+      0.000218,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  45%  815kB"
+    ],
+    [
+      0.001700,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  45%  819kB"
+    ],
+    [
+      0.000227,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  46%  823kB"
+    ],
+    [
+      0.000368,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  46%  827kB"
+    ],
+    [
+      0.000417,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  46%  831kB"
+    ],
+    [
+      0.000349,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  46%  835kB"
+    ],
+    [
+      0.000169,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  46%  839kB"
+    ],
+    [
+      0.001342,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  47%  843kB"
+    ],
+    [
+      0.000901,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  47%  847kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  47%  851kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  47%  856kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  48%  860kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  48%  864kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  48%  868kB"
+    ],
+    [
+      0.008623,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  48%  872kB"
+    ],
+    [
+      0.002880,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  48%  876kB"
+    ],
+    [
+      0.000997,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  49%  880kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  49%  884kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  49%  888kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  49%  892kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  50%  897kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  50%  901kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  50%  905kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  50%  909kB"
+    ],
+    [
+      0.002893,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  51%  913kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  51%  917kB"
+    ],
+    [
+      0.003148,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  51%  921kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  51%  925kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  51%  929kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  52%  933kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  52%  937kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  52%  942kB"
+    ],
+    [
+      0.003908,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  52%  946kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  53%  950kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  53%  954kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  53%  958kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  53%  962kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  54%  966kB"
+    ],
+    [
+      0.001934,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  54%  970kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  54%  974kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  54%  978kB"
+    ],
+    [
+      0.005415,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  54%  983kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  55%  987kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  55%  991kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  55%  995kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  55%  999kB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  56%  1.0MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  56%  1.0MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  56%  1.0MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  56%  1.0MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  56%  1.0MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  57%  1.0MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  57%  1.0MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  57%  1.0MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):"
+    ],
+    [
+      0.000008,
+      "  57%  1.0MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  58%  1.0MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  58%  1.0MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  58%  1.0MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  58%  1.1MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  59%  1.1MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  59%  1.1MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  59%  1.1MB"
+    ],
+    [
+      0.003441,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  59%  1.1MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  59%  1.1MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  60%  1.1MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  60%  1.1MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  60%  1.1MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  60%  1.1MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  61%  1.1MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  61%  1.1MB"
+    ],
+    [
+      0.000268,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  61%  1.1MB"
+    ],
+    [
+      0.000257,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  61%  1.1MB"
+    ],
+    [
+      0.000207,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  62%  1.1MB"
+    ],
+    [
+      0.000173,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  62%  1.1MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  62%  1.1MB"
+    ],
+    [
+      0.000172,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  62%  1.1MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  62%  1.1MB"
+    ],
+    [
+      0.001487,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  63%  1.1MB"
+    ],
+    [
+      0.004556,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  63%  1.1MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  63%  1.1MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  63%  1.1MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  64%  1.1MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  64%  1.2MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  64%  1.2MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  64%  1.2MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  64%  1.2MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  65%  1.2MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  65%  1.2MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  65%  1.2MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  65%  1.2MB"
+    ],
+    [
+      0.007065,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  66%  1.2MB"
+    ],
+    [
+      0.000185,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  66%  1.2MB"
+    ],
+    [
+      0.000206,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  66%  1.2MB"
+    ],
+    [
+      0.001070,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  66%  1.2MB"
+    ],
+    [
+      0.004378,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  67%  1.2MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  67%  1.2MB"
+    ],
+    [
+      0.000201,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  67%  1.2MB"
+    ],
+    [
+      0.000184,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  67%  1.2MB"
+    ],
+    [
+      0.000177,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  67%  1.2MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  68%  1.2MB"
+    ],
+    [
+      0.000176,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  68%  1.2MB"
+    ],
+    [
+      0.000169,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  68%  1.2MB"
+    ],
+    [
+      0.000175,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  68%  1.2MB"
+    ],
+    [
+      0.000183,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  69%  1.2MB"
+    ],
+    [
+      0.000168,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  69%  1.2MB"
+    ],
+    [
+      0.000184,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  69%  1.2MB"
+    ],
+    [
+      0.000186,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  69%  1.2MB"
+    ],
+    [
+      0.001775,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  70%  1.3MB"
+    ],
+    [
+      0.000948,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  70%  1.3MB"
+    ],
+    [
+      0.000199,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  70%  1.3MB"
+    ],
+    [
+      0.001240,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  70%  1.3MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  70%  1.3MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  71%  1.3MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  71%  1.3MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  71%  1.3MB"
+    ],
+    [
+      0.002410,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  71%  1.3MB"
+    ],
+    [
+      0.002653,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  72%  1.3MB"
+    ],
+    [
+      0.000043,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  72%  1.3MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  72%  1.3MB"
+    ],
+    [
+      0.000235,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  72%  1.3MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  73%  1.3MB"
+    ],
+    [
+      0.000161,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  73%  1.3MB"
+    ],
+    [
+      0.000141,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  73%  1.3MB"
+    ],
+    [
+      0.000112,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  73%  1.3MB"
+    ],
+    [
+      0.000186,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  73%  1.3MB"
+    ],
+    [
+      0.004043,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  74%  1.3MB"
+    ],
+    [
+      0.000006,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  74%  1.3MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  74%  1.3MB"
+    ],
+    [
+      0.000003,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  74%  1.3MB"
+    ],
+    [
+      0.000002,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  75%  1.3MB"
+    ],
+    [
+      0.006167,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  75%  1.3MB"
+    ],
+    [
+      0.000016,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  75%  1.4MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  75%  1.4MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  75%  1.4MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  76%  1.4MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  76%  1.4MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  76%  1.4MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  76%  1.4MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  77%  1.4MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  77%  1.4MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  77%  1.4MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  77%  1.4MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  78%  1.4MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  78%  1.4MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):"
+    ],
+    [
+      0.000012,
+      "  78%  1.4MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  78%  1.4MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  78%  1.4MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  79%  1.4MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  79%  1.4MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  79%  1.4MB"
+    ],
+    [
+      0.003641,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  79%  1.4MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  80%  1.4MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  80%  1.4MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  80%  1.4MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  80%  1.4MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  81%  1.4MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  81%  1.5MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  81%  1.5MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  81%  1.5MB"
+    ],
+    [
+      0.000004,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  81%  1.5MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  82%  1.5MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  82%  1.5MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  82%  1.5MB"
+    ],
+    [
+      0.001237,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  82%  1.5MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  83%  1.5MB"
+    ],
+    [
+      0.000006,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  83%  1.5MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  83%  1.5MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  83%  1.5MB"
+    ],
+    [
+      0.004154,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  83%  1.5MB"
+    ],
+    [
+      0.000004,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  84%  1.5MB"
+    ],
+    [
+      0.000003,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  84%  1.5MB"
+    ],
+    [
+      0.006221,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  84%  1.5MB"
+    ],
+    [
+      0.000272,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  84%  1.5MB"
+    ],
+    [
+      0.000283,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  85%  1.5MB"
+    ],
+    [
+      0.000242,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  85%  1.5MB"
+    ],
+    [
+      0.000138,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  85%  1.5MB"
+    ],
+    [
+      0.000004,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  85%  1.5MB"
+    ],
+    [
+      0.001035,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  86%  1.5MB"
+    ],
+    [
+      0.006502,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  86%  1.5MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  86%  1.5MB"
+    ],
+    [
+      0.000123,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  86%  1.6MB"
+    ],
+    [
+      0.000197,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  86%  1.6MB"
+    ],
+    [
+      0.000177,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  87%  1.6MB"
+    ],
+    [
+      0.000156,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  87%  1.6MB"
+    ],
+    [
+      0.000183,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  87%  1.6MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  87%  1.6MB"
+    ],
+    [
+      0.000170,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  88%  1.6MB"
+    ],
+    [
+      0.003180,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  88%  1.6MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  88%  1.6MB"
+    ],
+    [
+      0.000005,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  88%  1.6MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  89%  1.6MB"
+    ],
+    [
+      0.000002,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  89%  1.6MB"
+    ],
+    [
+      0.000016,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  89%  1.6MB"
+    ],
+    [
+      0.001580,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  89%  1.6MB"
+    ],
+    [
+      0.000321,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  89%  1.6MB"
+    ],
+    [
+      0.003637,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  90%  1.6MB"
+    ],
+    [
+      0.000014,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  90%  1.6MB"
+    ],
+    [
+      0.000014,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  90%  1.6MB"
+    ],
+    [
+      0.000006,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  90%  1.6MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  91%  1.6MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  91%  1.6MB"
+    ],
+    [
+      0.000167,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  91%  1.6MB"
+    ],
+    [
+      0.000184,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  91%  1.6MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  92%  1.6MB"
+    ],
+    [
+      0.000181,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  92%  1.7MB"
+    ],
+    [
+      0.008117,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  92%  1.7MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  92%  1.7MB"
+    ],
+    [
+      0.000010,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  92%  1.7MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  93%  1.7MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  93%  1.7MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  93%  1.7MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  93%  1.7MB"
+    ],
+    [
+      0.000228,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  94%  1.7MB"
+    ],
+    [
+      0.003206,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  94%  1.7MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  94%  1.7MB\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  94%  1.7MB"
+    ],
+    [
+      0.000006,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  94%  1.7MB"
+    ],
+    [
+      0.000024,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  95%  1.7MB"
+    ],
+    [
+      0.000186,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  95%  1.7MB"
+    ],
+    [
+      0.000171,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  95%  1.7MB"
+    ],
+    [
+      0.000165,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  95%  1.7MB"
+    ],
+    [
+      0.000174,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  96%  1.7MB"
+    ],
+    [
+      0.000163,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  96%  1.7MB"
+    ],
+    [
+      0.002482,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  96%  1.7MB"
+    ],
+    [
+      0.002211,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  96%  1.7MB"
+    ],
+    [
+      0.000180,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  97%  1.7MB"
+    ],
+    [
+      0.000181,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  97%  1.7MB"
+    ],
+    [
+      0.000198,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  97%  1.7MB"
+    ],
+    [
+      0.000185,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  97%  1.7MB"
+    ],
+    [
+      0.000142,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  97%  1.8MB"
+    ],
+    [
+      0.000017,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  98%  1.8MB"
+    ],
+    [
+      0.000004,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  98%  1.8MB"
+    ],
+    [
+      0.000012,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  98%  1.8MB"
+    ],
+    [
+      0.000003,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  98%  1.8MB"
+    ],
+    [
+      0.000059,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  99%  1.8MB"
+    ],
+    [
+      0.000147,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  99%  1.8MB"
+    ],
+    [
+      0.000137,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  99%  1.8MB"
+    ],
+    [
+      0.000096,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):  99%  1.8MB"
+    ],
+    [
+      0.000911,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB): 100%  1.8MB"
+    ],
+    [
+      0.005557,
+      "\r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB):            \r  Downloading virtualenv-12.0.7-py2.py3-none-any.whl (1.8MB): 1.8MB downloaded\r\n"
+    ],
+    [
+      0.010811,
+      "Downloading/unpacking virtualenv-clone (from virtualenvwrapper)\r\n"
+    ],
+    [
+      0.094384,
+      "  Downloading virtualenv-clone-0.2.5.tar.gz\r\n"
+    ],
+    [
+      0.000009,
+      "  Running setup.py (path:/tmp/pip_build_root/virtualenv-clone/setup.py) egg_info for package virtualenv-clone\r\n"
+    ],
+    [
+      0.055836,
+      "    \r\n"
+    ],
+    [
+      0.019575,
+      "Downloading/unpacking stevedore (from virtualenvwrapper)\r\n"
+    ],
+    [
+      0.104916,
+      "  Downloading stevedore-1.3.0-py2.py3-none-any.whl\r\n"
+    ],
+    [
+      0.000006,
+      "Downloading/unpacking six\u003e=1.9.0 (from stevedore-\u003evirtualenvwrapper)\r\n"
+    ],
+    [
+      0.099370,
+      "  Downloading six-1.9.0-py2.py3-none-any.whl\r\n"
+    ],
+    [
+      0.005177,
+      "Downloading/unpacking pbr\u003e=0.6,!=0.7,\u003c1.0 (from stevedore-\u003evirtualenvwrapper)\r\n"
+    ],
+    [
+      0.110669,
+      "  Downloading pbr-0.10.8-py2.py3-none-any.whl (70kB): "
+    ],
+    [
+      0.000018,
+      "\r  Downloading pbr-0.10.8-py2.py3-none-any.whl (70kB):   5%  4.1kB\r  Downloading pbr-0.10.8-py2.py3-none-any.whl (70kB):  11%  8.2kB\r  Downloading pbr-0.10.8-py2.py3-none-any.whl (70kB):  17%  12kB "
+    ],
+    [
+      0.000359,
+      "\r  Downloading pbr-0.10.8-py2.py3-none-any.whl (70kB):  23%  16kB\r  Downloading pbr-0.10.8-py2.py3-none-any.whl (70kB):  29%  20kB"
+    ],
+    [
+      0.000351,
+      "\r  Downloading pbr-0.10.8-py2.py3-none-any.whl (70kB):  35%  24kB"
+    ],
+    [
+      0.000347,
+      "\r  Downloading pbr-0.10.8-py2.py3-none-any.whl (70kB):  40%  28kB"
+    ],
+    [
+      0.000331,
+      "\r  Downloading pbr-0.10.8-py2.py3-none-any.whl (70kB):  46%  32kB"
+    ],
+    [
+      0.000247,
+      "\r  Downloading pbr-0.10.8-py2.py3-none-any.whl (70kB):  52%  36kB"
+    ],
+    [
+      0.000172,
+      "\r  Downloading pbr-0.10.8-py2.py3-none-any.whl (70kB):  58%  40kB"
+    ],
+    [
+      0.002474,
+      "\r  Downloading pbr-0.10.8-py2.py3-none-any.whl (70kB):  64%  45kB"
+    ],
+    [
+      0.000004,
+      "\r  Downloading pbr-0.10.8-py2.py3-none-any.whl (70kB):  70%  49kB"
+    ],
+    [
+      0.000833,
+      "\r  Downloading pbr-0.10.8-py2.py3-none-any.whl (70kB):  75%  53kB"
+    ],
+    [
+      0.000005,
+      "\r  Downloading pbr-0.10.8-py2.py3-none-any.whl (70kB):  81%  57kB\r  Downloading pbr-0.10.8-py2.py3-none-any.whl (70kB):  87%  61kB\r  Downloading pbr-0.10.8-py2.py3-none-any.whl (70kB):  93%  65kB"
+    ],
+    [
+      0.004101,
+      "\r  Downloading pbr-0.10.8-py2.py3-none-any.whl (70kB):  99%  69kB"
+    ],
+    [
+      0.000005,
+      "\r  Downloading pbr-0.10.8-py2.py3-none-any.whl (70kB): 100%  70kB\r  Downloading pbr-0.10.8-py2.py3-none-any.whl (70kB):           "
+    ],
+    [
+      0.000003,
+      "\r  Downloading pbr-0.10.8-py2.py3-none-any.whl (70kB): 70kB downloaded"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.005049,
+      "Requirement already satisfied (use --upgrade to upgrade): argparse in /usr/lib/python2.7 (from stevedore-\u003evirtualenvwrapper)\r\n"
+    ],
+    [
+      0.000015,
+      "Requirement already satisfied (use --upgrade to upgrade): pip in /usr/lib/python2.7/dist-packages (from pbr\u003e=0.6,!=0.7,\u003c1.0-\u003estevedore-\u003evirtualenvwrapper)\r\n"
+    ],
+    [
+      0.000030,
+      "Installing collected packages: virtualenvwrapper, virtualenv, virtualenv-clone, stevedore, six, pbr\r\n"
+    ],
+    [
+      0.005197,
+      "  Running setup.py install for virtualenvwrapper\r\n"
+    ],
+    [
+      0.084644,
+      "    [pbr] Reusing existing SOURCES.txt\r\n"
+    ],
+    [
+      0.000007,
+      "    changing mode of build/scripts-2.7/virtualenvwrapper.sh from 644 to 755\r\n    changing mode of build/scripts-2.7/virtualenvwrapper_lazy.sh from 644 to 755\r\n    Skipping installation of /usr/local/lib/python2.7/dist-packages/virtualenvwrapper/__init__.py (namespace package)\r\n"
+    ],
+    [
+      0.004863,
+      "    Installing /usr/local/lib/python2.7/dist-packages/virtualenvwrapper-4.3.2-nspkg.pth\r\n"
+    ],
+    [
+      0.000008,
+      "    changing mode of /usr/local/bin/virtualenvwrapper_lazy.sh to 755\r\n    changing mode of /usr/local/bin/virtualenvwrapper.sh to 755\r\n"
+    ],
+    [
+      0.025485,
+      "  Running setup.py install for virtualenv-clone\r\n"
+    ],
+    [
+      0.064843,
+      "    \r\n"
+    ],
+    [
+      0.014464,
+      "    Installing virtualenv-clone script to /usr/local/bin\r\n"
+    ],
+    [
+      0.024628,
+      "  Found existing installation: six 1.5.2\r\n"
+    ],
+    [
+      0.000630,
+      "    Uninstalling six:\r\n"
+    ],
+    [
+      0.004968,
+      "      Successfully uninstalled six\r\n"
+    ],
+    [
+      0.029764,
+      "Successfully installed virtualenvwrapper virtualenv virtualenv-clone stevedore six pbr\r\nCleaning up...\r\n"
+    ],
+    [
+      0.040003,
+      " \u001b[1;36m$\u001b[00m \u001b[K"
+    ],
+    [
+      0.676579,
+      "#"
+    ],
+    [
+      0.187698,
+      " "
+    ],
+    [
+      0.173906,
+      "s"
+    ],
+    [
+      0.066530,
+      "e"
+    ],
+    [
+      0.067047,
+      "t"
+    ],
+    [
+      0.121086,
+      "u"
+    ],
+    [
+      0.103455,
+      "p"
+    ],
+    [
+      0.426743,
+      "\u0008 \u0008"
+    ],
+    [
+      0.147399,
+      "\u0008 \u0008"
+    ],
+    [
+      0.130734,
+      " "
+    ],
+    [
+      0.085312,
+      "u"
+    ],
+    [
+      0.077732,
+      "p"
+    ],
+    [
+      0.091355,
+      " "
+    ],
+    [
+      0.289899,
+      "f"
+    ],
+    [
+      0.324880,
+      "\u0008 \u0008"
+    ],
+    [
+      0.112719,
+      "s"
+    ],
+    [
+      0.093473,
+      "o"
+    ],
+    [
+      0.069691,
+      "m"
+    ],
+    [
+      0.065243,
+      "e"
+    ],
+    [
+      0.104623,
+      " "
+    ],
+    [
+      0.124133,
+      "e"
+    ],
+    [
+      0.103156,
+      "n"
+    ],
+    [
+      0.103332,
+      "v"
+    ],
+    [
+      0.088668,
+      "i"
+    ],
+    [
+      0.122794,
+      "r"
+    ],
+    [
+      0.066300,
+      "o"
+    ],
+    [
+      0.119803,
+      "n"
+    ],
+    [
+      0.147329,
+      "m"
+    ],
+    [
+      0.124505,
+      "e"
+    ],
+    [
+      0.075539,
+      "n"
+    ],
+    [
+      0.092484,
+      "t"
+    ],
+    [
+      0.107592,
+      " "
+    ],
+    [
+      0.108864,
+      "s"
+    ],
+    [
+      0.089691,
+      "t"
+    ],
+    [
+      0.090151,
+      "u"
+    ],
+    [
+      0.113458,
+      "f"
+    ],
+    [
+      0.142500,
+      "f"
+    ],
+    [
+      0.106839,
+      "\r\n \u001b[1;36m$\u001b[00m \u001b[K"
+    ],
+    [
+      1.000000,
+      "cat \u003c\u003c\"EO"
+    ],
+    [
+      0.000008,
+      "F\" \u003e\u003e ~/.bash_profi"
+    ],
+    [
+      0.000258,
+      "le\r\n\u003e export W"
+    ],
+    [
+      0.000006,
+      "ORKON_H"
+    ],
+    [
+      0.000313,
+      "OM"
+    ],
+    [
+      0.000006,
+      "E=$HOME/."
+    ],
+    [
+      0.000015,
+      "vir"
+    ],
+    [
+      0.001270,
+      "tu"
+    ],
+    [
+      0.005231,
+      "alenvs\r\n\u003e export PROJECT_HOME=$HOME/Devel\r\n\u003e source /usr/local/bin/virtualenvwrapper.sh\r\n\u003e EOF"
+    ],
+    [
+      0.703139,
+      "\r\n"
+    ],
+    [
+      0.006762,
+      " \u001b[1;36m$\u001b[00m "
+    ],
+    [
+      0.910603,
+      "s"
+    ],
+    [
+      0.109185,
+      "o"
+    ],
+    [
+      0.065737,
+      "u"
+    ],
+    [
+      0.096421,
+      "r"
+    ],
+    [
+      0.198074,
+      "c"
+    ],
+    [
+      0.116236,
+      "e"
+    ],
+    [
+      0.104185,
+      " "
+    ],
+    [
+      0.170569,
+      "~"
+    ],
+    [
+      0.093815,
+      "/"
+    ],
+    [
+      0.186597,
+      "."
+    ],
+    [
+      0.098192,
+      "b"
+    ],
+    [
+      0.171592,
+      "a"
+    ],
+    [
+      0.023830,
+      "s"
+    ],
+    [
+      0.159777,
+      "h"
+    ],
+    [
+      0.120203,
+      "r"
+    ],
+    [
+      0.472482,
+      "\u0008 \u0008"
+    ],
+    [
+      0.199380,
+      "_"
+    ],
+    [
+      0.192835,
+      "p"
+    ],
+    [
+      0.320043,
+      "rofile "
+    ],
+    [
+      0.351464,
+      "\r\n"
+    ],
+    [
+      0.069513,
+      " \u001b[1;36m$\u001b[00m \u001b[K"
+    ],
+    [
+      1.000000,
+      "#"
+    ],
+    [
+      0.161926,
+      " "
+    ],
+    [
+      0.670339,
+      "L"
+    ],
+    [
+      0.121219,
+      "e"
+    ],
+    [
+      0.163299,
+      "t"
+    ],
+    [
+      0.155495,
+      "'"
+    ],
+    [
+      0.119904,
+      "s"
+    ],
+    [
+      0.105829,
+      " "
+    ],
+    [
+      0.109936,
+      "m"
+    ],
+    [
+      0.091965,
+      "a"
+    ],
+    [
+      0.080815,
+      "k"
+    ],
+    [
+      0.101909,
+      "e"
+    ],
+    [
+      0.105837,
+      " "
+    ],
+    [
+      0.098614,
+      "a"
+    ],
+    [
+      0.092977,
+      " "
+    ],
+    [
+      0.127051,
+      "p"
+    ],
+    [
+      0.089263,
+      "r"
+    ],
+    [
+      0.075750,
+      "o"
+    ],
+    [
+      0.067764,
+      "j"
+    ],
+    [
+      0.066604,
+      "e"
+    ],
+    [
+      0.121672,
+      "c"
+    ],
+    [
+      0.193876,
+      "t"
+    ],
+    [
+      0.086285,
+      " "
+    ],
+    [
+      0.079224,
+      "n"
+    ],
+    [
+      0.073364,
+      "a"
+    ],
+    [
+      0.100486,
+      "m"
+    ],
+    [
+      0.061699,
+      "e"
+    ],
+    [
+      0.158659,
+      "d"
+    ],
+    [
+      0.119818,
+      " "
+    ],
+    [
+      0.087647,
+      "f"
+    ],
+    [
+      0.077573,
+      "o"
+    ],
+    [
+      0.121328,
+      "o"
+    ],
+    [
+      0.340440,
+      "\r\n \u001b[1;36m$\u001b[00m \u001b[K"
+    ],
+    [
+      0.414811,
+      "m"
+    ],
+    [
+      0.064997,
+      "k"
+    ],
+    [
+      0.101324,
+      "d"
+    ],
+    [
+      0.078718,
+      "i"
+    ],
+    [
+      0.099529,
+      "r"
+    ],
+    [
+      0.109321,
+      " "
+    ],
+    [
+      0.099507,
+      "/"
+    ],
+    [
+      0.100904,
+      "t"
+    ],
+    [
+      0.115784,
+      "m"
+    ],
+    [
+      0.072207,
+      "p"
+    ],
+    [
+      0.207476,
+      "/"
+    ],
+    [
+      0.107262,
+      "f"
+    ],
+    [
+      0.086058,
+      "o"
+    ],
+    [
+      0.123331,
+      "o"
+    ],
+    [
+      0.162163,
+      "-"
+    ],
+    [
+      0.188222,
+      "p"
+    ],
+    [
+      0.126711,
+      "r"
+    ],
+    [
+      0.081689,
+      "o"
+    ],
+    [
+      0.079558,
+      "j"
+    ],
+    [
+      0.078811,
+      "e"
+    ],
+    [
+      0.155696,
+      "c"
+    ],
+    [
+      0.218888,
+      "t"
+    ],
+    [
+      0.824676,
+      "\r\n"
+    ],
+    [
+      0.006526,
+      " \u001b[1;36m$\u001b[00m \u001b[K"
+    ],
+    [
+      0.275171,
+      "m"
+    ],
+    [
+      0.069553,
+      "k"
+    ],
+    [
+      0.583283,
+      "v"
+    ],
+    [
+      0.108917,
+      "i"
+    ],
+    [
+      0.086771,
+      "r"
+    ],
+    [
+      0.090067,
+      "t"
+    ],
+    [
+      0.046671,
+      "u"
+    ],
+    [
+      0.141288,
+      "alenv "
+    ],
+    [
+      0.945536,
+      "-"
+    ],
+    [
+      0.076687,
+      "a"
+    ],
+    [
+      0.090730,
+      " "
+    ],
+    [
+      0.145860,
+      "/"
+    ],
+    [
+      0.108654,
+      "t"
+    ],
+    [
+      0.118500,
+      "m"
+    ],
+    [
+      0.101226,
+      "p"
+    ],
+    [
+      0.640646,
+      "/"
+    ],
+    [
+      0.149769,
+      "f"
+    ],
+    [
+      0.121052,
+      "o"
+    ],
+    [
+      0.134708,
+      "o"
+    ],
+    [
+      0.176261,
+      "-"
+    ],
+    [
+      0.269321,
+      "p"
+    ],
+    [
+      0.178124,
+      "r"
+    ],
+    [
+      0.068047,
+      "o"
+    ],
+    [
+      0.090364,
+      "j"
+    ],
+    [
+      0.066791,
+      "e"
+    ],
+    [
+      0.105626,
+      "c"
+    ],
+    [
+      0.239282,
+      "t"
+    ],
+    [
+      0.126212,
+      " "
+    ],
+    [
+      0.961936,
+      "f"
+    ],
+    [
+      0.123928,
+      "o"
+    ],
+    [
+      0.111803,
+      "o"
+    ],
+    [
+      0.317370,
+      "\r\n"
+    ],
+    [
+      0.040936,
+      "New python executable in foo/bin/python\r\n"
+    ],
+    [
+      0.028072,
+      "Installing setuptools, pip..."
+    ],
+    [
+      1.000000,
+      "done.\r\n"
+    ],
+    [
+      0.069712,
+      "Setting project for foo to /tmp/foo-project\r\n"
+    ],
+    [
+      0.169294,
+      "(foo) \u001b[1;36m$\u001b[00m \u001b[K"
+    ],
+    [
+      1.000000,
+      "p"
+    ],
+    [
+      0.065372,
+      "w"
+    ],
+    [
+      0.109526,
+      "d"
+    ],
+    [
+      0.220909,
+      "\r\n/tmp/foo-project"
+    ],
+    [
+      0.012776,
+      "\r\n(foo) \u001b[1;36m$\u001b[00m "
+    ],
+    [
+      0.317498,
+      "#"
+    ],
+    [
+      0.159635,
+      " "
+    ],
+    [
+      0.121881,
+      "l"
+    ],
+    [
+      0.131147,
+      "o"
+    ],
+    [
+      0.131668,
+      "o"
+    ],
+    [
+      0.080900,
+      "k"
+    ],
+    [
+      0.200474,
+      ","
+    ],
+    [
+      0.091735,
+      " "
+    ],
+    [
+      0.155242,
+      "w"
+    ],
+    [
+      0.099851,
+      "e"
+    ],
+    [
+      0.151911,
+      "'"
+    ],
+    [
+      0.489445,
+      "r"
+    ],
+    [
+      0.146592,
+      "e"
+    ],
+    [
+      0.111993,
+      " "
+    ],
+    [
+      0.086530,
+      "i"
+    ],
+    [
+      0.082233,
+      "n"
+    ],
+    [
+      0.038370,
+      " "
+    ],
+    [
+      0.674467,
+      "t"
+    ],
+    [
+      0.090784,
+      "h"
+    ],
+    [
+      0.077285,
+      "e"
+    ],
+    [
+      0.103050,
+      " "
+    ],
+    [
+      0.319127,
+      "r"
+    ],
+    [
+      0.090444,
+      "i"
+    ],
+    [
+      0.085531,
+      "g"
+    ],
+    [
+      0.084659,
+      "h"
+    ],
+    [
+      0.099824,
+      "t"
+    ],
+    [
+      0.094998,
+      " "
+    ],
+    [
+      0.035888,
+      "p"
+    ],
+    [
+      0.079570,
+      "l"
+    ],
+    [
+      0.056535,
+      "a"
+    ],
+    [
+      0.103013,
+      "c"
+    ],
+    [
+      0.086372,
+      "e"
+    ],
+    [
+      0.414045,
+      "\r\n(foo) \u001b[1;36m$\u001b[00m \u001b[K"
+    ],
+    [
+      0.344573,
+      "p"
+    ],
+    [
+      0.080848,
+      "i"
+    ],
+    [
+      0.153319,
+      "p"
+    ],
+    [
+      0.150770,
+      " "
+    ],
+    [
+      0.128203,
+      "i"
+    ],
+    [
+      0.081805,
+      "n"
+    ],
+    [
+      0.085569,
+      "s"
+    ],
+    [
+      0.107020,
+      "t"
+    ],
+    [
+      0.132598,
+      "a"
+    ],
+    [
+      0.453038,
+      "l"
+    ],
+    [
+      0.140846,
+      "l"
+    ],
+    [
+      0.226425,
+      " "
+    ],
+    [
+      0.291090,
+      "r"
+    ],
+    [
+      0.161469,
+      "e"
+    ],
+    [
+      0.128622,
+      "q"
+    ],
+    [
+      0.098396,
+      "u"
+    ],
+    [
+      0.067949,
+      "e"
+    ],
+    [
+      0.136117,
+      "s"
+    ],
+    [
+      0.097271,
+      "t"
+    ],
+    [
+      0.143418,
+      "s"
+    ],
+    [
+      0.115672,
+      "="
+    ],
+    [
+      0.119357,
+      "="
+    ],
+    [
+      0.266226,
+      "2"
+    ],
+    [
+      0.189099,
+      "."
+    ],
+    [
+      0.124619,
+      "5"
+    ],
+    [
+      0.105326,
+      "."
+    ],
+    [
+      0.083777,
+      "1"
+    ],
+    [
+      0.400407,
+      "\r\n"
+    ],
+    [
+      0.749846,
+      "Collecting requests==2.5.1\r\n"
+    ],
+    [
+      0.320396,
+      "  Downloading requests-2.5.1-py2.py3-none-any.whl (464kB)\r\n\u001b[?25l\r\u001b[K    0% |                                | 4.1kB 23.9MB/s eta 0:00:01"
+    ],
+    [
+      0.000827,
+      "\r\u001b[K    1% |                                | 8.2kB 14.9MB/s eta 0:00:01"
+    ],
+    [
+      0.030636,
+      "\r\u001b[K    2% |                                | 12kB 327kB/s eta 0:00:02"
+    ],
+    [
+      0.000008,
+      "\r\u001b[K    3% |#                               | 16kB 421kB/s eta 0:00:02"
+    ],
+    [
+      0.000898,
+      "\r\u001b[K    4% |#                               | 20kB 523kB/s eta 0:00:01\r\u001b[K    5% |#                               | 24kB 626kB/s eta 0:00:01"
+    ],
+    [
+      0.000005,
+      "\r\u001b[K    6% |#                               | 28kB 726kB/s eta 0:00:01"
+    ],
+    [
+      0.000363,
+      "\r\u001b[K    7% |##                              | 32kB 823kB/s eta 0:00:01"
+    ],
+    [
+      0.042361,
+      "\r\u001b[K    7% |##                              | 36kB 475kB/s eta 0:00:01"
+    ],
+    [
+      0.000009,
+      "\r\u001b[K    8% |##                              | 40kB 512kB/s eta 0:00:01\r\u001b[K    9% |###                             | 45kB 511kB/s eta 0:00:01\r\u001b[K    10% |###                             | 49kB 513kB/s eta 0:00:01\r\u001b[K    11% |###                             | 53kB 953kB/s eta 0:00:01"
+    ],
+    [
+      0.000171,
+      "\r\u001b[K    12% |###                             | 57kB 978kB/s eta 0:00:01"
+    ],
+    [
+      0.000498,
+      "\r\u001b[K    13% |####                            | 61kB 978kB/s eta 0:00:01"
+    ],
+    [
+      0.000967,
+      "\r\u001b[K    14% |####                            | 65kB 978kB/s eta 0:00:01"
+    ],
+    [
+      0.038024,
+      "\r\u001b[K    14% |####                            | 69kB 528kB/s eta 0:00:01"
+    ],
+    [
+      0.000511,
+      "\r\u001b[K    15% |#####                           | 73kB 498kB/s eta 0:00:01"
+    ],
+    [
+      0.000395,
+      "\r\u001b[K    16% |#####                           | 77kB 909kB/s eta 0:00:01\r\u001b[K    17% |#####                           | 81kB 956kB/s eta 0:00:01"
+    ],
+    [
+      0.003463,
+      "\r\u001b[K    18% |#####                           | 86kB 958kB/s eta 0:00:01"
+    ],
+    [
+      0.000004,
+      "\r\u001b[K    19% |######                          | 90kB 948kB/s eta 0:00:01"
+    ],
+    [
+      0.000005,
+      "\r\u001b[K    20% |######                          | 94kB 946kB/s eta 0:00:01"
+    ],
+    [
+      0.000012,
+      "\r\u001b[K    21% |######                          | 98kB 944kB/s eta 0:00:01"
+    ],
+    [
+      0.000005,
+      "\r\u001b[K    22% |#######                         | 102kB 947kB/s eta 0:00:01"
+    ],
+    [
+      0.000003,
+      "\r\u001b[K    22% |#######                         | 106kB 946kB/s eta 0:00:01"
+    ],
+    [
+      0.000015,
+      "\r\u001b[K    23% |#######                         | 110kB 5.4MB/s eta 0:00:01"
+    ],
+    [
+      0.000003,
+      "\r\u001b[K    24% |#######                         | 114kB 15.0MB/s eta 0:00:01"
+    ],
+    [
+      0.000037,
+      "\r\u001b[K    25% |########                        | 118kB 16.7MB/s eta 0:00:01"
+    ],
+    [
+      0.000088,
+      "\r\u001b[K    26% |########                        | 122kB 17.7MB/s eta 0:00:01"
+    ],
+    [
+      0.000602,
+      "\r\u001b[K    27% |########                        | 126kB 17.1MB/s eta 0:00:01"
+    ],
+    [
+      0.035191,
+      "\r\u001b[K    28% |#########                       | 131kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000310,
+      "\r\u001b[K    29% |#########                       | 135kB 1.1MB/s eta 0:00:01"
+    ],
+    [
+      0.001974,
+      "\r\u001b[K    29% |#########                       | 139kB 1.1MB/s eta 0:00:01"
+    ],
+    [
+      0.002159,
+      "\r\u001b[K    30% |#########                       | 143kB 1.0MB/s eta 0:00:01\r\u001b[K    31% |##########                      | 147kB 1.0MB/s eta 0:00:01\r\u001b[K    32% |##########                      | 151kB 1.0MB/s eta 0:00:01\r\u001b[K    33% |##########                      | 155kB 1.0MB/s eta 0:00:01\r\u001b[K    34% |###########                     | 159kB 1.0MB/s eta 0:00:01\r\u001b[K    35% |###########                     | 163kB 1.0MB/s eta 0:00:01\r\u001b[K    36% |###########                     | 167kB 1.0MB/s eta 0:00:01\r\u001b[K    37% |###########                     | 172kB 5.8MB/s eta 0:00:01\r\u001b[K    37% |############                    | 176kB 9.1MB/s eta 0:00:01\r\u001b[K    38% |############                    | 180kB 13.0MB/s eta 0:00:01\r\u001b[K    39% |############                    | 184kB 29.5MB/s eta 0:00:01\r\u001b[K    40% |############                    | 188kB 31.0MB/s eta 0:00:01\r\u001b[K    41% |#############                   | 192kB 26.4MB/s eta 0:00:01\r\u001b[K    42% |#############                   | 196kB 26.3MB/s eta 0:00:01\r\u001b[K    43%"
+    ],
+    [
+      0.000010,
+      " |#############                   | 200kB 29.1MB/s eta 0:00:01\r\u001b[K    44% |##############                  | 204kB 29.3MB/s eta 0:00:01\r\u001b[K    44% |##############                  | 208kB 26.7MB/s eta 0:00:01\r\u001b[K    45% |##############                  | 212kB 26.3MB/s eta 0:00:01\r\u001b[K    46% |##############                  | 217kB 22.9MB/s eta 0:00:01\r\u001b[K    47% |###############                 | 221kB 23.3MB/s eta 0:00:01\r\u001b[K    48% |###############                 | 225kB 23.4MB/s eta 0:00:01\r\u001b[K    49% |###############                 | 229kB 23.5MB/s eta 0:00:01"
+    ],
+    [
+      0.033802,
+      "\r\u001b[K    50% |################                | 233kB 1.3MB/s eta 0:00:01"
+    ],
+    [
+      0.001211,
+      "\r\u001b[K    51% |################                | 237kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.002308,
+      "\r\u001b[K    52% |################                | 241kB 1.1MB/s eta 0:00:01\r\u001b[K    52% |################                | 245kB 1.1MB/s eta 0:00:01"
+    ],
+    [
+      0.001066,
+      "\r\u001b[K    53% |#################               | 249kB 1.1MB/s eta 0:00:01"
+    ],
+    [
+      0.000004,
+      "\r\u001b[K    54% |#################               | 253kB 1.1MB/s eta 0:00:01"
+    ],
+    [
+      0.000841,
+      "\r\u001b[K    55% |#################               | 258kB 1.0MB/s eta 0:00:01"
+    ],
+    [
+      0.000523,
+      "\r\u001b[K    56% |##################              | 262kB 1.0MB/s eta 0:00:01"
+    ],
+    [
+      0.000005,
+      "\r\u001b[K    57% |##################              | 266kB 1.0MB/s eta 0:00:01\r\u001b[K    58% |##################              | 270kB 1.0MB/s eta 0:00:01\r\u001b[K    59% |##################              | 274kB 4.3MB/s eta 0:00:01"
+    ],
+    [
+      0.000554,
+      "\r\u001b[K    59% |###################             | 278kB 6.5MB/s eta 0:00:01"
+    ],
+    [
+      0.000003,
+      "\r\u001b[K    60% |###################             | 282kB 6.6MB/s eta 0:00:01"
+    ],
+    [
+      0.000326,
+      "\r\u001b[K    61% |###################             | 286kB 7.0MB/s eta 0:00:01"
+    ],
+    [
+      0.000923,
+      "\r\u001b[K    62% |####################            | 290kB 7.4MB/s eta 0:00:01"
+    ],
+    [
+      0.000017,
+      "\r\u001b[K    63% |####################            | 294kB 12.8MB/s eta 0:00:01"
+    ],
+    [
+      0.000005,
+      "\r\u001b[K    64% |####################            | 299kB 16.1MB/s eta 0:00:01\r\u001b[K    65% |####################            | 303kB 18.3MB/s eta 0:00:01"
+    ],
+    [
+      0.000189,
+      "\r\u001b[K    66% |#####################           | 307kB 20.1MB/s eta 0:00:01"
+    ],
+    [
+      0.000838,
+      "\r\u001b[K    67% |#####################           | 311kB 19.1MB/s eta 0:00:01"
+    ],
+    [
+      0.003321,
+      "\r\u001b[K    67% |#####################           | 315kB 13.8MB/s eta 0:00:01"
+    ],
+    [
+      0.000006,
+      "\r\u001b[K    68% |######################          | 319kB 13.5MB/s eta 0:00:01\r\u001b[K    69% |######################          | 323kB 14.0MB/s eta 0:00:01"
+    ],
+    [
+      0.000003,
+      "\r\u001b[K    70% |######################          | 327kB 14.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000063,
+      "\r\u001b[K    71% |######################          | 331kB 14.4MB/s eta 0:00:01\r\u001b[K    72% |#######################         | 335kB 14.8MB/s eta 0:00:01\r\u001b[K    73% |#######################         | 339kB 16.3MB/s eta 0:00:01\r\u001b[K    74% |#######################         | 344kB 16.0MB/s eta 0:00:01\r\u001b[K    74% |#######################         | 348kB 15.9MB/s eta 0:00:01"
+    ],
+    [
+      0.000687,
+      "\r\u001b[K    75% |########################        | 352kB 16.7MB/s eta 0:00:01"
+    ],
+    [
+      0.025508,
+      "\r\u001b[K    76% |########################        | 356kB 1.6MB/s eta 0:00:01"
+    ],
+    [
+      0.001531,
+      "\r\u001b[K    77% |########################        | 360kB 1.5MB/s eta 0:00:01"
+    ],
+    [
+      0.001300,
+      "\r\u001b[K    78% |#########################       | 364kB 1.4MB/s eta 0:00:01"
+    ],
+    [
+      0.001825,
+      "\r\u001b[K    79% |#########################       | 368kB 1.3MB/s eta 0:00:01"
+    ],
+    [
+      0.003207,
+      "\r\u001b[K    80% |#########################       | 372kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000005,
+      "\r\u001b[K    81% |#########################       | 376kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000003,
+      "\r\u001b[K    82% |##########################      | 380kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000003,
+      "\r\u001b[K    82% |##########################      | 385kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000032,
+      "\r\u001b[K    83% |##########################      | 389kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000199,
+      "\r\u001b[K    84% |###########################     | 393kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000258,
+      "\r\u001b[K    85% |###########################     | 397kB 4.6MB/s eta 0:00:01"
+    ],
+    [
+      0.000266,
+      "\r\u001b[K    86% |###########################     | 401kB 5.8MB/s eta 0:00:01"
+    ],
+    [
+      0.000212,
+      "\r\u001b[K    87% |###########################     | 405kB 7.0MB/s eta 0:00:01"
+    ],
+    [
+      0.000232,
+      "\r\u001b[K    88% |############################    | 409kB 8.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000139,
+      "\r\u001b[K    89% |############################    | 413kB 16.6MB/s eta 0:00:01"
+    ],
+    [
+      0.000029,
+      "\r\u001b[K    89% |############################    | 417kB 16.9MB/s eta 0:00:01"
+    ],
+    [
+      0.000138,
+      "\r\u001b[K    90% |#############################   | 421kB 17.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000006,
+      "\r\u001b[K    91% |#############################   | 425kB 17.0MB/s eta 0:00:01\r\u001b[K    92% |#############################   | 430kB 17.2MB/s eta 0:00:01\r\u001b[K    93% |#############################   | 434kB 17.1MB/s eta 0:00:01"
+    ],
+    [
+      0.000002,
+      "\r\u001b[K    94% |##############################  | 438kB 17.1MB/s eta 0:00:01"
+    ],
+    [
+      0.000007,
+      "\r\u001b[K    95% |##############################  | 442kB 17.1MB/s eta 0:00:01\r\u001b[K    96% |##############################  | 446kB 17.1MB/s eta 0:00:01"
+    ],
+    [
+      0.000608,
+      "\r\u001b[K    97% |############################### | 450kB 22.3MB/s eta 0:00:01"
+    ],
+    [
+      0.000003,
+      "\r\u001b[K    97% |############################### | 454kB 24.7MB/s eta 0:00:01"
+    ],
+    [
+      0.000285,
+      "\r\u001b[K    98% |############################### | 458kB 17.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000216,
+      "\r\u001b[K    99% |############################### | 462kB 13.0MB/s eta 0:00:01"
+    ],
+    [
+      0.032885,
+      "\r\u001b[K    100% |################################| 466kB 1.3MB/s \r\n"
+    ],
+    [
+      0.020576,
+      "\u001b[?25hInstalling collected packages: requests\r\n"
+    ],
+    [
+      0.139807,
+      "\r\n"
+    ],
+    [
+      0.029890,
+      "Successfully installed requests-2.5.1\r\n"
+    ],
+    [
+      0.020049,
+      "(foo) \u001b[1;36m$\u001b[00m \u001b[K"
+    ],
+    [
+      0.493958,
+      "p"
+    ],
+    [
+      0.066005,
+      "i"
+    ],
+    [
+      0.134579,
+      "p"
+    ],
+    [
+      0.080377,
+      " "
+    ],
+    [
+      0.069785,
+      "f"
+    ],
+    [
+      0.119637,
+      "r"
+    ],
+    [
+      0.166792,
+      "e"
+    ],
+    [
+      0.176517,
+      "e"
+    ],
+    [
+      0.236849,
+      "z"
+    ],
+    [
+      0.181985,
+      "e"
+    ],
+    [
+      0.183167,
+      "\r\n"
+    ],
+    [
+      0.275775,
+      "requests==2.5.1\r\n"
+    ],
+    [
+      0.015270,
+      "(foo) \u001b[1;36m$\u001b[00m "
+    ],
+    [
+      1.000000,
+      "#"
+    ],
+    [
+      0.126268,
+      " "
+    ],
+    [
+      0.213316,
+      "j"
+    ],
+    [
+      0.080405,
+      "u"
+    ],
+    [
+      0.052205,
+      "s"
+    ],
+    [
+      0.095403,
+      "t"
+    ],
+    [
+      0.398599,
+      " "
+    ],
+    [
+      0.220063,
+      "w"
+    ],
+    [
+      0.100879,
+      "h"
+    ],
+    [
+      0.079909,
+      "a"
+    ],
+    [
+      0.088517,
+      "t"
+    ],
+    [
+      0.091592,
+      " "
+    ],
+    [
+      0.339088,
+      "w"
+    ],
+    [
+      0.114797,
+      "e"
+    ],
+    [
+      0.278111,
+      "'"
+    ],
+    [
+      0.129190,
+      "v"
+    ],
+    [
+      0.148703,
+      "e"
+    ],
+    [
+      0.138887,
+      " "
+    ],
+    [
+      0.134003,
+      "i"
+    ],
+    [
+      0.057242,
+      "n"
+    ],
+    [
+      0.048117,
+      "s"
+    ],
+    [
+      0.071613,
+      "t"
+    ],
+    [
+      0.128242,
+      "a"
+    ],
+    [
+      0.050144,
+      "l"
+    ],
+    [
+      0.136257,
+      "l"
+    ],
+    [
+      0.043948,
+      "e"
+    ],
+    [
+      0.160142,
+      "d"
+    ],
+    [
+      0.305675,
+      " "
+    ],
+    [
+      0.134162,
+      "a"
+    ],
+    [
+      0.093652,
+      "n"
+    ],
+    [
+      0.080360,
+      "d"
+    ],
+    [
+      0.128658,
+      " "
+    ],
+    [
+      0.137457,
+      "n"
+    ],
+    [
+      0.080538,
+      "o"
+    ],
+    [
+      0.070170,
+      "t"
+    ],
+    [
+      0.330224,
+      "h"
+    ],
+    [
+      0.163912,
+      "i"
+    ],
+    [
+      0.050900,
+      "n"
+    ],
+    [
+      0.094260,
+      "g"
+    ],
+    [
+      0.160647,
+      " "
+    ],
+    [
+      0.239971,
+      "m"
+    ],
+    [
+      0.055277,
+      "o"
+    ],
+    [
+      0.063917,
+      "r"
+    ],
+    [
+      0.133574,
+      "e"
+    ],
+    [
+      0.342764,
+      "\r\n(foo) \u001b[1;36m$\u001b[00m \u001b[K"
+    ],
+    [
+      1.000000,
+      "d"
+    ],
+    [
+      0.248783,
+      "e"
+    ],
+    [
+      0.160689,
+      "a"
+    ],
+    [
+      0.111474,
+      "c"
+    ],
+    [
+      0.192518,
+      "tivate "
+    ],
+    [
+      0.479242,
+      "\r\n"
+    ],
+    [
+      0.106287,
+      " \u001b[1;36m$\u001b[00m \u001b[K"
+    ],
+    [
+      1.000000,
+      "#"
+    ],
+    [
+      0.192186,
+      " "
+    ],
+    [
+      0.223616,
+      "s"
+    ],
+    [
+      0.127891,
+      "t"
+    ],
+    [
+      0.119775,
+      "a"
+    ],
+    [
+      0.067016,
+      "r"
+    ],
+    [
+      0.085538,
+      "t"
+    ],
+    [
+      0.119802,
+      " "
+    ],
+    [
+      0.104326,
+      "a"
+    ],
+    [
+      0.151939,
+      "n"
+    ],
+    [
+      0.056596,
+      "o"
+    ],
+    [
+      0.055060,
+      "t"
+    ],
+    [
+      0.120206,
+      "h"
+    ],
+    [
+      0.047944,
+      "e"
+    ],
+    [
+      0.111940,
+      "r"
+    ],
+    [
+      0.096275,
+      " "
+    ],
+    [
+      0.367408,
+      "p"
+    ],
+    [
+      0.112744,
+      "r"
+    ],
+    [
+      0.084026,
+      "o"
+    ],
+    [
+      0.080982,
+      "j"
+    ],
+    [
+      0.139725,
+      "e"
+    ],
+    [
+      0.226590,
+      "c"
+    ],
+    [
+      0.205478,
+      "t"
+    ],
+    [
+      0.114897,
+      " "
+    ],
+    [
+      0.079577,
+      "n"
+    ],
+    [
+      0.079824,
+      "a"
+    ],
+    [
+      0.080213,
+      "m"
+    ],
+    [
+      0.079055,
+      "e"
+    ],
+    [
+      0.145916,
+      "d"
+    ],
+    [
+      0.093927,
+      " "
+    ],
+    [
+      0.093627,
+      "b"
+    ],
+    [
+      0.142855,
+      "a"
+    ],
+    [
+      0.088848,
+      "r"
+    ],
+    [
+      0.315821,
+      "\r\n \u001b[1;36m$\u001b[00m \u001b[K"
+    ],
+    [
+      0.518062,
+      "m"
+    ],
+    [
+      0.066660,
+      "k"
+    ],
+    [
+      0.097126,
+      "d"
+    ],
+    [
+      0.090488,
+      "i"
+    ],
+    [
+      0.068793,
+      "r"
+    ],
+    [
+      0.111216,
+      " "
+    ],
+    [
+      0.121236,
+      "/"
+    ],
+    [
+      0.099881,
+      "t"
+    ],
+    [
+      0.101578,
+      "m"
+    ],
+    [
+      0.082817,
+      "p"
+    ],
+    [
+      0.270703,
+      "/"
+    ],
+    [
+      0.123865,
+      "b"
+    ],
+    [
+      0.166421,
+      "a"
+    ],
+    [
+      0.080570,
+      "r"
+    ],
+    [
+      0.195605,
+      "-"
+    ],
+    [
+      0.195856,
+      "p"
+    ],
+    [
+      0.181627,
+      "r"
+    ],
+    [
+      0.080388,
+      "o"
+    ],
+    [
+      0.073571,
+      "j"
+    ],
+    [
+      0.085793,
+      "e"
+    ],
+    [
+      0.120505,
+      "c"
+    ],
+    [
+      0.221085,
+      "t"
+    ],
+    [
+      0.465933,
+      "\r\n"
+    ],
+    [
+      0.008092,
+      " \u001b[1;36m$\u001b[00m \u001b[K"
+    ],
+    [
+      0.528181,
+      "m"
+    ],
+    [
+      0.083049,
+      "k"
+    ],
+    [
+      0.134830,
+      "v"
+    ],
+    [
+      0.115283,
+      "i"
+    ],
+    [
+      0.063883,
+      "r"
+    ],
+    [
+      0.087930,
+      "t"
+    ],
+    [
+      0.079618,
+      "u"
+    ],
+    [
+      0.114988,
+      "alenv "
+    ],
+    [
+      0.333376,
+      "-"
+    ],
+    [
+      0.108808,
+      "a"
+    ],
+    [
+      0.110264,
+      " "
+    ],
+    [
+      0.110335,
+      "/"
+    ],
+    [
+      0.101448,
+      "t"
+    ],
+    [
+      0.119381,
+      "m"
+    ],
+    [
+      0.075845,
+      "p"
+    ],
+    [
+      0.075834,
+      "/"
+    ],
+    [
+      0.164430,
+      "b"
+    ],
+    [
+      0.133761,
+      "a"
+    ],
+    [
+      0.083115,
+      "r"
+    ],
+    [
+      0.149714,
+      "-project/"
+    ],
+    [
+      1.000000,
+      "b"
+    ],
+    [
+      0.150921,
+      "a"
+    ],
+    [
+      0.063051,
+      "r"
+    ],
+    [
+      0.514196,
+      "\u0008 \u0008"
+    ],
+    [
+      0.132204,
+      "\u0008 \u0008"
+    ],
+    [
+      0.144859,
+      "\u0008 \u0008"
+    ],
+    [
+      0.125706,
+      " "
+    ],
+    [
+      0.129317,
+      "b"
+    ],
+    [
+      0.103654,
+      "a"
+    ],
+    [
+      0.096048,
+      "r"
+    ],
+    [
+      0.240478,
+      "\r\n"
+    ],
+    [
+      0.042894,
+      "New python executable in bar/bin/python\r\n"
+    ],
+    [
+      0.031445,
+      "Installing setuptools, pip..."
+    ],
+    [
+      1.000000,
+      "done.\r\n"
+    ],
+    [
+      0.072676,
+      "Setting project for bar to /tmp/bar-project\r\n"
+    ],
+    [
+      0.162054,
+      "(bar) \u001b[1;36m$\u001b[00m \u001b[K"
+    ],
+    [
+      0.712688,
+      "p"
+    ],
+    [
+      0.064654,
+      "i"
+    ],
+    [
+      0.144008,
+      "p"
+    ],
+    [
+      0.120021,
+      " "
+    ],
+    [
+      0.120198,
+      "i"
+    ],
+    [
+      0.056286,
+      "n"
+    ],
+    [
+      0.063525,
+      "s"
+    ],
+    [
+      0.103557,
+      "t"
+    ],
+    [
+      0.135902,
+      "a"
+    ],
+    [
+      0.016166,
+      "l"
+    ],
+    [
+      0.152409,
+      "l"
+    ],
+    [
+      0.080045,
+      " "
+    ],
+    [
+      0.215706,
+      "J"
+    ],
+    [
+      0.184366,
+      "i"
+    ],
+    [
+      0.126971,
+      "n"
+    ],
+    [
+      0.256111,
+      "j"
+    ],
+    [
+      0.137203,
+      "a"
+    ],
+    [
+      0.240042,
+      "2"
+    ],
+    [
+      0.254621,
+      "\r\n"
+    ],
+    [
+      0.422427,
+      "Collecting Jinja2\r\n"
+    ],
+    [
+      0.316723,
+      "  Downloading Jinja2-2.7.3.tar.gz (378kB)\r\n"
+    ],
+    [
+      0.000356,
+      "\u001b[?25l\r\u001b[K    1% |                                | 4.1kB 10.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000716,
+      "\r\u001b[K    2% |                                | 8.2kB 12.6MB/s eta 0:00:01"
+    ],
+    [
+      0.038987,
+      "\r\u001b[K    3% |#                               | 12kB 314kB/s eta 0:00:02"
+    ],
+    [
+      0.000208,
+      "\r\u001b[K    4% |#                               | 16kB 406kB/s eta 0:00:01"
+    ],
+    [
+      0.000009,
+      "\r\u001b[K    5% |#                               | 20kB 505kB/s eta 0:00:01\r\u001b[K    6% |##                              | 24kB 604kB/s eta 0:00:01"
+    ],
+    [
+      0.000832,
+      "\r\u001b[K    7% |##                              | 28kB 703kB/s eta 0:00:01"
+    ],
+    [
+      0.000933,
+      "\r\u001b[K    8% |##                              | 32kB 798kB/s eta 0:00:01"
+    ],
+    [
+      0.039351,
+      "\r\u001b[K    9% |###                             | 36kB 463kB/s eta 0:00:01"
+    ],
+    [
+      0.000503,
+      "\r\u001b[K    10% |###                             | 40kB 510kB/s eta 0:00:01"
+    ],
+    [
+      0.000006,
+      "\r\u001b[K    11% |###                             | 45kB 510kB/s eta 0:00:01"
+    ],
+    [
+      0.000435,
+      "\r\u001b[K    12% |####                            | 49kB 500kB/s eta 0:00:01\r\u001b[K    14% |####                            | 53kB 939kB/s eta 0:00:01"
+    ],
+    [
+      0.000385,
+      "\r\u001b[K    15% |####                            | 57kB 961kB/s eta 0:00:01"
+    ],
+    [
+      0.000303,
+      "\r\u001b[K    16% |#####                           | 61kB 964kB/s eta 0:00:01"
+    ],
+    [
+      0.000450,
+      "\r\u001b[K    17% |#####                           | 65kB 960kB/s eta 0:00:01"
+    ],
+    [
+      0.038279,
+      "\r\u001b[K    18% |#####                           | 69kB 518kB/s eta 0:00:01"
+    ],
+    [
+      0.002222,
+      "\r\u001b[K    19% |######                          | 73kB 516kB/s eta 0:00:01\r\u001b[K    20% |######                          | 77kB 999kB/s eta 0:00:01\r\u001b[K    21% |######                          | 81kB 1.0MB/s eta 0:00:01"
+    ],
+    [
+      0.000505,
+      "\r\u001b[K    22% |#######                         | 86kB 1.0MB/s eta 0:00:01"
+    ],
+    [
+      0.000005,
+      "\r\u001b[K    23% |#######                         | 90kB 1.0MB/s eta 0:00:01"
+    ],
+    [
+      0.000323,
+      "\r\u001b[K    24% |#######                         | 94kB 978kB/s eta 0:00:01"
+    ],
+    [
+      0.000722,
+      "\r\u001b[K    25% |########                        | 98kB 980kB/s eta 0:00:01"
+    ],
+    [
+      0.000006,
+      "\r\u001b[K    27% |########                        | 102kB 976kB/s eta 0:00:01\r\u001b[K    28% |#########                       | 106kB 977kB/s eta 0:00:01\r\u001b[K    29% |#########                       | 110kB 7.4MB/s eta 0:00:01"
+    ],
+    [
+      0.000208,
+      "\r\u001b[K    30% |#########                       | 114kB 7.8MB/s eta 0:00:01"
+    ],
+    [
+      0.000417,
+      "\r\u001b[K    31% |##########                      | 118kB 7.8MB/s eta 0:00:01"
+    ],
+    [
+      0.000246,
+      "\r\u001b[K    32% |##########                      | 122kB 7.8MB/s eta 0:00:01"
+    ],
+    [
+      0.000354,
+      "\r\u001b[K    33% |##########                      | 126kB 7.2MB/s eta 0:00:01"
+    ],
+    [
+      0.036470,
+      "\r\u001b[K    34% |###########                     | 131kB 1.1MB/s eta 0:00:01"
+    ],
+    [
+      0.002966,
+      "\r\u001b[K    35% |###########                     | 135kB 1.1MB/s eta 0:00:01"
+    ],
+    [
+      0.004462,
+      "\r\u001b[K    36% |###########                     | 139kB 1.0MB/s eta 0:00:01"
+    ],
+    [
+      0.000010,
+      "\r\u001b[K    37% |############                    | 143kB 1.0MB/s eta 0:00:01\r\u001b[K    38% |############                    | 147kB 1.0MB/s eta 0:00:01\r\u001b[K    40% |############                    | 151kB 1.0MB/s eta 0:00:01\r\u001b[K    41% |#############                   | 155kB 1.0MB/s eta 0:00:01\r\u001b[K    42% |#############                   | 159kB 1.0MB/s eta 0:00:01\r\u001b[K    43% |#############                   | 163kB 1.1MB/s eta 0:00:01\r\u001b[K    44% |##############                  | 167kB 1.1MB/s eta 0:00:01\r\u001b[K    45% |##############                  | 172kB 8.7MB/s eta 0:00:01\r\u001b[K    46% |##############                  | 176kB 8.8MB/s eta 0:00:01\r\u001b[K    47% |###############                 | 180kB 12.8MB/s eta 0:00:01"
+    ],
+    [
+      0.000034,
+      "\r\u001b[K    48% |###############                 | 184kB 9.3MB/s eta 0:00:01\r\u001b[K    49% |###############                 | 188kB 8.5MB/s eta 0:00:01\r\u001b[K    50% |################                | 192kB 8.6MB/s eta 0:00:01\r\u001b[K    51% |################                | 196kB 8.7MB/s eta 0:00:01"
+    ],
+    [
+      0.000722,
+      "\r\u001b[K    53% |################                | 200kB 8.7MB/s eta 0:00:01\r\u001b[K    54% |#################               | 204kB 8.8MB/s eta 0:00:01\r\u001b[K    55% |#################               | 208kB 8.8MB/s eta 0:00:01\r\u001b[K    56% |##################              | 212kB 8.8MB/s eta 0:00:01"
+    ],
+    [
+      0.000008,
+      "\r\u001b[K    57% |##################              | 217kB 8.7MB/s eta 0:00:01"
+    ],
+    [
+      0.000403,
+      "\r\u001b[K    58% |##################              | 221kB 8.9MB/s eta 0:00:01"
+    ],
+    [
+      0.029733,
+      "\r\u001b[K    59% |###################             | 225kB 1.3MB/s eta 0:00:01"
+    ],
+    [
+      0.001673,
+      "\r\u001b[K    60% |###################             | 229kB 1.3MB/s eta 0:00:01"
+    ],
+    [
+      0.000562,
+      "\r\u001b[K    61% |###################             | 233kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000894,
+      "\r\u001b[K    62% |####################            | 237kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000006,
+      "\r\u001b[K    63% |####################            | 241kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000224,
+      "\r\u001b[K    64% |####################            | 245kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000254,
+      "\r\u001b[K    66% |#####################           | 249kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000751,
+      "\r\u001b[K    67% |#####################           | 253kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.001149,
+      "\r\u001b[K    68% |#####################           | 258kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.003152,
+      "\r\u001b[K    69% |######################          | 262kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000225,
+      "\r\u001b[K    70% |######################          | 266kB 5.5MB/s eta 0:00:01"
+    ],
+    [
+      0.001776,
+      "\r\u001b[K    71% |######################          | 270kB 4.9MB/s eta 0:00:01"
+    ],
+    [
+      0.002928,
+      "\r\u001b[K    72% |#######################         | 274kB 4.8MB/s eta 0:00:01"
+    ],
+    [
+      0.000010,
+      "\r\u001b[K    73% |#######################         | 278kB 4.6MB/s eta 0:00:01\r\u001b[K    74% |#######################         | 282kB 4.7MB/s eta 0:00:01\r\u001b[K    75% |########################        | 286kB 5.0MB/s eta 0:00:01\r\u001b[K    76% |########################        | 290kB 5.0MB/s eta 0:00:01\r\u001b[K    77% |########################        | 294kB 5.0MB/s eta 0:00:01\r\u001b[K    79% |#########################       | 299kB 5.0MB/s eta 0:00:01\r\u001b[K    80% |#########################       | 303kB 5.2MB/s eta 0:00:01\r\u001b[K    81% |#########################       | 307kB 6.6MB/s eta 0:00:01\r\u001b[K    82% |##########################      | 311kB 8.3MB/s eta 0:00:01\r\u001b[K    83% |##########################      | 315kB 19.1MB/s eta 0:00:01\r\u001b[K    84% |###########################     | 319kB 27.4MB/s eta 0:00:01\r\u001b[K    85% |###########################     | 323kB 28.5MB/s eta 0:00:01\r\u001b[K    86% |###########################     | 327kB 28.3MB/s eta 0:00:01\r\u001b[K    87% |############################    | 331kB 31.9MB/s eta 0:00:01\r\u001b[K    88%"
+    ],
+    [
+      0.000002,
+      " |############################    | 335kB 31.9MB/s eta 0:00:01"
+    ],
+    [
+      0.000691,
+      "\r\u001b[K    89% |############################    | 339kB 33.8MB/s eta 0:00:01\r\u001b[K    90% |#############################   | 344kB 35.1MB/s eta 0:00:01\r\u001b[K    91% |#############################   | 348kB 37.3MB/s eta 0:00:01"
+    ],
+    [
+      0.000395,
+      "\r\u001b[K    93% |#############################   | 352kB 22.4MB/s eta 0:00:01"
+    ],
+    [
+      0.026217,
+      "\r\u001b[K    94% |##############################  | 356kB 1.5MB/s eta 0:00:01"
+    ],
+    [
+      0.000009,
+      "\r\u001b[K    95% |##############################  | 360kB 1.5MB/s eta 0:00:01\r\u001b[K    96% |##############################  | 364kB 1.4MB/s eta 0:00:01"
+    ],
+    [
+      0.000912,
+      "\r\u001b[K    97% |############################### | 368kB 1.4MB/s eta 0:00:01"
+    ],
+    [
+      0.003178,
+      "\r\u001b[K    98% |############################### | 372kB 1.4MB/s eta 0:00:01"
+    ],
+    [
+      0.000668,
+      "\r\u001b[K    99% |############################### | 376kB 1.4MB/s eta 0:00:01"
+    ],
+    [
+      0.017142,
+      "\r\u001b[K    100% |################################| 380kB 833kB/s \r\n"
+    ],
+    [
+      0.146286,
+      "\u001b[?25hCollecting markupsafe (from Jinja2)\r\n"
+    ],
+    [
+      0.108546,
+      "  Downloading MarkupSafe-0.23.tar.gz\r\n"
+    ],
+    [
+      0.095463,
+      "Installing collected packages: markupsafe, Jinja2\r\n"
+    ],
+    [
+      0.000006,
+      "  Running setup.py install for markupsafe\r\n"
+    ],
+    [
+      0.153243,
+      "    building 'markupsafe._speedups' extension\r\n"
+    ],
+    [
+      0.000007,
+      "    x86_64-linux-gnu-gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/include/python2.7 -c markupsafe/_speedups.c -o build/temp.linux-x86_64-2.7/markupsafe/_speedups.o\r\n"
+    ],
+    [
+      0.000489,
+      "    markupsafe/_speedups.c:12:20: fatal error: Python.h: No such file or directory\r\n"
+    ],
+    [
+      0.000006,
+      "     #include \u003cPython.h\u003e\r\n                        ^"
+    ],
+    [
+      0.000323,
+      "\r\n"
+    ],
+    [
+      0.000382,
+      "    compilation terminated.\r\n"
+    ],
+    [
+      0.000191,
+      "    ==========================================================================\r\n"
+    ],
+    [
+      0.000192,
+      "    WARNING: The C extension could not be compiled, speedups are not enabled.\r\n"
+    ],
+    [
+      0.000215,
+      "    Failure information, if any, is above.\r\n"
+    ],
+    [
+      0.000474,
+      "    Retrying the build without the C extension now.\r\n"
+    ],
+    [
+      0.000198,
+      "    ==========================================================================\r\n"
+    ],
+    [
+      0.000350,
+      "    WARNING: The C extension could not be compiled, speedups are not enabled.\r\n"
+    ],
+    [
+      0.000005,
+      "    Plain-Python installation succeeded.\r\n"
+    ],
+    [
+      0.000535,
+      "    ==========================================================================\r\n"
+    ],
+    [
+      0.001578,
+      "  Running setup.py install for Jinja2\r\n"
+    ],
+    [
+      0.208709,
+      "Successfully installed Jinja2-2.7.3 markupsafe-0.23\r\n"
+    ],
+    [
+      0.030248,
+      "(bar) \u001b[1;36m$\u001b[00m \u001b[K"
+    ],
+    [
+      0.609758,
+      "p"
+    ],
+    [
+      0.079099,
+      "i"
+    ],
+    [
+      0.128157,
+      "p"
+    ],
+    [
+      0.080069,
+      " "
+    ],
+    [
+      0.088762,
+      "f"
+    ],
+    [
+      0.119962,
+      "r"
+    ],
+    [
+      0.151222,
+      "e"
+    ],
+    [
+      0.152330,
+      "e"
+    ],
+    [
+      0.199568,
+      "z"
+    ],
+    [
+      0.184823,
+      "e"
+    ],
+    [
+      0.207959,
+      "\r\n"
+    ],
+    [
+      0.270830,
+      "Jinja2==2.7.3\r\nMarkupSafe==0.23\r\n"
+    ],
+    [
+      0.013504,
+      "(bar) \u001b[1;36m$\u001b[00m "
+    ],
+    [
+      1.000000,
+      "#"
+    ],
+    [
+      0.126500,
+      " "
+    ],
+    [
+      0.208476,
+      "I"
+    ],
+    [
+      0.095706,
+      " "
+    ],
+    [
+      0.103758,
+      "w"
+    ],
+    [
+      0.169002,
+      "a"
+    ],
+    [
+      0.095724,
+      "n"
+    ],
+    [
+      0.127209,
+      "t"
+    ],
+    [
+      0.096723,
+      " "
+    ],
+    [
+      0.143965,
+      "t"
+    ],
+    [
+      0.095742,
+      "o"
+    ],
+    [
+      0.096284,
+      " "
+    ],
+    [
+      0.135584,
+      "s"
+    ],
+    [
+      0.151685,
+      "w"
+    ],
+    [
+      0.119924,
+      "i"
+    ],
+    [
+      0.088408,
+      "t"
+    ],
+    [
+      0.208522,
+      "c"
+    ],
+    [
+      0.088948,
+      "h"
+    ],
+    [
+      0.110798,
+      " "
+    ],
+    [
+      0.184767,
+      "b"
+    ],
+    [
+      0.175134,
+      "a"
+    ],
+    [
+      0.071616,
+      "c"
+    ],
+    [
+      0.136495,
+      "k"
+    ],
+    [
+      0.103292,
+      " "
+    ],
+    [
+      0.112004,
+      "t"
+    ],
+    [
+      0.112813,
+      "o"
+    ],
+    [
+      0.119970,
+      " "
+    ],
+    [
+      0.079935,
+      "f"
+    ],
+    [
+      0.087387,
+      "o"
+    ],
+    [
+      0.119881,
+      "o"
+    ],
+    [
+      0.256314,
+      "\r\n"
+    ],
+    [
+      0.000513,
+      "(bar) \u001b[1;36m$\u001b[00m \u001b[K"
+    ],
+    [
+      0.168168,
+      "w"
+    ],
+    [
+      0.127173,
+      "o"
+    ],
+    [
+      0.087801,
+      "r"
+    ],
+    [
+      0.096956,
+      "k"
+    ],
+    [
+      0.136075,
+      "o"
+    ],
+    [
+      0.079184,
+      "n"
+    ],
+    [
+      0.127912,
+      " "
+    ],
+    [
+      0.167877,
+      "f"
+    ],
+    [
+      0.071977,
+      "o"
+    ],
+    [
+      0.128029,
+      "o"
+    ],
+    [
+      0.272709,
+      "\r\n"
+    ],
+    [
+      0.219193,
+      "(foo) \u001b[1;36m$\u001b[00m "
+    ],
+    [
+      0.341428,
+      "p"
+    ],
+    [
+      0.103265,
+      "i"
+    ],
+    [
+      0.121448,
+      "p"
+    ],
+    [
+      0.118545,
+      " "
+    ],
+    [
+      0.080249,
+      "f"
+    ],
+    [
+      0.127952,
+      "r"
+    ],
+    [
+      0.159881,
+      "e"
+    ],
+    [
+      0.215547,
+      "d"
+    ],
+    [
+      0.351797,
+      "\u0008 \u0008"
+    ],
+    [
+      0.080291,
+      "e"
+    ],
+    [
+      0.184415,
+      "z"
+    ],
+    [
+      0.175150,
+      "e"
+    ],
+    [
+      0.184751,
+      "\r\n"
+    ],
+    [
+      0.278620,
+      "requests==2.5.1\r\n"
+    ],
+    [
+      0.012770,
+      "(foo) \u001b[1;36m$\u001b[00m "
+    ],
+    [
+      0.404161,
+      "p"
+    ],
+    [
+      0.079727,
+      "w"
+    ],
+    [
+      0.176594,
+      "d"
+    ],
+    [
+      0.183310,
+      "\r\n/tmp/foo-project\r\n"
+    ],
+    [
+      0.001057,
+      "(foo) \u001b[1;36m$\u001b[00m "
+    ],
+    [
+      1.000000,
+      "#"
+    ],
+    [
+      0.120795,
+      " "
+    ],
+    [
+      0.143468,
+      "c"
+    ],
+    [
+      0.048621,
+      "o"
+    ],
+    [
+      0.127409,
+      "o"
+    ],
+    [
+      0.167578,
+      "l"
+    ],
+    [
+      0.144922,
+      ","
+    ],
+    [
+      0.131575,
+      " "
+    ],
+    [
+      0.063900,
+      "e"
+    ],
+    [
+      0.184097,
+      "h"
+    ],
+    [
+      0.152354,
+      "?"
+    ],
+    [
+      1.000000,
+      "\r\n(foo) \u001b[1;36m$\u001b[00m "
+    ],
+    [
+      0.654278,
+      "I"
+    ],
+    [
+      0.112509,
+      " "
+    ],
+    [
+      0.153419,
+      "w"
+    ],
+    [
+      0.219196,
+      "\u0008 \u0008"
+    ],
+    [
+      0.160523,
+      "\u0008 \u0008"
+    ],
+    [
+      0.157627,
+      "\u0008 \u0008"
+    ],
+    [
+      0.201991,
+      "#"
+    ],
+    [
+      0.117413,
+      " "
+    ],
+    [
+      0.236993,
+      "I"
+    ],
+    [
+      0.142927,
+      " "
+    ],
+    [
+      0.084799,
+      "w"
+    ],
+    [
+      0.170264,
+      "a"
+    ],
+    [
+      0.125610,
+      "n"
+    ],
+    [
+      0.080173,
+      "t"
+    ],
+    [
+      0.113968,
+      " "
+    ],
+    [
+      0.086838,
+      "t"
+    ],
+    [
+      0.118977,
+      "o"
+    ],
+    [
+      0.093711,
+      " "
+    ],
+    [
+      0.143452,
+      "t"
+    ],
+    [
+      0.117349,
+      "e"
+    ],
+    [
+      0.131480,
+      "s"
+    ],
+    [
+      0.074338,
+      "t"
+    ],
+    [
+      0.118630,
+      " "
+    ],
+    [
+      0.393631,
+      "u"
+    ],
+    [
+      0.129193,
+      "p"
+    ],
+    [
+      0.194873,
+      "g"
+    ],
+    [
+      0.114701,
+      "r"
+    ],
+    [
+      0.129659,
+      "a"
+    ],
+    [
+      0.115666,
+      "d"
+    ],
+    [
+      0.139663,
+      "i"
+    ],
+    [
+      0.053722,
+      "n"
+    ],
+    [
+      0.076414,
+      "g"
+    ],
+    [
+      0.132651,
+      " "
+    ],
+    [
+      0.361788,
+      "r"
+    ],
+    [
+      0.190733,
+      "e"
+    ],
+    [
+      0.127406,
+      "q"
+    ],
+    [
+      0.097207,
+      "u"
+    ],
+    [
+      0.100218,
+      "e"
+    ],
+    [
+      0.159959,
+      "s"
+    ],
+    [
+      0.095477,
+      "t"
+    ],
+    [
+      0.142438,
+      "s"
+    ],
+    [
+      0.092377,
+      " "
+    ],
+    [
+      0.394768,
+      "w"
+    ],
+    [
+      0.112448,
+      "i"
+    ],
+    [
+      0.086046,
+      "t"
+    ],
+    [
+      0.093077,
+      "h"
+    ],
+    [
+      0.108549,
+      "o"
+    ],
+    [
+      0.079141,
+      "u"
+    ],
+    [
+      0.080072,
+      "t"
+    ],
+    [
+      0.120846,
+      " "
+    ],
+    [
+      0.232820,
+      "d"
+    ],
+    [
+      0.171187,
+      "e"
+    ],
+    [
+      0.195584,
+      "s"
+    ],
+    [
+      0.153230,
+      "t"
+    ],
+    [
+      0.112405,
+      "r"
+    ],
+    [
+      0.123139,
+      "o"
+    ],
+    [
+      0.138594,
+      "y"
+    ],
+    [
+      0.163952,
+      "i"
+    ],
+    [
+      0.063502,
+      "n"
+    ],
+    [
+      0.070534,
+      "g"
+    ],
+    [
+      0.124418,
+      " "
+    ],
+    [
+      0.215952,
+      "m"
+    ],
+    [
+      0.117471,
+      "y"
+    ],
+    [
+      0.108303,
+      " "
+    ],
+    [
+      0.527710,
+      "w"
+    ],
+    [
+      0.112573,
+      "o"
+    ],
+    [
+      0.062094,
+      "r"
+    ],
+    [
+      0.107101,
+      "k"
+    ],
+    [
+      0.142065,
+      "i"
+    ],
+    [
+      0.066259,
+      "n"
+    ],
+    [
+      0.058840,
+      "g"
+    ],
+    [
+      0.101970,
+      " "
+    ],
+    [
+      0.105696,
+      "e"
+    ],
+    [
+      0.116748,
+      "n"
+    ],
+    [
+      0.086836,
+      "v"
+    ],
+    [
+      0.608240,
+      "\r\n"
+    ],
+    [
+      0.013724,
+      "(foo) \u001b[1;36m$\u001b[00m \u001b[K"
+    ],
+    [
+      0.235833,
+      "m"
+    ],
+    [
+      0.065882,
+      "k"
+    ],
+    [
+      0.114307,
+      "t"
+    ],
+    [
+      0.118646,
+      "m"
+    ],
+    [
+      0.081660,
+      "p"
+    ],
+    [
+      0.081046,
+      "env "
+    ],
+    [
+      0.628166,
+      "\r\n"
+    ],
+    [
+      0.058594,
+      "New python executable in tmp-bce85fca43e788/bin/python\r\n"
+    ],
+    [
+      0.030169,
+      "Installing setuptools, pip..."
+    ],
+    [
+      1.000000,
+      "done.\r\n"
+    ],
+    [
+      0.323866,
+      "This is a temporary environment. It will be deleted when you run 'deactivate'.\r\n"
+    ],
+    [
+      0.009062,
+      "(tmp-bce85fca43e788) \u001b[1;36m$\u001b[00m "
+    ],
+    [
+      0.494535,
+      "c"
+    ],
+    [
+      0.106356,
+      "d"
+    ],
+    [
+      0.094031,
+      " "
+    ],
+    [
+      0.128865,
+      "/"
+    ],
+    [
+      0.149883,
+      "t"
+    ],
+    [
+      0.114509,
+      "m"
+    ],
+    [
+      0.082245,
+      "p"
+    ],
+    [
+      0.073118,
+      "/"
+    ],
+    [
+      0.127211,
+      "f"
+    ],
+    [
+      0.059799,
+      "o"
+    ],
+    [
+      0.118203,
+      "o"
+    ],
+    [
+      0.096115,
+      "-project/"
+    ],
+    [
+      0.325557,
+      "\r\n"
+    ],
+    [
+      0.002945,
+      "(tmp-bce85fca43e788) \u001b[1;36m$\u001b[00m \u001b[K"
+    ],
+    [
+      0.361024,
+      "p"
+    ],
+    [
+      0.071819,
+      "i"
+    ],
+    [
+      0.129507,
+      "p"
+    ],
+    [
+      0.107861,
+      " "
+    ],
+    [
+      0.128887,
+      "i"
+    ],
+    [
+      0.077981,
+      "n"
+    ],
+    [
+      0.082995,
+      "s"
+    ],
+    [
+      0.093890,
+      "t"
+    ],
+    [
+      0.132419,
+      "a"
+    ],
+    [
+      0.034258,
+      "l"
+    ],
+    [
+      0.121247,
+      "l"
+    ],
+    [
+      0.176433,
+      " "
+    ],
+    [
+      0.574575,
+      "r"
+    ],
+    [
+      0.152462,
+      "e"
+    ],
+    [
+      0.136149,
+      "q"
+    ],
+    [
+      0.103811,
+      "u"
+    ],
+    [
+      0.088267,
+      "e"
+    ],
+    [
+      0.144252,
+      "s"
+    ],
+    [
+      0.120751,
+      "t"
+    ],
+    [
+      0.126264,
+      "s"
+    ],
+    [
+      0.160068,
+      "\r\n"
+    ],
+    [
+      0.437905,
+      "Collecting requests\r\n"
+    ],
+    [
+      0.213045,
+      "  Downloading requests-2.6.0-py2.py3-none-any.whl (469kB)\r\n"
+    ],
+    [
+      0.000537,
+      "\u001b[?25l\r\u001b[K    0% |                                | 4.1kB 18.8MB/s eta 0:00:01"
+    ],
+    [
+      0.000585,
+      "\r\u001b[K    1% |                                | 8.2kB 14.5MB/s eta 0:00:01"
+    ],
+    [
+      0.034557,
+      "\r\u001b[K    2% |                                | 12kB 362kB/s eta 0:00:02\r\u001b[K    3% |#                               | 16kB 476kB/s eta 0:00:01"
+    ],
+    [
+      0.000393,
+      "\r\u001b[K    4% |#                               | 20kB 589kB/s eta 0:00:01"
+    ],
+    [
+      0.001377,
+      "\r\u001b[K    5% |#                               | 24kB 702kB/s eta 0:00:01"
+    ],
+    [
+      0.000810,
+      "\r\u001b[K    6% |#                               | 28kB 759kB/s eta 0:00:01\r\u001b[K    6% |##                              | 32kB 862kB/s eta 0:00:01"
+    ],
+    [
+      0.031357,
+      "\r\u001b[K    7% |##                              | 36kB 543kB/s eta 0:00:01"
+    ],
+    [
+      0.001871,
+      "\r\u001b[K    8% |##                              | 40kB 595kB/s eta 0:00:01\r\u001b[K    9% |###                             | 45kB 589kB/s eta 0:00:01\r\u001b[K    10% |###                             | 49kB 590kB/s eta 0:00:01\r\u001b[K    11% |###                             | 53kB 1.1MB/s eta 0:00:01"
+    ],
+    [
+      0.000464,
+      "\r\u001b[K    12% |###                             | 57kB 1.1MB/s eta 0:00:01"
+    ],
+    [
+      0.000199,
+      "\r\u001b[K    13% |####                            | 61kB 1.1MB/s eta 0:00:01"
+    ],
+    [
+      0.000390,
+      "\r\u001b[K    13% |####                            | 65kB 1.1MB/s eta 0:00:01"
+    ],
+    [
+      0.033365,
+      "\r\u001b[K    14% |####                            | 69kB 638kB/s eta 0:00:01"
+    ],
+    [
+      0.001316,
+      "\r\u001b[K    15% |#####                           | 73kB 611kB/s eta 0:00:01\r\u001b[K    16% |#####                           | 77kB 1.1MB/s eta 0:00:01"
+    ],
+    [
+      0.000004,
+      "\r\u001b[K    17% |#####                           | 81kB 1.1MB/s eta 0:00:01"
+    ],
+    [
+      0.000526,
+      "\r\u001b[K    18% |#####                           | 86kB 1.1MB/s eta 0:00:01\r\u001b[K    19% |######                          | 90kB 1.1MB/s eta 0:00:01"
+    ],
+    [
+      0.000607,
+      "\r\u001b[K    20% |######                          | 94kB 1.1MB/s eta 0:00:01"
+    ],
+    [
+      0.000499,
+      "\r\u001b[K    20% |######                          | 98kB 1.1MB/s eta 0:00:01"
+    ],
+    [
+      0.000407,
+      "\r\u001b[K    21% |######                          | 102kB 1.1MB/s eta 0:00:01"
+    ],
+    [
+      0.027790,
+      "\r\u001b[K    22% |#######                         | 106kB 643kB/s eta 0:00:01"
+    ],
+    [
+      0.002702,
+      "\r\u001b[K    23% |#######                         | 110kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000066,
+      "\r\u001b[K    24% |#######                         | 114kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000293,
+      "\r\u001b[K    25% |########                        | 118kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.001287,
+      "\r\u001b[K    26% |########                        | 122kB 1.3MB/s eta 0:00:01"
+    ],
+    [
+      0.002104,
+      "\r\u001b[K    27% |########                        | 126kB 1.3MB/s eta 0:00:01\r\u001b[K    27% |########                        | 131kB 1.2MB/s eta 0:00:01\r\u001b[K    28% |#########                       | 135kB 1.2MB/s eta 0:00:01\r\u001b[K    29% |#########                       | 139kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.031041,
+      "\r\u001b[K    30% |#########                       | 143kB 659kB/s eta 0:00:01"
+    ],
+    [
+      0.000010,
+      "\r\u001b[K    31% |##########                      | 147kB 1.1MB/s eta 0:00:01\r\u001b[K    32% |##########                      | 151kB 1.1MB/s eta 0:00:01\r\u001b[K    33% |##########                      | 155kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.006155,
+      "\r\u001b[K    34% |##########                      | 159kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000016,
+      "\r\u001b[K    34% |###########                     | 163kB 1.2MB/s eta 0:00:01\r\u001b[K    35% |###########                     | 167kB 1.2MB/s eta 0:00:01\r\u001b[K    36% |###########                     | 172kB 1.2MB/s eta 0:00:01\r\u001b[K    37% |###########                     | 176kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.001515,
+      "\r\u001b[K    38% |############                    | 180kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.024783,
+      "\r\u001b[K    39% |############                    | 184kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000350,
+      "\r\u001b[K    40% |############                    | 188kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.001426,
+      "\r\u001b[K    40% |#############                   | 192kB 1.2MB/s eta 0:00:01\r\u001b[K    41% |#############                   | 196kB 1.2MB/s eta 0:00:01\r\u001b[K    42% |#############                   | 200kB 1.2MB/s eta 0:00:01\r\u001b[K    43% |#############                   | 204kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.002440,
+      "\r\u001b[K    44% |##############                  | 208kB 1.2MB/s eta 0:00:01\r\u001b[K    45% |##############                  | 212kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000005,
+      "\r\u001b[K    46% |##############                  | 217kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000003,
+      "\r\u001b[K    47% |###############                 | 221kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000003,
+      "\r\u001b[K    47% |###############                 | 225kB 8.5MB/s eta 0:00:01"
+    ],
+    [
+      0.001755,
+      "\r\u001b[K    48% |###############                 | 229kB 9.2MB/s eta 0:00:01"
+    ],
+    [
+      0.028767,
+      "\r\u001b[K    49% |###############                 | 233kB 1.3MB/s eta 0:00:01"
+    ],
+    [
+      0.000010,
+      "\r\u001b[K    50% |################                | 237kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000029,
+      "\r\u001b[K    51% |################                | 241kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000669,
+      "\r\u001b[K    52% |################                | 245kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.003048,
+      "\r\u001b[K    53% |#################               | 249kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000006,
+      "\r\u001b[K    54% |#################               | 253kB 1.2MB/s eta 0:00:01\r\u001b[K    54% |#################               | 258kB 1.2MB/s eta 0:00:01\r\u001b[K    55% |#################               | 262kB 1.3MB/s eta 0:00:01"
+    ],
+    [
+      0.000276,
+      "\r\u001b[K    56% |##################              | 266kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.001063,
+      "\r\u001b[K    57% |##################              | 270kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.007167,
+      "\r\u001b[K    58% |##################              | 274kB 7.3MB/s eta 0:00:01\r\u001b[K    59% |##################              | 278kB 6.2MB/s eta 0:00:01"
+    ],
+    [
+      0.022764,
+      "\r\u001b[K    60% |###################             | 282kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.004501,
+      "\r\u001b[K    61% |###################             | 286kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000007,
+      "\r\u001b[K    61% |###################             | 290kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000024,
+      "\r\u001b[K    62% |####################            | 294kB 1.1MB/s eta 0:00:01"
+    ],
+    [
+      0.000007,
+      "\r\u001b[K    63% |####################            | 299kB 1.1MB/s eta 0:00:01"
+    ],
+    [
+      0.000411,
+      "\r\u001b[K    64% |####################            | 303kB 1.1MB/s eta 0:00:01"
+    ],
+    [
+      0.000487,
+      "\r\u001b[K    65% |####################            | 307kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000375,
+      "\r\u001b[K    66% |#####################           | 311kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000192,
+      "\r\u001b[K    67% |#####################           | 315kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000150,
+      "\r\u001b[K    68% |#####################           | 319kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.001397,
+      "\r\u001b[K    68% |######################          | 323kB 6.4MB/s eta 0:00:01"
+    ],
+    [
+      0.027072,
+      "\r\u001b[K    69% |######################          | 327kB 1.3MB/s eta 0:00:01"
+    ],
+    [
+      0.000022,
+      "\r\u001b[K    70% |######################          | 331kB 1.3MB/s eta 0:00:01\r\u001b[K    71% |######################          | 335kB 1.3MB/s eta 0:00:01\r\u001b[K    72% |#######################         | 339kB 1.4MB/s eta 0:00:01\r\u001b[K    73% |#######################         | 344kB 1.3MB/s eta 0:00:01\r\u001b[K    74% |#######################         | 348kB 1.3MB/s eta 0:00:01"
+    ],
+    [
+      0.000205,
+      "\r\u001b[K    74% |#######################         | 352kB 1.3MB/s eta 0:00:01"
+    ],
+    [
+      0.002856,
+      "\r\u001b[K    75% |########################        | 356kB 1.3MB/s eta 0:00:01"
+    ],
+    [
+      0.001983,
+      "\r\u001b[K    76% |########################        | 360kB 1.2MB/s eta 0:00:01\r\u001b[K    77% |########################        | 364kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000004,
+      "\r\u001b[K    78% |#########################       | 368kB 4.9MB/s eta 0:00:01\r\u001b[K    79% |#########################       | 372kB 5.1MB/s eta 0:00:01"
+    ],
+    [
+      0.012201,
+      "\r\u001b[K    80% |#########################       | 376kB 5.2MB/s eta 0:00:01"
+    ],
+    [
+      0.015882,
+      "\r\u001b[K    81% |#########################       | 380kB 1.3MB/s eta 0:00:01"
+    ],
+    [
+      0.000386,
+      "\r\u001b[K    81% |##########################      | 385kB 1.3MB/s eta 0:00:01"
+    ],
+    [
+      0.000502,
+      "\r\u001b[K    82% |##########################      | 389kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.001062,
+      "\r\u001b[K    83% |##########################      | 393kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.004636,
+      "\r\u001b[K    84% |###########################     | 397kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000006,
+      "\r\u001b[K    85% |###########################     | 401kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000003,
+      "\r\u001b[K    86% |###########################     | 405kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000025,
+      "\r\u001b[K    87% |###########################     | 409kB 1.3MB/s eta 0:00:01\r\u001b[K    88% |############################    | 413kB 1.3MB/s eta 0:00:01"
+    ],
+    [
+      0.000043,
+      "\r\u001b[K    88% |############################    | 417kB 1.3MB/s eta 0:00:01"
+    ],
+    [
+      0.000019,
+      "\r\u001b[K    89% |############################    | 421kB 5.8MB/s eta 0:00:01"
+    ],
+    [
+      0.000026,
+      "\r\u001b[K    90% |#############################   | 425kB 6.3MB/s eta 0:00:01"
+    ],
+    [
+      0.000157,
+      "\r\u001b[K    91% |#############################   | 430kB 7.1MB/s eta 0:00:01"
+    ],
+    [
+      0.002241,
+      "\r\u001b[K    92% |#############################   | 434kB 7.1MB/s eta 0:00:01"
+    ],
+    [
+      0.027641,
+      "\r\u001b[K    93% |#############################   | 438kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.000007,
+      "\r\u001b[K    94% |##############################  | 442kB 1.3MB/s eta 0:00:01\r\u001b[K    95% |##############################  | 446kB 1.3MB/s eta 0:00:01"
+    ],
+    [
+      0.000032,
+      "\r\u001b[K    95% |##############################  | 450kB 1.3MB/s eta 0:00:01"
+    ],
+    [
+      0.000007,
+      "\r\u001b[K    96% |##############################  | 454kB 1.3MB/s eta 0:00:01"
+    ],
+    [
+      0.002009,
+      "\r\u001b[K    97% |############################### | 458kB 1.3MB/s eta 0:00:01"
+    ],
+    [
+      0.000156,
+      "\r\u001b[K    98% |############################### | 462kB 1.3MB/s eta 0:00:01"
+    ],
+    [
+      0.007966,
+      "\r\u001b[K    99% |############################### | 466kB 1.2MB/s eta 0:00:01"
+    ],
+    [
+      0.030263,
+      "\r\u001b[K    100% |################################| 471kB 645kB/s \r\n"
+    ],
+    [
+      0.010760,
+      "\u001b[?25hInstalling collected packages: requests\r\n"
+    ],
+    [
+      0.152013,
+      "\r\n"
+    ],
+    [
+      0.027524,
+      "Successfully installed requests-2.6.0\r\n"
+    ],
+    [
+      0.021759,
+      "(tmp-bce85fca43e788) \u001b[1;36m$\u001b[00m \u001b[K"
+    ],
+    [
+      0.640551,
+      "p"
+    ],
+    [
+      0.083751,
+      "i"
+    ],
+    [
+      0.130518,
+      "p"
+    ],
+    [
+      0.054604,
+      " "
+    ],
+    [
+      0.107749,
+      "f"
+    ],
+    [
+      0.107112,
+      "r"
+    ],
+    [
+      0.147368,
+      "e"
+    ],
+    [
+      0.157180,
+      "e"
+    ],
+    [
+      0.242266,
+      "z"
+    ],
+    [
+      0.169511,
+      "e"
+    ],
+    [
+      0.166754,
+      "\r\n"
+    ],
+    [
+      0.270570,
+      "requests==2.6.0\r\n"
+    ],
+    [
+      0.012390,
+      "(tmp-bce85fca43e788) \u001b[1;36m$\u001b[00m "
+    ],
+    [
+      0.259079,
+      "#"
+    ],
+    [
+      0.192252,
+      " "
+    ],
+    [
+      0.155111,
+      "n"
+    ],
+    [
+      0.062148,
+      "e"
+    ],
+    [
+      0.132396,
+      "w"
+    ],
+    [
+      0.081618,
+      " "
+    ],
+    [
+      0.157654,
+      "v"
+    ],
+    [
+      0.181001,
+      "e"
+    ],
+    [
+      0.089962,
+      "r"
+    ],
+    [
+      0.139278,
+      "s"
+    ],
+    [
+      0.079109,
+      "i"
+    ],
+    [
+      0.050556,
+      "o"
+    ],
+    [
+      0.090558,
+      "n"
+    ],
+    [
+      0.219068,
+      "\r\n"
+    ],
+    [
+      0.000563,
+      "(tmp-bce85fca43e788) \u001b[1;36m$\u001b[00m \u001b[K"
+    ],
+    [
+      0.589160,
+      "d"
+    ],
+    [
+      0.150293,
+      "e"
+    ],
+    [
+      0.129732,
+      "a"
+    ],
+    [
+      0.091741,
+      "c"
+    ],
+    [
+      0.178145,
+      "tivate "
+    ],
+    [
+      0.147937,
+      "\r\n"
+    ],
+    [
+      0.100702,
+      "Removing temporary environment: tmp-bce85fca43e788\r\n"
+    ],
+    [
+      0.000627,
+      "Removing tmp-bce85fca43e788...\r\n"
+    ],
+    [
+      0.122305,
+      " \u001b[1;36m$\u001b[00m \u001b[K"
+    ],
+    [
+      0.041832,
+      "w"
+    ],
+    [
+      0.087551,
+      "o"
+    ],
+    [
+      0.097246,
+      "r"
+    ],
+    [
+      0.099549,
+      "k"
+    ],
+    [
+      0.144071,
+      "o"
+    ],
+    [
+      0.085513,
+      "n"
+    ],
+    [
+      0.157774,
+      " "
+    ],
+    [
+      0.219504,
+      "f"
+    ],
+    [
+      0.099860,
+      "o"
+    ],
+    [
+      0.131677,
+      "o"
+    ],
+    [
+      0.219263,
+      "\r\n"
+    ],
+    [
+      0.125147,
+      "(foo) \u001b[1;36m$\u001b[00m "
+    ],
+    [
+      0.280168,
+      "p"
+    ],
+    [
+      0.100773,
+      "i"
+    ],
+    [
+      0.107135,
+      "p"
+    ],
+    [
+      0.101762,
+      " "
+    ],
+    [
+      0.140873,
+      "f"
+    ],
+    [
+      0.160666,
+      "e"
+    ],
+    [
+      0.311134,
+      "\u0008 \u0008"
+    ],
+    [
+      0.073421,
+      "r"
+    ],
+    [
+      0.167167,
+      "e"
+    ],
+    [
+      0.151576,
+      "e"
+    ],
+    [
+      0.192624,
+      "z"
+    ],
+    [
+      0.175755,
+      "e"
+    ],
+    [
+      0.137132,
+      "\r\n"
+    ],
+    [
+      0.273344,
+      "requests==2.5.1\r\n"
+    ],
+    [
+      0.012843,
+      "(foo) \u001b[1;36m$\u001b[00m "
+    ],
+    [
+      0.313130,
+      "#"
+    ],
+    [
+      0.222991,
+      " "
+    ],
+    [
+      0.432256,
+      "s"
+    ],
+    [
+      0.120502,
+      "t"
+    ],
+    [
+      0.064166,
+      "i"
+    ],
+    [
+      0.071777,
+      "l"
+    ],
+    [
+      0.200239,
+      " "
+    ],
+    [
+      0.391098,
+      "\u0008 \u0008"
+    ],
+    [
+      0.184184,
+      "l"
+    ],
+    [
+      0.120028,
+      " "
+    ],
+    [
+      0.104468,
+      "o"
+    ],
+    [
+      0.088081,
+      "n"
+    ],
+    [
+      0.071968,
+      " "
+    ],
+    [
+      0.119884,
+      "s"
+    ],
+    [
+      0.080052,
+      "t"
+    ],
+    [
+      0.143317,
+      "a"
+    ],
+    [
+      0.096414,
+      "b"
+    ],
+    [
+      0.080155,
+      "l"
+    ],
+    [
+      0.064092,
+      "e"
+    ],
+    [
+      0.111769,
+      " "
+    ],
+    [
+      0.127628,
+      "v"
+    ],
+    [
+      0.176333,
+      "e"
+    ],
+    [
+      0.063786,
+      "r"
+    ],
+    [
+      0.144725,
+      "s"
+    ],
+    [
+      0.085079,
+      "i"
+    ],
+    [
+      0.056004,
+      "o"
+    ],
+    [
+      0.070292,
+      "n"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.010108,
+      "(foo) \u001b[1;36m$\u001b[00m \u001b[K"
+    ],
+    [
+      1.000000,
+      "#"
+    ],
+    [
+      0.159752,
+      " "
+    ],
+    [
+      0.106899,
+      "t"
+    ],
+    [
+      0.133414,
+      "h"
+    ],
+    [
+      0.074476,
+      "e"
+    ],
+    [
+      0.100401,
+      " "
+    ],
+    [
+      0.105460,
+      "e"
+    ],
+    [
+      0.067565,
+      "n"
+    ],
+    [
+      0.120811,
+      "d"
+    ],
+    [
+      0.266063,
+      "\r\n(foo) \u001b[1;36m$\u001b[00m "
+    ],
+    [
+      0.513326,
+      "exit\r\n"
+    ],
+    [
+      0.161472,
+      "^D\u0008\u0008"
+    ],
+    [
+      0.345247,
+      "bash-3.2$ "
+    ],
+    [
+      0.495247,
+      "exit\r\n"
+    ]
+  ]
+}
