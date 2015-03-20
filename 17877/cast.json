@@ -1,0 +1,1094 @@
+{
+  "version": 1,
+  "width": 150,
+  "height": 20,
+  "duration": 75.807522,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.091774,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                     \r \r"
+    ],
+    [
+      0.000099,
+      "\u001b]2;sigma@sigmaLinux: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.079700,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m sigma@sigmaLinux \u001b[44m\u001b[30m\u001b[30m ~ \u001b[49m\u001b[34m\u001b[39m "
+    ],
+    [
+      0.000013,
+      "\u001b[K"
+    ],
+    [
+      0.000046,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      5.909135,
+      "c"
+    ],
+    [
+      0.079337,
+      "\u0008cd"
+    ],
+    [
+      0.103764,
+      " "
+    ],
+    [
+      0.672052,
+      "."
+    ],
+    [
+      0.120163,
+      "c"
+    ],
+    [
+      0.079951,
+      "o"
+    ],
+    [
+      0.144015,
+      "n"
+    ],
+    [
+      0.111638,
+      "\u0007"
+    ],
+    [
+      0.000043,
+      "\r\r\n"
+    ],
+    [
+      0.000070,
+      "\u001b[J\u001b[1;31m.config\u001b[0m/         \u001b[J\u001b[1;31m.conky\u001b[0m/          \u001b[J\u001b[1;31m.conky-weather\u001b[0m/\u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[24C"
+    ],
+    [
+      0.000008,
+      "cd .con\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.209568,
+      "fig\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000341,
+      "\r\r\n\u001b[J\u001b[7m.config/       \u001b[0m  \u001b[J\u001b[1;31m.conky\u001b[0m/          \u001b[J\u001b[1;31m.conky-weather\u001b[0m/\u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[24Ccd .config\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.878417,
+      "\r\r\n\u001b[7m.config/       \u001b[0m  \r\u001b[7m.config/       \u001b[0m  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[24Ccd .config\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\u0008\u0008\u0008\u0008ky\u001b[1m/\u001b[0m\u001b[0m \u0008\r\r\n\u001b[17C\u001b[7m.conky/        \u001b[0m  \r\u001b[1;31m.config\u001b[0m/         \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[24Ccd .conky\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.199893,
+      "\u0008\u001b[0m-weather\u001b[1m/\u001b[0m\r\r\n\u001b[34C\u001b[7m.conky-weather/\u001b[0m\r\u001b[17C\u001b[1;31m.conky\u001b[0m/          \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[24Ccd .conky-weather\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.271809,
+      "\u001b[9D\u001b[1m/\u001b[0m       \u001b[0m \u001b[8D\r\r\n\u001b[17C\u001b[7m.conky/        \u001b[0m  \r\u001b[34C\u001b[1;31m.conky-weather\u001b[0m/\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[24Ccd .conky\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.216117,
+      "\u0008\u0008\u0008fi\u001b[0mg\u001b[1m/\u001b[0m\r\r\n\u001b[7m.config/       \u001b[0m  \r\u001b[17C\u001b[1;31m.conky\u001b[0m/          \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[24Ccd .config\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.384045,
+      "\u0008\u0008\u0008\u0008ky\u001b[1m/\u001b[0m\u001b[0m \u0008\r\r\n\u001b[17C\u001b[7m.conky/        \u001b[0m  \r\u001b[1;31m.config\u001b[0m/         \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[24Ccd .conky\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.184547,
+      "\u0008\u001b[0m-weather\u001b[1m/\u001b[0m\r\r\n\u001b[34C\u001b[7m.conky-weather/\u001b[0m\r\u001b[17C\u001b[1;31m.conky\u001b[0m/          \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[24Ccd .conky-weather\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.255325,
+      "\u001b[9D\u001b[1m/\u001b[0m       \u001b[0m \u001b[8D\r\r\n\u001b[17C\u001b[7m.conky/        \u001b[0m  \r\u001b[34C\u001b[1;31m.conky-weather\u001b[0m/\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[24Ccd .conky\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.192124,
+      "\u0008\u0008\u0008fi\u001b[0mg\u001b[1m/\u001b[0m\r\r\n\u001b[7m.config/       \u001b[0m  \r\u001b[17C\u001b[1;31m.conky\u001b[0m/          \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[24Ccd .config\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.367707,
+      "\r\r\n\u001b[J\u001b[A\u001b[35C"
+    ],
+    [
+      0.888688,
+      "\u0008\u001b[0m \u0008\u001b[?1l\u001b\u003e\r\r\n\u001b[J\u001b]2;cd .config\u0007\u001b]1;cd\u0007\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                     \r \r\u001b]2;sigma@sigmaLinux: ~/.config\u0007\u001b]1;~/.config\u0007"
+    ],
+    [
+      0.076787,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m sigma@sigmaLinux \u001b[44m\u001b[30m\u001b[30m ~/.config \u001b[49m\u001b[34m\u001b[39m "
+    ],
+    [
+      0.000012,
+      "\u001b[K"
+    ],
+    [
+      0.000039,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.650727,
+      "l"
+    ],
+    [
+      0.080085,
+      "\u0008ls"
+    ],
+    [
+      0.240728,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;ls --color=tty\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.001682,
+      "\u001b[0m\u001b[01;34maudacious\u001b[0m              \u001b[01;34mchromium\u001b[0m    \u001b[01;34mdwb\u001b[0m             \u001b[01;34mfoobnix\u001b[0m  \u001b[01;34mhtop\u001b[0m           \u001b[01;34mmono.addins\u001b[0m       \u001b[01;34mplank\u001b[0m           \u001b[01;34mSpeedCrunch\u001b[0m     Trolltech.conf    \u001b[01;34mxmms2\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[01;34mautostart\u001b[0m              \u001b[01;34mClementine\u001b[0m  \u001b[01;34mepdfview\u001b[0m        \u001b[01;34mgconf\u001b[0m    \u001b[01;34mlibreoffice\u001b[0m    \u001b[01;34mnetwmpager\u001b[0m        \u001b[01;34mpulse\u001b[0m           \u001b[01;34msublime-text-2\u001b[0m  \u001b[01;34munity3d\u001b[0m           \u001b[01;34mxnoise\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[01;34mawesome\u001b[0m                \u001b[01;34mconky\u001b[0m       \u001b[01;34mFacebook\u001b[0m        \u001b[01;34mgthumb\u001b[0m   \u001b[01;34mlxmusic\u001b[0m        \u001b[01;34mnitrogen\u001b[0m          QtProject.conf  \u001b[01;34msunflower\u001b[0m       user-dirs.dirs\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[01;34mCanon2.com\u001b[0m             \u001b[01;34mCorel\u001b[0m       \u001b[01;34mfbpanel\u001b[0m         \u001b[01;34mgtk-2.0\u001b[0m  \u001b[01;34mlxpanel\u001b[0m        \u001b[01;34mobmenu-generator\u001b[0m  \u001b[01;34mristretto\u001b[0m       \u001b[01;34mterminator\u001b[0m      user-dirs.locale\r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[01;34mcantata\u001b[0m                \u001b[01;34mdconf\u001b[0m       \u001b[01;34mfish\u001b[0m            \u001b[01;34mgtk-3.0\u001b[0m  \u001b[01;34mmenus\u001b[0m          \u001b[01;34mopenbox\u001b[0m           \u001b[01;34msmplayer\u001b[0m        \u001b[01;34mThunar\u001b[0m          volwheel\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[01;34mchrome-remote-desktop\u001b[0m  \u001b[01;34mdeluge\u001b[0m      \u001b[01;34mFlavio Tordini\u001b[0m  \u001b[01;34mhotkeys\u001b[0m  mimeapps.list  \u001b[01;34mPinta\u001b[0m             \u001b[01;34mspacefm\u001b[0m         \u001b[01;34mtint2\u001b[0m           \u001b[01;34mxfce4\u001b[0m\r\n"
+    ],
+    [
+      0.000280,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                     \r \r"
+    ],
+    [
+      0.000125,
+      "\u001b]2;sigma@sigmaLinux: ~/.config\u0007"
+    ],
+    [
+      0.000040,
+      "\u001b]1;~/.config\u0007"
+    ],
+    [
+      0.081810,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m sigma@sigmaLinux \u001b[44m\u001b[30m\u001b[30m ~/.config \u001b[49m\u001b[34m\u001b[39m "
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000015,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.770876,
+      "\u001b[H\u001b[2J\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m sigma@sigmaLinux \u001b[44m\u001b[30m\u001b[30m ~/.config \u001b[49m\u001b[34m\u001b[39m \u001b[K"
+    ],
+    [
+      0.440200,
+      "l"
+    ],
+    [
+      0.359980,
+      "\u0008ls"
+    ],
+    [
+      0.177085,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;ls --color=tty\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.001741,
+      "\u001b[0m\u001b[01;34maudacious\u001b[0m              \u001b[01;34mchromium\u001b[0m    \u001b[01;34mdwb\u001b[0m             \u001b[01;34mfoobnix\u001b[0m  \u001b[01;34mhtop\u001b[0m           \u001b[01;34mmono.addins\u001b[0m       \u001b[01;34mplank\u001b[0m           \u001b[01;34mSpeedCrunch\u001b[0m     Trolltech.conf    \u001b[01;34mxmms2\u001b[0m\r\n"
+    ],
+    [
+      0.000079,
+      "\u001b[01;34mautostart\u001b[0m              \u001b[01;34mClementine\u001b[0m  \u001b[01;34mepdfview\u001b[0m        \u001b[01;34mgconf\u001b[0m    \u001b[01;34mlibreoffice\u001b[0m    \u001b[01;34mnetwmpager\u001b[0m        \u001b[01;34mpulse\u001b[0m           \u001b[01;34msublime-text-2\u001b[0m  \u001b[01;34munity3d\u001b[0m           \u001b[01;34mxnoise\u001b[0m\r\n"
+    ],
+    [
+      0.000069,
+      "\u001b[01;34mawesome\u001b[0m                \u001b[01;34mconky\u001b[0m       \u001b[01;34mFacebook\u001b[0m        \u001b[01;34mgthumb\u001b[0m   \u001b[01;34mlxmusic\u001b[0m        \u001b[01;34mnitrogen\u001b[0m          QtProject.conf  \u001b[01;34msunflower\u001b[0m       user-dirs.dirs\r\n"
+    ],
+    [
+      0.000053,
+      "\u001b[01;34mCanon2.com\u001b[0m             \u001b[01;34mCorel\u001b[0m       \u001b[01;34mfbpanel\u001b[0m         \u001b[01;34mgtk-2.0\u001b[0m  \u001b[01;34mlxpanel\u001b[0m        \u001b[01;34mobmenu-generator\u001b[0m  \u001b[01;34mristretto\u001b[0m       \u001b[01;34mterminator\u001b[0m      user-dirs.locale\r\n"
+    ],
+    [
+      0.000069,
+      "\u001b[01;34mcantata\u001b[0m                \u001b[01;34mdconf\u001b[0m       \u001b[01;34mfish\u001b[0m            \u001b[01;34mgtk-3.0\u001b[0m  \u001b[01;34mmenus\u001b[0m          \u001b[01;34mopenbox\u001b[0m           \u001b[01;34msmplayer\u001b[0m        \u001b[01;34mThunar\u001b[0m          volwheel\r\n"
+    ],
+    [
+      0.000050,
+      "\u001b[01;34mchrome-remote-desktop\u001b[0m  \u001b[01;34mdeluge\u001b[0m      \u001b[01;34mFlavio Tordini\u001b[0m  \u001b[01;34mhotkeys\u001b[0m  mimeapps.list  \u001b[01;34mPinta\u001b[0m             \u001b[01;34mspacefm\u001b[0m         \u001b[01;34mtint2\u001b[0m           \u001b[01;34mxfce4\u001b[0m\r\n"
+    ],
+    [
+      0.001088,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                     \r \r\u001b]2;sigma@sigmaLinux: ~/.config\u0007\u001b]1;~/.config\u0007"
+    ],
+    [
+      0.076427,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m sigma@sigmaLinux \u001b[44m\u001b[30m\u001b[30m ~/.config \u001b[49m\u001b[34m\u001b[39m "
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      0.000015,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.015440,
+      "c"
+    ],
+    [
+      0.088065,
+      "\u0008cd"
+    ],
+    [
+      0.039448,
+      " "
+    ],
+    [
+      0.744395,
+      "c"
+    ],
+    [
+      0.633809,
+      "\u0007"
+    ],
+    [
+      0.000174,
+      "\r\r\n"
+    ],
+    [
+      0.000166,
+      "\u001b[1;31mCanon2.com\u001b[0m/             \u001b[1;31mchrome-remote-desktop\u001b[0m/  \u001b[1;31mClementine\u001b[0m/             \u001b[1;31mCorel\u001b[0m/                                                              \r\n\u001b[J\u001b[1;31mcantata\u001b[0m/                \u001b[J\u001b[1;31mchromium\u001b[0m/               \u001b[J\u001b[1;31mconky\u001b[0m/                  \u001b[J                                                                  \u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[32C"
+    ],
+    [
+      0.000061,
+      "cd c\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.213118,
+      "\u0008Canon2.com\u001b[1m/\u001b[0m\r\r\n\u001b[7mCanon2.com/           \u001b[0m  \u001b[1;31mchrome-remote-desktop\u001b[0m/  \u001b[1;31mClementine\u001b[0m/             \u001b[1;31mCorel\u001b[0m/                                                              \u001b[K\r\n\u001b[J\u001b[1;31mcantata\u001b[0m/                \u001b[J\u001b[1;31mchromium\u001b[0m/               \u001b[J\u001b[1;31mconky\u001b[0m/                  \u001b[J                                                                  \u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[32Ccd Canon2.com\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.672884,
+      "\r\r\n\u001b[7mCanon2.com/           \u001b[0m  \r\u001b[7mCanon2.com/           \u001b[0m  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[32Ccd Canon2.com\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\u001b[11Dchrome-rem\u001b[0mote-desktop\u001b[1m/\u001b[0m\r\r\n\u001b[24C\u001b[7mchrome-remote-desktop/\u001b[0m  \r\u001b[1;31mCanon2.com\u001b[0m/             \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[32Ccd chrome-remote-desktop\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.239460,
+      "\u001b[22DClementine\u001b[1m/\u001b[0m          \u001b[0m \u001b[11D\r\r\n\u001b[48C\u001b[7mClementine/           \u001b[0m  \r\u001b[24C\u001b[1;31mchrome-remote-desktop\u001b[0m/  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[32Ccd Clementine\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.248158,
+      "\u001b[11Dconky\u001b[1m/\u001b[0m    \u001b[0m \u0008\u0008\u0008\u0008\u0008\r\r\n\u001b[48C\u001b[1;31mClementine\u001b[0m/             \r\u001b[1B\u001b[48C\u001b[7mconky/                \u001b[0m\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[32Ccd conky\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.367752,
+      "\u0008\u0008\u0008\u0008\u0008\u0008Cleme\u001b[0mntine\u001b[1m/\u001b[0m\r\r\n\u001b[48C\u001b[7mClementine/           \u001b[0m  \r\u001b[1B\u001b[48C\u001b[1;31mconky\u001b[0m/                \r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[32Ccd Clementine\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.408054,
+      "\u001b[11Dconky\u001b[1m/\u001b[0m    \u001b[0m \u0008\u0008\u0008\u0008\u0008\r\r\n\u001b[48C\u001b[1;31mClementine\u001b[0m/             \r\u001b[1B\u001b[48C\u001b[7mconky/                \u001b[0m\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[32Ccd conky\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.224129,
+      "\u0008\u0008\u0008\u0008\u0008hrom\u001b[0mium\u001b[1m/\u001b[0m\r\r\n\u001b[1B\u001b[24C\u001b[7mchromium/             \u001b[0m  \r\u001b[48C\u001b[1;31mconky\u001b[0m/                \r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[32Ccd chromium\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.280010,
+      "\u001b[8Donky\u001b[1m/\u001b[0m  \u001b[0m \u0008\u0008\u0008\r\r\n\u001b[1B\u001b[48C\u001b[7mconky/                \u001b[0m\r\u001b[24C\u001b[1;31mchromium\u001b[0m/               \r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[32Ccd conky\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.216546,
+      "\u0008\u0008\u0008\u0008\u0008hrom\u001b[0mium\u001b[1m/\u001b[0m\r\r\n\u001b[1B\u001b[24C\u001b[7mchromium/             \u001b[0m  \r\u001b[48C\u001b[1;31mconky\u001b[0m/                \r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[32Ccd chromium\u001b[1m/\u001b[0m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.271076,
+      "\r\r\n\u001b[J\u001b[A\u001b[44C"
+    ],
+    [
+      0.625104,
+      "\u0008\u001b[0m \u0008\u001b[?1l\u001b\u003e\r\r\n\u001b[J\u001b]2;cd chromium\u0007\u001b]1;cd\u0007\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                     \r \r\u001b]2;sigma@sigmaLinux: ~/.config/chromium\u0007\u001b]1;..nfig/chromium\u0007"
+    ],
+    [
+      0.085021,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m sigma@sigmaLinux \u001b[44m\u001b[30m\u001b[30m ~/.config/chromium \u001b[49m\u001b[34m\u001b[39m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.842251,
+      "l"
+    ],
+    [
+      0.063720,
+      "\u0008ls"
+    ],
+    [
+      0.082440,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;ls --color=tty\u0007\u001b]1;ls\u0007Certificate Revocation Lists  ev_hashes_whitelist.bin  Safe Browsing Bloom             Safe Browsing Download             \u001b[0m\u001b[01;36mSingletonLock\u001b[0m\r\nChannels                      \u001b[01;34mEVWhitelist\u001b[0m              Safe Browsing Bloom Prefix Set  Safe Browsing Download Whitelist   \u001b[01;36mSingletonSocket\u001b[0m\r\n\u001b[01;34mCrash Reports\u001b[0m                 First Run                Safe Browsing Cookies           Safe Browsing Extension Blacklist  \u001b[01;34mWebstore Downloads\u001b[0m\r\n\u001b[01;34mDefault\u001b[0m                       Local State              Safe Browsing Cookies-journal   Safe Browsing IP Blacklist\r\n\u001b[01;34mDictionaries\u001b[0m                  \u001b[01;34mpnacl\u001b[0m                    Safe Browsing Csd Whitelist     \u001b[01;36mSingletonCookie\u001b[0m\r\n"
+    ],
+    [
+      0.000598,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                     \r \r\u001b]2;sigma@sigmaLinux: ~/.config/chromium\u0007\u001b]1;..nfig/chromium\u0007"
+    ],
+    [
+      0.078576,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m sigma@sigmaLinux \u001b[44m\u001b[30m\u001b[30m ~/.config/chromium \u001b[49m\u001b[34m\u001b[39m "
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      0.000041,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.734242,
+      "c"
+    ],
+    [
+      0.080120,
+      "\u0008cd"
+    ],
+    [
+      0.239918,
+      " "
+    ],
+    [
+      0.776396,
+      "."
+    ],
+    [
+      0.167738,
+      "."
+    ],
+    [
+      0.345064,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;cd ..\u0007\u001b]1;cd\u0007\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                     \r \r\u001b]2;sigma@sigmaLinux: ~/.config\u0007\u001b]1;~/.config\u0007"
+    ],
+    [
+      0.087194,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m sigma@sigmaLinux \u001b[44m\u001b[30m\u001b[30m ~/.config \u001b[49m\u001b[34m\u001b[39m "
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000044,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.984756,
+      "l"
+    ],
+    [
+      0.054854,
+      "\u0008ls"
+    ],
+    [
+      0.064576,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;ls --color=tty\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.002023,
+      "\u001b[0m\u001b[01;34maudacious\u001b[0m              \u001b[01;34mchromium\u001b[0m    \u001b[01;34mdwb\u001b[0m             \u001b[01;34mfoobnix\u001b[0m  \u001b[01;34mhtop\u001b[0m           \u001b[01;34mmono.addins\u001b[0m       \u001b[01;34mplank\u001b[0m           \u001b[01;34mSpeedCrunch\u001b[0m     Trolltech.conf    \u001b[01;34mxmms2\u001b[0m\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[01;34mautostart\u001b[0m              \u001b[01;34mClementine\u001b[0m  \u001b[01;34mepdfview\u001b[0m        \u001b[01;34mgconf\u001b[0m    \u001b[01;34mlibreoffice\u001b[0m    \u001b[01;34mnetwmpager\u001b[0m        \u001b[01;34mpulse\u001b[0m           \u001b[01;34msublime-text-2\u001b[0m  \u001b[01;34munity3d\u001b[0m           \u001b[01;34mxnoise\u001b[0m\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[01;34mawesome\u001b[0m                \u001b[01;34mconky\u001b[0m       \u001b[01;34mFacebook\u001b[0m        \u001b[01;34mgthumb\u001b[0m   \u001b[01;34mlxmusic\u001b[0m        \u001b[01;34mnitrogen\u001b[0m          QtProject.conf  \u001b[01;34msunflower\u001b[0m       user-dirs.dirs\r\n"
+    ],
+    [
+      0.000040,
+      "\u001b[01;34mCanon2.com\u001b[0m             \u001b[01;34mCorel\u001b[0m       \u001b[01;34mfbpanel\u001b[0m         \u001b[01;34mgtk-2.0\u001b[0m  \u001b[01;34mlxpanel\u001b[0m        \u001b[01;34mobmenu-generator\u001b[0m  \u001b[01;34mristretto\u001b[0m       \u001b[01;34mterminator\u001b[0m      user-dirs.locale\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[01;34mcantata\u001b[0m                \u001b[01;34mdconf\u001b[0m       \u001b[01;34mfish\u001b[0m            \u001b[01;34mgtk-3.0\u001b[0m  \u001b[01;34mmenus\u001b[0m          \u001b[01;34mopenbox\u001b[0m           \u001b[01;34msmplayer\u001b[0m        \u001b[01;34mThunar\u001b[0m          volwheel\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[01;34mchrome-remote-desktop\u001b[0m  \u001b[01;34mdeluge\u001b[0m      \u001b[01;34mFlavio Tordini\u001b[0m  \u001b[01;34mhotkeys\u001b[0m  mimeapps.list  \u001b[01;34mPinta\u001b[0m             \u001b[01;34mspacefm\u001b[0m         \u001b[01;34mtint2\u001b[0m           \u001b[01;34mxfce4\u001b[0m\r\n"
+    ],
+    [
+      0.000949,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                     \r \r\u001b]2;sigma@sigmaLinux: ~/.config\u0007\u001b]1;~/.config\u0007"
+    ],
+    [
+      0.080419,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m sigma@sigmaLinux \u001b[44m\u001b[30m\u001b[30m ~/.config \u001b[49m\u001b[34m\u001b[39m "
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000042,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.235830,
+      "c"
+    ],
+    [
+      0.063721,
+      "\u0008cd"
+    ],
+    [
+      0.098868,
+      " "
+    ],
+    [
+      0.725382,
+      "o"
+    ],
+    [
+      0.103792,
+      "p"
+    ],
+    [
+      0.080160,
+      "e"
+    ],
+    [
+      0.169400,
+      "nbox\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.391813,
+      "\u0008\u001b[0m \u0008\u001b[?1l\u001b\u003e\r\r\n\u001b]2;cd openbox\u0007\u001b]1;cd\u0007\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                     \r \r\u001b]2;sigma@sigmaLinux: ~/.config/openbox\u0007\u001b]1;..onfig/openbox\u0007"
+    ],
+    [
+      0.094041,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m sigma@sigmaLinux \u001b[44m\u001b[30m\u001b[30m ~/.config/openbox \u001b[49m\u001b[34m\u001b[39m "
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000039,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.224459,
+      "l"
+    ],
+    [
+      0.080342,
+      "\u0008ls"
+    ],
+    [
+      1.945007,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;ls --color=tty\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.001089,
+      "autostart  menu.xml  rc.xml  rc.xml~\r\n"
+    ],
+    [
+      0.000548,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                     \r \r\u001b]2;sigma@sigmaLinux: ~/.config/openbox\u0007\u001b]1;..onfig/openbox\u0007"
+    ],
+    [
+      0.079397,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m sigma@sigmaLinux \u001b[44m\u001b[30m\u001b[30m ~/.config/openbox \u001b[49m\u001b[34m\u001b[39m "
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000037,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.389546,
+      "c"
+    ],
+    [
+      0.183933,
+      "\u0008ca"
+    ],
+    [
+      0.096152,
+      "t"
+    ],
+    [
+      0.088053,
+      " "
+    ],
+    [
+      0.119917,
+      "a"
+    ],
+    [
+      0.135954,
+      "u"
+    ],
+    [
+      0.338877,
+      "tostart\u001b[1m \u001b[0m"
+    ],
+    [
+      0.437920,
+      "\u0008\u001b[0m \u0008\u001b[?1l\u001b\u003e\r\r\n\u001b]2;cat autostart\u0007\u001b]1;cat\u0007"
+    ],
+    [
+      0.010816,
+      "#!/bin/bash\r\n\r\nsetxkbmap latam \u0026\r\nsynapse -s \u0026\r\nnitrogen --restore \u0026\r\nxfce4-panel \u0026\r\n/opt/urserver/urserver --daemon \u0026\r\ntelegram \u0026\r\nterminator -f \u0026\r\n"
+    ],
+    [
+      0.000954,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                     \r \r\u001b]2;sigma@sigmaLinux: ~/.config/openbox\u0007\u001b]1;..onfig/openbox\u0007"
+    ],
+    [
+      0.109485,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m sigma@sigmaLinux \u001b[44m\u001b[30m\u001b[30m ~/.config/openbox \u001b[49m\u001b[34m\u001b[39m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      5.534261,
+      "l"
+    ],
+    [
+      0.063456,
+      "\u0008ls"
+    ],
+    [
+      0.079858,
+      " "
+    ],
+    [
+      0.207844,
+      "-"
+    ],
+    [
+      0.424090,
+      "l"
+    ],
+    [
+      0.360529,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;ls --color=tty -l\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.004712,
+      "total 60\r\n-rw-r--r-- 1 sigma users   140 Mar 20 01:42 autostart\r\n-rw-r--r-- 1 sigma users   164 Feb  6 11:06 menu.xml\r\n-rw-r--r-- 1 sigma  1000 24778 Mar 20 01:25 rc.xml\r\n-rw-r--r-- 1 sigma users 24234 Feb 16 05:37 rc.xml~\r\n"
+    ],
+    [
+      0.000575,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                     \r \r\u001b]2;sigma@sigmaLinux: ~/.config/openbox\u0007\u001b]1;..onfig/openbox\u0007"
+    ],
+    [
+      0.080687,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m sigma@sigmaLinux \u001b[44m\u001b[30m\u001b[30m ~/.config/openbox \u001b[49m\u001b[34m\u001b[39m "
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000038,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      4.722118,
+      "\""
+    ],
+    [
+      0.719352,
+      "\u0008\"t"
+    ],
+    [
+      0.119762,
+      "h"
+    ],
+    [
+      0.056147,
+      "i"
+    ],
+    [
+      0.087860,
+      "s"
+    ],
+    [
+      0.135800,
+      " "
+    ],
+    [
+      0.120231,
+      "i"
+    ],
+    [
+      0.104124,
+      "s"
+    ],
+    [
+      0.095901,
+      " "
+    ],
+    [
+      1.184046,
+      "n"
+    ],
+    [
+      0.151966,
+      "o"
+    ],
+    [
+      0.063977,
+      "t"
+    ],
+    [
+      0.135717,
+      " "
+    ],
+    [
+      0.136338,
+      "a"
+    ],
+    [
+      0.079839,
+      " "
+    ],
+    [
+      0.919875,
+      "c"
+    ],
+    [
+      0.079958,
+      "o"
+    ],
+    [
+      0.152332,
+      "m"
+    ],
+    [
+      0.143716,
+      "m"
+    ],
+    [
+      0.120141,
+      "a"
+    ],
+    [
+      0.080026,
+      "n"
+    ],
+    [
+      0.127859,
+      "d"
+    ],
+    [
+      0.304300,
+      "\""
+    ],
+    [
+      0.376450,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;\"this is not a command\"\u0007\u001b]1;\"this\u0007"
+    ],
+    [
+      0.001191,
+      "zsh: command not found: this is not a command\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                     \r \r\u001b]2;sigma@sigmaLinux: ~/.config/openbox\u0007\u001b]1;..onfig/openbox\u0007"
+    ],
+    [
+      0.077187,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m \u001b[31m✘\u001b[40m\u001b[39m sigma@sigmaLinux \u001b[44m\u001b[30m\u001b[30m ~/.config/openbox \u001b[49m\u001b[34m\u001b[39m "
+    ],
+    [
+      0.000011,
+      "\u001b[K"
+    ],
+    [
+      0.000036,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.776936,
+      "e"
+    ],
+    [
+      0.215978,
+      "\u0008ec"
+    ],
+    [
+      0.103778,
+      "h"
+    ],
+    [
+      0.079876,
+      "o"
+    ],
+    [
+      0.328192,
+      " "
+    ],
+    [
+      0.200936,
+      "\""
+    ],
+    [
+      0.991000,
+      "m"
+    ],
+    [
+      0.079983,
+      "e"
+    ],
+    [
+      0.119983,
+      " "
+    ],
+    [
+      0.095883,
+      "e"
+    ],
+    [
+      0.104032,
+      "n"
+    ],
+    [
+      0.120089,
+      "c"
+    ],
+    [
+      0.184130,
+      "a"
+    ],
+    [
+      0.080020,
+      "n"
+    ],
+    [
+      0.264045,
+      "t"
+    ],
+    [
+      0.215766,
+      "a"
+    ],
+    [
+      0.143979,
+      " "
+    ],
+    [
+      0.456142,
+      "e"
+    ],
+    [
+      0.879813,
+      "\u0008 \u0008"
+    ],
+    [
+      0.687826,
+      "\u0008"
+    ],
+    [
+      0.560207,
+      " "
+    ],
+    [
+      0.136277,
+      "e"
+    ],
+    [
+      0.079907,
+      "l"
+    ],
+    [
+      0.103623,
+      " "
+    ],
+    [
+      0.360172,
+      "i"
+    ],
+    [
+      0.143839,
+      "n"
+    ],
+    [
+      0.080114,
+      "d"
+    ],
+    [
+      0.104108,
+      "i"
+    ],
+    [
+      0.079698,
+      "c"
+    ],
+    [
+      0.184232,
+      "a"
+    ],
+    [
+      0.151835,
+      "d"
+    ],
+    [
+      0.080135,
+      "o"
+    ],
+    [
+      0.080110,
+      "r"
+    ],
+    [
+      0.127615,
+      " "
+    ],
+    [
+      0.056299,
+      "d"
+    ],
+    [
+      0.104010,
+      "e"
+    ],
+    [
+      0.055714,
+      " "
+    ],
+    [
+      0.400036,
+      "e"
+    ],
+    [
+      0.160328,
+      "r"
+    ],
+    [
+      0.143664,
+      "r"
+    ],
+    [
+      0.120472,
+      "o"
+    ],
+    [
+      0.103613,
+      "r"
+    ],
+    [
+      0.512179,
+      "\""
+    ],
+    [
+      0.375874,
+      "\u0008"
+    ],
+    [
+      0.661397,
+      "\u0008"
+    ],
+    [
+      0.040058,
+      "\u0008"
+    ],
+    [
+      0.040391,
+      "\u0008"
+    ],
+    [
+      0.040108,
+      "\u0008"
+    ],
+    [
+      0.040565,
+      "\u0008"
+    ],
+    [
+      0.042816,
+      "\u0008"
+    ],
+    [
+      0.037547,
+      "\u0008"
+    ],
+    [
+      0.039978,
+      "\u0008"
+    ],
+    [
+      0.039936,
+      "\u0008"
+    ],
+    [
+      0.041095,
+      "\u0008"
+    ],
+    [
+      0.040898,
+      "\u0008"
+    ],
+    [
+      0.040397,
+      "\u0008"
+    ],
+    [
+      0.040744,
+      "\u0008"
+    ],
+    [
+      0.040296,
+      "\u0008"
+    ],
+    [
+      0.040474,
+      "\u0008"
+    ],
+    [
+      0.039904,
+      "\u0008"
+    ],
+    [
+      0.039950,
+      "\u0008"
+    ],
+    [
+      0.040098,
+      "\u0008"
+    ],
+    [
+      0.039632,
+      "\u0008"
+    ],
+    [
+      0.039721,
+      "\u0008"
+    ],
+    [
+      0.040510,
+      "\u0008"
+    ],
+    [
+      0.039719,
+      "\u0008"
+    ],
+    [
+      0.040534,
+      "\u0008"
+    ],
+    [
+      0.039417,
+      "\u0008"
+    ],
+    [
+      0.040462,
+      "\u0008"
+    ],
+    [
+      0.039872,
+      "\u0008"
+    ],
+    [
+      0.040436,
+      "\u0008"
+    ],
+    [
+      0.040892,
+      "\u0008"
+    ],
+    [
+      0.040441,
+      "\u0008"
+    ],
+    [
+      0.040302,
+      "\u0008"
+    ],
+    [
+      0.039390,
+      "\u0008"
+    ],
+    [
+      0.211716,
+      "\u0008"
+    ],
+    [
+      0.976226,
+      " me encanta el indicador de error\"\u001b[33D"
+    ],
+    [
+      0.439840,
+      "\u0008"
+    ],
+    [
+      0.608264,
+      "¨ me encanta el indicador de error\"\u001b[34D"
+    ],
+    [
+      0.919705,
+      "\u0008\u001b[P\u001b[34C \u001b[35D"
+    ],
+    [
+      0.608033,
+      "^ me encanta el indicador de error\"\u001b[34D"
+    ],
+    [
+      0.511707,
+      "\u0008\u001b[P\u001b[34C \u001b[35D"
+    ],
+    [
+      0.928452,
+      "î me encanta el indicador de error\"\u001b[34D"
+    ],
+    [
+      1.289160,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;echo \"î me encanta el indicador de error\"\u0007\u001b]1;echo\u0007î me encanta el indicador de error\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                     \r \r\u001b]2;sigma@sigmaLinux: ~/.config/openbox\u0007\u001b]1;..onfig/openbox\u0007"
+    ],
+    [
+      0.092835,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m sigma@sigmaLinux \u001b[44m\u001b[30m\u001b[30m ~/.config/openbox \u001b[49m\u001b[34m\u001b[39m "
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000125,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.537634,
+      "e"
+    ],
+    [
+      0.223999,
+      "\u0008ex"
+    ],
+    [
+      0.143680,
+      "i"
+    ],
+    [
+      0.120116,
+      "t"
+    ],
+    [
+      0.177553,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;exit\u0007\u001b]1;exit\u0007"
+    ]
+  ]
+}
