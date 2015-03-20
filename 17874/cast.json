@@ -1,0 +1,174 @@
+{
+  "version": 1,
+  "width": 101,
+  "height": 31,
+  "duration": 18.418721,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.019163,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000013,
+      "bash-3.2$ "
+    ],
+    [
+      2.860277,
+      "l"
+    ],
+    [
+      0.097842,
+      "s"
+    ],
+    [
+      0.103124,
+      "\r\n"
+    ],
+    [
+      0.007237,
+      "Applications\t\t\tMovies\t\t\t\tWork\r\nApplications (Parallels)\tMusic\t\t\t\tXfqEQM\r\n"
+    ],
+    [
+      0.000015,
+      "Desktop\t\t\t\tPhpstormProjects\t\thz\r\nDocuments\t\t\tPictures\t\t\tkeygen_osx\r\nDownloads\t\t\tProjects\t\t\tsvyaznoy.sublime-project\r\nDropbox\t\t\t\tPublic\t\t\t\tsvyaznoy.sublime-workspace\r\nLibrary\t\t\t\tVirtualBox VMs\r\n"
+    ],
+    [
+      0.000554,
+      "bash-3.2$ "
+    ],
+    [
+      2.903694,
+      "c"
+    ],
+    [
+      0.095780,
+      "a"
+    ],
+    [
+      0.499638,
+      "t"
+    ],
+    [
+      0.156645,
+      " "
+    ],
+    [
+      0.183510,
+      "/"
+    ],
+    [
+      0.079648,
+      "e"
+    ],
+    [
+      0.072477,
+      "t"
+    ],
+    [
+      0.144197,
+      "c"
+    ],
+    [
+      0.864186,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.169522,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.158367,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.151825,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.656225,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.167505,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.144537,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.167579,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.175900,
+      "\u0007"
+    ],
+    [
+      1.679900,
+      "l"
+    ],
+    [
+      0.096123,
+      "s"
+    ],
+    [
+      0.128048,
+      "\r\n"
+    ],
+    [
+      0.005547,
+      "Applications\t\t\tMovies\t\t\t\tWork\r\nApplications (Parallels)\tMusic\t\t\t\tXfqEQM\r\nDesktop\t\t\t\tPhpstormProjects\t\thz\r\nDocuments\t\t\tPictures\t\t\tkeygen_osx\r\nDownloads\t\t\tProjects\t\t\tsvyaznoy.sublime-project\r\nDropbox\t\t\t\tPublic\t\t\t\tsvyaznoy.sublime-workspace\r\nLibrary\t\t\t\tVirtualBox VMs\r\n"
+    ],
+    [
+      0.000370,
+      "bash-3.2$ "
+    ],
+    [
+      3.697806,
+      "u"
+    ],
+    [
+      0.160602,
+      "p"
+    ],
+    [
+      0.295966,
+      "t"
+    ],
+    [
+      0.159112,
+      "i"
+    ],
+    [
+      0.216212,
+      "m"
+    ],
+    [
+      0.080551,
+      "e"
+    ],
+    [
+      0.136435,
+      "\r\n"
+    ],
+    [
+      0.007660,
+      "22:08  up 3 days, 13:36, 5 users, load averages: 3,04 2,71 2,55\r\n"
+    ],
+    [
+      0.000543,
+      "bash-3.2$ "
+    ],
+    [
+      1.872190,
+      "exit\r\n"
+    ]
+  ]
+}
