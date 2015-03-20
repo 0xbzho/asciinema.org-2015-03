@@ -1,0 +1,182 @@
+{
+  "version": 1,
+  "width": 99,
+  "height": 28,
+  "duration": 16.538518,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.008997,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000008,
+      "bash-3.2$ "
+    ],
+    [
+      4.085996,
+      "l"
+    ],
+    [
+      0.112376,
+      "s"
+    ],
+    [
+      0.101426,
+      "\r\n"
+    ],
+    [
+      0.005457,
+      "file_list.py\t\tlarge_gig.log\t\tlong.py\t\t\ttm\r\nfoo.txt\t\t\tlarge_testfile.log\trequirements\r\nfunc_call.py\t\tlogs\t\t\ts3_cli.py\r\n"
+    ],
+    [
+      0.000315,
+      "bash-3.2$ "
+    ],
+    [
+      2.356704,
+      "ls"
+    ],
+    [
+      0.168791,
+      "\u0008\u0008ssh isharief@mason.indiana.edu"
+    ],
+    [
+      0.157498,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008odin.cs.indiana.edu"
+    ],
+    [
+      0.483900,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[2Pmason.indiana.edu"
+    ],
+    [
+      0.483916,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008silo.cs.indiana.edu"
+    ],
+    [
+      0.281105,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[10Ppython s3_cli.py -v -l"
+    ],
+    [
+      0.247597,
+      " -sf 0"
+    ],
+    [
+      1.721127,
+      "\r\n"
+    ],
+    [
+      0.267822,
+      "2015-03-20 14:32:31,982 WARNING: Python version greater than 2.7.6, patching...\r\n"
+    ],
+    [
+      0.000093,
+      "2015-03-20 14:32:31,982 INFO: Connecting to s3...\r\n"
+    ],
+    [
+      1.537693,
+      "2015-03-20 14:32:33,519 INFO: Connected!\r\n"
+    ],
+    [
+      0.147846,
+      "28 files Have been found.\r\nTo improve display we have divided the listing into pages \t\t\t\t\t\t                .\r\n"
+    ],
+    [
+      0.000007,
+      "3 pages have been generated. Please use the '-sf' command \t\t\t\t\t                    with a page number to see your files\r\n"
+    ],
+    [
+      0.000092,
+      "2015-03-20 14:32:33,667 INFO: Displaying Page 1 of 3 \r\n"
+    ],
+    [
+      0.000063,
+      "Files formatted as: \r\n\t Name                 Size        Lastmodified              Owner      Version_ID   Etag                             \r\n \t\t                                \r\n"
+    ],
+    [
+      0.000753,
+      "\t 10.json              12.0B       2015-02-16 19:04:31       None        None        9893532233caff98cd083a116b013c0b\r\n"
+    ],
+    [
+      0.000055,
+      "\t 15.json              12.0B       2015-02-16 19:04:31       None        None        9893532233caff98cd083a116b013c0b\r\n"
+    ],
+    [
+      0.000038,
+      "\t 16.json              12.0B       2015-02-16 19:04:31       None        None        9893532233caff98cd083a116b013c0b\r\n"
+    ],
+    [
+      0.000038,
+      "\t 17.json              12.0B       2015-02-16 19:04:31       None        None        9893532233caff98cd083a116b013c0b\r\n"
+    ],
+    [
+      0.000035,
+      "\t 18.json              12.0B       2015-02-16 19:04:31       None        None        9893532233caff98cd083a116b013c0b\r\n"
+    ],
+    [
+      0.000035,
+      "\t 2.json               12.0B       2015-02-16 18:14:48       None        None        9893532233caff98cd083a116b013c0b\r\n"
+    ],
+    [
+      0.000027,
+      "\t 21.json              12.0B       2015-02-16 19:04:31       None        None        9893532233caff98cd083a116b013c0b\r\n"
+    ],
+    [
+      0.000032,
+      "\t 3.json               12.0B       2015-02-16 18:14:48       None        None        9893532233caff98cd083a116b013c0b\r\n"
+    ],
+    [
+      0.000032,
+      "\t 31.json              12.0B       2015-02-16 19:04:31       None        None        9893532233caff98cd083a116b013c0b\r\n"
+    ],
+    [
+      0.000037,
+      "\t 4.json               12.0B       2015-02-16 18:14:48       None        None        9893532233caff98cd083a116b013c0b\r\n\r\n"
+    ],
+    [
+      0.000004,
+      "Folders (full path): \r\n\ttest_folder/\r\n"
+    ],
+    [
+      0.000011,
+      "\tne_folder/\r\n\tlogs/\r\n\tnew_folder/\r\n"
+    ],
+    [
+      0.000047,
+      "2015-03-20 14:32:33,669 INFO: Process Complete\r\n"
+    ],
+    [
+      0.007456,
+      "bash-3.2$ "
+    ],
+    [
+      3.178946,
+      "e"
+    ],
+    [
+      0.180061,
+      "x"
+    ],
+    [
+      0.191357,
+      "i"
+    ],
+    [
+      0.157444,
+      "t"
+    ],
+    [
+      0.651989,
+      "\r\n"
+    ],
+    [
+      0.000124,
+      "exit\r\n"
+    ]
+  ]
+}
