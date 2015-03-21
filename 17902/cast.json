@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 11.142273,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.040701,
+      "\u001b]0;orepas@oreUbuntu: ~\u0007orepas@oreUbuntu:~$ "
+    ],
+    [
+      6.047474,
+      "s"
+    ],
+    [
+      0.134868,
+      "l"
+    ],
+    [
+      0.050549,
+      "ds"
+    ],
+    [
+      0.184089,
+      "d"
+    ],
+    [
+      0.001238,
+      "ls"
+    ],
+    [
+      0.169622,
+      "ds"
+    ],
+    [
+      0.332206,
+      "\r\n"
+    ],
+    [
+      0.072756,
+      "sldsdlsds: command not found"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.010172,
+      "\u001b]0;orepas@oreUbuntu: ~\u0007orepas@oreUbuntu:~$ "
+    ],
+    [
+      0.119971,
+      "\r\n\u001b]0;orepas@oreUbuntu: ~\u0007orepas@oreUbuntu:~$ "
+    ],
+    [
+      0.180110,
+      "\r\n\u001b]0;orepas@oreUbuntu: ~\u0007orepas@oreUbuntu:~$ "
+    ],
+    [
+      0.162592,
+      "\r\n\u001b]0;orepas@oreUbuntu: ~\u0007orepas@oreUbuntu:~$ "
+    ],
+    [
+      0.158427,
+      "\r\n\u001b]0;orepas@oreUbuntu: ~\u0007orepas@oreUbuntu:~$ "
+    ],
+    [
+      0.175792,
+      "\r\n\u001b]0;orepas@oreUbuntu: ~\u0007orepas@oreUbuntu:~$ "
+    ],
+    [
+      0.168153,
+      "\r\n\u001b]0;orepas@oreUbuntu: ~\u0007orepas@oreUbuntu:~$ "
+    ],
+    [
+      0.184338,
+      "\r\n\u001b]0;orepas@oreUbuntu: ~\u0007orepas@oreUbuntu:~$ "
+    ],
+    [
+      0.159595,
+      "\r\n"
+    ],
+    [
+      0.000078,
+      "\u001b]0;orepas@oreUbuntu: ~\u0007orepas@oreUbuntu:~$ "
+    ],
+    [
+      0.191397,
+      "\r\n\u001b]0;orepas@oreUbuntu: ~\u0007orepas@oreUbuntu:~$ "
+    ],
+    [
+      2.597726,
+      "exit\r\n"
+    ]
+  ]
+}
