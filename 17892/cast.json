@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "width": 111,
+  "height": 24,
+  "duration": 8.316811,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.444194,
+      "\u001b]0;pravj@pravj-machine: ~/go/src/github.com/pravj/puzzl\u0007pravj@pravj-machine:~/go/src/github.com/pravj/puzzl$ "
+    ],
+    [
+      4.231392,
+      "l"
+    ],
+    [
+      0.120698,
+      "s"
+    ],
+    [
+      0.180157,
+      "\r\n"
+    ],
+    [
+      0.003349,
+      "\u001b[0m\u001b[01;34mboard\u001b[0m  log.txt  main.go  \u001b[01;34mnotification\u001b[0m  save.txt  \u001b[01;34mscanner\u001b[0m  \u001b[01;34mscore\u001b[0m  \u001b[01;34msolver\u001b[0m  \u001b[01;34msurface\u001b[0m  \u001b[01;34mutils\u001b[0m\r\n"
+    ],
+    [
+      0.001616,
+      "\u001b]0;pravj@pravj-machine: ~/go/src/github.com/pravj/puzzl\u0007pravj@pravj-machine:~/go/src/github.com/pravj/puzzl$ "
+    ],
+    [
+      2.213074,
+      "e"
+    ],
+    [
+      0.081008,
+      "x"
+    ],
+    [
+      0.623091,
+      "i"
+    ],
+    [
+      0.172151,
+      "t"
+    ],
+    [
+      0.243408,
+      "\r\n"
+    ],
+    [
+      0.000132,
+      "exit"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ]
+  ]
+}
