@@ -1,0 +1,126 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 14.158494,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.034309,
+      "\u001b]0;adam@adamn8880: ~\u0007adam@adamn8880:~$ "
+    ],
+    [
+      4.828604,
+      "c"
+    ],
+    [
+      0.060542,
+      "d"
+    ],
+    [
+      0.095021,
+      " "
+    ],
+    [
+      0.149917,
+      "W"
+    ],
+    [
+      0.187217,
+      "eb/"
+    ],
+    [
+      0.420840,
+      "a"
+    ],
+    [
+      0.093466,
+      "d"
+    ],
+    [
+      0.151700,
+      "amnicholson/"
+    ],
+    [
+      0.812959,
+      "f"
+    ],
+    [
+      0.092835,
+      "l"
+    ],
+    [
+      0.130669,
+      "atbase/"
+    ],
+    [
+      0.709915,
+      "\r\n\u001b]0;adam@adamn8880: ~/Web/adamnicholson/flatbase\u0007adam@adamn8880:~/Web/adamnicholson/flatbase$ "
+    ],
+    [
+      1.320979,
+      "l"
+    ],
+    [
+      0.122705,
+      "l"
+    ],
+    [
+      0.090718,
+      "\r\n"
+    ],
+    [
+      0.025082,
+      "total 108\r\ndrwxrwxr-x  8 adam adam  4096 Mar 21 13:03 \u001b[0m\u001b[01;34m.\u001b[0m/\r\ndrwxrwxr-x 12 adam adam  4096 Feb 15 18:36 \u001b[01;34m..\u001b[0m/\r\ndrwxrwxr-x  3 adam adam  4096 Feb 23 23:26 \u001b[01;34mbenchmarks\u001b[0m/\r\n-rw-rw-r--  1 adam adam   720 Mar 21 13:07 composer.json\r\n-rw-rw-r--  1 adam adam 40630 Mar 21 13:07 composer.lock\r\n-rwxrwxr-x  1 adam adam   969 Mar 21 13:03 \u001b[01;32mflatbase\u001b[0m*\r\n-rw-rw-r--  1 adam adam    32 Mar 19 19:03 flatbase.json\r\ndrwxrwxr-x  8 adam adam  4096 Mar 21 13:18 \u001b[01;34m.git\u001b[0m/\r\n-rw-rw-r--  1 adam adam    70 Jan 17 11:45 .gitignore\r\ndrwxrwxr-x  3 adam adam  4096 Mar 21 13:20 \u001b[01;34m.idea\u001b[0m/\r\n-rw-rw-r--  1 adam adam  1077 Feb 23 23:55 LICENSE.txt\r\n-rw-rw-r--  1 adam adam   554 Mar 21 12:11 phpunit.xml\r\n-rw-rw-r--  1 adam adam  5306 Mar 18 21:28 README.md\r\ndrwxrwxr-x  6 adam adam  4096 Mar 18 23:32 \u001b[01;34msrc\u001b[0m/\r\ndrwxrwxr-x  4 adam adam  4096 Mar 19 19:44 \u001b[01;34mtests\u001b[0m/\r\n-rw-rw-r--  1 adam adam   145 Jan 14 20:04 .travis.yml\r\ndrwxrwxr-x 12 adam adam  4096 Mar 21 13:07 \u001b[01;34mvendor\u001b[0m/\r\n"
+    ],
+    [
+      0.000427,
+      "\u001b]0;adam@adamn8880: ~/Web/adamnicholson/flatbase\u0007adam@adamn8880:~/Web/adamnicholson/flatbase$ "
+    ],
+    [
+      2.737070,
+      "e"
+    ],
+    [
+      0.304877,
+      "x"
+    ],
+    [
+      0.481810,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.152342,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.152201,
+      "\u0007"
+    ],
+    [
+      0.122706,
+      "\u0007"
+    ],
+    [
+      0.152440,
+      "\u0007"
+    ],
+    [
+      0.152349,
+      "\u0007"
+    ],
+    [
+      0.155643,
+      "\u0007"
+    ],
+    [
+      0.419014,
+      "exit\r\n"
+    ]
+  ]
+}
