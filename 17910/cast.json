@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 10.378639,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.065411,
+      "\u001b[01;32mjacob@jacob\u001b[01;34m ~ $\u001b[00m "
+    ],
+    [
+      3.767097,
+      "h"
+    ],
+    [
+      0.199542,
+      "e"
+    ],
+    [
+      0.231194,
+      "l"
+    ],
+    [
+      0.144360,
+      "l"
+    ],
+    [
+      0.151478,
+      "o"
+    ],
+    [
+      0.707229,
+      "\r\n"
+    ],
+    [
+      0.120266,
+      "The program 'hello' can be found in the following packages:\r\n * hello\r\n"
+    ],
+    [
+      0.000015,
+      " * hello-debhelper\r\nTry: sudo apt-get install \u003cselected package\u003e\r\n"
+    ],
+    [
+      0.012312,
+      "\u001b[01;32mjacob@jacob\u001b[01;34m ~ $\u001b[00m "
+    ],
+    [
+      4.205614,
+      "e"
+    ],
+    [
+      0.287440,
+      "x"
+    ],
+    [
+      0.161586,
+      "i"
+    ],
+    [
+      0.177683,
+      "t"
+    ],
+    [
+      0.145988,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
