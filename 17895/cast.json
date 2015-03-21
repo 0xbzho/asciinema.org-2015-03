@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "width": 111,
+  "height": 24,
+  "duration": 44.227351,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.099562,
+      "\u001b]0;pravj@pravj-machine: ~/go/src/github.com/pravj/puzzl\u0007pravj@pravj-machine:~/go/src/github.com/pravj/puzzl$ "
+    ],
+    [
+      1.109700,
+      "p"
+    ],
+    [
+      0.102165,
+      "u"
+    ],
+    [
+      0.113732,
+      "a"
+    ],
+    [
+      0.289949,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.072907,
+      "z"
+    ],
+    [
+      0.205646,
+      "zl "
+    ],
+    [
+      0.306863,
+      "\r\n"
+    ],
+    [
+      0.006019,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.000031,
+      "\u001b[?25l\u001b[H\u001b[2J"
+    ],
+    [
+      0.000040,
+      "\u001b[?1000l"
+    ],
+    [
+      0.001003,
+      "\u001b(B\u001b[m\u001b[44m\u001b[5;41H┌─────────────────────────────────┐\u001b[6;41H│\u001b(B\u001b[m\u001b[46mWelcome to the game Puzzl!       \u001b(B\u001b[m\u001b[44m│\u001b[7;41H└─────────────────────────────────┘\u001b(B\u001b[m\u001b[46m\u001b[8;41H┌─────┐┌─────┐┌─────┐ \u001b(B\u001b[m\u001b[43mGAME SCORE  \u001b(B\u001b[m\u001b[46m \u001b[9;41H│\u001b(B\u001b[m\u001b[44m  2  \u001b(B\u001b[m\u001b[46m││\u001b(B\u001b[m\u001b[44m  5  \u001b(B\u001b[m\u001b[46m││\u001b(B\u001b[m\u001b[44m  3  \u001b(B\u001b[m\u001b[46m││\u001b(B\u001b[m\u001b[45m0           \u001b(B\u001b[m\u001b[46m│\u001b[10;41H└─────┘└─────┘└─────┘│────────────│\u001b[11;41H┌─────┐┌─────┐┌─────┐│\u001b(B\u001b[m\u001b[43mPLAYER MOVES\u001b(B\u001b[m\u001b[46m│\u001b[12;41H│\u001b(B\u001b[m\u001b[44m  1  \u001b(B\u001b[m\u001b[46m││\u001b(B\u001b[m\u001b[44m  7  \u001b(B\u001b[m\u001b[46m││\u001b(B\u001b[m\u001b[41m  0  \u001b(B\u001b[m\u001b[46m││\u001b(B\u001b[m\u001b[45m0           \u001b(B\u001b[m\u001b[46m│\u001b[13;41H└─────┘└─────┘└─────┘│────────────│\u001b[14;41H┌─────┐┌─────┐┌─────┐│\u001b(B\u001b[m\u001b[43mSOLVABLE IN \u001b(B\u001b[m\u001b[46m│\u001b[15;41H│\u001b(B\u001b[m\u001b[44m  4  \u001b(B\u001b[m\u001b[46m││\u001b(B\u001b[m\u001b[44m  8  \u001b(B\u001b[m\u001b[46m││\u001b(B\u001b[m\u001b[44m  6  \u001b(B\u001b[m\u001b[46m││\u001b(B\u001b[m\u001b[45m9           \u001b(B\u001b[m\u001b[46m│\u001b[16;41H└─────┘└─────┘└─────┘└────────────┘"
+    ],
+    [
+      5.212870,
+      "\u001b(B\u001b[m\u001b[41m\u001b[6;42HUnable to move there             "
+    ],
+    [
+      2.229139,
+      "\u001b(B\u001b[m\u001b[42m\u001b[6;42HWoot! Right Move                 \u001b(B\u001b[m\u001b[45m\u001b[9;63H1\u001b(B\u001b[m\u001b[44m\u001b[12;56H  6  \u001b(B\u001b[m\u001b[45m\u001b[12;63H1\u001b(B\u001b[m\u001b[41m\u001b[15;56H  0  \u001b(B\u001b[m\u001b[45m\u001b[15;63H8"
+    ],
+    [
+      1.734218,
+      "\u001b[12;63H2\u001b(B\u001b[m\u001b[41m\u001b[15;49H  0  \u001b(B\u001b[m\u001b[44m\u001b[15;56H  8  \u001b(B\u001b[m\u001b[45m\u001b[15;63H7"
+    ],
+    [
+      3.225529,
+      "\u001b(B\u001b[m\u001b[46m\u001b[6;42HHint #1 - move up side           "
+    ],
+    [
+      1.127388,
+      "\u001b(B\u001b[m\u001b[42m\u001b[6;42HWoot! Right Move                 \u001b(B\u001b[m\u001b[41m\u001b[12;49H  0  \u001b(B\u001b[m\u001b[45m\u001b[12;63H3\u001b(B\u001b[m\u001b[44m\u001b[15;49H  7  \u001b(B\u001b[m\u001b[45m\u001b[15;63H6"
+    ],
+    [
+      8.171796,
+      "\u001b(B\u001b[m\u001b[41m\u001b[6;42HOops! Wrong Move                 \u001b(B\u001b[m\u001b[45m\u001b[9;63H0.5\u001b(B\u001b[m\u001b[41m\u001b[12;42H  0  \u001b(B\u001b[m\u001b[44m\u001b[12;49H  1  \u001b(B\u001b[m\u001b[45m\u001b[12;63H4"
+    ],
+    [
+      0.006221,
+      "\u001b(B\u001b[m\u001b[42m\u001b[6;42HOK! You can play now             \u001b(B\u001b[m\u001b[45m\u001b[15;63H7"
+    ],
+    [
+      2.496198,
+      "\u001b(B\u001b[m\u001b[42m\u001b[6;42HWoot! Right\u001b[6;54HMove\u001b[6;59H   \u001b(B\u001b[m\u001b[45m\u001b[9;65H6\u001b(B\u001b[m\u001b[44m\u001b[12;42H  1  \u001b(B\u001b[m\u001b[41m\u001b[12;49H  0  \u001b(B\u001b[m\u001b[45m\u001b[12;63H5\u001b[15;63H6"
+    ],
+    [
+      1.667808,
+      "\u001b(B\u001b[m\u001b[41m\u001b[9;49H  0  \u001b(B\u001b[m\u001b[45m\u001b[9;66H66\u001b(B\u001b[m\u001b[44m\u001b[12;49H  5  \u001b(B\u001b[m\u001b[45m\u001b[12;63H6\u001b[15;63H5"
+    ],
+    [
+      1.685102,
+      "\u001b(B\u001b[m\u001b[41m\u001b[9;42H  0  \u001b(B\u001b[m\u001b[44m\u001b[9;49H  2  \u001b(B\u001b[m\u001b[45m\u001b[9;65H714\u001b[12;63H7\u001b[15;63H4"
+    ],
+    [
+      0.873589,
+      "\u001b(B\u001b[m\u001b[44m\u001b[9;42H  1  \u001b(B\u001b[m\u001b[45m\u001b[9;66H5 \u001b(B\u001b[m\u001b[41m\u001b[12;42H  0  \u001b(B\u001b[m\u001b[45m\u001b[12;63H8\u001b[15;63H3"
+    ],
+    [
+      0.932548,
+      "\u001b[9;66H77\u001b(B\u001b[m\u001b[44m\u001b[12;42H  4  \u001b(B\u001b[m\u001b[45m\u001b[12;63H9\u001b(B\u001b[m\u001b[41m\u001b[15;42H  0  \u001b(B\u001b[m\u001b[45m\u001b[15;63H2"
+    ],
+    [
+      2.265615,
+      "\u001b[9;65H8  \u001b[12;63H10\u001b(B\u001b[m\u001b[44m\u001b[15;42H  7  \u001b(B\u001b[m\u001b[41m\u001b[15;49H  0  \u001b(B\u001b[m\u001b[45m\u001b[15;63H1"
+    ],
+    [
+      2.048991,
+      "\u001b(B\u001b[m\u001b[46m\u001b[6;42HHint #2 - move right side        "
+    ],
+    [
+      1.046585,
+      "\u001b[6;42HWoo\u001b[6;46H! You\u001b[6;52Hc\u001b[6;54Hmpleted the game\u001b(B\u001b[m\u001b[45m\u001b[9;66H18\u001b[12;64H1\u001b(B\u001b[m\u001b[44m\u001b[15;49H  8  \u001b(B\u001b[m\u001b[41m\u001b[15;56H  0  \u001b(B\u001b[m\u001b[45m\u001b[15;63H0"
+    ],
+    [
+      1.917037,
+      "\u001b(B\u001b[m\u001b[41m\u001b[6;42HPress ESC key to quit            "
+    ],
+    [
+      2.221091,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000062,
+      "\u001b(B\u001b[m\u001b[H\u001b[2J\u001b[?1049l\u001b[?1l\u001b\u003e\u001b[?1000l"
+    ],
+    [
+      0.002044,
+      "\u001b]0;pravj@pravj-machine: ~/go/src/github.com/pravj/puzzl\u0007pravj@pravj-machine:~/go/src/github.com/pravj/puzzl$ "
+    ],
+    [
+      2.595681,
+      "e"
+    ],
+    [
+      0.050779,
+      "x"
+    ],
+    [
+      0.133631,
+      "i"
+    ],
+    [
+      0.162355,
+      "t"
+    ],
+    [
+      0.110828,
+      "\r\n"
+    ],
+    [
+      0.000292,
+      "exit\r\n"
+    ]
+  ]
+}
