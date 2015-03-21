@@ -1,0 +1,670 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 71.944025,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.076973,
+      "\u001b[01;32mjacob@jacob\u001b[01;34m ~ $\u001b[00m "
+    ],
+    [
+      2.246007,
+      "s"
+    ],
+    [
+      0.128717,
+      "u"
+    ],
+    [
+      0.079137,
+      "d"
+    ],
+    [
+      1.063930,
+      "o"
+    ],
+    [
+      0.112055,
+      " "
+    ],
+    [
+      0.445281,
+      "a"
+    ],
+    [
+      0.145497,
+      "p"
+    ],
+    [
+      0.218745,
+      "t"
+    ],
+    [
+      0.166840,
+      "-"
+    ],
+    [
+      0.125533,
+      "g"
+    ],
+    [
+      0.323685,
+      "e"
+    ],
+    [
+      0.227400,
+      "t"
+    ],
+    [
+      0.109422,
+      " "
+    ],
+    [
+      0.174308,
+      "i"
+    ],
+    [
+      0.164755,
+      "n"
+    ],
+    [
+      0.124951,
+      "s"
+    ],
+    [
+      0.250621,
+      "t"
+    ],
+    [
+      0.335645,
+      "a"
+    ],
+    [
+      0.131722,
+      "l"
+    ],
+    [
+      0.158389,
+      "l"
+    ],
+    [
+      0.114151,
+      " "
+    ],
+    [
+      0.221185,
+      "s"
+    ],
+    [
+      0.525430,
+      "s"
+    ],
+    [
+      0.195004,
+      "h"
+    ],
+    [
+      0.378877,
+      "f"
+    ],
+    [
+      0.868251,
+      "a"
+    ],
+    [
+      0.810620,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.129574,
+      "s"
+    ],
+    [
+      0.962855,
+      "\r\n"
+    ],
+    [
+      0.010589,
+      "[sudo] password for jacob: "
+    ],
+    [
+      2.620476,
+      "\r\n"
+    ],
+    [
+      0.025645,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.008156,
+      "\rReading package lists... 100%\r"
+    ],
+    [
+      0.000014,
+      "\rReading package lists... Done\r\r\n"
+    ],
+    [
+      0.007628,
+      "\rBuilding dependency tree... 0%\r\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.053926,
+      "\rBuilding dependency tree... 50%\r\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.305028,
+      "\rBuilding dependency tree       \r\r\n\rReading state information... 0%\r"
+    ],
+    [
+      0.000027,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.003941,
+      "\rReading state information... Done\r\r\n"
+    ],
+    [
+      0.313959,
+      "The following packages were automatically installed and are no longer required:\r\n  gambas3-gb-form gambas3-gb-gtk gambas3-gb-gui gambas3-gb-image\r\n  gambas3-gb-qt4 gambas3-gb-settings gambas3-runtime libqt4-qt3support\r\n"
+    ],
+    [
+      0.000021,
+      "Use 'apt-get autoremove' to remove them.\r\n"
+    ],
+    [
+      0.043641,
+      "The following NEW packages will be installed:\r\n"
+    ],
+    [
+      0.000010,
+      "  sshfs\r\n"
+    ],
+    [
+      0.019095,
+      "0 upgraded, 1 newly installed, 0 to remove and 43 not upgraded.\r\n"
+    ],
+    [
+      0.012688,
+      "Need to get 0 B/41.7 kB of archives.\r\n"
+    ],
+    [
+      0.000010,
+      "After this operation, 138 kB of additional disk space will be used.\r\n"
+    ],
+    [
+      0.000004,
+      "\r\r"
+    ],
+    [
+      0.529560,
+      "Selecting previously unselected package sshfs.\r\n(Reading database ... \r"
+    ],
+    [
+      0.010905,
+      "(Reading database ... 5%\r(Reading database ... 10%\r"
+    ],
+    [
+      0.000007,
+      "(Reading database ... 15%\r(Reading database ... 20%\r"
+    ],
+    [
+      0.000033,
+      "(Reading database ... 25%\r"
+    ],
+    [
+      0.000034,
+      "(Reading database ... 30%\r"
+    ],
+    [
+      0.000018,
+      "(Reading database ... 35%\r"
+    ],
+    [
+      0.000047,
+      "(Reading database ... 40%\r(Reading database ... 45%\r"
+    ],
+    [
+      0.003232,
+      "(Reading database ... 50%\r"
+    ],
+    [
+      0.010041,
+      "(Reading database ... 55%\r"
+    ],
+    [
+      0.004521,
+      "(Reading database ... 60%\r"
+    ],
+    [
+      0.002453,
+      "(Reading database ... 65%\r"
+    ],
+    [
+      0.002713,
+      "(Reading database ... 70%\r"
+    ],
+    [
+      0.002973,
+      "(Reading database ... 75%\r"
+    ],
+    [
+      0.002035,
+      "(Reading database ... 80%\r"
+    ],
+    [
+      0.035131,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.006881,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.012860,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.009057,
+      "(Reading database ... 100%\r(Reading database ... 167884 files and directories currently installed.)\r\n"
+    ],
+    [
+      0.009135,
+      "Preparing to unpack .../sshfs_2.5-1ubuntu1_amd64.deb ...\r\n"
+    ],
+    [
+      0.063484,
+      "Unpacking sshfs (2.5-1ubuntu1) ...\r\n"
+    ],
+    [
+      0.788327,
+      "Processing triggers for man-db (2.6.7.1-1ubuntu1) ...\r\n"
+    ],
+    [
+      0.955797,
+      "Setting up sshfs (2.5-1ubuntu1) ...\r\n"
+    ],
+    [
+      1.674559,
+      "\u001b[01;32mjacob@jacob\u001b[01;34m ~ $\u001b[00m "
+    ],
+    [
+      3.410261,
+      "s"
+    ],
+    [
+      0.161420,
+      "s"
+    ],
+    [
+      0.141599,
+      "h"
+    ],
+    [
+      0.144850,
+      " "
+    ],
+    [
+      1.262932,
+      "b"
+    ],
+    [
+      0.398111,
+      "1"
+    ],
+    [
+      0.146221,
+      "1"
+    ],
+    [
+      0.134874,
+      "6"
+    ],
+    [
+      0.731737,
+      "@"
+    ],
+    [
+      0.563184,
+      "c"
+    ],
+    [
+      0.284265,
+      "s"
+    ],
+    [
+      0.403276,
+      "."
+    ],
+    [
+      0.258885,
+      "d"
+    ],
+    [
+      0.200648,
+      "s"
+    ],
+    [
+      0.263323,
+      "u"
+    ],
+    [
+      0.183072,
+      "n"
+    ],
+    [
+      0.134859,
+      "i"
+    ],
+    [
+      0.345013,
+      "x"
+    ],
+    [
+      0.210114,
+      "."
+    ],
+    [
+      0.311654,
+      "n"
+    ],
+    [
+      0.177289,
+      "e"
+    ],
+    [
+      0.273052,
+      "t"
+    ],
+    [
+      0.451794,
+      "\r\n"
+    ],
+    [
+      0.311774,
+      "b116@cs.dsunix.net's password: "
+    ],
+    [
+      2.750425,
+      "\r\n"
+    ],
+    [
+      0.017227,
+      "Linux cs 3.2.0-4-amd64 #1 SMP Debian 3.2.65-1+deb7u2 x86_64\r\nWelcome to cs.dsunix.net\r\nLast login: Sat Mar 21 16:55:13 2015 from 138.247.215.116\r\r\n"
+    ],
+    [
+      0.138435,
+      "\u001b]0;b116@cs: ~\u0007b116@cs:~$ "
+    ],
+    [
+      1.117657,
+      "p"
+    ],
+    [
+      0.124800,
+      "w"
+    ],
+    [
+      0.198334,
+      "d"
+    ],
+    [
+      0.614852,
+      "\r\n/home/s15/b116\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b]0;b116@cs: ~\u0007b116@cs:~$ "
+    ],
+    [
+      6.884756,
+      "e"
+    ],
+    [
+      0.234534,
+      "x"
+    ],
+    [
+      0.151428,
+      "i"
+    ],
+    [
+      0.158550,
+      "t"
+    ],
+    [
+      0.107050,
+      "\r\nlogout\r\n"
+    ],
+    [
+      0.002806,
+      "Connection to cs.dsunix.net closed.\r\r\n\u001b[01;32mjacob@jacob\u001b[01;34m ~ $\u001b[00m "
+    ],
+    [
+      1.965265,
+      "s"
+    ],
+    [
+      0.142159,
+      "s"
+    ],
+    [
+      0.149014,
+      "h"
+    ],
+    [
+      0.674979,
+      "f"
+    ],
+    [
+      0.356979,
+      "s"
+    ],
+    [
+      0.161342,
+      " "
+    ],
+    [
+      0.944320,
+      "c"
+    ],
+    [
+      0.450633,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.555739,
+      "b"
+    ],
+    [
+      0.261425,
+      "1"
+    ],
+    [
+      0.151024,
+      "1"
+    ],
+    [
+      0.248042,
+      "6"
+    ],
+    [
+      0.951676,
+      "@"
+    ],
+    [
+      0.651252,
+      "c"
+    ],
+    [
+      0.294571,
+      "s"
+    ],
+    [
+      0.233192,
+      "."
+    ],
+    [
+      0.157048,
+      "d"
+    ],
+    [
+      0.217630,
+      "s"
+    ],
+    [
+      0.328492,
+      "u"
+    ],
+    [
+      0.224351,
+      "n"
+    ],
+    [
+      0.145559,
+      "i"
+    ],
+    [
+      0.428458,
+      "x"
+    ],
+    [
+      0.218524,
+      "."
+    ],
+    [
+      0.263300,
+      "n"
+    ],
+    [
+      0.164362,
+      "e"
+    ],
+    [
+      0.224447,
+      "t"
+    ],
+    [
+      0.177240,
+      " "
+    ],
+    [
+      0.417495,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.464711,
+      ":"
+    ],
+    [
+      0.396442,
+      " "
+    ],
+    [
+      0.364607,
+      "\u0008\u001b[K"
+    ],
+    [
+      2.376279,
+      "/"
+    ],
+    [
+      0.703480,
+      "h"
+    ],
+    [
+      0.101282,
+      "o"
+    ],
+    [
+      0.198918,
+      "m"
+    ],
+    [
+      0.135926,
+      "e"
+    ],
+    [
+      0.981873,
+      "/"
+    ],
+    [
+      0.386025,
+      "s"
+    ],
+    [
+      0.340202,
+      "1"
+    ],
+    [
+      0.399887,
+      "5"
+    ],
+    [
+      0.887241,
+      "/"
+    ],
+    [
+      1.020450,
+      "b"
+    ],
+    [
+      0.354799,
+      "1"
+    ],
+    [
+      0.151242,
+      "1"
+    ],
+    [
+      0.255065,
+      "6"
+    ],
+    [
+      1.795240,
+      "\r\n"
+    ],
+    [
+      0.002965,
+      "Bad address\r\n"
+    ],
+    [
+      0.000442,
+      "\u001b[01;32mjacob@jacob\u001b[01;34m ~ $\u001b[00m "
+    ],
+    [
+      3.641742,
+      "sshfs b116@cs.dsunix.net:/home/s15/b116"
+    ],
+    [
+      0.581476,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[17P b116@cs.dsunix.net"
+    ],
+    [
+      0.438503,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cudo apt-get install sshfs"
+    ],
+    [
+      1.194243,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cexit\u001b[K"
+    ],
+    [
+      0.608834,
+      "\u0008\u0008\u0008\u0008hello"
+    ],
+    [
+      0.696849,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[1Pexit"
+    ],
+    [
+      0.337203,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
