@@ -1,0 +1,1870 @@
+{
+  "version": 1,
+  "width": 83,
+  "height": 24,
+  "duration": 228.953431,
+  "command": "/bin/sh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/sh"
+  },
+  "stdout": [
+    [
+      0.013437,
+      "docker@boot2docker:/c/Users/cmonks/Docker/gw1$ "
+    ],
+    [
+      2.347061,
+      "#"
+    ],
+    [
+      0.175150,
+      " "
+    ],
+    [
+      0.745479,
+      "C"
+    ],
+    [
+      0.159556,
+      "h"
+    ],
+    [
+      0.175634,
+      "e"
+    ],
+    [
+      0.216211,
+      "c"
+    ],
+    [
+      0.111653,
+      "k"
+    ],
+    [
+      0.176225,
+      " "
+    ],
+    [
+      0.759838,
+      "D"
+    ],
+    [
+      0.199460,
+      "o"
+    ],
+    [
+      0.120105,
+      "c"
+    ],
+    [
+      0.127994,
+      "k"
+    ],
+    [
+      0.128403,
+      "e"
+    ],
+    [
+      0.072010,
+      "r"
+    ],
+    [
+      0.128199,
+      " "
+    ],
+    [
+      0.360343,
+      "f"
+    ],
+    [
+      0.119061,
+      "i"
+    ],
+    [
+      0.200319,
+      "l"
+    ],
+    [
+      0.074012,
+      "e"
+    ],
+    [
+      0.686798,
+      " "
+    ],
+    [
+      1.127670,
+      "c"
+    ],
+    [
+      0.199506,
+      "o"
+    ],
+    [
+      0.448162,
+      "n"
+    ],
+    [
+      0.488276,
+      "t"
+    ],
+    [
+      0.287498,
+      "e"
+    ],
+    [
+      0.184238,
+      "n"
+    ],
+    [
+      0.247890,
+      "t"
+    ],
+    [
+      0.112366,
+      "s"
+    ],
+    [
+      0.936055,
+      "\r\ndocker@boot2docker:/c/Users/cmonks/Docker/gw1$ "
+    ],
+    [
+      1.040494,
+      "v"
+    ],
+    [
+      0.143036,
+      "i"
+    ],
+    [
+      0.128105,
+      " "
+    ],
+    [
+      0.231663,
+      "D"
+    ],
+    [
+      0.144305,
+      "o"
+    ],
+    [
+      0.096282,
+      "c"
+    ],
+    [
+      0.233140,
+      "\rdocker@boot2docker:/c/Users/cmonks/Docker/gw1$ vi Dockerfile \u001b[J"
+    ],
+    [
+      0.502698,
+      "\r\n"
+    ],
+    [
+      0.003132,
+      "\u001b[?1049h\u001b[1;1H\u001b[J\u001b[1;1H# Docker image for testing Installer\u001b[3;1HFROM axway:gw731\u001b[5;1HCOPY ./run.sh /\u001b[7;1HRUN chmod +x /run.sh\u001b[9;1HENTRYPOINT [\"/run.sh\"]\u001b[11;1HEXPOSE 8090:8090 8080:8080 8040:8040\u001b[13;1HCMD [\"/run.sh\"]\u001b[14;1H~\u001b[15;1H~\u001b[16;1H~\u001b[17;1H~\u001b[18;1H~\u001b[19;1H~\u001b[20;1H~\u001b[21;1H~\u001b[22;1H~\u001b[23;1H~\u001b[1;1H\u001b[24;1H\u001b[K- Dockerfile 1/13 7%\u001b[1;1H"
+    ],
+    [
+      0.878555,
+      "\u001b[2;1H\u001b[24;1H\u001b[K- Dockerfile 2/13 15%\u001b[2;1H"
+    ],
+    [
+      0.302123,
+      "\u001b[3;1H"
+    ],
+    [
+      1.136380,
+      "\u001b[4;1H\u001b[24;1H\u001b[K- Dockerfile 4/13 30%\u001b[4;1H"
+    ],
+    [
+      0.200478,
+      "\u001b[5;1H\u001b[24;1H\u001b[K- Dockerfile 5/13 38%\u001b[5;1H"
+    ],
+    [
+      2.463505,
+      "\u001b[5;1H\u001b[24;1H\u001b[K\u001b[?1049l"
+    ],
+    [
+      0.000078,
+      "docker@boot2docker:/c/Users/cmonks/Docker/gw1$ "
+    ],
+    [
+      1.311279,
+      "#"
+    ],
+    [
+      0.199868,
+      " "
+    ],
+    [
+      0.360008,
+      "c"
+    ],
+    [
+      0.088241,
+      "h"
+    ],
+    [
+      0.183997,
+      "e"
+    ],
+    [
+      0.192326,
+      "c"
+    ],
+    [
+      0.055832,
+      "k"
+    ],
+    [
+      0.143624,
+      " "
+    ],
+    [
+      0.616648,
+      "r"
+    ],
+    [
+      0.247854,
+      "u"
+    ],
+    [
+      0.216093,
+      "n"
+    ],
+    [
+      0.520182,
+      "."
+    ],
+    [
+      0.112060,
+      "s"
+    ],
+    [
+      0.215890,
+      "h"
+    ],
+    [
+      0.159556,
+      " "
+    ],
+    [
+      0.575989,
+      "f"
+    ],
+    [
+      0.200212,
+      "i"
+    ],
+    [
+      0.215444,
+      "l"
+    ],
+    [
+      0.089012,
+      "e"
+    ],
+    [
+      0.647156,
+      "."
+    ],
+    [
+      0.216515,
+      " "
+    ],
+    [
+      0.287388,
+      "T"
+    ],
+    [
+      0.200547,
+      "h"
+    ],
+    [
+      0.176516,
+      "ui"
+    ],
+    [
+      0.055840,
+      "s"
+    ],
+    [
+      0.111780,
+      " "
+    ],
+    [
+      0.575962,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.176185,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.159646,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.415711,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.360916,
+      "o"
+    ],
+    [
+      0.015056,
+      "i"
+    ],
+    [
+      0.072355,
+      "s"
+    ],
+    [
+      0.311668,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.160395,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.160012,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.559618,
+      "i"
+    ],
+    [
+      0.087795,
+      "s"
+    ],
+    [
+      0.088800,
+      " "
+    ],
+    [
+      0.199680,
+      "i"
+    ],
+    [
+      0.088487,
+      "s"
+    ],
+    [
+      0.071896,
+      " "
+    ],
+    [
+      0.287615,
+      "t"
+    ],
+    [
+      0.200453,
+      "h"
+    ],
+    [
+      0.088022,
+      "e"
+    ],
+    [
+      0.071358,
+      " "
+    ],
+    [
+      3.728081,
+      "m"
+    ],
+    [
+      0.088918,
+      "a"
+    ],
+    [
+      0.127957,
+      "i\r\r\n"
+    ],
+    [
+      0.175306,
+      "n"
+    ],
+    [
+      0.112148,
+      " "
+    ],
+    [
+      0.247572,
+      "p"
+    ],
+    [
+      0.296102,
+      "r"
+    ],
+    [
+      0.320473,
+      "o"
+    ],
+    [
+      0.447288,
+      "c"
+    ],
+    [
+      0.303980,
+      "e"
+    ],
+    [
+      0.288298,
+      "s"
+    ],
+    [
+      0.128421,
+      "s"
+    ],
+    [
+      0.791519,
+      "\r\ndocker@boot2docker:/c/Users/cmonks/Docker/gw1$ "
+    ],
+    [
+      0.832105,
+      "v"
+    ],
+    [
+      0.159696,
+      "i"
+    ],
+    [
+      0.104704,
+      " "
+    ],
+    [
+      0.255547,
+      "r"
+    ],
+    [
+      0.160161,
+      "u"
+    ],
+    [
+      0.199649,
+      "n"
+    ],
+    [
+      0.129728,
+      "\rdocker@boot2docker:/c/Users/cmonks/Docker/gw1$ vi run.sh \u001b[J"
+    ],
+    [
+      0.478429,
+      "\r\n"
+    ],
+    [
+      0.003209,
+      "\u001b[?1049h\u001b[1;1H\u001b[J\u001b[1;1H#!/bin/bash\u001b[2;1H# Start the Axway API Gateway Services\u001b[3;1H#\u001b[4;1HGWDIR=\"/opt/Axway-7.3.1/apigateway\"\u001b[5;1Hecho \"Initialize Topology\"\u001b[6;1H$GWDIR/posix/bin/managedomain -i\u001b[8;1Hecho \"Start Nodemanager\"\u001b[9;1H$GWDIR/posix/bin/nodemanager -d\u001b[11;1Hecho \"Create instance\"\u001b[12;1H$GWDIR/posix/bin/managedomain -c -n Gateway1 -g Group1\u001b[14;1Hecho \"Start Instance\"\u001b[15;1H$GWDIR/posix/bin/startinstance -n Gateway1 -g Group1\u001b[16;1H~\u001b[17;1H~\u001b[18;1H~\u001b[19;1H~\u001b[20;1H~\u001b[21;1H~\u001b[22;1H~\u001b[23;1H~\u001b[1;1H\u001b[24;1H\u001b[K- run.sh 1/15 6%\u001b[1;1H"
+    ],
+    [
+      0.989513,
+      "\u001b[2;1H\u001b[24;1H\u001b[K- run.sh 2/15 13%\u001b[2;1H"
+    ],
+    [
+      0.499523,
+      "\u001b[3;1H\u001b[24;1H\u001b[K- run.sh 3/15 20%\u001b[3;1H"
+    ],
+    [
+      0.033106,
+      "\u001b[4;1H\u001b[24;1H\u001b[K- run.sh 4/15 26%\u001b[4;1H"
+    ],
+    [
+      0.032411,
+      "\u001b[5;1H\u001b[24;1H\u001b[K- run.sh 5/15 33%\u001b[5;1H"
+    ],
+    [
+      0.034197,
+      "\u001b[6;1H\u001b[24;1H\u001b[K- run.sh 6/15 40%\u001b[6;1H"
+    ],
+    [
+      0.032788,
+      "\u001b[7;1H\u001b[24;1H\u001b[K- run.sh 7/15 46%\u001b[7;1H"
+    ],
+    [
+      0.032560,
+      "\u001b[8;1H\u001b[24;1H\u001b[K- run.sh 8/15 53%\u001b[8;1H"
+    ],
+    [
+      0.033476,
+      "\u001b[9;1H\u001b[24;1H\u001b[K- run.sh 9/15 60%\u001b[9;1H"
+    ],
+    [
+      0.032454,
+      "\u001b[10;1H\u001b[24;1H\u001b[K- run.sh 10/15 66%\u001b[10;1H"
+    ],
+    [
+      0.033083,
+      "\u001b[11;1H\u001b[24;1H\u001b[K- run.sh 11/15 73%\u001b[11;1H"
+    ],
+    [
+      0.032930,
+      "\u001b[12;1H\u001b[24;1H\u001b[K- run.sh 12/15 80%\u001b[12;1H"
+    ],
+    [
+      0.033525,
+      "\u001b[13;1H\u001b[24;1H\u001b[K- run.sh 13/15 86%\u001b[13;1H"
+    ],
+    [
+      0.032862,
+      "\u001b[14;1H\u001b[24;1H\u001b[K- run.sh 14/15 93%\u001b[14;1H"
+    ],
+    [
+      0.032634,
+      "\u001b[15;1H\u001b[24;1H\u001b[K- run.sh 15/15 100%\u001b[15;1H"
+    ],
+    [
+      0.033208,
+      "\u001b[15;1H"
+    ],
+    [
+      0.032077,
+      "\u001b[15;1H"
+    ],
+    [
+      0.034000,
+      "\u001b[15;1H"
+    ],
+    [
+      3.124984,
+      "\u001b[15;1H\u001b[24;1H\u001b[K\u001b[?1049l"
+    ],
+    [
+      0.000491,
+      "docker@boot2docker:/c/Users/cmonks/Docker/gw1$ "
+    ],
+    [
+      9.559166,
+      "#"
+    ],
+    [
+      0.231509,
+      " "
+    ],
+    [
+      0.720301,
+      "S"
+    ],
+    [
+      0.096027,
+      "t"
+    ],
+    [
+      0.136011,
+      "a"
+    ],
+    [
+      0.096636,
+      "r"
+    ],
+    [
+      0.175592,
+      "t"
+    ],
+    [
+      0.127616,
+      " "
+    ],
+    [
+      0.175755,
+      "t"
+    ],
+    [
+      0.224787,
+      "h"
+    ],
+    [
+      0.087648,
+      "e"
+    ],
+    [
+      0.048356,
+      " "
+    ],
+    [
+      0.631833,
+      "I"
+    ],
+    [
+      0.200041,
+      "n"
+    ],
+    [
+      0.087817,
+      "s"
+    ],
+    [
+      0.184057,
+      "t"
+    ],
+    [
+      0.104229,
+      "a"
+    ],
+    [
+      0.167929,
+      "n"
+    ],
+    [
+      0.087857,
+      "c"
+    ],
+    [
+      0.103988,
+      "e"
+    ],
+    [
+      0.144034,
+      " "
+    ],
+    [
+      0.559565,
+      "u"
+    ],
+    [
+      0.056329,
+      "s"
+    ],
+    [
+      0.159707,
+      "i"
+    ],
+    [
+      0.176495,
+      "n"
+    ],
+    [
+      0.055344,
+      "g"
+    ],
+    [
+      0.072677,
+      " "
+    ],
+    [
+      0.159838,
+      "t"
+    ],
+    [
+      0.184135,
+      "h"
+    ],
+    [
+      0.055836,
+      "e"
+    ],
+    [
+      0.089158,
+      " "
+    ],
+    [
+      0.750601,
+      "b"
+    ],
+    [
+      0.112112,
+      "a"
+    ],
+    [
+      0.160653,
+      "s"
+    ],
+    [
+      0.216870,
+      "e"
+    ],
+    [
+      0.126737,
+      " \r\r\n"
+    ],
+    [
+      0.320208,
+      "i"
+    ],
+    [
+      0.223779,
+      "m"
+    ],
+    [
+      0.104800,
+      "a"
+    ],
+    [
+      0.175275,
+      "g"
+    ],
+    [
+      0.127801,
+      "e"
+    ],
+    [
+      0.095904,
+      " "
+    ],
+    [
+      0.969743,
+      "f"
+    ],
+    [
+      0.213985,
+      "r"
+    ],
+    [
+      0.112393,
+      "o"
+    ],
+    [
+      0.263819,
+      "m"
+    ],
+    [
+      0.112365,
+      " "
+    ],
+    [
+      0.159574,
+      "a"
+    ],
+    [
+      0.256380,
+      "x"
+    ],
+    [
+      0.232351,
+      "w"
+    ],
+    [
+      0.215554,
+      "a"
+    ],
+    [
+      0.120600,
+      "y"
+    ],
+    [
+      1.351752,
+      ":"
+    ],
+    [
+      0.719588,
+      "g"
+    ],
+    [
+      0.328133,
+      "w"
+    ],
+    [
+      1.040502,
+      "7"
+    ],
+    [
+      0.271216,
+      "3"
+    ],
+    [
+      0.128369,
+      "1"
+    ],
+    [
+      0.376193,
+      " "
+    ],
+    [
+      0.200922,
+      " "
+    ],
+    [
+      0.462438,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.288424,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.288094,
+      ","
+    ],
+    [
+      0.168436,
+      " "
+    ],
+    [
+      0.231408,
+      "t"
+    ],
+    [
+      0.200293,
+      "h"
+    ],
+    [
+      0.175608,
+      "i"
+    ],
+    [
+      0.072556,
+      "s"
+    ],
+    [
+      0.039798,
+      " "
+    ],
+    [
+      0.735994,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.415800,
+      " "
+    ],
+    [
+      0.375637,
+      "h"
+    ],
+    [
+      0.144566,
+      "a"
+    ],
+    [
+      0.145413,
+      "s"
+    ],
+    [
+      0.142056,
+      " "
+    ],
+    [
+      0.248037,
+      "t"
+    ],
+    [
+      0.168306,
+      "h"
+    ],
+    [
+      0.072848,
+      "e"
+    ],
+    [
+      0.086618,
+      " "
+    ],
+    [
+      1.312762,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.215820,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.184301,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.143799,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.663900,
+      "a"
+    ],
+    [
+      0.143758,
+      " "
+    ],
+    [
+      0.192109,
+      "c"
+    ],
+    [
+      0.152535,
+      "l"
+    ],
+    [
+      0.143536,
+      "e"
+    ],
+    [
+      0.191845,
+      "a"
+    ],
+    [
+      0.128095,
+      "n"
+    ],
+    [
+      0.072286,
+      " "
+    ],
+    [
+      0.271778,
+      "7"
+    ],
+    [
+      0.336309,
+      "3"
+    ],
+    [
+      0.168827,
+      "1"
+    ],
+    [
+      0.127796,
+      " "
+    ],
+    [
+      0.232760,
+      "i"
+    ],
+    [
+      0.214502,
+      "n"
+    ],
+    [
+      0.055521,
+      "s"
+    ],
+    [
+      0.192530,
+      "t"
+    ],
+    [
+      0.112162,
+      "a"
+    ],
+    [
+      0.232036,
+      "k"
+    ],
+    [
+      0.159825,
+      "l"
+    ],
+    [
+      0.343751,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.144125,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.344180,
+      "l"
+    ],
+    [
+      0.192172,
+      "l"
+    ],
+    [
+      0.184198,
+      "e"
+    ],
+    [
+      0.200522,
+      "d"
+    ],
+    [
+      0.175130,
+      "."
+    ],
+    [
+      1.007775,
+      "\r\ndocker@boot2docker:/c/Users/cmonks/Docker/gw1$ "
+    ],
+    [
+      0.304038,
+      "\r\ndocker@boot2docker:/c/Users/cmonks/Docker/gw1$ "
+    ],
+    [
+      0.199915,
+      "\r\ndocker@boot2docker:/c/Users/cmonks/Docker/gw1$ "
+    ],
+    [
+      1.097294,
+      "docker build --rm=true -t axway/731n\r\r\new ."
+    ],
+    [
+      1.079315,
+      "\r\n"
+    ],
+    [
+      0.076124,
+      "Sending build context to Docker daemon 3.072 kB\r\r\r\nSending build context to Docker daemon \r"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.058731,
+      "Step 0 : FROM axway:gw731\r\n"
+    ],
+    [
+      0.000942,
+      " ---\u003e 732ee7dbe9f7\r\nStep 1 : COPY ./run.sh /\r\n"
+    ],
+    [
+      0.271833,
+      " ---\u003e 60ae2727e494\r\n"
+    ],
+    [
+      0.005346,
+      "Removing intermediate container 3c5c191c2d2a\r\nStep 2 : RUN chmod +x /run.sh\r\n"
+    ],
+    [
+      0.103055,
+      " ---\u003e Running in 700c80814d8a\r\n"
+    ],
+    [
+      0.509421,
+      " ---\u003e eac741e219fb\r\n"
+    ],
+    [
+      0.010112,
+      "Removing intermediate container 700c80814d8a\r\nStep 3 : ENTRYPOINT /run.sh\r\n"
+    ],
+    [
+      0.111100,
+      " ---\u003e Running in 7822282a4e96\r\n"
+    ],
+    [
+      0.130290,
+      " ---\u003e 4095542ce5fa\r\n"
+    ],
+    [
+      0.004937,
+      "Removing intermediate container 7822282a4e96\r\nStep 4 : EXPOSE 8090:8090 8080:8080 8040:8040\r\n"
+    ],
+    [
+      0.104057,
+      " ---\u003e Running in 1eb388ca89ad\r\n"
+    ],
+    [
+      0.120550,
+      " ---\u003e 687b0e68a90a\r\n"
+    ],
+    [
+      0.004568,
+      "Removing intermediate container 1eb388ca89ad\r\nStep 5 : CMD /run.sh\r\n"
+    ],
+    [
+      0.144230,
+      " ---\u003e Running in 00297a37f643\r\n"
+    ],
+    [
+      0.101854,
+      " ---\u003e ce3a15337704\r\n"
+    ],
+    [
+      0.005436,
+      "Removing intermediate container 00297a37f643\r\nSuccessfully built ce3a15337704\r\n"
+    ],
+    [
+      0.002114,
+      "docker@boot2docker:/c/Users/cmonks/Docker/gw1$ "
+    ],
+    [
+      3.315270,
+      "d"
+    ],
+    [
+      0.143474,
+      "o"
+    ],
+    [
+      0.144810,
+      "c"
+    ],
+    [
+      0.103673,
+      "k"
+    ],
+    [
+      0.127591,
+      "e"
+    ],
+    [
+      0.087527,
+      "r"
+    ],
+    [
+      0.097578,
+      " "
+    ],
+    [
+      0.766654,
+      "i"
+    ],
+    [
+      0.216277,
+      "m"
+    ],
+    [
+      0.072339,
+      "a"
+    ],
+    [
+      0.167632,
+      "g"
+    ],
+    [
+      0.103749,
+      "e"
+    ],
+    [
+      0.160706,
+      "s"
+    ],
+    [
+      0.095598,
+      " "
+    ],
+    [
+      0.407956,
+      "|"
+    ],
+    [
+      0.128155,
+      " "
+    ],
+    [
+      0.232337,
+      "g"
+    ],
+    [
+      0.487697,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.880716,
+      "h"
+    ],
+    [
+      0.183537,
+      "e"
+    ],
+    [
+      0.232401,
+      "a"
+    ],
+    [
+      0.160638,
+      "d"
+    ],
+    [
+      0.562867,
+      "\r\n"
+    ],
+    [
+      0.113853,
+      "REPOSITORY          TAG                 IMAGE ID            CREATED             VIRTUAL SIZE\r\naxway/731new        latest              ce3a15337704        10 seconds ago      2.849 GB"
+    ],
+    [
+      0.000023,
+      "\r\naxway               gw731               732ee7dbe9f7        12 hours ago        2.849 GB\r\nrancher/server      v0.5.0-rc1          442370fd5d8f        7 weeks ago         354.9 MB\r\n"
+    ],
+    [
+      0.000050,
+      "rancher/server      latest              442370fd5d8f        7 weeks ago         354.9 MB\r\nrancher/server      v0.5.0              442370fd5d8f        7 weeks ago         354.9 MB"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "rancher/agent       latest              3d409ba796f9        7 weeks ago         285.1 MB"
+    ],
+    [
+      0.000152,
+      "\r\nrancher/agent       v0.3.1              3d409ba796f9        7 weeks ago         285.1 MB\r\nmysql               latest              d65ab1ee4f46        8 weeks ago         320.4 MB\r\ndockerfile/ubuntu   latest              57d0bc345ba9        9 weeks ago         410.3 MB\r\n"
+    ],
+    [
+      0.001193,
+      "docker@boot2docker:/c/Users/cmonks/Docker/gw1$ "
+    ],
+    [
+      8.576405,
+      "#"
+    ],
+    [
+      0.215922,
+      " "
+    ],
+    [
+      0.448076,
+      "N"
+    ],
+    [
+      0.215650,
+      "o"
+    ],
+    [
+      0.752958,
+      "w"
+    ],
+    [
+      0.184466,
+      " "
+    ],
+    [
+      0.950790,
+      "y"
+    ],
+    [
+      0.232292,
+      "o"
+    ],
+    [
+      0.183774,
+      "u"
+    ],
+    [
+      0.105555,
+      " "
+    ],
+    [
+      0.142969,
+      "c"
+    ],
+    [
+      0.097124,
+      "a"
+    ],
+    [
+      0.102537,
+      "n"
+    ],
+    [
+      0.128744,
+      " "
+    ],
+    [
+      0.199689,
+      "s"
+    ],
+    [
+      0.145078,
+      "t"
+    ],
+    [
+      0.102538,
+      "a"
+    ],
+    [
+      0.089051,
+      "r"
+    ],
+    [
+      0.183044,
+      "t"
+    ],
+    [
+      0.575899,
+      " "
+    ],
+    [
+      0.216487,
+      "a"
+    ],
+    [
+      0.143269,
+      " "
+    ],
+    [
+      1.424683,
+      "c"
+    ],
+    [
+      0.159789,
+      "o"
+    ],
+    [
+      0.248190,
+      "n"
+    ],
+    [
+      0.199914,
+      "t"
+    ],
+    [
+      0.215982,
+      "a"
+    ],
+    [
+      0.112969,
+      "i"
+    ],
+    [
+      0.174837,
+      "n"
+    ],
+    [
+      0.114266,
+      "e"
+    ],
+    [
+      0.158017,
+      "r"
+    ],
+    [
+      0.071518,
+      " "
+    ],
+    [
+      0.248424,
+      "u"
+    ],
+    [
+      0.096076,
+      "s"
+    ],
+    [
+      0.119627,
+      "i"
+    ],
+    [
+      0.201952,
+      "n\r\r\n"
+    ],
+    [
+      0.053729,
+      "g"
+    ],
+    [
+      0.072763,
+      " "
+    ],
+    [
+      0.199088,
+      "t"
+    ],
+    [
+      0.176777,
+      "h"
+    ],
+    [
+      0.231860,
+      "io"
+    ],
+    [
+      0.072803,
+      "s"
+    ],
+    [
+      0.126713,
+      " "
+    ],
+    [
+      0.289180,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.158980,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.183829,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.072621,
+      "s"
+    ],
+    [
+      0.159573,
+      " "
+    ],
+    [
+      0.616771,
+      "i"
+    ],
+    [
+      0.215430,
+      "m"
+    ],
+    [
+      0.087689,
+      "a"
+    ],
+    [
+      0.160483,
+      "g"
+    ],
+    [
+      0.128197,
+      "e"
+    ],
+    [
+      3.456245,
+      "."
+    ],
+    [
+      0.199399,
+      "."
+    ],
+    [
+      0.191762,
+      "."
+    ],
+    [
+      3.136252,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.499486,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.033036,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.033674,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.032672,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.033263,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.032394,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.231182,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.288525,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.414863,
+      " "
+    ],
+    [
+      0.288626,
+      "n"
+    ],
+    [
+      0.144293,
+      "e"
+    ],
+    [
+      0.144759,
+      "w"
+    ],
+    [
+      0.071538,
+      " "
+    ],
+    [
+      0.239698,
+      "i"
+    ],
+    [
+      0.216097,
+      "m"
+    ],
+    [
+      0.072425,
+      "a"
+    ],
+    [
+      0.159458,
+      "g"
+    ],
+    [
+      0.104095,
+      "e"
+    ],
+    [
+      0.168013,
+      " "
+    ],
+    [
+      13.264402,
+      "axway/731new"
+    ],
+    [
+      1.078542,
+      ":"
+    ],
+    [
+      0.360167,
+      "l"
+    ],
+    [
+      0.120648,
+      "a"
+    ],
+    [
+      0.215954,
+      "t"
+    ],
+    [
+      0.127880,
+      "e"
+    ],
+    [
+      0.143839,
+      "s"
+    ],
+    [
+      0.112213,
+      "t"
+    ],
+    [
+      0.624545,
+      "\r\ndocker@boot2docker:/c/Users/cmonks/Docker/gw1$ "
+    ],
+    [
+      0.383763,
+      "\r\ndocker@boot2docker:/c/Users/cmonks/Docker/gw1$ "
+    ],
+    [
+      0.191600,
+      "\r\ndocker@boot2docker:/c/Users/cmonks/Docker/gw1$ "
+    ],
+    [
+      6.993259,
+      "docker run --rm=true -p 8090:8090 -p\r\r\n 8080:8080 --name gw1 -it axway/731new:latest"
+    ],
+    [
+      0.871065,
+      "\r\n"
+    ],
+    [
+      0.487174,
+      "Initialize Topology\r\n"
+    ],
+    [
+      7.171790,
+      "Generating domain private key and certificate...\r\n"
+    ],
+    [
+      0.038680,
+      "Generating private key...\r\n"
+    ],
+    [
+      0.108644,
+      "Generating CSR for key...\r\n"
+    ],
+    [
+      0.037281,
+      "Signing certificate for CSR...\r\n"
+    ],
+    [
+      0.041480,
+      "Converting PEM files to P12...\r\n"
+    ],
+    [
+      0.458605,
+      "Generating Node Manager private key and certificate...\r\n"
+    ],
+    [
+      0.012140,
+      "Generating private key...\r\n"
+    ],
+    [
+      0.062795,
+      "Generating CSR for key...\r\n"
+    ],
+    [
+      0.029552,
+      "Signing certificate for CSR...\r\n"
+    ],
+    [
+      0.036010,
+      "Converting PEM files to P12...\r\n"
+    ],
+    [
+      5.031645,
+      "New Node Manager SSL certificate details:\r\n   dname: CN=nodemanager-1,OU=group-1,DC=host-1 \r\n   expires: Tue Feb 26 23:04:21 UTC 2115 \r\n   thumbprint: 4D:59:65:F5:1C:8A:C0:CD:7A:E8:D8:78:41:FE:D5:7A:34:80:49:0D \r\n"
+    ],
+    [
+      0.001903,
+      "   issuer dname: CN=Domain \r\n   issuer thumbprint: A3:27:3F:9D:CD:6B:B9:EC:5F:EC:04:B4:C4:08:32:2E:93:6C:ED:27\r\nCompleted successfully.\r\nYou may now start the Node Manager on your newly registered host.\r\nThe system has placed your domain private key into directory '/opt/Axway-7.3.1/apigateway/groups/certs/private'. Please backup and protect the contents of this directory.\r\n"
+    ],
+    [
+      0.057113,
+      "Start Nodemanager\r\n"
+    ],
+    [
+      17.398907,
+      "service started"
+    ],
+    [
+      0.001481,
+      "\r\nCreate instance"
+    ],
+    [
+      0.000393,
+      "\r\n"
+    ],
+    [
+      9.278703,
+      "Requesting CSR from Admin Node Manager...\r\n"
+    ],
+    [
+      1.128284,
+      "CSR received from Admin Node Manager.\r\n"
+    ],
+    [
+      0.079823,
+      "Requesting signed certificate from Admin Node Manager...\r\n"
+    ],
+    [
+      0.095111,
+      "Signed certificate received from Admin Node Manager.\r\n"
+    ],
+    [
+      0.000806,
+      "Requesting Admin Node Manager to create new API Gateway...\r\n"
+    ],
+    [
+      1.056987,
+      "New API Gateway SSL certificate details:\r\n   dname: CN=instance-1,OU=group-2,DC=host-1 \r\n   expires: Tue Feb 26 23:04:54 UTC 2115 \r\n"
+    ],
+    [
+      0.000872,
+      "   thumbprint: E2:44:C7:CA:8D:ED:26:0C:4F:41:83:A3:1E:19:C8:89:05:DF:66:14 \r\n"
+    ],
+    [
+      0.001089,
+      "   issuer dname: CN=Domain \r\n   issuer thumbprint: A3:27:3F:9D:CD:6B:B9:EC:5F:EC:04:B4:C4:08:32:2E:93:6C:ED:27\r\n"
+    ],
+    [
+      0.091038,
+      "The new API Gateway 'Gateway1' in group 'Group1' has been successfully created and installed\r\n"
+    ],
+    [
+      0.000799,
+      "\r\nStart the new API Gateway by executing the following command:\r\n"
+    ],
+    [
+      0.001485,
+      "/opt/Axway-7.3.1/apigateway/posix/bin/startinstance -g \"Group1\" -n \"Gateway1\""
+    ],
+    [
+      0.006298,
+      "\r\n\r\nYou can alternatively add /opt/Axway-7.3.1/apigateway/posix/bin/ to your path and use \"startinstance -g \"Group1\" -n \"Gateway1\"\".\r\n\r\nYou can test the connection by visiting the URL:\r\nhttp://6280e29aa289:8080/healthcheck\r\n"
+    ],
+    [
+      0.000610,
+      "Completed successfully.\r\n"
+    ],
+    [
+      0.067043,
+      "Start Instance\r\n"
+    ],
+    [
+      1.102948,
+      "INFO    22/Mar/2015:23:04:57.168 [77ffd780] Attempting to connect to entity store at federated:file:////opt/Axway-7.3.1/apigateway/groups/group-2/instance-1/../conf/deb07301-1d48-491e-b34d-44b145f7e305/configs.xml\r\n"
+    ],
+    [
+      3.601361,
+      "INFO    22/Mar/2015:23:05:00.770 [77ffd780] Starting environmentalization of '0' entities...\r\n"
+    ],
+    [
+      0.000781,
+      "INFO    22/Mar/2015:23:05:00.770 [77ffd780] Completed environmentalization of '0' entities\r\n"
+    ],
+    [
+      0.845643,
+      "INFO    22/Mar/2015:23:05:01.616 [77ffd780] unload 0 modules from [local]-0-[local]\r\n"
+    ],
+    [
+      0.824066,
+      "INFO    22/Mar/2015:23:05:02.440 [77ffd780]     Realtime monitoring enabled\r\n"
+    ],
+    [
+      0.003942,
+      "INFO    22/Mar/2015:23:05:02.444 [77ffd780]     Storing metrics in database disabled\r\n"
+    ],
+    [
+      2.016161,
+      "INFO    22/Mar/2015:23:05:04.459 [77ffd780]     cert store configured\r\n"
+    ],
+    [
+      0.002480,
+      "INFO    22/Mar/2015:23:05:04.463 [77ffd780]     keypairs configured\r\n"
+    ],
+    [
+      0.005091,
+      "INFO    22/Mar/2015:23:05:04.463 [77ffd780]     Loading KPS configuration.\r\n"
+    ],
+    [
+      0.607753,
+      "INFO    22/Mar/2015:23:05:05.076 [77ffd780]     Starting an embedded KPS service."
+    ],
+    [
+      0.001255,
+      "\r\n"
+    ],
+    [
+      0.003907,
+      "INFO    22/Mar/2015:23:05:05.081 [77ffd780]         Bootstrapping a new node.\r\n"
+    ],
+    [
+      0.000322,
+      "INFO    22/Mar/2015:23:05:05.081 [77ffd780]         This can take time. Please wait.\r\nINFO    22/Mar/2015:23:05:05.081 [77ffd780]         Run nodetool -h \u003chost\u003e ring kps to monitor progress.\r\n"
+    ],
+    [
+      2.549271,
+      "INFO    22/Mar/2015:23:05:07.629 [77ffd780]         Service started.\r\n"
+    ],
+    [
+      0.002612,
+      "INFO    22/Mar/2015:23:05:07.632 [77ffd780]         JMX is not enabled for this node.\r\nINFO    22/Mar/2015:23:05:07.632 [77ffd780]         JMX is required for cassandra administration in production.\r\n"
+    ],
+    [
+      0.000534,
+      "INFO    22/Mar/2015:23:05:07.632 [77ffd780]         Enable JMX by specifying the -DenableJMX option when running startinstance.\r\nINFO    22/Mar/2015:23:05:07.632 [77ffd780]         Please see the KPS User Guide for more details.\r\n"
+    ],
+    [
+      2.033976,
+      "INFO    22/Mar/2015:23:05:09.644 [77ffd780]     Checking for passphrase changes...\r\n"
+    ],
+    [
+      0.175432,
+      "INFO    22/Mar/2015:23:05:09.842 [77ffd780]     No passphrase changes detected.\r\n"
+    ],
+    [
+      1.299199,
+      "INFO    22/Mar/2015:23:05:11.141 [77ffd780]     Initializing PassPort connection cache.\r\n"
+    ],
+    [
+      0.002124,
+      "INFO    22/Mar/2015:23:05:11.144 [77ffd780]     opdb configuration: { \"enable\":true, \"dataDirectory\":\"conf/opsdb.d\", \"settings\":{ \"targetFileCount\":128, \"targetFileSize\":8388608, \"correlationsPerFile\":100000, \"flushData\":false, \"maxDirtyPages\":256, \"maxSyncTime\":5000, \"pageCacheSize\":6 }}, audit settings: inherited: 0, recordInboundTxns: 1, recordOutboundTxns: 1, record streams: { circuitpath, end, http, inboundtxns, msgHeaders, msgString, outboundtxns, received, rheaders, sent, sheaders, trace, }\r\n"
+    ],
+    [
+      0.063803,
+      "INFO    22/Mar/2015:23:05:11.208 [77ffd780]         TCP interface\r\n"
+    ],
+    [
+      0.000631,
+      "INFO    22/Mar/2015:23:05:11.208 [77ffd780]             checking invariants for interface *:8081\r\nINFO    22/Mar/2015:23:05:11.209 [77ffd780]                 interface is disabled\r\n"
+    ],
+    [
+      0.991725,
+      "INFO    22/Mar/2015:23:05:12.200 [77ffd780]         TCP interface\r\nINFO    22/Mar/2015:23:05:12.201 [77ffd780]             checking invariants for interface *:8080\r\n"
+    ],
+    [
+      0.001190,
+      "INFO    22/Mar/2015:23:05:12.201 [77ffd780]                 listen on address: 0.0.0.0:8080\r\n"
+    ],
+    [
+      4.572745,
+      "INFO    22/Mar/2015:23:05:16.774 [77ffd780] SSL/TCP interface\r\n"
+    ],
+    [
+      0.001504,
+      "INFO    22/Mar/2015:23:05:16.775 [77ffd780]     checking invariants for interface localhost:8085\r\nINFO    22/Mar/2015:23:05:16.775 [77ffd780]         listen on address: ::1:8085\r\nINFO    22/Mar/2015:23:05:16.775 [77ffd780]         listen on address: 127.0.0.1:8085\r\nINFO    22/Mar/2015:23:05:16.776 [77ffd780]     using supplied DH parameters of size 512\r\nINFO    22/Mar/2015:23:05:16.776 [77ffd780]     SSL session cache size for this interface: 32\r\n"
+    ],
+    [
+      0.000978,
+      "INFO    22/Mar/2015:23:05:16.776 [77ffd780]     interface ciphers: DEFAULT\r\n"
+    ],
+    [
+      0.001030,
+      "INFO    22/Mar/2015:23:05:16.777 [77ffd780]     add client CA certificate /CN=Domain\r\n"
+    ],
+    [
+      0.000900,
+      "INFO    22/Mar/2015:23:05:16.778 [77ffd780] operations DB responder waiting for requests on /ops/\r\n"
+    ],
+    [
+      2.414478,
+      "INFO    22/Mar/2015:23:05:19.193 [77ffd780] starting 4 idle netsvc threadpool threads. Max 1024\r\nINFO    22/Mar/2015:23:05:19.194 [77ffd780] service started (version 7.3.1-2014-07-28 rev. 80fd8fe, pid 182)"
+    ],
+    [
+      0.000883,
+      "\r\n"
+    ],
+    [
+      2.224903,
+      "^C"
+    ],
+    [
+      0.029254,
+      "INFO    22/Mar/2015:23:05:21.419 [77fcb700] signal 2 received\r\n"
+    ],
+    [
+      0.749218,
+      "INFO    22/Mar/2015:23:05:22.198 [dba34700] shutting down on signal 2\r\n"
+    ],
+    [
+      0.003919,
+      "INFO    22/Mar/2015:23:05:22.198 [dba34700] Stopping Service VordelGateway\r\n\r\nINFO    22/Mar/2015:23:05:22.200 [77ffd780] draining thread set netsvc threadpool\r\n"
+    ],
+    [
+      0.023039,
+      "INFO    22/Mar/2015:23:05:22.200 [77ffd780] thread set netsvc threadpool drained\r\n"
+    ],
+    [
+      0.035876,
+      "INFO    22/Mar/2015:23:05:22.258 [77fcb700] Pipe Server Stoping \r\n\r\n"
+    ],
+    [
+      0.648361,
+      "INFO    22/Mar/2015:23:05:22.909 [77ffd780] unload 49 modules from [local]-0-[local]\r\n"
+    ],
+    [
+      0.000634,
+      "INFO    22/Mar/2015:23:05:22.909 [77ffd780] Flushing Web Service cache\r\n"
+    ],
+    [
+      0.066402,
+      "INFO    22/Mar/2015:23:05:22.975 [77ffd780] Shutting down embedded KPS service.\r\nINFO    22/Mar/2015:23:05:22.975 [77ffd780] Stopping daemon.\r\n"
+    ],
+    [
+      0.001188,
+      "INFO    22/Mar/2015:23:05:22.977 [77ffd780] Done.\r\n"
+    ],
+    [
+      2.260979,
+      "\r\n"
+    ],
+    [
+      1.389425,
+      "INFO    22/Mar/2015:23:05:26.627 [77ffd780] rolling file trace/gateway1_20150322230456.trc stopped\r\n"
+    ],
+    [
+      1.067330,
+      "docker@boot2docker:/c/Users/cmonks/Docker/gw1$ "
+    ],
+    [
+      2.449473,
+      "e"
+    ],
+    [
+      0.287979,
+      "x"
+    ],
+    [
+      0.144084,
+      "i"
+    ],
+    [
+      0.192097,
+      "t"
+    ],
+    [
+      0.976447,
+      "\r\n"
+    ]
+  ]
+}
