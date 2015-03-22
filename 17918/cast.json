@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "width": 85,
+  "height": 25,
+  "duration": 2.593347,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.023590,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000008,
+      "\u001b[34;1m\u001b[36;1mtenshi@\u001b[32;1m~\u003e \u001b[0m"
+    ],
+    [
+      2.569296,
+      "exit\r\n"
+    ]
+  ]
+}
