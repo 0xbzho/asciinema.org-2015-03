@@ -1,0 +1,4530 @@
+{
+  "version": 1,
+  "width": 101,
+  "height": 24,
+  "duration": 344.188435,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.028710,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000014,
+      "bash-3.2$ "
+    ],
+    [
+      3.938321,
+      "p"
+    ],
+    [
+      0.005366,
+      "w"
+    ],
+    [
+      0.241271,
+      "d"
+    ],
+    [
+      0.095820,
+      "\r\n"
+    ],
+    [
+      0.000482,
+      "/Users/deshbirsinghdugal\r\n"
+    ],
+    [
+      0.000408,
+      "bash-3.2$ "
+    ],
+    [
+      0.799259,
+      "x"
+    ],
+    [
+      0.160110,
+      "d"
+    ],
+    [
+      0.104014,
+      " "
+    ],
+    [
+      0.415788,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.151958,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.134722,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.145210,
+      "\u0007"
+    ],
+    [
+      0.368302,
+      "c"
+    ],
+    [
+      0.176012,
+      "d"
+    ],
+    [
+      0.096013,
+      " "
+    ],
+    [
+      0.495977,
+      "f"
+    ],
+    [
+      0.128006,
+      "o"
+    ],
+    [
+      0.799655,
+      "n"
+    ],
+    [
+      0.086835,
+      "\u0007"
+    ],
+    [
+      0.673731,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "fon/     fon.pem  \r\nbash-3.2$ cd fon"
+    ],
+    [
+      1.151771,
+      "/"
+    ],
+    [
+      0.063705,
+      "\u0007"
+    ],
+    [
+      0.216071,
+      "\r\n"
+    ],
+    [
+      0.000458,
+      "bash-3.2$ "
+    ],
+    [
+      0.743668,
+      "l"
+    ],
+    [
+      0.007642,
+      "s"
+    ],
+    [
+      0.808440,
+      " "
+    ],
+    [
+      0.192029,
+      "-"
+    ],
+    [
+      0.103909,
+      "a"
+    ],
+    [
+      0.095494,
+      "l"
+    ],
+    [
+      0.135893,
+      "\r\n"
+    ],
+    [
+      0.013095,
+      "total 16\r\n"
+    ],
+    [
+      0.000207,
+      "drwxr-xr-x   8 deshbirsinghdugal  staff   272 Mar 14 15:24 .\r\n"
+    ],
+    [
+      0.000280,
+      "drwxr-xr-x+ 68 deshbirsinghdugal  staff  2312 Mar 23 08:08 ..\r\n-rw-r--r--@  1 deshbirsinghdugal  staff  6148 Mar 14 15:24 .DS_Store\r\n"
+    ],
+    [
+      0.000044,
+      "drwxr-xr-x   8 deshbirsinghdugal  staff   272 Mar 19 13:48 bartender-fn\r\n"
+    ],
+    [
+      0.000221,
+      "drwxr-xr-x  13 deshbirsinghdugal  staff   442 Mar 14 10:37 db-schema-fn\r\ndrwxr-xr-x  16 deshbirsinghdugal  staff   544 Mar 14 11:14 houston-fn\r\ndrwxr-xr-x   9 deshbirsinghdugal  staff   306 Mar 19 13:50 openbar-api-fn\r\n"
+    ],
+    [
+      0.000022,
+      "drwxr-xr-x  10 deshbirsinghdugal  staff   340 Mar 16 08:52 vagrant-dev\r\n"
+    ],
+    [
+      0.001003,
+      "bash-3.2$ "
+    ],
+    [
+      6.786043,
+      "#"
+    ],
+    [
+      0.214588,
+      " "
+    ],
+    [
+      0.657279,
+      "S"
+    ],
+    [
+      0.272062,
+      "y"
+    ],
+    [
+      0.183768,
+      "n"
+    ],
+    [
+      0.087435,
+      "c"
+    ],
+    [
+      0.120715,
+      "i"
+    ],
+    [
+      0.127986,
+      "n"
+    ],
+    [
+      0.223887,
+      "g"
+    ],
+    [
+      0.128009,
+      " "
+    ],
+    [
+      0.952186,
+      "b"
+    ],
+    [
+      0.104006,
+      "a"
+    ],
+    [
+      0.623983,
+      "r"
+    ],
+    [
+      1.487867,
+      "t"
+    ],
+    [
+      0.072007,
+      "e"
+    ],
+    [
+      0.160149,
+      "n"
+    ],
+    [
+      0.127982,
+      "d"
+    ],
+    [
+      0.183747,
+      "e"
+    ],
+    [
+      0.592124,
+      "r"
+    ],
+    [
+      0.367949,
+      "\r\n"
+    ],
+    [
+      0.000438,
+      "bash-3.2$ "
+    ],
+    [
+      1.975783,
+      "c"
+    ],
+    [
+      0.199970,
+      "d"
+    ],
+    [
+      0.119435,
+      " "
+    ],
+    [
+      0.536683,
+      "b"
+    ],
+    [
+      0.095564,
+      "artender-fn/"
+    ],
+    [
+      0.800180,
+      "\r\n"
+    ],
+    [
+      0.000460,
+      "bash-3.2$ "
+    ],
+    [
+      3.575804,
+      "l"
+    ],
+    [
+      0.071948,
+      "s"
+    ],
+    [
+      0.063990,
+      " "
+    ],
+    [
+      0.063941,
+      "-"
+    ],
+    [
+      0.135865,
+      "a"
+    ],
+    [
+      0.080180,
+      "l"
+    ],
+    [
+      0.135608,
+      "\r\n"
+    ],
+    [
+      0.007425,
+      "total 64\r\n"
+    ],
+    [
+      0.000306,
+      "drwxr-xr-x   8 deshbirsinghdugal  staff    272 Mar 19 13:48 .\r\n"
+    ],
+    [
+      0.000019,
+      "drwxr-xr-x   8 deshbirsinghdugal  staff    272 Mar 14 15:24 ..\r\ndrwxr-xr-x  15 deshbirsinghdugal  staff    510 Mar 19 13:48 .git\r\n-rw-r--r--   1 deshbirsinghdugal  staff    116 Mar 19 13:48 .gitignore\r\n-rw-r--r--   1 deshbirsinghdugal  staff   6332 Mar 19 13:48 README.md\r\n-rw-r--r--   1 deshbirsinghdugal  staff    282 Mar 14 10:34 package.json\r\n"
+    ],
+    [
+      0.000016,
+      "-rw-r--r--   1 deshbirsinghdugal  staff  15433 Mar 19 13:48 pom.xml\r\n"
+    ],
+    [
+      0.000211,
+      "drwxr-xr-x   4 deshbirsinghdugal  staff    136 Mar 14 10:34 src\r\n"
+    ],
+    [
+      0.000625,
+      "bash-3.2$ "
+    ],
+    [
+      2.566467,
+      "c"
+    ],
+    [
+      0.121014,
+      "h"
+    ],
+    [
+      0.152278,
+      "e"
+    ],
+    [
+      0.248009,
+      "c"
+    ],
+    [
+      0.104306,
+      "k"
+    ],
+    [
+      0.591564,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.135807,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.127021,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.145086,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.128006,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.936190,
+      "#"
+    ],
+    [
+      0.256026,
+      " "
+    ],
+    [
+      0.199964,
+      "C"
+    ],
+    [
+      0.184107,
+      "h"
+    ],
+    [
+      0.215915,
+      "e"
+    ],
+    [
+      0.264640,
+      "c"
+    ],
+    [
+      0.151198,
+      "k"
+    ],
+    [
+      0.152191,
+      "i"
+    ],
+    [
+      0.191958,
+      "n"
+    ],
+    [
+      0.167996,
+      "g"
+    ],
+    [
+      0.104062,
+      " "
+    ],
+    [
+      0.231995,
+      "s"
+    ],
+    [
+      0.215955,
+      "e"
+    ],
+    [
+      0.399856,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.119905,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.408272,
+      "G"
+    ],
+    [
+      0.176006,
+      "I"
+    ],
+    [
+      0.119525,
+      "T"
+    ],
+    [
+      0.576027,
+      " "
+    ],
+    [
+      0.216463,
+      "s"
+    ],
+    [
+      0.183955,
+      "e"
+    ],
+    [
+      0.152026,
+      "t"
+    ],
+    [
+      0.127926,
+      "t"
+    ],
+    [
+      0.184059,
+      "i"
+    ],
+    [
+      0.095831,
+      "n"
+    ],
+    [
+      0.208175,
+      "g"
+    ],
+    [
+      0.063993,
+      "s"
+    ],
+    [
+      0.271777,
+      "\r\n"
+    ],
+    [
+      0.000443,
+      "bash-3.2$ "
+    ],
+    [
+      1.551599,
+      "g"
+    ],
+    [
+      0.224071,
+      "i"
+    ],
+    [
+      0.056056,
+      "t"
+    ],
+    [
+      0.424050,
+      " "
+    ],
+    [
+      0.375964,
+      "r"
+    ],
+    [
+      0.175977,
+      "e"
+    ],
+    [
+      0.111560,
+      "m"
+    ],
+    [
+      0.056359,
+      "o"
+    ],
+    [
+      0.288240,
+      "t"
+    ],
+    [
+      0.111443,
+      "e"
+    ],
+    [
+      0.104095,
+      " "
+    ],
+    [
+      0.184479,
+      "-"
+    ],
+    [
+      0.567745,
+      "v"
+    ],
+    [
+      0.111620,
+      "\r\n"
+    ],
+    [
+      0.068909,
+      "fonantrix\thttps://ruchikagupta01@github.com/fonantrix/bartender-fn.git (fetch)\r\nfonantrix\thttps://ruchikagupta01@github.com/fonantrix/bartender-fn.git (push)\r\norigin\thttps://bhupender.chauhan@stash.dstillery.com/scm/fon/bartender-fn.git (fetch)\r\norigin\thttps://bhupender.chauhan@stash.dstillery.com/scm/fon/bartender-fn.git (push)\r\n"
+    ],
+    [
+      0.000236,
+      "bash-3.2$ "
+    ],
+    [
+      4.442542,
+      "\r\u001b[Kbash-3.2$ "
+    ],
+    [
+      0.050198,
+      "\r\u001b[Kbash-3.2$ "
+    ],
+    [
+      0.025142,
+      "\r\u001b[Kbash-3.2$ "
+    ],
+    [
+      0.021678,
+      "\r\u001b[Kbash-3.2$ "
+    ],
+    [
+      0.022142,
+      "\r\u001b[Kbash-3.2$ "
+    ],
+    [
+      0.017621,
+      "\r\u001b[Kbash-3.2$ "
+    ],
+    [
+      0.043774,
+      "\r\u001b[Kbash-3.2$ "
+    ],
+    [
+      0.052498,
+      "\r\u001b[Kbash-3.2$ "
+    ],
+    [
+      0.359144,
+      "\r\u001b[Kbash-3.2$ "
+    ],
+    [
+      2.865729,
+      "#"
+    ],
+    [
+      0.199143,
+      " "
+    ],
+    [
+      0.711957,
+      "f"
+    ],
+    [
+      0.127943,
+      "o"
+    ],
+    [
+      0.280069,
+      "n"
+    ],
+    [
+      0.183970,
+      "a"
+    ],
+    [
+      0.064013,
+      "n"
+    ],
+    [
+      0.623971,
+      "t"
+    ],
+    [
+      0.144211,
+      "r"
+    ],
+    [
+      0.247842,
+      "i"
+    ],
+    [
+      0.072065,
+      "x"
+    ],
+    [
+      0.096274,
+      " "
+    ],
+    [
+      0.775641,
+      "="
+    ],
+    [
+      0.144041,
+      "="
+    ],
+    [
+      0.135979,
+      "="
+    ],
+    [
+      0.239998,
+      " "
+    ],
+    [
+      0.480081,
+      "G"
+    ],
+    [
+      0.367961,
+      "i"
+    ],
+    [
+      0.160029,
+      "t"
+    ],
+    [
+      0.112023,
+      "i"
+    ],
+    [
+      0.223962,
+      "h"
+    ],
+    [
+      0.799456,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.128356,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.064260,
+      "h"
+    ],
+    [
+      0.151696,
+      "u"
+    ],
+    [
+      0.264266,
+      "n"
+    ],
+    [
+      0.575643,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.248213,
+      "n"
+    ],
+    [
+      0.487979,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.256148,
+      "b"
+    ],
+    [
+      1.095835,
+      "\r\n"
+    ],
+    [
+      0.000466,
+      "bash-3.2$ "
+    ],
+    [
+      3.591890,
+      "#"
+    ],
+    [
+      0.151713,
+      " "
+    ],
+    [
+      0.760091,
+      "o"
+    ],
+    [
+      0.279872,
+      "r"
+    ],
+    [
+      0.120168,
+      "g"
+    ],
+    [
+      0.175984,
+      "i"
+    ],
+    [
+      0.080072,
+      "n"
+    ],
+    [
+      0.624358,
+      " "
+    ],
+    [
+      1.143209,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.144136,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.128062,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.199925,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.551062,
+      "i"
+    ],
+    [
+      0.321182,
+      "g"
+    ],
+    [
+      0.064018,
+      "i"
+    ],
+    [
+      0.167874,
+      "n"
+    ],
+    [
+      0.136099,
+      " "
+    ],
+    [
+      0.759866,
+      "="
+    ],
+    [
+      0.152152,
+      "="
+    ],
+    [
+      0.128017,
+      "="
+    ],
+    [
+      0.167981,
+      " "
+    ],
+    [
+      0.744114,
+      "S"
+    ],
+    [
+      0.279949,
+      "t"
+    ],
+    [
+      0.439880,
+      "a"
+    ],
+    [
+      0.496144,
+      "s"
+    ],
+    [
+      0.095562,
+      "h"
+    ],
+    [
+      0.304225,
+      "\r\n"
+    ],
+    [
+      0.000441,
+      "bash-3.2$ "
+    ],
+    [
+      1.271652,
+      "g"
+    ],
+    [
+      0.112136,
+      "i"
+    ],
+    [
+      0.104033,
+      "t"
+    ],
+    [
+      0.071353,
+      " "
+    ],
+    [
+      0.544624,
+      "s"
+    ],
+    [
+      0.151844,
+      "t"
+    ],
+    [
+      0.079541,
+      "a"
+    ],
+    [
+      0.080572,
+      "t"
+    ],
+    [
+      0.271976,
+      "u"
+    ],
+    [
+      0.104289,
+      "s"
+    ],
+    [
+      0.223543,
+      "\r\n"
+    ],
+    [
+      0.107586,
+      "On branch master\r\n"
+    ],
+    [
+      0.001326,
+      "Your branch is up-to-date with 'fonantrix/master'.\r\n"
+    ],
+    [
+      0.000101,
+      "\r\nnothing to commit, working directory clean\r\n"
+    ],
+    [
+      0.001500,
+      "bash-3.2$ "
+    ],
+    [
+      8.897957,
+      "#"
+    ],
+    [
+      0.191870,
+      " "
+    ],
+    [
+      0.343987,
+      "S"
+    ],
+    [
+      0.319985,
+      "o"
+    ],
+    [
+      0.135986,
+      " "
+    ],
+    [
+      0.288025,
+      "m"
+    ],
+    [
+      0.263996,
+      "y"
+    ],
+    [
+      0.159989,
+      " "
+    ],
+    [
+      0.647972,
+      "l"
+    ],
+    [
+      0.160003,
+      "o"
+    ],
+    [
+      0.128017,
+      "c"
+    ],
+    [
+      0.199827,
+      "a"
+    ],
+    [
+      0.039979,
+      "l"
+    ],
+    [
+      0.112234,
+      " "
+    ],
+    [
+      0.144023,
+      "i"
+    ],
+    [
+      0.079985,
+      "s"
+    ],
+    [
+      0.103966,
+      " "
+    ],
+    [
+      1.383999,
+      "u"
+    ],
+    [
+      0.167993,
+      "p"
+    ],
+    [
+      0.207881,
+      "t"
+    ],
+    [
+      0.064171,
+      "o"
+    ],
+    [
+      0.111522,
+      " "
+    ],
+    [
+      0.352431,
+      "d"
+    ],
+    [
+      0.200006,
+      "a"
+    ],
+    [
+      0.079995,
+      "t"
+    ],
+    [
+      0.640023,
+      "e"
+    ],
+    [
+      0.152006,
+      " "
+    ],
+    [
+      1.015873,
+      "w"
+    ],
+    [
+      0.088116,
+      "i"
+    ],
+    [
+      0.239908,
+      "t"
+    ],
+    [
+      0.048094,
+      "h"
+    ],
+    [
+      0.111960,
+      " "
+    ],
+    [
+      0.543987,
+      "G"
+    ],
+    [
+      0.616041,
+      "i"
+    ],
+    [
+      0.111993,
+      "t"
+    ],
+    [
+      0.864027,
+      "H"
+    ],
+    [
+      0.183962,
+      "u"
+    ],
+    [
+      0.407979,
+      "b"
+    ],
+    [
+      3.087886,
+      "\r\n"
+    ],
+    [
+      0.000427,
+      "bash-3.2$ "
+    ],
+    [
+      0.919702,
+      "#"
+    ],
+    [
+      0.168039,
+      " "
+    ],
+    [
+      0.511979,
+      "L"
+    ],
+    [
+      0.240233,
+      "e"
+    ],
+    [
+      0.039563,
+      "t"
+    ],
+    [
+      0.103962,
+      " "
+    ],
+    [
+      0.760305,
+      "c"
+    ],
+    [
+      0.151906,
+      "j"
+    ],
+    [
+      0.415940,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.224787,
+      "h"
+    ],
+    [
+      0.119461,
+      "e"
+    ],
+    [
+      0.472002,
+      "c"
+    ],
+    [
+      0.095914,
+      "k"
+    ],
+    [
+      0.360139,
+      " "
+    ],
+    [
+      0.270652,
+      "w"
+    ],
+    [
+      0.304932,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.224356,
+      "f"
+    ],
+    [
+      0.000726,
+      "i"
+    ],
+    [
+      0.191222,
+      " "
+    ],
+    [
+      0.471794,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.111971,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.128005,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.168209,
+      "i"
+    ],
+    [
+      0.127996,
+      "f"
+    ],
+    [
+      0.072089,
+      " "
+    ],
+    [
+      0.151906,
+      "t"
+    ],
+    [
+      0.200008,
+      "h"
+    ],
+    [
+      0.095990,
+      "e"
+    ],
+    [
+      0.111763,
+      "r"
+    ],
+    [
+      0.048134,
+      "e"
+    ],
+    [
+      0.272822,
+      "'"
+    ],
+    [
+      0.119154,
+      "s"
+    ],
+    [
+      0.064182,
+      " "
+    ],
+    [
+      0.247946,
+      "a"
+    ],
+    [
+      0.063900,
+      "n"
+    ],
+    [
+      0.224339,
+      "y"
+    ],
+    [
+      0.271776,
+      "t"
+    ],
+    [
+      0.088017,
+      "h"
+    ],
+    [
+      0.095988,
+      "i"
+    ],
+    [
+      0.119797,
+      "n"
+    ],
+    [
+      0.200074,
+      "g"
+    ],
+    [
+      0.080173,
+      " "
+    ],
+    [
+      0.311957,
+      "n"
+    ],
+    [
+      0.176075,
+      "e"
+    ],
+    [
+      0.055754,
+      "w"
+    ],
+    [
+      0.080181,
+      " "
+    ],
+    [
+      0.591922,
+      "o"
+    ],
+    [
+      0.176090,
+      "n"
+    ],
+    [
+      0.063531,
+      " "
+    ],
+    [
+      0.312328,
+      "S"
+    ],
+    [
+      0.863881,
+      "t"
+    ],
+    [
+      0.120343,
+      "a"
+    ],
+    [
+      0.271992,
+      "s"
+    ],
+    [
+      0.191993,
+      "h"
+    ],
+    [
+      0.791845,
+      "\r\n"
+    ],
+    [
+      0.000441,
+      "bash-3.2$ "
+    ],
+    [
+      0.767900,
+      "g"
+    ],
+    [
+      0.360187,
+      "t"
+    ],
+    [
+      0.063728,
+      " "
+    ],
+    [
+      0.543742,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.135941,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.240230,
+      "i"
+    ],
+    [
+      0.096008,
+      "t"
+    ],
+    [
+      0.167851,
+      " "
+    ],
+    [
+      0.537029,
+      "p"
+    ],
+    [
+      0.302939,
+      "u"
+    ],
+    [
+      0.272094,
+      "l"
+    ],
+    [
+      0.119899,
+      "l"
+    ],
+    [
+      0.360323,
+      " "
+    ],
+    [
+      3.919806,
+      "o"
+    ],
+    [
+      0.088260,
+      "r"
+    ],
+    [
+      0.360029,
+      "g"
+    ],
+    [
+      0.136499,
+      "i"
+    ],
+    [
+      0.175363,
+      "n"
+    ],
+    [
+      0.631864,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.135978,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.119934,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.256262,
+      "i"
+    ],
+    [
+      0.351840,
+      "g"
+    ],
+    [
+      0.072143,
+      "i"
+    ],
+    [
+      0.160008,
+      "n"
+    ],
+    [
+      0.895899,
+      " "
+    ],
+    [
+      0.216087,
+      "m"
+    ],
+    [
+      0.111944,
+      "a"
+    ],
+    [
+      0.208084,
+      "s"
+    ],
+    [
+      0.143842,
+      "t"
+    ],
+    [
+      0.551962,
+      "e"
+    ],
+    [
+      0.072265,
+      "r"
+    ],
+    [
+      0.423719,
+      "\r\n"
+    ],
+    [
+      16.219929,
+      "remote: Counting objects: 1   \u001b[K\rremote: Counting objects: 360, done.\u001b[K\r\nremote: Compressing objects:   0% (1/355)   \u001b[K\rremote: Compressing objects:   1% (4/355)   \u001b[K\rremote: Compressing objects:   2% (8/355)   \u001b[K\rremote: Compressing objects:   3% (11/355)   \u001b[K\rremote: Compressing objects:   4% (15/355)   \u001b[K\rremote: Compressing objects:   5% (18/355)   \u001b[K\rremote: Compressing objects:   6% (22/355)   \u001b[K\rremote: Compressing objects:   7% (25/355)   \u001b[K\rremote: Compressing objects:   8% (29/355)   \u001b[K\rremote: Compressing objects:   9% (32/355)   \u001b[K\rremote: Compressing objects:  10% (36/355)   \u001b[K\rremote: Compressing objects:  11% (40/355)   \u001b[K\rremote: Compressing objects:  12% (43/355)   \u001b[K\rremote: Compressing objects:  13% (47/355)   \u001b[K\rremote: Compressing objects:  14% (50/355)   \u001b[K\rremote: Compressing objects:  15% (54/355)   \u001b[K\r"
+    ],
+    [
+      0.000606,
+      "remote: Compressing objects:  16% (57/355)   \u001b[K\rremote: Compressing objects:  17% (61/355)   \u001b[K\rremote: Compressing objects:  18% (64/355)   \u001b[K\rremote: Compressing objects:  19% (68/355)   \u001b[K\rremote: Compressing objects:  20% (71/355)   \u001b[K\rremote: Compressing objects:  21% (75/355)   \u001b[K\rremote: Compressing objects:  22% (79/355)   \u001b[K\rremote: Compressing objects:  23% (82/355)   \u001b[K\rremote: Compressing objects:  24% (86/355)   \u001b[K\rremote: Compressing objects:  25% (89/355)   \u001b[K\rremote: Compressing objects:  26% (93/355)   \u001b[K\rremote: Compressing objects:  27% (96/355)   \u001b[K\rremote: Compressing objects:  28% (100/355)   \u001b[K\rremote: Compressing objects:  29% (103/355)   \u001b[K\rremote: Compressing objects:  30% (107/355)   \u001b[K\rremote: Compressing objects:  31% (111/355)   \u001b[K\rremote: Compressing objects:  32% (114/355)   \u001b[K\rremote: Compressing objects:  33% (118/355)   \u001b[K\rremote: Compressing objects:  34% (121/355)   \u001b[K\rremote: Compressing objects:  35% (125/355)   \u001b[K\rremote: Compressing objects:  36% (1"
+    ],
+    [
+      0.000585,
+      "28/355)   \u001b[K\rremote: Compressing objects:  37% (132/355)   \u001b[K\rremote: Compressing objects:  38% (135/355)   \u001b[K\rremote: Compressing objects:  39% (139/355)   \u001b[K\rremote: Compressing objects:  40% (142/355)   \u001b[K\rremote: Compressing objects:  41% (146/355)   \u001b[K\rremote: Compressing objects:  42% (150/355)   \u001b[K\rremote: Compressing objects:  43% (153/355)   \u001b[K\rremote: Compressing objects:  44% (157/355)   \u001b[K\rremote: Compressing objects:  45% (160/355)   \u001b[K\rremote: Compressing objects:  46% (164/355)   \u001b[K\rremote: Compressing objects:  47% (167/355)   \u001b[K\rremote: Compressing objects:  48% (171/355)   \u001b[K\rremote: Compressing objects:  49% (174/355)   \u001b[K\rremote: Compressing objects:  50% (178/355)   \u001b[K\rremote: Compressing objects:  51% (182/355)   \u001b[K\rremote: Compressing objects:  52% (185/355)   \u001b[K\rremote: Compressing objects:  53% (189/355)   \u001b[K\rremote: Compressing objects:  54% (192/355)   \u001b[K\rremote: Compressing objects:  55% (196/355)   \u001b[K\rremote: Compressing objects:  56% (199/355)   \u001b[K\rremote: Co"
+    ],
+    [
+      0.000582,
+      "mpressing objects:  57% (203/355)   \u001b[K\rremote: Compressing objects:  58% (206/355)   \u001b[K\rremote: Compressing objects:  59% (210/355)   \u001b[K\rremote: Compressing objects:  60% (213/355)   \u001b[K\rremote: Compressing objects:  61% (217/355)   \u001b[K\rremote: Compressing objects:  62% (221/355)   \u001b[K\rremote: Compressing objects:  63% (224/355)   \u001b[K\rremote: Compressing objects:  64% (228/355)   \u001b[K\rremote: Compressing objects:  65% (231/355)   \u001b[K\rremote: Compressing objects:  66% (235/355)   \u001b[K\rremote: Compressing objects:  67% (238/355)   \u001b[K\rremote: Compressing objects:  68% (242/355)   \u001b[K\rremote: Compressing objects:  69% (245/355)   \u001b[K\rremote: Compressing objects:  70% (249/355)   \u001b[K\rremote: Compressing objects:  71% (253/355)   \u001b[K\rremote: Compressing objects:  72% (256/355)   \u001b[K\rremote: Compressing objects:  73% (260/355)   \u001b[K\rremote: Compressing objects:  74% (263/355)   \u001b[K\rremote: Compressing objects:  75% (267/355)   \u001b[K\rremote: Compressing objects:  76% (270/355)   \u001b[K\rremote: Compressing objects:  77% "
+    ],
+    [
+      0.000062,
+      "(274/355)   \u001b[K\rremote: Compressing objects:  78% (277/355)   \u001b[K\rremote: Compressing objects:  79% (281/355)   \u001b[K\rremote: Compressing objects:  80% (284/355)   \u001b[K\rremote: Compressing objects:  81% (288/355)   \u001b[K\rremote: Compressing objects:  82% (292/355)   \u001b[K\rremote: Compressing objects:  83% (295/355)   \u001b[K\rremote: Compressing objects:  84% (299/355)   \u001b[K\rremote: Compressing objects:  85% (302/355)   \u001b[K\rremote: Compressing objects:  86% (306/355)   \u001b[K\rremote: Compressing objects:  87% (309/355)   \u001b[K\rremote: Compressing objects:  88% (313/355)   \u001b[K\rremote: Compressing objects:  89% (316/355)   \u001b[K\rremote: Compressing objects:  90% (320/355)   \u001b[K\rremote: Compressing objects:  91% (324/355)   \u001b[K\rremote: Compressing objects:  92% (327/355)   \u001b[K\rremote: Compressing objects:  93% (331/355)   \u001b[K\rremote: Compressing objects:  94% (334/355)   \u001b[K\rremote: Compressing objects:  95% (338/355)   \u001b[K\rremote: Compressing objects:  96% (341/355)   \u001b[K\rremote: Compressing objects:  97% (345/355)   \u001b[K\rremote: "
+    ],
+    [
+      0.000117,
+      "Compressing objects:  98% (348/355)   \u001b[K\rremote: Compressing objects:  99% (352/355)   \u001b[K\rremote: Compressing objects: 100% (355/355)   \u001b[K\rremote: Compressing objects: 100% (355/355), done.\u001b[K\r\n"
+    ],
+    [
+      0.498429,
+      "Receiving objects:   0% (1/360)   \r"
+    ],
+    [
+      0.000173,
+      "Receiving objects:   1% (4/360)   \r"
+    ],
+    [
+      0.000341,
+      "Receiving objects:   2% (8/360)   \r"
+    ],
+    [
+      0.000303,
+      "Receiving objects:   3% (11/360)   \r"
+    ],
+    [
+      0.000263,
+      "Receiving objects:   4% (15/360)   \r"
+    ],
+    [
+      0.000313,
+      "Receiving objects:   5% (18/360)   \r"
+    ],
+    [
+      0.000204,
+      "Receiving objects:   6% (22/360)   \r"
+    ],
+    [
+      0.000420,
+      "Receiving objects:   7% (26/360)   \r"
+    ],
+    [
+      0.000176,
+      "Receiving objects:   8% (29/360)   \r"
+    ],
+    [
+      0.000374,
+      "Receiving objects:   9% (33/360)   \r"
+    ],
+    [
+      0.000159,
+      "Receiving objects:  10% (36/360)   \r"
+    ],
+    [
+      0.000231,
+      "Receiving objects:  11% (40/360)   \r"
+    ],
+    [
+      0.000169,
+      "Receiving objects:  12% (44/360)   \rReceiving objects:  13% (47/360)   \rReceiving objects:  14% (51/360)   \rReceiving objects:  15% (54/360)   \r"
+    ],
+    [
+      0.000160,
+      "Receiving objects:  16% (58/360)   \r"
+    ],
+    [
+      0.000173,
+      "Receiving objects:  17% (62/360)   \rReceiving objects:  18% (65/360)   \rReceiving objects:  19% (69/360)   \rReceiving objects:  20% (72/360)   \rReceiving objects:  21% (76/360)   \r"
+    ],
+    [
+      0.000236,
+      "Receiving objects:  22% (80/360)   \r"
+    ],
+    [
+      0.000159,
+      "Receiving objects:  23% (83/360)   \r"
+    ],
+    [
+      0.000174,
+      "Receiving objects:  24% (87/360)   \r"
+    ],
+    [
+      0.000159,
+      "Receiving objects:  25% (90/360)   \r"
+    ],
+    [
+      0.000166,
+      "Receiving objects:  26% (94/360)   \rReceiving objects:  27% (98/360)   \rReceiving objects:  28% (101/360)   \r"
+    ],
+    [
+      0.000160,
+      "Receiving objects:  29% (105/360)   \r"
+    ],
+    [
+      0.000159,
+      "Receiving objects:  30% (108/360)   \r"
+    ],
+    [
+      0.000161,
+      "Receiving objects:  31% (112/360)   \rReceiving objects:  32% (116/360)   \r"
+    ],
+    [
+      0.000162,
+      "Receiving objects:  33% (119/360)   \rReceiving objects:  34% (123/360)   \r"
+    ],
+    [
+      0.000158,
+      "Receiving objects:  35% (126/360)   \r"
+    ],
+    [
+      0.000160,
+      "Receiving objects:  36% (130/360)   \rReceiving objects:  37% (134/360)   \r"
+    ],
+    [
+      0.000160,
+      "Receiving objects:  38% (137/360)   \rReceiving objects:  39% (141/360)   \r"
+    ],
+    [
+      0.000161,
+      "Receiving objects:  40% (144/360)   \rReceiving objects:  41% (148/360)   \r"
+    ],
+    [
+      0.000160,
+      "Receiving objects:  42% (152/360)   \rReceiving objects:  43% (155/360)   \r"
+    ],
+    [
+      0.000160,
+      "Receiving objects:  44% (159/360)   \rReceiving objects:  45% (162/360)   \r"
+    ],
+    [
+      0.000160,
+      "Receiving objects:  46% (166/360)   \rReceiving objects:  47% (170/360)   \r"
+    ],
+    [
+      0.000165,
+      "Receiving objects:  48% (173/360)   \rReceiving objects:  49% (177/360)   \rReceiving objects:  50% (180/360)   \r"
+    ],
+    [
+      0.000098,
+      "Receiving objects:  51% (184/360)   \rReceiving objects:  52% (188/360)   \rReceiving objects:  53% (191/360)   \r"
+    ],
+    [
+      0.000067,
+      "Receiving objects:  54% (195/360)   \rReceiving objects:  55% (198/360)   \r"
+    ],
+    [
+      0.592952,
+      "Receiving objects:  56% (202/360), 28.00 KiB | 40.00 KiB/s   \rReceiving objects:  57% (206/360), 28.00 KiB | 40.00 KiB/s   \rReceiving objects:  58% (209/360), 28.00 KiB | 40.00 KiB/s   \rReceiving objects:  59% (213/360), 28.00 KiB | 40.00 KiB/s   \rremote: Total 360 (delta 244), reused 0 (delta 0)\u001b[K\r\nReceiving objects:  60% (216/360), 28.00 KiB | 40.00 KiB/s   \rReceiving objects:  61% (220/360), 28.00 KiB | 40.00 KiB/s   \r"
+    ],
+    [
+      0.000621,
+      "Receiving objects:  62% (224/360), 28.00 KiB | 40.00 KiB/s   \rReceiving objects:  63% (227/360), 28.00 KiB | 40.00 KiB/s   \rReceiving objects:  64% (231/360), 28.00 KiB | 40.00 KiB/s   \rReceiving objects:  65% (234/360), 28.00 KiB | 40.00 KiB/s   \r"
+    ],
+    [
+      0.000553,
+      "Receiving objects:  66% (238/360), 28.00 KiB | 40.00 KiB/s   \rReceiving objects:  67% (242/360), 28.00 KiB | 40.00 KiB/s   \rReceiving objects:  68% (245/360), 28.00 KiB | 40.00 KiB/s   \rReceiving objects:  69% (249/360), 28.00 KiB | 40.00 KiB/s   \rReceiving objects:  70% (252/360), 28.00 KiB | 40.00 KiB/s   \rReceiving objects:  71% (256/360), 28.00 KiB | 40.00 KiB/s   \rReceiving objects:  72% (260/360), 28.00 KiB | 40.00 KiB/s   \rReceiving objects:  73% (263/360), 28.00 KiB | 40.00 KiB/s   \r"
+    ],
+    [
+      0.000193,
+      "Receiving objects:  74% (267/360), 28.00 KiB | 40.00 KiB/s   \r"
+    ],
+    [
+      0.000199,
+      "Receiving objects:  75% (270/360), 28.00 KiB | 40.00 KiB/s   \r"
+    ],
+    [
+      0.000419,
+      "Receiving objects:  76% (274/360), 28.00 KiB | 40.00 KiB/s   \rReceiving objects:  77% (278/360), 28.00 KiB | 40.00 KiB/s   \rReceiving objects:  78% (281/360), 28.00 KiB | 40.00 KiB/s   \rReceiving objects:  79% (285/360), 28.00 KiB | 40.00 KiB/s   \rReceiving objects:  80% (288/360), 28.00 KiB | 40.00 KiB/s   \r"
+    ],
+    [
+      0.000181,
+      "Receiving objects:  81% (292/360), 28.00 KiB | 40.00 KiB/s   \r"
+    ],
+    [
+      0.002737,
+      "Receiving objects:  82% (296/360), 28.00 KiB | 40.00 KiB/s   \r"
+    ],
+    [
+      0.000207,
+      "Receiving objects:  83% (299/360), 28.00 KiB | 40.00 KiB/s   \rReceiving objects:  84% (303/360), 28.00 KiB | 40.00 KiB/s   \rReceiving objects:  85% (306/360), 28.00 KiB | 40.00 KiB/s   \rReceiving objects:  86% (310/360), 28.00 KiB | 40.00 KiB/s   \rReceiving objects:  87% (314/360), 28.00 KiB | 40.00 KiB/s   \r"
+    ],
+    [
+      0.000164,
+      "Receiving objects:  88% (317/360), 28.00 KiB | 40.00 KiB/s   \r"
+    ],
+    [
+      0.000176,
+      "Receiving objects:  89% (321/360), 28.00 KiB | 40.00 KiB/s   \rReceiving objects:  90% (324/360), 28.00 KiB | 40.00 KiB/s   \rReceiving objects:  91% (328/360), 28.00 KiB | 40.00 KiB/s   \rReceiving objects:  92% (332/360), 28.00 KiB | 40.00 KiB/s   \r"
+    ],
+    [
+      0.000039,
+      "Receiving objects:  93% (335/360), 28.00 KiB | 40.00 KiB/s   \rReceiving objects:  94% (339/360), 28.00 KiB | 40.00 KiB/s   \rReceiving objects:  95% (342/360), 28.00 KiB | 40.00 KiB/s   \rReceiving objects:  96% (346/360), 28.00 KiB | 40.00 KiB/s   \r"
+    ],
+    [
+      0.000175,
+      "Receiving objects:  97% (350/360), 28.00 KiB | 40.00 KiB/s   \r"
+    ],
+    [
+      0.000009,
+      "Receiving objects:  98% (353/360), 28.00 KiB | 40.00 KiB/s   \r"
+    ],
+    [
+      0.000166,
+      "Receiving objects:  99% (357/360), 28.00 KiB | 40.00 KiB/s   \rReceiving objects: 100% (360/360), 28.00 KiB | 40.00 KiB/s   \rReceiving objects: 100% (360/360), 37.28 KiB | 40.00 KiB/s, done.\r\n"
+    ],
+    [
+      0.000233,
+      "Resolving deltas:   0% (0/244)   \r"
+    ],
+    [
+      0.000571,
+      "Resolving deltas:   1% (4/244)   \r"
+    ],
+    [
+      0.000454,
+      "Resolving deltas:   3% (8/244)   \r"
+    ],
+    [
+      0.000733,
+      "Resolving deltas:   6% (15/244)   \r"
+    ],
+    [
+      0.001474,
+      "Resolving deltas:  12% (31/244)   \r"
+    ],
+    [
+      0.000229,
+      "Resolving deltas:  13% (33/244)   \r"
+    ],
+    [
+      0.000923,
+      "Resolving deltas:  17% (43/244)   \r"
+    ],
+    [
+      0.000433,
+      "Resolving deltas:  19% (47/244)   \r"
+    ],
+    [
+      0.000330,
+      "Resolving deltas:  20% (50/244)   \r"
+    ],
+    [
+      0.000293,
+      "Resolving deltas:  21% (52/244)   \rResolving deltas:  22% (54/244)   \r"
+    ],
+    [
+      0.000294,
+      "Resolving deltas:  23% (58/244)   \r"
+    ],
+    [
+      0.000768,
+      "Resolving deltas:  25% (62/244)   \r"
+    ],
+    [
+      0.001067,
+      "Resolving deltas:  26% (65/244)   \r"
+    ],
+    [
+      0.001492,
+      "Resolving deltas:  34% (83/244)   \r"
+    ],
+    [
+      0.000380,
+      "Resolving deltas:  35% (86/244)   \r"
+    ],
+    [
+      0.002236,
+      "Resolving deltas:  46% (113/244)   \r"
+    ],
+    [
+      0.001459,
+      "Resolving deltas:  47% (115/244)   \r"
+    ],
+    [
+      0.001520,
+      "Resolving deltas:  48% (118/244)   \r"
+    ],
+    [
+      0.001208,
+      "Resolving deltas:  49% (120/244)   \r"
+    ],
+    [
+      0.000420,
+      "Resolving deltas:  50% (122/244)   \r"
+    ],
+    [
+      0.001074,
+      "Resolving deltas:  52% (127/244)   \r"
+    ],
+    [
+      0.001101,
+      "Resolving deltas:  54% (132/244)   \r"
+    ],
+    [
+      0.002168,
+      "Resolving deltas:  59% (144/244)   \r"
+    ],
+    [
+      0.001067,
+      "Resolving deltas:  61% (150/244)   \r"
+    ],
+    [
+      0.000379,
+      "Resolving deltas:  63% (154/244)   \r"
+    ],
+    [
+      0.001928,
+      "Resolving deltas:  64% (157/244)   \r"
+    ],
+    [
+      0.001537,
+      "Resolving deltas:  65% (160/244)   \r"
+    ],
+    [
+      0.002798,
+      "Resolving deltas:  66% (162/244)   \r"
+    ],
+    [
+      0.006064,
+      "Resolving deltas:  67% (165/244)   \r"
+    ],
+    [
+      0.000033,
+      "Resolving deltas:  68% (166/244)   \r"
+    ],
+    [
+      0.004181,
+      "Resolving deltas:  69% (170/244)   \r"
+    ],
+    [
+      0.004765,
+      "Resolving deltas:  70% (171/244)   \r"
+    ],
+    [
+      0.000054,
+      "Resolving deltas:  71% (175/244)   \r"
+    ],
+    [
+      0.001523,
+      "Resolving deltas:  72% (177/244)   \r"
+    ],
+    [
+      0.000357,
+      "Resolving deltas:  74% (181/244)   \r"
+    ],
+    [
+      0.000375,
+      "Resolving deltas:  75% (185/244)   \r"
+    ],
+    [
+      0.001669,
+      "Resolving deltas:  85% (209/244)   \r"
+    ],
+    [
+      0.000515,
+      "Resolving deltas:  88% (215/244)   \r"
+    ],
+    [
+      0.004488,
+      "Resolving deltas:  89% (218/244)   \r"
+    ],
+    [
+      0.002059,
+      "Resolving deltas:  90% (221/244)   \r"
+    ],
+    [
+      0.000824,
+      "Resolving deltas:  91% (224/244)   \r"
+    ],
+    [
+      0.000198,
+      "Resolving deltas:  92% (225/244)   \r"
+    ],
+    [
+      0.001153,
+      "Resolving deltas:  93% (227/244)   \r"
+    ],
+    [
+      0.002914,
+      "Resolving deltas:  94% (230/244)   \r"
+    ],
+    [
+      0.001936,
+      "Resolving deltas:  96% (235/244)   \r"
+    ],
+    [
+      0.005378,
+      "Resolving deltas:  97% (239/244)   \r"
+    ],
+    [
+      0.000349,
+      "Resolving deltas:  98% (240/244)   \r"
+    ],
+    [
+      0.008516,
+      "Resolving deltas:  99% (242/244)   \r"
+    ],
+    [
+      0.001017,
+      "Resolving deltas: 100% (244/244)   \rResolving deltas: 100% (244/244), completed with 52 local objects.\r\n"
+    ],
+    [
+      0.029201,
+      "From https://stash.dstillery.com/scm/fon/bartender-fn\r\n * branch            master     -\u003e FETCH_HEAD\r\n"
+    ],
+    [
+      0.006526,
+      "   c37360c..a6dca53  master     -\u003e origin/master\r\n"
+    ],
+    [
+      0.046154,
+      "Updating c37360c..a6dca53\r\n"
+    ],
+    [
+      0.024660,
+      "Fast-forward\r\n"
+    ],
+    [
+      0.021370,
+      " pom.xml                                                          |   2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n src/main/webapp/app/advertiser/edit.html                         |   6 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n src/main/webapp/app/campaign/add.html                            |  23 \u001b[32m+\u001b[m\u001b[31m--\u001b[m\r\n src/main/webapp/app/campaign/edit.html                           |  18 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n src/main/webapp/app/common/services/datepicker.js                |  12 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n src/main/webapp/app/creative/add.html                            |   5 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n"
+    ],
+    [
+      0.000023,
+      " src/main/webapp/app/creative/creative.js                         |  39 \u001b[32m+++\u001b[m\u001b[31m-\u001b[m\r\n src/main/webapp/app/creative/creativeService.js                  |  42 \u001b[32m++++\u001b[m\u001b[31m-\u001b[m\r\n src/main/webapp/app/creative/edit.html                           |  12 \u001b[32m++\u001b[m\r\n"
+    ],
+    [
+      0.000036,
+      " src/main/webapp/app/targetgroup/add.html                         |  24 \u001b[32m++\u001b[m\u001b[31m-\u001b[m\r\n"
+    ],
+    [
+      0.000088,
+      " src/main/webapp/app/targetgroup/content.html                     |  18 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n src/main/webapp/app/targetgroup/device.html                      |   6 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n"
+    ],
+    [
+      0.000035,
+      " src/main/webapp/app/targetgroup/edit.html                        |  24 \u001b[32m++\u001b[m\u001b[31m-\u001b[m\r\n"
+    ],
+    [
+      0.000033,
+      " src/main/webapp/app/targetgroup/recency.html                     |  35 \u001b[32m++\u001b[m\u001b[31m--\u001b[m\r\n"
+    ],
+    [
+      0.000032,
+      " src/main/webapp/app/targetgroup/segment.html                     |  32 \u001b[32m++\u001b[m\u001b[31m--\u001b[m\r\n"
+    ],
+    [
+      0.000032,
+      " src/main/webapp/app/targetgroup/segmentFx.html                   |   4 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n"
+    ],
+    [
+      0.000123,
+      " src/main/webapp/app/targetgroup/targetGroupConstants.js          |  39 \u001b[32m++\u001b[m\u001b[31m--\u001b[m\r\n"
+    ],
+    [
+      0.000056,
+      " src/main/webapp/app/targetgroup/targetgroup.js                   | 279 \u001b[32m+++++++++++++++\u001b[m\u001b[31m-------------\u001b[m\r\n"
+    ],
+    [
+      0.000138,
+      " src/main/webapp/app/targetgroup/targetgroupHelper.js             | 162 \u001b[32m++++++++\u001b[m\u001b[31m--------\u001b[m\r\n"
+    ],
+    [
+      0.000107,
+      " .../img/{location-retargeting.png =\u003e location-targeting.png}     | Bin\r\n"
+    ],
+    [
+      0.000151,
+      " src/main/webapp/css/bartender.css                                |  30 \u001b[32m++\u001b[m\u001b[31m-\u001b[m\r\n"
+    ],
+    [
+      0.000089,
+      " src/main/webapp/css/responsive/common.css                        |  14 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n"
+    ],
+    [
+      0.000087,
+      " src/test/webapp/e2e/app/advertiser/advertiser.scenario.js        |  13 \u001b[32m++\u001b[m\r\n"
+    ],
+    [
+      0.000075,
+      " src/test/webapp/e2e/app/targetgroup/targetgroup.scenario.js      |  42 \u001b[32m+++\u001b[m\u001b[31m--\u001b[m\r\n"
+    ],
+    [
+      0.000097,
+      " src/test/webapp/unit/app/creative/creativeService.spec.js        |  46 \u001b[32m+++++\u001b[m\r\n"
+    ],
+    [
+      0.000086,
+      " src/test/webapp/unit/app/targetgroup/targetgroup.spec.js         |   2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n"
+    ],
+    [
+      0.000086,
+      " src/test/webapp/unit/app/targetgroup/targetgroupService.spec.js  |  31 \u001b[32m+++\u001b[m\u001b[31m-\u001b[m\r\n"
+    ],
+    [
+      0.000100,
+      " 27 files changed, 594 insertions(+), 366 deletions(-)\r\n"
+    ],
+    [
+      0.000322,
+      " rename src/main/webapp/assets/img/{location-retargeting.png =\u003e location-targeting.png} (100%)\r\n"
+    ],
+    [
+      0.002695,
+      "bash-3.2$ "
+    ],
+    [
+      4.449702,
+      "#"
+    ],
+    [
+      0.151820,
+      " "
+    ],
+    [
+      0.919972,
+      "W"
+    ],
+    [
+      0.343984,
+      "o"
+    ],
+    [
+      0.096040,
+      "w"
+    ],
+    [
+      0.879957,
+      "."
+    ],
+    [
+      0.120000,
+      "."
+    ],
+    [
+      0.448108,
+      "!"
+    ],
+    [
+      0.159906,
+      " "
+    ],
+    [
+      0.840165,
+      "\r\n"
+    ],
+    [
+      0.004794,
+      "bash-3.2$ "
+    ],
+    [
+      2.083125,
+      "g"
+    ],
+    [
+      0.151937,
+      "i"
+    ],
+    [
+      0.111996,
+      "t"
+    ],
+    [
+      0.104012,
+      " "
+    ],
+    [
+      1.199959,
+      "s"
+    ],
+    [
+      0.135810,
+      "t"
+    ],
+    [
+      0.048127,
+      "a"
+    ],
+    [
+      0.104044,
+      "t"
+    ],
+    [
+      0.358814,
+      "y"
+    ],
+    [
+      0.121240,
+      "s"
+    ],
+    [
+      0.327861,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.135940,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.176220,
+      "u"
+    ],
+    [
+      0.102815,
+      "s"
+    ],
+    [
+      0.272924,
+      "\r\n"
+    ],
+    [
+      0.031666,
+      "On branch master\r\n"
+    ],
+    [
+      0.005724,
+      "Your branch is ahead of 'fonantrix/master' by 62 commits.\r\n  (use \"git push\" to publish your local commits)\r\n\r\nnothing to commit, working directory clean\r\n"
+    ],
+    [
+      0.005239,
+      "bash-3.2$ "
+    ],
+    [
+      3.365616,
+      "#"
+    ],
+    [
+      0.087396,
+      " "
+    ],
+    [
+      0.224564,
+      "N"
+    ],
+    [
+      0.215989,
+      "o"
+    ],
+    [
+      0.127909,
+      "w"
+    ],
+    [
+      0.104176,
+      " "
+    ],
+    [
+      0.440057,
+      "m"
+    ],
+    [
+      0.207980,
+      "y"
+    ],
+    [
+      0.096033,
+      " "
+    ],
+    [
+      0.399974,
+      "l"
+    ],
+    [
+      0.224008,
+      "o"
+    ],
+    [
+      0.127997,
+      "c"
+    ],
+    [
+      0.199971,
+      "a"
+    ],
+    [
+      0.048036,
+      "l"
+    ],
+    [
+      0.088008,
+      " "
+    ],
+    [
+      0.247990,
+      "("
+    ],
+    [
+      0.600048,
+      "w"
+    ],
+    [
+      0.119449,
+      "h"
+    ],
+    [
+      0.184473,
+      "i"
+    ],
+    [
+      0.120023,
+      "c"
+    ],
+    [
+      0.056019,
+      "h"
+    ],
+    [
+      0.119997,
+      " "
+    ],
+    [
+      0.239982,
+      "w"
+    ],
+    [
+      0.231996,
+      "a"
+    ],
+    [
+      0.175915,
+      "s"
+    ],
+    [
+      0.056123,
+      " "
+    ],
+    [
+      0.959851,
+      "s"
+    ],
+    [
+      0.080100,
+      "y"
+    ],
+    [
+      0.175916,
+      "n"
+    ],
+    [
+      0.096100,
+      "c"
+    ],
+    [
+      0.207962,
+      "e"
+    ],
+    [
+      0.191838,
+      "d"
+    ],
+    [
+      0.104531,
+      " "
+    ],
+    [
+      0.167497,
+      "w"
+    ],
+    [
+      0.920222,
+      "i"
+    ],
+    [
+      0.119591,
+      "t"
+    ],
+    [
+      0.072317,
+      "h"
+    ],
+    [
+      0.128041,
+      " "
+    ],
+    [
+      0.312003,
+      "S"
+    ],
+    [
+      0.175956,
+      "t"
+    ],
+    [
+      0.136005,
+      "a"
+    ],
+    [
+      0.104031,
+      "b"
+    ],
+    [
+      0.447863,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.151935,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.560213,
+      "a"
+    ],
+    [
+      0.192075,
+      "s"
+    ],
+    [
+      0.095898,
+      "h"
+    ],
+    [
+      0.544108,
+      ")"
+    ],
+    [
+      0.088050,
+      " "
+    ],
+    [
+      1.063862,
+      "h"
+    ],
+    [
+      0.096088,
+      "a"
+    ],
+    [
+      0.192017,
+      "s"
+    ],
+    [
+      0.056043,
+      " "
+    ],
+    [
+      0.744335,
+      "6"
+    ],
+    [
+      0.287630,
+      "2"
+    ],
+    [
+      0.072017,
+      " "
+    ],
+    [
+      0.231953,
+      "c"
+    ],
+    [
+      0.088013,
+      "o"
+    ],
+    [
+      0.231978,
+      "m"
+    ],
+    [
+      0.112033,
+      "m"
+    ],
+    [
+      0.272019,
+      "u"
+    ],
+    [
+      0.439807,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.496229,
+      "i"
+    ],
+    [
+      0.143993,
+      "t"
+    ],
+    [
+      0.279952,
+      "s"
+    ],
+    [
+      0.111993,
+      " "
+    ],
+    [
+      0.247911,
+      "f"
+    ],
+    [
+      0.152248,
+      "r"
+    ],
+    [
+      0.135928,
+      "o"
+    ],
+    [
+      0.799867,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.143976,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.135971,
+      "\u0008\u001b[K"
+    ],
+    [
+      1.320307,
+      "m"
+    ],
+    [
+      0.111889,
+      "o"
+    ],
+    [
+      0.184181,
+      "r"
+    ],
+    [
+      0.030445,
+      "e"
+    ],
+    [
+      0.161416,
+      " "
+    ],
+    [
+      0.183940,
+      "t"
+    ],
+    [
+      0.200094,
+      "h"
+    ],
+    [
+      0.095867,
+      "a"
+    ],
+    [
+      0.088339,
+      "n"
+    ],
+    [
+      0.143727,
+      " "
+    ],
+    [
+      1.816031,
+      "G"
+    ],
+    [
+      0.271948,
+      "o"
+    ],
+    [
+      0.096006,
+      "t"
+    ],
+    [
+      0.191999,
+      "h"
+    ],
+    [
+      0.200023,
+      "u"
+    ],
+    [
+      0.207956,
+      "b"
+    ],
+    [
+      0.583876,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.151979,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.135849,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.120122,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.136057,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.552177,
+      "i"
+    ],
+    [
+      0.335981,
+      "t"
+    ],
+    [
+      0.135976,
+      "h"
+    ],
+    [
+      1.343870,
+      "u"
+    ],
+    [
+      0.200208,
+      "b"
+    ],
+    [
+      0.743624,
+      "\r\n"
+    ],
+    [
+      0.000441,
+      "bash-3.2$ "
+    ],
+    [
+      1.991921,
+      "#"
+    ],
+    [
+      0.111966,
+      " "
+    ],
+    [
+      0.519979,
+      "L"
+    ],
+    [
+      0.192006,
+      "e"
+    ],
+    [
+      0.176051,
+      "t"
+    ],
+    [
+      0.017593,
+      "s"
+    ],
+    [
+      0.182385,
+      " "
+    ],
+    [
+      1.240114,
+      "s"
+    ],
+    [
+      0.423913,
+      "y"
+    ],
+    [
+      0.184043,
+      "n"
+    ],
+    [
+      0.095914,
+      "c"
+    ],
+    [
+      0.103970,
+      " "
+    ],
+    [
+      0.944088,
+      "G"
+    ],
+    [
+      0.328013,
+      "o"
+    ],
+    [
+      0.104076,
+      "t"
+    ],
+    [
+      0.311797,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.128013,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.151937,
+      "i"
+    ],
+    [
+      0.103692,
+      "t"
+    ],
+    [
+      0.600464,
+      "H"
+    ],
+    [
+      0.192016,
+      "i"
+    ],
+    [
+      0.032061,
+      "u"
+    ],
+    [
+      0.167926,
+      "b"
+    ],
+    [
+      0.375835,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.407978,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.695996,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.200231,
+      "u"
+    ],
+    [
+      0.216088,
+      "b"
+    ],
+    [
+      1.159946,
+      " "
+    ],
+    [
+      0.216006,
+      "w"
+    ],
+    [
+      0.088012,
+      "i"
+    ],
+    [
+      0.599910,
+      "h"
+    ],
+    [
+      0.487855,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.256160,
+      "h"
+    ],
+    [
+      0.487879,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.350865,
+      "t"
+    ],
+    [
+      0.015971,
+      "h"
+    ],
+    [
+      0.136902,
+      " "
+    ],
+    [
+      0.120506,
+      "t"
+    ],
+    [
+      0.192003,
+      "h"
+    ],
+    [
+      0.071979,
+      "e"
+    ],
+    [
+      0.048010,
+      " "
+    ],
+    [
+      0.287992,
+      "l"
+    ],
+    [
+      0.118773,
+      "a"
+    ],
+    [
+      0.185281,
+      "t"
+    ],
+    [
+      0.086912,
+      "e"
+    ],
+    [
+      0.184911,
+      "s"
+    ],
+    [
+      0.031883,
+      "t"
+    ],
+    [
+      0.111662,
+      " "
+    ],
+    [
+      0.208583,
+      "c"
+    ],
+    [
+      0.127866,
+      "h"
+    ],
+    [
+      0.095410,
+      "a"
+    ],
+    [
+      0.096716,
+      "n"
+    ],
+    [
+      0.183871,
+      "g"
+    ],
+    [
+      0.031959,
+      "e"
+    ],
+    [
+      0.184178,
+      "s"
+    ],
+    [
+      0.151902,
+      "."
+    ],
+    [
+      0.271897,
+      "\r\n"
+    ],
+    [
+      0.000454,
+      "bash-3.2$ "
+    ],
+    [
+      0.983519,
+      "g"
+    ],
+    [
+      0.104224,
+      "i"
+    ],
+    [
+      0.103491,
+      "t"
+    ],
+    [
+      0.072536,
+      " "
+    ],
+    [
+      0.167981,
+      "p"
+    ],
+    [
+      0.688111,
+      "u"
+    ],
+    [
+      0.111984,
+      "s"
+    ],
+    [
+      0.063986,
+      "h"
+    ],
+    [
+      0.112021,
+      " "
+    ],
+    [
+      0.984026,
+      "f"
+    ],
+    [
+      0.599674,
+      "o"
+    ],
+    [
+      0.304334,
+      "n"
+    ],
+    [
+      0.135800,
+      "a"
+    ],
+    [
+      0.064168,
+      "n"
+    ],
+    [
+      1.095949,
+      "t"
+    ],
+    [
+      0.144057,
+      "r"
+    ],
+    [
+      0.255782,
+      "i"
+    ],
+    [
+      0.072150,
+      "x"
+    ],
+    [
+      0.064066,
+      " "
+    ],
+    [
+      0.175962,
+      "m"
+    ],
+    [
+      0.104056,
+      "a"
+    ],
+    [
+      0.727906,
+      "s"
+    ],
+    [
+      0.136015,
+      "t"
+    ],
+    [
+      0.104030,
+      "e"
+    ],
+    [
+      0.080047,
+      "r"
+    ],
+    [
+      1.863647,
+      "\r\n"
+    ],
+    [
+      11.477461,
+      "Counting objects: 680, done.\r\n"
+    ],
+    [
+      0.005453,
+      "Delta compression using up to 2 threads.\r\n"
+    ],
+    [
+      0.000281,
+      "Compressing objects:   0% (1/167)   \rCompressing objects:   1% (2/167)   \r"
+    ],
+    [
+      0.001089,
+      "Compressing objects:   2% (4/167)   \rCompressing objects:   3% (6/167)   \rCompressing objects:   4% (7/167)   \rCompressing objects:   5% (9/167)   \rCompressing objects:   6% (11/167)   \rCompressing objects:   7% (12/167)   \rCompressing objects:   8% (14/167)   \rCompressing objects:   9% (16/167)   \rCompressing objects:  10% (17/167)   \rCompressing objects:  11% (19/167)   \rCompressing objects:  12% (21/167)   \rCompressing objects:  13% (22/167)   \r"
+    ],
+    [
+      0.001399,
+      "Compressing objects:  14% (24/167)   \rCompressing objects:  15% (26/167)   \rCompressing objects:  16% (27/167)   \rCompressing objects:  17% (29/167)   \rCompressing objects:  18% (31/167)   \rCompressing objects:  19% (32/167)   \rCompressing objects:  20% (34/167)   \rCompressing objects:  21% (36/167)   \rCompressing objects:  22% (37/167)   \rCompressing objects:  23% (39/167)   \rCompressing objects:  24% (41/167)   \rCompressing objects:  25% (42/167)   \r"
+    ],
+    [
+      0.000313,
+      "Compressing objects:  26% (44/167)   \rCompressing objects:  27% (46/167)   \rCompressing objects:  28% (47/167)   \rCompressing objects:  29% (49/167)   \rCompressing objects:  30% (51/167)   \rCompressing objects:  31% (52/167)   \rCompressing objects:  32% (54/167)   \rCompressing objects:  33% (56/167)   \rCompressing objects:  34% (57/167)   \rCompressing objects:  35% (59/167)   \rCompressing objects:  36% (61/167)   \rCompressing objects:  37% (62/167)   \rCompressing objects:  38% (64/167)   \rCompressing objects:  39% (66/167)   \rCompressing objects:  40% (67/167)   \rCompressing objects:  41% (69/167)   \r"
+    ],
+    [
+      0.000155,
+      "Compressing objects:  42% (71/167)   \r"
+    ],
+    [
+      0.000105,
+      "Compressing objects:  43% (72/167)   \r"
+    ],
+    [
+      0.000092,
+      "Compressing objects:  44% (74/167)   \r"
+    ],
+    [
+      0.000159,
+      "Compressing objects:  45% (76/167)   \r"
+    ],
+    [
+      0.000008,
+      "Compressing objects:  46% (77/167)   \r"
+    ],
+    [
+      0.001536,
+      "Compressing objects:  47% (79/167)   \rCompressing objects:  48% (81/167)   \rCompressing objects:  49% (82/167)   \rCompressing objects:  50% (84/167)   \rCompressing objects:  51% (86/167)   \rCompressing objects:  52% (87/167)   \rCompressing objects:  53% (89/167)   \rCompressing objects:  54% (91/167)   \rCompressing objects:  55% (92/167)   \rCompressing objects:  56% (94/167)   \rCompressing objects:  57% (96/167)   \rCompressing objects:  58% (97/167)   \rCompressing objects:  59% (99/167)   \rCompressing objects:  60% (101/167)   \rCompressing objects:  61% (102/167)   \rCompressing objects:  62% (104/167)   \r"
+    ],
+    [
+      0.001114,
+      "Compressing objects:  63% (106/167)   \rCompressing objects:  64% (107/167)   \rCompressing objects:  65% (109/167)   \rCompressing objects:  66% (111/167)   \rCompressing objects:  67% (112/167)   \rCompressing objects:  68% (114/167)   \rCompressing objects:  69% (116/167)   \rCompressing objects:  70% (117/167)   \r"
+    ],
+    [
+      0.000359,
+      "Compressing objects:  71% (119/167)   \rCompressing objects:  72% (121/167)   \rCompressing objects:  73% (122/167)   \rCompressing objects:  74% (124/167)   \rCompressing objects:  75% (126/167)   \rCompressing objects:  76% (127/167)   \rCompressing objects:  77% (129/167)   \r"
+    ],
+    [
+      0.001404,
+      "Compressing objects:  78% (131/167)   \rCompressing objects:  79% (132/167)   \rCompressing objects:  80% (134/167)   \rCompressing objects:  81% (136/167)   \rCompressing objects:  82% (137/167)   \rCompressing objects:  83% (139/167)   \rCompressing objects:  84% (141/167)   \rCompressing objects:  85% (142/167)   \rCompressing objects:  86% (144/167)   \rCompressing objects:  87% (146/167)   \rCompressing objects:  88% (147/167)   \rCompressing objects:  89% (149/167)   \rCompressing objects:  90% (151/167)   \rCompressing objects:  91% (152/167)   \r"
+    ],
+    [
+      0.000899,
+      "Compressing objects:  92% (154/167)   \rCompressing objects:  93% (156/167)   \r"
+    ],
+    [
+      0.000408,
+      "Compressing objects:  94% (157/167)   \r"
+    ],
+    [
+      0.002336,
+      "Compressing objects:  95% (159/167)   \r"
+    ],
+    [
+      0.002871,
+      "Compressing objects:  96% (161/167)   \r"
+    ],
+    [
+      0.001240,
+      "Compressing objects:  97% (162/167)   \rCompressing objects:  98% (164/167)   \r"
+    ],
+    [
+      0.003335,
+      "Compressing objects:  99% (166/167)   \r"
+    ],
+    [
+      0.000175,
+      "Compressing objects: 100% (167/167)   \r"
+    ],
+    [
+      0.002332,
+      "Compressing objects: 100% (167/167), done.\r\n"
+    ],
+    [
+      0.001061,
+      "Writing objects:   0% (1/481)   \rWriting objects:   1% (5/481)   \rWriting objects:   2% (10/481)   \rWriting objects:   3% (15/481)   \rWriting objects:   4% (20/481)   \r"
+    ],
+    [
+      0.000156,
+      "Writing objects:   5% (25/481)   \rWriting objects:   6% (29/481)   \r"
+    ],
+    [
+      0.000145,
+      "Writing objects:   7% (34/481)   \rWriting objects:   8% (39/481)   \rWriting objects:   9% (44/481)   \rWriting objects:  10% (49/481)   \r"
+    ],
+    [
+      0.000140,
+      "Writing objects:  11% (53/481)   \rWriting objects:  12% (58/481)   \r"
+    ],
+    [
+      0.000138,
+      "Writing objects:  13% (63/481)   \rWriting objects:  14% (69/481)   \r"
+    ],
+    [
+      0.000142,
+      "Writing objects:  15% (73/481)   \rWriting objects:  16% (77/481)   \rWriting objects:  17% (83/481)   \r"
+    ],
+    [
+      0.000135,
+      "Writing objects:  18% (87/481)   \r"
+    ],
+    [
+      0.000138,
+      "Writing objects:  19% (93/481)   \rWriting objects:  20% (99/481)   \r"
+    ],
+    [
+      0.001204,
+      "Writing objects:  21% (104/481)   \rWriting objects:  22% (106/481)   \rWriting objects:  23% (112/481)   \rWriting objects:  24% (116/481)   \rWriting objects:  25% (121/481)   \r"
+    ],
+    [
+      0.000172,
+      "Writing objects:  26% (126/481)   \rWriting objects:  27% (130/481)   \rWriting objects:  28% (135/481)   \rWriting objects:  29% (140/481)   \rWriting objects:  30% (145/481)   \rWriting objects:  31% (150/481)   \rWriting objects:  32% (154/481)   \rWriting objects:  33% (159/481)   \rWriting objects:  34% (164/481)   \rWriting objects:  35% (169/481)   \rWriting objects:  36% (174/481)   \rWriting objects:  37% (178/481)   \rWriting objects:  38% (183/481)   \rWriting objects:  39% (188/481)   \rWriting objects:  40% (193/481)   \r"
+    ],
+    [
+      0.000167,
+      "Writing objects:  41% (199/481)   \rWriting objects:  42% (203/481)   \rWriting objects:  43% (207/481)   \rWriting objects:  44% (212/481)   \rWriting objects:  45% (217/481)   \rWriting objects:  46% (222/481)   \rWriting objects:  47% (227/481)   \rWriting objects:  48% (231/481)   \rWriting objects:  49% (236/481)   \rWriting objects:  50% (241/481)   \rWriting objects:  51% (246/481)   \rWriting objects:  52% (251/481)   \rWriting objects:  53% (255/481)   \r"
+    ],
+    [
+      0.000171,
+      "Writing objects:  54% (260/481)   \rWriting objects:  55% (265/481)   \rWriting objects:  56% (270/481)   \rWriting objects:  57% (275/481)   \rWriting objects:  58% (279/481)   \rWriting objects:  59% (284/481)   \rWriting objects:  60% (289/481)   \rWriting objects:  61% (294/481)   \rWriting objects:  62% (299/481)   \rWriting objects:  63% (304/481)   \rWriting objects:  64% (308/481)   \rWriting objects:  65% (313/481)   \rWriting objects:  66% (318/481)   \rWriting objects:  67% (323/481)   \rWriting objects:  68% (328/481)   \r"
+    ],
+    [
+      0.000149,
+      "Writing objects:  69% (332/481)   \rWriting objects:  70% (337/481)   \rWriting objects:  71% (342/481)   \rWriting objects:  72% (347/481)   \r"
+    ],
+    [
+      0.000147,
+      "Writing objects:  73% (352/481)   \rWriting objects:  74% (356/481)   \rWriting objects:  75% (361/481)   \rWriting objects:  76% (366/481)   \rWriting objects:  77% (371/481)   \r"
+    ],
+    [
+      0.000152,
+      "Writing objects:  78% (376/481)   \rWriting objects:  79% (381/481)   \rWriting objects:  80% (385/481)   \rWriting objects:  81% (390/481)   \rWriting objects:  82% (395/481)   \rWriting objects:  83% (400/481)   \rWriting objects:  84% (405/481)   \r"
+    ],
+    [
+      0.000147,
+      "Writing objects:  85% (409/481)   \rWriting objects:  86% (414/481)   \rWriting objects:  87% (419/481)   \rWriting objects:  88% (424/481)   \rWriting objects:  89% (429/481)   \r"
+    ],
+    [
+      0.000160,
+      "Writing objects:  90% (434/481)   \rWriting objects:  91% (438/481)   \rWriting objects:  92% (443/481)   \rWriting objects:  93% (448/481)   \rWriting objects:  94% (453/481)   \rWriting objects:  95% (457/481)   \rWriting objects:  96% (462/481)   \rWriting objects:  97% (467/481)   \rWriting objects:  98% (472/481)   \rWriting objects:  99% (477/481)   \rWriting objects: 100% (481/481)   \r"
+    ],
+    [
+      0.000157,
+      "Writing objects: 100% (481/481), 52.03 KiB | 0 bytes/s, done.\r\nTotal 481 (delta 345), reused 441 (delta 306)\r\n"
+    ],
+    [
+      7.235647,
+      "To https://ruchikagupta01@github.com/fonantrix/bartender-fn.git\r\n"
+    ],
+    [
+      0.000747,
+      "   c37360c..a6dca53  master -\u003e master\r\n"
+    ],
+    [
+      0.021529,
+      "bash-3.2$ "
+    ],
+    [
+      3.953501,
+      "#"
+    ],
+    [
+      0.191888,
+      " "
+    ],
+    [
+      0.744164,
+      "D"
+    ],
+    [
+      0.199971,
+      "o"
+    ],
+    [
+      0.168009,
+      "n"
+    ],
+    [
+      0.088059,
+      "e"
+    ],
+    [
+      0.719930,
+      "!"
+    ],
+    [
+      0.815807,
+      "\r\n"
+    ],
+    [
+      0.000438,
+      "bash-3.2$ "
+    ],
+    [
+      1.791880,
+      "#"
+    ],
+    [
+      0.136484,
+      " "
+    ],
+    [
+      0.919359,
+      "L"
+    ],
+    [
+      0.239983,
+      "e"
+    ],
+    [
+      0.095565,
+      "t"
+    ],
+    [
+      0.095770,
+      "s"
+    ],
+    [
+      0.064735,
+      " "
+    ],
+    [
+      2.280002,
+      "r"
+    ],
+    [
+      0.175942,
+      "e"
+    ],
+    [
+      0.143916,
+      "p"
+    ],
+    [
+      0.096062,
+      "r"
+    ],
+    [
+      0.519648,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.064401,
+      "e"
+    ],
+    [
+      0.215969,
+      "a"
+    ],
+    [
+      0.208035,
+      "r"
+    ],
+    [
+      0.447790,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.168185,
+      "t"
+    ],
+    [
+      0.136085,
+      " "
+    ],
+    [
+      0.191928,
+      "f"
+    ],
+    [
+      0.095522,
+      "o"
+    ],
+    [
+      0.080488,
+      "r"
+    ],
+    [
+      0.127800,
+      " "
+    ],
+    [
+      0.152177,
+      "o"
+    ],
+    [
+      0.088025,
+      "p"
+    ],
+    [
+      0.055984,
+      "e"
+    ],
+    [
+      0.127947,
+      "n"
+    ],
+    [
+      0.144054,
+      " "
+    ],
+    [
+      0.375798,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.296177,
+      "b"
+    ],
+    [
+      0.095995,
+      "a"
+    ],
+    [
+      0.160135,
+      "r"
+    ],
+    [
+      0.304077,
+      "."
+    ],
+    [
+      0.127975,
+      "."
+    ],
+    [
+      0.119604,
+      "."
+    ],
+    [
+      0.199785,
+      "\r\n"
+    ],
+    [
+      0.000448,
+      "bash-3.2$ "
+    ],
+    [
+      0.487915,
+      "c"
+    ],
+    [
+      0.192206,
+      "d"
+    ],
+    [
+      0.055990,
+      " "
+    ],
+    [
+      0.535884,
+      "."
+    ],
+    [
+      0.120101,
+      "."
+    ],
+    [
+      0.151957,
+      "/"
+    ],
+    [
+      0.432031,
+      "o"
+    ],
+    [
+      0.144006,
+      "p"
+    ],
+    [
+      0.087759,
+      "enbar-api-fn/"
+    ],
+    [
+      1.056077,
+      "\r\n"
+    ],
+    [
+      0.000512,
+      "bash-3.2$ "
+    ],
+    [
+      1.375750,
+      "g"
+    ],
+    [
+      0.103955,
+      "i"
+    ],
+    [
+      0.151931,
+      "t"
+    ],
+    [
+      0.040057,
+      " "
+    ],
+    [
+      1.343964,
+      "p"
+    ],
+    [
+      0.255887,
+      "u"
+    ],
+    [
+      0.215954,
+      "l"
+    ],
+    [
+      0.104111,
+      "l"
+    ],
+    [
+      0.184088,
+      " "
+    ],
+    [
+      0.439952,
+      "o"
+    ],
+    [
+      0.279927,
+      "r"
+    ],
+    [
+      0.360149,
+      "i"
+    ],
+    [
+      0.855816,
+      "g"
+    ],
+    [
+      0.096135,
+      "i"
+    ],
+    [
+      0.183973,
+      "n"
+    ],
+    [
+      1.431873,
+      " "
+    ],
+    [
+      0.256190,
+      "m"
+    ],
+    [
+      0.159913,
+      "a"
+    ],
+    [
+      0.224154,
+      "s"
+    ],
+    [
+      0.215898,
+      "t"
+    ],
+    [
+      0.096083,
+      "e"
+    ],
+    [
+      0.080254,
+      "r"
+    ],
+    [
+      0.391571,
+      "\r\n"
+    ],
+    [
+      16.535709,
+      "remote: Counting objects: 270   \u001b[K\rremote: Counting objects: 317, done.\u001b[K\r\nremote: Compressing objects:   0% (1/247)   \u001b[K\r"
+    ],
+    [
+      0.000132,
+      "remote: Compressing objects:   1% (3/247)   \u001b[K\rremote: Compressing objects:   2% (5/247)   \u001b[K\rremote: Compressing objects:   3% (8/247)   \u001b[K\rremote: Compressing objects:   4% (10/247)   \u001b[K\rremote: Compressing objects:   5% (13/247)   \u001b[K\rremote: Compressing objects:   6% (15/247)   \u001b[K\rremote: Compressing objects:   7% (18/247)   \u001b[K\rremote: Compressing objects:   8% (20/247)   \u001b[K\rremote: Compressing objects:   9% (23/247)   \u001b[K\rremote: Compressing objects:  10% (25/247)   \u001b[K\rremote: Compressing objects:  11% (28/247)   \u001b[K\rremote: Compressing objects:  12% (30/247)   \u001b[K\rremote: Compressing objects:  13% (33/247)   \u001b[K\rremote: Compressing objects:  14% (35/247)   \u001b[K\rremote: Compressing objects:  15% (38/247)   \u001b[K\rremote: Compressing objects:  16% (40/247)   \u001b[K\rremote: Compressing objects:  17% (42/247)   \u001b[K\rremote: Compressing objects:  18% (45/247)   \u001b[K\rremote: Compressing objects:  19% (47/247)   \u001b[K\rremote: Compressing objects:  20% (50/247)   \u001b[K\rremote: Compressing objects:  21% (52/247)   \u001b["
+    ],
+    [
+      0.000590,
+      "K\rremote: Compressing objects:  22% (55/247)   \u001b[K\rremote: Compressing objects:  23% (57/247)   \u001b[K\rremote: Compressing objects:  24% (60/247)   \u001b[K\rremote: Compressing objects:  25% (62/247)   \u001b[K\rremote: Compressing objects:  26% (65/247)   \u001b[K\rremote: Compressing objects:  27% (67/247)   \u001b[K\rremote: Compressing objects:  28% (70/247)   \u001b[K\rremote: Compressing objects:  29% (72/247)   \u001b[K\rremote: Compressing objects:  30% (75/247)   \u001b[K\rremote: Compressing objects:  31% (77/247)   \u001b[K\rremote: Compressing objects:  32% (80/247)   \u001b[K\rremote: Compressing objects:  33% (82/247)   \u001b[K\rremote: Compressing objects:  34% (84/247)   \u001b[K\rremote: Compressing objects:  35% (87/247)   \u001b[K\rremote: Compressing objects:  36% (89/247)   \u001b[K\rremote: Compressing objects:  37% (92/247)   \u001b[K\rremote: Compressing objects:  38% (94/247)   \u001b[K\rremote: Compressing objects:  39% (97/247)   \u001b[K\rremote: Compressing objects:  40% (99/247)   \u001b[K\rremote: Compressing objects:  41% (102/247)   \u001b[K\rremote: Compressing objects:  42% (104/24"
+    ],
+    [
+      0.000504,
+      "7)   \u001b[K\rremote: Compressing objects:  43% (107/247)   \u001b[K\rremote: Compressing objects:  44% (109/247)   \u001b[K\rremote: Compressing objects:  45% (112/247)   \u001b[K\rremote: Compressing objects:  46% (114/247)   \u001b[K\rremote: Compressing objects:  47% (117/247)   \u001b[K\rremote: Compressing objects:  48% (119/247)   \u001b[K\rremote: Compressing objects:  49% (122/247)   \u001b[K\rremote: Compressing objects:  50% (124/247)   \u001b[K\rremote: Compressing objects:  51% (126/247)   \u001b[K\rremote: Compressing objects:  52% (129/247)   \u001b[K\rremote: Compressing objects:  53% (131/247)   \u001b[K\rremote: Compressing objects:  54% (134/247)   \u001b[K\rremote: Compressing objects:  55% (136/247)   \u001b[K\rremote: Compressing objects:  56% (139/247)   \u001b[K\rremote: Compressing objects:  57% (141/247)   \u001b[K\rremote: Compressing objects:  58% (144/247)   \u001b[K\rremote: Compressing objects:  59% (146/247)   \u001b[K\rremote: Compressing objects:  60% (149/247)   \u001b[K\rremote: Compressing objects:  61% (151/247)   \u001b[K\rremote: Compressing objects:  62% (154/247)   \u001b[K\rremote: Compres"
+    ],
+    [
+      0.000204,
+      "sing objects:  63% (156/247)   \u001b[K\rremote: Compressing objects:  64% (159/247)   \u001b[K\rremote: Compressing objects:  65% (161/247)   \u001b[K\rremote: Compressing objects:  66% (164/247)   \u001b[K\rremote: Compressing objects:  67% (166/247)   \u001b[K\rremote: Compressing objects:  68% (168/247)   \u001b[K\rremote: Compressing objects:  69% (171/247)   \u001b[K\rremote: Compressing objects:  70% (173/247)   \u001b[K\rremote: Compressing objects:  71% (176/247)   \u001b[K\rremote: Compressing objects:  72% (178/247)   \u001b[K\rremote: Compressing objects:  73% (181/247)   \u001b[K\rremote: Compressing objects:  74% (183/247)   \u001b[K\rremote: Compressing objects:  75% (186/247)   \u001b[K\rremote: Compressing objects:  76% (188/247)   \u001b[K\rremote: Compressing objects:  77% (191/247)   \u001b[K\rremote: Compressing objects:  78% (193/247)   \u001b[K\rremote: Compressing objects:  79% (196/247)   \u001b[K\rremote: Compressing objects:  80% (198/247)   \u001b[K\rremote: Compressing objects:  81% (201/247)   \u001b[K\rremote: Compressing objects:  82% (203/247)   \u001b[K\rremote: Compressing objects:  83% (206/"
+    ],
+    [
+      0.000234,
+      "247)   \u001b[K\rremote: Compressing objects:  84% (208/247)   \u001b[K\rremote: Compressing objects:  85% (210/247)   \u001b[K\rremote: Compressing objects:  86% (213/247)   \u001b[K\rremote: Compressing objects:  87% (215/247)   \u001b[K\rremote: Compressing objects:  88% (218/247)   \u001b[K\rremote: Compressing objects:  89% (220/247)   \u001b[K\rremote: Compressing objects:  90% (223/247)   \u001b[K\rremote: Compressing objects:  91% (225/247)   \u001b[K\rremote: Compressing objects:  92% (228/247)   \u001b[K\rremote: Compressing objects:  93% (230/247)   \u001b[K\rremote: Compressing objects:  94% (233/247)   \u001b[K\rremote: Compressing objects:  95% (235/247)   \u001b[K\rremote: Compressing objects:  96% (238/247)   \u001b[K\rremote: Compressing objects:  97% (240/247)   \u001b[K\rremote: Compressing objects:  98% (243/247)   \u001b[K\rremote: Compressing objects:  99% (245/247)   \u001b[K\rremote: Compressing objects: 100% (247/247)   \u001b[K\rremote: Compressing objects: 100% (247/247), done.\u001b[K\r\n"
+    ],
+    [
+      0.623171,
+      "Receiving objects:   0% (1/317)   \r"
+    ],
+    [
+      0.002072,
+      "Receiving objects:   1% (4/317)   \r"
+    ],
+    [
+      0.001879,
+      "Receiving objects:   2% (7/317)   \r"
+    ],
+    [
+      0.001041,
+      "Receiving objects:   3% (10/317)   \r"
+    ],
+    [
+      0.001149,
+      "Receiving objects:   4% (13/317)   \r"
+    ],
+    [
+      0.001768,
+      "Receiving objects:   5% (16/317)   \r"
+    ],
+    [
+      0.000307,
+      "Receiving objects:   6% (20/317)   \r"
+    ],
+    [
+      0.001418,
+      "Receiving objects:   7% (23/317)   \r"
+    ],
+    [
+      0.000180,
+      "Receiving objects:   8% (26/317)   \rReceiving objects:   9% (29/317)   \rReceiving objects:  10% (32/317)   \rReceiving objects:  11% (35/317)   \rReceiving objects:  12% (39/317)   \r"
+    ],
+    [
+      0.000966,
+      "Receiving objects:  13% (42/317)   \r"
+    ],
+    [
+      0.001080,
+      "Receiving objects:  14% (45/317)   \r"
+    ],
+    [
+      0.002090,
+      "Receiving objects:  15% (48/317)   \r"
+    ],
+    [
+      0.000016,
+      "Receiving objects:  16% (51/317)   \r"
+    ],
+    [
+      0.001025,
+      "Receiving objects:  17% (54/317)   \r"
+    ],
+    [
+      0.001571,
+      "Receiving objects:  18% (58/317)   \r"
+    ],
+    [
+      0.000250,
+      "Receiving objects:  19% (61/317)   \r"
+    ],
+    [
+      0.590878,
+      "Receiving objects:  20% (64/317), 20.00 KiB | 26.00 KiB/s   \r"
+    ],
+    [
+      0.000588,
+      "Receiving objects:  21% (67/317), 20.00 KiB | 26.00 KiB/s   \r"
+    ],
+    [
+      0.001532,
+      "Receiving objects:  22% (70/317), 20.00 KiB | 26.00 KiB/s   \r"
+    ],
+    [
+      0.000029,
+      "Receiving objects:  23% (73/317), 20.00 KiB | 26.00 KiB/s   \r"
+    ],
+    [
+      0.000825,
+      "Receiving objects:  24% (77/317), 20.00 KiB | 26.00 KiB/s   \r"
+    ],
+    [
+      0.000325,
+      "Receiving objects:  25% (80/317), 20.00 KiB | 26.00 KiB/s   \r"
+    ],
+    [
+      0.000821,
+      "Receiving objects:  26% (83/317), 20.00 KiB | 26.00 KiB/s   \r"
+    ],
+    [
+      0.000683,
+      "Receiving objects:  27% (86/317), 20.00 KiB | 26.00 KiB/s   \r"
+    ],
+    [
+      0.000522,
+      "Receiving objects:  28% (89/317), 20.00 KiB | 26.00 KiB/s   \r"
+    ],
+    [
+      0.000436,
+      "Receiving objects:  29% (92/317), 20.00 KiB | 26.00 KiB/s   \r"
+    ],
+    [
+      0.000743,
+      "Receiving objects:  30% (96/317), 20.00 KiB | 26.00 KiB/s   \r"
+    ],
+    [
+      0.000321,
+      "Receiving objects:  31% (99/317), 20.00 KiB | 26.00 KiB/s   \r"
+    ],
+    [
+      0.000599,
+      "Receiving objects:  32% (102/317), 20.00 KiB | 26.00 KiB/s   \r"
+    ],
+    [
+      0.000627,
+      "Receiving objects:  33% (105/317), 20.00 KiB | 26.00 KiB/s   \r"
+    ],
+    [
+      0.000648,
+      "Receiving objects:  34% (108/317), 20.00 KiB | 26.00 KiB/s   \r"
+    ],
+    [
+      0.000885,
+      "Receiving objects:  35% (111/317), 20.00 KiB | 26.00 KiB/s   \r"
+    ],
+    [
+      0.001178,
+      "Receiving objects:  36% (115/317), 20.00 KiB | 26.00 KiB/s   \r"
+    ],
+    [
+      0.000014,
+      "Receiving objects:  37% (118/317), 20.00 KiB | 26.00 KiB/s   \r"
+    ],
+    [
+      0.000423,
+      "Receiving objects:  38% (121/317), 20.00 KiB | 26.00 KiB/s   \r"
+    ],
+    [
+      0.599948,
+      "remote: Total 317 (delta 138), reused 69 (delta 13)\u001b[K\r\nReceiving objects:  38% (123/317), 44.00 KiB | 32.00 KiB/s   \rReceiving objects:  39% (124/317), 44.00 KiB | 32.00 KiB/s   \rReceiving objects:  40% (127/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.001069,
+      "Receiving objects:  41% (130/317), 44.00 KiB | 32.00 KiB/s   \rReceiving objects:  42% (134/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000560,
+      "Receiving objects:  43% (137/317), 44.00 KiB | 32.00 KiB/s   \rReceiving objects:  44% (140/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000014,
+      "Receiving objects:  45% (143/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000601,
+      "Receiving objects:  46% (146/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.001975,
+      "Receiving objects:  47% (149/317), 44.00 KiB | 32.00 KiB/s   \rReceiving objects:  48% (153/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000016,
+      "Receiving objects:  49% (156/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000808,
+      "Receiving objects:  50% (159/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000139,
+      "Receiving objects:  51% (162/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000037,
+      "Receiving objects:  52% (165/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000626,
+      "Receiving objects:  53% (169/317), 44.00 KiB | 32.00 KiB/s   \rReceiving objects:  54% (172/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000243,
+      "Receiving objects:  55% (175/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000648,
+      "Receiving objects:  56% (178/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000014,
+      "Receiving objects:  57% (181/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000161,
+      "Receiving objects:  58% (184/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000158,
+      "Receiving objects:  59% (188/317), 44.00 KiB | 32.00 KiB/s   \rReceiving objects:  60% (191/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000364,
+      "Receiving objects:  61% (194/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000256,
+      "Receiving objects:  62% (197/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000162,
+      "Receiving objects:  63% (200/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000244,
+      "Receiving objects:  64% (203/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000161,
+      "Receiving objects:  65% (207/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000160,
+      "Receiving objects:  66% (210/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000137,
+      "Receiving objects:  67% (213/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000024,
+      "Receiving objects:  68% (216/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000380,
+      "Receiving objects:  69% (219/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000162,
+      "Receiving objects:  70% (222/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000167,
+      "Receiving objects:  71% (226/317), 44.00 KiB | 32.00 KiB/s   \rReceiving objects:  72% (229/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000204,
+      "Receiving objects:  73% (232/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000038,
+      "Receiving objects:  74% (235/317), 44.00 KiB | 32.00 KiB/s   \rReceiving objects:  75% (238/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000660,
+      "Receiving objects:  76% (241/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000014,
+      "Receiving objects:  77% (245/317), 44.00 KiB | 32.00 KiB/s   \rReceiving objects:  78% (248/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000467,
+      "Receiving objects:  79% (251/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000063,
+      "Receiving objects:  80% (254/317), 44.00 KiB | 32.00 KiB/s   \rReceiving objects:  81% (257/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000680,
+      "Receiving objects:  82% (260/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000181,
+      "Receiving objects:  83% (264/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000167,
+      "Receiving objects:  84% (267/317), 44.00 KiB | 32.00 KiB/s   \rReceiving objects:  85% (270/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000166,
+      "Receiving objects:  86% (273/317), 44.00 KiB | 32.00 KiB/s   \rReceiving objects:  87% (276/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000161,
+      "Receiving objects:  88% (279/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000167,
+      "Receiving objects:  89% (283/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000166,
+      "Receiving objects:  90% (286/317), 44.00 KiB | 32.00 KiB/s   \rReceiving objects:  91% (289/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000160,
+      "Receiving objects:  92% (292/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000165,
+      "Receiving objects:  93% (295/317), 44.00 KiB | 32.00 KiB/s   \rReceiving objects:  94% (298/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000159,
+      "Receiving objects:  95% (302/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000036,
+      "Receiving objects:  96% (305/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000625,
+      "Receiving objects:  97% (308/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000013,
+      "Receiving objects:  98% (311/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000367,
+      "Receiving objects:  99% (314/317), 44.00 KiB | 32.00 KiB/s   \r"
+    ],
+    [
+      0.000032,
+      "Receiving objects: 100% (317/317), 44.00 KiB | 32.00 KiB/s   \rReceiving objects: 100% (317/317), 55.33 KiB | 32.00 KiB/s, done.\r\n"
+    ],
+    [
+      0.000245,
+      "Resolving deltas:   0% (0/138)   \r"
+    ],
+    [
+      0.000736,
+      "Resolving deltas:   1% (2/138)   \r"
+    ],
+    [
+      0.000159,
+      "Resolving deltas:   2% (3/138)   \r"
+    ],
+    [
+      0.002721,
+      "Resolving deltas:  15% (22/138)   \r"
+    ],
+    [
+      0.000166,
+      "Resolving deltas:  16% (23/138)   \r"
+    ],
+    [
+      0.000654,
+      "Resolving deltas:  21% (29/138)   \r"
+    ],
+    [
+      0.000329,
+      "Resolving deltas:  22% (31/138)   \r"
+    ],
+    [
+      0.000592,
+      "Resolving deltas:  24% (34/138)   \r"
+    ],
+    [
+      0.000280,
+      "Resolving deltas:  27% (38/138)   \r"
+    ],
+    [
+      0.000310,
+      "Resolving deltas:  29% (41/138)   \r"
+    ],
+    [
+      0.001286,
+      "Resolving deltas:  34% (48/138)   \r"
+    ],
+    [
+      0.000013,
+      "Resolving deltas:  36% (50/138)   \r"
+    ],
+    [
+      0.001505,
+      "Resolving deltas:  40% (56/138)   \r"
+    ],
+    [
+      0.001374,
+      "Resolving deltas:  41% (57/138)   \r"
+    ],
+    [
+      0.002078,
+      "Resolving deltas:  43% (60/138)   \r"
+    ],
+    [
+      0.001118,
+      "Resolving deltas:  46% (64/138)   \r"
+    ],
+    [
+      0.002018,
+      "Resolving deltas:  53% (74/138)   \r"
+    ],
+    [
+      0.000369,
+      "Resolving deltas:  56% (78/138)   \r"
+    ],
+    [
+      0.000912,
+      "Resolving deltas:  59% (82/138)   \r"
+    ],
+    [
+      0.000687,
+      "Resolving deltas:  62% (86/138)   \r"
+    ],
+    [
+      0.001327,
+      "Resolving deltas:  63% (87/138)   \r"
+    ],
+    [
+      0.000679,
+      "Resolving deltas:  64% (89/138)   \r"
+    ],
+    [
+      0.001266,
+      "Resolving deltas:  65% (90/138)   \r"
+    ],
+    [
+      0.004227,
+      "Resolving deltas:  66% (92/138)   \rResolving deltas:  67% (93/138)   \r"
+    ],
+    [
+      0.001545,
+      "Resolving deltas:  68% (95/138)   \r"
+    ],
+    [
+      0.001044,
+      "Resolving deltas:  69% (96/138)   \r"
+    ],
+    [
+      0.000629,
+      "Resolving deltas:  70% (97/138)   \r"
+    ],
+    [
+      0.000752,
+      "Resolving deltas:  71% (98/138)   \r"
+    ],
+    [
+      0.001922,
+      "Resolving deltas:  72% (100/138)   \r"
+    ],
+    [
+      0.000852,
+      "Resolving deltas:  73% (101/138)   \r"
+    ],
+    [
+      0.001615,
+      "Resolving deltas:  74% (103/138)   \r"
+    ],
+    [
+      0.001619,
+      "Resolving deltas:  75% (104/138)   \r"
+    ],
+    [
+      0.001955,
+      "Resolving deltas:  76% (105/138)   \rResolving deltas:  77% (107/138)   \r"
+    ],
+    [
+      0.000635,
+      "Resolving deltas:  78% (108/138)   \r"
+    ],
+    [
+      0.001561,
+      "Resolving deltas:  81% (112/138)   \r"
+    ],
+    [
+      0.002237,
+      "Resolving deltas:  83% (115/138)   \r"
+    ],
+    [
+      0.000370,
+      "Resolving deltas:  84% (117/138)   \r"
+    ],
+    [
+      0.000121,
+      "Resolving deltas:  85% (118/138)   \r"
+    ],
+    [
+      0.000924,
+      "Resolving deltas:  86% (119/138)   \r"
+    ],
+    [
+      0.000738,
+      "Resolving deltas:  92% (128/138)   \r"
+    ],
+    [
+      0.000148,
+      "Resolving deltas:  93% (129/138)   \r"
+    ],
+    [
+      0.001691,
+      "Resolving deltas:  97% (134/138)   \r"
+    ],
+    [
+      0.000852,
+      "Resolving deltas:  98% (136/138)   \r"
+    ],
+    [
+      0.000215,
+      "Resolving deltas:  99% (137/138)   \r"
+    ],
+    [
+      0.000209,
+      "Resolving deltas: 100% (138/138)   \r"
+    ],
+    [
+      0.000150,
+      "Resolving deltas: 100% (138/138), completed with 42 local objects.\r\n"
+    ],
+    [
+      0.031186,
+      "From https://stash.dstillery.com/scm/fon/openbar-api-fn\r\n * branch            master     -\u003e FETCH_HEAD\r\n"
+    ],
+    [
+      0.004037,
+      "   48d7090..4fd4bee  master     -\u003e origin/master\r\n"
+    ],
+    [
+      0.032583,
+      "Updating 48d7090..4fd4bee\r\n"
+    ],
+    [
+      0.074757,
+      "Fast-forward\r\n"
+    ],
+    [
+      0.021138,
+      " README.md                                                        | 116 \u001b[32m+++++++++\u001b[m\r\n pom.xml                                                          |   9 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n .../houston/services/v2/creative/CreativeDtoFieldsV2.java        |   1 \u001b[31m-\u001b[m\r\n .../houston/services/v2/creative/CreativeGridDtoTransformer.java |   1 \u001b[32m+\u001b[m\r\n .../services/v2/creative/MysqlCreativeDtoConverterV2.java        |   1 \u001b[32m+\u001b[m\r\n .../v2/mysql/audiencetype/AudienceTypeMysqlRepository.java       |  17 \u001b[31m--\u001b[m\r\n .../services/v2/mysql/campaign/CampaignMysqlRepository.java      |   9 \u001b[32m+\u001b[m\r\n .../v2/security/mysql/MysqlNonRestrictedUrlsListVoterV2.java     |  21 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n .../services/v2/targetgroup/MysqlTargetGroupDtoConverter.java    |   2 \u001b[32m+\u001b[m\r\n src/main/java/com/dstillery/openbar/io/BuddyFile.java            |  37 \u001b[32m+++\u001b[m\r\n src/main/java/com/dstillery/openbar/spring/jdbc/ListBatch.java   |  34 \u001b[32m+++\u001b[m\r\n .../java/com/dstillery/openbar/stream/DstilleryCollectors.java   |  18 \u001b[32m++\u001b"
+    ],
+    [
+      0.000456,
+      "[m\r\n src/main/java/com/dstillery/optimus/OptimusController.java       |   2 \u001b[31m-\u001b[m\r\n .../services/v2/mysql =\u003e optimus}/audiencetype/AudienceType.java |  28 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n .../dstillery/optimus/audiencetype/AudienceTypeController.java   |  46 \u001b[32m++++\u001b[m\r\n .../java/com/dstillery/optimus/audiencetype/AudienceTypeDto.java |  83 \u001b[32m++++++\u001b[m\r\n .../com/dstillery/optimus/audiencetype/AudienceTypeDtos.java     |  25 \u001b[32m++\u001b[m\r\n .../dstillery/optimus/audiencetype/AudienceTypeRepository.java   |  48 \u001b[32m++++\u001b[m\r\n .../java/com/dstillery/optimus/campaign/CampaignSpendRank.java   | 130 \u001b[32m++++++++++\u001b[m\r\n .../dstillery/optimus/campaign/CampaignSpendRankInserter.java    |  13 \u001b[32m+\u001b[m\r\n .../dstillery/optimus/campaign/CampaignSpendRankRepository.java  |  16 \u001b[32m++\u001b[m\r\n ...mpaignSpendRankRepositoryImpl-insert-target-group-ranking.sql |  22 \u001b[32m++\u001b[m\r\n .../optimus/campaign/CampaignSpendRankRepositoryImpl.java        |  79 \u001b[32m++++++\u001b[m\r\n .../java/com/dstillery/optimus/campaign/CampaignsController.java |  4"
+    ],
+    [
+      0.000240,
+      "6 \u001b[32m++++\u001b[m\r\n src/main/java/com/dstillery/optimus/campaign/CampaignsDto.java   |  45 \u001b[32m++++\u001b[m\r\n .../java/com/dstillery/optimus/campaign/TargetGroupRankings.java |  27 \u001b[32m++\u001b[m\r\n .../optimus/campaign/TargetGroupRankingsController.java          |  59 \u001b[32m+++++\u001b[m\r\n src/main/java/com/dstillery/spring/JmxConfiguration.java         |  37 \u001b[32m+++\u001b[m\r\n src/main/resources/META-INF/audiencetype.xml                     |  20 \u001b[32m++\u001b[m\r\n src/main/resources/META-INF/campaign.xml                         |  12 \u001b[32m+\u001b[m\r\n src/main/resources/META-INF/persistence.xml                      |   7 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n src/main/resources/openbar-api-mysql.xml                         |  14 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n src/main/resources/openbar-api.xml                               |   1 \u001b[31m-\u001b[m\r\n src/main/webapp/WEB-INF/openbar-api-security-mysql.xml           |   9 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n src/main/webapp/WEB-INF/openbar-api-servlet.xml                  |  17 \u001b[32m++\u001b[m\r\n .../v2/advertiser/MysqlAdvertiserReadServiceGridV2Test."
+    ],
+    [
+      0.000402,
+      "java      |   3 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n .../services/v2/creative/CreativeGridDtoTransformerTest.java     |  36 \u001b[32m+++\u001b[m\r\n .../services/v2/creative/MysqlCreativeDtoConverterV2Test.java    |   7 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n .../v2/creative/MysqlCreativeWriteServiceGridV2Test.java         |   1 \u001b[32m+\u001b[m\r\n .../dstillery/houston/services/v2/mysql/CampaignApiFuncBase.java |  16 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n .../services/v2/mysql/campaign/CampaignMysqlRepositoryTest.java  |  59 \u001b[32m+++++\u001b[m\r\n .../houston/services/v2/mysql/segment/SegmentRepositoryTest.java |  18 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n .../v2/security/mysql/MysqlNonRestrictedUrlsListVoterTest.java   |   6 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n .../v2/targetgroup/MysqlTargetGroupDtoConverterTest.java         |  62 \u001b[32m++++\u001b[m\u001b[31m-\u001b[m\r\n .../v2/targetgroup/MysqlTargetGroupDtoConverterTest_Spend.java   | 157 \u001b[32m++++++++++\u001b[m\u001b[31m-\u001b[m\r\n .../v2/targetgroup/TargetGroupControllerV2EndToEndTest.java      |  34 \u001b[32m++\u001b[m\u001b[31m-\u001b[m\r\n src/test/java/com/dstillery/openbar/test/jdbc/H2Resource.java    | 390 \u001b[32"
+    ],
+    [
+      0.000421,
+      "m++++++++++++++++++++++++++++\u001b[m\r\n .../com/dstillery/openbar/test/spring/AppH2Configuration.java    |  40 \u001b[32m+++\u001b[m\r\n .../com/dstillery/openbar/test/spring/AppJpaConfiguration.java   |  48 \u001b[32m++++\u001b[m\r\n .../java/com/dstillery/openbar/test/spring/ValidatorConfig.java  |  13 \u001b[32m+\u001b[m\r\n src/test/java/com/dstillery/optimus/MockMvcTestSupport.java      |  28 \u001b[32m++\u001b[m\r\n .../optimus/audiencetype/AudienceTypeControllerTest.java         | 118 \u001b[32m+++++++++\u001b[m\r\n .../optimus/audiencetype/AudienceTypeRepositoryTest.java         |  61 \u001b[32m+++++\u001b[m\r\n ...CampaignSpendRankRepositoryTest-get-target-group-rankings.sql |  11 \u001b[32m+\u001b[m\r\n .../optimus/campaign/CampaignSpendRankRepositoryTest.java        | 163 \u001b[32m++++++++++++\u001b[m\r\n .../com/dstillery/optimus/campaign/CampaignsControllerTest.java  | 106 \u001b[32m++++++++\u001b[m\r\n .../optimus/campaign/TargetGroupRankingsControllerTest.java      |  88 \u001b[32m+++++++\u001b[m\r\n src/test/resources/database/audiencetype-ref-data.xml            |  21 \u001b[32m++\u001b[m\r\n src/test/resources/database/campa"
+    ],
+    [
+      0.000182,
+      "ign-ref-data.xml                |   6 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n src/test/resources/database/campaignspend-ref-data.xml           |  12 \u001b[32m+\u001b[m\r\n src/test/resources/database/campaignspendrank-ref-data.xml       |  16 \u001b[32m++\u001b[m\r\n src/test/resources/database/creative-ref-data.xml                |  12 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n src/test/resources/database/spend-ref-data.xml                   |  28 \u001b[32m++\u001b[m\r\n src/test/resources/logback-test.xml                              |   5 \u001b[32m+\u001b[m\r\n src/test/resources/test-openbar-api.xml                          |   2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\r\n 65 files changed, 2524 insertions(+), 95 deletions(-)\r\n delete mode 100644 src/main/java/com/dstillery/houston/services/v2/mysql/audiencetype/AudienceTypeMysqlRepository.java\r\n create mode 100644 src/main/java/com/dstillery/openbar/io/BuddyFile.java\r\n create mode 100644 src/main/java/com/dstillery/openbar/spring/jdbc/ListBatch.java\r\n create mode 100644 src/main/java/com/dstillery/openbar/stream/DstilleryCollectors.java\r\n rename src/main/java/c"
+    ],
+    [
+      0.000310,
+      "om/dstillery/{houston/services/v2/mysql =\u003e optimus}/audiencetype/AudienceType.java (74%)\r\n create mode 100644 src/main/java/com/dstillery/optimus/audiencetype/AudienceTypeController.java\r\n create mode 100644 src/main/java/com/dstillery/optimus/audiencetype/AudienceTypeDto.java\r\n create mode 100644 src/main/java/com/dstillery/optimus/audiencetype/AudienceTypeDtos.java\r\n create mode 100644 src/main/java/com/dstillery/optimus/audiencetype/AudienceTypeRepository.java\r\n create mode 100644 src/main/java/com/dstillery/optimus/campaign/CampaignSpendRank.java\r\n create mode 100644 src/main/java/com/dstillery/optimus/campaign/CampaignSpendRankInserter.java\r\n create mode 100644 src/main/java/com/dstillery/optimus/campaign/CampaignSpendRankRepository.java\r\n create mode 100644 src/main/java/com/dstillery/optimus/campaign/CampaignSpendRankRepositoryImpl-insert-target-group-ranking.sql\r\n create mode 100644 src/main/java/com/dstillery/optimus/campaign/CampaignSpendRankRepositoryImpl.java\r\n create mode 100644 src/main/java/com"
+    ],
+    [
+      0.000220,
+      "/dstillery/optimus/campaign/CampaignsController.java\r\n create mode 100644 src/main/java/com/dstillery/optimus/campaign/CampaignsDto.java\r\n create mode 100644 src/main/java/com/dstillery/optimus/campaign/TargetGroupRankings.java\r\n create mode 100644 src/main/java/com/dstillery/optimus/campaign/TargetGroupRankingsController.java\r\n create mode 100644 src/main/java/com/dstillery/spring/JmxConfiguration.java\r\n create mode 100644 src/main/resources/META-INF/audiencetype.xml\r\n create mode 100644 src/main/resources/META-INF/campaign.xml\r\n create mode 100644 src/test/java/com/dstillery/houston/services/v2/mysql/campaign/CampaignMysqlRepositoryTest.java\r\n create mode 100644 src/test/java/com/dstillery/openbar/test/jdbc/H2Resource.java\r\n create mode 100644 src/test/java/com/dstillery/openbar/test/spring/AppH2Configuration.java\r\n create mode 100644 src/test/java/com/dstillery/openbar/test/spring/AppJpaConfiguration.java\r\n create mode 100644 src/test/java/com/dstillery/openbar/test/spring/ValidatorConfig.java\r\n create mod"
+    ],
+    [
+      0.000016,
+      "e 100644 src/test/java/com/dstillery/optimus/MockMvcTestSupport.java\r\n create mode 100644 src/test/java/com/dstillery/optimus/audiencetype/AudienceTypeControllerTest.java\r\n create mode 100644 src/test/java/com/dstillery/optimus/audiencetype/AudienceTypeRepositoryTest.java\r\n create mode 100644 src/test/java/com/dstillery/optimus/campaign/CampaignSpendRankRepositoryTest-get-target-group-rankings.sql\r\n create mode 100644 src/test/java/com/dstillery/optimus/campaign/CampaignSpendRankRepositoryTest.java\r\n create mode 100644 src/test/java/com/dstillery/optimus/campaign/CampaignsControllerTest.java\r\n create mode 100644 src/test/java/com/dstillery/optimus/campaign/TargetGroupRankingsControllerTest.java\r\n"
+    ],
+    [
+      0.000483,
+      " create mode 100644 src/test/resources/database/audiencetype-ref-data.xml\r\n create mode 100644 src/test/resources/database/campaignspendrank-ref-data.xml\r\n"
+    ],
+    [
+      0.001406,
+      "bash-3.2$ "
+    ],
+    [
+      2.119050,
+      "p"
+    ],
+    [
+      0.241303,
+      "w"
+    ],
+    [
+      0.215985,
+      "d"
+    ],
+    [
+      0.111777,
+      "\r\n"
+    ],
+    [
+      0.000459,
+      "/Users/deshbirsinghdugal/fon/openbar-api-fn\r\nbash-3.2$ "
+    ],
+    [
+      3.287589,
+      "g"
+    ],
+    [
+      0.095842,
+      "i"
+    ],
+    [
+      0.088308,
+      "t"
+    ],
+    [
+      0.094657,
+      " "
+    ],
+    [
+      0.217385,
+      "s"
+    ],
+    [
+      0.143964,
+      "t"
+    ],
+    [
+      0.071316,
+      "a"
+    ],
+    [
+      0.071307,
+      "t"
+    ],
+    [
+      0.193439,
+      "u"
+    ],
+    [
+      0.104078,
+      "s"
+    ],
+    [
+      0.255685,
+      "\r\n"
+    ],
+    [
+      0.048095,
+      "On branch master\r\n"
+    ],
+    [
+      0.001677,
+      "Your branch is ahead of 'fonantrix/master' by 19 commits.\r\n  (use \"git push\" to publish your local commits)\r\n\r\nnothing to commit, working directory clean\r\n"
+    ],
+    [
+      0.000699,
+      "bash-3.2$ "
+    ],
+    [
+      3.621628,
+      "g"
+    ],
+    [
+      0.264212,
+      "i"
+    ],
+    [
+      0.014608,
+      "u"
+    ],
+    [
+      0.089361,
+      "t"
+    ],
+    [
+      0.064037,
+      " "
+    ],
+    [
+      0.423847,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.135948,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.119959,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.128172,
+      "t"
+    ],
+    [
+      0.056068,
+      " "
+    ],
+    [
+      0.191946,
+      "p"
+    ],
+    [
+      0.544059,
+      "u"
+    ],
+    [
+      0.111974,
+      "s"
+    ],
+    [
+      0.088007,
+      "g"
+    ],
+    [
+      0.063979,
+      "h"
+    ],
+    [
+      0.064039,
+      " "
+    ],
+    [
+      0.391790,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.127934,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.440071,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.216222,
+      "h"
+    ],
+    [
+      0.111969,
+      " "
+    ],
+    [
+      0.584066,
+      "f"
+    ],
+    [
+      0.103929,
+      "o"
+    ],
+    [
+      0.855963,
+      "n"
+    ],
+    [
+      0.152055,
+      "a"
+    ],
+    [
+      0.103542,
+      "n"
+    ],
+    [
+      0.672433,
+      "t"
+    ],
+    [
+      0.184069,
+      "r"
+    ],
+    [
+      0.111926,
+      "i"
+    ],
+    [
+      0.160040,
+      "x"
+    ],
+    [
+      0.111989,
+      " "
+    ],
+    [
+      0.375980,
+      "m"
+    ],
+    [
+      0.079503,
+      "a"
+    ],
+    [
+      0.168565,
+      "s"
+    ],
+    [
+      0.135347,
+      "t"
+    ],
+    [
+      0.088081,
+      "e"
+    ],
+    [
+      0.088547,
+      "r"
+    ],
+    [
+      0.504090,
+      "\r\n"
+    ],
+    [
+      9.585372,
+      "Counting objects: 450, done.\r\n"
+    ],
+    [
+      0.003650,
+      "Delta compression using up to 2 threads.\r\n"
+    ],
+    [
+      0.000184,
+      "Compressing objects:   0% (1/147)   \rCompressing objects:   1% (2/147)   \rCompressing objects:   2% (3/147)   \r"
+    ],
+    [
+      0.000297,
+      "Compressing objects:   3% (5/147)   \rCompressing objects:   4% (6/147)   \rCompressing objects:   5% (8/147)   \r"
+    ],
+    [
+      0.000234,
+      "Compressing objects:   6% (9/147)   \rCompressing objects:   7% (11/147)   \r"
+    ],
+    [
+      0.000251,
+      "Compressing objects:   8% (12/147)   \r"
+    ],
+    [
+      0.000181,
+      "Compressing objects:   9% (14/147)   \r"
+    ],
+    [
+      0.000009,
+      "Compressing objects:  10% (15/147)   \r"
+    ],
+    [
+      0.000300,
+      "Compressing objects:  11% (17/147)   \r"
+    ],
+    [
+      0.001702,
+      "Compressing objects:  12% (18/147)   \rCompressing objects:  13% (20/147)   \rCompressing objects:  14% (21/147)   \rCompressing objects:  15% (23/147)   \rCompressing objects:  16% (24/147)   \rCompressing objects:  17% (25/147)   \rCompressing objects:  18% (27/147)   \rCompressing objects:  19% (28/147)   \rCompressing objects:  20% (30/147)   \rCompressing objects:  21% (31/147)   \rCompressing objects:  22% (33/147)   \r"
+    ],
+    [
+      0.000156,
+      "Compressing objects:  23% (34/147)   \r"
+    ],
+    [
+      0.000114,
+      "Compressing objects:  24% (36/147)   \r"
+    ],
+    [
+      0.000365,
+      "Compressing objects:  25% (37/147)   \rCompressing objects:  26% (39/147)   \rCompressing objects:  27% (40/147)   \rCompressing objects:  28% (42/147)   \rCompressing objects:  29% (43/147)   \rCompressing objects:  30% (45/147)   \rCompressing objects:  31% (46/147)   \rCompressing objects:  32% (48/147)   \rCompressing objects:  33% (49/147)   \rCompressing objects:  34% (50/147)   \rCompressing objects:  35% (52/147)   \r"
+    ],
+    [
+      0.000483,
+      "Compressing objects:  36% (53/147)   \rCompressing objects:  37% (55/147)   \rCompressing objects:  38% (56/147)   \rCompressing objects:  39% (58/147)   \rCompressing objects:  40% (59/147)   \rCompressing objects:  41% (61/147)   \rCompressing objects:  42% (62/147)   \rCompressing objects:  43% (64/147)   \rCompressing objects:  44% (65/147)   \rCompressing objects:  45% (67/147)   \rCompressing objects:  46% (68/147)   \r"
+    ],
+    [
+      0.000620,
+      "Compressing objects:  47% (70/147)   \rCompressing objects:  48% (71/147)   \rCompressing objects:  49% (73/147)   \rCompressing objects:  50% (74/147)   \rCompressing objects:  51% (75/147)   \rCompressing objects:  52% (77/147)   \rCompressing objects:  53% (78/147)   \r"
+    ],
+    [
+      0.000170,
+      "Compressing objects:  54% (80/147)   \rCompressing objects:  55% (81/147)   \rCompressing objects:  56% (83/147)   \rCompressing objects:  57% (84/147)   \r"
+    ],
+    [
+      0.000260,
+      "Compressing objects:  58% (86/147)   \r"
+    ],
+    [
+      0.001223,
+      "Compressing objects:  59% (87/147)   \rCompressing objects:  60% (89/147)   \rCompressing objects:  61% (90/147)   \rCompressing objects:  62% (92/147)   \r"
+    ],
+    [
+      0.000629,
+      "Compressing objects:  63% (93/147)   \rCompressing objects:  64% (95/147)   \rCompressing objects:  65% (96/147)   \r"
+    ],
+    [
+      0.000749,
+      "Compressing objects:  66% (98/147)   \r"
+    ],
+    [
+      0.000135,
+      "Compressing objects:  67% (99/147)   \r"
+    ],
+    [
+      0.000132,
+      "Compressing objects:  68% (100/147)   \r"
+    ],
+    [
+      0.000150,
+      "Compressing objects:  69% (102/147)   \r"
+    ],
+    [
+      0.000046,
+      "Compressing objects:  70% (103/147)   \r"
+    ],
+    [
+      0.000167,
+      "Compressing objects:  71% (105/147)   \r"
+    ],
+    [
+      0.000100,
+      "Compressing objects:  72% (106/147)   \r"
+    ],
+    [
+      0.000164,
+      "Compressing objects:  73% (108/147)   \r"
+    ],
+    [
+      0.000350,
+      "Compressing objects:  74% (109/147)   \rCompressing objects:  75% (111/147)   \rCompressing objects:  76% (112/147)   \r"
+    ],
+    [
+      0.000240,
+      "Compressing objects:  77% (114/147)   \rCompressing objects:  78% (115/147)   \rCompressing objects:  79% (117/147)   \rCompressing objects:  80% (118/147)   \rCompressing objects:  81% (120/147)   \rCompressing objects:  82% (121/147)   \rCompressing objects:  83% (123/147)   \r"
+    ],
+    [
+      0.000045,
+      "Compressing objects:  84% (124/147)   \r"
+    ],
+    [
+      0.000127,
+      "Compressing objects:  85% (125/147)   \r"
+    ],
+    [
+      0.000708,
+      "Compressing objects:  86% (127/147)   \rCompressing objects:  87% (128/147)   \rCompressing objects:  88% (130/147)   \rCompressing objects:  89% (131/147)   \rCompressing objects:  90% (133/147)   \rCompressing objects:  91% (134/147)   \rCompressing objects:  92% (136/147)   \r"
+    ],
+    [
+      0.000215,
+      "Compressing objects:  93% (137/147)   \r"
+    ],
+    [
+      0.000337,
+      "Compressing objects:  94% (139/147)   \r"
+    ],
+    [
+      0.000326,
+      "Compressing objects:  95% (140/147)   \r"
+    ],
+    [
+      0.001002,
+      "Compressing objects:  96% (142/147)   \r"
+    ],
+    [
+      0.000136,
+      "Compressing objects:  97% (143/147)   \r"
+    ],
+    [
+      0.000135,
+      "Compressing objects:  98% (145/147)   \r"
+    ],
+    [
+      0.000135,
+      "Compressing objects:  99% (146/147)   \r"
+    ],
+    [
+      0.000584,
+      "Compressing objects: 100% (147/147)   \r"
+    ],
+    [
+      0.000219,
+      "Compressing objects: 100% (147/147), done.\r\n"
+    ],
+    [
+      0.000710,
+      "Writing objects:   0% (1/347)   \rWriting objects:   1% (4/347)   \rWriting objects:   2% (7/347)   \rWriting objects:   3% (11/347)   \rWriting objects:   4% (14/347)   \r"
+    ],
+    [
+      0.000148,
+      "Writing objects:   5% (18/347)   \rWriting objects:   6% (21/347)   \rWriting objects:   7% (25/347)   \rWriting objects:   8% (28/347)   \rWriting objects:   9% (32/347)   \r"
+    ],
+    [
+      0.000146,
+      "Writing objects:  10% (35/347)   \rWriting objects:  11% (39/347)   \rWriting objects:  12% (42/347)   \rWriting objects:  13% (46/347)   \rWriting objects:  14% (49/347)   \r"
+    ],
+    [
+      0.000156,
+      "Writing objects:  15% (53/347)   \rWriting objects:  16% (56/347)   \rWriting objects:  17% (59/347)   \rWriting objects:  18% (63/347)   \rWriting objects:  19% (67/347)   \rWriting objects:  20% (70/347)   \rWriting objects:  21% (73/347)   \rWriting objects:  22% (77/347)   \rWriting objects:  23% (80/347)   \r"
+    ],
+    [
+      0.000147,
+      "Writing objects:  24% (84/347)   \rWriting objects:  25% (87/347)   \rWriting objects:  26% (92/347)   \rWriting objects:  27% (95/347)   \r"
+    ],
+    [
+      0.000158,
+      "Writing objects:  28% (98/347)   \rWriting objects:  29% (101/347)   \rWriting objects:  30% (105/347)   \rWriting objects:  31% (108/347)   \rWriting objects:  32% (112/347)   \rWriting objects:  33% (115/347)   \rWriting objects:  34% (118/347)   \rWriting objects:  35% (122/347)   \rWriting objects:  36% (125/347)   \rWriting objects:  37% (129/347)   \r"
+    ],
+    [
+      0.000141,
+      "Writing objects:  38% (132/347)   \rWriting objects:  39% (136/347)   \rWriting objects:  40% (139/347)   \r"
+    ],
+    [
+      0.000404,
+      "Writing objects:  41% (143/347)   \rWriting objects:  42% (146/347)   \rWriting objects:  43% (150/347)   \rWriting objects:  44% (153/347)   \rWriting objects:  45% (157/347)   \rWriting objects:  46% (160/347)   \rWriting objects:  47% (164/347)   \rWriting objects:  48% (167/347)   \r"
+    ],
+    [
+      0.000174,
+      "Writing objects:  49% (171/347)   \rWriting objects:  50% (174/347)   \rWriting objects:  51% (177/347)   \rWriting objects:  52% (181/347)   \rWriting objects:  53% (184/347)   \rWriting objects:  54% (188/347)   \rWriting objects:  55% (191/347)   \rWriting objects:  56% (195/347)   \rWriting objects:  57% (198/347)   \rWriting objects:  58% (202/347)   \rWriting objects:  59% (205/347)   \rWriting objects:  60% (209/347)   \rWriting objects:  61% (212/347)   \rWriting objects:  62% (216/347)   \rWriting objects:  63% (219/347)   \rWriting objects:  64% (223/347)   \r"
+    ],
+    [
+      0.000191,
+      "Writing objects:  65% (226/347)   \rWriting objects:  66% (230/347)   \rWriting objects:  67% (233/347)   \rWriting objects:  68% (236/347)   \rWriting objects:  69% (240/347)   \rWriting objects:  70% (243/347)   \rWriting objects:  71% (247/347)   \rWriting objects:  72% (250/347)   \rWriting objects:  73% (254/347)   \rWriting objects:  74% (257/347)   \rWriting objects:  75% (261/347)   \rWriting objects:  76% (264/347)   \rWriting objects:  77% (268/347)   \rWriting objects:  78% (271/347)   \rWriting objects:  79% (275/347)   \rWriting objects:  80% (278/347)   \rWriting objects:  81% (282/347)   \rWriting objects:  82% (285/347)   \rWriting objects:  83% (289/347)   \rWriting objects:  84% (292/347)   \rWriting objects:  85% (295/347)   \rWriting objects:  86% (299/347)   \rWriting objects:  87% (302/347)   \r"
+    ],
+    [
+      0.000161,
+      "Writing objects:  88% (306/347)   \rWriting objects:  89% (309/347)   \rWriting objects:  90% (313/347)   \rWriting objects:  91% (316/347)   \rWriting objects:  92% (320/347)   \rWriting objects:  93% (323/347)   \rWriting objects:  94% (327/347)   \rWriting objects:  95% (330/347)   \rWriting objects:  96% (334/347)   \rWriting objects:  97% (337/347)   \r"
+    ],
+    [
+      0.000138,
+      "Writing objects:  98% (341/347)   \rWriting objects:  99% (344/347)   \r"
+    ],
+    [
+      0.000152,
+      "Writing objects: 100% (347/347)   \rWriting objects: 100% (347/347), 57.25 KiB | 0 bytes/s, done.\r\nTotal 347 (delta 159), reused 326 (delta 138)\r\n"
+    ],
+    [
+      12.833290,
+      "To https://ruchikagupta01@github.com/fonantrix/openbar-api-fn.git\r\n"
+    ],
+    [
+      0.000353,
+      "   48d7090..4fd4bee  master -\u003e master\r\n"
+    ],
+    [
+      0.011329,
+      "bash-3.2$ "
+    ],
+    [
+      2.725956,
+      "#"
+    ],
+    [
+      0.279879,
+      " "
+    ],
+    [
+      1.311959,
+      "t"
+    ],
+    [
+      0.176131,
+      "h"
+    ],
+    [
+      0.071623,
+      "a"
+    ],
+    [
+      0.111789,
+      "t"
+    ],
+    [
+      0.096659,
+      "s"
+    ],
+    [
+      0.543655,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.136125,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.127981,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.135954,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.496059,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.296419,
+      "T"
+    ],
+    [
+      0.175768,
+      "a"
+    ],
+    [
+      0.071861,
+      "h"
+    ],
+    [
+      0.200123,
+      "t"
+    ],
+    [
+      0.104063,
+      "s"
+    ],
+    [
+      0.256386,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.126988,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.112379,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.135769,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.200423,
+      "h"
+    ],
+    [
+      0.080055,
+      "a"
+    ],
+    [
+      0.112187,
+      "t"
+    ],
+    [
+      0.087864,
+      "s"
+    ],
+    [
+      1.167922,
+      " "
+    ],
+    [
+      0.160025,
+      "i"
+    ],
+    [
+      0.143996,
+      "t"
+    ],
+    [
+      0.975816,
+      "!"
+    ],
+    [
+      0.312139,
+      "."
+    ],
+    [
+      0.135915,
+      "."
+    ],
+    [
+      0.192124,
+      " "
+    ],
+    [
+      0.519941,
+      "B"
+    ],
+    [
+      0.280042,
+      "y"
+    ],
+    [
+      0.095985,
+      "e"
+    ],
+    [
+      0.104352,
+      " "
+    ],
+    [
+      0.223622,
+      "f"
+    ],
+    [
+      0.080048,
+      "o"
+    ],
+    [
+      0.119958,
+      "r"
+    ],
+    [
+      0.048055,
+      " "
+    ],
+    [
+      0.167809,
+      "n"
+    ],
+    [
+      0.184154,
+      "o"
+    ],
+    [
+      0.104544,
+      "w"
+    ],
+    [
+      0.159439,
+      "."
+    ],
+    [
+      0.391858,
+      "\r\n"
+    ],
+    [
+      0.000445,
+      "bash-3.2$ "
+    ],
+    [
+      3.063381,
+      "exit\r\n"
+    ]
+  ]
+}
