@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "width": 165,
+  "height": 69,
+  "duration": 12.567166,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.710781,
+      "Waiting for VM and Docker daemon to start...\r\n"
+    ],
+    [
+      0.302609,
+      "."
+    ],
+    [
+      0.433680,
+      "o"
+    ],
+    [
+      0.174157,
+      "\r\nStarted.\r\n"
+    ],
+    [
+      0.182955,
+      "Writing /Users/n.bouteillier/.boot2docker/certs/boot2docker-vm/ca.pem\r\nWriting /Users/n.bouteillier/.boot2docker/certs/boot2docker-vm/cert.pem\r\nWriting /Users/n.bouteillier/.boot2docker/certs/boot2docker-vm/key.pem\r\nYour environment variables are already set correctly.\r\n\r\n"
+    ],
+    [
+      0.505151,
+      "Writing /Users/n.bouteillier/.boot2docker/certs/boot2docker-vm/ca.pem\r\n"
+    ],
+    [
+      0.000104,
+      "Writing /Users/n.bouteillier/.boot2docker/certs/boot2docker-vm/cert.pem\r\n"
+    ],
+    [
+      0.000026,
+      "Writing /Users/n.bouteillier/.boot2docker/certs/boot2docker-vm/key.pem\r\n"
+    ],
+    [
+      0.197211,
+      "192.168.59.103\r\n"
+    ],
+    [
+      0.860975,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                    \r \r"
+    ],
+    [
+      0.213620,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[0;38;5;231;48;5;31;1m n.bouteillier \u001b[0;38;5;31;48;5;240;22m \u001b[0;38;5;250;48;5;240m/ \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;250;48;5;240mProject \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;252;48;5;240;1mlabe-bench \u001b[0;38;5;240;49;22m \u001b[0m"
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      0.000134,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.223761,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[0;38;5;231;48;5;31;1m n.bouteillier \u001b[0;38;5;31;48;5;240;22m \u001b[0;38;5;250;48;5;240m/ \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;250;48;5;240mProject \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;252;48;5;240;1mlabe-bench \u001b[0;38;5;240;49;22m \u001b[0m"
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      7.935845,
+      "e"
+    ],
+    [
+      0.109342,
+      "\u0008ex"
+    ],
+    [
+      0.191870,
+      "i"
+    ],
+    [
+      0.151900,
+      "t"
+    ],
+    [
+      0.167957,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.198774,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[0;38;5;231;48;5;31;1m n.bouteillier \u001b[0;38;5;31;48;5;240;22m \u001b[0;38;5;250;48;5;240m/ \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;250;48;5;240mProject \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;252;48;5;240;1mlabe-bench \u001b[0;38;5;240;49;22m \u001b[0m"
+    ],
+    [
+      0.000008,
+      "exit\u001b[K"
+    ],
+    [
+      0.000172,
+      "\r\r\n"
+    ]
+  ]
+}
