@@ -1,0 +1,126 @@
+{
+  "version": 1,
+  "width": 233,
+  "height": 52,
+  "duration": 7.776723,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.008868,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000008,
+      "bash-3.2$ "
+    ],
+    [
+      4.423127,
+      "l"
+    ],
+    [
+      0.055647,
+      "s"
+    ],
+    [
+      0.104294,
+      " "
+    ],
+    [
+      0.103478,
+      "-"
+    ],
+    [
+      0.232802,
+      "l"
+    ],
+    [
+      0.335793,
+      "\r\n"
+    ],
+    [
+      0.008292,
+      "total 88\r\n"
+    ],
+    [
+      0.000134,
+      "drwx------   4 rogerwelin  staff    136 May  9  2014 \u001b[1m\u001b[36mApplications\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "drwx------+  6 rogerwelin  staff    204 Feb 26 15:25 \u001b[1m\u001b[36mDesktop\u001b[39;49m\u001b[0m\r\ndrwx------+ 38 rogerwelin  staff   1292 Mar 23 10:44 \u001b[1m\u001b[36mDocuments\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "drwx------+ 69 rogerwelin  staff   2346 Mar 18 12:13 \u001b[1m\u001b[36mDownloads\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "drwx------@ 56 rogerwelin  staff   1904 Dec  9 16:16 \u001b[1m\u001b[36mLibrary\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000004,
+      "drwx------+  3 rogerwelin  staff    102 Apr 28  2014 \u001b[1m\u001b[36mMovies\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "drwx------+  4 rogerwelin  staff    136 Oct 10 10:40 \u001b[1m\u001b[36mMusic\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000004,
+      "drwx------+  4 rogerwelin  staff    136 Mar 23 17:05 \u001b[1m\u001b[36mPictures\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "drwxr-xr-x+  5 rogerwelin  staff    170 Apr 28  2014 \u001b[1m\u001b[36mPublic\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "drwx------  14 rogerwelin  staff    476 Jan 13 14:58 \u001b[1m\u001b[36mVirtualBox VMs\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "-rw-r--r--   1 rogerwelin  staff  12227 Nov  2  2012 bootstrap_centos6x64.sh\r\n"
+    ],
+    [
+      0.000077,
+      "-rwxr-xr-x   1 rogerwelin  staff   4537 Aug 19  2014 \u001b[1m\u001b[31mespresso-deploy.sh\u001b[39;49m\u001b[0m\r\n-rw-------   1 rogerwelin  staff   1679 Feb 27 11:50 github\r\n"
+    ],
+    [
+      0.000021,
+      "-rw-r--r--   1 rogerwelin  staff    404 Feb 27 11:50 github.pub\r\ndrwxr-xr-x  11 rogerwelin  staff    374 Feb 27 15:20 \u001b[1m\u001b[36miTerm2-Color-Schemes\u001b[39;49m\u001b[0m\r\n-rw-r--r--   1 rogerwelin  staff     40 Mar 16 15:54 kjsgnd.sh\r\ndrwxr-xr-x   3 rogerwelin  staff    102 Jan  8 14:26 \u001b[1m\u001b[36mlibs\u001b[39;49m\u001b[0m\r\n-rwxr-xr-x   1 rogerwelin  staff   2195 Jun 25  2014 \u001b[1m\u001b[31mmetrics_to_mongo.py\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x  18 rogerwelin  staff    612 Mar 19 13:50 \u001b[1m\u001b[36mnordnet\u001b[39;49m\u001b[0m\r\n-rw-r--r--   1 rogerwelin  staff   2488 Feb  5 12:58 out.pcap\r\ndrwxr-xr-x  31 rogerwelin  staff   1054 Mar  3 15:04 \u001b[1m\u001b[36mprogramming\u001b[39;49m\u001b[0m\r\n-rw-r--r--   1 rogerwelin  staff   1559 Mar 16 15:54 tags\r\n"
+    ],
+    [
+      0.000345,
+      "bash-3.2$ "
+    ],
+    [
+      1.566572,
+      "e"
+    ],
+    [
+      0.232244,
+      "x"
+    ],
+    [
+      0.263677,
+      "i"
+    ],
+    [
+      0.136372,
+      "t"
+    ],
+    [
+      0.303810,
+      "\r\n"
+    ],
+    [
+      0.000121,
+      "exit\r\n"
+    ]
+  ]
+}
