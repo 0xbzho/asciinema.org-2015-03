@@ -1,0 +1,3222 @@
+{
+  "version": 1,
+  "width": 82,
+  "height": 25,
+  "duration": 140.533615,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.092092,
+      "\u001b]0;\u0007\u001b[?1034h\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[\u001b[0;31mdaixtr\u001b[0;31m:\u001b[1;34m~\u001b[0;31m]-\u001b[1;35m[\u001b[0;36m\u001b[0;35m|\u001b[0;36m\u001b[0;35m\u001b[1;35m]\r\r\n\u001b[0;31m└ \u001b[0m"
+    ],
+    [
+      1.342028,
+      "v"
+    ],
+    [
+      0.061960,
+      "i"
+    ],
+    [
+      0.070044,
+      " "
+    ],
+    [
+      0.140882,
+      "/"
+    ],
+    [
+      0.227007,
+      "t"
+    ],
+    [
+      0.063088,
+      "m"
+    ],
+    [
+      0.061972,
+      "p"
+    ],
+    [
+      0.103958,
+      "/"
+    ],
+    [
+      1.297048,
+      "l"
+    ],
+    [
+      0.107944,
+      "2"
+    ],
+    [
+      3.534022,
+      "c"
+    ],
+    [
+      0.289026,
+      "_"
+    ],
+    [
+      0.306009,
+      "c"
+    ],
+    [
+      0.094957,
+      "h"
+    ],
+    [
+      0.198057,
+      "n"
+    ],
+    [
+      0.251945,
+      "l.c "
+    ],
+    [
+      2.267051,
+      "\r\n"
+    ],
+    [
+      0.018996,
+      "\u001b[?1049h\u001b[?1h\u001b=\u001b[1;25r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[25;1H\"/tmp/l2c_chnl.c\" [readonly][dos] 1194L, 34756C"
+    ],
+    [
+      0.002009,
+      "\u001b[\u003ec\u001b[2;1H\u001b[35m#include \u001b[m\u001b[31m\"..\\inc\\l2cap.h\"\u001b[m\r\n\r\n\u001b[34m/********************************************************************\r\n* Procedure Name :\r\n*       L2CA_ConnReq\r\n*\r\n* Procedure Description :\r\n*       Request for creation of new channel with a peer protocol/service\r\n*       identified by the remote PSM.The remote BT device is identified by\r\n*       the BD_ADDR.\r\n*\r\n* Input Specifications :\r\n*       BD_ADDR         sBD_ADDR\r\n*       PSM                     uPSM\r\n*\r\n* Output Specifications :\r\n*       CID                     *uCID\r\n*       UINT16          *uStatus\r\n*\r\n*  Return Type :\r\n*       L2CAPResult\r\n*\r\n* Calling Procedures :\u001b[m\u001b[25;65H1,0-1\u001b[9CTop\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.011353,
+      "\u001bP+q436f\u001b\\\u001bP+q6b75\u001b\\\u001bP+q6b64\u001b\\\u001bP+q6b72\u001b\\\u001bP+q6b6c\u001b\\\u001bP+q2332\u001b\\\u001bP+q2334\u001b\\\u001bP+q2569\u001b\\\u001bP+q2a37\u001b\\\u001bP+q6b31\u001b\\"
+    ],
+    [
+      3.580643,
+      "\u001b[?25l\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[1;1H\u001b[34m*\r\n* Calling Procedures :\r\n*       SDP,RFCOMM or other L2CAP client procedures.\r\n*\r\n* Called Procedures:\r\n*       SM_AccessReq\r\n*       CM_Connect\r\n*       L2CAP_AllocCID\r\n*       L2CAP_SendCmd\r\n*\r\n* List of ERROR Conditions and Exceptions :\r\n*       E_CONREQ_PSM_NOT_REGD\r\n*       E_CONREQ_SECURITY_FAIL\r\n*       E_CONREQ_NO_RESOURCES\r\n*       E_CONREQ_NO_ACL_LINK\r\n*       E_CONREQ_WRITE_FAILURE\r\n*       E_CONREQ_CHNL_GETTING_CLOSED\r\n*       E_CONREQ_TIMEOUT\r\n*       E_CONRSP_SECURITY_FAIL\r\n*       E_CONRSP_NO_RESOURCES\r\n*       E_CONRSP_PSM_NOT_SUPP\r\n*\r\n* Assumptions \u0026 Constraints :\r\n*       None\u001b[m\u001b[25;65H23,1\u001b[11C1%\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.597975,
+      "\u001b[?25l\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[1;1H\u001b[34m* Assumptions \u0026 Constraints :\r\n*       None\r\n******************************************************************/\u001b[m\r\n\r\nL2CAPResult L2CA_ConnReq(\u001b[6;24H BD_ADDR sBD_ADDR,       \u001b[34m/* address of the device to which  \u001b[7;1Ha connection is desired */\u001b[m\u001b[8;24H PSM uPSM,\u001b[22C \u001b[34m/* PSM of the desired servv\u001b[9;1Hice */\u001b[m\u001b[10;24H CID *uCID,\u001b[21C \u001b[34m/* Channel Identifier retuu\u001b[11;1Hrned once a channel is formed with the peer end */\u001b[m\u001b[12;24H UINT16 *uStatus\u001b[8C \u001b[34m/* specifies the reason in case off\u001b[13;1H pending connection response */\u001b[m\u001b[14;24H )\r\n{\u001b[16;8H UINT8 uPacketType = ZERO;\u001b[46C \u001b[34m/**\u001b[17;1H Specifies if packet is Single slot or multislot*/\u001b[m\u001b[18;8H ptrStructACLPkt psL2CAPConnReq = \u001b[31mNULL\u001b[m;\u001b[17C \u001b[34m/* Points  to  thee\u001b[19;1H ConnReq packet built. */\u001b[m\u001b[20;8H ptrStructL2CAPConnResp psL2CAPConnResp = \u001b[31mNULL\u001b[m;  \u001b[34m/* Points to the ConnRsp pp\u001b[21;1Hacket received from peer end.*/\u001b[m\u001b[23;8H \u001b[34m/*UINT16 uPSMIndex = ZERO;                                              \u001b[m\u001b[1m\u001b[37m\u001b[41m/\u001b[m\u001b[34m**\u001b[24;1H Indexes into the  Prots Table where uPSM  is registered [BLOCK] */\u001b[m\u001b[25;65H45,1\u001b[11C3%\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.749034,
+      "\u001b[?25l\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[2;8H \u001b[34m/*UINT16 uPSMIndex = ZERO;                                              \u001b[m\u001b[1m\u001b[37m\u001b[41m/\u001b[m\u001b[34m**\u001b[3;1H Indexes into the  Prots Table where uPSM  is registered [BLOCK] */\u001b[m\u001b[5;8H ConnectionHandle uConnHand;\u001b[44C \u001b[34m/**\u001b[6;1H Connection  handle for the link on which  uCID is allocated.*/\u001b[m\u001b[7;8H UINT16 uChnlIndex = ZERO;\u001b[46C \u001b[34m/**\u001b[8;1H Indexes into the Chnls Table where record  corres.  to uCID is   stored. */\u001b[m\u001b[9;8H UINT16 uResult;\u001b[58C  \u001b[10;1H      \u001b[34m/* result of command packet sent is stored */\u001b[m\u001b[11;8H UINT16 uL2CAPResult;\u001b[51C \u001b[34m/**\u001b[12;1H Stores the result of the final result to be returned */\u001b[m\u001b[14;8H *uCID = INVALID_CID;    \u001b[34m/* [UTP] Added */\u001b[m\r\n\r\n\u001b[35m        #ifdef DCM_BT_DEBUG\u001b[m\u001b[17;8H \u001b[33mif\u001b[m(gL2CAPDebugLevel GE MODULE_IN_EX_LEVEL)\u001b[18;16H BT_DEBUG(\u001b[31m\"\u001b[m\u001b[35m\\n\u001b[m\u001b[31m[L2CAP] :: L2CA_ConnReq Entry.. \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\r\n\u001b[35m        #endif\u001b[m\u001b[21;8H \u001b[34m/*while((uPSMIndex NE MAX_PROTS) AND    \u001b[m\u001b[1m\u001b[37m\u001b[41m/\u001b[m\u001b[34m* [UTP] changed from OR * /\r\n                  (gsData.arrProtsInfo[uPSMIndex].uPSM NE uPSM))\r\n                {\r\n                uPSMIndex++;\u001b[m\u001b[25;65H59,0-1\u001b[9C4%\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      3.348912,
+      "\u001b[?25l\u001b[25;65H60,1-8\u001b[2;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.499999,
+      "\u001b[?25l\u001b[25;66H1,0-1\u001b[4;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028066,
+      "\u001b[?25l\u001b[25;66H2,1-8\u001b[5;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027971,
+      "\u001b[?25l\u001b[25;66H3\u001b[7;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028016,
+      "\u001b[?25l\u001b[25;66H4\u001b[9;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028983,
+      "\u001b[?25l\u001b[25;66H5\u001b[11;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027998,
+      "\u001b[?25l\u001b[25;66H6\u001b[13;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029088,
+      "\u001b[?25l\u001b[25;66H7\u001b[14;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027881,
+      "\u001b[?25l\u001b[25;66H8,0-1\u001b[15;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028010,
+      "\u001b[?25l\u001b[25;66H9,1-8\u001b[16;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028051,
+      "\u001b[?25l\u001b[25;65H70\u001b[17;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028041,
+      "\u001b[?25l\u001b[25;66H1\u001b[18;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029015,
+      "\u001b[?25l\u001b[25;66H2\u001b[19;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027879,
+      "\u001b[?25l\u001b[25;66H3\u001b[20;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027062,
+      "\u001b[?25l\u001b[25;66H4\u001b[21;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028948,
+      "\u001b[?25l\u001b[25;66H5\u001b[22;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030110,
+      "\u001b[?25l\u001b[25;66H6\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026912,
+      "\u001b[?25l\u001b[25;66H7\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028073,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m                }                               \u001b[m\u001b[25;65H\u001b[K\u001b[25;65H78,1-8\u001b[9C5%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027967,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;1H\u001b[34m        if(uPSMIndex EQ MAX_PROTS)\r\n                {\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H79,1-8\u001b[9C5%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027002,
+      "\u001b[?25l\u001b[25;65H80\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029000,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m                #ifdef DCM_BT_DEBUG\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H81,1-8\u001b[9C5%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028027,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;1H\u001b[34m                if(gL2CAPDebugLevel GE MODULE_IN_EX_LEVEL)\r\n                        BT_DEBUG(\"\\n[L2CAP] :: L2CA_ConnReq Exit with \"\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H82,1-8\u001b[9C5%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027991,
+      "\u001b[?25l\u001b[25;66H3\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028019,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;1H\u001b[34m                                         \"LOCAL_PSM_NOT_REGD.. \\n\");\r\n        #endif\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H84,1-8\u001b[9C5%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029009,
+      "\u001b[?25l\u001b[25;66H5\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026069,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;1H\u001b[34m                \r\n                return E_CONREQ_LOC_PSM_NOT_REGD;\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H86,1-8\u001b[9C5%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028945,
+      "\u001b[?25l\u001b[25;66H7\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028960,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;1H\u001b[34m                } [BLOCK] */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H88,1-8\u001b[9C5%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028119,
+      "\u001b[?25l\u001b[25;66H9,0-1\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027958,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;8H \u001b[33mif\u001b[m(SM_AccReq(L2CA_UUID,uPSM,\u0026sBD_ADDR, FALSE) EQ SECURITY_NOT_REQD) \u001b[34m/* [FTT\u001b[24;1HP] */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H90,1-8\u001b[9C5%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028012,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H {\u001b[25;65H\u001b[K\u001b[25;65H91,1-8\u001b[9C5%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028991,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                #ifdef DCM_BT_DEBUG\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H92,1-8\u001b[9C5%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026964,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[33mif\u001b[m(gL2CAPDebugLevel GE MODULE_IN_EX_LEVEL)\u001b[25;65H\u001b[K\u001b[25;65H93,1-8\u001b[9C5%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027999,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H BT_DEBUG(\u001b[31m\"\u001b[m\u001b[35m\\n\u001b[m\u001b[31m[L2CAP] :: L2CA_ConnReq Exit with \"\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H94,1-8\u001b[9C6%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027995,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;41H \u001b[31m\"LOCAL_SECURITY_FAIL.. \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\u001b[25;65H\u001b[K\u001b[25;65H95,1-8\u001b[9C6%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030040,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                #endif\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H96,1-8\u001b[9C6%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029030,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H97,0-1\u001b[9C6%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027992,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[33mreturn\u001b[m E_CONREQ_LOC_SECURITY_FAIL;\u001b[25;65H\u001b[K\u001b[25;65H98,1-8\u001b[9C6%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028986,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H }\u001b[25;65H\u001b[K\u001b[25;65H99,1-8\u001b[9C6%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026905,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H100,1-8\u001b[8C6%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028050,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[34m/*Construct uPacketType using gsData.sLMPFeatures */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H101,1-8\u001b[8C6%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028994,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H102,0-1\u001b[8C6%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028046,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H uPacketType = (PKT_TYPE_DM1 | PKT_TYPE_DH1);\u001b[25;65H\u001b[K\u001b[25;65H103,1-8\u001b[8C6%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028001,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H104,0-1\u001b[8C6%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.031001,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[33mif\u001b[m(gsData.sLMPFeatures.uThreeSlotPkts EQ ONE)\u001b[25;65H\u001b[K\u001b[25;65H105,1-8\u001b[8C7%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026717,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H {\u001b[25;65H\u001b[K\u001b[25;65H106,1-8\u001b[8C7%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027170,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H uPacketType |= (PKT_TYPE_DM3 | PKT_TYPE_DH3);\u001b[25;65H\u001b[K\u001b[25;65H107,1-8\u001b[8C7%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027868,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H }\u001b[25;65H\u001b[K\u001b[25;65H108,1-8\u001b[8C7%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028731,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H109,0-1\u001b[8C7%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026499,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[33mif\u001b[m(gsData.sLMPFeatures.uFiveSlotPkts EQ ONE)\u001b[25;65H\u001b[K\u001b[25;65H110,1-8\u001b[8C7%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027875,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H {\u001b[25;65H\u001b[K\u001b[25;65H111,1-8\u001b[8C7%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030047,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H uPacketType |= (PKT_TYPE_DM5 | PKT_TYPE_DH5);\u001b[25;65H\u001b[K\u001b[25;65H112,1-8\u001b[8C7%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028924,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;8H }\u001b[25;65H\u001b[K\u001b[25;65H113,1-8\u001b[8C7%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028020,
+      "\u001b[?25l\u001b[25;67H4\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027980,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[33mif\u001b[m((*uCID = L2CAP_AllocCID()) EQ INVALID_CID)\u001b[25;65H\u001b[K\u001b[25;65H115,1-8\u001b[8C7%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030004,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H {\u001b[25;65H\u001b[K\u001b[25;65H116,1-8\u001b[8C7%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.025094,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                #ifdef DCM_BT_DEBUG\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H117,1-8\u001b[8C7%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026949,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[33mif\u001b[m(gL2CAPDebugLevel GE MODULE_IN_EX_LEVEL)\u001b[25;65H\u001b[K\u001b[25;65H118,1-8\u001b[8C8%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029009,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H BT_DEBUG(\u001b[31m\"\u001b[m\u001b[35m\\n\u001b[m\u001b[31m[L2CAP] :: L2CA_ConnReq Exit with \"\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H119,1-8\u001b[8C8%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030998,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;41H \u001b[31m\"LOCAL_NO_RESOURCES.. \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\u001b[25;65H\u001b[K\u001b[25;65H120,1-8\u001b[8C8%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028016,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                #endif\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H121,1-8\u001b[8C8%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027468,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[33mreturn\u001b[m E_CONREQ_LOC_NO_RESOURCES;\u001b[25;65H\u001b[K\u001b[25;65H122,1-8\u001b[8C8%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028676,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H }\u001b[25;65H\u001b[K\u001b[25;65H123,1-8\u001b[8C8%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.679874,
+      "\u001b[?25l\u001b[25;67H2\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.500023,
+      "\u001b[?25l\u001b[25;67H1\u001b[22;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028096,
+      "\u001b[?25l\u001b[25;67H0\u001b[21;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028879,
+      "\u001b[?25l\u001b[25;66H19\u001b[20;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028009,
+      "\u001b[?25l\u001b[25;67H8\u001b[19;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.281988,
+      "\u001b[?25l\u001b[25;67H7\u001b[18;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.166014,
+      "\u001b[?25l\u001b[25;67H6\u001b[17;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.181952,
+      "\u001b[?25l\u001b[25;67H5\u001b[16;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      3.728034,
+      "\u001b[?25l\u001b[25;67H6\u001b[17;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.501024,
+      "\u001b[?25l\u001b[25;67H7\u001b[18;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028068,
+      "\u001b[?25l\u001b[25;67H8\u001b[19;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029880,
+      "\u001b[?25l\u001b[25;67H9\u001b[20;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027035,
+      "\u001b[?25l\u001b[25;66H20\u001b[21;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.025994,
+      "\u001b[?25l\u001b[25;67H1\u001b[22;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028021,
+      "\u001b[?25l\u001b[25;67H2\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.031007,
+      "\u001b[?25l\u001b[25;67H3\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027987,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H124,0-1\u001b[8C8%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028002,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H uChnlIndex = L2CAP_GetIndexFromCID(*uCID);\u001b[25;65H\u001b[K\u001b[25;65H125,1-8\u001b[8C8%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027966,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H126,0-1\u001b[8C8%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028028,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m        #ifdef DCM_BT_DEBUG\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H127,1-8\u001b[8C8%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026091,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[33mif\u001b[m(gL2CAPDebugLevel GE FUNCTIONAL_LEVEL)\u001b[25;65H\u001b[K\u001b[25;65H128,1-8\u001b[8C8%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.031122,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H BT_DEBUG(\u001b[31m\"\u001b[m\u001b[35m\\n\u001b[m\u001b[31m[L2CAP] :: L2CA_ConnReq going to ask for ACL link \"\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H129,1-8\u001b[8C8%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026689,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;33H \u001b[31m\"from CM.. \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\u001b[25;65H\u001b[K\u001b[25;65H130,1-8\u001b[8C9%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034044,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m        #endif\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H131,1-8\u001b[8C9%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026972,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H132,0-1\u001b[8C9%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029049,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[33mif\u001b[m(CM_Connect(sBD_ADDR,uPacketType,ACL_CONNECTION, \u0026uConnHand) NE SUCCESS)\u001b[25;65H\u001b[K\u001b[25;65H133,1-8\u001b[8C9%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028957,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H {\u001b[25;65H\u001b[K\u001b[25;65H134,1-8\u001b[8C9%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027010,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H gsData.arrChnlInfo[uChnlIndex].uState = CLOSED;\u001b[25;65H\u001b[K\u001b[25;65H135,1-8\u001b[8C9%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027970,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H136,0-1\u001b[8C9%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029020,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                #ifdef DCM_BT_DEBUG\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H137,1-8\u001b[8C9%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030041,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[33mif\u001b[m(gL2CAPDebugLevel GE MODULE_IN_EX_LEVEL)\u001b[25;65H\u001b[K\u001b[25;65H138,1-8\u001b[8C9%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.024983,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H BT_DEBUG(\u001b[31m\"\u001b[m\u001b[35m\\n\u001b[m\u001b[31m[L2CAP] :: L2CA_ConnReq Exit with \"\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H139,1-8\u001b[8C9%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028998,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;41H \u001b[31m\"NO_ACL_LINK.. \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\u001b[25;65H\u001b[K\u001b[25;65H140,1-8\u001b[8C9%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029008,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                #endif\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H141,1-8\u001b[7C10%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033002,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H142,0-1\u001b[7C10%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026946,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H *uCID = INVALID_CID;   \u001b[34m/* [UTP] Added */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H143,1-8\u001b[7C10%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.031010,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[33mreturn\u001b[m E_CONREQ_NO_ACL_LINK;\u001b[25;65H\u001b[K\u001b[25;65H144,1-8\u001b[7C10%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027993,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H }\u001b[25;65H\u001b[K\u001b[25;65H145,1-8\u001b[7C10%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028049,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H146,0-1\u001b[7C10%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029481,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[34m/* psL2CAPConnReq =  HCI_GetACLDataPkt(); [INTERFACECHANGE]*/\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H147,1-8\u001b[7C10%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.333496,
+      "\u001b[?25l\u001b[25;67H6,0-1\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.502965,
+      "\u001b[?25l\u001b[25;67H5,1-8\u001b[22;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027705,
+      "\u001b[?25l\u001b[25;67H4\u001b[21;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027392,
+      "\u001b[?25l\u001b[25;67H3\u001b[20;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029963,
+      "\u001b[?25l\u001b[25;67H2,0-1\u001b[19;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028001,
+      "\u001b[?25l\u001b[25;67H1,1-8\u001b[18;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026999,
+      "\u001b[?25l\u001b[25;67H0\u001b[17;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028035,
+      "\u001b[?25l\u001b[25;66H39\u001b[16;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026998,
+      "\u001b[?25l\u001b[25;67H8\u001b[15;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029002,
+      "\u001b[?25l\u001b[25;67H7\u001b[14;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028003,
+      "\u001b[?25l\u001b[25;67H6,0-1\u001b[13;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028964,
+      "\u001b[?25l\u001b[25;67H5,1-8\u001b[12;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028012,
+      "\u001b[?25l\u001b[25;67H4\u001b[11;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.909065,
+      "\u001b[?25l\u001b[25;67H5\u001b[12;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.088910,
+      "\u001b[?25l\u001b[25;67H6,0-1\u001b[13;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.501044,
+      "\u001b[?25l\u001b[25;67H7,1-8\u001b[14;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027951,
+      "\u001b[?25l\u001b[25;67H8\u001b[15;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030441,
+      "\u001b[?25l\u001b[25;67H9\u001b[16;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.025584,
+      "\u001b[?25l\u001b[25;66H40\u001b[17;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028001,
+      "\u001b[?25l\u001b[25;67H1\u001b[18;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028968,
+      "\u001b[?25l\u001b[25;67H2,0-1\u001b[19;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028017,
+      "\u001b[?25l\u001b[25;67H3,1-8\u001b[20;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028978,
+      "\u001b[?25l\u001b[25;67H4\u001b[21;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028015,
+      "\u001b[?25l\u001b[25;67H5\u001b[22;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029954,
+      "\u001b[?25l\u001b[25;67H6,0-1\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027003,
+      "\u001b[?25l\u001b[25;67H7,1-8\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028995,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;8H psL2CAPConnReq =  HCI_GetACLDataPkt(gsData.arrACLConnInfo[uConnHand - ACL__\u001b[24;1HINDEX_BASE].uConnHand);\u001b[25;65H\u001b[K\u001b[25;65H148,1-8\u001b[7C10%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030050,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H149,1-8\u001b[7C10%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029059,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[33mif\u001b[m(psL2CAPConnReq EQ \u001b[31mNULL\u001b[m)\u001b[25;65H\u001b[K\u001b[25;65H150,1-8\u001b[7C10%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028009,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H {\u001b[25;65H\u001b[K\u001b[25;65H151,1-8\u001b[7C10%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028610,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                #ifdef DCM_BT_DEBUG\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H152,1-8\u001b[7C11%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027361,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[33mif\u001b[m(gL2CAPDebugLevel GE MODULE_IN_EX_LEVEL)\u001b[25;65H\u001b[K\u001b[25;65H153,1-8\u001b[7C11%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027999,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H BT_DEBUG(\u001b[31m\"\u001b[m\u001b[35m\\n\u001b[m\u001b[31m[L2CAP] :: L2CA_ConnReq Exit with \"\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H154,1-8\u001b[7C11%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029002,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;41H \u001b[31m\"LOCAL_NO_RESOURCES.. \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\u001b[25;65H\u001b[K\u001b[25;65H155,1-8\u001b[7C11%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028060,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                #endif\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H156,1-8\u001b[7C11%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030006,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H157,0-1\u001b[7C11%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026919,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H *uCID = INVALID_CID;    \u001b[34m/* [UTP] Added */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H158,1-8\u001b[7C11%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026950,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[33mreturn\u001b[m E_CONREQ_LOC_NO_RESOURCES;\u001b[25;65H\u001b[K\u001b[25;65H159,1-8\u001b[7C11%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029070,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H }\u001b[25;65H\u001b[K\u001b[25;65H160,1-8\u001b[7C11%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028034,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H161,1-8\u001b[7C11%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028016,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H psL2CAPConnReq-\u003enext       = \u001b[31mNULL\u001b[m;\u001b[25;65H\u001b[K\u001b[25;65H162,1-8\u001b[7C11%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029029,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H psL2CAPConnReq-\u003euConnHand  = uConnHand;\u001b[25;65H\u001b[K\u001b[25;65H163,1-8\u001b[7C11%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027998,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H psL2CAPConnReq-\u003euPktBndry  = START_PKT;\u001b[25;65H\u001b[K\u001b[25;65H164,1-8\u001b[7C12%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.032009,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H psL2CAPConnReq-\u003euBCast     = NO_BCAST;\u001b[25;65H\u001b[K\u001b[25;65H165,1-8\u001b[7C12%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.546007,
+      "\u001b[?25l\u001b[25;67H4\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.181974,
+      "\u001b[?25l\u001b[25;67H3\u001b[22;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.523974,
+      "\u001b[?25l\u001b[25;67H2\u001b[21;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.203110,
+      "\u001b[?25l\u001b[25;67H3\u001b[22;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.500913,
+      "\u001b[?25l\u001b[25;67H4\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027978,
+      "\u001b[?25l\u001b[25;67H5\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029003,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H psL2CAPConnReq-\u003euHCIPktLen = CONN_REQ_LEN_HCI_PKT;\u001b[25;65H\u001b[K\u001b[25;65H166,1-8\u001b[7C12%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.025041,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H167,1-8\u001b[7C12%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027980,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H psL2CAPConnReq-\u003eu.GEN.uL2CAPPktLen = CONN_REQ_LEN_L2CAP_PKT;\u001b[25;65H\u001b[K\u001b[25;65H168,1-8\u001b[7C12%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028003,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H psL2CAPConnReq-\u003eu.GEN.uCID = SIGNALLING_CID;\u001b[25;65H\u001b[K\u001b[25;65H169,1-8\u001b[7C12%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028924,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[3M\u001b[1;25r\u001b[22;8H ((ptrStructL2CAPConnReq)psL2CAPConnReq-\u003eu.GEN.Payload)-\u003euOpcode = CONNECTII\u001b[23;1HON_REQUEST;\u001b[24;8H ((ptrStructL2CAPConnReq)psL2CAPConnReq-\u003eu.GEN.Payload)-\u003euCmdLen = CONN_REQ\u001b[24;1H\u001b[1m\u001b[34m@                                                                                 \u001b[m\u001b[25;65H\u001b[K\u001b[25;65H170,1-8\u001b[7C12%\u001b[22;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029932,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[23;1H        ((ptrStructL2CAPConnReq)psL2CAPConnReq-\u003eu.GEN.Payload)-\u003euCmdLen = CONN_REQQ\u001b[24;1H_LEN;\u001b[25;65H\u001b[K\u001b[25;65H171,1-8\u001b[7C12%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.025506,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H ((ptrStructL2CAPConnReq)psL2CAPConnReq-\u003eu.GEN.Payload)-\u003euR_PSM  = uPSM;\u001b[25;65H\u001b[K\u001b[25;65H172,1-8\u001b[7C12%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029483,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H ((ptrStructL2CAPConnReq)psL2CAPConnReq-\u003eu.GEN.Payload)-\u003euSrcCID = *uCID;\u001b[25;65H\u001b[K\u001b[25;65H173,1-8\u001b[7C12%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028128,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H174,1-8\u001b[7C12%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.032979,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H gsData.arrChnlInfo[uChnlIndex].uChannelType = CONNECTION_ORIENTED;\u001b[25;65H\u001b[K\u001b[25;65H175,1-8\u001b[7C13%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.024743,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H gsData.arrChnlInfo[uChnlIndex].uL_PSM       = uPSM;\u001b[25;65H\u001b[K\u001b[25;65H176,1-8\u001b[7C13%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027576,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H gsData.arrChnlInfo[uChnlIndex].uConnHand    = uConnHand;\u001b[25;65H\u001b[K\u001b[25;65H177,1-8\u001b[7C13%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028578,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H gsData.arrChnlInfo[uChnlIndex].uState       = W4_L2CAP_CONNECT_RSP;\u001b[25;65H\u001b[K\u001b[25;65H178,1-8\u001b[7C13%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027091,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H gsData.arrChnlInfo[uChnlIndex].uCfgFlg      = CONFIG_NOT_DONE;\u001b[25;65H\u001b[K\u001b[25;65H179,1-8\u001b[7C13%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028003,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H gsData.arrChnlInfo[uChnlIndex].uOutMTU      = DEFAULT_MTU;\u001b[25;65H\u001b[K\u001b[25;65H180,1-8\u001b[7C13%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.031967,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H181,0-1\u001b[7C13%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026942,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H182,1-8\u001b[7C13%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026999,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H gsData.arrChnlInfo[uChnlIndex].pDataPkts     = \u001b[31mNULL\u001b[m;\u001b[25;65H\u001b[K\u001b[25;65H183,1-8\u001b[7C13%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028083,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H gsData.arrChnlInfo[uChnlIndex].uChnlEvnt     = NO_EVENT;\u001b[25;65H\u001b[K\u001b[25;65H184,1-8\u001b[7C13%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027946,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[34m/*      gsData.arrChnlInfo[uChnlIndex].pEvntObj      = NULL; [FTP] */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H185,1-8\u001b[7C13%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029000,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H gsData.arrChnlInfo[uChnlIndex].pSigResultPkt = \u001b[31mNULL\u001b[m;\u001b[25;65H\u001b[K\u001b[25;65H186,1-8\u001b[7C13%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.451963,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H187,1-8\u001b[7C14%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.499100,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m        #ifdef DCM_BT_DEBUG\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H188,1-8\u001b[7C14%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030007,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[33mif\u001b[m(gL2CAPDebugLevel GE FUNCTIONAL_LEVEL)\u001b[25;65H\u001b[K\u001b[25;65H189,1-8\u001b[7C14%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027988,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H BT_DEBUG(\u001b[31m\"\u001b[m\u001b[35m\\n\u001b[m\u001b[31m[L2CAP] :: L2CA_ConnReq sending request pkt \"\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H190,1-8\u001b[7C14%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.404999,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;33H \u001b[31m\"to L2CAP_SendCmd.. \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\u001b[25;65H\u001b[K\u001b[25;65H191,1-8\u001b[7C14%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.166004,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;1H\u001b[35m        #endif\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H192,1-8\u001b[7C14%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.158995,
+      "\u001b[?25l\u001b[25;67H3\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.147999,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;8H uResult = L2CAP_SendCmd(\u001b[24;40H psL2CAPConnReq,\u001b[25;65H\u001b[K\u001b[25;65H194,1-8\u001b[7C14%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.143001,
+      "\u001b[?25l\u001b[25;67H5\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.165029,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;40H gsData.arrChnlInfo[uChnlIndex].pEvntObj,\u001b[25;65H\u001b[K\u001b[25;65H196,1-8\u001b[7C14%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.149951,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;40H (ptrStructL2CAPCmd*)\u0026psL2CAPConnResp\u001b[25;65H\u001b[K\u001b[25;65H197,1-8\u001b[7C14%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.162953,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;40H );\u001b[25;65H\u001b[K\u001b[25;65H198,1-8\u001b[7C14%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.150010,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H199,0-1\u001b[7C14%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.150062,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[34m/* [FTP] : Changed */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H200,1-8\u001b[7C15%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.141913,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[33mif\u001b[m(uResult EQ SUCCESS AND psL2CAPConnResp-\u003euResult EQ SUCCESS)\u001b[25;65H\u001b[K\u001b[25;65H201,1-8\u001b[7C15%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.157998,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H {\u001b[25;65H\u001b[K\u001b[25;65H202,1-8\u001b[7C15%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.142062,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H *uStatus = ZERO;\u001b[25;65H\u001b[K\u001b[25;65H203,1-8\u001b[7C15%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.149995,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H gsData.arrChnlInfo[uChnlIndex].uState = CONFIG;\u001b[25;65H\u001b[K\u001b[25;65H204,1-8\u001b[7C15%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.156287,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H205,0-1\u001b[7C15%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.132741,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;16H gsData.arrChnlInfo[uChnlIndex].uR_CID = psL2CAPConnResp-\u003euDestCID;;\u001b[24;1H \u001b[34m/* [FTP] */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H206,1-8\u001b[7C15%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.136003,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H207,0-1\u001b[7C15%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.194997,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                #ifdef DCM_BT_DEBUG\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H208,1-8\u001b[7C15%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.172951,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[33mif\u001b[m(gL2CAPDebugLevel GE MODULE_IN_EX_LEVEL)\u001b[25;65H\u001b[K\u001b[25;65H209,1-8\u001b[7C15%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.150435,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H BT_DEBUG(\u001b[31m\"\u001b[m\u001b[35m\\n\u001b[m\u001b[31m[L2CAP] :: L2CA_ConnReq Exit with \"\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H210,1-8\u001b[7C15%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.149039,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;41H \u001b[31m\"SUCCESS.. \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\u001b[25;65H\u001b[K\u001b[25;65H211,1-8\u001b[7C16%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.157578,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                #endif\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H212,1-8\u001b[7C16%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.143528,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H213,0-1\u001b[7C16%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.497478,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H OSL_FreeMemory((pvoid)psL2CAPConnResp);\u001b[25;65H\u001b[K\u001b[25;65H214,1-8\u001b[7C16%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028081,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[33mreturn\u001b[m SUCCESS;\u001b[25;65H\u001b[K\u001b[25;65H215,1-8\u001b[7C16%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027865,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H }\u001b[25;65H\u001b[K\u001b[25;65H216,1-8\u001b[7C16%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029391,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;8H \u001b[33melse\u001b[m \u001b[34m/*If the Connect is a failure then ACL link should be disconnected SRR\u001b[24;1HI */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H217,1-8\u001b[7C16%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028628,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H {\u001b[25;65H\u001b[K\u001b[25;65H218,1-8\u001b[7C16%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028032,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H CM_Disconnect( uConnHand, DISCONN_REASON);\u001b[25;65H\u001b[K\u001b[25;65H219,1-8\u001b[7C16%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027001,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H }\u001b[25;65H\u001b[K\u001b[25;65H220,1-8\u001b[7C16%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027995,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H221,0-1\u001b[7C16%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029942,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H *uCID = INVALID_CID;\u001b[11C \u001b[34m/* [UTP] Added */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H222,1-8\u001b[7C17%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030066,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H223,1-8\u001b[7C17%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027983,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[33mif\u001b[m( uResult EQ E_NO_CONN_FOUND)\u001b[25;65H\u001b[K\u001b[25;65H224,1-8\u001b[7C17%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029011,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H {\u001b[25;65H\u001b[K\u001b[25;65H225,1-8\u001b[7C17%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027967,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                #ifdef DCM_BT_DEBUG\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H226,1-8\u001b[7C17%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029002,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[33mif\u001b[m(gL2CAPDebugLevel GE MODULE_IN_EX_LEVEL)\u001b[25;65H\u001b[K\u001b[25;65H227,1-8\u001b[7C17%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027222,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;24H BT_DEBUG(\u001b[31m\"\u001b[m\u001b[35m\\n\u001b[m\u001b[31m[L2CAP] :: L2CA_ConnReq Exit with \"\u001b[m\u001b[24;41H \u001b[31m\"NO_ACL_LINK.. \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\u001b[25;65H\u001b[K\u001b[25;65H228,1-8\u001b[7C17%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028321,
+      "\u001b[?25l\u001b[25;67H9\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.025490,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                #endif\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H230,1-8\u001b[7C17%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      3.305974,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H231,0-1\u001b[7C17%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.499032,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H uL2CAPResult = E_CONREQ_NO_ACL_LINK;\u001b[25;65H\u001b[K\u001b[25;65H232,1-8\u001b[7C17%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029019,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[34m/*return E_CONREQ_NO_ACL_LINK; */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H233,1-8\u001b[7C17%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027937,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H }\u001b[25;65H\u001b[K\u001b[25;65H234,1-8\u001b[7C18%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.025986,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[33melse\u001b[m \u001b[33mif\u001b[m( uResult EQ E_SEND_FAILURE )\u001b[25;65H\u001b[K\u001b[25;65H235,1-8\u001b[7C18%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029977,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H {\u001b[25;65H\u001b[K\u001b[25;65H236,1-8\u001b[7C18%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027657,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                #ifdef DCM_BT_DEBUG\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H237,1-8\u001b[7C18%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027436,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[33mif\u001b[m(gL2CAPDebugLevel GE MODULE_IN_EX_LEVEL)\u001b[25;65H\u001b[K\u001b[25;65H238,1-8\u001b[7C18%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028951,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H BT_DEBUG(\u001b[31m\"\u001b[m\u001b[35m\\n\u001b[m\u001b[31m[L2CAP] :: L2CA_ConnReq Exit with \"\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H239,1-8\u001b[7C18%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027030,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;41H \u001b[31m\"LOCAL_WRITE_FAILURE.. \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\r\n\u001b[35m                #endif\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H240,1-8\u001b[7C18%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028901,
+      "\u001b[?25l\u001b[25;67H1\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.032008,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H242,0-1\u001b[7C18%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029094,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H uL2CAPResult = E_CONREQ_LOC_WRITE_FAILURE;\u001b[25;65H\u001b[K\u001b[25;65H243,1-8\u001b[7C18%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029946,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[34m/*      return E_CONREQ_LOC_WRITE_FAILURE; */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H244,1-8\u001b[7C18%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.031018,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H }\u001b[25;65H\u001b[K\u001b[25;65H245,1-8\u001b[7C18%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027874,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[33melse\u001b[m \u001b[33mif\u001b[m( uResult EQ E_CHNL_GETTING_CLOSED )\u001b[25;65H\u001b[K\u001b[25;65H246,1-8\u001b[7C18%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027348,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H {\u001b[25;65H\u001b[K\u001b[25;65H247,1-8\u001b[7C19%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029474,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                #ifdef DCM_BT_DEBUG\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H248,1-8\u001b[7C19%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027947,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[33mif\u001b[m(gL2CAPDebugLevel GE MODULE_IN_EX_LEVEL)\u001b[25;65H\u001b[K\u001b[25;65H249,1-8\u001b[7C19%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029367,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H BT_DEBUG(\u001b[31m\"\u001b[m\u001b[35m\\n\u001b[m\u001b[31m[L2CAP] :: L2CA_ConnReq Exit with \"\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H250,1-8\u001b[7C19%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026990,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;41H \u001b[31m\"LOCAL_CHNL_GETTING_CLOSED.. \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\u001b[25;65H\u001b[K\u001b[25;65H251,1-8\u001b[7C19%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026036,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                #endif\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H252,1-8\u001b[7C19%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027932,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H uL2CAPResult = E_CONREQ_LOC_CHNL_GETTING_CLOSED;\u001b[25;65H\u001b[K\u001b[25;65H253,1-8\u001b[7C19%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      3.204977,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[34m/*      return E_CONREQ_LOC_CHNL_GETTING_CLOSED; */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H254,1-8\u001b[7C19%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.501028,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H }\u001b[25;65H\u001b[K\u001b[25;65H255,1-8\u001b[7C19%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029073,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[33melse\u001b[m \u001b[33mif\u001b[m(uResult EQ E_NO_RESOURCES)\u001b[25;65H\u001b[K\u001b[25;65H256,1-8\u001b[7C19%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027958,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H {\u001b[25;65H\u001b[K\u001b[25;65H257,1-8\u001b[7C19%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028034,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                #ifdef DCM_BT_DEBUG\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H258,1-8\u001b[7C20%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027088,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[33mif\u001b[m(gL2CAPDebugLevel GE MODULE_IN_EX_LEVEL)\u001b[25;65H\u001b[K\u001b[25;65H259,1-8\u001b[7C20%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030099,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H BT_DEBUG(\u001b[31m\"\u001b[m\u001b[35m\\n\u001b[m\u001b[31m[L2CAP] :: L2CA_ConnReq Exit with \"\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H260,1-8\u001b[7C20%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027909,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;41H \u001b[31m\"LOCAL_NO_RESOURCES.. \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\u001b[25;65H\u001b[K\u001b[25;65H261,1-8\u001b[7C20%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027994,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                #endif\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H262,1-8\u001b[7C20%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028081,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H263,0-1\u001b[7C20%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028952,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H uL2CAPResult = E_CONREQ_LOC_NO_RESOURCES;\u001b[25;65H\u001b[K\u001b[25;65H264,1-8\u001b[7C20%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026967,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[34m/*      return E_CONREQ_LOC_NO_RESOURCES; */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H265,1-8\u001b[7C20%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028996,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H }\u001b[25;65H\u001b[K\u001b[25;65H266,1-8\u001b[7C20%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030457,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[33melse\u001b[m \u001b[33mif\u001b[m( uResult EQ E_OSL_TIMEOUT )\u001b[25;65H\u001b[K\u001b[25;65H267,1-8\u001b[7C20%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034183,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H {\u001b[25;65H\u001b[K\u001b[25;65H268,1-8\u001b[7C20%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.025250,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H gsData.arrChnlInfo[uChnlIndex].uState = CLOSED;\u001b[25;65H\u001b[K\u001b[25;65H269,1-8\u001b[7C20%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029932,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H270,0-1\u001b[7C21%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027112,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                #ifdef DCM_BT_DEBUG\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H271,1-8\u001b[7C21%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028012,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[33mif\u001b[m(gL2CAPDebugLevel GE MODULE_IN_EX_LEVEL)\u001b[25;65H\u001b[K\u001b[25;65H272,1-8\u001b[7C21%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.743927,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H BT_DEBUG(\u001b[31m\"\u001b[m\u001b[35m\\n\u001b[m\u001b[31m[L2CAP] :: L2CA_ConnReq Exit with \"\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H273,1-8\u001b[7C21%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.499083,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;41H \u001b[31m\"LOCAL_TIMEOUT.. \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\u001b[25;65H\u001b[K\u001b[25;65H274,1-8\u001b[7C21%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027939,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                #endif\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H275,1-8\u001b[7C21%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028995,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H uL2CAPResult = E_CONREQ_LOC_TIMEOUT;\u001b[25;65H\u001b[K\u001b[25;65H276,1-8\u001b[7C21%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027954,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[34m/*      return E_CONREQ_LOC_TIMEOUT; */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H277,1-8\u001b[7C21%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028001,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H }\u001b[25;65H\u001b[K\u001b[25;65H278,1-8\u001b[7C21%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028041,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[33melse\u001b[m \u001b[33mif\u001b[m(psL2CAPConnResp-\u003euResult NE CONN_RESP_CONNECTION_PENDING)\u001b[25;65H\u001b[K\u001b[25;65H279,1-8\u001b[7C21%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029462,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H {\u001b[25;65H\u001b[K\u001b[25;65H280,1-8\u001b[7C21%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026537,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H gsData.arrChnlInfo[uChnlIndex].uState = CLOSED;\u001b[25;65H\u001b[K\u001b[25;65H281,1-8\u001b[7C21%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028930,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H282,0-1\u001b[7C22%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027022,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[33mif\u001b[m( psL2CAPConnResp-\u003euResult EQ CONN_RESP_SECURITY_REFUSED)\u001b[25;65H\u001b[K\u001b[25;65H283,1-8\u001b[7C22%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027995,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H {\u001b[25;65H\u001b[K\u001b[25;65H284,1-8\u001b[7C22%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028128,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                        #ifdef DCM_BT_DEBUG\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H285,1-8\u001b[7C22%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028094,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H \u001b[33mif\u001b[m(gL2CAPDebugLevel GE MODULE_IN_EX_LEVEL)\u001b[25;65H\u001b[K\u001b[25;65H286,1-8\u001b[7C22%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027982,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;32H BT_DEBUG(\u001b[31m\"\u001b[m\u001b[35m\\n\u001b[m\u001b[31m[L2CAP] :: L2CA_ConnReq Exit with \"\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H287,1-8\u001b[7C22%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026997,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;49H \u001b[31m\"RMT_SECURITY_FAIL.. \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\u001b[25;65H\u001b[K\u001b[25;65H288,1-8\u001b[7C22%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028964,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                        #endif\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H289,1-8\u001b[7C22%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026940,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H290,0-1\u001b[7C22%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029007,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H uL2CAPResult = E_CONREQ_RMT_SECURITY_FAIL;\u001b[25;65H\u001b[K\u001b[25;65H291,1-8\u001b[7C22%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030089,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H \u001b[34m/*      return E_CONREQ_RMT_SECURITY_FAIL; */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H292,1-8\u001b[7C22%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026977,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H }\u001b[25;65H\u001b[K\u001b[25;65H293,1-8\u001b[7C22%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027974,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H294,0-1\u001b[7C23%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026961,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[33mif\u001b[m( psL2CAPConnResp-\u003euResult EQ CONN_RESP_RESOURCES_UNAVAILABLE)\u001b[25;65H\u001b[K\u001b[25;65H295,1-8\u001b[7C23%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.885097,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H {\u001b[25;65H\u001b[K\u001b[25;65H296,1-8\u001b[7C23%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.498937,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                        #ifdef DCM_BT_DEBUG\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H297,1-8\u001b[7C23%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027989,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H \u001b[33mif\u001b[m(gL2CAPDebugLevel GE MODULE_IN_EX_LEVEL)\u001b[25;65H\u001b[K\u001b[25;65H298,1-8\u001b[7C23%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028635,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;32H BT_DEBUG(\u001b[31m\"\u001b[m\u001b[35m\\n\u001b[m\u001b[31m[L2CAP] :: L2CA_ConnReq Exit with \"\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H299,1-8\u001b[7C23%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028381,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;49H \u001b[31m\"RMT_NO_RESOURCES.. \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\u001b[25;65H\u001b[K\u001b[25;65H300,1-8\u001b[7C23%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029952,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                        #endif\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H301,1-8\u001b[7C23%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026005,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H302,0-1\u001b[7C23%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029026,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H uL2CAPResult = E_CONREQ_RMT_NO_RESOURCES;\u001b[25;65H\u001b[K\u001b[25;65H303,1-8\u001b[7C23%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026976,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H \u001b[34m/*      return E_CONREQ_RMT_NO_RESOURCES; */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H304,1-8\u001b[7C23%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029082,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H }\u001b[25;65H\u001b[K\u001b[25;65H305,1-8\u001b[7C24%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027957,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H306,0-1\u001b[7C24%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028047,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[33mif\u001b[m(psL2CAPConnResp-\u003euResult  EQ CONN_RESP_PSM_NOT_SUPP)\u001b[25;65H\u001b[K\u001b[25;65H307,1-8\u001b[7C24%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028972,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H {\u001b[25;65H\u001b[K\u001b[25;65H308,1-8\u001b[7C24%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027946,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                        #ifdef DCM_BT_DEBUG\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H309,1-8\u001b[7C24%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027245,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H \u001b[33mif\u001b[m(gL2CAPDebugLevel GE MODULE_IN_EX_LEVEL)\u001b[25;65H\u001b[K\u001b[25;65H310,1-8\u001b[7C24%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028752,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;32H BT_DEBUG(\u001b[31m\"\u001b[m\u001b[35m\\n\u001b[m\u001b[31m[L2CAP] :: L2CA_ConnReq Exit with \"\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H311,1-8\u001b[7C24%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028048,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;49H \u001b[31m\"RMT_PSM_NOT_SUPP.. \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\u001b[25;65H\u001b[K\u001b[25;65H312,1-8\u001b[7C24%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029118,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                        #endif\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H313,1-8\u001b[7C24%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027966,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H uL2CAPResult = E_CONREQ_RMT_PSM_NOT_SUPP;\u001b[25;65H\u001b[K\u001b[25;65H314,1-8\u001b[7C24%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028955,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H \u001b[34m/*      return E_CONREQ_RMT_PSM_NOT_SUPP; */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H315,1-8\u001b[7C24%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.025905,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H }\u001b[25;65H\u001b[K\u001b[25;65H316,1-8\u001b[7C24%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029024,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H }\u001b[25;65H\u001b[K\u001b[25;65H317,1-8\u001b[7C25%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027081,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[33melse\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H318,1-8\u001b[7C25%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028989,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H {\u001b[25;65H\u001b[K\u001b[25;65H319,1-8\u001b[7C25%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029016,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                #ifdef DCM_BT_DEBUG\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H320,1-8\u001b[7C25%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027998,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[33mif\u001b[m(gL2CAPDebugLevel GE MODULE_IN_EX_LEVEL)\u001b[25;65H\u001b[K\u001b[25;65H321,1-8\u001b[7C25%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028997,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H BT_DEBUG(\u001b[31m\"\u001b[m\u001b[35m\\n\u001b[m\u001b[31m[L2CAP] :: L2CA_ConnReq Exit with \"\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H322,1-8\u001b[7C25%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026896,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;40H \u001b[31m\"FAILURE.. \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\u001b[25;65H\u001b[K\u001b[25;65H323,1-8\u001b[7C25%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028004,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                #endif\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H324,1-8\u001b[7C25%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027879,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H325,0-1\u001b[7C25%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029163,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H uL2CAPResult = FAILURE;\u001b[25;65H\u001b[K\u001b[25;65H326,1-8\u001b[7C25%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029006,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H }\u001b[25;65H\u001b[K\u001b[25;65H327,1-8\u001b[7C25%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026937,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H328,0-1\u001b[7C25%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030056,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[33mif\u001b[m(psL2CAPConnResp NE \u001b[31mNULL\u001b[m)\u001b[25;65H\u001b[K\u001b[25;65H329,1-8\u001b[7C26%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027959,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H OSL_FreeMemory((pvoid)psL2CAPConnResp);\u001b[25;65H\u001b[K\u001b[25;65H330,1-8\u001b[7C26%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029046,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H331,0-1\u001b[7C26%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028140,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[33mreturn\u001b[m uL2CAPResult;\u001b[25;65H\u001b[K\u001b[25;65H332,1-8\u001b[7C26%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028829,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H}\u001b[25;65H\u001b[K\u001b[25;65H333,1\u001b[9C26%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027988,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H334,0-1\u001b[7C26%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027060,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H335,0-1\u001b[7C26%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029027,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m/********************************************************************\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H336,1\u001b[9C26%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027939,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m* Procedure Name :\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H337,1\u001b[9C26%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029070,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       L2CA_ConnRsp\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H338,1\u001b[9C26%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028959,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H339,1\u001b[9C26%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026944,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m* Procedure Description :\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H340,1\u001b[9C27%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027994,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       This call is used by the protocols to respond to a connection\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H341,1\u001b[9C27%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027996,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       request for a channel from a remote protocol. The response can\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H342,1\u001b[9C27%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028070,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       be positive or negative.\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H343,1\u001b[9C27%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029015,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H344,1\u001b[9C27%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027987,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m* Input Specifications :\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H345,1\u001b[9C27%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028039,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       CID             uCID\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H346,1\u001b[9C27%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028906,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       UINT16  uResponse\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H347,1\u001b[9C27%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.218018,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       UINT16  uStatus\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H348,1\u001b[9C27%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.501065,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H349,1\u001b[9C27%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029983,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m* Output Specifications :\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H350,1\u001b[9C27%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027989,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       None\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H351,1\u001b[9C27%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028025,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H352,1\u001b[9C28%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026972,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*  Return Type :\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H353,1\u001b[9C28%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029037,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       L2CAPResult\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H354,1\u001b[9C28%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028997,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H355,1\u001b[9C28%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028008,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m* Calling Procedures :\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H356,1\u001b[9C28%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028996,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       SDP,  RFCOMM or other L2CAP client procedures.\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H357,1\u001b[9C28%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027969,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H358,1\u001b[9C28%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027893,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m* Called Procedures:\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H359,1\u001b[9C28%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028098,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       CM_Writedata\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H360,1\u001b[9C28%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029525,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       L2CAP_GetIndexFromCID\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H361,1\u001b[9C28%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026464,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H362,1\u001b[9C28%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028982,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m* List of ERROR Conditions and Exceptions :\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H363,1\u001b[9C28%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026972,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       E_CONRSP_INVALID_CID\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H364,1\u001b[9C29%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027996,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       E_CONRSP_NO_CONN_REQ_PNDG\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H365,1\u001b[9C29%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029001,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       E_CONRSP_NO_ACL_LINK\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H366,1\u001b[9C29%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028035,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       E_CONRSP_WRITE_FAILURE\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H367,1\u001b[9C29%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027998,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H368,1\u001b[9C29%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028995,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m* Assumptions \u0026 Constraints :\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H369,1\u001b[9C29%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029973,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       None\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H370,1\u001b[9C29%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027055,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m******************************************************************/\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H371,1\u001b[9C29%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027976,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H372,0-1\u001b[7C29%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029052,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1HL2CAPResult L2CA_ConnRsp(\u001b[25;65H\u001b[K\u001b[25;65H373,1\u001b[9C29%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027009,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H BD_ADDR sDevAddr,       \u001b[34m/* [Identifier] */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H374,1-8\u001b[7C29%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027009,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H UINT8 uIdentifier,      \u001b[34m/* [Identifier] */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H375,1-8\u001b[7C30%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029960,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;24H CID uCID,\u001b[22C \u001b[34m/* identifies the channel  \u001b[24;1Hfor which connection response is sent */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H376,1-8\u001b[7C30%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027954,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;24H UINT16 uResponse,       \u001b[34m/* specifies whether connection ree\u001b[24;1Hquest is to be accepted or rejected */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H377,1-8\u001b[7C30%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027000,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;24H UINT16 uStatus\u001b[9C \u001b[34m/* specifies the reason in case off\u001b[24;1H pending connection */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H378,1-8\u001b[7C30%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029999,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H )\u001b[25;65H\u001b[K\u001b[25;65H379,1-8\u001b[7C30%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030013,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H{\u001b[25;65H\u001b[K\u001b[25;65H380,1\u001b[9C30%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.025908,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;8H ptrStructACLPkt psL2CAPConnResp;\u001b[7C \u001b[34m/* Points  to  the  ConnRsp     paa\u001b[24;1Hcket built.*/\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H381,1-8\u001b[7C30%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027023,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;8H UINT16 uChnlIndex;\u001b[37C \u001b[34m/* Indexes into thh\u001b[24;1He  Chnls Table where record  corres.  to uCID is   stored.*/\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H382,1-8\u001b[7C30%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027992,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;8H UINT16 uWriteResult;\u001b[27C \u001b[34m/* result of the write call\u001b[24;1Hl made to CM */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H383,1-8\u001b[7C31%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028065,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H384,0-1\u001b[7C31%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029016,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m        #ifdef DCM_BT_DEBUG\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H385,1-8\u001b[7C31%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029270,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[33mif\u001b[m(gL2CAPDebugLevel GE MODULE_IN_EX_LEVEL)\u001b[25;65H\u001b[K\u001b[25;65H386,1-8\u001b[7C31%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026654,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H {\u001b[25;65H\u001b[K\u001b[25;65H387,1-8\u001b[7C31%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029003,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H BT_DEBUG(\u001b[31m\"\u001b[m\u001b[35m\\n\u001b[m\u001b[31m[L2CAP] :: L2CA_ConnRsp Entry.. \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\u001b[25;65H\u001b[K\u001b[25;65H388,1-8\u001b[7C31%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028999,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H }\u001b[25;65H\u001b[K\u001b[25;65H389,1-8\u001b[7C31%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028125,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m        #endif\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H390,1-8\u001b[7C31%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027855,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H391,1-8\u001b[7C31%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028002,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H uChnlIndex = L2CAP_GetIndexFromCID(uCID);\u001b[25;65H\u001b[K\u001b[25;65H392,1-8\u001b[7C31%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028017,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H393,0-1\u001b[7C31%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.630952,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;8H \u001b[33mif\u001b[m(uChnlIndex GE MAX_CHANNELS )\u001b[24;8H {\u001b[25;65H\u001b[K\u001b[25;65H394,1-8\u001b[7C32%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.502034,
+      "\u001b[?25l\u001b[25;67H5\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026001,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;1H\u001b[35m                #ifdef DCM_BT_DEBUG\u001b[m\u001b[24;16H \u001b[33mif\u001b[m(gL2CAPDebugLevel GE MODULE_IN_EX_LEVEL)\u001b[25;65H\u001b[K\u001b[25;65H396,1-8\u001b[7C32%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029068,
+      "\u001b[?25l\u001b[25;67H7\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028884,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;24H BT_DEBUG(\u001b[31m\"\u001b[m\u001b[35m\\n\u001b[m\u001b[31m[L2CAP] :: L2CA_ConnRsp Exit with \"\u001b[m\u001b[24;41H \u001b[31m\"INVALID_CID.. \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\u001b[25;65H\u001b[K\u001b[25;65H398,1-8\u001b[7C32%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028108,
+      "\u001b[?25l\u001b[25;67H9\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027937,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                #endif\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H400,1-8\u001b[7C32%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027955,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H401,0-1\u001b[7C32%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027998,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;16H \u001b[33mreturn\u001b[m E_CONRSP_INVALID_CID;\u001b[24;8H }\u001b[25;65H\u001b[K\u001b[25;65H402,1-8\u001b[7C32%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028049,
+      "\u001b[?25l\u001b[25;67H3\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027997,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[24;8H \u001b[33mif\u001b[m(gsData.arrChnlInfo[uChnlIndex].uState NE W4_L2CA_CONNECT_RSP)\u001b[25;65H\u001b[K\u001b[25;65H404,0-1\u001b[7C32%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.791075,
+      "\u001b[?25l\u001b[25;67H5,1-8\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.197963,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;8H {\r\n\u001b[35m                #ifdef DCM_BT_DEBUG\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H406,1-8\u001b[7C32%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.204988,
+      "\u001b[?25l\u001b[25;67H7\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.198013,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[33mif\u001b[m(gL2CAPDebugLevel GE MODULE_IN_EX_LEVEL)\u001b[25;65H\u001b[K\u001b[25;65H408,1-8\u001b[7C32%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.196995,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H BT_DEBUG(\u001b[31m\"\u001b[m\u001b[35m\\n\u001b[m\u001b[31m[L2CAP] :: L2CA_ConnRsp Exit with \"\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H409,1-8\u001b[7C32%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.197019,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;41H \u001b[31m\"NO_CONN_REQ_PNDG.. \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\u001b[25;65H\u001b[K\u001b[25;65H410,1-8\u001b[7C32%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.180978,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                #endif\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H411,1-8\u001b[7C33%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.182123,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H412,0-1\u001b[7C33%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.172994,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[33mreturn\u001b[m E_CONRSP_NO_CONN_REQ_PNDG;\u001b[25;65H\u001b[K\u001b[25;65H413,1-8\u001b[7C33%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.206050,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H }\u001b[25;65H\u001b[K\u001b[25;65H414,1-8\u001b[7C33%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.188988,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H415,0-1\u001b[7C33%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.196903,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[34m/*One more condition is included for pending response SRI*/\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H416,1-8\u001b[7C33%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.165622,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H417,0-1\u001b[7C33%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.318421,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;8H \u001b[33mif\u001b[m((uResponse NE CONN_RESP_CONNECTION_PENDING) AND (uResponse NE CONN_SUCCC\u001b[24;1HESSFULL ))\u001b[25;65H\u001b[K\u001b[25;65H418,1-8\u001b[7C33%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.163902,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H {\u001b[25;65H\u001b[K\u001b[25;65H419,1-8\u001b[7C33%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.393966,
+      "\u001b[?25l\u001b[25;67H8\u001b[22;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.499996,
+      "\u001b[?25l\u001b[25;67H7,0-1\u001b[21;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027129,
+      "\u001b[?25l\u001b[25;67H6,1-8\u001b[20;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028947,
+      "\u001b[?25l\u001b[25;67H5,0-1\u001b[19;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029026,
+      "\u001b[?25l\u001b[25;67H4,1-8\u001b[18;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026968,
+      "\u001b[?25l\u001b[25;67H3\u001b[17;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029058,
+      "\u001b[?25l\u001b[25;67H2,0-1\u001b[16;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028013,
+      "\u001b[?25l\u001b[25;67H1,1-8\u001b[15;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028985,
+      "\u001b[?25l\u001b[25;67H0\u001b[14;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028026,
+      "\u001b[?25l\u001b[25;66H09\u001b[13;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027062,
+      "\u001b[?25l\u001b[25;67H8\u001b[12;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.520921,
+      "\u001b[?25l\u001b[25;67H7\u001b[11;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.994969,
+      "\u001b[?25l\u001b[25;67H8\u001b[12;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.189024,
+      "\u001b[?25l\u001b[25;67H9\u001b[13;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.491944,
+      "\u001b[?25l\u001b[25;66H10\u001b[14;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.500138,
+      "\u001b[?25l\u001b[25;67H1\u001b[15;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027874,
+      "\u001b[?25l\u001b[25;67H2,0-1\u001b[16;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027993,
+      "\u001b[?25l\u001b[25;67H3,1-8\u001b[17;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028991,
+      "\u001b[?25l\u001b[25;67H4\u001b[18;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028059,
+      "\u001b[?25l\u001b[25;67H5,0-1\u001b[19;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028003,
+      "\u001b[?25l\u001b[25;67H6,1-8\u001b[20;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027955,
+      "\u001b[?25l\u001b[25;67H7,0-1\u001b[21;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028051,
+      "\u001b[?25l\u001b[25;67H8,1-8\u001b[22;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028929,
+      "\u001b[?25l\u001b[25;67H9\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027042,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H gsData.arrChnlInfo[uChnlIndex].uState = CLOSED;\u001b[25;65H\u001b[K\u001b[25;65H420,1-8\u001b[7C33%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026959,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H }\u001b[25;65H\u001b[K\u001b[25;65H421,1-8\u001b[7C33%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029062,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H422,0-1\u001b[7C34%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029007,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[34m/* psL2CAPConnResp = HCI_GetACLDataPkt(); [INTERFACECHANGE] */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H423,1-8\u001b[7C34%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028963,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;8H psL2CAPConnResp = HCI_GetACLDataPkt( gsData.arrACLConnInfo[gsData.arrChnlII\u001b[24;1Hnfo[uChnlIndex].uConnHand - ACL_INDEX_BASE].uConnHand);\u001b[25;65H\u001b[K\u001b[25;65H424,1-8\u001b[7C34%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026918,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H425,1-8\u001b[7C34%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029953,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[33mif\u001b[m(psL2CAPConnResp EQ \u001b[31mNULL\u001b[m)\u001b[25;65H\u001b[K\u001b[25;65H426,1-8\u001b[7C34%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026118,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H {\u001b[25;65H\u001b[K\u001b[25;65H427,1-8\u001b[7C34%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029001,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[33mreturn\u001b[m E_CONRSP_WRITE_FAILURE;\u001b[25;65H\u001b[K\u001b[25;65H428,1-8\u001b[7C34%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029023,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H }\u001b[25;65H\u001b[K\u001b[25;65H429,1-8\u001b[7C34%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027145,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H430,0-1\u001b[7C34%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026763,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[34m/*This code is added for pending conn response SRI */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H431,1-8\u001b[7C34%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028949,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[33mif\u001b[m(uResponse NE CONN_RESP_CONNECTION_PENDING)\u001b[25;65H\u001b[K\u001b[25;65H432,1-8\u001b[7C34%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027990,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H {\u001b[25;65H\u001b[K\u001b[25;65H433,1-8\u001b[7C35%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027060,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H gsData.arrChnlInfo[uChnlIndex].uState = CONFIG;\u001b[25;65H\u001b[K\u001b[25;65H434,1-8\u001b[7C35%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029992,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H }\u001b[25;65H\u001b[K\u001b[25;65H435,1-8\u001b[7C35%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028019,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H436,1\u001b[9C35%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026985,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H psL2CAPConnResp-\u003enext = \u001b[31mNULL\u001b[m;\u001b[25;65H\u001b[K\u001b[25;65H437,1-8\u001b[7C35%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027997,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H psL2CAPConnResp-\u003euConnHand = gsData.arrChnlInfo[uChnlIndex].uConnHand;\u001b[25;65H\u001b[K\u001b[25;65H438,1-8\u001b[7C35%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028937,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H psL2CAPConnResp-\u003euPktBndry  = START_PKT;\u001b[25;65H\u001b[K\u001b[25;65H439,1-8\u001b[7C35%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027023,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;8H psL2CAPConnResp-\u003euBCast     = NO_BCAST;\u001b[24;8H psL2CAPConnResp-\u003euHCIPktLen = CONN_RESP_LEN_HCI_PKT;\u001b[25;65H\u001b[K\u001b[25;65H440,1-8\u001b[7C35%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028102,
+      "\u001b[?25l\u001b[25;67H1\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028027,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H442,1-8\u001b[7C35%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028910,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H psL2CAPConnResp-\u003eu.GEN.uL2CAPPktLen = CONN_RESP_LEN_L2CAP_PKT;\u001b[25;65H\u001b[K\u001b[25;65H443,1-8\u001b[7C35%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029996,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H psL2CAPConnResp-\u003eu.GEN.uCID\u001b[8C = SIGNALLING_CID;\u001b[25;65H\u001b[K\u001b[25;65H444,1-8\u001b[7C36%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028021,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H445,0-1\u001b[7C36%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027975,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;8H ((ptrStructL2CAPConnResp)psL2CAPConnResp-\u003eu.GEN.Payload)-\u003euOpcode =     COO\u001b[24;1HNNECTION_RESPONSE;\u001b[25;65H\u001b[K\u001b[25;65H446,1-8\u001b[7C36%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028106,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;8H ((ptrStructL2CAPConnResp)psL2CAPConnResp-\u003eu.GEN.Payload)-\u003euIdentifier = \u001b[34m/**\u001b[24;1H [Indentifier] gsData.arrChnlInfo[uChnlIndex].*/\u001b[m uIdentifier;\u001b[25;65H\u001b[K\u001b[25;65H447,1-8\u001b[7C36%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029920,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;8H ((ptrStructL2CAPConnResp)psL2CAPConnResp-\u003eu.GEN.Payload)-\u003euCmdLen  = CONN__\u001b[24;1HRESP_LEN;\u001b[25;65H\u001b[K\u001b[25;65H448,1-8\u001b[7C36%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.709933,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H ((ptrStructL2CAPConnResp)psL2CAPConnResp-\u003eu.GEN.Payload)-\u003euDestCID = uCID;\u001b[25;65H\u001b[K\u001b[25;65H449,1-8\u001b[7C36%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.180057,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;8H ((ptrStructL2CAPConnResp)psL2CAPConnResp-\u003eu.GEN.Payload)-\u003euSrcCID  = gsDatt\u001b[24;1Ha.arrChnlInfo[uChnlIndex].uR_CID;\u001b[25;65H\u001b[K\u001b[25;65H450,1-8\u001b[7C36%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.166991,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;8H ((ptrStructL2CAPConnResp)psL2CAPConnResp-\u003eu.GEN.Payload)-\u003euResult  = uRespp\u001b[24;1Honse;\u001b[25;65H\u001b[K\u001b[25;65H451,1-8\u001b[7C36%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.161149,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H ((ptrStructL2CAPConnResp)psL2CAPConnResp-\u003eu.GEN.Payload)-\u003euStatus  = ZERO;\u001b[25;65H\u001b[K\u001b[25;65H452,1-8\u001b[7C36%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.169879,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H453,0-1\u001b[7C36%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.154956,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m        #ifdef DCM_BT_DEBUG\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H454,1-8\u001b[7C37%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.175061,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[33mif\u001b[m(gL2CAPDebugLevel GE FUNCTIONAL_LEVEL)\u001b[25;65H\u001b[K\u001b[25;65H455,1-8\u001b[7C37%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.171927,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H BT_DEBUG(\u001b[31m\"\u001b[m\u001b[35m\\n\u001b[m\u001b[31m[L2CAP] :: L2CA_ConnRsp sending response packet \"\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H456,1-8\u001b[7C37%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.184027,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;33H \u001b[31m\"to CM.. \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\u001b[25;65H\u001b[K\u001b[25;65H457,1-8\u001b[7C37%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      3.273115,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m        #endif\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H458,1-8\u001b[7C37%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.500143,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H459,0-1\u001b[7C37%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028154,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;1H\u001b[35m        #ifdef LOGFILE\u001b[m\u001b[24;8H AnalyzeSigPkt( \u001b[31m3\u001b[m, \u001b[31m1\u001b[m);\u001b[25;65H\u001b[K\u001b[25;65H460,1-8\u001b[7C37%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027558,
+      "\u001b[?25l\u001b[25;67H1\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028034,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m        #endif\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H462,1-8\u001b[7C37%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027964,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H463,0-1\u001b[7C37%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028017,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H uWriteResult = CM_WriteData(\u001b[25;65H\u001b[K\u001b[25;65H464,1-8\u001b[7C37%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.031015,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;48H psL2CAPConnResp-\u003euConnHand,\u001b[24;48H psL2CAPConnResp,\u001b[25;65H\u001b[K\u001b[25;65H465,1-8\u001b[7C37%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.025508,
+      "\u001b[?25l\u001b[25;67H6\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.031660,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;48H ONE\u001b[24;48H \u001b[34m/* ,\u0026uSize */\u001b[m \u001b[34m/* [FTP] */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H467,1-8\u001b[7C38%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.024923,
+      "\u001b[?25l\u001b[25;67H8\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029782,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;48H );\u001b[25;65H\u001b[K\u001b[25;65H469,1\u001b[9C38%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027147,
+      "\u001b[?25l\u001b[25;66H70,0-1\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027016,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[33mif\u001b[m(uWriteResult EQ E_CONN_NOT_FOUND)\u001b[25;65H\u001b[K\u001b[25;65H471,1-8\u001b[7C38%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029276,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;8H {\r\n\u001b[35m                #ifdef DCM_BT_DEBUG\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H472,1-8\u001b[7C38%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027760,
+      "\u001b[?25l\u001b[25;67H3\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029004,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;16H \u001b[33mif\u001b[m(gL2CAPDebugLevel GE MODULE_IN_EX_LEVEL)\u001b[24;24H BT_DEBUG(\u001b[31m\"\u001b[m\u001b[35m\\n\u001b[m\u001b[31m[L2CAP] :: L2CA_ConnRsp Exit with \"\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H474,1-8\u001b[7C38%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030912,
+      "\u001b[?25l\u001b[25;67H5\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.025012,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;41H \u001b[31m\"NO_ACL_LINK.. \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\u001b[25;65H\u001b[K\u001b[25;65H476,1-8\u001b[7C38%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029999,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                #endif\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H477,1-8\u001b[7C38%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028944,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H478,1-8\u001b[7C38%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026105,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[33mreturn\u001b[m E_CONRSP_NO_ACL_LINK;\u001b[25;65H\u001b[K\u001b[25;65H479,1-8\u001b[7C38%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027936,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H }\u001b[25;65H\u001b[K\u001b[25;65H480,1-8\u001b[7C38%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028001,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H481,0-1\u001b[7C39%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030767,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;8H \u001b[33mif\u001b[m((uWriteResult EQ E_FLUSH_OCCURED) OR (uWriteResult EQ  E_WRITE_FAILURE))\u001b[24;1H)\u001b[25;65H\u001b[K\u001b[25;65H482,1-8\u001b[7C39%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.024331,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H {\u001b[25;65H\u001b[K\u001b[25;65H483,1-8\u001b[7C39%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029258,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                #ifdef DCM_BT_DEBUG\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H484,1-8\u001b[7C39%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027688,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[33mif\u001b[m(gL2CAPDebugLevel GE MODULE_IN_EX_LEVEL)\u001b[25;65H\u001b[K\u001b[25;65H485,1-8\u001b[7C39%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027940,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H BT_DEBUG(\u001b[31m\"\u001b[m\u001b[35m\\n\u001b[m\u001b[31m[L2CAP] :: L2CA_ConnRsp Exit with \"\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H486,1-8\u001b[7C39%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028002,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;41H \u001b[31m\"WRITE_FAILURE.. \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\u001b[25;65H\u001b[K\u001b[25;65H487,1-8\u001b[7C39%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030025,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                #endif\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H488,1-8\u001b[7C39%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028564,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H489,0-1\u001b[7C39%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.874441,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[33mreturn\u001b[m E_CONRSP_WRITE_FAILURE;\u001b[25;65H\u001b[K\u001b[25;65H490,1-8\u001b[7C39%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.500068,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H }\u001b[25;65H\u001b[K\u001b[25;65H491,1-8\u001b[7C39%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.025916,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H492,0-1\u001b[7C40%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029037,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m        #ifdef DCM_BT_DEBUG\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H493,1-8\u001b[7C40%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028297,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[33mif\u001b[m(gL2CAPDebugLevel GE MODULE_IN_EX_LEVEL)\u001b[25;65H\u001b[K\u001b[25;65H494,1-8\u001b[7C40%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027621,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H BT_DEBUG(\u001b[31m\"\u001b[m\u001b[35m\\n\u001b[m\u001b[31m[L2CAP] :: L2CA_ConnRsp Exit with \"\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H495,1-8\u001b[7C40%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027998,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;33H \u001b[31m\"SUCCESS.. \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\u001b[25;65H\u001b[K\u001b[25;65H496,1-8\u001b[7C40%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028998,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m        #endif\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H497,1-8\u001b[7C40%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027097,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H498,0-1\u001b[7C40%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028937,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[33mreturn\u001b[m SUCCESS;\u001b[25;65H\u001b[K\u001b[25;65H499,1-8\u001b[7C40%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029997,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H}\u001b[25;65H\u001b[K\u001b[25;65H500,1\u001b[9C40%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027967,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H501,0-1\u001b[7C40%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028129,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H502,0-1\u001b[7C40%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027880,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m/********************************************************************\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H503,1\u001b[9C40%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026992,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m* Procedure Name :\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H504,1\u001b[9C41%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030052,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;1H\u001b[34m*       L2CA_DconnReq\r\n*\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H505,1\u001b[9C41%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027999,
+      "\u001b[?25l\u001b[25;67H6\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028051,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m* Procedure Description :\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H507,1\u001b[9C41%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028007,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       Request for disconnection of a channel specified by uCID.\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H508,1\u001b[9C41%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028957,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       Once this call is received by L2CAP, no further data transfer\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H509,1\u001b[9C41%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027000,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       will be possible.\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H510,1\u001b[9C41%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.429027,
+      "\u001b[?25l\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[1;1H\u001b[34m*       Once this call is received by L2CAP, no further data transfer\r\n*       will be possible.\r\n*\r\n* Input Specifications :\r\n*       CID             uCID\r\n*\r\n* Output Specifications :\r\n*       None\r\n*\r\n* Return Type :\r\n*       L2CAPResult\r\n*\r\n* Calling Procedures :\r\n*       SDP,  RFCOMM or other L2CAP client procedures.\r\n*\r\n* Called Procedures:\r\n*       L2CAP_SendCmd\r\n*       CM_Disconnect\r\n*       L2CAP_GetIndexFromCID\r\n*       \r\n* List of ERROR Conditions and Exceptions :\r\n*       E_DCONRQ_INVALID_CID\r\n*       E_DCONRQ_TIMEOUT\r\n*       E_DCONRQ_FAILURE\u001b[m\u001b[25;65H509,1\u001b[9C43%\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.823030,
+      "\u001b[?25l\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[1;1H\u001b[34m*       E_DCONRQ_TIMEOUT\r\n*       E_DCONRQ_FAILURE\r\n*\r\n* Assumptions \u0026 Constraints :\r\n*       None\r\n******************************************************************/\u001b[m\r\n\r\nL2CAPResult L2CA_DconnReq(CID uCID \u001b[34m/* Identifies the channel to be closed */\u001b[m)\r\n{\u001b[10;8H ptrStructACLPkt psL2CAPDconnReq;\u001b[31C \u001b[34m/* Points  \u001b[11;1H to  the  DconnReq packet Built. */\u001b[m\u001b[12;8H UINT8 uChnlIndex;\u001b[56C  \u001b[13;1H      \u001b[34m/* Indexes into the  Chnls Table where record  corres.  to uCID is   stored  \u001b[14;1H    .*/\u001b[m\u001b[15;8H ptrStructL2CAPDconnResp psL2CAPDconnResp=\u001b[31mNULL\u001b[m;  \u001b[34m/* Points  to  the DconnRss\u001b[16;1Hp  packet Received  */\u001b[m\r\n\r\n\u001b[35m        #ifdef DCM_BT_DEBUG\u001b[m\u001b[19;8H \u001b[33mif\u001b[m(gL2CAPDebugLevel GE MODULE_IN_EX_LEVEL)\u001b[20;8H {\u001b[21;16H BT_DEBUG(\u001b[31m\"\u001b[m\u001b[35m\\n\u001b[m\u001b[31m[L2CAP] :: L2CA_DconnReq Entry.. \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\u001b[22;8H }\r\n\u001b[35m        #endif\u001b[m\u001b[25;65H531,1\u001b[9C45%\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.996037,
+      "\u001b[?25l\u001b[25;67H2\u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.499946,
+      "\u001b[?25l\u001b[25;67H3\u001b[3;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028943,
+      "\u001b[?25l\u001b[25;67H4\u001b[4;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028011,
+      "\u001b[?25l\u001b[25;67H5\u001b[5;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028001,
+      "\u001b[?25l\u001b[25;67H6\u001b[6;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027010,
+      "\u001b[?25l\u001b[25;67H7,0-1\u001b[7;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029027,
+      "\u001b[?25l\u001b[25;67H8,1  \u001b[8;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.641910,
+      "\u001b[?25l\u001b[25;67H9\u001b[9;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.501002,
+      "\u001b[?25l\u001b[25;66H40,1-8\u001b[10;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026682,
+      "\u001b[?25l\u001b[25;67H1\u001b[12;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027407,
+      "\u001b[?25l\u001b[25;67H2\u001b[15;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027028,
+      "\u001b[?25l\u001b[25;67H3,0-1\u001b[17;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029007,
+      "\u001b[?25l\u001b[25;67H4,1-8\u001b[18;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027995,
+      "\u001b[?25l\u001b[25;67H5\u001b[19;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028003,
+      "\u001b[?25l\u001b[25;67H6\u001b[20;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029044,
+      "\u001b[?25l\u001b[25;67H7\u001b[21;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029985,
+      "\u001b[?25l\u001b[25;67H8\u001b[22;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026451,
+      "\u001b[?25l\u001b[25;67H9\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029487,
+      "\u001b[?25l\u001b[25;66H50,0-1\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027008,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H uChnlIndex = L2CAP_GetIndexFromCID(uCID);\u001b[25;65H\u001b[K\u001b[25;65H551,1-8\u001b[7C45%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027591,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H552,1\u001b[9C45%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030369,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[33mif\u001b[m(uChnlIndex EQ MAX_CHANNELS)\u001b[25;65H\u001b[K\u001b[25;65H553,1-8\u001b[7C45%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026576,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H {\u001b[25;65H\u001b[K\u001b[25;65H554,1-8\u001b[7C45%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027455,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                #ifdef DCM_BT_DEBUG\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H555,1-8\u001b[7C45%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030040,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[33mif\u001b[m(gL2CAPDebugLevel GE MODULE_IN_EX_LEVEL)\u001b[25;65H\u001b[K\u001b[25;65H556,1-8\u001b[7C45%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026712,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H {\u001b[25;65H\u001b[K\u001b[25;65H557,1-8\u001b[7C45%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.031247,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H BT_DEBUG(\u001b[31m\"\u001b[m\u001b[35m\\n\u001b[m\u001b[31m[L2CAP] :: L2CA_DconnReq Exit.. \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\u001b[25;65H\u001b[K\u001b[25;65H558,1-8\u001b[7C45%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026772,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H }\u001b[25;65H\u001b[K\u001b[25;65H559,1-8\u001b[7C45%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.816225,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;1H\u001b[35m                #endif\u001b[m\u001b[24;16H \u001b[33mreturn\u001b[m E_DCONRQ_INVALID_CID;\u001b[25;65H\u001b[K\u001b[25;65H560,1-8\u001b[7C46%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.499937,
+      "\u001b[?25l\u001b[25;67H1\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029072,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[3M\u001b[1;25r\u001b[22;8H }\u001b[24;8H \u001b[33mif\u001b[m(gsData.arrChnlInfo[uChnlIndex].uState NE CLOSED)\u001b[25;65H\u001b[K\u001b[25;65H562,1-8\u001b[7C46%\u001b[22;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027964,
+      "\u001b[?25l\u001b[25;67H3,0-1\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028268,
+      "\u001b[?25l\u001b[25;67H4,1-8\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029800,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;8H {\u001b[24;16H \u001b[34m/* [UTP] replaced OSL_AllocMem by HCI_funcn \u0026 made approp. changes\u001b[m\u001b[24;1H\u001b[1m\u001b[34m@                                                                                 \u001b[m\u001b[25;65H\u001b[K\u001b[25;65H565,1-8\u001b[7C46%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028023,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[23;1H                \u001b[34m/* [UTP] replaced OSL_AllocMem by HCI_funcn \u0026 made approp. changess\u001b[24;1H. */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H566,1-8\u001b[7C46%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029036,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[34m/*      psL2CAPDconnReq = HCI_GetACLDataPkt(); [INTERFACECHANGE]*/\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H567,1-8\u001b[7C46%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.439986,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;16H psL2CAPDconnReq = HCI_GetACLDataPkt( gsData.arrACLConnInfo[gsData..\u001b[24;1HarrChnlInfo[uChnlIndex].uConnHand - ACL_INDEX_BASE].uConnHand);\u001b[25;65H\u001b[K\u001b[25;65H568,1-8\u001b[7C46%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.499919,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H569,0-1\u001b[7C46%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028991,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[33mif\u001b[m(psL2CAPDconnReq EQ \u001b[31mNULL\u001b[m)\u001b[25;65H\u001b[K\u001b[25;65H570,1-8\u001b[7C46%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028985,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H {\u001b[25;65H\u001b[K\u001b[25;65H571,1-8\u001b[7C46%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028139,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                        #ifdef DCM_BT_DEBUG\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H572,1-8\u001b[7C46%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028897,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H \u001b[33mif\u001b[m(gL2CAPDebugLevel GE MODULE_IN_EX_LEVEL)\u001b[25;65H\u001b[K\u001b[25;65H573,1-8\u001b[7C47%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.025923,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H {\u001b[25;65H\u001b[K\u001b[25;65H574,1-8\u001b[7C47%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028004,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;32H BT_DEBUG(\u001b[31m\"\u001b[m\u001b[35m\\n\u001b[m\u001b[31m[L2CAP] :: L2CA_DconnReq Exit.. \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\u001b[25;65H\u001b[K\u001b[25;65H575,1-8\u001b[7C47%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029041,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H }\u001b[25;65H\u001b[K\u001b[25;65H576,1-8\u001b[7C47%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.031001,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                        #endif\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H577,1-8\u001b[7C47%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027941,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H \u001b[33mreturn\u001b[m E_DCONRQ_FAILURE;\u001b[25;65H\u001b[K\u001b[25;65H578,1-8\u001b[7C47%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028996,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H }\u001b[25;65H\u001b[K\u001b[25;65H579,1-8\u001b[7C47%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027093,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H580,0-1\u001b[7C47%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027991,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H psL2CAPDconnReq-\u003enext = \u001b[31mNULL\u001b[m;\u001b[25;65H\u001b[K\u001b[25;65H581,1-8\u001b[7C47%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028001,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;16H psL2CAPDconnReq-\u003euConnHand = gsData.arrChnlInfo[uChnlIndex].uConnHH\u001b[24;1Hand;\u001b[25;65H\u001b[K\u001b[25;65H582,1-8\u001b[7C47%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030214,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H psL2CAPDconnReq-\u003euPktBndry  = START_PKT;\u001b[25;65H\u001b[K\u001b[25;65H583,1-8\u001b[7C47%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027764,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H psL2CAPDconnReq-\u003euBCast     = NO_BCAST;\u001b[25;65H\u001b[K\u001b[25;65H584,1-8\u001b[7C47%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028936,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H psL2CAPDconnReq-\u003euHCIPktLen = DISCONN_REQ_LEN_HCI_PKT;\u001b[25;65H\u001b[K\u001b[25;65H585,1-8\u001b[7C48%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026003,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H586,1-8\u001b[7C48%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.193985,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;16H psL2CAPDconnReq-\u003eu.GEN.uL2CAPPktLen = DISCONN_REQ_LEN_L2CAP_PKT;\u001b[24;16H psL2CAPDconnReq-\u003eu.GEN.uCID\u001b[8C = SIGNALLING_CID;\u001b[25;65H\u001b[K\u001b[25;65H587,1-8\u001b[7C48%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.387091,
+      "\u001b[?25l\u001b[25;67H8\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      5.915175,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H589,0-1\u001b[7C48%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.500826,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;16H ((ptrStructL2CAPDconnReq)psL2CAPDconnReq-\u003eu.GEN.Payload)-\u003euOpcode  \u001b[24;1H = DISCONNECTION_REQUEST;\u001b[25;65H\u001b[K\u001b[25;65H590,1-8\u001b[7C48%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027296,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;16H ((ptrStructL2CAPDconnReq)psL2CAPDconnReq-\u003eu.GEN.Payload)-\u003euCmdLen  \u001b[24;1H = DISCONN_REQ_LEN;\u001b[25;65H\u001b[K\u001b[25;65H591,1-8\u001b[7C48%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028672,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;16H ((ptrStructL2CAPDconnReq)psL2CAPDconnReq-\u003eu.GEN.Payload)-\u003euDestCIDD\u001b[24;1H = gsData.arrChnlInfo[uChnlIndex].uR_CID;\u001b[25;65H\u001b[K\u001b[25;65H592,1-8\u001b[7C48%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029036,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;16H ((ptrStructL2CAPDconnReq)psL2CAPDconnReq-\u003eu.GEN.Payload)-\u003euSrcCID  \u001b[24;1H = uCID;\u001b[25;65H\u001b[K\u001b[25;65H593,1-8\u001b[7C48%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026997,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H594,1-8\u001b[7C48%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030060,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;16H \u001b[34m/*gsData.arrChnlInfo[uChnlIndex].uState = W4_L2CAP_DISCONNECT_RSP  \u001b[24;1Hnot to be used */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H595,1-8\u001b[7C49%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026910,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H596,0-1\u001b[7C49%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028967,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                #ifdef DCM_BT_DEBUG\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H597,1-8\u001b[7C49%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028062,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[33mif\u001b[m(gL2CAPDebugLevel GE FUNCTIONAL_LEVEL)\u001b[25;65H\u001b[K\u001b[25;65H598,1-8\u001b[7C49%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027976,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[3M\u001b[1;25r\u001b[22;24H BT_DEBUG(\u001b[31m\"\u001b[m\u001b[35m\\n\u001b[m\u001b[31m[L2CAP] :: L2CA_DconnReq sending request packee\u001b[23;1Ht \"\u001b[m\u001b[24;41H \u001b[31m\"to L2CAP_SendCmd.. \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\u001b[25;65H\u001b[K\u001b[25;65H599,1-8\u001b[7C49%\u001b[22;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026996,
+      "\u001b[?25l\u001b[25;65H600\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029002,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                #endif\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H601,1-8\u001b[7C49%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027014,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H602,0-1\u001b[7C49%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028953,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H L2CAP_SendCmd(\u001b[25;65H\u001b[K\u001b[25;65H603,1-8\u001b[7C49%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028069,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;32H psL2CAPDconnReq,\u001b[25;65H\u001b[K\u001b[25;65H604,1-8\u001b[7C49%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028992,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;32H gsData.arrChnlInfo[uChnlIndex].pEvntObj,\u001b[25;65H\u001b[K\u001b[25;65H605,1-8\u001b[7C49%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027975,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;32H (ptrStructL2CAPCmd*)\u0026psL2CAPDconnResp\u001b[25;65H\u001b[K\u001b[25;65H606,1-8\u001b[7C50%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027992,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;32H );\u001b[25;65H\u001b[K\u001b[25;65H607,1-8\u001b[7C50%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027001,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[24;16H gsData.arrChnlInfo[uChnlIndex].uState = CLOSED;\u001b[25;65H\u001b[K\u001b[25;65H608,0-1\u001b[7C50%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028940,
+      "\u001b[?25l\u001b[25;67H9,1-8\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028044,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[24;16H \u001b[33mif\u001b[m(gsData.arrChnlInfo[uChnlIndex].uChnlEvnt EQ READ_DATA )\u001b[25;65H\u001b[K\u001b[25;65H610,0-1\u001b[7C50%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028990,
+      "\u001b[?25l\u001b[25;67H1,1-8\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029056,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;16H {\u001b[24;24H gsData.arrChnlInfo[uChnlIndex].uChnlEvnt = NO_EVENT;\u001b[25;65H\u001b[K\u001b[25;65H612,1-8\u001b[7C50%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028974,
+      "\u001b[?25l\u001b[25;67H3\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028997,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[24;1H\u001b[35m                        #ifdef DCM_BT_DEBUG\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H614,0-1\u001b[7C50%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027231,
+      "\u001b[?25l\u001b[25;67H5,1-8\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028935,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H \u001b[33mif\u001b[m(gL2CAPDebugLevel GE FUNCTIONAL_LEVEL)\u001b[25;65H\u001b[K\u001b[25;65H616,1-8\u001b[7C50%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027801,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;32H BT_DEBUG(\u001b[31m\"\u001b[m\u001b[35m\\n\u001b[m\u001b[31m[L2CAP] :: L2CA_DconnReq waking up somm\u001b[24;1He sleeping\"\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H617,1-8\u001b[7C50%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029062,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;49H \u001b[31m\"thread on evnt associated with tt\u001b[24;1Hhis chnl... \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\u001b[25;65H\u001b[K\u001b[25;65H618,1-8\u001b[7C50%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.048977,
+      "\u001b[?25l\u001b[25;67H7\u001b[21;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.500205,
+      "\u001b[?25l\u001b[25;67H6\u001b[20;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028893,
+      "\u001b[?25l\u001b[25;67H5\u001b[19;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027995,
+      "\u001b[?25l\u001b[25;67H4,0-1\u001b[18;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027967,
+      "\u001b[?25l\u001b[25;67H3,1-8\u001b[17;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027998,
+      "\u001b[?25l\u001b[25;67H2\u001b[16;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.549048,
+      "\u001b[?25l\u001b[25;67H3\u001b[17;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.500997,
+      "\u001b[?25l\u001b[25;67H4,0-1\u001b[18;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028060,
+      "\u001b[?25l\u001b[25;67H5,1-8\u001b[19;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026979,
+      "\u001b[?25l\u001b[25;67H6\u001b[20;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029053,
+      "\u001b[?25l\u001b[25;67H7\u001b[21;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027964,
+      "\u001b[?25l\u001b[25;67H8\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028962,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                        #endif\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H619,1-8\u001b[7C50%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026937,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[24;24H OSL_WakeUpEvent(gsData.arrChnlInfo[uChnlIndex].pReadEvntOb\u001b[24;1H\u001b[1m\u001b[34m@                                                                                 \u001b[m\u001b[25;65H\u001b[K\u001b[25;65H620,0-1\u001b[7C51%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028005,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[23;1H                        OSL_WakeUpEvent(gsData.arrChnlInfo[uChnlIndex].pReadEvntObb\u001b[24;1Hj, NO_PRIORITY);\u001b[25;65H\u001b[K\u001b[25;65H621,1-8\u001b[7C51%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029046,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H }\u001b[25;65H\u001b[K\u001b[25;65H622,1-8\u001b[7C51%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027999,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H623,0-1\u001b[7C51%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028995,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                #ifdef DCM_BT_DEBUG\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H624,1-8\u001b[7C51%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029965,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[33mif\u001b[m(gL2CAPDebugLevel GE FUNCTIONAL_LEVEL)\u001b[25;65H\u001b[K\u001b[25;65H625,1-8\u001b[7C51%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028004,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H BT_DEBUG(\u001b[31m\"\u001b[m\u001b[35m\\n\u001b[m\u001b[31m[L2CAP] :: L2CA_DconnReq calling CM for \"\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H626,1-8\u001b[7C51%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.025896,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;41H \u001b[31m\"disconnection.. \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\u001b[25;65H\u001b[K\u001b[25;65H627,1-8\u001b[7C51%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029148,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                #endif\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H628,1-8\u001b[7C51%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027972,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H629,0-1\u001b[7C51%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028013,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;16H CM_Disconnect(gsData.arrChnlInfo[uChnlIndex].uConnHand, DISCONN_REE\u001b[24;1HASON);\u001b[25;65H\u001b[K\u001b[25;65H630,1-8\u001b[7C51%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029111,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H631,0-1\u001b[7C52%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029845,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                #ifdef DCM_BT_DEBUG\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H632,1-8\u001b[7C52%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027055,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H \u001b[33mif\u001b[m(gL2CAPDebugLevel GE MODULE_IN_EX_LEVEL)\u001b[25;65H\u001b[K\u001b[25;65H633,1-8\u001b[7C52%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028990,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H BT_DEBUG(\u001b[31m\"\u001b[m\u001b[35m\\n\u001b[m\u001b[31m[L2CAP] :: L2CA_DconnReq Exit with \"\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H634,1-8\u001b[7C52%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027016,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;41H \u001b[31m\"SUCCESS.. \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\u001b[25;65H\u001b[K\u001b[25;65H635,1-8\u001b[7C52%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028005,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m                #endif\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H636,1-8\u001b[7C52%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027937,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[24;16H \u001b[33mif\u001b[m(psL2CAPDconnResp NE \u001b[31mNULL\u001b[m)\u001b[25;65H\u001b[K\u001b[25;65H637,0-1\u001b[7C52%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029007,
+      "\u001b[?25l\u001b[25;67H8,1-8\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027181,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;16H {\u001b[24;24H OSL_FreeMemory((pvoid)psL2CAPDconnResp);\u001b[25;65H\u001b[K\u001b[25;65H639,1-8\u001b[7C52%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028840,
+      "\u001b[?25l\u001b[25;66H40\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028029,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H }\u001b[25;65H\u001b[K\u001b[25;65H641,1-8\u001b[7C52%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028999,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H642,0-1\u001b[7C52%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026999,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;16H \u001b[33mreturn\u001b[m SUCCESS;\u001b[24;8H }\u001b[25;65H\u001b[K\u001b[25;65H643,1-8\u001b[7C53%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027994,
+      "\u001b[?25l\u001b[25;67H4\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.889942,
+      "\u001b[?25l\u001b[25;67H3\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.114007,
+      "\u001b[?25l\u001b[25;67H2,0-1\u001b[22;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.166032,
+      "\u001b[?25l\u001b[25;67H1,1-8\u001b[21;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.165025,
+      "\u001b[?25l\u001b[25;67H0\u001b[20;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.165010,
+      "\u001b[?25l\u001b[25;66H39\u001b[19;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.438003,
+      "\u001b[?25l\u001b[25;66H40\u001b[20;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.237017,
+      "\u001b[?25l\u001b[25;67H1\u001b[21;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.221999,
+      "\u001b[?25l\u001b[25;67H2,0-1\u001b[22;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.173000,
+      "\u001b[?25l\u001b[25;67H3,1-8\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.395908,
+      "\u001b[?25l\u001b[25;67H4\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.262097,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H645,0-1\u001b[7C53%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.405020,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m        #ifdef DCM_BT_DEBUG\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H646,1-8\u001b[7C53%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.460975,
+      "\u001b[?25l\u001b[25;67H5,0-1\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.212989,
+      "\u001b[?25l\u001b[25;67H4,1-8\u001b[22;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.380984,
+      "\u001b[?25l\u001b[25;67H5,0-1\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.500081,
+      "\u001b[?25l\u001b[25;67H6,1-8\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027945,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[33mif\u001b[m(gL2CAPDebugLevel GE MODULE_IN_EX_LEVEL)\u001b[25;65H\u001b[K\u001b[25;65H647,1-8\u001b[7C53%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026914,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H BT_DEBUG(\u001b[31m\"\u001b[m\u001b[35m\\n\u001b[m\u001b[31m[L2CAP] :: L2CA_DconnReq Exit with \"\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H648,1-8\u001b[7C53%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028001,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;33H \u001b[31m\"SUCCESS.. \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\u001b[25;65H\u001b[K\u001b[25;65H649,1-8\u001b[7C53%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028071,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[35m        #endif\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H650,1-8\u001b[7C53%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029977,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H651,0-1\u001b[7C53%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028043,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H \u001b[33mreturn\u001b[m SUCCESS;\u001b[24C \u001b[34m/* SUCCESS; */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H652,1-8\u001b[7C53%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028006,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;1H}\u001b[25;65H\u001b[K\u001b[25;65H653,1\u001b[9C53%\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028967,
+      "\u001b[?25l\u001b[25;67H4,0-1\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027997,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H655,0-1\u001b[7C53%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027000,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H656,0-1\u001b[7C54%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.031045,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H657,0-1\u001b[7C54%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.031020,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m/********************************************************************\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H658,1\u001b[9C54%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026975,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m* Procedure Name :\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H659,1\u001b[9C54%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027988,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       L2CA_ConfigReq\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H660,1\u001b[9C54%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026970,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H661,1\u001b[9C54%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028977,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m* Procedure Description :\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H662,1\u001b[9C54%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028057,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       This procedure is used to configure various channel parameters with\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H663,1\u001b[9C54%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027975,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       the local module as well as the peer protocol.\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H664,1\u001b[9C54%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027991,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H665,1\u001b[9C54%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027945,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m* Input Specifications :\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H666,1\u001b[9C54%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028000,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       CID                                     uCID,        \u001b[m\u001b[25;65H\u001b[K\u001b[25;65H667,1\u001b[9C54%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.467005,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       MTU                                     uInMTU,      \u001b[m\u001b[25;65H\u001b[K\u001b[25;65H668,1\u001b[9C55%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.500052,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       StructFlowSpecs         sOutFlow,    \u001b[m\u001b[25;65H\u001b[K\u001b[25;65H669,1\u001b[9C55%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028007,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       FlushTO                         uOutFlushTO, \u001b[m\u001b[25;65H\u001b[K\u001b[25;65H670,1\u001b[9C55%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028993,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       LinkTO                          uLinkTO,     \u001b[m\u001b[25;65H\u001b[K\u001b[25;65H671,1\u001b[9C55%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029937,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H672,1\u001b[9C55%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028103,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m* Output Specifications :\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H673,1\u001b[9C55%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027914,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       MTU                                     *uoInMTU,    \u001b[m\u001b[25;65H\u001b[K\u001b[25;65H674,1\u001b[9C55%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027049,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       StructFlowSpecs         *soOutFlow,  \u001b[m\u001b[25;65H\u001b[K\u001b[25;65H675,1\u001b[9C55%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028997,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       FlushTO                         *uoOutFlushTO\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H676,1\u001b[9C55%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028025,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H677,1\u001b[9C55%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028012,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m* Return Type :\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H678,1\u001b[9C55%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028009,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       L2CAPResult\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H679,1\u001b[9C55%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029984,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H680,1\u001b[9C56%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028009,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m* Calling Procedures :\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H681,1\u001b[9C56%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028985,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       SDP,  RFCOMM or other L2CAP client procedures.\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H682,1\u001b[9C56%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028834,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H683,1\u001b[9C56%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028080,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m* Called Procedures:\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H684,1\u001b[9C56%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030004,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       L2CAP_GetIndexFromCID\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H685,1\u001b[9C56%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027044,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       L2CAP_SendCmd\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H686,1\u001b[9C56%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029001,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       CM_Disconnect\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H687,1\u001b[9C56%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027956,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       HCI_GetACLDataPkt\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H688,1\u001b[9C56%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029021,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H689,1\u001b[9C56%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028015,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m* List of ERROR Conditions and Exceptions :\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H690,1\u001b[9C56%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027002,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       E_CFGREQ_INVALID_CID\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H691,1\u001b[9C57%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029053,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       E_CFGREQ_NO_ACL_LINK\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H692,1\u001b[9C57%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027913,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       E_DCONRQ_FAILURE\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H693,1\u001b[9C57%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028407,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       E_CFGREQ_WRITE_FAILURE\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H694,1\u001b[9C57%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027647,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       E_CFGREQ_CHNL_GETTING_CLOSED\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H695,1\u001b[9C57%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028986,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       E_CFGREQ_TIMEOUT\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H696,1\u001b[9C57%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026978,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       E_CFGREQ_UNACC_PARAMS\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H697,1\u001b[9C57%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027976,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H698,1\u001b[9C57%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.476996,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m* Assumptions \u0026 Constraints :\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H699,1\u001b[9C57%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.500045,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m*       None\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H700,1\u001b[9C57%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029000,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H\u001b[34m******************************************************************/\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H701,1\u001b[9C57%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030202,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H702,0-1\u001b[7C57%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.926762,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1HL2CAPResult L2CA_ConfigReq(\u001b[25;65H\u001b[K\u001b[25;65H703,1\u001b[9C58%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.502023,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H IN CID uCID,\u001b[25;65H\u001b[K\u001b[25;65H704,1-8\u001b[7C58%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027012,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H IN MTU uInMTU,\u001b[25;65H\u001b[K\u001b[25;65H705,1-8\u001b[7C58%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029010,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H IN StructFlowSpecs sOutFlow,\u001b[25;65H\u001b[K\u001b[25;65H706,1-8\u001b[7C58%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029037,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H IN FlushTO uOutFlushTO,\u001b[25;65H\u001b[K\u001b[25;65H707,1-8\u001b[7C58%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026907,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H IN LinkTO uLinkTO,\u001b[25;65H\u001b[K\u001b[25;65H708,1-8\u001b[7C58%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028032,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H OUT     MTU *uoInMTU,\u001b[25;65H\u001b[K\u001b[25;65H709,1-8\u001b[7C58%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030022,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H OUT     StructFlowSpecs *soOutFlow,\u001b[25;65H\u001b[K\u001b[25;65H710,1-8\u001b[7C58%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028968,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H OUT     FlushTO *uoOutFlushTO\u001b[25;65H\u001b[K\u001b[25;65H711,1-8\u001b[7C58%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027980,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;24H )\u001b[25;65H\u001b[K\u001b[25;65H712,1-8\u001b[7C58%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027091,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;1H{\u001b[25;65H\u001b[K\u001b[25;65H713,1\u001b[9C58%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029996,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;8H UINT8 uChnlIndex;\u001b[22C \u001b[34m/* Indexes into the  Chnls Table ww\u001b[24;1Hhere record  corres. to uCID is stored.*/\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H714,1-8\u001b[7C59%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027983,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;8H UINT8 uConnIndex;\u001b[22C \u001b[34m/* Indexes into the Conn Table whee\u001b[24;1Hre the records corres.        to the Connections is stored */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H715,1-8\u001b[7C59%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028272,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;8H UINT16 uResult;\u001b[24C \u001b[34m/* result of command packet sent ii\u001b[24;1Hs stored */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H716,1-8\u001b[7C59%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026702,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;8H UINT8 OptionsLength = \u001b[31m0\u001b[m;\u001b[7C \u001b[34m/* Used in adding the options to the resquu\u001b[24;1Hest packet */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H717,1-8\u001b[7C59%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029004,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;8H UINT8* pChnlIndex = \u001b[31mNULL\u001b[m;       \u001b[34m/* This pointer is used to send the ChnlInn\u001b[24;1Hdex value to Create Thread function as it requires a pointer */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H718,1-8\u001b[7C59%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027955,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;8H UINT8 uCfgFlg;\u001b[25C \u001b[34m/* This variable is used to store  \u001b[24;1Hthe state of the config flag */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H719,1-8\u001b[7C59%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027076,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H720,0-1\u001b[7C59%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027973,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H ptrStructACLPkt psL2CAPConfigReq = \u001b[31mNULL\u001b[m;\u001b[25;65H\u001b[K\u001b[25;65H721,1-8\u001b[7C59%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028978,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H ptrStructL2CAPConfigResp psL2CAPConfResp = \u001b[31mNULL\u001b[m;\u001b[25;65H\u001b[K\u001b[25;65H722,1-8\u001b[7C59%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026977,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H ptrStructL2CAPConfigReq pConfReq = \u001b[31mNULL\u001b[m;\u001b[25;65H\u001b[K\u001b[25;65H723,1-8\u001b[7C59%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.105993,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H ptrStructConfigOptions psOpt; \u001b[34m/* Configuration Options */\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H724,1-8\u001b[7C60%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.501090,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H UINT16 uOptLen = \u001b[31m0\u001b[m;\u001b[25;65H\u001b[K\u001b[25;65H725,1-8\u001b[7C60%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028245,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H726,0-1\u001b[7C60%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026665,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;8H uChnlIndex = L2CAP_GetIndexFromCID(uCID);\u001b[25;65H\u001b[K\u001b[25;65H727,1-8\u001b[7C60%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028005,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[25;65H\u001b[K\u001b[25;65H728,1-8\u001b[7C60%\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027950,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;8H \u001b[33mif\u001b[m((uChnlIndex EQ MAX_CHANNELS) OR ((gsData.arrChnlInfo[uChnlIndex].uStatee\u001b[24;1H NE OPEN) AND\u001b[25;65H\u001b[K\u001b[25;65H729,1-8\u001b[7C60%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.887044,
+      "\u001b[?25l\u001b[25;67H8\u001b[22;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.499996,
+      "\u001b[?25l\u001b[25;67H7\u001b[21;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028016,
+      "\u001b[?25l\u001b[25;67H6,0-1\u001b[20;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029240,
+      "\u001b[?25l\u001b[25;67H5,1-8\u001b[19;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.340788,
+      "\u001b[?25l\u001b[25;67H4\u001b[18;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.191527,
+      "\u001b[?25l\u001b[25;67H3\u001b[17;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.243454,
+      "\u001b[?25l\u001b[25;67H4\u001b[18;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.174902,
+      "\u001b[?25l\u001b[25;67H5\u001b[19;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.154970,
+      "\u001b[?25l\u001b[25;67H6,0-1\u001b[20;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.166093,
+      "\u001b[?25l\u001b[25;67H7,1-8\u001b[21;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.180962,
+      "\u001b[?25l\u001b[25;67H8\u001b[22;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.189955,
+      "\u001b[?25l\u001b[25;67H9\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.165062,
+      "\u001b[?25l\u001b[1;24r\u001b[24;1H\r\n\u001b[1;25r\u001b[24;16H (gsData.arrChnlInfo[uChnlIndex].uState NE CONFIG)))\u001b[25;65H\u001b[K\u001b[25;65H730,1\u001b[9C60%\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.173979,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;8H {\r\n\u001b[35m                #ifdef DCM_BT_DEBUG\u001b[m\u001b[25;65H\u001b[K\u001b[25;65H731,1-8\u001b[7C60%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.175944,
+      "\u001b[?25l\u001b[25;67H2\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.167557,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;16H \u001b[33mif\u001b[m(gL2CAPDebugLevel GE MODULE_IN_EX_LEVEL)\u001b[24;16H {\u001b[25;65H\u001b[K\u001b[25;65H733,1-8\u001b[7C60%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.619424,
+      "\u001b[?25l\u001b[25;67H4\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.022045,
+      "\u001b[?25l\u001b[1;24r\u001b[1;1H\u001b[2M\u001b[1;25r\u001b[23;24H BT_DEBUG(\u001b[31m\"\u001b[m\u001b[35m\\n\u001b[m\u001b[31m[L2CAP] :: L2CA_ConfigReq Entry.. \u001b[m\u001b[35m\\n\u001b[m\u001b[31m\"\u001b[m);\u001b[24;16H }\u001b[25;65H\u001b[K\u001b[25;65H735,1-8\u001b[7C60%\u001b[23;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.292072,
+      "\u001b[?25l\u001b[25;67H6\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.567615,
+      "\u001b[?25l\u001b[25;65H\u001b[K\u001b[25;1H:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.243350,
+      "q\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.573150,
+      "\r"
+    ],
+    [
+      0.003840,
+      "\u001b[?25l\u001b[25;1H\u001b[K\u001b[25;1H\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l\u001b]0;\u0007"
+    ],
+    [
+      0.004015,
+      "\u001b[0;31m┌─[\u001b[1;31m0\u001b[0;31m]─[\u001b[0;31mdaixtr\u001b[0;31m:\u001b[1;34m~\u001b[0;31m]-\u001b[1;35m[\u001b[0;36m\u001b[0;35m|\u001b[0;36m\u001b[0;35m\u001b[1;35m]\r\r\n\u001b[0;31m└ \u001b[0m"
+    ],
+    [
+      4.040063,
+      "e"
+    ],
+    [
+      0.087847,
+      "x"
+    ],
+    [
+      0.213014,
+      "i"
+    ],
+    [
+      0.078072,
+      "t"
+    ],
+    [
+      0.470314,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
