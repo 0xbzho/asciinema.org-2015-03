@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "width": 119,
+  "height": 59,
+  "duration": 3.473878,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.059211,
+      "\u001b]0;/tmp/ancheno\u0007"
+    ],
+    [
+      0.008109,
+      "\u001b]0;mario@spid: /tmp/ancheno\u0007\u001b[01;32mmario@spid\u001b[00m:\u001b[01;34m[/tmp/ancheno]\u001b[00m\u001b[0;33m\u001b[00m\r\r\n $ "
+    ],
+    [
+      0.965219,
+      "l"
+    ],
+    [
+      0.167750,
+      "l"
+    ],
+    [
+      0.071933,
+      "\r\n"
+    ],
+    [
+      0.005188,
+      "totale 44\r\n"
+    ],
+    [
+      0.000125,
+      "drwxrwxr-x  2 mario mario  4096 mar 23 14:25 \u001b[0m\u001b[01;34m.\u001b[0m/"
+    ],
+    [
+      0.000053,
+      "\r\ndrwxrwxrwt 48 root  root  36864 mar 23 14:25 \u001b[30;42m..\u001b[0m/\r\n"
+    ],
+    [
+      0.000711,
+      "\u001b]0;/tmp/ancheno\u0007"
+    ],
+    [
+      0.009848,
+      "\u001b]0;mario@spid: /tmp/ancheno\u0007\u001b[01;32mmario@spid\u001b[00m:\u001b[01;34m[/tmp/ancheno]\u001b[00m\u001b[0;33m\u001b[00m\r"
+    ],
+    [
+      0.000015,
+      "\r\n $ "
+    ],
+    [
+      2.183687,
+      "exit"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ]
+  ]
+}
