@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "width": 112,
+  "height": 36,
+  "duration": 3.078255,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.428346,
+      "\u001b]0;john1@mars: /install6/projects/golang/asciinema-asciinema\u0007"
+    ],
+    [
+      0.039758,
+      "john1@mars:/install6/projects/golang/asciinema-asciinema [master]$ "
+    ],
+    [
+      0.663508,
+      "l"
+    ],
+    [
+      0.110342,
+      "s"
+    ],
+    [
+      0.360277,
+      "\r\n"
+    ],
+    [
+      0.001438,
+      "\u001b[0m\u001b[01;34mapi\u001b[0m        CHANGELOG.md  \u001b[01;34mdoc\u001b[0m     \u001b[01;32minstall\u001b[0m  \u001b[01;32mmain\u001b[0m     Makefile  \u001b[01;34mptyx\u001b[0m       \u001b[01;34mterminal\u001b[0m  Vagrantfile\r\n\u001b[01;34masciicast\u001b[0m  \u001b[01;34mcommands\u001b[0m      \u001b[01;34mGodeps\u001b[0m  LICENSE  main.go  \u001b[01;34mman\u001b[0m       README.md  \u001b[01;34mutil\u001b[0m\r\n"
+    ],
+    [
+      0.000631,
+      "\u001b]0;john1@mars: /install6/projects/golang/asciinema-asciinema\u0007"
+    ],
+    [
+      0.030759,
+      "john1@mars:/install6/projects/golang/asciinema-asciinema [master]$ "
+    ],
+    [
+      1.440351,
+      "exit\r\n"
+    ]
+  ]
+}
