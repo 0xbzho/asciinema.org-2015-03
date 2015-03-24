@@ -1,0 +1,310 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 30,
+  "duration": 43.062682,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.065192,
+      "\u001b]0;utente@xubuntu: ~\u0007utente@xubuntu:~$ "
+    ],
+    [
+      1.591482,
+      "s"
+    ],
+    [
+      0.231704,
+      "s"
+    ],
+    [
+      0.152657,
+      "h"
+    ],
+    [
+      0.087886,
+      " "
+    ],
+    [
+      1.016405,
+      "p"
+    ],
+    [
+      0.112000,
+      "i"
+    ],
+    [
+      1.000307,
+      "@"
+    ],
+    [
+      0.561010,
+      "1"
+    ],
+    [
+      0.119745,
+      "9"
+    ],
+    [
+      0.151975,
+      "2"
+    ],
+    [
+      0.120139,
+      "."
+    ],
+    [
+      0.128140,
+      "1"
+    ],
+    [
+      0.280244,
+      "6"
+    ],
+    [
+      0.120149,
+      "8"
+    ],
+    [
+      0.360311,
+      "."
+    ],
+    [
+      0.175845,
+      "1"
+    ],
+    [
+      0.191486,
+      "."
+    ],
+    [
+      0.168590,
+      "1"
+    ],
+    [
+      0.344108,
+      "1"
+    ],
+    [
+      0.263933,
+      "0"
+    ],
+    [
+      0.355410,
+      "\r\n"
+    ],
+    [
+      0.185149,
+      "pi@192.168.1.110's password: "
+    ],
+    [
+      2.893284,
+      "\r\n"
+    ],
+    [
+      0.316402,
+      "Linux raspberrypi 3.18.8+ #765 PREEMPT Thu Mar 5 15:41:59 GMT 2015 armv6l\r\n\r\nThe programs included with the Debian GNU/Linux system are free software;\r\nthe exact distribution terms for each program are described in the\r\nindividual files in /usr/share/doc/*/copyright.\r\n\r\nDebian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent\r\npermitted by applicable law.\r\nLast login: Tue Mar 24 17:31:52 2015 from 192.168.1.1\r\r\n"
+    ],
+    [
+      1.336536,
+      "\u001b]0;pi@raspberrypi: ~\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m~ $\u001b[00m "
+    ],
+    [
+      1.998972,
+      "."
+    ],
+    [
+      0.784237,
+      "/"
+    ],
+    [
+      0.602392,
+      "w"
+    ],
+    [
+      0.453951,
+      "s"
+    ],
+    [
+      0.210037,
+      "pi "
+    ],
+    [
+      1.590279,
+      "t"
+    ],
+    [
+      0.096784,
+      "e"
+    ],
+    [
+      0.439905,
+      "s"
+    ],
+    [
+      0.441203,
+      "t"
+    ],
+    [
+      0.312358,
+      "."
+    ],
+    [
+      0.319682,
+      "c"
+    ],
+    [
+      0.119726,
+      "o"
+    ],
+    [
+      0.136114,
+      "n"
+    ],
+    [
+      0.184251,
+      "f"
+    ],
+    [
+      1.999469,
+      "\r\n"
+    ],
+    [
+      0.007413,
+      "\r\n"
+    ],
+    [
+      0.000858,
+      " PARAMETERS TABLE\r\n"
+    ],
+    [
+      0.000923,
+      " ------- ------------------- \r\n"
+    ],
+    [
+      0.001655,
+      "| clock |             64kHz |\r\n"
+    ],
+    [
+      0.000407,
+      " ------- ------------------- \r\n"
+    ],
+    [
+      0.001051,
+      "|  gain |                 1 |\r\n"
+    ],
+    [
+      0.000562,
+      " ------- ------------------- \r\n"
+    ],
+    [
+      0.002241,
+      "|  mode | single_conversion |\r\n ------- ------------------- \r\n| range |           312.5mv |\r\n ------- ------------------- \r\n|  vref |    Internal_1,17V |\r\n ------- ------------------- \r\n"
+    ],
+    [
+      0.001823,
+      "AD7794 found with ID 0x4f\r\n\r\n\t----Register Dump After Init----\r\n"
+    ],
+    [
+      0.002425,
+      "Status Register\t\t10001000\r\nMode Register\t\t00100000 00000001\r\nConfig Register\t\t00000010 10010000\r\nData Register\t\t00000000 00000000 00000000\r\n"
+    ],
+    [
+      0.000936,
+      "ID Register\t\t01001111\r\n"
+    ],
+    [
+      0.002448,
+      "IO Register\t\t00000000\r\nOffset Register\t\t10000000 00000000 00000000\r\nFull-Scale Register\t01010100 10111101 00000000\r\n\r\nINIT completed. Starting conversion...\r\n\r\n"
+    ],
+    [
+      2.001741,
+      "Data read on channel 0: 1994927\r\n"
+    ],
+    [
+      1.003666,
+      "Data read on channel 0: 2253378\r\n"
+    ],
+    [
+      0.999227,
+      "Data read on channel 0: 2248891\r\n"
+    ],
+    [
+      1.001881,
+      "Data read on channel 0: 2079717\r\n"
+    ],
+    [
+      1.000603,
+      "Data read on channel 0: 1678350\r\n"
+    ],
+    [
+      1.001879,
+      "Data read on channel 0: 1815909\r\n"
+    ],
+    [
+      1.001022,
+      "Data read on channel 0: 2109577\r\n"
+    ],
+    [
+      1.001592,
+      "Data read on channel 0: 1982710\r\n"
+    ],
+    [
+      1.001829,
+      "Data read on channel 0: 2013405\r\n"
+    ],
+    [
+      1.001332,
+      "Data read on channel 0: 2000735\r\n"
+    ],
+    [
+      1.001511,
+      "Data read on channel 0: 2002931\r\n"
+    ],
+    [
+      1.001372,
+      "Data read on channel 0: 1985307\r\n"
+    ],
+    [
+      1.001509,
+      "Data read on channel 0: 2024930\r\n"
+    ],
+    [
+      1.001545,
+      "Data read on channel 0: 2111612\r\n"
+    ],
+    [
+      1.001247,
+      "Data read on channel 0: 2017551\r\n"
+    ],
+    [
+      1.002043,
+      "Data read on channel 0: 2054297\r\n"
+    ],
+    [
+      1.000716,
+      "Data read on channel 0: 2226313\r\n"
+    ],
+    [
+      0.752138,
+      "^C\r\n\u001b]0;pi@raspberrypi: ~\u0007\u001b[01;32mpi@raspberrypi\u001b[00m \u001b[01;34m~ $\u001b[00m "
+    ],
+    [
+      0.515623,
+      "logout\r\n"
+    ],
+    [
+      0.023907,
+      "Connection to 192.168.1.110 closed.\r\r\n\u001b]0;utente@xubuntu: ~\u0007utente@xubuntu:~$ "
+    ],
+    [
+      1.703677,
+      "exit\r\n"
+    ]
+  ]
+}
