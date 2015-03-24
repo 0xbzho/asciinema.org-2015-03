@@ -1,0 +1,206 @@
+{
+  "version": 1,
+  "width": 91,
+  "height": 24,
+  "duration": 14.780954,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.010271,
+      "\u001b]0;root@admin-server: /home/sgsabas/Descargas\u0007root@admin-server:/home/sgsabas/Descargas# "
+    ],
+    [
+      1.979095,
+      "h"
+    ],
+    [
+      0.183500,
+      "o"
+    ],
+    [
+      0.191814,
+      "l"
+    ],
+    [
+      0.104060,
+      "a"
+    ],
+    [
+      0.112004,
+      " "
+    ],
+    [
+      0.080209,
+      "p"
+    ],
+    [
+      0.119862,
+      "r"
+    ],
+    [
+      0.519940,
+      "o"
+    ],
+    [
+      0.111658,
+      "b"
+    ],
+    [
+      0.784281,
+      "a"
+    ],
+    [
+      0.168024,
+      "n"
+    ],
+    [
+      0.128124,
+      "d"
+    ],
+    [
+      0.111848,
+      "o"
+    ],
+    [
+      0.184083,
+      " "
+    ],
+    [
+      0.247860,
+      "l"
+    ],
+    [
+      0.312074,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.500352,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030991,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030505,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030327,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030236,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030288,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029708,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030831,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.031076,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.031195,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030961,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030986,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030447,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030342,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030453,
+      "\u0007"
+    ],
+    [
+      0.030235,
+      "\u0007"
+    ],
+    [
+      0.029609,
+      "\u0007"
+    ],
+    [
+      0.030112,
+      "\u0007"
+    ],
+    [
+      1.013196,
+      "l"
+    ],
+    [
+      0.080867,
+      "s"
+    ],
+    [
+      0.375091,
+      " "
+    ],
+    [
+      0.248341,
+      "-"
+    ],
+    [
+      0.207803,
+      "l"
+    ],
+    [
+      0.256672,
+      "\r\n"
+    ],
+    [
+      0.163006,
+      "total 6936968\r\n-rw------- 1 root    root          1024 mar 19 16:05 ~\r\n-rw-r----- 1 sgsabas sgsabas      50176 mar  2 11:22 10INFORMTICA FORENSE.doc\r\n-rw-r----- 1 sgsabas sgsabas      54126 mar 20 17:36 \u001b[0m\u001b[01;35m11079405_10205819635191255_57319009_n.jpg\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas     556285 mar 17 20:52 12-31-2-PB.pdf\r\n-rw-r----- 1 sgsabas sgsabas     588303 feb 14 15:06 \u001b[01;31m127670-RawengulkOtf-092.zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas      23789 feb 14 14:47 \u001b[01;31m141183-Skull_and_crossbone_pattern.tar.gz\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas     291545 mar  5 16:44 14242861298 (1).pdf\r\n-rw-r----- 1 sgsabas sgsabas     145767 mar  5 16:43 14242861298.pdf\r\n-rw-r----- 1 sgsabas sgsabas      26899 feb 17 10:35 156 (1).ods\r\n-rw-r----- 1 sgsabas sgsabas      26899 feb 17 10:34 156.ods\r\n-rw-r----- 1 sgsabas sgsabas     246620 feb 14 14:59 \u001b[01;31m164804-Go away!.tar.gz\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas    1361042 feb 14 14:10 \u001b[01;31m165775-Ubuntu 14.04-Themes-pack.tar.gz\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas    1617952 feb 14 14:31 \u001b[01;31m167469-Leathermap.tar.gz\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas    1314880 feb 14 14:32 \u001b[01;31m167485-RegTac Folder - alternative.tar.gz\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas     501297 mar 18 19:09 \u001b[01;35m20140612155336311_0004 (1).jpg\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas     501297 mar  4 11:11 \u001b[01;35m20140612155336311_0004.jpg\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas    1226508 mar 20 09:48 20150318.sum\r\n-rw-r----- 1 sgsabas sgsabas          0 feb 18 10:29 3218342446-20150217-091915-1424182755.34851-out.gsm\r\n-rw-r----- 1 sgsabas sgsabas     776899 mar 18 19:07 acta de grado bachillerato (1).pdf\r\n-rw-r----- 1 sgsabas sgsabas     776899 mar 18 18:52 acta de grado bachillerato.pdf\r\n-rw-r--r-- 1 sgsabas sgsabas     102026 mar 18 19:08 actagrado.pdf\r\n-rw-r----- 1 sgsabas sgsabas       2564 feb 24 14:56 \u001b[01;31mactive_http_connections (1).zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas       2564 feb 24 15:01 \u001b[01;31mactive_http_connections (2).zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas       2564 feb 24 14:51 \u001b[01;31mactive_http_connections.zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas       8847 feb 24 14:48 \u001b[01;31mactive_tcp_conns.zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas   37525816 mar 17 17:13 Adquisicion de imagenes forenses.pdf\r\n-rw-r----- 1 sgsabas sgsabas      33135 mar  2 13:50 ALEXANDER_ACEVEDO(Hoja_de_vida) - BGTA.docx\r\n-rw-r----- 1 sgsabas sgsabas       1498 feb 19 10:05 astman.txt\r\n-rw-r----- 1 sgsabas sgsabas      23282 feb 19 12:23 \u001b[01;31masx-stats-0.1.5.1.tar.gz\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas      28354 feb 19 10:14 \u001b[01;31masx-stats-0.2.0.tgz\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas   73809966 mar 11 18:15 \u001b[01;31matom-amd64.deb\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas  100042290 feb 16 16:08 \u001b[01;31mbackup (1).zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas  147824640 feb 16 15:53 \u001b[01;31mbackup.zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas     229377 mar  6 12:21 \u001b[01;31mBreaking_Bad - season 1.en.zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas    2671484 feb 19 19:53 Brochure INSTEON (1).PDF\r\n-rw-r----- 1 sgsabas sgsabas    2671484 feb 16 09:00 Brochure INSTEON.PDF\r\n-rw-r----- 1 sgsabas sgsabas      27490 feb 25 15:20 \u001b[01;31mcacti087e_linux_generic-20100519-yrg (1).zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas      27490 feb 25 15:20 \u001b[01;31mcacti087e_linux_generic-20100519-yrg.zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas     117751 feb 18 09:25 cacti_data_query_snmp_interface_statistics.xml\r\n-rw-r----- 1 sgsabas sgsabas       7185 feb 18 09:25 cacti_data_template_interface_status.xml\r\n-rw-r----- 1 sgsabas sgsabas    2799606 feb 20 16:22 cacti-desde-paquetes.pdf\r\n-rw-r----- 1 sgsabas sgsabas     124931 feb 25 17:11 cacti-disk-stats (1).pdf\r\n-rw-r----- 1 sgsabas sgsabas     124931 feb 25 16:44 cacti-disk-stats.pdf\r\n-rw-r----- 1 sgsabas sgsabas      11434 feb 19 10:05 cacti_graph_template_asterisk_call_graph%283%29.xml\r\n-rw-r----- 1 sgsabas sgsabas      13539 feb 20 12:01 cacti_graph_template_asterisk_channels_in_use (1).xml\r\n-rw-r----- 1 sgsabas sgsabas      10855 feb 18 09:25 cacti_graph_template_interface_status.xml\r\n-rw-r----- 1 sgsabas sgsabas      209"
+    ],
+    [
+      0.000070,
+      "19 feb 24 15:44 cacti_graph_template_w32_-_cpu_statistics.xml\r\n-rw-r----- 1 sgsabas sgsabas      34977 mar 20 15:04 cacti_graph_template_w32_disk_statistics.xml\r\n-rw-r----- 1 sgsabas sgsabas      28312 feb 24 15:44 cacti_graph_template_w32_-_memory_usage.xml\r\n-rw-r----- 1 sgsabas sgsabas       3920 feb 20 12:06 \u001b[01;31mcacti_host_template_asterisk (1).zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas       3920 feb 19 09:21 \u001b[01;31mcacti_host_template_asterisk.zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas     126646 feb 18 09:23 cacti_host_template_cisco_29003500.xml\r\n-rw-r----- 1 sgsabas sgsabas      12203 feb 20 16:26 \u001b[01;31mcacti_host_template_webserver_-_apache.xml_.zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas     135268 feb 17 14:14 \u001b[01;31mcacti-plugin-thold-master.zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas      37898 mar 20 14:35 \u001b[01;31mCacti_SNMP_INFORMANT_STD_W32_Metrics.zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas     632102 mar 20 14:45 \u001b[01;31mcacti-spine-0.8.8c.tar.gz\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas      38825 feb 25 16:26 \u001b[01;31mcacti_templates-1.1.tar.gz\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas      59382 feb 25 16:27 \u001b[01;31mcacti_templates-1.2.tar.gz\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas        278 mar  2 11:27 Capacitaciones.vcf\r\n-rw-r--r-- 1 root    root          2217 mar 18 19:10 cedula.pdf\r\n-rw-r----- 1 sgsabas sgsabas        716 mar  9 13:25 check_asterisk\r\n-rw-r----- 1 sgsabas sgsabas      10368 mar 12 08:47 check_asterisk_peers\r\n-rw-r----- 1 sgsabas sgsabas       9379 mar  6 17:01 check_asterisk_sip_peers\r\n-rw-r----- 1 sgsabas sgsabas       9379 mar 12 08:47 check_asterisk_sip_peers (1)\r\n-rw-r----- 1 sgsabas sgsabas       1088 mar 17 18:02 check_bandwidth.php\r\n-rw-r----- 1 sgsabas sgsabas      15361 mar 17 18:02 check_bandwidth.sh\r\n-rw-r----- 1 sgsabas sgsabas       4835 mar 11 18:25 check_diskstat.sh\r\n-rw-r----- 1 sgsabas sgsabas       2265 mar 11 15:42 check_hddtemp.sh\r\n-rw-r----- 1 sgsabas sgsabas       2872 mar 11 18:30 check_iostat\r\n-rw-r----- 1 sgsabas sgsabas       2872 mar 11 18:41 check_iostat (1)\r\n-rw-r----- 1 sgsabas sgsabas      20314 mar 11 18:42 check_linux_stats.pl\r\n-rw-r----- 1 sgsabas sgsabas       4690 mar 13 11:26 \u001b[01;31mcheck_pf_limits-1.4 (1).tar.gz\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas       4690 mar  6 16:48 \u001b[01;31mcheck_pf_limits-1.4.tar.gz\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas       6966 mar 11 17:24 check_temp.pl\r\n-rw-r----- 1 sgsabas sgsabas       7441 mar 11 17:37 check_temp.sh\r\n-rw-r----- 1 sgsabas sgsabas     260661 feb 19 18:20 \u001b[01;31mclipgrab-3.4.9 (1).tar.gz\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas     260661 feb 17 09:51 \u001b[01;31mclipgrab-3.4.9.tar.gz\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas     252972 feb 17 12:56 \u001b[01;31mconfigmanager0.826.zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas     171967 feb 16 12:28 \u001b[01;31mcrunchtools-b2d0375f2351 (1).tar.gz\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas     170817 feb 16 09:56 \u001b[01;31mcrunchtools-b2d0375f2351.tar.gz\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas      73653 feb 17 12:42 \u001b[01;31mcycle-v2.3-1.tgz\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas  113690232 feb 14 14:32 \u001b[01;31mDalisha_3_0.tar.gz\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas     225892 mar 18 10:48 DA_PROCESO_15-13-3616668_215425011_13935019.pdf\r\n-rw-r----- 1 sgsabas sgsabas     511999 mar 18 10:26 DA_PROCESO_15-13-3618737_215761011_13941360.pdf\r\n-rw-r----- 1 sgsabas sgsabas     356664 mar 18 10:26 DA_PROCESO_15-13-3618737_215761011_13941365.pdf\r\n-rw-r----- 1 sgsabas sgsabas     274447 mar 18 10:26 DA_PROCESO_15-13-3618737_215761011_13941388.pdf\r\n-rw-r----- 1 sgsabas sgsabas    1274055 mar 18 10:07 DA_PROCESO_15-13-3621659_199000590_13951189.pdf\r\n-rw-r----- 1 sgsabas sgsabas   11673600 mar 17 17:19 digital evidence in the courtroom.pdf\r\n-rw-r----- 1 sgsabas sgsabas       4974 feb 25 16:33 \u001b[01;31mdiskio087d.tar.gz\u001b[0m\r\n-rw------- 1 sgsabas sgsabas       1766 mar 16 09:55 Edinson\r\n-rw-r----- 1 sgsabas sgsabas  692948992 mar 19 15:07 Elastix-2.5.0-Stable-x86_64-bin-21oct2014.iso\r\n-rw-r----- 1 sgsabas sgsabas    3422489 feb 19 19:53 El Hogar INSTEON (1).PDF\r\n-rw-r----- 1 sgsabas sgsabas    3422489 feb 16 09:00 El Hogar INSTEON.PDF\r\n-rw-r----- 1 sgsabas sgsabas     "
+    ],
+    [
+      0.000026,
+      "652881 mar 18 17:55 EMPRESA (1).docx\r\n-rw-r----- 1 sgsabas sgsabas     652881 mar 18 17:19 EMPRESA.docx\r\n-rw-r----- 1 sgsabas sgsabas     665668 mar 17 09:41 Exposicion.pptx\r\n-rw-r----- 1 sgsabas sgsabas     450153 feb 14 14:27 \u001b[01;31mflattr-icons-1.1.tar.gz\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas      17497 mar 20 11:05 'fw-85 - Traffic - trunk1'.csv\r\n-rw-r----- 1 sgsabas sgsabas    1946420 mar 17 20:41 gestion-de-logs.pdf\r\n-rw-rw-r-- 1 sgsabas sgsabas   48807598 feb 14 12:01 \u001b[01;31mgoogle-chrome-stable_current_amd64(1).deb\u001b[0m\r\n-rw-rw-r-- 1 sgsabas sgsabas   48807598 feb 14 11:53 \u001b[01;31mgoogle-chrome-stable_current_amd64.deb\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas      57344 mar  2 08:55 GRABACIONES-MEDELLIN1.xls\r\n-rw-r----- 1 sgsabas sgsabas    3721445 feb 19 17:29 \u001b[01;31mgtkpod-2.1.4.tar.gz\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas     243285 mar 17 17:19 Guia Delitos informaticoscomentarios.pdf\r\n-rw-r----- 1 sgsabas sgsabas   36554931 mar 17 14:50 \u001b[01;31mHacking Etico - Carlos Tori.pdf (1).zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas   36554931 mar 12 15:34 \u001b[01;31mHacking Etico - Carlos Tori.pdf.zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas     122626 feb 24 13:41 hoja_de_vida sebastian guerrero sanchez(2) (1) (1) (2) (1).docx\r\n-rw-r----- 1 sgsabas sgsabas     547568 mar 18 19:02 icfes.pdf\r\n-rw-r--r-- 1 sgsabas sgsabas      65729 mar 18 19:07 icfessebastian.pdf\r\ndrwxrwxr-x 3 sgsabas sgsabas       4096 feb 14 15:00 \u001b[01;34miconos\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas       2306 mar  2 13:49 \u001b[01;35mimage001.jpg\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas         73 mar  2 13:49 \u001b[01;35mimage002.gif\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas     693692 mar  2 14:35 \u001b[01;35mimg844.jpg\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas     529054 mar 17 17:12 informe base prueba pericial.pdf\r\n-rw-r----- 1 sgsabas sgsabas     458675 mar 18 10:48 INVMC_PROCESO_15-13-3616668_215425011_13935050.pdf\r\n"
+    ],
+    [
+      0.000034,
+      "-rw-r----- 1 sgsabas sgsabas     406560 mar 18 10:26 INVMC_PROCESO_15-13-3618737_215761011_13941374.pdf\r\n-rw-r----- 1 sgsabas sgsabas     140610 mar 18 10:05 INVMC_PROCESO_15-13-3621659_199000590_13951179.pdf\r\n-rw-r----- 1 sgsabas sgsabas  220087400 feb 19 17:44 iPod4,1_6.1.6_10B500_Restore.ipsw.crdownload\r\n-rw-r----- 1 sgsabas sgsabas   83010344 feb 19 19:44 iTunes64Setup.exe\r\n-rw-r----- 1 sgsabas sgsabas  177774179 mar  6 14:56 \u001b[01;31mjessie.101.zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas      24143 mar  2 10:15 \u001b[01;31mJKO-nsearch-v0.4-alpha-0-g7de1534.zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas 3049521152 feb 17 18:06 kali-linux-1.1.0-amd64.iso\r\n-rw-r----- 1 sgsabas sgsabas   36008330 feb 14 14:11 \u001b[01;31mKawaiki-Icon-Theme.tar.gz\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas       5731 mar 20 15:22 Lit_W32_OS.pl.txt\r\n-rw-r----- 1 sgsabas sgsabas    4299331 feb 17 12:53 \u001b[01;31mmanage-0.6.2 (1).zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas     228656 mar 20 11:36 \u001b[01;31mmanual-solaris.rar\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas   11136820 mar  6 16:40 \u001b[01;31mnagios-4.1.0rc1.tar.gz\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas    2659772 mar  9 09:30 \u001b[01;31mnagios-plugins-2.0.3.tar.gz\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas    1417124 mar  9 15:52 \u001b[01;31mnagiosql_320.tar.gz\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas    1063261 mar  9 16:07 nagiosql_3.2_installation_en.pdf\r\n-rw-r----- 1 sgsabas sgsabas        951 mar 12 08:59 \u001b[01;31mnagisk-1.0.tgz\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas      64248 feb 17 11:01 \u001b[01;31mnectar-v0.35a.tgz\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas          0 mar 18 15:28 netscan_admin_1426710143_10_192.168.19.86.pcap\r\n-rw-r----- 1 sgsabas sgsabas       2203 feb 17 12:58 \u001b[01;31mnmidinventory-latest.zip\u001b[0m\r\ndrwxrwxr-x 8 root    root          4096 mar  9 18:22 \u001b[01;34mnrpe-2.15\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas      38697 mar  6 18:34 \u001b[01;31mnrpe-2.15p5.tgz\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas     419695 mar  6 16:41 \u001b[01;31mnrpe-2.15.tar.gz\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas       7706 mar 11 19:30 nrpe.cfg (1).sample\r\n-rw-r----- 1 sgsabas sgsabas       7706 mar 17 16:06 nrpe.cfg (2).sample\r\n-rw-r----- 1 sgsabas sgsabas       7706 mar 17 16:40 nrpe.cfg (3).sample\r\n-rw-r----- 1 sgsabas sgsabas       7706 mar 11 18:46 nrpe.cfg.sample\r\n-rw-r----- 1 sgsabas sgsabas     143360 mar 20 14:02 \u001b[01;31mobsd-mibs50.tar\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas       3922 mar  4 17:50 OpenBSD.sh\r\n-rw-r----- 1 sgsabas sgsabas 1182862813 mar 20 20:21 \u001b[01;31mopsi4.0.5-2-servervm.zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas     119269 feb 25 16:29 \u001b[01;31mpalm_v3.zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas    1009202 feb 17 12:58 \u001b[01;31mparallelGraphRetriever-linux-64bit.zip\u001b[0m\r\n-rw-rw-r-- 1 sgsabas sgsabas     149504 feb 16 08:58 PBX + CHAT + AD.doc\r\n-rw-r----- 1 sgsabas sgsabas     141747 feb 16 08:57 PBX + CHAT + AD.odt\r\n-rw-rw-r-- 1 sgsabas sgsabas     234224 feb 16 08:58 PBX + CHAT + AD.pdf\r\n-rw-r----- 1 sgsabas sgsabas      57344 feb 25 14:22 PLANTILLA-SOLICITUD-GRABACIONES-JUAN1.xls\r\n-rw-r----- 1 sgsabas sgsabas       9216 feb 25 14:30 PLANTILLA-SOLICITUD-GRABACIONES.xls\r\n-rw-r----- 1 sgsabas sgsabas    2921068 mar  9 18:32 \u001b[01;31mpnp4nagios-0.6.25.tar.gz\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas       1071 feb 19 13:44 pollcalls (1).txt\r\n-rw-r----- 1 sgsabas sgsabas       1071 feb 19 13:44 pollcalls (2).txt\r\n-rw-r----- 1 sgsabas sgsabas       1071 feb 19 10:05 pollcalls.txt\r\n-rw-r----- 1 sgsabas sgsabas       1363 mar 11 17:33 README\r\n-rw-r----- 1 sgsabas sgsabas       1363 mar 11 17:39 README (1)\r\n-rw-r----- 1 sgsabas sgsabas      17920 mar  5 16:45 reporte.xls\r\n-rw-r----- 1 sgsabas sgsabas       4376 mar 20 11:03 'repo-toberin - Used Space - -var'.csv\r\n-rw-r----- 1 sgsabas sgsabas       3361 feb 24 15:52 \u001b[01;31msamba (1).zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas       4761 feb 24 16:13 \u001b[01;31msamba (2).zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas       3361 feb 24 18:49 \u001b[01;31msamba (3).zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas       3459 feb 24 15:53 \u001b[01;31msamba.tar.gz\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas       3361 feb 24 15:02 \u001b[01;31msamba.zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas     451072 mar 18 15:31 S"
+    ],
+    [
+      0.000028,
+      "canResult_20150318_scaneosemanal.xls\r\n-rw-r----- 1 sgsabas sgsabas       4216 mar 20 15:02 \u001b[01;31mservices.zip\u001b[0m\r\ndrwxr-xr-x 3 sgsabas sgsabas       4096 feb 16 21:21 \u001b[01;34msettings\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas      68212 feb 16 16:21 \u001b[01;31msettings.zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas    4299331 feb 17 12:52 Sin confirmar 648581.crdownload\r\n-rw-r----- 1 sgsabas sgsabas      65536 mar  2 08:44 Solicitud-Grabacion-Caro-bernal.xls\r\ndrwxrwxr-x 2 sgsabas sgsabas       4096 mar 18 09:15 \u001b[01;34msox\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas     140308 mar 18 09:23 \u001b[01;31msox_14.4.0-3+deb7u1_amd64.deb\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas     137074 mar 12 11:18 \u001b[01;31msox_14.4.1-5_amd64.deb\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas    1111653 mar 12 11:21 \u001b[01;31msox_14.4.1.orig.tar.gz\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas       6640 mar  4 09:16 squid (1).conf\r\n-rw-r----- 1 sgsabas sgsabas       7175 mar 20 11:14 squid (2).conf\r\n-rw-r----- 1 sgsabas sgsabas       7175 mar 20 11:14 squid (3).conf\r\n-rw-r----- 1 sgsabas sgsabas       6640 mar  4 09:12 squid.conf\r\n-rw-r----- 1 sgsabas sgsabas       1894 feb 20 16:26 \u001b[01;31mss_apache_stats-http.php_.zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas       1885 feb 20 16:26 \u001b[01;31mss_apache_stats.php_.zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas       7293 feb 18 10:26 STARLING-PERU-4163641111-20150209-140928-1423508967.3101324-in.gsm\r\n-rw-r----- 1 sgsabas sgsabas     118252 feb 17 14:19 \u001b[01;31mthold-v0.5.0.tgz\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas      66315 feb 17 12:50 \u001b[01;31mtimeshift-0.1.1.zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas     572370 feb 14 14:19 \u001b[01;31mubuntu-tweak_0.8.7-1~trusty2_all.deb\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas       2363 mar 20 15:30 \u001b[01;31muptime (1).zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas       2363 mar 20 15:29 \u001b[01;31muptime.zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas  111145672 mar 19 12:18 VirtualBox-4.3.26-98988-Win.exe\r\n-rw-r----- 1 sgsabas sgsabas   64735762 mar 12 15:42 \u001b[01;31mvirtualbox-4.3_4.3.24-98716~Ubuntu~raring_amd64.deb\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas     445440 mar 19 15:45 Virtualización Servidor Elastix.doc\r\n-rwxr-x--x 1 sgsabas sgsabas  211068962 mar 19 14:51 \u001b[01;32mVMware-Player-7.1.0-2496824.x86_64.bundle\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas      17997 mar 24 14:56 \u001b[01;31mvmware_pxeclient (1).zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas      17997 mar 24 14:50 \u001b[01;31mvmware_pxeclient.zip\u001b[0m\r\n-rwxrwxrwx 1 sgsabas sgsabas  432476411 mar 19 15:56 \u001b[01;32mVMware-Workstation-Full-11.1.0-2496824.x86_64.bundle\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas      70308 mar 18 09:46 \u001b[01;31mwavpack_4.60.1-3_amd64.deb\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas      15274 mar 20 15:22 \u001b[01;31mwinnt.zip\u001b[0m\r\n-rw-r----- 1 sgsabas sgsabas      20101 feb 24 15:44 wmi_stats.pl\r\n-rw-r----- 1 sgsabas sgsabas    1639936 mar 20 18:06 WPKG Client 1.3.14-x64.msi\r\n-rw-r----- 1 sgsabas sgsabas   35913739 mar 11 12:02 \u001b[01;31mxi-2014r2.6.tar.gz\u001b[0m\r\n-rw-rw-r-- 1 sgsabas sgsabas   35646451 feb 14 11:54 \u001b[01;31mZoiper_3.3_Linux_Free_32Bit_64Bit.tar.gz\u001b[0m\r\n-rwxr-xr-x 1    2000    2000   17634678 jul 17  2014 \u001b[01;32mZoiper_3.3_Linux_Free_32Bit.run\u001b[0m\r\n-rwxr-xr-x 1    2000    2000   18176262 jul 17  2014 \u001b[01;32mZoiper_3.3_Linux_Free_64Bit.run\u001b[0m\r\n"
+    ],
+    [
+      0.000110,
+      "\u001b]0;root@admin-server: /home/sgsabas/Descargas\u0007root@admin-server:/home/sgsabas/Descargas# "
+    ],
+    [
+      6.068201,
+      "exit\r\n"
+    ]
+  ]
+}
