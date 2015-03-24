@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "width": 146,
+  "height": 41,
+  "duration": 3.909051,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.269431,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                 \r \r"
+    ],
+    [
+      0.000037,
+      "\u001b]2;wyrihaximus@Inspiron-7537: ~/Projects/ReactBlogSeriesExamples/filesystem\u0007"
+    ],
+    [
+      0.000024,
+      "\u001b]1;..es/filesystem\u0007"
+    ],
+    [
+      0.100552,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[0;34m\u001b[1m┌─[\u001b[0m\u001b[0m\u001b[1;32mwyrihaximus\u001b[1;30m@\u001b[0m\u001b[0;36mInspiron-7537\u001b[0;34m\u001b[1m]\u001b[0m\u001b[0m - \u001b[0m\u001b[0;34m\u001b[1m[\u001b[0m\u001b[1;37m~/Projects/ReactBlogSeriesExamples/filesystem\u001b[0;34m\u001b[1m]\u001b[0m\u001b[0m - \u001b[0;34m\u001b[1m[\u001b[0m\u001b[0;33m2015-03-24 10:27:47\u001b[0m\u001b[0;34m\u001b[1m]\u001b[0m\u001b[0m\r\n\u001b[0;34m\u001b[1m└─\u001b[1m[\u001b[1;35m0\u001b[0;34m\u001b[1m] \u003cgit:(master \u001b[34me722e09\u001b[00m\u001b[33m✱\u001b[34m✈\u001b[00m) \u003e\u001b[0m\u001b[0m "
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000058,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.165647,
+      "p"
+    ],
+    [
+      0.101082,
+      "\u0008ph"
+    ],
+    [
+      0.166816,
+      "p"
+    ],
+    [
+      0.484188,
+      " "
+    ],
+    [
+      0.399704,
+      "l"
+    ],
+    [
+      0.070219,
+      "s"
+    ],
+    [
+      0.184667,
+      ".php\u001b[1m \u001b[0m"
+    ],
+    [
+      0.880591,
+      "\u0008\u001b[0m\u0026"
+    ],
+    [
+      0.149200,
+      "\u0026"
+    ],
+    [
+      0.127526,
+      " "
+    ],
+    [
+      0.224278,
+      "e"
+    ],
+    [
+      0.206111,
+      "x"
+    ],
+    [
+      0.091688,
+      "i"
+    ],
+    [
+      0.123720,
+      "t"
+    ],
+    [
+      0.123975,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000035,
+      "\r\r\n"
+    ],
+    [
+      0.000296,
+      "\u001b]2;php ls.php \u0026\u0026 exit\u0007"
+    ],
+    [
+      0.000006,
+      "\u001b]1;php\u0007"
+    ],
+    [
+      0.033982,
+      "/home/wyrihaximus/Projects/ReactBlogSeriesExamples/streams"
+    ],
+    [
+      0.000070,
+      "\r\n/home/wyrihaximus/Projects/ReactBlogSeriesExamples/socket-clients\r\n/home/wyrihaximus/Projects/ReactBlogSeriesExamples/.idea\r\n/home/wyrihaximus/Projects/ReactBlogSeriesExamples/LICENSE\r\n/home/wyrihaximus/Projects/ReactBlogSeriesExamples/composer.lock\r\n/home/wyrihaximus/Projects/ReactBlogSeriesExamples/filesystem\r\n/home/wyrihaximus/Projects/ReactBlogSeriesExamples/composer.json\r\n/home/wyrihaximus/Projects/ReactBlogSeriesExamples/README.md\r\n/home/wyrihaximus/Projects/ReactBlogSeriesExamples/child-process\r\n/home/wyrihaximus/Projects/ReactBlogSeriesExamples/promises\r\n/home/wyrihaximus/Projects/ReactBlogSeriesExamples/timers\r\n/home/wyrihaximus/Projects/ReactBlogSeriesExamples/.git\r\n"
+    ],
+    [
+      0.000021,
+      "/home/wyrihaximus/Projects/ReactBlogSeriesExamples/sockets\r\n/home/wyrihaximus/Projects/ReactBlogSeriesExamples/ticks\r\n/home/wyrihaximus/Projects/ReactBlogSeriesExamples/vendor\r\n"
+    ]
+  ]
+}
