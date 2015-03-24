@@ -1,0 +1,414 @@
+{
+  "version": 1,
+  "width": 146,
+  "height": 41,
+  "duration": 4.081522,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.122695,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                 \r \r"
+    ],
+    [
+      0.000369,
+      "\u001b]2;wyrihaximus@Inspiron-7537: ~/Projects/ReactBlogSeriesExamples/filesystem\u0007\u001b]1;..es/filesystem\u0007"
+    ],
+    [
+      0.084679,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[0;34m\u001b[1m┌─[\u001b[0m\u001b[0m\u001b[1;32mwyrihaximus\u001b[1;30m@\u001b[0m\u001b[0;36mInspiron-7537\u001b[0;34m\u001b[1m]\u001b[0m\u001b[0m - \u001b[0m\u001b[0;34m\u001b[1m[\u001b[0m\u001b[1;37m~/Projects/ReactBlogSeriesExamples/filesystem\u001b[0;34m\u001b[1m]\u001b[0m\u001b[0m - \u001b[0;34m\u001b[1m[\u001b[0m\u001b[0;33m2015-03-24 10:29:13\u001b[0m\u001b[0;34m\u001b[1m]\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0;34m\u001b[1m└─\u001b[1m[\u001b[1;35m0\u001b[0;34m\u001b[1m] \u003cgit:(master \u001b[34me722e09\u001b[00m\u001b[33m✱\u001b[34m✈\u001b[00m) \u003e\u001b[0m\u001b[0m \u001b[K"
+    ],
+    [
+      0.000034,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.160810,
+      "p"
+    ],
+    [
+      0.107303,
+      "\u0008ph"
+    ],
+    [
+      0.099937,
+      "p"
+    ],
+    [
+      0.134526,
+      " "
+    ],
+    [
+      0.182968,
+      "s"
+    ],
+    [
+      0.099380,
+      "i"
+    ],
+    [
+      0.136980,
+      "ze"
+    ],
+    [
+      0.456013,
+      "."
+    ],
+    [
+      0.101640,
+      "php\u001b[1m \u001b[0m"
+    ],
+    [
+      1.330190,
+      "\u0008\u001b[0m\u0026"
+    ],
+    [
+      0.158799,
+      "\u0026"
+    ],
+    [
+      0.153986,
+      "e"
+    ],
+    [
+      0.207845,
+      "x"
+    ],
+    [
+      0.123332,
+      "i"
+    ],
+    [
+      0.130862,
+      "t"
+    ],
+    [
+      0.144745,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000091,
+      "\r\r\n"
+    ],
+    [
+      0.001143,
+      "\u001b]2;php size.php \u0026\u0026 exit\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b]1;php\u0007"
+    ],
+    [
+      0.134109,
+      "/home/wyrihaximus/Projects/ReactBlogSeriesExamples/streams/simple.php"
+    ],
+    [
+      0.000090,
+      ": 0.40KB\r\n"
+    ],
+    [
+      0.000030,
+      "/home/wyrihaximus/Projects/ReactBlogSeriesExamples/streams/in_out.php: "
+    ],
+    [
+      0.000006,
+      "0.26"
+    ],
+    [
+      0.000008,
+      "KB\r\n"
+    ],
+    [
+      0.000103,
+      "/home/wyrihaximus/Projects/ReactBlogSeriesExamples/streams/rainbow_kitten.php: "
+    ],
+    [
+      0.000005,
+      "0.59KB"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "/home/wyrihaximus/Projects/ReactBlogSeriesExamples/socket-clients/echo.php"
+    ],
+    [
+      0.000012,
+      ": 0.70KB\r\n"
+    ],
+    [
+      0.000100,
+      "/home/wyrihaximus/Projects/ReactBlogSeriesExamples/socket-clients/ttt_client.php"
+    ],
+    [
+      0.000008,
+      ": 0.92KB\r\n"
+    ],
+    [
+      0.000100,
+      "/home/wyrihaximus/Projects/ReactBlogSeriesExamples/filesystem/size_time_md5.php: "
+    ],
+    [
+      0.000005,
+      "1.32KB"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000095,
+      "/home/wyrihaximus/Projects/ReactBlogSeriesExamples/filesystem/size.php: "
+    ],
+    [
+      0.000006,
+      "0.89KB"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000099,
+      "/home/wyrihaximus/Projects/ReactBlogSeriesExamples/filesystem/php.php: "
+    ],
+    [
+      0.000008,
+      "0.46KB\r\n"
+    ],
+    [
+      0.000101,
+      "/home/wyrihaximus/Projects/ReactBlogSeriesExamples/filesystem/ls.php: "
+    ],
+    [
+      0.000006,
+      "0.34KB"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000095,
+      "/home/wyrihaximus/Projects/ReactBlogSeriesExamples/child-process/echo_child.php: "
+    ],
+    [
+      0.000006,
+      "0.33KB"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000094,
+      "/home/wyrihaximus/Projects/ReactBlogSeriesExamples/child-process/uptime.php: "
+    ],
+    [
+      0.000006,
+      "0.33KB"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "/home/wyrihaximus/Projects/ReactBlogSeriesExamples/child-process/echo_parent.php: "
+    ],
+    [
+      0.000007,
+      "0.58KB\r\n"
+    ],
+    [
+      0.000113,
+      "/home/wyrihaximus/Projects/ReactBlogSeriesExamples/child-process/md5_parent.php"
+    ],
+    [
+      0.000012,
+      ": 0.53KB\r\n"
+    ],
+    [
+      0.000141,
+      "/home/wyrihaximus/Projects/ReactBlogSeriesExamples/child-process/md5_child.php"
+    ],
+    [
+      0.000006,
+      ": 0.49KB"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000123,
+      "/home/wyrihaximus/Projects/ReactBlogSeriesExamples/promises/route_66.php"
+    ],
+    [
+      0.000006,
+      ": 0.46"
+    ],
+    [
+      0.000008,
+      "KB\r\n"
+    ],
+    [
+      0.000121,
+      "/home/wyrihaximus/Projects/ReactBlogSeriesExamples/promises/dns.php: "
+    ],
+    [
+      0.000006,
+      "0.63KB"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000116,
+      "/home/wyrihaximus/Projects/ReactBlogSeriesExamples/timers/inactive.php: "
+    ],
+    [
+      0.000006,
+      "0.36"
+    ],
+    [
+      0.000008,
+      "KB\r\n"
+    ],
+    [
+      0.000117,
+      "/home/wyrihaximus/Projects/ReactBlogSeriesExamples/timers/periodic_15_timer.php: "
+    ],
+    [
+      0.000006,
+      "0.28"
+    ],
+    [
+      0.000008,
+      "KB\r\n"
+    ],
+    [
+      0.000117,
+      "/home/wyrihaximus/Projects/ReactBlogSeriesExamples/timers/periodic_15_sleep.php"
+    ],
+    [
+      0.000006,
+      ": 0.33"
+    ],
+    [
+      0.000008,
+      "KB\r\n"
+    ],
+    [
+      0.000117,
+      "/home/wyrihaximus/Projects/ReactBlogSeriesExamples/timers/periodic.php"
+    ],
+    [
+      0.000007,
+      ": 0.18KB"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000103,
+      "/home/wyrihaximus/Projects/ReactBlogSeriesExamples/timers/periodic_15.php: "
+    ],
+    [
+      0.000006,
+      "0.28KB"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000103,
+      "/home/wyrihaximus/Projects/ReactBlogSeriesExamples/sockets/ttt_server.php"
+    ],
+    [
+      0.000005,
+      ": "
+    ],
+    [
+      0.000005,
+      "2.71KB"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000101,
+      "/home/wyrihaximus/Projects/ReactBlogSeriesExamples/sockets/echo.php"
+    ],
+    [
+      0.000005,
+      ": 0.75"
+    ],
+    [
+      0.000013,
+      "KB\r\n"
+    ],
+    [
+      0.000095,
+      "/home/wyrihaximus/Projects/ReactBlogSeriesExamples/sockets/multi.php"
+    ],
+    [
+      0.000005,
+      ": 1.53"
+    ],
+    [
+      0.000007,
+      "KB\r\n"
+    ],
+    [
+      0.000102,
+      "/home/wyrihaximus/Projects/ReactBlogSeriesExamples/ticks/future_tick.php"
+    ],
+    [
+      0.000010,
+      ": 0.35"
+    ],
+    [
+      0.000007,
+      "KB\r\n"
+    ],
+    [
+      0.000097,
+      "/home/wyrihaximus/Projects/ReactBlogSeriesExamples/ticks/next_tick.php"
+    ],
+    [
+      0.000005,
+      ": 0.34"
+    ],
+    [
+      0.000007,
+      "KB\r\n"
+    ],
+    [
+      0.000048,
+      "Total: "
+    ],
+    [
+      0.000005,
+      "16.35KB"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ]
+  ]
+}
