@@ -1,0 +1,126 @@
+{
+  "version": 1,
+  "width": 226,
+  "height": 54,
+  "duration": 12.641088,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.004034,
+      "root@eramirez:~# "
+    ],
+    [
+      3.148381,
+      "l"
+    ],
+    [
+      0.119310,
+      "s"
+    ],
+    [
+      0.112016,
+      " "
+    ],
+    [
+      0.456290,
+      "/"
+    ],
+    [
+      0.408014,
+      "e"
+    ],
+    [
+      0.047920,
+      "t"
+    ],
+    [
+      0.136036,
+      "c/"
+    ],
+    [
+      2.679988,
+      "*"
+    ],
+    [
+      0.384048,
+      "."
+    ],
+    [
+      0.175807,
+      "c"
+    ],
+    [
+      0.144054,
+      "o"
+    ],
+    [
+      0.184078,
+      "n"
+    ],
+    [
+      0.264003,
+      "f"
+    ],
+    [
+      0.432722,
+      "\r\n"
+    ],
+    [
+      0.001263,
+      "/etc/adduser.conf\t   /etc/deluser.conf\t\t      /etc/fuse.conf\t /etc/kernel-img.conf  /etc/mke2fs.conf      /etc/pam.conf\t  /etc/sensors3.conf  /etc/usb_modeswitch.conf\r\n"
+    ],
+    [
+      0.000016,
+      "/etc/apg.conf\t\t   /etc/devscripts.conf\t\t      /etc/gai.conf\t /etc/ld.so.conf       /etc/netscsid.conf    /etc/reportbug.conf  /etc/smi.conf       /etc/wodim.conf\r\n/etc/ca-certificates.conf  /etc/discover-modprobe.conf\t      /etc/host.conf\t /etc/libao.conf       /etc/nsswitch.conf    /etc/resolv.conf\t"
+    ],
+    [
+      0.000007,
+      "  /etc/sysctl.conf    /etc/xinetd.conf\r\n"
+    ],
+    [
+      0.000004,
+      "/etc/cowpoke.conf\t"
+    ],
+    [
+      0.000004,
+      "   /etc/dleyna-renderer-service.conf  /etc/idmapd.conf\t"
+    ],
+    [
+      0.000003,
+      " /etc/libaudit.conf    /etc/ntp.conf\t"
+    ],
+    [
+      0.000002,
+      "     /etc/rsyslog.conf\t"
+    ],
+    [
+      0.000002,
+      "  /etc/ucf.conf"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "/etc/debconf.conf\t"
+    ],
+    [
+      0.000006,
+      "   /etc/dleyna-server-service.conf    /etc/insserv.conf  /etc/logrotate.conf   /etc/oinkmaster.conf  /etc/rygel.conf\t  /etc/updatedb.conf\r\n"
+    ],
+    [
+      0.000235,
+      "root@eramirez:~# "
+    ],
+    [
+      3.942631,
+      "exit\r\n"
+    ]
+  ]
+}
