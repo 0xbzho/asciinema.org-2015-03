@@ -1,0 +1,1462 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 3.962542,
+  "command": "/bin/sh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/sh"
+  },
+  "stdout": [
+    [
+      0.000851,
+      "$ "
+    ],
+    [
+      2.137555,
+      "cat /proc/cpuinfo; cat /etc/debian_version ; r2 -v; git log |head -2\r\n"
+    ],
+    [
+      0.005643,
+      "processor\t"
+    ],
+    [
+      0.000009,
+      ": 0\r\nvendor_id\t: GenuineIntel"
+    ],
+    [
+      0.000005,
+      "\r\ncpu family\t"
+    ],
+    [
+      0.000012,
+      ": 6\r\nmodel\t"
+    ],
+    [
+      0.000011,
+      "\t"
+    ],
+    [
+      0.000062,
+      ": 60\r\n"
+    ],
+    [
+      0.000009,
+      "model name\t: Intel(R) Core(TM) i5-4200M CPU @ 2.50GHz"
+    ],
+    [
+      0.000014,
+      "\r\nstepping\t: 3"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "microcode"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000009,
+      ": 0x12\r\n"
+    ],
+    [
+      0.000053,
+      "cpu MHz\t"
+    ],
+    [
+      0.000010,
+      "\t: 2501.000\r\ncache size"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000007,
+      ": 3072 KB"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "physical id\t"
+    ],
+    [
+      0.000008,
+      ": 0\r\n"
+    ],
+    [
+      0.000050,
+      "siblings\t"
+    ],
+    [
+      0.000016,
+      ": 4\r\ncore id"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000007,
+      "\t: 0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "cpu cores"
+    ],
+    [
+      0.000041,
+      "\t: 2"
+    ],
+    [
+      0.000008,
+      "\r\napicid\t\t"
+    ],
+    [
+      0.000003,
+      ": 0"
+    ],
+    [
+      0.000007,
+      "\r\ninitial apicid"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": 0"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "fdiv_bug"
+    ],
+    [
+      0.000007,
+      "\t: no"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "hlt_bug\t"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000009,
+      ": no"
+    ],
+    [
+      0.000037,
+      "\r\nf00f_bug"
+    ],
+    [
+      0.000004,
+      "\t: no\r\n"
+    ],
+    [
+      0.000008,
+      "coma_bug"
+    ],
+    [
+      0.000041,
+      "\t: no"
+    ],
+    [
+      0.000008,
+      "\r\nfpu\t\t"
+    ],
+    [
+      0.000003,
+      ": yes"
+    ],
+    [
+      0.000007,
+      "\r\nfpu_exception"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000042,
+      ": yes\r\n"
+    ],
+    [
+      0.000008,
+      "cpuid level\t: 13\r\n"
+    ],
+    [
+      0.000006,
+      "wp"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000040,
+      "\t: yes"
+    ],
+    [
+      0.000008,
+      "\r\nflags\t\t"
+    ],
+    [
+      0.000055,
+      ": fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts xtopology nonstop_tsc aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 fma cx16 xtpr pdcm pcid sse4_1 sse4_2 movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm ida arat epb xsaveopt pln pts dtherm tpr_shadow vnmi flexpriority ept vpid fsgsbase smep erms\r\n"
+    ],
+    [
+      0.000014,
+      "bogomips\t: 4988.83\r\nclflush size\t: 64\r\ncache_alignment\t"
+    ],
+    [
+      0.000007,
+      ": 64"
+    ],
+    [
+      0.000044,
+      "\r\naddress sizes"
+    ],
+    [
+      0.000008,
+      "\t: 39 bits physical, 48 bits virtual\r\npower management:"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\r\nprocessor"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": 1"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "vendor_id\t"
+    ],
+    [
+      0.000013,
+      ": GenuineIntel\r\ncpu family\t: 6\r\nmodel\t"
+    ],
+    [
+      0.000007,
+      "\t: 60\r\n"
+    ],
+    [
+      0.000003,
+      "model name"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000009,
+      ": Intel(R) Core(TM) i5-4200M CPU @ 2.50GHz"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "stepping\t"
+    ],
+    [
+      0.000008,
+      ": 3\r\nmicrocode\t"
+    ],
+    [
+      0.000006,
+      ": 0x12"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "cpu MHz\t"
+    ],
+    [
+      0.000008,
+      "\t: 2501.000\r\ncache size"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000007,
+      ": 3072 KB\r\n"
+    ],
+    [
+      0.000003,
+      "physical id"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000037,
+      ": 0\r\n"
+    ],
+    [
+      0.000007,
+      "siblings\t"
+    ],
+    [
+      0.000006,
+      ": 4"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "core id"
+    ],
+    [
+      0.000037,
+      "\t\t"
+    ],
+    [
+      0.000008,
+      ": 0\r\ncpu cores\t"
+    ],
+    [
+      0.000048,
+      ": 2\r\n"
+    ],
+    [
+      0.000007,
+      "apicid\t\t: 1"
+    ],
+    [
+      0.000008,
+      "\r\ninitial apicid"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": 1"
+    ],
+    [
+      0.000043,
+      "\r\nfdiv_bug"
+    ],
+    [
+      0.000008,
+      "\t: no\r\nhlt_bug"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000007,
+      "\t: no"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "f00f_bug"
+    ],
+    [
+      0.000034,
+      "\t"
+    ],
+    [
+      0.000003,
+      ": no"
+    ],
+    [
+      0.000007,
+      "\r\ncoma_bug"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000007,
+      ": no\r\n"
+    ],
+    [
+      0.000003,
+      "fpu"
+    ],
+    [
+      0.000009,
+      "\t"
+    ],
+    [
+      0.000037,
+      "\t: yes"
+    ],
+    [
+      0.000058,
+      "\r\nfpu_exception\t: yes\r\ncpuid level\t: 13\r\nwp\t\t: yes\r\nflags\t\t: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts xtopology nonstop_tsc aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 fma cx16 xtpr pdcm pcid sse4_1 sse4_2 movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm ida arat epb xsaveopt pln pts dtherm tpr_shadow vnmi flexpriority ept vpid fsgsbase smep erms\r\nbogomips\t: 4988.22\r\n"
+    ],
+    [
+      0.000013,
+      "clflush size\t: 64\r\ncache_alignment\t: 64\r\naddress sizes\t: 39 bits physical, 48 bits virtual"
+    ],
+    [
+      0.000011,
+      "\r\npower management:\r\n\r\nprocessor"
+    ],
+    [
+      0.000012,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": 2"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "vendor_id"
+    ],
+    [
+      0.000009,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": GenuineIntel"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "cpu family"
+    ],
+    [
+      0.000013,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": 6"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "model"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      ":"
+    ],
+    [
+      0.000008,
+      " 60"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "model name"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000014,
+      ": Intel(R) Core(TM) i5-4200M CPU @ 2.50GHz"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "stepping"
+    ],
+    [
+      0.000010,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": 3"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "microcode"
+    ],
+    [
+      0.000010,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": 0x12"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "cpu MHz"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000009,
+      "\t"
+    ],
+    [
+      0.000009,
+      ": 2501.000"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "cache size"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": 3072 KB"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "physical id"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": 0"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "siblings"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": 4"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "core id"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": 1"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "cpu cores"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": 2"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "apicid"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000012,
+      ": 2"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "initial apicid"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": 2"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "fdiv_bug"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": no"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "hlt_bug"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": no"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "f00f_bug"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000009,
+      ": no"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "coma_bug"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": no"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "fpu"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000009,
+      ": yes"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "fpu_exception"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": yes"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "cpuid level"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": 13"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "wp"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": yes"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "flags"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000020,
+      ": fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts xtopology nonstop_tsc aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 fma cx16 xtpr pdcm pcid sse4_1 sse4_2 movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm ida arat epb xsaveopt pln pts dtherm tpr_shadow vnmi flexpriority ept vpid fsgsbase smep erms"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "bogomips"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000009,
+      ": 4988.25"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "clflush size"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000012,
+      ": 64"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "cache_alignment"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": 64"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "address sizes"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000013,
+      ": 39 bits physical, 48 bits virtual"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "power management:"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "processor"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": 3"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "vendor_id"
+    ],
+    [
+      0.000009,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": GenuineIntel"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "cpu family"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": 6"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "model"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000009,
+      ": 60"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "model name"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000009,
+      ": Intel(R) Core(TM) i5-4200M CPU @ 2.50GHz"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "stepping"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": 3"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "microcode"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": 0x12"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "cpu MHz"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": 2501.000"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "cache size"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000027,
+      ": 3072 KB"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "physical id"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": 0"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "siblings"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000009,
+      ": 4"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "core id"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": 1"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "cpu cores"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000009,
+      ": 2"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "apicid"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": 3"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "initial apicid"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000009,
+      ": 3"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "fdiv_bug"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": no"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "hlt_bug"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000011,
+      ": no"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "f00f_bug"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": no"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "coma_bug"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": no"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "fpu"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": yes"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "fpu_exception"
+    ],
+    [
+      0.000010,
+      "\t"
+    ],
+    [
+      0.000011,
+      ": yes"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "cpuid level"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": 13"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "wp"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000009,
+      "\t"
+    ],
+    [
+      0.000011,
+      ": yes"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "flags"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000015,
+      ": fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts xtopology nonstop_tsc aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 fma cx16 xtpr pdcm pcid sse4_1 sse4_2 movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm ida arat epb xsaveopt pln pts dtherm tpr_shadow vnmi flexpriority ept vpid fsgsbase smep erms"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "bogomips"
+    ],
+    [
+      0.000011,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": 4988.24"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "clflush size"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": 64"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "cache_alignment"
+    ],
+    [
+      0.000009,
+      "\t"
+    ],
+    [
+      0.000010,
+      ": 64"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "address sizes"
+    ],
+    [
+      0.000008,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": 39 bits physical, 48 bits virtual"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "power management:"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.008107,
+      "7.8\r\n"
+    ],
+    [
+      0.010341,
+      "radare2 0.9.9-git 7376 @ linux-little-x86-32 git.0.9.8-1026-g8a6e613\r\n"
+    ],
+    [
+      0.000008,
+      "commit: 8a6e613ee17b8fb96a94e2599a0107c8bfde66ec build: 2015-03-24\r\n"
+    ],
+    [
+      0.001323,
+      "commit 6a77cc7463b9ca3cc8e9e3568e8550059965e8a4\r\nAuthor: Nguyen Anh Quynh \u003caquynh@gmail.com\u003e\r\n"
+    ],
+    [
+      0.000097,
+      "$ "
+    ],
+    [
+      1.794827,
+      "\r\n"
+    ]
+  ]
+}
