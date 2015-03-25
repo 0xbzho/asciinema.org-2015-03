@@ -1,0 +1,446 @@
+{
+  "version": 1,
+  "width": 272,
+  "height": 76,
+  "duration": 122.796214,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.284372,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                               \r \r"
+    ],
+    [
+      0.000088,
+      "\u001b]2;sebastiaanprovost@Shadownet: ~/CC/drk-bedrijvengids\u0007"
+    ],
+    [
+      0.000007,
+      "\u001b]1;..bedrijvengids\u0007"
+    ],
+    [
+      0.139468,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m sebastiaanprovost@Shadownet \u001b[44m\u001b[30m\u001b[30m ~/CC/drk-bedrijvengids \u001b[42m\u001b[34m\u001b[30m  staging \u001b[49m\u001b[32m\u001b[39m "
+    ],
+    [
+      0.000012,
+      "\u001b[K"
+    ],
+    [
+      0.000106,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.352977,
+      "c"
+    ],
+    [
+      0.062452,
+      "\u0008cl"
+    ],
+    [
+      0.119621,
+      "e"
+    ],
+    [
+      0.144580,
+      "a"
+    ],
+    [
+      0.175945,
+      "r"
+    ],
+    [
+      0.104119,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000094,
+      "\r\r\n"
+    ],
+    [
+      0.000962,
+      "\u001b]2;clear\u0007"
+    ],
+    [
+      0.000006,
+      "\u001b]1;clear\u0007"
+    ],
+    [
+      0.003659,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000346,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                               \r \r"
+    ],
+    [
+      0.000108,
+      "\u001b]2;sebastiaanprovost@Shadownet: ~/CC/drk-bedrijvengids\u0007"
+    ],
+    [
+      0.000016,
+      "\u001b]1;..bedrijvengids\u0007"
+    ],
+    [
+      0.139454,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m sebastiaanprovost@Shadownet \u001b[44m\u001b[30m\u001b[30m ~/CC/drk-bedrijvengids \u001b[42m\u001b[34m\u001b[30m  staging \u001b[49m\u001b[32m\u001b[39m "
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      0.000047,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.903785,
+      "c"
+    ],
+    [
+      0.175122,
+      "\u0008ca"
+    ],
+    [
+      0.031898,
+      "p"
+    ],
+    [
+      0.168242,
+      " "
+    ],
+    [
+      0.039541,
+      "s"
+    ],
+    [
+      0.208343,
+      "t"
+    ],
+    [
+      0.160490,
+      "a"
+    ],
+    [
+      0.191613,
+      "g"
+    ],
+    [
+      0.064030,
+      "i"
+    ],
+    [
+      0.040413,
+      "n"
+    ],
+    [
+      0.071417,
+      "g"
+    ],
+    [
+      0.104020,
+      " "
+    ],
+    [
+      0.072331,
+      "d"
+    ],
+    [
+      0.151988,
+      "e"
+    ],
+    [
+      0.063997,
+      "p"
+    ],
+    [
+      0.031908,
+      "l"
+    ],
+    [
+      0.176319,
+      "o"
+    ],
+    [
+      0.103740,
+      "y"
+    ],
+    [
+      0.135782,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000031,
+      "\r\r\n"
+    ],
+    [
+      0.000814,
+      "\u001b]2;cap staging deploy\u0007"
+    ],
+    [
+      0.000007,
+      "\u001b]1;cap\u0007"
+    ],
+    [
+      0.329295,
+      "    \u001b[0mtriggering load callbacks\u001b[0m\r\n"
+    ],
+    [
+      0.000113,
+      "  * \u001b[32m2015-03-25 15:29:48 \u001b[32m15:29:48 == Currently executing `staging'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000664,
+      "    \u001b[0mtriggering start callbacks for `deploy'\u001b[0m\r\n"
+    ],
+    [
+      0.000091,
+      "  * \u001b[32m2015-03-25 15:29:48 \u001b[32m15:29:48 == Currently executing `multistage:ensure'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000139,
+      "  * \u001b[32m2015-03-25 15:29:48 \u001b[32m15:29:48 == Currently executing `deploy'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000097,
+      "  * \u001b[32m2015-03-25 15:29:48 \u001b[32m15:29:48 == Currently executing `deploy:update'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000132,
+      " ** \u001b[0mtransaction: start\u001b[0m\r\n"
+    ],
+    [
+      0.000116,
+      "  * \u001b[32m2015-03-25 15:29:48 \u001b[32m15:29:48 == Currently executing `deploy:update_code'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.015290,
+      "    \u001b[33m\u001b[0mexecuting locally: \"git ls-remote git@git.dataflow.be:drk-bedrijvengids staging\"\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.807348,
+      "    \u001b[2;37m\u001b[0mcommand finished in 807ms\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000548,
+      "  * \u001b[33m\u001b[33mgetting (via checkout) revision 48aeb8fca5f5ca10d77a15d3e4e4d69b4905ff1b to /var/folders/dc/jpqhc4k960q_ym4tjrm3yq640000gp/T/20150325142948\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000350,
+      "    \u001b[33m\u001b[0mexecuting locally: git clone -q -b staging git@git.dataflow.be:drk-bedrijvengids /var/folders/dc/jpqhc4k960q_ym4tjrm3yq640000gp/T/20150325142948 \u0026\u0026 cd /var/folders/dc/jpqhc4k960q_ym4tjrm3yq640000gp/T/20150325142948 \u0026\u0026 git checkout -q -b deploy 48aeb8fca5f5ca10d77a15d3e4e4d69b4905ff1b\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      34.848835,
+      "    \u001b[2;37m\u001b[0mcommand finished in 34849ms\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000104,
+      "  * \u001b[33m\u001b[33mprocessing exclusions...\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.009253,
+      "  * \u001b[33m\u001b[33mCompressing /var/folders/dc/jpqhc4k960q_ym4tjrm3yq640000gp/T/20150325142948 to /var/folders/dc/jpqhc4k960q_ym4tjrm3yq640000gp/T/20150325142948.tar.gz\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000125,
+      "    \u001b[33m\u001b[0mexecuting locally: tar czf 20150325142948.tar.gz 20150325142948\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      4.425448,
+      "    \u001b[2;37m\u001b[0mcommand finished in 4425ms\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000305,
+      "    \u001b[0mservers: [\"bedrijvengids.staging.one-agency.be\"]\u001b[0m\r\n"
+    ],
+    [
+      0.412813,
+      " ** \u001b[0msftp upload /var/folders/dc/jpqhc4k960q_ym4tjrm3yq640000gp/T/20150325142948.tar.gz -\u003e /tmp/20150325142948.tar.gz\u001b[0m\r\n"
+    ],
+    [
+      0.087926,
+      "    \u001b[0m[bedrijvengids.staging.one-agency.be] /tmp/20150325142948.tar.gz\u001b[0m\r\n"
+    ],
+    [
+      62.582980,
+      "    \u001b[0m[bedrijvengids.staging.one-agency.be] done\u001b[0m\r\n"
+    ],
+    [
+      0.000060,
+      "  * \u001b[33m\u001b[33msftp upload complete\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000275,
+      "  * \u001b[33m\u001b[33mexecuting \"cd /home/bedrijvengids/apps/default/releases \u0026\u0026 tar xzf /tmp/20150325142948.tar.gz \u0026\u0026 rm /tmp/20150325142948.tar.gz\"\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000079,
+      "    \u001b[0mservers: [\"bedrijvengids.staging.one-agency.be\"]\u001b[0m\r\n"
+    ],
+    [
+      0.075682,
+      "    [\u001b[0mbedrijvengids.staging.one-agency.be\u001b[0m] \u001b[0mexecuting command\u001b[0m\r\n"
+    ],
+    [
+      4.849904,
+      "    \u001b[2;37m\u001b[0mcommand finished in 4925ms\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.460846,
+      "  * \u001b[32m2015-03-25 15:31:36 \u001b[32m15:31:36 == Currently executing `deploy:finalize_update'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000210,
+      "  * \u001b[33m\u001b[33mexecuting \"chmod -R -- g+w /home/bedrijvengids/apps/default/releases/20150325142948 \u0026\u0026 chmod -R g+w /home/bedrijvengids/apps/default/releases/20150325142948\"\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000118,
+      "    \u001b[0mservers: [\"bedrijvengids.staging.one-agency.be\"]\u001b[0m\r\n"
+    ],
+    [
+      0.026665,
+      "    [\u001b[0mbedrijvengids.staging.one-agency.be\u001b[0m] \u001b[0mexecuting command\u001b[0m\r\n"
+    ],
+    [
+      0.206430,
+      "    \u001b[2;37m\u001b[0mcommand finished in 233ms\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000055,
+      "    \u001b[0mtriggering after callbacks for `deploy:finalize_update'\u001b[0m\r\n"
+    ],
+    [
+      0.000117,
+      "  * \u001b[32m2015-03-25 15:31:36 \u001b[32m15:31:36 == Currently executing `create_symlinks'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000239,
+      "  * \u001b[33m\u001b[33mexecuting \"ls -x /home/bedrijvengids/apps/default/releases\"\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000068,
+      "    \u001b[0mservers: [\"bedrijvengids.staging.one-agency.be\"]\u001b[0m\r\n"
+    ],
+    [
+      0.027241,
+      "    [\u001b[0mbedrijvengids.staging.one-agency.be\u001b[0m] \u001b[0mexecuting command\u001b[0m\r\n"
+    ],
+    [
+      0.043745,
+      "    \u001b[2;37m\u001b[0mcommand finished in 71ms\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000194,
+      "  * \u001b[33m\u001b[33mexecuting \"rm /home/bedrijvengids/apps/default/releases/20150325142948/application/configs/application.ini\"\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000072,
+      "    \u001b[0mservers: [\"bedrijvengids.staging.one-agency.be\"]\u001b[0m\r\n"
+    ],
+    [
+      0.023762,
+      "    [\u001b[0mbedrijvengids.staging.one-agency.be\u001b[0m] \u001b[0mexecuting command\u001b[0m\r\n"
+    ],
+    [
+      0.051015,
+      "    \u001b[2;37m\u001b[0mcommand finished in 74ms\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000260,
+      "  * \u001b[33m\u001b[33mexecuting \"ln -s /home/bedrijvengids/apps/default/releases/20150325142948/application/configs/staging.ini /home/bedrijvengids/apps/default/releases/20150325142948/application/configs/application.ini\"\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000116,
+      "    \u001b[0mservers: [\"bedrijvengids.staging.one-agency.be\"]\u001b[0m\r\n"
+    ],
+    [
+      0.023532,
+      "    [\u001b[0mbedrijvengids.staging.one-agency.be\u001b[0m] \u001b[0mexecuting command\u001b[0m\r\n"
+    ],
+    [
+      0.053902,
+      "    \u001b[2;37m\u001b[0mcommand finished in 77ms\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000142,
+      "  * \u001b[32m2015-03-25 15:31:37 \u001b[32m15:31:37 == Currently executing `deploy:create_symlink'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000292,
+      "  * \u001b[33m\u001b[33mexecuting \"rm -f /home/bedrijvengids/apps/default/current \u0026\u0026  ln -s /home/bedrijvengids/apps/default/releases/20150325142948 /home/bedrijvengids/apps/default/current\"\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000143,
+      "    \u001b[0mservers: [\"bedrijvengids.staging.one-agency.be\"]\u001b[0m\r\n"
+    ],
+    [
+      0.024076,
+      "    [\u001b[0mbedrijvengids.staging.one-agency.be\u001b[0m] \u001b[0mexecuting command\u001b[0m\r\n"
+    ],
+    [
+      0.048579,
+      "    \u001b[2;37m\u001b[0mcommand finished in 72ms\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000078,
+      " ** \u001b[0mtransaction: commit\u001b[0m\r\n"
+    ],
+    [
+      0.000056,
+      "    \u001b[0mtriggering after callbacks for `deploy'\u001b[0m\r\n"
+    ],
+    [
+      0.000122,
+      "  * \u001b[32m2015-03-25 15:31:37 \u001b[32m15:31:37 == Currently executing `deploy:cleanup'\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000233,
+      "  * \u001b[33m\u001b[33mexecuting \"ls -1dt /home/bedrijvengids/apps/default/releases/* | tail -n +6 |  xargs rm -rf\"\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000066,
+      "    \u001b[0mservers: [\"bedrijvengids.staging.one-agency.be\"]\u001b[0m\r\n"
+    ],
+    [
+      0.028669,
+      "    [\u001b[0mbedrijvengids.staging.one-agency.be\u001b[0m] \u001b[0mexecuting command\u001b[0m\r\n"
+    ],
+    [
+      0.095837,
+      "    \u001b[2;37m\u001b[0mcommand finished in 124ms\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.012165,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                               \r \r"
+    ],
+    [
+      0.000049,
+      "\u001b]2;sebastiaanprovost@Shadownet: ~/CC/drk-bedrijvengids\u0007"
+    ],
+    [
+      0.000015,
+      "\u001b]1;..bedrijvengids\u0007"
+    ],
+    [
+      0.131247,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m sebastiaanprovost@Shadownet \u001b[44m\u001b[30m\u001b[30m ~/CC/drk-bedrijvengids \u001b[42m\u001b[34m\u001b[30m  staging \u001b[49m\u001b[32m\u001b[39m "
+    ],
+    [
+      0.000019,
+      "\u001b[K"
+    ],
+    [
+      0.000036,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      5.632649,
+      "\r\r\n"
+    ]
+  ]
+}
