@@ -1,0 +1,3602 @@
+{
+  "version": 1,
+  "width": 127,
+  "height": 34,
+  "duration": 2938.256472,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "screen-256color",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.125254,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                              \r \r"
+    ],
+    [
+      0.000013,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[1m\u001b[0mbenjica@\u001b[4mgunter\u001b[24m\u003e \u001b[K\u001b[109C\u001b[32m~\u001b[39m\u001b[110D"
+    ],
+    [
+      1.424433,
+      "c"
+    ],
+    [
+      0.080857,
+      "\u0008cl"
+    ],
+    [
+      0.076938,
+      "e"
+    ],
+    [
+      0.137758,
+      "a"
+    ],
+    [
+      0.059815,
+      "r"
+    ],
+    [
+      0.103074,
+      "\r"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.101786,
+      "\u001b[H\u001b[J"
+    ],
+    [
+      0.000194,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                              \r \r"
+    ],
+    [
+      0.000222,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[1m\u001b[0mbenjica@\u001b[4mgunter\u001b[24m\u003e \u001b[K\u001b[109C\u001b[32m~\u001b[39m\u001b[110D"
+    ],
+    [
+      17.989219,
+      "\r\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[1m\u001b[0mbenjica@\u001b[4mgunter\u001b[24m\u003e \u001b[K\u001b[45C\u001b[32m~\u001b[39m\u001b[46D"
+    ],
+    [
+      12.387022,
+      "\r\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[1m\u001b[0mbenjica@\u001b[4mgunter\u001b[24m\u003e \u001b[K\u001b[109C\u001b[32m~\u001b[39m\u001b[110D"
+    ],
+    [
+      507.844505,
+      "x"
+    ],
+    [
+      2.951453,
+      "\u0008x "
+    ],
+    [
+      0.109772,
+      "s"
+    ],
+    [
+      0.618707,
+      "\u0007e"
+    ],
+    [
+      0.010228,
+      "\u0007"
+    ],
+    [
+      0.234429,
+      "\u0007"
+    ],
+    [
+      0.260565,
+      "\u0008 \u0008"
+    ],
+    [
+      0.117702,
+      "\u0008 \u0008"
+    ],
+    [
+      0.110031,
+      "\u0008"
+    ],
+    [
+      0.102362,
+      "\u0008xs"
+    ],
+    [
+      0.229136,
+      "\u0007"
+    ],
+    [
+      0.000022,
+      "\r\r\n"
+    ],
+    [
+      0.000158,
+      "\u001b[Jxsane                        xscreensaver-getimage        xscreensaver-text            xslt-config\r\nxscreensaver                 xscreensaver-getimage-file   xset                         xsltproc\r\nxscreensaver-command         xscreensaver-getimage-video  xsetbg                       xsubpp\r\nxscreensaver-demo            xscreensaver-gl-helper       xsetroot                     \u001b[4A\u001b[0m\u001b[23m\u001b[24m\u001b[0m\u001b[23m\u001b[24m\r\u001b[16C"
+    ],
+    [
+      0.000016,
+      "xs\u001b[K\u001b[107C\u001b[32m~\u001b[39m\u001b[0m\u001b[23m\u001b[24m\u001b[108D"
+    ],
+    [
+      0.613042,
+      "e"
+    ],
+    [
+      0.177121,
+      "\r\r\n\u001b[J\u001bM\u001b[19Ct"
+    ],
+    [
+      0.579578,
+      " "
+    ],
+    [
+      0.757088,
+      "-"
+    ],
+    [
+      0.099764,
+      "s"
+    ],
+    [
+      0.094652,
+      " "
+    ],
+    [
+      0.113058,
+      "o"
+    ],
+    [
+      0.092141,
+      "f"
+    ],
+    [
+      0.136426,
+      "f"
+    ],
+    [
+      0.077182,
+      "\r\r\n\u001b[J"
+    ],
+    [
+      0.109724,
+      "xset:  unknown option -s\r\n\r\n"
+    ],
+    [
+      0.000036,
+      "usage:  xset [-display host:dpy] option ...\r\n    To turn bell off:\r\n\t-b                b off               b 0\r\n    To set bell volume, pitch and duration:\r\n\t b [vol [pitch [dur]]]          b on\r\n    To disable bug compatibility mode:\r\n\t-bc\r\n    To enable bug compatibility mode:\r\n\tbc\r\n    To turn keyclick off:\r\n\t-c                c off               c 0\r\n    To set keyclick volume:\r\n\t c [0-100]        c on\r\n    To control Energy Star (DPMS) features:\r\n\t-dpms      Energy Star features off\r\n\t+dpms      Energy Star features on\r\n\t dpms [standby [suspend [off]]]     \r\n\t      force standby \r\n\t      force suspend \r\n\t      force off \r\n\t      force on \r\n\t      (also implicitly enables DPMS features) \r\n\t      a timeout value of zero disables the mode \r\n    To set the font path:\r\n\t fp= path[,path...]\r\n    To restore the default font path:\r\n\t fp default\r\n    To have the server reread font databases:\r\n\t fp rehash\r\n    To remove elements from font path:\r\n\t-fp path[,path...]  fp- path[,path...]\r\n    To prepend or append elements to font path:\r\n\t+fp path[,path...]  fp+ path[,path...]\r\n    To set LED states off or on:\r\n\t-led [1-32]         led off\r\n\t led [1-32]         led on\r\n\t-led named 'name'   led off\r\n\t led named 'name'   led on\r\n    To set mouse acceleration and threshold:\r\n\t m [acc_mult[/acc_div] [thr]]    m default\r\n    To set pixel colors:\r\n\t p pixel_value color_name\r\n    To turn auto-repeat off or on:\r\n\t-r [keycode]        r off\r\n\t r [keycode]        r on\r\n\t r rate [delay [rate]]\r\n    For screen-saver control:\r\n\t s [timeout [cycle]]  s default    s on\r\n\t s blank              s noblank    s off\r\n\t s expose             s noexpose\r\n\t s activate           s reset\r\n    For status information:  q\r\n    To print version: -version\r\n"
+    ],
+    [
+      0.000382,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                              \r \r\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[1m\u001b[0mbenjica@\u001b[4mgunter\u001b[24m\u003e \u001b[K\u001b[109C\u001b[32m~\u001b[39m\u001b[110D"
+    ],
+    [
+      1.566592,
+      "xset -s off"
+    ],
+    [
+      0.244413,
+      "\u0008"
+    ],
+    [
+      0.152187,
+      "\u0008"
+    ],
+    [
+      0.118730,
+      "\u0008"
+    ],
+    [
+      0.105891,
+      "\u0008"
+    ],
+    [
+      1.016581,
+      "\u0008"
+    ],
+    [
+      0.332176,
+      "\u0008s off \u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.277432,
+      "\r\r\n"
+    ],
+    [
+      0.003923,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                              \r \r\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[1m\u001b[0mbenjica@\u001b[4mgunter\u001b[24m\u003e \u001b[K\u001b[109C\u001b[32m~\u001b[39m\u001b[110D"
+    ],
+    [
+      1.206579,
+      "x"
+    ],
+    [
+      0.157052,
+      "\u0008xa"
+    ],
+    [
+      0.205176,
+      "\u0007"
+    ],
+    [
+      0.000026,
+      "\r\r\n"
+    ],
+    [
+      0.000084,
+      "\u001b[Jxapian-check             xapian-config            xapian-progsrv           xapian-tcpsrv            xautolock\r\nxapian-chert-update      xapian-inspect           xapian-replicate         xargs                    \r\nxapian-compact           xapian-metadata          xapian-replicate-server  xauth                    \u001bM\u001bM\u001bM\u001b[0m\u001b[23m\u001b[24m\u001b[0m\u001b[23m\u001b[24m\r\u001b[16C"
+    ],
+    [
+      0.000022,
+      "xa\u001b[K\u001b[107C\u001b[32m~\u001b[39m\u001b[0m\u001b[23m\u001b[24m\u001b[108D"
+    ],
+    [
+      0.203317,
+      "u"
+    ],
+    [
+      0.186369,
+      "\r\r\n\u001b[J\u001bM\u001b[19Ct"
+    ],
+    [
+      0.506078,
+      "o"
+    ],
+    [
+      0.116711,
+      "lock\u001b[1m \u001b[0m"
+    ],
+    [
+      0.663772,
+      "\u0008\u001b[0m o"
+    ],
+    [
+      0.299584,
+      "f"
+    ],
+    [
+      0.197919,
+      "f"
+    ],
+    [
+      0.197559,
+      "\r\r\n\u001b[J"
+    ],
+    [
+      0.003572,
+      "\r\nUsage : xautolock [-help][-version][-time mins][-locker locker]\r\n                  [-killtime mins][-killer killer]\r\n"
+    ],
+    [
+      0.000047,
+      "                  [-notify margin][-notifier notifier][-bell percent]\r\n                  [-corners xxxx][-cornerdelay secs]\r\n                  [-cornerredelay secs][-cornersize pixels]\r\n                  [-nocloseout][-nocloseerr][-noclose]\r\n                  [-enable][-disable][-toggle][-exit][-secure]\r\n                  [-locknow][-unlocknow][-nowlocker locker]\r\n                  [-restart][-resetsaver][-detectsleep]\r\n\r\n -help               : print this message and exit.\r\n -version            : print version number and exit.\r\n -time mins          : time before locking the screen"
+    ],
+    [
+      0.000012,
+      " [1 \u003c= mins \u003c= 60].\r\n -locker locker      : program used to lock.\r\n -nowlocker locker   : program used to lock immediately.\r\n"
+    ],
+    [
+      0.000006,
+      " -killtime killmins  : time after locking at which to run\r\n"
+    ],
+    [
+      0.000008,
+      "                       the killer [10 \u003c= killmins \u003c= 120].\r\n"
+    ],
+    [
+      0.000008,
+      " -killer killer      : program used to kill.\r\n"
+    ],
+    [
+      0.000009,
+      " -notify margin      : notify this many seconds before locking.\r\n -notifier notifier  : program used to notify.\r\n"
+    ],
+    [
+      0.000006,
+      " -bell percent       : loudness of notification beeps.\r\n"
+    ],
+    [
+      0.000005,
+      " -corners xxxx       : corner actions (0, +, -) in this order:\r\n"
+    ],
+    [
+      0.000006,
+      "                       topleft topright bottomleft bottomright\r\n"
+    ],
+    [
+      0.000005,
+      " -cornerdelay secs   : time to lock screen in a `+' corner.\r\n"
+    ],
+    [
+      0.000033,
+      " -cornerredelay secs : time to relock screen in a `+' corner.\r\n"
+    ],
+    [
+      0.000021,
+      " -cornersize pixels  : size of corner areas.\r\n -nocloseout         : do not close stdout.\r\n -nocloseerr         : do not close stderr.\r\n -noclose            : close neither stdout nor stderr.\r\n"
+    ],
+    [
+      0.000012,
+      " -enable             : enable a running xautolock.\r\n -disable            : disable a running xautolock.\r\n -toggle             : toggle a running xautolock.\r\n"
+    ],
+    [
+      0.000010,
+      " -locknow            : tell a running xautolock to lock.\r\n -unlocknow          : tell a running xautolock to unlock.\r\n"
+    ],
+    [
+      0.000009,
+      " -restart            : tell a running xautolock to restart.\r\n -exit               : kill a running xautolock.\r\n"
+    ],
+    [
+      0.000008,
+      " -secure             : ignore enable, disable, toggle, locknow\r\n"
+    ],
+    [
+      0.000008,
+      "                       unlocknow, and restart messages.\r\n"
+    ],
+    [
+      0.000008,
+      " -resetsaver         : reset the screensaver when starting the locker.\r\n"
+    ],
+    [
+      0.000010,
+      " -detectsleep        : reset timers when awaking from sleep.\r\n\r\n"
+    ],
+    [
+      0.000007,
+      "Defaults :\r\n"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "  time          : 10 minutes\r\n"
+    ],
+    [
+      0.000009,
+      "  locker        : xlock\r\n  nowlocker     : xlock\r\n"
+    ],
+    [
+      0.000007,
+      "  killtime      : 20 minutes\r\n"
+    ],
+    [
+      0.000008,
+      "  killer        : none\r\n"
+    ],
+    [
+      0.000007,
+      "  notify        : don't notify\r\n"
+    ],
+    [
+      0.000007,
+      "  notifier      : none\r\n"
+    ],
+    [
+      0.000007,
+      "  bell          : 40%\r\n"
+    ],
+    [
+      0.000007,
+      "  corners       : 0000\r\n"
+    ],
+    [
+      0.000009,
+      "  cornerdelay   : 5 seconds\r\n  cornerredelay : 5 seconds\r\n"
+    ],
+    [
+      0.000007,
+      "  cornersize    : 10 pixels\r\n"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "Version : 2.2\r\n"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000433,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                              \r \r"
+    ],
+    [
+      0.000131,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[1m[1] \u001b[0mbenjica@\u001b[4mgunter\u001b[24m\u003e "
+    ],
+    [
+      0.000021,
+      "\u001b[K\u001b[105C\u001b[32m~\u001b[39m\u001b[106D"
+    ],
+    [
+      0.730883,
+      "xautolock off"
+    ],
+    [
+      0.301002,
+      "\u0008 \u0008"
+    ],
+    [
+      0.126874,
+      "\u0008 \u0008"
+    ],
+    [
+      0.096432,
+      "\u0008 \u0008"
+    ],
+    [
+      0.219939,
+      "t"
+    ],
+    [
+      0.115403,
+      "o"
+    ],
+    [
+      0.124783,
+      "g"
+    ],
+    [
+      0.125649,
+      "g"
+    ],
+    [
+      0.107360,
+      "l"
+    ],
+    [
+      0.143357,
+      "e"
+    ],
+    [
+      0.108871,
+      "\r\r\n"
+    ],
+    [
+      0.001764,
+      "\r\nUsage : xautolock [-help][-version][-time mins][-locker locker]\r\n                  [-killtime mins][-killer killer]\r\n                  [-notify margin][-notifier notifier][-bell percent]\r\n                  [-corners xxxx][-cornerdelay secs]\r\n                  [-cornerredelay secs][-cornersize pixels]\r\n                  [-nocloseout][-nocloseerr][-noclose]\r\n                  [-enable][-disable][-toggle][-exit][-secure]\r\n                  [-locknow][-unlocknow][-nowlocker locker]\r\n                  [-restart][-resetsaver][-detectsleep]\r\n\r\n -help               : print this message and exit.\r\n -version            : print version number and exit.\r\n -time mins          : time before locking the screen [1 \u003c= mins \u003c= 60].\r\n -locker locker      : program used to lock.\r\n -nowlocker locker   : program used to lock immediately.\r\n -killtime killmins  : time after locking at which to run\r\n                       the killer [10 \u003c= killmins \u003c= 120].\r\n -killer killer      : program used to kill.\r\n -notify margin      : notify this many seconds before locking.\r\n -notifier notifier  : program used to notify.\r\n -bell percent       : loudness of notification beeps.\r\n -corners xxxx       : corner actions (0, +, -) in this order:\r\n                       topleft topright bottomleft bottomright\r\n -cornerdelay secs   : time to lock screen in a `+' corner.\r\n -cornerredelay secs : time to relock screen in a `+' corner.\r\n -cornersize pixels  : size of corner areas.\r\n -nocloseout         : do not close stdout.\r\n -nocloseerr         : do not close stderr.\r\n -noclose            : close neither stdout nor stderr.\r\n -enable             : enable a running xautolock.\r\n -disable            : disable a running xautolock.\r\n -toggle             : toggle a running xautolock.\r\n -locknow            : tell a running xautolock to lock.\r\n -unlocknow          : tell a running xautolock to unlock.\r\n -restart            : tell a running xautolock to restart.\r\n -exit               : kill a running xautolock.\r\n -secure             : ignore enable, disable, toggle, locknow\r\n                       unlocknow, and restart messages.\r\n -resetsaver         : reset the screensaver when starting the locker.\r\n -detectsleep        : reset timers when awaking from sleep.\r\n\r\nDefaults :\r\n\r\n  time          : 10 minutes\r\n  locker        : xlock\r\n  nowlocker     : xlock\r\n  killtime      : 20 minutes\r\n  killer        : none\r\n  notify        : don't notify\r\n  notifier      : none\r\n  bell          : 40%\r\n  corners       : 0000\r\n  cornerdelay   : 5 seconds\r\n  cornerredelay : 5 seconds\r\n  cornersize    : 10 pixels\r\n\r\nVersion : 2.2\r\n\r\n"
+    ],
+    [
+      0.000163,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                              \r \r\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[1m[1] \u001b[0mbenjica@\u001b[4mgunter\u001b[24m\u003e \u001b[K\u001b[105C\u001b[32m~\u001b[39m\u001b[106D"
+    ],
+    [
+      3.930657,
+      "c"
+    ],
+    [
+      0.142537,
+      "\u0008cl"
+    ],
+    [
+      0.085212,
+      "e"
+    ],
+    [
+      0.122815,
+      "a"
+    ],
+    [
+      0.119451,
+      "r"
+    ],
+    [
+      0.134373,
+      "\r\r\n"
+    ],
+    [
+      0.000990,
+      "\u001b[H\u001b[J"
+    ],
+    [
+      0.000190,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                              \r \r\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[1m\u001b[0mbenjica@\u001b[4mgunter\u001b[24m\u003e \u001b[K\u001b[109C\u001b[32m~\u001b[39m\u001b[110D"
+    ],
+    [
+      101.399300,
+      "l"
+    ],
+    [
+      0.077902,
+      "\u0008ls"
+    ],
+    [
+      0.144184,
+      "\r\r\n"
+    ],
+    [
+      0.001724,
+      "1427221469.png\tbeamer.Rmd  Documents\tIdeaProjects  Music\t\tScreenshots  test.Rmd\r\n1427255457.png\tBooks\t    Downloads\tirclogs       octave-workspace\tSource\t     Videos\r\nanaconda\tComics\t    Games\tLibrary       Pictures\t\tSteam\t     VirtualMachines\r\nbeamer.pdf\tDesktop     gpg.tar.gz\tMail\t      R\t\t\ttest.pdf     workspace\r\n"
+    ],
+    [
+      0.000287,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                              \r \r\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[1m\u001b[0mbenjica@\u001b[4mgunter\u001b[24m\u003e \u001b[K\u001b[109C\u001b[32m~\u001b[39m\u001b[110D"
+    ],
+    [
+      0.828172,
+      "c"
+    ],
+    [
+      0.143518,
+      "\u0008cd"
+    ],
+    [
+      0.074352,
+      " "
+    ],
+    [
+      0.313898,
+      "c"
+    ],
+    [
+      0.498001,
+      "\u0008 \u0008"
+    ],
+    [
+      0.435424,
+      "S"
+    ],
+    [
+      0.150083,
+      "o"
+    ],
+    [
+      0.069890,
+      "u"
+    ],
+    [
+      0.096257,
+      "rce\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.713305,
+      "\u0008\u001b[0m/c"
+    ],
+    [
+      0.909633,
+      "s"
+    ],
+    [
+      0.185341,
+      "ci"
+    ],
+    [
+      0.474848,
+      "-"
+    ],
+    [
+      0.275745,
+      "git-seminar"
+    ],
+    [
+      1.081886,
+      "/"
+    ],
+    [
+      0.657524,
+      "\r\r\n"
+    ],
+    [
+      0.011980,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                              \r \r"
+    ],
+    [
+      0.000036,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[1m\u001b[0mbenjica@\u001b[4mgunter\u001b[24m\u003e "
+    ],
+    [
+      0.000008,
+      "\u001b[K\u001b[85C\u001b[32m~/Source/csci-git-seminar\u001b[39m\u001b[110D"
+    ],
+    [
+      0.201419,
+      "l"
+    ],
+    [
+      0.096248,
+      "\u0008ls"
+    ],
+    [
+      0.573448,
+      " "
+    ],
+    [
+      0.129760,
+      "-"
+    ],
+    [
+      0.191133,
+      "l"
+    ],
+    [
+      0.073933,
+      "a"
+    ],
+    [
+      0.112414,
+      "h"
+    ],
+    [
+      0.193418,
+      "\r\r\n"
+    ],
+    [
+      0.002986,
+      "total 112K\r\n"
+    ],
+    [
+      0.000045,
+      "drwxr-xr-x  6 benjica benjica 4.0K Mar 19 11:57 .\r\n"
+    ],
+    [
+      0.000013,
+      "drwxr-xr-x 62 benjica benjica 4.0K Mar 23 09:52 ..\r\n"
+    ],
+    [
+      0.000010,
+      "drwxr-xr-x  9 benjica benjica 4.0K Mar 19 11:57 .git\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r--  1 benjica benjica   55 Feb 12 08:12 .gitignore\r\n"
+    ],
+    [
+      0.000013,
+      "-rw-r--r--  1 benjica benjica   86 Feb 12 08:12 .gitmodules\r\n"
+    ],
+    [
+      0.000008,
+      "drwxr-xr-x  2 benjica benjica 4.0K Mar 12 19:57 images\r\n"
+    ],
+    [
+      0.000007,
+      "-rw-r--r--  1 benjica benjica 6.5K Feb 12 08:11 LICENSE\r\n"
+    ],
+    [
+      0.000010,
+      "drwxr-xr-x  2 benjica benjica 4.0K Mar 19 11:57 notes\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r--  1 benjica benjica 1.4K Mar 19 11:57 README.md\r\n"
+    ],
+    [
+      0.000009,
+      "drwxr-xr-x  8 benjica benjica 4.0K Jan 21 11:06 reveal.js\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r--  1 benjica benjica 2.8K Feb 12 08:12 syllabus.md\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r--  1 benjica benjica 6.8K Jan 28 23:58 week1.html\r\n"
+    ],
+    [
+      0.000012,
+      "-rw-r--r--  1 benjica benjica 5.8K Feb  4 22:57 week2.html\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r--  1 benjica benjica  15K Feb  9 11:52 week2.shell.txt\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r--  1 benjica benjica 5.4K Feb 12 08:06 week3.html\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r--  1 benjica benjica 5.6K Feb 18 23:46 week4.html\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r--  1 benjica benjica 5.4K Mar 11 21:58 week7.html\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r--  1 benjica benjica 6.8K Mar 19 11:08 week8.html\r\n"
+    ],
+    [
+      0.000157,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                              \r \r"
+    ],
+    [
+      0.000058,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[1m\u001b[0mbenjica@\u001b[4mgunter\u001b[24m\u003e "
+    ],
+    [
+      0.000012,
+      "\u001b[K\u001b[85C\u001b[32m~/Source/csci-git-seminar\u001b[39m\u001b[110D"
+    ],
+    [
+      9.969950,
+      "c"
+    ],
+    [
+      0.197585,
+      "\u0008cd"
+    ],
+    [
+      0.038952,
+      " "
+    ],
+    [
+      0.128350,
+      "."
+    ],
+    [
+      0.142068,
+      "g"
+    ],
+    [
+      0.077844,
+      "i"
+    ],
+    [
+      0.085490,
+      "t\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.216301,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000006,
+      "\r\r\n"
+    ],
+    [
+      0.240161,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                              \r \r"
+    ],
+    [
+      0.000036,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[1m\u001b[0mbenjica@\u001b[4mgunter\u001b[24m\u003e "
+    ],
+    [
+      0.000009,
+      "\u001b[K\u001b[80C\u001b[32m~/Source/csci-git-seminar/.git\u001b[39m\u001b[110D"
+    ],
+    [
+      1.001878,
+      "l"
+    ],
+    [
+      0.129608,
+      "\u0008ls"
+    ],
+    [
+      0.135254,
+      "\r\r\n"
+    ],
+    [
+      0.002623,
+      "branches  COMMIT_EDITMSG  config  description  FETCH_HEAD  HEAD  hooks\tindex  info  logs  modules  objects  ORIG_HEAD\trefs\r\n"
+    ],
+    [
+      0.000363,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                              \r \r"
+    ],
+    [
+      0.000191,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[1m\u001b[0mbenjica@\u001b[4mgunter\u001b[24m\u003e "
+    ],
+    [
+      0.000038,
+      "\u001b[K\u001b[80C\u001b[32m~/Source/csci-git-seminar/.git\u001b[39m\u001b[110D"
+    ],
+    [
+      3.246648,
+      "v"
+    ],
+    [
+      0.069380,
+      "\u0008vi"
+    ],
+    [
+      0.126833,
+      "m"
+    ],
+    [
+      0.063693,
+      " "
+    ],
+    [
+      0.159500,
+      "\u0007"
+    ],
+    [
+      0.000007,
+      "\r\r\n"
+    ],
+    [
+      0.000032,
+      "\u001b[Jbranches/       config          FETCH_HEAD      hooks/          info/           modules/        ORIG_HEAD\r\nCOMMIT_EDITMSG  description     HEAD            index           logs/           objects/        refs/\u001bM\u001bM\u001b[0m\u001b[23m\u001b[24m\u001b[0m\u001b[23m\u001b[24m\r\u001b[16C"
+    ],
+    [
+      0.000019,
+      "vim\u001b[K\u001b[77C\u001b[32m~/Source/csci-git-seminar/.git\u001b[39m\u001b[0m\u001b[23m\u001b[24m\u001b[106D"
+    ],
+    [
+      0.258507,
+      "f"
+    ],
+    [
+      0.368926,
+      "\u0008 \u0008"
+    ],
+    [
+      0.053784,
+      "r"
+    ],
+    [
+      0.080689,
+      "efs\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.334152,
+      "\u0007"
+    ],
+    [
+      0.000007,
+      "\u0008\u001b[0m/"
+    ],
+    [
+      0.000004,
+      "\r\r\n\u001b[J"
+    ],
+    [
+      0.000063,
+      "\u001b[Jheads/    remotes/  tags/\u001bM\u001b[0m\u001b[23m\u001b[24m\u001b[0m\u001b[23m\u001b[24m\r\u001b[16C"
+    ],
+    [
+      0.000005,
+      "vim refs/\u001b[K\u001b[71C\u001b[32m~/Source/csci-git-seminar/.git\u001b[39m\u001b[0m\u001b[23m\u001b[24m\u001b[101D"
+    ],
+    [
+      0.139405,
+      "\u0007"
+    ],
+    [
+      0.000005,
+      "heads\u001b[1m/\u001b[0m"
+    ],
+    [
+      1.099932,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.338305,
+      "\u0008 \u0008"
+    ],
+    [
+      0.173716,
+      "\u0008 \u0008"
+    ],
+    [
+      0.141500,
+      "\u0008 \u0008"
+    ],
+    [
+      0.137677,
+      "\u0008 \u0008"
+    ],
+    [
+      0.142869,
+      "\u0008 \u0008"
+    ],
+    [
+      10.540818,
+      "r"
+    ],
+    [
+      0.064207,
+      "e"
+    ],
+    [
+      0.119111,
+      "motes\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.413769,
+      "\u0007\u0008\u001b[0m/"
+    ],
+    [
+      0.000012,
+      "\r\r\n\u001b[J"
+    ],
+    [
+      0.000008,
+      "\u001b[Jhttp_origin/  origin/\u001bM\u001b[0m\u001b[23m\u001b[24m\u001b[0m\u001b[23m\u001b[24m\r\u001b[16C"
+    ],
+    [
+      0.000039,
+      "vim refs/remotes/\u001b[K\u001b[63C\u001b[32m~/Source/csci-git-seminar/.git\u001b[39m\u001b[0m\u001b[23m\u001b[24m\u001b[93D"
+    ],
+    [
+      0.130152,
+      "\u0007"
+    ],
+    [
+      0.000042,
+      "http_origin\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.494315,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.143690,
+      "\u0008 \u0008"
+    ],
+    [
+      0.130213,
+      "\u0008 \u0008"
+    ],
+    [
+      0.078351,
+      "\u0008 \u0008"
+    ],
+    [
+      0.113033,
+      "\u0008 \u0008"
+    ],
+    [
+      0.113714,
+      "\u0008 \u0008"
+    ],
+    [
+      0.130224,
+      "\u0008 \u0008"
+    ],
+    [
+      0.082275,
+      "\u0008 \u0008"
+    ],
+    [
+      0.110319,
+      "\u0008 \u0008"
+    ],
+    [
+      0.103860,
+      "\u0008 \u0008"
+    ],
+    [
+      0.114086,
+      "\u0008 \u0008"
+    ],
+    [
+      0.105236,
+      "\u0008 \u0008"
+    ],
+    [
+      0.303207,
+      "\u0007"
+    ],
+    [
+      0.000004,
+      "\r\r\n\u001b[J"
+    ],
+    [
+      0.000022,
+      "\u001b[Jhttp_origin/  origin/\u001bM\u001b[0m\u001b[23m\u001b[24m\u001b[0m\u001b[23m\u001b[24m\r\u001b[16C"
+    ],
+    [
+      0.000003,
+      "vim refs/remotes/\u001b[K\u001b[63C\u001b[32m~/Source/csci-git-seminar/.git\u001b[39m\u001b[0m\u001b[23m\u001b[24m\u001b[93D"
+    ],
+    [
+      0.401965,
+      "\u0007"
+    ],
+    [
+      0.000005,
+      "http_origin\u001b[1m/\u001b[0m"
+    ],
+    [
+      21.196800,
+      "\u001b[12Dorigin\u001b[1m/\u001b[0m    \u001b[0m \u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.340019,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008http_o\u001b[0mrigin\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.541307,
+      "\u001b[12Dorigin\u001b[1m/\u001b[0m    \u001b[0m \u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.318190,
+      "\u0008\u001b[0m/"
+    ],
+    [
+      0.181593,
+      "master\u001b[1m \u001b[0m"
+    ],
+    [
+      1.215842,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000025,
+      "\r\r\n\u001b[J"
+    ],
+    [
+      2.789792,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.022615,
+      "\u001b[1;34r\u001b[34l\u001b[34h\u001b[?25h\u001b[23m\u001b[24m\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[?25l\u001b[34;1H\"refs/remotes/origin/master\"                                                                                                   "
+    ],
+    [
+      0.008450,
+      "\u001b[34;30H1L, 41C"
+    ],
+    [
+      0.182552,
+      "\u001b[1;1H\u001b[38;5;237m  1 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;167m5dcd90636103cf976cfdc54d3b6637a304207498\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                   \u001b[2;1H\u001b[38;5;237m~                                                                                                                              \u001b[3;1H~                                                                                                                              \u001b[4;1H~                                                                                                                              \u001b[5;1H~                                                                                                                              \u001b[6;1H~                                                                                                                              \u001b[7;1H~                                                                                                                              \u001b[8;1H~                                                                                                                              \u001b[9;1H~                                                                                                                              \u001b[10;1H~                                                                                                                              \u001b[11;1H~                                                                                                                              \u001b[12;1H~                                                                                                                              \u001b[13;1H~                                                                                                                              \u001b[14;1H~                                                                                                                              \u001b[15;1H~                                                                                         "
+    ],
+    [
+      0.000049,
+      "                                     \u001b[16;1H~                                                                                                                              \u001b[17;1H~                                                                                                                              \u001b[18;1H~                                                                                                                              \u001b[19;1H~                                                                                                                              \u001b[20;1H~                                                                                                                              \u001b[21;1H~                                                                                                                              \u001b[22;1H~                                                                                                                              \u001b[23;1H~                                                                                                                              \u001b[24;1H~                                                                                                                              \u001b[25;1H~                                                                                                                              \u001b[26;1H~                                                                                                                              \u001b[27;1H~                                                                                                                              \u001b[28;1H~                                                                                                                              \u001b[29;1H~                                                                                                                              \u001b[30;1H~                                                                                                                              "
+    ],
+    [
+      0.000551,
+      "\u001b[31;1H~                                                                                                                              \u001b[32;1H~                                                                                                                              \u001b[33;1H~                                                                                                                              \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H1,1\u001b[11CAll\u001b[1;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      8.124685,
+      "\u001b[?25l\u001b[34;1H                                    \u001b[73C   \u001b[11C   \r:\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.413076,
+      "q\u001b[?25l\u001b[34h\u001b[?25h"
+    ],
+    [
+      1.955139,
+      "\r"
+    ],
+    [
+      0.000491,
+      "\u001b[?25l"
+    ],
+    [
+      0.001629,
+      "\u001b[34;1H\u001b[K\u001b[34;1H\u001b[?1l\u001b\u003e\u001b[34h\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.109012,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                              \r \r\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[1m\u001b[0mbenjica@\u001b[4mgunter\u001b[24m\u003e \u001b[K\u001b[80C\u001b[32m~/Source/csci-git-seminar/.git\u001b[39m\u001b[110D"
+    ],
+    [
+      1.441433,
+      "v"
+    ],
+    [
+      0.061674,
+      "\u0008vi"
+    ],
+    [
+      0.196851,
+      "m"
+    ],
+    [
+      0.126276,
+      " "
+    ],
+    [
+      0.409750,
+      "c"
+    ],
+    [
+      0.103507,
+      "o"
+    ],
+    [
+      0.074924,
+      "n"
+    ],
+    [
+      0.109640,
+      "fig\u001b[1m \u001b[0m"
+    ],
+    [
+      1.024962,
+      "\u0008\u001b[0m \u0008\r\r\n"
+    ],
+    [
+      0.139466,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.099610,
+      "\u001b[1;34r\u001b[34l\u001b[34h\u001b[?25h\u001b[23m\u001b[24m\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[?25l\u001b[34;1H\"config\"                                                                                                                       "
+    ],
+    [
+      0.005372,
+      "\u001b[34;10H24L, 756C"
+    ],
+    [
+      0.053870,
+      "\u001b[1;1H\u001b[38;5;237m  1 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172m\u001b[48;5;237m[\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172mcore\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172m\u001b[48;5;237m]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                                     \u001b[2;1H\u001b[38;5;237m  2 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mrepositoryformatversion\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = \u001b[38;5;172m0\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                            \u001b[3;1H\u001b[38;5;237m  3 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mfilemode\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = \u001b[38;5;172mtrue\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                        \u001b[4;1H\u001b[38;5;237m  4 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mbare\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = \u001b[38;5;172mfalse\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                           \u001b[5;1H\u001b[38;5;237m  5 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mlogallrefupdates\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = \u001b[38;5;172mtrue\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                \u001b[6;1H\u001b[38;5;237m  6 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mdifftool\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = vimdiff                                                                                                     \u001b[7;1H\u001b[38;5;237m  7 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172m[submodule \"reveal.js\"]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                    \u001b[8;1H\u001b[38;5;237m  8 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167murl\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = https://github.com/hakimel/reveal.js                                                                             \u001b[9;1H\u001b[38;5;237m  9 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172m[remote \"origin\"]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                      "
+    ],
+    [
+      0.000490,
+      "                                    \u001b[10;1H\u001b[38;5;237m 10 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167murl\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = git@github.com:benjic/csci-git-seminar.git                                                                       \u001b[11;1H\u001b[38;5;237m 11 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mfetch\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = +refs/heads/*:refs/remotes/origin/*                                                                            \u001b[12;1H\u001b[38;5;237m 12 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172m[branch \"master\"]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                          \u001b[13;1H\u001b[38;5;237m 13 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mremote\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = origin                                                                                                        \u001b[14;1H\u001b[38;5;237m 14 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mmerge\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = refs/heads/master                                                                                              \u001b[15;1H\u001b[38;5;237m 15 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172m[user]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                                     \u001b[16;1H\u001b[38;5;237m 16 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167memail\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = benjamin.campbell@umconnec.umt.edu                                                                             \u001b[17;1H\u001b[38;5;237m 17 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172m[remote \"http_origin\"]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                     \u001b[18;1H\u001b[38;5;237m 18 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167murl\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = https://github.com/benjic/csci-git-seminar.git                                                                   \u001b[19;1H\u001b[38;5;237m 19 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mpushurl\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = git@github.com:benjic/csic-git-seminar.git                  "
+    ],
+    [
+      0.000372,
+      "                                                 \u001b[20;1H\u001b[38;5;237m 20 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mfetch\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = +refs/heads/master:refs/remotes/http_origin/master                                                             \u001b[21;1H\u001b[38;5;237m 21 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mfetch\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = +refs/heads/benjic-patch-\u001b[38;5;172m1\u001b[0m\u001b[38;5;254m\u001b[48;5;16m:refs/remotes/http_origin/benjic-patch-\u001b[38;5;172m1\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                             \u001b[22;1H\u001b[38;5;237m 22 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172m[branch \"benjic-patch-1\"]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                  \u001b[23;1H\u001b[38;5;237m 23 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mremote\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = http_origin                                                                                                   \u001b[24;1H\u001b[38;5;237m 24 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mmerge\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = refs/heads/benjic-patch-\u001b[38;5;172m1\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                      \u001b[25;1H\u001b[38;5;237m~                                                                                                                              \u001b[26;1H~                                                                                                                              \u001b[27;1H~                                                                                                                              \u001b[28;1H~                                                                                                                              \u001b[29;1H~                                                                                                                              \u001b[30;1H~                                                                                                                              \u001b[31;1H~                                     "
+    ],
+    [
+      0.000590,
+      "                                                                                         \u001b[32;1H~                                                                                                                              \u001b[33;1H~                                                                                                                              \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H1,1\u001b[11CAll\u001b[1;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.614765,
+      "\u001b[?25l\u001b[38;5;172m[core]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H2,1-4\u001b[2;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.193535,
+      "\u001b[?25l\u001b[34;110H3\u001b[3;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.152913,
+      "\u001b[?25l\u001b[34;110H4\u001b[4;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.123604,
+      "\u001b[?25l\u001b[34;110H5\u001b[5;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.111863,
+      "\u001b[?25l\u001b[34;110H6\u001b[6;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.110131,
+      "\u001b[?25l\u001b[7;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[21C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H7,1  \u001b[7;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.104512,
+      "\u001b[?25l\u001b[38;5;172m[\u001b[21C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H8,1-4\u001b[8;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.167951,
+      "\u001b[?25l\u001b[9;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[15C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H9,1  \u001b[9;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      39.180262,
+      "\u001b[?25l\u001b[38;5;172m[\u001b[15C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H10,1-4\u001b[10;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.136052,
+      "\u001b[?25l\u001b[34;111H1\u001b[11;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.117343,
+      "\u001b[?25l\u001b[12;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[15C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H2,1  \u001b[12;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.088207,
+      "\u001b[?25l\u001b[38;5;172m[\u001b[15C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H3,1-4\u001b[13;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.100432,
+      "\u001b[?25l\u001b[34;111H4\u001b[14;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.108148,
+      "\u001b[?25l\u001b[15;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[4C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H5,1  \u001b[15;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.077915,
+      "\u001b[?25l\u001b[38;5;172m[user]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H6,1-4\u001b[16;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.107637,
+      "\u001b[?25l\u001b[17;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[20C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H7,1  \u001b[17;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.069607,
+      "\u001b[?25l\u001b[38;5;172m[\u001b[20C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H8,1-4\u001b[18;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.110596,
+      "\u001b[?25l\u001b[34;111H9\u001b[19;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.110856,
+      "\u001b[?25l\u001b[34;110H20\u001b[20;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      2.686621,
+      "\u001b[?25l\u001b[34;111H1\u001b[21;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.150004,
+      "\u001b[?25l\u001b[34;111H0\u001b[20;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.123519,
+      "\u001b[?25l\u001b[34;110H19\u001b[19;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.120145,
+      "\u001b[?25l\u001b[34;111H8\u001b[18;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.078448,
+      "\u001b[?25l\u001b[17;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[20C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H7,1  \u001b[17;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.136370,
+      "\u001b[?25l\u001b[38;5;172m[\u001b[20C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H6,1-4\u001b[16;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.105229,
+      "\u001b[?25l\u001b[15;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[4C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H5,1  \u001b[15;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.161952,
+      "\u001b[?25l\u001b[38;5;172m[user]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H4,1-4\u001b[14;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.141016,
+      "\u001b[?25l\u001b[34;111H3\u001b[13;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.101832,
+      "\u001b[?25l\u001b[12;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[15C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H2,1  \u001b[12;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.193264,
+      "\u001b[?25l\u001b[38;5;172m[\u001b[15C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H1,1-4\u001b[11;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      4.543112,
+      "\u001b[?25l\u001b[12;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[15C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H2,1  \u001b[12;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.146643,
+      "\u001b[?25l\u001b[38;5;172m[\u001b[15C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H3,1-4\u001b[13;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.096767,
+      "\u001b[?25l\u001b[34;111H4\u001b[14;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.143068,
+      "\u001b[?25l\u001b[15;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[4C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H5,1  \u001b[15;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.123810,
+      "\u001b[?25l\u001b[38;5;172m[user]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H6,1-4\u001b[16;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      14.390061,
+      "\u001b[?25l\u001b[17;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[20C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H7,1  \u001b[17;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.118367,
+      "\u001b[?25l\u001b[38;5;172m[\u001b[20C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H8,1-4\u001b[18;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.116033,
+      "\u001b[?25l\u001b[34;111H9\u001b[19;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.130134,
+      "\u001b[?25l\u001b[34;110H20\u001b[20;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      1.630845,
+      "\u001b[?25l\u001b[34;111H1\u001b[21;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.289565,
+      "\u001b[?25l\u001b[34;111H0\u001b[20;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.153180,
+      "\u001b[?25l\u001b[34;110H19\u001b[19;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.267487,
+      "\u001b[?25l\u001b[34;110H20\u001b[20;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.154583,
+      "\u001b[?25l\u001b[34;111H1\u001b[21;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      34.879305,
+      "\u001b[?25l\u001b[34;1H                  \u001b[91C      \u001b[8C   \r:\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.433938,
+      "q\u001b[?25l\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.328437,
+      "\r"
+    ],
+    [
+      0.000630,
+      "\u001b[?25l"
+    ],
+    [
+      0.004822,
+      "\u001b[34;1H\u001b[K\u001b[34;1H\u001b[?1l\u001b\u003e\u001b[34h\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.000444,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                              \r \r\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[1m\u001b[0mbenjica@\u001b[4mgunter\u001b[24m\u003e \u001b[K\u001b[80C\u001b[32m~/Source/csci-git-seminar/.git\u001b[39m\u001b[110D"
+    ],
+    [
+      0.957356,
+      "l"
+    ],
+    [
+      0.077923,
+      "\u0008ls"
+    ],
+    [
+      0.143365,
+      "\r\r\n"
+    ],
+    [
+      0.001741,
+      "branches  COMMIT_EDITMSG  config  description  FETCH_HEAD  HEAD  hooks\tindex  info  logs  modules  objects  ORIG_HEAD\trefs\r\n"
+    ],
+    [
+      0.000837,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                              \r \r\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[1m\u001b[0mbenjica@\u001b[4mgunter\u001b[24m\u003e \u001b[K\u001b[80C\u001b[32m~/Source/csci-git-seminar/.git\u001b[39m\u001b[110D"
+    ],
+    [
+      0.419238,
+      "c"
+    ],
+    [
+      0.164815,
+      "\u0008cd"
+    ],
+    [
+      0.078252,
+      " "
+    ],
+    [
+      0.116592,
+      "."
+    ],
+    [
+      0.134488,
+      "."
+    ],
+    [
+      0.199826,
+      "\r\r\n"
+    ],
+    [
+      0.011618,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                              \r \r"
+    ],
+    [
+      0.000028,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[1m\u001b[0mbenjica@\u001b[4mgunter\u001b[24m\u003e "
+    ],
+    [
+      0.000009,
+      "\u001b[K\u001b[85C\u001b[32m~/Source/csci-git-seminar\u001b[39m\u001b[110D"
+    ],
+    [
+      0.178085,
+      "l"
+    ],
+    [
+      0.102824,
+      "\u0008ls"
+    ],
+    [
+      0.108429,
+      "\r\r\n"
+    ],
+    [
+      0.001313,
+      "images\t notes\t    reveal.js\t week1.html  week2.shell.txt  week4.html  week8.html\r\nLICENSE  README.md  syllabus.md  week2.html  week3.html       week7.html\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                              \r \r"
+    ],
+    [
+      0.000062,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[1m\u001b[0mbenjica@\u001b[4mgunter\u001b[24m\u003e "
+    ],
+    [
+      0.000013,
+      "\u001b[K\u001b[85C\u001b[32m~/Source/csci-git-seminar\u001b[39m\u001b[110D"
+    ],
+    [
+      4.157187,
+      "g"
+    ],
+    [
+      0.079714,
+      "\u0008gi"
+    ],
+    [
+      0.106011,
+      "t"
+    ],
+    [
+      0.053788,
+      " "
+    ],
+    [
+      0.143289,
+      "f"
+    ],
+    [
+      0.192956,
+      "e"
+    ],
+    [
+      1.025339,
+      "\u0008 \u0008"
+    ],
+    [
+      0.149091,
+      "\u0008 \u0008"
+    ],
+    [
+      0.873819,
+      "r"
+    ],
+    [
+      0.047750,
+      "e"
+    ],
+    [
+      0.064584,
+      "m"
+    ],
+    [
+      0.060290,
+      "o"
+    ],
+    [
+      0.391681,
+      "te\u001b[1m \u001b[0m"
+    ],
+    [
+      1.096939,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.144017,
+      "\u0008 \u0008"
+    ],
+    [
+      0.224905,
+      "\u0008 \u0008"
+    ],
+    [
+      0.119573,
+      "\u0008 \u0008"
+    ],
+    [
+      0.116556,
+      "\u0008 \u0008"
+    ],
+    [
+      0.099367,
+      "\u0008 \u0008"
+    ],
+    [
+      0.133005,
+      "\u0008 \u0008"
+    ],
+    [
+      0.487464,
+      "f"
+    ],
+    [
+      0.103946,
+      "e"
+    ],
+    [
+      0.227268,
+      "t"
+    ],
+    [
+      0.222419,
+      "c"
+    ],
+    [
+      0.113209,
+      "h"
+    ],
+    [
+      0.099179,
+      " "
+    ],
+    [
+      0.557796,
+      "h"
+    ],
+    [
+      0.440168,
+      "\u0007"
+    ],
+    [
+      0.000502,
+      "\r\r\n"
+    ],
+    [
+      0.000004,
+      "zsh: do you wish to see all 154 possibilities (52 lines)? "
+    ],
+    [
+      0.387767,
+      "t\r\u001b[J\u001bM\u001b[0m\u001b[23m\u001b[24m\u001b[0m\u001b[23m\u001b[24m\r\u001b[16C"
+    ],
+    [
+      0.000007,
+      "git fetch h\u001b[K\u001b[74C\u001b[32m~/Source/csci-git-seminar\u001b[39m\u001b[0m\u001b[23m\u001b[24m\u001b[99D"
+    ],
+    [
+      0.436412,
+      "t"
+    ],
+    [
+      0.145825,
+      "\u0007"
+    ],
+    [
+      0.000006,
+      "\r\r\n\u001b[J"
+    ],
+    [
+      0.000037,
+      "\u001b[Jhtm.freelogs.com             htmlwww.youfck.com           httpads.com                  \r\nhtmlads.ru                   http300.content.ru4.com      http_origin                  \r\nhtml.centralmediaserver.com  http300.edge.ru4.com         httpwwwadserver.com          \u001bM\u001bM\u001bM\u001b[0m\u001b[23m\u001b[24m\u001b[0m\u001b[23m\u001b[24m\r\u001b[16C"
+    ],
+    [
+      0.000005,
+      "git fetch ht\u001b[K\u001b[73C\u001b[32m~/Source/csci-git-seminar\u001b[39m\u001b[0m\u001b[23m\u001b[24m\u001b[98D"
+    ],
+    [
+      0.664725,
+      "t"
+    ],
+    [
+      0.580508,
+      "\r\r\n\u001b[J\u001bM\u001b[29Cp"
+    ],
+    [
+      0.700385,
+      "_"
+    ],
+    [
+      0.289853,
+      "o"
+    ],
+    [
+      0.252524,
+      "rigin\u001b[1m \u001b[0m"
+    ],
+    [
+      3.218022,
+      "\u0008\u001b[0m f"
+    ],
+    [
+      0.093032,
+      "a"
+    ],
+    [
+      0.089113,
+      "k"
+    ],
+    [
+      0.073452,
+      "e"
+    ],
+    [
+      0.198414,
+      "_"
+    ],
+    [
+      0.266411,
+      "m"
+    ],
+    [
+      0.091376,
+      "a"
+    ],
+    [
+      0.083842,
+      "s"
+    ],
+    [
+      0.181807,
+      "t"
+    ],
+    [
+      0.082228,
+      "e"
+    ],
+    [
+      0.103259,
+      "r"
+    ],
+    [
+      0.229216,
+      ":"
+    ],
+    [
+      0.928183,
+      "\u0008 \u0008"
+    ],
+    [
+      0.143678,
+      "\u0008 \u0008"
+    ],
+    [
+      0.109564,
+      "\u0008 \u0008"
+    ],
+    [
+      0.101009,
+      "\u0008 \u0008"
+    ],
+    [
+      0.093484,
+      "\u0008 \u0008"
+    ],
+    [
+      0.100597,
+      "\u0008 \u0008"
+    ],
+    [
+      0.101104,
+      "\u0008 \u0008"
+    ],
+    [
+      0.218040,
+      "\u0008 \u0008"
+    ],
+    [
+      0.115964,
+      "\u0008 \u0008"
+    ],
+    [
+      0.108801,
+      "\u0008 \u0008"
+    ],
+    [
+      0.113519,
+      "\u0008 \u0008"
+    ],
+    [
+      0.115757,
+      "\u0008 \u0008"
+    ],
+    [
+      0.211336,
+      "m"
+    ],
+    [
+      0.096220,
+      "a"
+    ],
+    [
+      0.086348,
+      "s"
+    ],
+    [
+      0.163876,
+      "t"
+    ],
+    [
+      0.075619,
+      "e"
+    ],
+    [
+      0.077996,
+      "r"
+    ],
+    [
+      0.198128,
+      ":"
+    ],
+    [
+      0.318860,
+      "f"
+    ],
+    [
+      0.061366,
+      "a"
+    ],
+    [
+      0.091175,
+      "m"
+    ],
+    [
+      0.312283,
+      "\u0008 \u0008"
+    ],
+    [
+      0.181150,
+      "k"
+    ],
+    [
+      0.079427,
+      "e"
+    ],
+    [
+      0.304009,
+      "_"
+    ],
+    [
+      0.199191,
+      "m"
+    ],
+    [
+      0.050869,
+      "a"
+    ],
+    [
+      0.101246,
+      "s"
+    ],
+    [
+      0.208981,
+      "t"
+    ],
+    [
+      0.083749,
+      "e"
+    ],
+    [
+      0.086499,
+      "r"
+    ],
+    [
+      52.678656,
+      "\r\r\n\u001b[J"
+    ],
+    [
+      1.518846,
+      "From https://github.com/benjic/csci-git-seminar\r\n * [new branch]      master     -\u003e fake_master\r\n"
+    ],
+    [
+      0.003473,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                              \r \r"
+    ],
+    [
+      0.000079,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[1m\u001b[0mbenjica@\u001b[4mgunter\u001b[24m\u003e "
+    ],
+    [
+      0.000013,
+      "\u001b[K\u001b[85C\u001b[32m~/Source/csci-git-seminar\u001b[39m\u001b[110D"
+    ],
+    [
+      7.837822,
+      "git fetch http_origin master:fake_master"
+    ],
+    [
+      0.345908,
+      "\u001b[40Dls                                      \u001b[38D"
+    ],
+    [
+      0.368354,
+      "\u0008\u0008cd .."
+    ],
+    [
+      0.335084,
+      "\u0008\u0008\u0008\u0008\u0008ls   \u0008\u0008\u0008"
+    ],
+    [
+      0.305395,
+      "\u0008\u0008vim config"
+    ],
+    [
+      2.470461,
+      "\u0008"
+    ],
+    [
+      0.119595,
+      "\u0008"
+    ],
+    [
+      0.107657,
+      "\u0008"
+    ],
+    [
+      0.103248,
+      "\u0008"
+    ],
+    [
+      0.096581,
+      "\u0008"
+    ],
+    [
+      0.112125,
+      "\u0008"
+    ],
+    [
+      0.212530,
+      "gconfig\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.115701,
+      "iconfig\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.123376,
+      "tconfig\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.187505,
+      "/config\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.318671,
+      "\u0008config \u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.142758,
+      "\u0008config \u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.256312,
+      "\u0008config \u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.230518,
+      "\u0008config \u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.254596,
+      ".config\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.176183,
+      "gconfig\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.114714,
+      "iconfig\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.120819,
+      "tconfig\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.348384,
+      "/config\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.334963,
+      "\r\r\n"
+    ],
+    [
+      0.145398,
+      "\u001b[?1049h\u001b[?1h\u001b=\u001b[1;34r\u001b[34l\u001b[34h\u001b[?25h\u001b[23m\u001b[24m\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[?25l\u001b[34;1H\".git/config\"                                                                                                                  \u001b[34;15H24L, 756C"
+    ],
+    [
+      0.002496,
+      "\u001b[1;1H\u001b[38;5;237m  1 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172m\u001b[48;5;237m[\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172mcore\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172m\u001b[48;5;237m]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                                     \u001b[2;1H\u001b[38;5;237m  2 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mrepositoryformatversion\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = \u001b[38;5;172m0\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                            \u001b[3;1H\u001b[38;5;237m  3 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mfilemode\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = \u001b[38;5;172mtrue\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                        \u001b[4;1H\u001b[38;5;237m  4 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mbare\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = \u001b[38;5;172mfalse\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                           \u001b[5;1H\u001b[38;5;237m  5 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mlogallrefupdates\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = \u001b[38;5;172mtrue\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                \u001b[6;1H\u001b[38;5;237m  6 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mdifftool\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = vimdiff                                                                                                     \u001b[7;1H\u001b[38;5;237m  7 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172m[submodule \"reveal.js\"]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                    \u001b[8;1H\u001b[38;5;237m  8 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167murl\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = https://github.com/hakimel/reveal.js                                                                             \u001b[9;1H\u001b[38;5;237m  9 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172m[remote \"origin\"]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                      "
+    ],
+    [
+      0.000450,
+      "                                    \u001b[10;1H\u001b[38;5;237m 10 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167murl\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = git@github.com:benjic/csci-git-seminar.git                                                                       \u001b[11;1H\u001b[38;5;237m 11 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mfetch\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = +refs/heads/*:refs/remotes/origin/*                                                                            \u001b[12;1H\u001b[38;5;237m 12 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172m[branch \"master\"]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                          \u001b[13;1H\u001b[38;5;237m 13 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mremote\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = origin                                                                                                        \u001b[14;1H\u001b[38;5;237m 14 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mmerge\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = refs/heads/master                                                                                              \u001b[15;1H\u001b[38;5;237m 15 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172m[user]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                                     \u001b[16;1H\u001b[38;5;237m 16 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167memail\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = benjamin.campbell@umconnec.umt.edu                                                                             \u001b[17;1H\u001b[38;5;237m 17 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172m[remote \"http_origin\"]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                     \u001b[18;1H\u001b[38;5;237m 18 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167murl\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = https://github.com/benjic/csci-git-seminar.git                                                                   \u001b[19;1H\u001b[38;5;237m 19 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mpushurl\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = git@github.com:benjic/csic-git-seminar.git                  "
+    ],
+    [
+      0.000335,
+      "                                                 \u001b[20;1H\u001b[38;5;237m 20 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mfetch\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = +refs/heads/master:refs/remotes/http_origin/master                                                             \u001b[21;1H\u001b[38;5;237m 21 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mfetch\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = +refs/heads/benjic-patch-\u001b[38;5;172m1\u001b[0m\u001b[38;5;254m\u001b[48;5;16m:refs/remotes/http_origin/benjic-patch-\u001b[38;5;172m1\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                             \u001b[22;1H\u001b[38;5;237m 22 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172m[branch \"benjic-patch-1\"]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                  \u001b[23;1H\u001b[38;5;237m 23 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mremote\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = http_origin                                                                                                   \u001b[24;1H\u001b[38;5;237m 24 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mmerge\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = refs/heads/benjic-patch-\u001b[38;5;172m1\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                      \u001b[25;1H\u001b[38;5;237m~                                                                                                                              \u001b[26;1H~                                                                                                                              \u001b[27;1H~                                                                                                                              \u001b[28;1H~                                                                                                                              \u001b[29;1H~                                                                                                                              \u001b[30;1H~                                                                                                                              \u001b[31;1H~                                     "
+    ],
+    [
+      0.000625,
+      "                                                                                         \u001b[32;1H~                                                                                                                              \u001b[33;1H~                                                                                                                              \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H1,1\u001b[11CAll\u001b[1;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.781856,
+      "\u001b[?25l\u001b[38;5;172m[core]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H2,1-4\u001b[2;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.250959,
+      "\u001b[?25l\u001b[34;110H3\u001b[3;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.121506,
+      "\u001b[?25l\u001b[34;110H4\u001b[4;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.115277,
+      "\u001b[?25l\u001b[34;110H5\u001b[5;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.133195,
+      "\u001b[?25l\u001b[34;110H6\u001b[6;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.114015,
+      "\u001b[?25l\u001b[7;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[21C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H7,1  \u001b[7;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.106266,
+      "\u001b[?25l\u001b[38;5;172m[\u001b[21C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H8,1-4\u001b[8;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.111750,
+      "\u001b[?25l\u001b[9;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[15C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H9,1  \u001b[9;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.094786,
+      "\u001b[?25l\u001b[38;5;172m[\u001b[15C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H10,1-4\u001b[10;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.124254,
+      "\u001b[?25l\u001b[34;111H1\u001b[11;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.164461,
+      "\u001b[?25l\u001b[12;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[15C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H2,1  \u001b[12;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.102206,
+      "\u001b[?25l\u001b[38;5;172m[\u001b[15C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H3,1-4\u001b[13;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.119391,
+      "\u001b[?25l\u001b[34;111H4\u001b[14;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.168557,
+      "\u001b[?25l\u001b[15;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[4C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H5,1  \u001b[15;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.134485,
+      "\u001b[?25l\u001b[38;5;172m[user]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H6,1-4\u001b[16;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.144579,
+      "\u001b[?25l\u001b[17;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[20C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H7,1  \u001b[17;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.135477,
+      "\u001b[?25l\u001b[38;5;172m[\u001b[20C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H8,1-4\u001b[18;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.137143,
+      "\u001b[?25l\u001b[34;111H9\u001b[19;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.205113,
+      "\u001b[?25l\u001b[34;110H20\u001b[20;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.172122,
+      "\u001b[?25l\u001b[34;111H1\u001b[21;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.147820,
+      "\u001b[?25l\u001b[22;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[23C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H2,1  \u001b[22;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.240518,
+      "\u001b[?25l\u001b[38;5;172m[\u001b[23C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H3,1-4\u001b[23;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.419972,
+      "\u001b[?25l\u001b[34;111H4\u001b[24;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.296438,
+      "\u001b[?25l\u001b[34;111H3\u001b[23;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.131616,
+      "\u001b[?25l\u001b[22;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[23C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H2,1  \u001b[22;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.515667,
+      "\u001b[?25l\u001b[38;5;172m[\u001b[23C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H1,1-4\u001b[21;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.599468,
+      "\u001b[?25l\u001b[22;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[23C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H2,1  \u001b[22;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.350526,
+      "\u001b[?25l\u001b[38;5;172m[\u001b[23C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H1,1-4\u001b[21;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.134747,
+      "\u001b[?25l\u001b[34;111H0\u001b[20;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.158905,
+      "\u001b[?25l\u001b[34;110H19\u001b[19;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.179223,
+      "\u001b[?25l\u001b[34;111H8\u001b[18;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.200045,
+      "\u001b[?25l\u001b[17;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[20C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H7,1  \u001b[17;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.233303,
+      "\u001b[?25l\u001b[38;5;172m[\u001b[20C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H6,1-4\u001b[16;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.135889,
+      "\u001b[?25l\u001b[15;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[4C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H5,1  \u001b[15;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.179223,
+      "\u001b[?25l\u001b[38;5;172m[user]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H4,1-4\u001b[14;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.166516,
+      "\u001b[?25l\u001b[34;111H3\u001b[13;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.141464,
+      "\u001b[?25l\u001b[12;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[15C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H2,1  \u001b[12;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.206411,
+      "\u001b[?25l\u001b[38;5;172m[\u001b[15C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H1,1-4\u001b[11;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      1.333547,
+      "\u001b[?25l\u001b[34;111H0\u001b[10;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.374827,
+      "\u001b[?25l\u001b[9;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[15C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H9,1   \u001b[9;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.658949,
+      "\u001b[?25l\u001b[38;5;172m[\u001b[15C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H8,1-4\u001b[8;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.041361,
+      "\u001b[?25l\u001b[7;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[21C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H7,1  \u001b[7;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.040012,
+      "\u001b[?25l\u001b[38;5;172m[\u001b[21C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H6,1-4\u001b[6;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.039943,
+      "\u001b[?25l\u001b[34;110H5\u001b[5;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.040613,
+      "\u001b[?25l\u001b[34;110H4\u001b[4;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.040349,
+      "\u001b[?25l\u001b[34;110H3\u001b[3;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.040335,
+      "\u001b[?25l\u001b[34;110H2\u001b[2;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.041206,
+      "\u001b[?25l\u001b[1;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[4C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H1,1  \u001b[1;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.038461,
+      "\u0007"
+    ],
+    [
+      0.040199,
+      "\u0007"
+    ],
+    [
+      0.040075,
+      "\u0007"
+    ],
+    [
+      0.039814,
+      "\u0007"
+    ],
+    [
+      0.040440,
+      "\u0007"
+    ],
+    [
+      0.040086,
+      "\u0007"
+    ],
+    [
+      0.228707,
+      "\u001b[?25l\u001b[38;5;172m[core]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H2,1-4\u001b[2;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.660542,
+      "\u001b[?25l\u001b[34;110H3\u001b[3;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.040182,
+      "\u001b[?25l\u001b[34;110H4\u001b[4;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.040924,
+      "\u001b[?25l\u001b[34;110H5\u001b[5;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.040398,
+      "\u001b[?25l\u001b[34;110H6\u001b[6;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.041751,
+      "\u001b[?25l\u001b[7;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[21C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H7,1  \u001b[7;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.038280,
+      "\u001b[?25l\u001b[38;5;172m[\u001b[21C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H8,1-4\u001b[8;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.040727,
+      "\u001b[?25l\u001b[9;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[15C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H9,1  \u001b[9;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.039270,
+      "\u001b[?25l\u001b[38;5;172m[\u001b[15C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H10,1-4\u001b[10;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.039847,
+      "\u001b[?25l\u001b[34;111H1\u001b[11;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.041162,
+      "\u001b[?25l\u001b[12;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[15C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H2,1  \u001b[12;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.040144,
+      "\u001b[?25l\u001b[38;5;172m[\u001b[15C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H3,1-4\u001b[13;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.040294,
+      "\u001b[?25l\u001b[34;111H4\u001b[14;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.040766,
+      "\u001b[?25l\u001b[15;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[4C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H5,1  \u001b[15;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.927769,
+      "\u001b[?25l\u001b[38;5;172m[user]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H6,1-4\u001b[16;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.257792,
+      "\u001b[?25l\u001b[17;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[20C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H7,1  \u001b[17;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.194791,
+      "\u001b[?25l\u001b[38;5;172m[\u001b[20C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H8,1-4\u001b[18;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.270014,
+      "\u001b[?25l\u001b[34;111H9\u001b[19;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.220411,
+      "\u001b[?25l\u001b[34;110H20\u001b[20;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.647918,
+      "\u001b[?25l\u001b[34;110H19\u001b[19;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.162116,
+      "\u001b[?25l\u001b[34;111H8\u001b[18;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.462142,
+      "\u001b[?25l\u001b[34;1H                       \u001b[86C      \u001b[8C   \r:"
+    ],
+    [
+      0.000013,
+      "\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.903304,
+      "q\u001b[?25l\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.261542,
+      "\r"
+    ],
+    [
+      0.000506,
+      "\u001b[?25l"
+    ],
+    [
+      0.004817,
+      "\u001b[34;1H\u001b[K\u001b[34;1H\u001b[?1l\u001b\u003e\u001b[34h\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.000208,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                              \r \r\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[1m\u001b[0mbenjica@\u001b[4mgunter\u001b[24m\u003e \u001b[K\u001b[85C\u001b[32m~/Source/csci-git-seminar\u001b[39m\u001b[110D"
+    ],
+    [
+      0.403260,
+      "g"
+    ],
+    [
+      0.060189,
+      "\u0008gi"
+    ],
+    [
+      0.110477,
+      "t"
+    ],
+    [
+      0.046353,
+      " "
+    ],
+    [
+      0.174156,
+      "c"
+    ],
+    [
+      0.011403,
+      "o"
+    ],
+    [
+      0.139770,
+      " "
+    ],
+    [
+      0.785997,
+      "f"
+    ],
+    [
+      0.100739,
+      "a"
+    ],
+    [
+      0.620840,
+      "ke_master\u001b[1m \u001b[0m\u0008\u001b[0m k"
+    ],
+    [
+      0.504095,
+      "\u0008 \u0008"
+    ],
+    [
+      0.209416,
+      "\r\r\n"
+    ],
+    [
+      0.565347,
+      "Switched to branch 'fake_master'\r\n"
+    ],
+    [
+      0.005306,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                              \r \r"
+    ],
+    [
+      0.000030,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[1m\u001b[0mbenjica@\u001b[4mgunter\u001b[24m\u003e "
+    ],
+    [
+      0.000022,
+      "\u001b[K\u001b[85C\u001b[32m~/Source/csci-git-seminar\u001b[39m\u001b[110D"
+    ],
+    [
+      0.632108,
+      "git co fake_master "
+    ],
+    [
+      0.115054,
+      "\u001b[19Dvim .git/config   \u0008\u0008\u0008"
+    ],
+    [
+      1.001154,
+      "\r\r\n"
+    ],
+    [
+      0.132615,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.000352,
+      "\u001b[1;34r\u001b[34l\u001b[34h\u001b[?25h\u001b[23m\u001b[24m\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[?25l\u001b[34;1H\".git/config\"                                                                                                                  "
+    ],
+    [
+      0.000050,
+      "\u001b[34;15H24L, 756C"
+    ],
+    [
+      0.005787,
+      "\u001b[1;1H\u001b[38;5;237m  1 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172m\u001b[48;5;237m[\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172mcore\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172m\u001b[48;5;237m]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                                     \u001b[2;1H\u001b[38;5;237m  2 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mrepositoryformatversion\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = \u001b[38;5;172m0\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                            \u001b[3;1H\u001b[38;5;237m  3 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mfilemode\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = \u001b[38;5;172mtrue\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                        \u001b[4;1H\u001b[38;5;237m  4 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mbare\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = \u001b[38;5;172mfalse\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                           \u001b[5;1H\u001b[38;5;237m  5 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mlogallrefupdates\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = \u001b[38;5;172mtrue\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                \u001b[6;1H\u001b[38;5;237m  6 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mdifftool\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = vimdiff                                                                                                     \u001b[7;1H\u001b[38;5;237m  7 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172m[submodule \"reveal.js\"]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                    \u001b[8;1H\u001b[38;5;237m  8 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167murl\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = https://github.com/hakimel/reveal.js                                                                             \u001b[9;1H\u001b[38;5;237m  9 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172m[remote \"origin\"]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                      "
+    ],
+    [
+      0.000486,
+      "                                    \u001b[10;1H\u001b[38;5;237m 10 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167murl\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = git@github.com:benjic/csci-git-seminar.git                                                                       \u001b[11;1H\u001b[38;5;237m 11 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mfetch\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = +refs/heads/*:refs/remotes/origin/*                                                                            \u001b[12;1H\u001b[38;5;237m 12 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172m[branch \"master\"]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                          \u001b[13;1H\u001b[38;5;237m 13 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mremote\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = origin                                                                                                        \u001b[14;1H\u001b[38;5;237m 14 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mmerge\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = refs/heads/master                                                                                              \u001b[15;1H\u001b[38;5;237m 15 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172m[user]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                                     \u001b[16;1H\u001b[38;5;237m 16 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167memail\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = benjamin.campbell@umconnec.umt.edu                                                                             \u001b[17;1H\u001b[38;5;237m 17 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172m[remote \"http_origin\"]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                     \u001b[18;1H\u001b[38;5;237m 18 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167murl\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = https://github.com/benjic/csci-git-seminar.git                                                                   \u001b[19;1H\u001b[38;5;237m 19 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mpushurl\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = git@github.com:benjic/csic-git-seminar.git                  "
+    ],
+    [
+      0.000659,
+      "                                                 \u001b[20;1H\u001b[38;5;237m 20 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mfetch\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = +refs/heads/master:refs/remotes/http_origin/master                                                             \u001b[21;1H\u001b[38;5;237m 21 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mfetch\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = +refs/heads/benjic-patch-\u001b[38;5;172m1\u001b[0m\u001b[38;5;254m\u001b[48;5;16m:refs/remotes/http_origin/benjic-patch-\u001b[38;5;172m1\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                             \u001b[22;1H\u001b[38;5;237m 22 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172m[branch \"benjic-patch-1\"]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                  \u001b[23;1H\u001b[38;5;237m 23 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mremote\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = http_origin                                                                                                   \u001b[24;1H\u001b[38;5;237m 24 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mmerge\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = refs/heads/benjic-patch-\u001b[38;5;172m1\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                      \u001b[25;1H\u001b[38;5;237m~                                                                                                                              \u001b[26;1H~                                                                                                                              \u001b[27;1H~                                                                                                                              \u001b[28;1H~                                                                                                                              \u001b[29;1H~                                                                                                                              \u001b[30;1H~                                                                                                                              \u001b[31;1H~                                     "
+    ],
+    [
+      0.000396,
+      "                                                                                         \u001b[32;1H~                                                                                                                              \u001b[33;1H~                                                                                                                              \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H1,1\u001b[11CAll\u001b[1;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      1.059430,
+      "\u001b[?25l\u001b[38;5;172m[core]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H2,1-4\u001b[2;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.171412,
+      "\u001b[?25l\u001b[34;110H3\u001b[3;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.135647,
+      "\u001b[?25l\u001b[34;110H4\u001b[4;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.166750,
+      "\u001b[?25l\u001b[34;110H5\u001b[5;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.660044,
+      "\u001b[?25l\u001b[34;110H6\u001b[6;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.040665,
+      "\u001b[?25l\u001b[7;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[21C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H7,1  \u001b[7;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.039495,
+      "\u001b[?25l\u001b[38;5;172m[\u001b[21C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H8,1-4\u001b[8;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.042022,
+      "\u001b[?25l\u001b[9;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[15C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H9,1  \u001b[9;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.038938,
+      "\u001b[?25l\u001b[38;5;172m[\u001b[15C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H10,1-4\u001b[10;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.039676,
+      "\u001b[?25l\u001b[34;111H1\u001b[11;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.042180,
+      "\u001b[?25l\u001b[12;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[15C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H2,1  \u001b[12;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.038621,
+      "\u001b[?25l\u001b[38;5;172m[\u001b[15C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H3,1-4\u001b[13;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.039958,
+      "\u001b[?25l\u001b[34;111H4\u001b[14;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.041731,
+      "\u001b[?25l\u001b[15;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[4C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H5,1  \u001b[15;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.039335,
+      "\u001b[?25l\u001b[38;5;172m[user]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H6,1-4\u001b[16;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.195115,
+      "\u001b[?25l\u001b[17;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[20C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H7,1  \u001b[17;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.388076,
+      "\u001b[?25l\u001b[38;5;172m[\u001b[20C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H8,1-4\u001b[18;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.190564,
+      "\u001b[?25l\u001b[34;111H9\u001b[19;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.250545,
+      "\u001b[?25l\u001b[34;110H20\u001b[20;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.256837,
+      "\u001b[?25l\u001b[34;111H1\u001b[21;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      1.479976,
+      "\u001b[?25l\u001b[22;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[23C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H2,1  \u001b[22;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.911996,
+      "\u001b[?25l\u001b[38;5;172m[\u001b[23C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H1,1-4\u001b[21;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      1.268600,
+      "\u001b[?25l\u001b[34;111H0\u001b[20;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.185408,
+      "\u001b[?25l\u001b[34;110H19\u001b[19;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      1.056681,
+      "\u001b[?25l\u001b[34;113H2-5\u001b[19;9H\u001b[34h\u001b[?25h"
+    ],
+    [
+      1.536438,
+      "\u001b[?25l\u001b[34;110H20\u001b[20;9H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.154533,
+      "\u001b[?25l\u001b[34;111H1\u001b[21;9H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.160183,
+      "\u001b[?25l\u001b[34;111H2,5  \u001b[22;9H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.126808,
+      "\u001b[?25l\u001b[34;111H3,2-5\u001b[23;9H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.350552,
+      "\u001b[?25l\u001b[34;111H2,5  \u001b[22;9H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.126127,
+      "\u001b[?25l\u001b[34;111H1,2-5\u001b[21;9H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.518474,
+      "\u001b[?25l\u001b[34;113H3-6\u001b[21;10H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.204184,
+      "\u001b[?25l\u001b[34;113H4-7\u001b[21;11H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.232401,
+      "\u001b[?25l\u001b[34;111H0\u001b[20;11H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.124217,
+      "\u001b[?25l\u001b[34;110H19\u001b[19;11H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.558761,
+      "\u001b[?25l\u001b[34;1H                       \u001b[86C      \u001b[8C   \r:\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.130694,
+      "q\u001b[?25l\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.130096,
+      "\r\u001b[?25l"
+    ],
+    [
+      0.001702,
+      "\u001b[34;1H\u001b[K\u001b[34;1H\u001b[?1l\u001b\u003e\u001b[34h\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.000090,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                              \r \r"
+    ],
+    [
+      0.000180,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[1m\u001b[0mbenjica@\u001b[4mgunter\u001b[24m\u003e "
+    ],
+    [
+      0.000040,
+      "\u001b[K\u001b[85C\u001b[32m~/Source/csci-git-seminar\u001b[39m\u001b[110D"
+    ],
+    [
+      18.961317,
+      "g"
+    ],
+    [
+      0.107412,
+      "\u0008gi"
+    ],
+    [
+      0.326759,
+      "t"
+    ],
+    [
+      0.106739,
+      " "
+    ],
+    [
+      0.482906,
+      "\u0008"
+    ],
+    [
+      0.143898,
+      "\u0008 \u0008"
+    ],
+    [
+      0.140358,
+      "\u0008\u0008g \u0008"
+    ],
+    [
+      0.113687,
+      "\u0008 \u0008"
+    ],
+    [
+      0.281141,
+      "m"
+    ],
+    [
+      0.094197,
+      "\u0008ma"
+    ],
+    [
+      0.121088,
+      "n"
+    ],
+    [
+      0.108654,
+      " "
+    ],
+    [
+      0.141659,
+      "g"
+    ],
+    [
+      0.078028,
+      "i"
+    ],
+    [
+      0.113676,
+      "t"
+    ],
+    [
+      0.140535,
+      " "
+    ],
+    [
+      0.137300,
+      "r"
+    ],
+    [
+      0.078295,
+      "e"
+    ],
+    [
+      0.092698,
+      "m"
+    ],
+    [
+      0.086412,
+      "o"
+    ],
+    [
+      0.406373,
+      "t"
+    ],
+    [
+      0.094832,
+      "e"
+    ],
+    [
+      0.253066,
+      " "
+    ],
+    [
+      0.270268,
+      "s"
+    ],
+    [
+      0.139787,
+      "-"
+    ],
+    [
+      0.327726,
+      "e"
+    ],
+    [
+      0.255264,
+      "\u0008 \u0008"
+    ],
+    [
+      0.125445,
+      "\u0008 \u0008"
+    ],
+    [
+      0.078046,
+      "e"
+    ],
+    [
+      0.279070,
+      "t"
+    ],
+    [
+      0.095665,
+      "-"
+    ],
+    [
+      0.222393,
+      "\u0008 \u0008"
+    ],
+    [
+      0.706411,
+      "-"
+    ],
+    [
+      0.136467,
+      "b"
+    ],
+    [
+      0.208750,
+      "r"
+    ],
+    [
+      0.076029,
+      "a"
+    ],
+    [
+      0.841520,
+      "\u0008 \u0008"
+    ],
+    [
+      1.076842,
+      "r"
+    ],
+    [
+      0.077767,
+      "a"
+    ],
+    [
+      0.089862,
+      "n"
+    ],
+    [
+      1.125769,
+      "\u0007"
+    ],
+    [
+      0.000545,
+      "\u0008 \u0008\u0008 \u0008\u0008 \u0008\u0008 \u0008"
+    ],
+    [
+      0.728917,
+      "r"
+    ],
+    [
+      0.164925,
+      "a"
+    ],
+    [
+      0.280955,
+      "\u0007"
+    ],
+    [
+      0.562623,
+      "n"
+    ],
+    [
+      0.264473,
+      "c"
+    ],
+    [
+      0.125577,
+      "h"
+    ],
+    [
+      0.503926,
+      "e"
+    ],
+    [
+      0.169590,
+      "s"
+    ],
+    [
+      0.094103,
+      "\r\r\n"
+    ],
+    [
+      0.435628,
+      "\u001b[?1049h\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.286509,
+      "GIT-REMOTE(1)                                            Git Manual                                           GIT-REMOTE(1)\u001b[m\r\n\u001b[m\r\n\u001b[1mNAME\u001b[0m\u001b[m\r\n       git-remote - Manage set of tracked repositories\u001b[m\r\n\u001b[m\r\n\u001b[1mSYNOPSIS\u001b[0m\u001b[m\r\n       \u001b[4mgit\u001b[24m \u001b[4mremote\u001b[24m [-v | --verbose]\u001b[m\r\n       \u001b[4mgit\u001b[24m \u001b[4mremote\u001b[24m \u001b[4madd\u001b[24m [-t \u003cbranch\u003e] [-m \u003cmaster\u003e] [-f] [--[no-]tags] [--mirror=\u003cfetch|push\u003e] \u003cname\u003e \u003curl\u003e\u001b[m\r\n       \u001b[4mgit\u001b[24m \u001b[4mremote\u001b[24m \u001b[4mrename\u001b[24m \u003cold\u003e \u003cnew\u003e\u001b[m\r\n       \u001b[4mgit\u001b[24m \u001b[4mremote\u001b[24m \u001b[4mremove\u001b[24m \u003cname\u003e\u001b[m\r\n       \u001b[4mgit\u001b[24m \u001b[4mremote\u001b[24m \u001b[4mset-head\u001b[24m \u003cname\u003e (-a | --auto | -d | --delete | \u003cbranch\u003e)\u001b[m\r\n       \u001b[4mgit\u001b[24m \u001b[4mremote\u001b[24m \u001b[4mset-branches\u001b[24m [--add] \u003cname\u003e \u003cbranch\u003e...\u001b[m\r\n       \u001b[4mgit\u001b[24m \u001b[4mremote\u001b[24m \u001b[4mset-url\u001b[24m [--push] \u003cname\u003e \u003cnewurl\u003e [\u003coldurl\u003e]\u001b[m\r\n       \u001b[4mgit\u001b[24m \u001b[4mremote\u001b[24m \u001b[4mset-url\u001b[24m \u001b[4m--add\u001b[24m [--push] \u003cname\u003e \u003cnewurl\u003e\u001b[m\r\n       \u001b[4mgit\u001b[24m \u001b[4mremote\u001b[24m \u001b[4mset-url\u001b[24m \u001b[4m--delete\u001b[24m [--push] \u003cname\u003e \u003curl\u003e"
+    ],
+    [
+      0.000273,
+      "\u001b[m\r\n       \u001b[4mgit\u001b[24m \u001b[4mremote\u001b[24m [-v | --verbose] \u001b[4mshow\u001b[24m [-n] \u003cname\u003e...\u001b[m\r\n       \u001b[4mgit\u001b[24m \u001b[4mremote\u001b[24m \u001b[4mprune\u001b[24m [-n | --dry-run] \u003cname\u003e...\u001b[m\r\n       \u001b[4mgit\u001b[24m \u001b[4mremote\u001b[24m [-v | --verbose] \u001b[4mupdate\u001b[24m [-p | --prune] [(\u003cgroup\u003e | \u003cremote\u003e)...]\u001b[m\r\n\u001b[m\r\n\u001b[1mDESCRIPTION\u001b[0m\u001b[m\r\n       Manage the set of repositories (\"remotes\") whose branches you track.\u001b[m\r\n\u001b[m\r\n\u001b[1mOPTIONS\u001b[0m\u001b[m\r\n       -v, --verbose\u001b[m\r\n           Be a little more verbose and show remote url after name. NOTE: This must be placed between \u001b[1mremote\u001b[0m and\u001b[m\r\n           \u001b[1msubcommand\u001b[0m.\u001b[m\r\n\u001b[m\r\n\u001b[1mCOMMANDS\u001b[0m\u001b[m\r\n       With no arguments, shows a list of existing remotes. Several subcommands are available to perform operations on the\u001b[m\r\n       remotes.\u001b[m\r\n\u001b[m\r\n       \u001b[4madd\u001b[24m\u001b[m\r\n           Adds a remote named \u003cname\u003e for the repository at \u003curl\u003e. The command \u001b[1mgit\u001b[0m \u001b[1mfetch\u001b[0m \u001b[1m\u003cname\u003e\u001b[0m can then be used to create\u001b[m\r\n\u001b[3m Manual page git-remote(1) line 1 (press h for help or q to quit)\u001b[23m\u001b[K"
+    ],
+    [
+      0.497067,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K"
+    ],
+    [
+      0.000033,
+      "           and update remote-tracking branches \u003cname\u003e/\u003cbranch\u003e.\u001b[m\r\n\u001b[3m Manual page git-remote(1) line 2 (press h for help or q to quit)\u001b[23m\u001b[K"
+    ],
+    [
+      0.448680,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC"
+    ],
+    [
+      0.000020,
+      "\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K"
+    ],
+    [
+      0.000054,
+      "\u001b[m\r\n\u001b[3m Manual page git-remote(1) line 5 (press h for help or q to quit)\u001b[23m\u001b[K"
+    ],
+    [
+      0.174797,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC"
+    ],
+    [
+      0.000013,
+      "\u001b[KO\u0008O"
+    ],
+    [
+      0.000006,
+      "\u001b[KB\u0008B\r\u001b[K"
+    ],
+    [
+      0.000118,
+      "           With \u001b[1m-f\u001b[0m option, \u001b[1mgit\u001b[0m \u001b[1mfetch\u001b[0m \u001b[1m\u003cname\u003e\u001b[0m is run immediately after the remote information is set up.\u001b[m\r\n\u001b[3m Manual page git-remote(1) line 6 (press h for help or q to quit)\u001b[23m\u001b[K"
+    ],
+    [
+      0.174553,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC"
+    ],
+    [
+      0.000014,
+      "\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K"
+    ],
+    [
+      0.000070,
+      "\u001b[m\r\n\u001b[3m Manual page git-remote(1) line 7 (press h for help or q to quit)\u001b[23m\u001b[K"
+    ],
+    [
+      0.669479,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC"
+    ],
+    [
+      0.000006,
+      "\u001b[KO\u0008O"
+    ],
+    [
+      0.000003,
+      "\u001b[KB\u0008B\r\u001b[K"
+    ],
+    [
+      0.000065,
+      "           With \u001b[1m--tags\u001b[0m option, \u001b[1mgit\u001b[0m \u001b[1mfetch\u001b[0m \u001b[1m\u003cname\u003e\u001b[0m imports every tag from the remote repository.\u001b[m\r\n\u001b[3m Manual page git-remote(1) line 8 (press h for help or q to quit)\u001b[23m\u001b[K"
+    ],
+    [
+      1.549953,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC"
+    ],
+    [
+      0.000009,
+      "\u001b[KO\u0008O"
+    ],
+    [
+      0.000014,
+      "\u001b[KB\u0008B\r\u001b[K"
+    ],
+    [
+      0.000045,
+      "\u001b[m\r\n\u001b[3m Manual page git-remote(1) line 9 (press h for help or q to quit)\u001b[23m\u001b[K"
+    ],
+    [
+      0.183961,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K           With \u001b[1m--no-tags\u001b[0m option, \u001b[1mgit\u001b[0m \u001b[1mfetch\u001b[0m \u001b[1m\u003cname\u003e\u001b[0m does not import tags from the remote repository.\u001b[m\r\n\u001b[3m Manual page git-remote(1) line 10 (press h for help or q to quit)\u001b[23m\u001b[K"
+    ],
+    [
+      0.413295,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM       \u001b[4mgit\u001b[24m \u001b[4mremote\u001b[24m [-v | --verbose]\u001b[m\r\n\u001b[34;1H\r\u001b[K\u001b[3m Manual page git-remote(1) line 9 (press h for help or q to quit)\u001b[23m\u001b[K"
+    ],
+    [
+      9.631930,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l"
+    ],
+    [
+      0.104477,
+      "No manual entry for set-branches\r\n"
+    ],
+    [
+      0.001133,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                              \r \r\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[1m[16] \u001b[0mbenjica@\u001b[4mgunter\u001b[24m\u003e \u001b[K\u001b[80C\u001b[32m~/Source/csci-git-seminar\u001b[39m\u001b[105D"
+    ],
+    [
+      1.475305,
+      "g"
+    ],
+    [
+      0.078178,
+      "\u0008gi"
+    ],
+    [
+      0.095314,
+      "t"
+    ],
+    [
+      0.081784,
+      " "
+    ],
+    [
+      0.710011,
+      "r"
+    ],
+    [
+      0.064921,
+      "e"
+    ],
+    [
+      0.090941,
+      "m"
+    ],
+    [
+      0.053041,
+      "o"
+    ],
+    [
+      0.114356,
+      "te\u001b[1m \u001b[0m"
+    ],
+    [
+      0.455349,
+      "\u0008\u001b[0m s"
+    ],
+    [
+      0.170070,
+      "e"
+    ],
+    [
+      0.118341,
+      "t-"
+    ],
+    [
+      0.374871,
+      "t"
+    ],
+    [
+      0.314821,
+      "\u0008 \u0008"
+    ],
+    [
+      0.031092,
+      "b"
+    ],
+    [
+      0.209391,
+      "ranches\u001b[1m \u001b[0m"
+    ],
+    [
+      0.422280,
+      "\u0008\u001b[0m -"
+    ],
+    [
+      0.123918,
+      "-"
+    ],
+    [
+      0.069163,
+      "a"
+    ],
+    [
+      0.224247,
+      "dd\u001b[1m \u001b[0m"
+    ],
+    [
+      12.009268,
+      "\u0008\u001b[0m h"
+    ],
+    [
+      0.144445,
+      "ttp_origin\u001b[1m \u001b[0m"
+    ],
+    [
+      0.867780,
+      "\u0008\u001b[0m f"
+    ],
+    [
+      0.064741,
+      "a"
+    ],
+    [
+      0.918586,
+      "k"
+    ],
+    [
+      0.406371,
+      "e"
+    ],
+    [
+      0.250105,
+      "_"
+    ],
+    [
+      0.210911,
+      "m"
+    ],
+    [
+      0.072389,
+      "a"
+    ],
+    [
+      0.119436,
+      "s"
+    ],
+    [
+      0.180316,
+      "t"
+    ],
+    [
+      0.068627,
+      "e"
+    ],
+    [
+      0.112023,
+      "r"
+    ],
+    [
+      0.092441,
+      "\r\r\n"
+    ],
+    [
+      0.005875,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                              \r \r"
+    ],
+    [
+      0.000056,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[1m\u001b[0mbenjica@\u001b[4mgunter\u001b[24m\u003e "
+    ],
+    [
+      0.000032,
+      "\u001b[K\u001b[85C\u001b[32m~/Source/csci-git-seminar\u001b[39m\u001b[110D"
+    ],
+    [
+      1.904983,
+      "v"
+    ],
+    [
+      0.073510,
+      "\u0008vi"
+    ],
+    [
+      0.421030,
+      "m"
+    ],
+    [
+      0.094571,
+      " "
+    ],
+    [
+      0.782617,
+      "."
+    ],
+    [
+      0.158435,
+      "g"
+    ],
+    [
+      0.114622,
+      "i"
+    ],
+    [
+      0.107944,
+      "t"
+    ],
+    [
+      0.231599,
+      "c"
+    ],
+    [
+      0.078193,
+      "o"
+    ],
+    [
+      0.312016,
+      "\u0008 \u0008"
+    ],
+    [
+      0.126228,
+      "\u0008 \u0008"
+    ],
+    [
+      0.439631,
+      "/"
+    ],
+    [
+      0.192165,
+      "c"
+    ],
+    [
+      0.140180,
+      "o"
+    ],
+    [
+      0.131219,
+      "n"
+    ],
+    [
+      0.105561,
+      "fig\u001b[1m \u001b[0m"
+    ],
+    [
+      0.377814,
+      "\u0008\u001b[0m \u0008\r\r\n"
+    ],
+    [
+      0.137617,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.000442,
+      "\u001b[1;34r\u001b[34l\u001b[34h\u001b[?25h\u001b[23m\u001b[24m\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[?25l\u001b[34;1H\".git/config\"                                                                                                                  "
+    ],
+    [
+      0.000067,
+      "\u001b[34;15H25L, 826C"
+    ],
+    [
+      0.006236,
+      "\u001b[1;1H\u001b[38;5;237m  1 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172m\u001b[48;5;237m[\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172mcore\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172m\u001b[48;5;237m]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                                     \u001b[2;1H\u001b[38;5;237m  2 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mrepositoryformatversion\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = \u001b[38;5;172m0\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                            \u001b[3;1H\u001b[38;5;237m  3 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mfilemode\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = \u001b[38;5;172mtrue\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                        \u001b[4;1H\u001b[38;5;237m  4 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mbare\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = \u001b[38;5;172mfalse\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                           \u001b[5;1H\u001b[38;5;237m  5 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mlogallrefupdates\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = \u001b[38;5;172mtrue\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                \u001b[6;1H\u001b[38;5;237m  6 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mdifftool\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = vimdiff                                                                                                     \u001b[7;1H\u001b[38;5;237m  7 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172m[submodule \"reveal.js\"]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                    \u001b[8;1H\u001b[38;5;237m  8 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167murl\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = https://github.com/hakimel/reveal.js                                                                             \u001b[9;1H\u001b[38;5;237m  9 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172m[remote \"origin\"]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                      "
+    ],
+    [
+      0.000901,
+      "                                    \u001b[10;1H\u001b[38;5;237m 10 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167murl\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = git@github.com:benjic/csci-git-seminar.git                                                                       \u001b[11;1H\u001b[38;5;237m 11 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mfetch\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = +refs/heads/*:refs/remotes/origin/*                                                                            \u001b[12;1H\u001b[38;5;237m 12 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172m[branch \"master\"]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                          \u001b[13;1H\u001b[38;5;237m 13 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mremote\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = origin                                                                                                        \u001b[14;1H\u001b[38;5;237m 14 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mmerge\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = refs/heads/master                                                                                              \u001b[15;1H\u001b[38;5;237m 15 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172m[user]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                                     \u001b[16;1H\u001b[38;5;237m 16 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167memail\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = benjamin.campbell@umconnec.umt.edu                                                                             \u001b[17;1H\u001b[38;5;237m 17 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172m[remote \"http_origin\"]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                     \u001b[18;1H\u001b[38;5;237m 18 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167murl\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = https://github.com/benjic/csci-git-seminar.git                                                                   \u001b[19;1H\u001b[38;5;237m 19 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mpushurl\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = git@github.com:benjic/csic-git-seminar.git                  "
+    ],
+    [
+      0.000775,
+      "                                                 \u001b[20;1H\u001b[38;5;237m 20 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mfetch\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = +refs/heads/master:refs/remotes/http_origin/master                                                             \u001b[21;1H\u001b[38;5;237m 21 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mfetch\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = +refs/heads/benjic-patch-\u001b[38;5;172m1\u001b[0m\u001b[38;5;254m\u001b[48;5;16m:refs/remotes/http_origin/benjic-patch-\u001b[38;5;172m1\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                             \u001b[22;1H\u001b[38;5;237m 22 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mfetch\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = +refs/heads/fake_master:refs/remotes/http_origin/fake_master                                                   \u001b[23;1H\u001b[38;5;237m 23 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[38;5;172m[branch \"benjic-patch-1\"]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                                  \u001b[24;1H\u001b[38;5;237m 24 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mremote\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = http_origin                                                                                                   \u001b[25;1H\u001b[38;5;237m 25 \u001b[0m\u001b[38;5;254m\u001b[48;5;16m    \u001b[38;5;167mmerge\u001b[0m\u001b[38;5;254m\u001b[48;5;16m = refs/heads/benjic-patch-\u001b[38;5;172m1\u001b[0m\u001b[38;5;254m\u001b[48;5;16m                                                                                      \u001b[26;1H\u001b[38;5;237m~                                                                                                                              \u001b[27;1H~                                                                                                                              \u001b[28;1H~                                                                                                                              \u001b[29;1H~                                                                                                                              \u001b[30;1H~                                                                                                   "
+    ],
+    [
+      0.000566,
+      "                           \u001b[31;1H~                                                                                                                              \u001b[32;1H~                                                                                                                              \u001b[33;1H~                                                                                                                              \u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H1,1\u001b[11CAll\u001b[1;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.604423,
+      "\u001b[?25l\u001b[38;5;172m[core]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H2,1-4\u001b[2;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.148611,
+      "\u001b[?25l\u001b[34;110H3\u001b[3;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.116003,
+      "\u001b[?25l\u001b[34;110H4\u001b[4;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.116231,
+      "\u001b[?25l\u001b[34;110H5\u001b[5;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.084959,
+      "\u001b[?25l\u001b[34;110H6\u001b[6;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.123284,
+      "\u001b[?25l\u001b[7;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[21C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H7,1  \u001b[7;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.124871,
+      "\u001b[?25l\u001b[38;5;172m[\u001b[21C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H8,1-4\u001b[8;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.116476,
+      "\u001b[?25l\u001b[9;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[15C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H9,1  \u001b[9;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.109047,
+      "\u001b[?25l\u001b[38;5;172m[\u001b[15C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;110H10,1-4\u001b[10;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.103186,
+      "\u001b[?25l\u001b[34;111H1\u001b[11;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.102295,
+      "\u001b[?25l\u001b[12;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[15C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H2,1  \u001b[12;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.100031,
+      "\u001b[?25l\u001b[38;5;172m[\u001b[15C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H3,1-4\u001b[13;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.115835,
+      "\u001b[?25l\u001b[34;111H4\u001b[14;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.112673,
+      "\u001b[?25l\u001b[15;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[4C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H5,1  \u001b[15;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.187734,
+      "\u001b[?25l\u001b[38;5;172m[user]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H6,1-4\u001b[16;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.087823,
+      "\u001b[?25l\u001b[17;5H\u001b[38;5;172m\u001b[48;5;237m[\u001b[20C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H7,1  \u001b[17;5H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.114114,
+      "\u001b[?25l\u001b[38;5;172m[\u001b[20C]\u001b[0m\u001b[38;5;254m\u001b[48;5;16m\u001b[34;111H8,1-4\u001b[18;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.120116,
+      "\u001b[?25l\u001b[34;111H9\u001b[19;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.140550,
+      "\u001b[?25l\u001b[34;110H20\u001b[20;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.157329,
+      "\u001b[?25l\u001b[34;111H1\u001b[21;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.135295,
+      "\u001b[?25l\u001b[34;111H2\u001b[22;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      15.007735,
+      "\u001b[?25l\u001b[34;111H1\u001b[21;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.347343,
+      "\u001b[?25l\u001b[34;111H2\u001b[22;8H\u001b[34h\u001b[?25h"
+    ],
+    [
+      1.483640,
+      "\u001b[?25l\u001b[34;1H                       \u001b[86C      \u001b[8C   \r:\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.239673,
+      "q\u001b[?25l\u001b[34h\u001b[?25h"
+    ],
+    [
+      0.224084,
+      "\r\u001b[?25l"
+    ],
+    [
+      0.003643,
+      "\u001b[34;1H\u001b[K\u001b[34;1H\u001b[?1l\u001b\u003e\u001b[34h\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.000899,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                              \r \r"
+    ],
+    [
+      0.000126,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[1m\u001b[0mbenjica@\u001b[4mgunter\u001b[24m\u003e "
+    ],
+    [
+      0.000035,
+      "\u001b[K\u001b[85C\u001b[32m~/Source/csci-git-seminar\u001b[39m\u001b[110D"
+    ],
+    [
+      1012.784398,
+      "vim .git/config"
+    ],
+    [
+      0.149630,
+      "\u001b[15Dgit remote set-branches --add http_origin fake_master"
+    ],
+    [
+      1.205202,
+      "\\"
+    ],
+    [
+      1.990675,
+      "\u0008 \u0008"
+    ],
+    [
+      0.659527,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040052,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040761,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040158,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040008,
+      "\u0008 \u0008"
+    ],
+    [
+      0.039815,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040480,
+      "\u0008 \u0008"
+    ],
+    [
+      0.039853,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040432,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040939,
+      "\u0008 \u0008"
+    ],
+    [
+      0.039171,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040471,
+      "\u0008"
+    ],
+    [
+      0.040488,
+      "\u0008 \u0008"
+    ],
+    [
+      0.041154,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040906,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040852,
+      "\u0008 \u0008"
+    ],
+    [
+      0.039315,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040363,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040552,
+      "\u0008 \u0008"
+    ],
+    [
+      0.041002,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040948,
+      "\u0008 \u0008"
+    ],
+    [
+      0.041047,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040508,
+      "\u0008 \u0008"
+    ],
+    [
+      0.039688,
+      "\u0008"
+    ],
+    [
+      0.040024,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040642,
+      "\u0008 \u0008"
+    ],
+    [
+      0.041022,
+      "\u0008 \u0008"
+    ],
+    [
+      0.041213,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040144,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040507,
+      "\u0008"
+    ],
+    [
+      0.040221,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040980,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040344,
+      "\u0008 \u0008"
+    ],
+    [
+      0.039991,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040126,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040457,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040231,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040921,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040559,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040223,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040987,
+      "\u0008 \u0008"
+    ],
+    [
+      0.039298,
+      "\u0008 \u0008"
+    ],
+    [
+      0.041037,
+      "\u0008"
+    ],
+    [
+      0.040916,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040578,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040213,
+      "\u0008 \u0008"
+    ],
+    [
+      0.041041,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040500,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040699,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040142,
+      "\u0008"
+    ],
+    [
+      0.040020,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040402,
+      "\u0008\u0008g \u0008"
+    ],
+    [
+      0.040338,
+      "\u0008 \u0008"
+    ],
+    [
+      0.040013,
+      "\u0007"
+    ],
+    [
+      0.040900,
+      "\u0007"
+    ],
+    [
+      0.040239,
+      "\u0007"
+    ],
+    [
+      0.039958,
+      "\u0007"
+    ],
+    [
+      0.267019,
+      "m"
+    ],
+    [
+      0.083981,
+      "\u0008ma"
+    ],
+    [
+      0.113899,
+      "n"
+    ],
+    [
+      0.083136,
+      " "
+    ],
+    [
+      0.135125,
+      "g"
+    ],
+    [
+      0.055233,
+      "i"
+    ],
+    [
+      0.130279,
+      "t"
+    ],
+    [
+      0.057612,
+      "i"
+    ],
+    [
+      0.066700,
+      " "
+    ],
+    [
+      0.462671,
+      "\u0008"
+    ],
+    [
+      0.121689,
+      "\u0008 \u0008"
+    ],
+    [
+      0.095926,
+      "\u0008 \u0008"
+    ],
+    [
+      0.142738,
+      " "
+    ],
+    [
+      0.410563,
+      "\u0008"
+    ],
+    [
+      0.225172,
+      "t"
+    ],
+    [
+      0.105198,
+      " "
+    ],
+    [
+      0.112030,
+      "i"
+    ],
+    [
+      0.296244,
+      "n"
+    ],
+    [
+      0.122376,
+      "i"
+    ],
+    [
+      0.116986,
+      "t"
+    ],
+    [
+      0.127759,
+      "\r\r\n"
+    ],
+    [
+      0.151207,
+      "\u001b[?1049h\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.019925,
+      "GIT-INIT(1)                                              Git Manual                                             GIT-INIT(1)\u001b[m\r\n\u001b[m\r\n\u001b[1mNAME\u001b[0m\u001b[m\r\n       git-init - Create an empty Git repository or reinitialize an existing one\u001b[m\r\n\u001b[m\r\n\u001b[1mSYNOPSIS\u001b[0m\u001b[m\r\n       \u001b[4mgit\u001b[24m \u001b[4minit\u001b[24m [-q | --quiet] [--bare] [--template=\u003ctemplate_directory\u003e]\u001b[m\r\n                 [--separate-git-dir \u003cgit dir\u003e]\u001b[m\r\n                 [--shared[=\u003cpermissions\u003e]] [directory]\u001b[m\r\n\u001b[m\r\n\u001b[1mDESCRIPTION\u001b[0m\u001b[m\r\n       This command creates an empty Git repository - basically a \u001b[1m.git\u001b[0m directory with subdirectories for \u001b[1mobjects\u001b[0m,\u001b[m\r\n       \u001b[1mrefs/heads\u001b[0m, \u001b[1mrefs/tags\u001b[0m, and template files. An initial \u001b[1mHEAD\u001b[0m file that references the HEAD of the master branch is\u001b[m\r\n       also created.\u001b[m\r\n\u001b[m\r\n       If the \u001b[1m$GIT_DIR\u001b[0m environment variable is set then it specifies a path to use instead of \u001b[1m./.git\u001b[0m for the base of the\u001b[m\r\n       repository.\u001b[m\r\n\u001b[m\r\n       If the object storage directory is specified via the \u001b["
+    ],
+    [
+      0.000448,
+      "1m$GIT_OBJECT_DIRECTORY\u001b[0m environment variable then the sha1\u001b[m\r\n       directories are created underneath - otherwise the default \u001b[1m$GIT_DIR/objects\u001b[0m directory is used.\u001b[m\r\n\u001b[m\r\n       Running \u001b[4mgit\u001b[24m \u001b[4minit\u001b[24m in an existing repository is safe. It will not overwrite things that are already there. The primary\u001b[m\r\n       reason for rerunning \u001b[4mgit\u001b[24m \u001b[4minit\u001b[24m is to pick up newly added templates (or to move the repository to another place if\u001b[m\r\n       --separate-git-dir is given).\u001b[m\r\n\u001b[m\r\n\u001b[1mOPTIONS\u001b[0m\u001b[m\r\n       -q, --quiet\u001b[m\r\n           Only print error and warning messages; all other output will be suppressed.\u001b[m\r\n\u001b[m\r\n       --bare\u001b[m\r\n           Create a bare repository. If GIT_DIR environment is not set, it is set to the current working directory.\u001b[m\r\n\u001b[m\r\n       --template=\u003ctemplate_directory\u003e\u001b[m\r\n\u001b[3m Manual page git-init(1) line 1 (press h for help or q to quit)\u001b[23m\u001b[K"
+    ],
+    [
+      3.556772,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC"
+    ],
+    [
+      0.000008,
+      "\u001b[KO\u0008O"
+    ],
+    [
+      0.000003,
+      "\u001b[KB\u0008B\r\u001b[K"
+    ],
+    [
+      0.000068,
+      "           Specify the directory from which templates will be used. (See the \"TEMPLATE DIRECTORY\" section below.)\u001b[m\r\n\u001b[3m Manual page git-init(1) line 2 (press h for help or q to quit)\u001b[23m\u001b[K"
+    ],
+    [
+      1.433083,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC"
+    ],
+    [
+      0.000009,
+      "\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K"
+    ],
+    [
+      0.000047,
+      "\u001b[m\r\n\u001b[3m Manual page git-init(1) line 5 (press h for help or q to quit)\u001b[23m\u001b[K"
+    ],
+    [
+      180.819058,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KC\u0008C\u001b[H\u001b[J\u001b[H\u001b[m\r\ne an existing one\u001b[m\r\n\u001b[m\r\n\u001b[m\r\nirectory\u003e]\u001b[m\r\n\u001b[m\r\n\u001b[m\r\n\u001b[m\r\n\u001b[m\r\n a \u001b[1m.git\u001b[0m directory with subdirectories for \u001b[1mobjects\u001b[0m,\u001b[m\r\n\u001b[1mAD\u001b[0m file that references the HEAD of the master branch is\u001b[m\r\n\u001b[m\r\n\u001b[m\r\nifies a path to use instead of \u001b[1m./.git\u001b[0m for the base of the\u001b[m\r\n\u001b[m\r\n\u001b[m\r\n\u001b[1mT_OBJECT_DIRECTORY\u001b[0m environment variable then the sha1\u001b[m\r\nlt \u001b[1m$GIT_DIR/objects\u001b[0m directory is used.\u001b[m\r\n\u001b[m\r\nill not overwrite things that are already there. The primary\u001b[m\r\ntemplates (or to move the repository to another place if\u001b[m\r\n\u001b[m\r\n\u001b[m\r\n\u001b[m\r\n\u001b[m\r\nput will be suppressed.\u001b[m\r\n\u001b[m\r\n\u001b[m\r\nnot set, it is set to the current working directory.\u001b[m\r\n\u001b[m\r\n\u001b[m\r\nsed. (See the \"TEMPLATE DIRECTORY\" section below.)\u001b[m\r\n\u001b[m\r\n\u001b[3m Manual page git-init(1) line 5 (press h for help or q to quit)\u001b[23m\u001b[K"
+    ],
+    [
+      0.458170,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KD\u0008D\u001b[H\u001b[J\u001b[H\u001b[1mNAME\u001b[0m\u001b[m\r\n       git-init - Create an empty Git repository or reinitialize an existing one\u001b[m\r\n\u001b[m\r\n\u001b[1mSYNOPSIS\u001b[0m\u001b[m\r\n       \u001b[4mgit\u001b[24m \u001b[4minit\u001b[24m [-q | --quiet] [--bare] [--template=\u003ctemplate_directory\u003e]\u001b[m\r\n                 [--separate-git-dir \u003cgit dir\u003e]\u001b[m\r\n                 [--shared[=\u003cpermissions\u003e]] [directory]\u001b[m\r\n\u001b[m\r\n\u001b[1mDESCRIPTION\u001b[0m\u001b[m\r\n       This command creates an empty Git repository - basically a \u001b[1m.git\u001b[0m directory with subdirectories for \u001b[1mobjects\u001b[0m,\u001b[m\r\n       \u001b[1mrefs/heads\u001b[0m, \u001b[1mrefs/tags\u001b[0m, and template files. An initial \u001b[1mHEAD\u001b[0m file that references the HEAD of the master branch is\u001b[m\r\n       also created.\u001b[m\r\n\u001b[m\r\n       If the \u001b[1m$GIT_DIR\u001b[0m environment variable is set then it specifies a path to use instead of \u001b[1m./.git\u001b[0m for the base of the\u001b[m\r\n       repository.\u001b[m\r\n\u001b[m\r\n       If the object storage directory is specified via the \u001b[1m$GIT_OBJECT_DIRECTORY\u001b[0m environment variable then the sha1\u001b[m\r\n       directories are created underneath - otherwise the default \u001b[1m$GIT_DIR/objects\u001b[0m directory is used.\u001b[m\r\n\u001b[m\r\n       Running \u001b[4mgit\u001b[24m \u001b[4minit\u001b[24m in an existing repository is safe. It will not overwrite things that are already there. The primary\u001b[m\r\n       reason for rerunning \u001b[4mgit\u001b[24m \u001b[4minit\u001b[24m is to pick up newly added templates (or to move the repository to another place if\u001b[m\r\n       --separate-git-dir is given).\u001b[m\r\n\u001b[m\r\n\u001b[1mOPTIONS\u001b[0m\u001b[m\r\n       -q, --quiet\u001b[m\r\n           Only print error and warning messages; all other output will be suppressed.\u001b[m\r\n\u001b[m\r\n       --bare\u001b[m\r\n           Create a bare repository. If GIT_DIR environment is not set, it is set to the current working directory.\u001b[m\r\n\u001b[m\r\n       --template=\u003ctemplate_directory\u003e\u001b[m\r\n           Specify the directory from which templates will be used. (See the \"TEMPLATE DIRECTORY\" section below.)\u001b[m\r\n\u001b[m\r\n\u001b[3m Manual page git-init(1) line 5 (press h for help or q to quit)\u001b[23m\u001b[K"
+    ],
+    [
+      0.779105,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l"
+    ],
+    [
+      0.002437,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                              \r \r\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[1m\u001b[0mbenjica@\u001b[4mgunter\u001b[24m\u003e \u001b[K\u001b[85C\u001b[32m~/Source/csci-git-seminar\u001b[39m\u001b[110D"
+    ],
+    [
+      650.804564,
+      "e"
+    ],
+    [
+      0.352154,
+      "\u0008ex"
+    ],
+    [
+      0.509303,
+      "i"
+    ],
+    [
+      0.500265,
+      "t"
+    ],
+    [
+      0.339368,
+      "\r\r\n"
+    ]
+  ]
+}
