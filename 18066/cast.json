@@ -1,0 +1,1658 @@
+{
+  "version": 1,
+  "width": 176,
+  "height": 39,
+  "duration": 469.005690,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.096117,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                               \r \r"
+    ],
+    [
+      0.000060,
+      "\u001b]2;levinotik@Levis-MBP: ~/github\u0007"
+    ],
+    [
+      0.000019,
+      "\u001b]1;~/github\u0007"
+    ],
+    [
+      0.013699,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mgithub \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000013,
+      "\u001b[K"
+    ],
+    [
+      0.000142,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      4.938358,
+      "c"
+    ],
+    [
+      0.159571,
+      "\u0008ca"
+    ],
+    [
+      0.135639,
+      "b"
+    ],
+    [
+      0.120053,
+      "a"
+    ],
+    [
+      0.207990,
+      "l"
+    ],
+    [
+      0.184095,
+      " "
+    ],
+    [
+      0.095867,
+      "s"
+    ],
+    [
+      0.176128,
+      "a"
+    ],
+    [
+      0.064032,
+      "n"
+    ],
+    [
+      0.119770,
+      "d"
+    ],
+    [
+      0.152023,
+      "o"
+    ],
+    [
+      0.120096,
+      "b"
+    ],
+    [
+      0.439928,
+      "\u0008 \u0008"
+    ],
+    [
+      0.136029,
+      "\u0008 \u0008"
+    ],
+    [
+      0.055988,
+      "b"
+    ],
+    [
+      0.128007,
+      "o"
+    ],
+    [
+      0.264018,
+      " "
+    ],
+    [
+      0.383887,
+      "\u0008"
+    ],
+    [
+      0.144138,
+      "x"
+    ],
+    [
+      0.111755,
+      " "
+    ],
+    [
+      0.160102,
+      "i"
+    ],
+    [
+      0.088001,
+      "n"
+    ],
+    [
+      0.136123,
+      "i"
+    ],
+    [
+      0.111765,
+      "t"
+    ],
+    [
+      0.184206,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000057,
+      "\r\r\n"
+    ],
+    [
+      0.000889,
+      "\u001b]2;cabal sandbox init\u0007"
+    ],
+    [
+      0.000019,
+      "\u001b]1;cabal\u0007"
+    ],
+    [
+      0.173895,
+      "Writing a default package environment file to\r\n"
+    ],
+    [
+      0.000021,
+      "/Users/levinotik/github/cabal.sandbox.config\r\n"
+    ],
+    [
+      0.003145,
+      "Using an existing sandbox located at /Users/levinotik/github/.cabal-sandbox\r\n"
+    ],
+    [
+      0.003106,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                               \r \r"
+    ],
+    [
+      0.000090,
+      "\u001b]2;levinotik@Levis-MBP: ~/github\u0007"
+    ],
+    [
+      0.000029,
+      "\u001b]1;~/github\u0007"
+    ],
+    [
+      0.012027,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mgithub \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      0.000027,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.726951,
+      "l"
+    ],
+    [
+      0.079692,
+      "\u0008ls"
+    ],
+    [
+      0.127885,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000016,
+      "\r\r\n"
+    ],
+    [
+      0.000543,
+      "\u001b]2;ls -G\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b]1;ls\u0007"
+    ],
+    [
+      0.003471,
+      "\u001b[1m\u001b[36mbloodhound\u001b[39;49m\u001b[0m           \u001b[1m\u001b[36mfunctional-papers\u001b[39;49m\u001b[0m    \u001b[1m\u001b[36mghcjs-prim\u001b[39;49m\u001b[0m           \u001b[1m\u001b[36mnicta\u001b[39;49m\u001b[0m                \u001b[1m\u001b[36mnictafork\u001b[39;49m\u001b[0m            \u001b[1m\u001b[36mspray-swagger\u001b[39;49m\u001b[0m        \u001b[1m\u001b[36mswagger-ui\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "cabal.sandbox.config \u001b[1m\u001b[36mghcjs\u001b[39;49m\u001b[0m                \u001b[1m\u001b[36mhaskell-start\u001b[39;49m\u001b[0m        \u001b[1m\u001b[36mnicta-solutions\u001b[39;49m\u001b[0m      \u001b[1m\u001b[36mpresentations\u001b[39;49m\u001b[0m        \u001b[1m\u001b[36mswagger-codegen\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000331,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                               \r \r"
+    ],
+    [
+      0.000143,
+      "\u001b]2;levinotik@Levis-MBP: ~/github\u0007"
+    ],
+    [
+      0.000018,
+      "\u001b]1;~/github\u0007"
+    ],
+    [
+      0.010411,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mgithub \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000041,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.849551,
+      "r"
+    ],
+    [
+      0.071403,
+      "\u0008rm"
+    ],
+    [
+      0.135954,
+      " "
+    ],
+    [
+      0.120271,
+      "c"
+    ],
+    [
+      0.223942,
+      "a"
+    ],
+    [
+      0.220175,
+      "bal.sandbox.config\u001b[1m \u001b[0m"
+    ],
+    [
+      0.427809,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000042,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000056,
+      "\r\r\n"
+    ],
+    [
+      0.000568,
+      "\u001b]2;rm cabal.sandbox.config\u0007"
+    ],
+    [
+      0.000005,
+      "\u001b]1;rm\u0007"
+    ],
+    [
+      0.002245,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                               \r \r"
+    ],
+    [
+      0.000080,
+      "\u001b]2;levinotik@Levis-MBP: ~/github\u0007"
+    ],
+    [
+      0.000012,
+      "\u001b]1;~/github\u0007"
+    ],
+    [
+      0.010591,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mgithub \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000064,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.530581,
+      "c"
+    ],
+    [
+      0.287644,
+      "\u0008cd"
+    ],
+    [
+      0.103931,
+      " "
+    ],
+    [
+      1.856330,
+      "b"
+    ],
+    [
+      0.087538,
+      "l"
+    ],
+    [
+      0.168140,
+      "o"
+    ],
+    [
+      0.216038,
+      "o"
+    ],
+    [
+      0.124694,
+      "dhound\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.379258,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000038,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000023,
+      "\r\r\n"
+    ],
+    [
+      0.000531,
+      "\u001b]2;cd bloodhound\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b]1;cd\u0007"
+    ],
+    [
+      0.000081,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                               \r \r"
+    ],
+    [
+      0.000035,
+      "\u001b]2;levinotik@Levis-MBP: ~/github/bloodhound\u0007"
+    ],
+    [
+      0.000014,
+      "\u001b]1;..ub/bloodhound\u0007"
+    ],
+    [
+      0.020099,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mbloodhound \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000038,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.627413,
+      "c"
+    ],
+    [
+      0.191889,
+      "\u0008ca"
+    ],
+    [
+      0.215824,
+      "b"
+    ],
+    [
+      0.239986,
+      "a"
+    ],
+    [
+      0.103870,
+      "l"
+    ],
+    [
+      0.184071,
+      " "
+    ],
+    [
+      0.256061,
+      "s"
+    ],
+    [
+      0.183927,
+      "a"
+    ],
+    [
+      0.288039,
+      "n"
+    ],
+    [
+      0.095904,
+      "d"
+    ],
+    [
+      0.223132,
+      "\u0007"
+    ],
+    [
+      0.873253,
+      "o"
+    ],
+    [
+      0.319614,
+      "\u0008 \u0008"
+    ],
+    [
+      0.103910,
+      "b"
+    ],
+    [
+      0.096218,
+      "o"
+    ],
+    [
+      0.143815,
+      "x"
+    ],
+    [
+      0.087876,
+      " "
+    ],
+    [
+      0.176192,
+      "i"
+    ],
+    [
+      0.087911,
+      "n"
+    ],
+    [
+      0.135962,
+      "i"
+    ],
+    [
+      0.080227,
+      "t"
+    ],
+    [
+      0.503935,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000029,
+      "\r\r\n"
+    ],
+    [
+      0.000532,
+      "\u001b]2;cabal sandbox init\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b]1;cabal\u0007"
+    ],
+    [
+      0.175856,
+      "Writing a default package environment file to\r\n/Users/levinotik/github/bloodhound/cabal.sandbox.config\r\n"
+    ],
+    [
+      0.002809,
+      "Creating a new sandbox at /Users/levinotik/github/bloodhound/.cabal-sandbox\r\n"
+    ],
+    [
+      0.028048,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                               \r \r"
+    ],
+    [
+      0.000044,
+      "\u001b]2;levinotik@Levis-MBP: ~/github/bloodhound\u0007"
+    ],
+    [
+      0.000005,
+      "\u001b]1;..ub/bloodhound\u0007"
+    ],
+    [
+      0.018252,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mbloodhound \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      0.000040,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.822632,
+      "\r\r\nbck-i-search: _\u001b[K\u001b[A\u001b[12C"
+    ],
+    [
+      0.383770,
+      "curl \u001b[4m-\u001b[24msL https://asciinema.org/install | sh\u001b[1B\u001b[56D-_\u001b[A\u001b[16C"
+    ],
+    [
+      0.119895,
+      "\u0008\u0008\u0008\u0008\u0008cabal\u001b[24m install \u001b[4m-\u001b[4m-\u001b[24monly-dependencies          \u001b[1B\u001b[55D-_\u001b[A\u001b[24C"
+    ],
+    [
+      0.567939,
+      "\u001b[24m-\u001b[24m-\u001b[1B\r\u001b[K\u001b[A\u001b[41C"
+    ],
+    [
+      0.000039,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000025,
+      "\u001b[1B\r"
+    ],
+    [
+      0.000580,
+      "\u001b]2;cabal install --only-dependencies\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b]1;cabal\u0007"
+    ],
+    [
+      0.689784,
+      "Resolving dependencies...\r\n"
+    ],
+    [
+      0.393760,
+      "Notice: installing into a sandbox located at\r\n/Users/levinotik/github/bloodhound/.cabal-sandbox\r\n"
+    ],
+    [
+      0.000165,
+      "Downloading base64-bytestring-1.0.0.1...\r\n"
+    ],
+    [
+      0.000569,
+      "Downloading cereal-0.4.1.1...\r\n"
+    ],
+    [
+      0.004828,
+      "Configuring data-default-class-0.0.1...\r\n"
+    ],
+    [
+      0.005045,
+      "Configuring dlist-0.7.1.1...\r\n"
+    ],
+    [
+      0.018877,
+      "Configuring primitive-0.5.4.0...\r\n"
+    ],
+    [
+      0.006034,
+      "Configuring network-2.6.0.2...\r\n"
+    ],
+    [
+      0.006467,
+      "Configuring random-1.1...\r\n"
+    ],
+    [
+      0.010968,
+      "Configuring stm-2.4.4...\r\n"
+    ],
+    [
+      0.094909,
+      "Configuring syb-0.4.4...\r\n"
+    ],
+    [
+      0.016779,
+      "Configuring transformers-0.4.3.0...\r\n"
+    ],
+    [
+      0.474301,
+      "Downloading clock-0.4.1.3...\r\n"
+    ],
+    [
+      0.107481,
+      "Downloading utf8-string-1...\r\n"
+    ],
+    [
+      1.542256,
+      "Building primitive-0.5.4.0...\r\n"
+    ],
+    [
+      0.271064,
+      "Building data-default-class-0.0.1...\r\n"
+    ],
+    [
+      0.239163,
+      "Building dlist-0.7.1.1...\r\n"
+    ],
+    [
+      0.045577,
+      "Building random-1.1...\r\n"
+    ],
+    [
+      0.002939,
+      "Building stm-2.4.4...\r\n"
+    ],
+    [
+      0.058602,
+      "Building syb-0.4.4...\r\n"
+    ],
+    [
+      0.009845,
+      "Building transformers-0.4.3.0...\r\n"
+    ],
+    [
+      1.441344,
+      "Configuring text-1.2.0.4...\r\n"
+    ],
+    [
+      0.005191,
+      "Installed data-default-class-0.0.1\r\n"
+    ],
+    [
+      1.604471,
+      "Configuring zlib-0.5.4.2...\r\n"
+    ],
+    [
+      0.005220,
+      "Installed dlist-0.7.1.1\r\n"
+    ],
+    [
+      0.277756,
+      "Building text-1.2.0.4...\r\n"
+    ],
+    [
+      1.588502,
+      "Building zlib-0.5.4.2...\r\n"
+    ],
+    [
+      0.086661,
+      "Installed stm-2.4.4\r\n"
+    ],
+    [
+      0.025161,
+      "Configuring base64-bytestring-1.0.0.1...\r\n"
+    ],
+    [
+      1.776704,
+      "Building base64-bytestring-1.0.0.1...\r\n"
+    ],
+    [
+      0.134457,
+      "Configuring cereal-0.4.1.1...\r\n"
+    ],
+    [
+      0.014372,
+      "Installed primitive-0.5.4.0\r\n"
+    ],
+    [
+      1.058875,
+      "Configuring clock-0.4.1.3...\r\n"
+    ],
+    [
+      0.016629,
+      "Installed syb-0.4.4\r\n"
+    ],
+    [
+      0.815199,
+      "Building cereal-0.4.1.1...\r\n"
+    ],
+    [
+      0.894010,
+      "Building network-2.6.0.2...\r\n"
+    ],
+    [
+      0.188894,
+      "Building clock-0.4.1.3...\r\n"
+    ],
+    [
+      1.521312,
+      "Configuring utf8-string-1...\r\n"
+    ],
+    [
+      0.008718,
+      "Installed base64-bytestring-1.0.0.1\r\n"
+    ],
+    [
+      1.828950,
+      "Building utf8-string-1...\r\n"
+    ],
+    [
+      0.502948,
+      "Configuring data-default-instances-base-0.0.1...\r\n"
+    ],
+    [
+      0.006595,
+      "Installed random-1.1\r\n"
+    ],
+    [
+      1.027150,
+      "Configuring data-default-instances-containers-0.0.1...\r\n"
+    ],
+    [
+      0.011148,
+      "Installed zlib-0.5.4.2\r\n"
+    ],
+    [
+      0.809876,
+      "Building data-default-instances-base-0.0.1...\r\n"
+    ],
+    [
+      0.247724,
+      "Configuring data-default-instances-old-locale-0.0.1...\r\n"
+    ],
+    [
+      0.006446,
+      "Installed clock-0.4.1.3\r\n"
+    ],
+    [
+      0.915863,
+      "Building data-default-instances-containers-0.0.1...\r\n"
+    ],
+    [
+      0.998914,
+      "Building data-default-instances-old-locale-0.0.1...\r\n"
+    ],
+    [
+      0.138208,
+      "Configuring data-default-instances-dlist-0.0.1...\r\n"
+    ],
+    [
+      0.006963,
+      "Installed data-default-instances-base-0.0.1\r\n"
+    ],
+    [
+      1.130301,
+      "Configuring vector-0.10.12.2...\r\n"
+    ],
+    [
+      0.002512,
+      "Installed data-default-instances-containers-0.0.1\r\n"
+    ],
+    [
+      0.845747,
+      "Building data-default-instances-dlist-0.0.1...\r\n"
+    ],
+    [
+      0.205945,
+      "Installed data-default-instances-old-locale-0.0.1\r\n"
+    ],
+    [
+      0.897454,
+      "Building vector-0.10.12.2...\r\n"
+    ],
+    [
+      0.889950,
+      "Installed data-default-instances-dlist-0.0.1\r\n"
+    ],
+    [
+      0.004411,
+      "Configuring data-default-0.5.3...\r\n"
+    ],
+    [
+      1.796146,
+      "Building data-default-0.5.3...\r\n"
+    ],
+    [
+      0.588181,
+      "Installed utf8-string-1\r\n"
+    ],
+    [
+      1.296473,
+      "Installed data-default-0.5.3\r\n"
+    ],
+    [
+      1.556241,
+      "Installed transformers-0.4.3.0\r\n"
+    ],
+    [
+      0.000155,
+      "Downloading mmorph-1.0.4...\r\n"
+    ],
+    [
+      0.014421,
+      "Configuring mtl-2.2.1...\r\n"
+    ],
+    [
+      0.002283,
+      "Downloading transformers-compat-0.4.0.4...\r\n"
+    ],
+    [
+      0.143929,
+      "Configuring mmorph-1.0.4...\r\n"
+    ],
+    [
+      0.030216,
+      "Configuring transformers-compat-0.4.0.4...\r\n"
+    ],
+    [
+      1.361768,
+      "Installed cereal-0.4.1.1\r\n"
+    ],
+    [
+      0.525503,
+      "Building mtl-2.2.1...\r\n"
+    ],
+    [
+      0.169052,
+      "Building mmorph-1.0.4...\r\n"
+    ],
+    [
+      0.087077,
+      "Building transformers-compat-0.4.0.4...\r\n"
+    ],
+    [
+      1.473560,
+      "Installed network-2.6.0.2\r\n"
+    ],
+    [
+      0.730987,
+      "Installed transformers-compat-0.4.0.4\r\n"
+    ],
+    [
+      0.003605,
+      "Configuring transformers-base-0.4.4...\r\n"
+    ],
+    [
+      0.885373,
+      "Installed mmorph-1.0.4\r\n"
+    ],
+    [
+      0.549413,
+      "Building transformers-base-0.4.4...\r\n"
+    ],
+    [
+      1.362249,
+      "Installed mtl-2.2.1\r\n"
+    ],
+    [
+      0.008350,
+      "Configuring exceptions-0.8.0.2...\r\n"
+    ],
+    [
+      0.794190,
+      "Installed transformers-base-0.4.4\r\n"
+    ],
+    [
+      0.005109,
+      "Configuring monad-control-1.0.0.4...\r\n"
+    ],
+    [
+      0.599885,
+      "Building exceptions-0.8.0.2...\r\n"
+    ],
+    [
+      0.769251,
+      "Building monad-control-1.0.0.4...\r\n"
+    ],
+    [
+      2.571537,
+      "Installed monad-control-1.0.0.4\r\n"
+    ],
+    [
+      0.009286,
+      "Configuring lifted-base-0.2.3.6...\r\n"
+    ],
+    [
+      0.899895,
+      "Installed exceptions-0.8.0.2\r\n"
+    ],
+    [
+      0.426865,
+      "Building lifted-base-0.2.3.6...\r\n"
+    ],
+    [
+      3.105484,
+      "Installed lifted-base-0.2.3.6\r\n"
+    ],
+    [
+      0.000178,
+      "Downloading resourcet-1.1.4.1...\r\n"
+    ],
+    [
+      0.396053,
+      "Configuring resourcet-1.1.4.1...\r\n"
+    ],
+    [
+      1.166341,
+      "Building resourcet-1.1.4.1...\r\n"
+    ],
+    [
+      3.625758,
+      "Installed resourcet-1.1.4.1\r\n"
+    ],
+    [
+      42.362339,
+      "Installed vector-0.10.12.2\r\n"
+    ],
+    [
+      12.473514,
+      "Installed text-1.2.0.4\r\n"
+    ],
+    [
+      0.019553,
+      "Configuring blaze-builder-0.4.0.1...\r\n"
+    ],
+    [
+      0.010447,
+      "Configuring hashable-1.2.3.2...\r\n"
+    ],
+    [
+      0.001194,
+      "Downloading mime-types-0.1.0.6...\r\n"
+    ],
+    [
+      0.013718,
+      "Configuring parsec-3.1.9...\r\n"
+    ],
+    [
+      0.000876,
+      "Downloading publicsuffixlist-0.1...\r\n"
+    ],
+    [
+      0.288720,
+      "Configuring mime-types-0.1.0.6...\r\n"
+    ],
+    [
+      0.246914,
+      "Configuring publicsuffixlist-0.1...\r\n"
+    ],
+    [
+      1.161027,
+      "Building blaze-builder-0.4.0.1...\r\n"
+    ],
+    [
+      0.165108,
+      "Building hashable-1.2.3.2...\r\n"
+    ],
+    [
+      0.176469,
+      "Building parsec-3.1.9...\r\n"
+    ],
+    [
+      0.315379,
+      "Building mime-types-0.1.0.6...\r\n"
+    ],
+    [
+      0.084569,
+      "Building publicsuffixlist-0.1...\r\n"
+    ],
+    [
+      3.652933,
+      "Installed hashable-1.2.3.2\r\n"
+    ],
+    [
+      0.000283,
+      "Downloading case-insensitive-1.2.0.4...\r\n"
+    ],
+    [
+      0.007345,
+      "Configuring nats-1...\r\n"
+    ],
+    [
+      0.009709,
+      "Configuring scientific-0.3.3.8...\r\n"
+    ],
+    [
+      0.013279,
+      "Configuring unordered-containers-0.2.5.1...\r\n"
+    ],
+    [
+      0.312368,
+      "Configuring case-insensitive-1.2.0.4...\r\n"
+    ],
+    [
+      1.090886,
+      "Installed publicsuffixlist-0.1\r\n"
+    ],
+    [
+      1.151261,
+      "Installed blaze-builder-0.4.0.1\r\n"
+    ],
+    [
+      0.000193,
+      "Downloading cookie-0.4.1.4...\r\n"
+    ],
+    [
+      0.000635,
+      "Downloading streaming-commons-0.1.10.0...\r\n"
+    ],
+    [
+      0.201461,
+      "Configuring cookie-0.4.1.4...\r\n"
+    ],
+    [
+      0.064378,
+      "Configuring streaming-commons-0.1.10.0...\r\n"
+    ],
+    [
+      0.043865,
+      "Building nats-1...\r\n"
+    ],
+    [
+      0.076424,
+      "Building scientific-0.3.3.8...\r\n"
+    ],
+    [
+      0.056308,
+      "Building unordered-containers-0.2.5.1...\r\n"
+    ],
+    [
+      0.093340,
+      "Building case-insensitive-1.2.0.4...\r\n"
+    ],
+    [
+      2.154797,
+      "Building cookie-0.4.1.4...\r\n"
+    ],
+    [
+      0.164514,
+      "Building streaming-commons-0.1.10.0...\r\n"
+    ],
+    [
+      0.965462,
+      "Installed nats-1\r\n"
+    ],
+    [
+      2.674389,
+      "Installed case-insensitive-1.2.0.4\r\n"
+    ],
+    [
+      0.000154,
+      "Downloading http-types-0.8.6...\r\n"
+    ],
+    [
+      0.192347,
+      "Configuring http-types-0.8.6...\r\n"
+    ],
+    [
+      1.634047,
+      "Installed cookie-0.4.1.4\r\n"
+    ],
+    [
+      0.483062,
+      "Building http-types-0.8.6...\r\n"
+    ],
+    [
+      5.530162,
+      "Installed mime-types-0.1.0.6\r\n"
+    ],
+    [
+      1.995458,
+      "Installed http-types-0.8.6\r\n"
+    ],
+    [
+      0.852362,
+      "Installed scientific-0.3.3.8\r\n"
+    ],
+    [
+      0.024847,
+      "Configuring attoparsec-0.12.1.3...\r\n"
+    ],
+    [
+      0.935427,
+      "Installed parsec-3.1.9\r\n"
+    ],
+    [
+      0.004967,
+      "Configuring network-uri-2.6.0.1...\r\n"
+    ],
+    [
+      0.387507,
+      "Building attoparsec-0.12.1.3...\r\n"
+    ],
+    [
+      0.770592,
+      "Installed streaming-commons-0.1.10.0\r\n"
+    ],
+    [
+      0.274221,
+      "Building network-uri-2.6.0.1...\r\n"
+    ],
+    [
+      0.848257,
+      "Installed unordered-containers-0.2.5.1\r\n"
+    ],
+    [
+      0.005311,
+      "Configuring semigroups-0.16.2.2...\r\n"
+    ],
+    [
+      1.254100,
+      "Building semigroups-0.16.2.2...\r\n"
+    ],
+    [
+      5.341978,
+      "Installed network-uri-2.6.0.1\r\n"
+    ],
+    [
+      0.000265,
+      "Downloading http-client-0.4.9...\r\n"
+    ],
+    [
+      0.632008,
+      "Configuring http-client-0.4.9...\r\n"
+    ],
+    [
+      1.244755,
+      "Building http-client-0.4.9...\r\n"
+    ],
+    [
+      2.778458,
+      "Installed semigroups-0.16.2.2\r\n"
+    ],
+    [
+      0.004631,
+      "Configuring void-0.7...\r\n"
+    ],
+    [
+      1.238761,
+      "Building void-0.7...\r\n"
+    ],
+    [
+      2.093195,
+      "Installed void-0.7\r\n"
+    ],
+    [
+      0.000188,
+      "Downloading conduit-1.2.4...\r\n"
+    ],
+    [
+      0.601948,
+      "Configuring conduit-1.2.4...\r\n"
+    ],
+    [
+      1.302296,
+      "Building conduit-1.2.4...\r\n"
+    ],
+    [
+      6.973062,
+      "Installed http-client-0.4.9\r\n"
+    ],
+    [
+      2.986666,
+      "Installed conduit-1.2.4\r\n"
+    ],
+    [
+      40.932245,
+      "Installed attoparsec-0.12.1.3\r\n"
+    ],
+    [
+      0.018390,
+      "Configuring aeson-0.8.0.2...\r\n"
+    ],
+    [
+      1.127292,
+      "Building aeson-0.8.0.2...\r\n"
+    ],
+    [
+      34.413120,
+      "Installed aeson-0.8.0.2\r\n"
+    ],
+    [
+      0.006982,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                               \r \r"
+    ],
+    [
+      0.000055,
+      "\u001b]2;levinotik@Levis-MBP: ~/github/bloodhound\u0007"
+    ],
+    [
+      0.000019,
+      "\u001b]1;..ub/bloodhound\u0007"
+    ],
+    [
+      0.016553,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mbloodhound \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      0.000032,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      151.972833,
+      "cabal install --only-dependencies"
+    ],
+    [
+      0.639310,
+      "\u001b[33D                                 \u001b[33D"
+    ],
+    [
+      0.735996,
+      "c"
+    ],
+    [
+      0.247917,
+      "\u0008ca"
+    ],
+    [
+      0.111926,
+      "b"
+    ],
+    [
+      0.136216,
+      "a"
+    ],
+    [
+      0.151955,
+      "l"
+    ],
+    [
+      0.167753,
+      " "
+    ],
+    [
+      0.184051,
+      "b"
+    ],
+    [
+      0.112033,
+      "u"
+    ],
+    [
+      0.592087,
+      "i"
+    ],
+    [
+      0.215990,
+      "l"
+    ],
+    [
+      0.095900,
+      "d"
+    ],
+    [
+      0.208007,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000039,
+      "\r\r\n"
+    ],
+    [
+      0.000583,
+      "\u001b]2;cabal build\u0007"
+    ],
+    [
+      0.000006,
+      "\u001b]1;cabal\u0007"
+    ],
+    [
+      0.006984,
+      "Package has never been configured. Configuring with default flags. If this\r\n"
+    ],
+    [
+      0.000009,
+      "fails, please run configure manually.\r\n"
+    ],
+    [
+      0.729592,
+      "Resolving dependencies...\r\n"
+    ],
+    [
+      0.545471,
+      "[1 of 1] Compiling Main             ( dist/setup/setup.hs, dist/setup/Main.o )\r\n"
+    ],
+    [
+      0.179801,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "dist/setup/setup.hs:9:1: Warning:"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "    The import of"
+    ],
+    [
+      0.000019,
+      " ‘copyFiles’\r\n"
+    ],
+    [
+      0.000025,
+      "    from module"
+    ],
+    [
+      0.000035,
+      " ‘Distribution.Simple.Utils’ is redundant"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000031,
+      "dist/setup/setup.hs:14:1: Warning:"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "    The"
+    ],
+    [
+      0.000004,
+      " import of"
+    ],
+    [
+      0.000015,
+      " ‘normal’\r\n"
+    ],
+    [
+      0.000019,
+      "    from module"
+    ],
+    [
+      0.000049,
+      " ‘Distribution.Verbosity’ is redundant"
+    ],
+    [
+      0.000006,
+      "\r\n\r\n"
+    ],
+    [
+      0.000037,
+      "dist/setup/setup.hs:28:1: Warning:"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "    Defined but not used"
+    ],
+    [
+      0.000004,
+      ": ‘haddockOutputDir’\r\n"
+    ],
+    [
+      0.059923,
+      "Linking ./dist/setup/setup ...\r\n"
+    ],
+    [
+      1.242093,
+      "Configuring bloodhound-0.5.0.1...\r\n"
+    ],
+    [
+      1.075341,
+      "Building bloodhound-0.5.0.1...\r\n"
+    ],
+    [
+      0.000142,
+      "Preprocessing library bloodhound-0.5.0.1...\r\n"
+    ],
+    [
+      0.106657,
+      "[1 of 4] Compiling Database.Bloodhound.Types.Class ( src/Database/Bloodhound/Types/Class.hs, dist/build/Database/Bloodhound/Types/Class.o )\r\n"
+    ],
+    [
+      0.124250,
+      "[2 of 4] Compiling Database.Bloodhound.Types ( src/Database/Bloodhound/Types.hs, dist/build/Database/Bloodhound/Types.o )\r\n"
+    ],
+    [
+      27.693932,
+      "[3 of 4] Compiling Database.Bloodhound.Client ( src/Database/Bloodhound/Client.hs, dist/build/Database/Bloodhound/Client.o )\r\n"
+    ],
+    [
+      0.837433,
+      "[4 of 4] Compiling Database.Bloodhound ( src/Database/Bloodhound.hs, dist/build/Database/Bloodhound.o )\r\n"
+    ],
+    [
+      0.390717,
+      "In-place registering bloodhound-0.5.0.1...\r\n"
+    ],
+    [
+      0.045791,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                               \r \r"
+    ],
+    [
+      0.000045,
+      "\u001b]2;levinotik@Levis-MBP: ~/github/bloodhound\u0007"
+    ],
+    [
+      0.000030,
+      "\u001b]1;..ub/bloodhound\u0007"
+    ],
+    [
+      0.018146,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mbloodhound \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000009,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.299297,
+      "l"
+    ],
+    [
+      0.071761,
+      "\u0008ls"
+    ],
+    [
+      0.327885,
+      " "
+    ],
+    [
+      0.240140,
+      "-"
+    ],
+    [
+      0.135804,
+      "a"
+    ],
+    [
+      0.336349,
+      "h"
+    ],
+    [
+      0.151571,
+      "l"
+    ],
+    [
+      0.280125,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000026,
+      "\r\r\n"
+    ],
+    [
+      0.000540,
+      "\u001b]2;ls -G -ahl\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b]1;ls\u0007"
+    ],
+    [
+      0.004502,
+      "total 392\r\n"
+    ],
+    [
+      0.000643,
+      "drwxr-xr-x  18 levinotik  staff   612B Mar 26 19:56 \u001b[1m\u001b[36m.\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "drwxr-xr-x  16 levinotik  staff   544B Mar 26 19:49 \u001b[1m\u001b[36m..\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x   8 levinotik  staff   272B Mar 26 19:56 \u001b[1m\u001b[36m.cabal-sandbox\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "drwxr-xr-x  12 levinotik  staff   408B Mar 26 19:57 \u001b[1m\u001b[36m.git\u001b[39;49m\u001b[0m\r\n-rw-r--r--   1 levinotik  staff   157B Mar 26 19:48 .gitignore\r\n"
+    ],
+    [
+      0.000003,
+      "-rw-r--r--   1 levinotik  staff   1.7K Mar 26 19:48 .travis.yml\r\n"
+    ],
+    [
+      0.000004,
+      "-rw-r--r--   1 levinotik  staff   425B Mar 26 19:48 DSL.org\r\n"
+    ],
+    [
+      0.000004,
+      "-rw-r--r--   1 levinotik  staff   1.4K Mar 26 19:48 LICENSE\r\n"
+    ],
+    [
+      0.000003,
+      "-rw-r--r--   1 levinotik  staff   374B Mar 26 19:48 Makefile\r\n"
+    ],
+    [
+      0.000011,
+      "-rw-r--r--   1 levinotik  staff    26K Mar 26 19:48 README.md\r\n-rw-r--r--   1 levinotik  staff   2.4K Mar 26 19:48 Setup.hs\r\n"
+    ],
+    [
+      0.000004,
+      "-rw-r--r--   1 levinotik  staff   2.5K Mar 26 19:48 bloodhound.cabal\r\n"
+    ],
+    [
+      0.000004,
+      "-rw-r--r--   1 levinotik  staff   130K Mar 26 19:48 bloodhound.jpg\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r--   1 levinotik  staff   1.0K Mar 26 19:50 cabal.sandbox.config\r\n"
+    ],
+    [
+      0.012796,
+      "-rw-r--r--   1 levinotik  staff   1.8K Mar 26 19:48 changelog.md\r\n"
+    ],
+    [
+      0.000020,
+      "drwxr-xr-x   6 levinotik  staff   204B Mar 26 19:57 \u001b[1m\u001b[36mdist\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x   3 levinotik  staff   102B Mar 26 19:48 \u001b[1m\u001b[36msrc\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x   4 levinotik  staff   136B Mar 26 19:48 \u001b[1m\u001b[36mtests\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                               \r \r\u001b]2;levinotik@Levis-MBP: ~/github/bloodhound\u0007\u001b]1;..ub/bloodhound\u0007"
+    ],
+    [
+      0.010796,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mbloodhound \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000060,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.986875,
+      "a"
+    ],
+    [
+      0.263506,
+      "\u0008ad"
+    ],
+    [
+      0.120272,
+      "d"
+    ],
+    [
+      0.310114,
+      "\u0007"
+    ],
+    [
+      0.000008,
+      "\r\r\n"
+    ],
+    [
+      0.000115,
+      "\u001b[J\u001b[0maddftinfo        \u001b[Jaddpreludsource\u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[27C"
+    ],
+    [
+      0.000004,
+      "add\u001b[K"
+    ],
+    [
+      1.226107,
+      "p"
+    ],
+    [
+      0.130432,
+      "reludsource\u001b[1m \u001b[0m"
+    ],
+    [
+      0.685008,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000051,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000016,
+      "\r\r\n\u001b[J"
+    ],
+    [
+      0.000498,
+      "\u001b]2;addpreludsource\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b]1;addpreludsource\u0007"
+    ],
+    [
+      0.004585,
+      "~/github/bloodhound/lib ~/github/bloodhound\r\n"
+    ],
+    [
+      0.280992,
+      "Unpacking to base-4.7.0.2/\r\n"
+    ],
+    [
+      0.368271,
+      "Unpacking to ghc-prim-0.3.1.0/\r\n"
+    ],
+    [
+      0.011089,
+      "~/github/bloodhound\r\n"
+    ],
+    [
+      0.000345,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                               \r \r"
+    ],
+    [
+      0.000105,
+      "\u001b]2;levinotik@Levis-MBP: ~/github/bloodhound\u0007"
+    ],
+    [
+      0.000005,
+      "\u001b]1;..ub/bloodhound\u0007"
+    ],
+    [
+      0.017165,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mbloodhound \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000006,
+      "\u001b[K"
+    ],
+    [
+      0.000019,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.164912,
+      "e"
+    ],
+    [
+      0.247708,
+      "\u0008ex"
+    ],
+    [
+      0.119890,
+      "i"
+    ],
+    [
+      0.200193,
+      "t"
+    ],
+    [
+      0.239949,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000057,
+      "\r\r\n"
+    ],
+    [
+      0.000803,
+      "\u001b]2;exit\u0007"
+    ],
+    [
+      0.000006,
+      "\u001b]1;exit\u0007"
+    ]
+  ]
+}
