@@ -1,0 +1,398 @@
+{
+  "version": 1,
+  "width": 213,
+  "height": 54,
+  "duration": 29.519155,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "screen-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.508839,
+      "\r\r\n\u001b[33;1m[2.2.0@ouzhi] \u001b[36;1m~/Workspace/ouzhi \u001b[32;1m(master)\u001b[31;1m ✗ \u001b[0m\r\r\n \u001b[35;1m→  \u001b[0m"
+    ],
+    [
+      5.148042,
+      "c"
+    ],
+    [
+      0.126656,
+      "a"
+    ],
+    [
+      0.522912,
+      "y"
+    ],
+    [
+      0.187091,
+      " "
+    ],
+    [
+      0.334452,
+      "l"
+    ],
+    [
+      0.233153,
+      "o"
+    ],
+    [
+      0.774378,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.165049,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.157635,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.160131,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.563733,
+      "p"
+    ],
+    [
+      0.161462,
+      " "
+    ],
+    [
+      0.256967,
+      "l"
+    ],
+    [
+      0.203306,
+      "o"
+    ],
+    [
+      0.178358,
+      "c"
+    ],
+    [
+      0.089185,
+      "a"
+    ],
+    [
+      0.096727,
+      "l"
+    ],
+    [
+      0.136693,
+      " "
+    ],
+    [
+      0.162457,
+      "d"
+    ],
+    [
+      0.190428,
+      "e"
+    ],
+    [
+      0.148496,
+      "p"
+    ],
+    [
+      0.217593,
+      "l"
+    ],
+    [
+      0.220592,
+      "o"
+    ],
+    [
+      0.209331,
+      "y"
+    ],
+    [
+      0.486807,
+      "\r\n"
+    ],
+    [
+      0.515487,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m6eb0fd33\u001b[0m] Running \u001b[1;33;49m/usr/bin/env mkdir -p /tmp/ouzhi/\u001b[0m as \u001b[0;34;49mlizhe\u001b[0m@\u001b[0;34;49mouzhi.dev\u001b[0m\r\n"
+    ],
+    [
+      0.165973,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m6eb0fd33\u001b[0m] Finished in 0.166 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.004424,
+      "\u001b[0;34;49mINFO\u001b[0m Uploading /tmp/ouzhi/git-ssh.sh 100.0%\r\n"
+    ],
+    [
+      0.043560,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49mcbe559fd\u001b[0m] Running \u001b[1;33;49m/usr/bin/env chmod +x /tmp/ouzhi/git-ssh.sh\u001b[0m as \u001b[0;34;49mlizhe\u001b[0m@\u001b[0;34;49mouzhi.dev\u001b[0m\r\n"
+    ],
+    [
+      0.008228,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49mcbe559fd\u001b[0m] Finished in 0.008 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.001222,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m8707d4b9\u001b[0m] Running \u001b[1;33;49m/usr/bin/env git ls-remote --heads git@bitbucket.org:lizhe/ouzhi.git\u001b[0m as \u001b[0;34;49mlizhe\u001b[0m@\u001b[0;34;49mouzhi.dev\u001b[0m\r\n"
+    ],
+    [
+      4.057098,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m8707d4b9\u001b[0m] Finished in 4.056 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.002121,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m52851f05\u001b[0m] Running \u001b[1;33;49m/usr/bin/env mkdir -p /home/lizhe/www/ouzhi/shared /home/lizhe/www/ouzhi/releases\u001b[0m as \u001b[0;34;49mlizhe\u001b[0m@\u001b[0;34;49mouzhi.dev\u001b[0m\r\n"
+    ],
+    [
+      0.007559,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m52851f05\u001b[0m] Finished in 0.007 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.001127,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m99daefa1\u001b[0m] Running \u001b[1;33;49m/usr/bin/env mkdir -p /home/lizhe/www/ouzhi/shared/public/assets /home/lizhe/www/ouzhi/shared/log /home/lizhe/www/ouzhi/shared/log /home/lizhe/www/ouzhi/shared/tmp/pids /home/lizhe/www/ouzhi/shared/log /home/lizhe/www/ouzhi/shared/tmp/pids /home/lizhe/www/ouzhi/shared/tmp/cache /home/lizhe/www/ouzhi/shared/tmp/sockets /home/lizhe/www/ouzhi/shared/public/system /home/lizhe/www/ouzhi/shared/public/assets\u001b[0m as \u001b[0;34;49mlizhe\u001b[0m@\u001b[0;34;49mouzhi.dev\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.004656,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m99daefa1\u001b[0m] Finished in 0.004 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.000843,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m2838012d\u001b[0m] Running \u001b[1;33;49m/usr/bin/env mkdir -p /home/lizhe/www/ouzhi/shared/config /home/lizhe/www/ouzhi/shared/config\u001b[0m as \u001b[0;34;49mlizhe\u001b[0m@\u001b[0;34;49mouzhi.dev\u001b[0m\r\n"
+    ],
+    [
+      0.005032,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m2838012d\u001b[0m] Finished in 0.005 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.026749,
+      "\u001b[0;34;49mINFO\u001b[0m The repository mirror is at /home/lizhe/www/ouzhi/repo\r\n"
+    ],
+    [
+      0.004435,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49mbab603fb\u001b[0m] Running \u001b[1;33;49m/usr/bin/env git remote update\u001b[0m as \u001b[0;34;49mlizhe\u001b[0m@\u001b[0;34;49mouzhi.dev\u001b[0m\r\n"
+    ],
+    [
+      4.150564,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49mbab603fb\u001b[0m] Finished in 4.149 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.006897,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m711c336e\u001b[0m] Running \u001b[1;33;49m/usr/bin/env mkdir -p /home/lizhe/www/ouzhi/releases/20150326030056\u001b[0m as \u001b[0;34;49mlizhe\u001b[0m@\u001b[0;34;49mouzhi.dev\u001b[0m\r\n"
+    ],
+    [
+      0.007639,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m711c336e\u001b[0m] Finished in 0.007 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.000542,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49md7f336f5\u001b[0m] Running \u001b[1;33;49m/usr/bin/env git archive master | tar -x -f - -C /home/lizhe/www/ouzhi/releases/20150326030056\u001b[0m as \u001b[0;34;49mlizhe\u001b[0m@\u001b[0;34;49mouzhi.dev\u001b[0m\r\n"
+    ],
+    [
+      0.014977,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49md7f336f5\u001b[0m] Finished in 0.014 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.016692,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49mc39a403b\u001b[0m] Running \u001b[1;33;49m/usr/bin/env echo \"2b1b8fd\" \u003e\u003e REVISION\u001b[0m as \u001b[0;34;49mlizhe\u001b[0m@\u001b[0;34;49mouzhi.dev\u001b[0m\r\n"
+    ],
+    [
+      0.006064,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49mc39a403b\u001b[0m] Finished in 0.006 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.000803,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49mc89d4a22\u001b[0m] Running \u001b[1;33;49m/usr/bin/env mkdir -p /home/lizhe/www/ouzhi/releases/20150326030056/config /home/lizhe/www/ouzhi/releases/20150326030056/config\u001b[0m as \u001b[0;34;49mlizhe\u001b[0m@\u001b[0;34;49mouzhi.dev\u001b[0m\r\n"
+    ],
+    [
+      0.006795,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49mc89d4a22\u001b[0m] Finished in 0.006 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.009750,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m16291bf9\u001b[0m] Running \u001b[1;33;49m/usr/bin/env ln -s /home/lizhe/www/ouzhi/shared/config/database.yml /home/lizhe/www/ouzhi/releases/20150326030056/config/database.yml\u001b[0m as \u001b[0;34;49mlizhe\u001b[0m@\u001b[0;34;49mouzhi.dev\u001b[0m\r\n"
+    ],
+    [
+      0.007633,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m16291bf9\u001b[0m] Finished in 0.007 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.011983,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49mea00ab9c\u001b[0m] Running \u001b[1;33;49m/usr/bin/env ln -s /home/lizhe/www/ouzhi/shared/config/secrets.yml /home/lizhe/www/ouzhi/releases/20150326030056/config/secrets.yml\u001b[0m as \u001b[0;34;49mlizhe\u001b[0m@\u001b[0;34;49mouzhi.dev\u001b[0m\r\n"
+    ],
+    [
+      0.007645,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49mea00ab9c\u001b[0m] Finished in 0.007 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.001096,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m2933212c\u001b[0m] Running \u001b[1;33;49m/usr/bin/env mkdir -p /home/lizhe/www/ouzhi/releases/20150326030056/public /home/lizhe/www/ouzhi/releases/20150326030056 /home/lizhe/www/ouzhi/releases/20150326030056 /home/lizhe/www/ouzhi/releases/20150326030056/tmp /home/lizhe/www/ouzhi/releases/20150326030056 /home/lizhe/www/ouzhi/releases/20150326030056/tmp /home/lizhe/www/ouzhi/releases/20150326030056/tmp /home/lizhe/www/ouzhi/releases/20150326030056/tmp /home/lizhe/www/ouzhi/releases/20150326030056/public /home/lizhe/www/ouzhi/releases/20150326030056/public\u001b[0m as \u001b[0;34;49mlizhe\u001b[0m@\u001b[0;34;49mouzhi.dev\u001b[0m\r\n"
+    ],
+    [
+      0.006468,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m2933212c\u001b[0m] Finished in 0.006 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.011286,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49mb696380c\u001b[0m] Running \u001b[1;33;49m/usr/bin/env ln -s /home/lizhe/www/ouzhi/shared/public/assets /home/lizhe/www/ouzhi/releases/20150326030056/public/assets\u001b[0m as \u001b[0;34;49mlizhe\u001b[0m@\u001b[0;34;49mouzhi.dev\u001b[0m\r\n"
+    ],
+    [
+      0.003904,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49mb696380c\u001b[0m] Finished in 0.004 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.009874,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49ma09cb885\u001b[0m] Running \u001b[1;33;49m/usr/bin/env rm -rf /home/lizhe/www/ouzhi/releases/20150326030056/log\u001b[0m as \u001b[0;34;49mlizhe\u001b[0m@\u001b[0;34;49mouzhi.dev\u001b[0m\r\n"
+    ],
+    [
+      0.004535,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49ma09cb885\u001b[0m] Finished in 0.004 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.000405,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49md6574bdf\u001b[0m] Running \u001b[1;33;49m/usr/bin/env ln -s /home/lizhe/www/ouzhi/shared/log /home/lizhe/www/ouzhi/releases/20150326030056/log\u001b[0m as \u001b[0;34;49mlizhe\u001b[0m@\u001b[0;34;49mouzhi.dev\u001b[0m\r\n"
+    ],
+    [
+      0.005727,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49md6574bdf\u001b[0m] Finished in 0.005 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.011346,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m04189abf\u001b[0m] Running \u001b[1;33;49m/usr/bin/env ln -s /home/lizhe/www/ouzhi/shared/tmp/pids /home/lizhe/www/ouzhi/releases/20150326030056/tmp/pids\u001b[0m as \u001b[0;34;49mlizhe\u001b[0m@\u001b[0;34;49mouzhi.dev\u001b[0m\r\n"
+    ],
+    [
+      0.004844,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m04189abf\u001b[0m] Finished in 0.005 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.013093,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49ma7af5d66\u001b[0m] Running \u001b[1;33;49m/usr/bin/env ln -s /home/lizhe/www/ouzhi/shared/tmp/cache /home/lizhe/www/ouzhi/releases/20150326030056/tmp/cache\u001b[0m as \u001b[0;34;49mlizhe\u001b[0m@\u001b[0;34;49mouzhi.dev\u001b[0m\r\n"
+    ],
+    [
+      0.005820,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49ma7af5d66\u001b[0m] Finished in 0.005 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.007334,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m0033c85d\u001b[0m] Running \u001b[1;33;49m/usr/bin/env ln -s /home/lizhe/www/ouzhi/shared/tmp/sockets /home/lizhe/www/ouzhi/releases/20150326030056/tmp/sockets\u001b[0m as \u001b[0;34;49mlizhe\u001b[0m@\u001b[0;34;49mouzhi.dev\u001b[0m\r\n"
+    ],
+    [
+      0.004502,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m0033c85d\u001b[0m] Finished in 0.004 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.007634,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49mfdb2572d\u001b[0m] Running \u001b[1;33;49m/usr/bin/env ln -s /home/lizhe/www/ouzhi/shared/public/system /home/lizhe/www/ouzhi/releases/20150326030056/public/system\u001b[0m as \u001b[0;34;49mlizhe\u001b[0m@\u001b[0;34;49mouzhi.dev\u001b[0m\r\n"
+    ],
+    [
+      0.005067,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49mfdb2572d\u001b[0m] Finished in 0.005 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.009196,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m43235d90\u001b[0m] Running \u001b[1;33;49m~/.rvm/bin/rvm 2.2.0 do bundle install --path /home/lizhe/www/ouzhi/shared/bundle --without development test --deployment --quiet\u001b[0m as \u001b[0;34;49mlizhe\u001b[0m@\u001b[0;34;49mouzhi.dev\u001b[0m\r\n"
+    ],
+    [
+      3.251763,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m43235d90\u001b[0m] Finished in 3.251 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.003321,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49md0959028\u001b[0m] Running \u001b[1;33;49m~/.rvm/bin/rvm 2.2.0 do bundle exec rake assets:precompile\u001b[0m as \u001b[0;34;49mlizhe\u001b[0m@\u001b[0;34;49mouzhi.dev\u001b[0m\r\n"
+    ],
+    [
+      1.818906,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49md0959028\u001b[0m] Finished in 1.819 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.003550,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49mb36af655\u001b[0m] Running \u001b[1;33;49m/usr/bin/env cp /home/lizhe/www/ouzhi/releases/20150326030056/public/assets/manifest* /home/lizhe/www/ouzhi/releases/20150326030056/assets_manifest_backup\u001b[0m as \u001b[0;34;49mlizhe\u001b[0m@\u001b[0;34;49mouzhi.dev\u001b[0m\r\n"
+    ],
+    [
+      0.004142,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49mb36af655\u001b[0m] Finished in 0.004 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.006869,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m2a886292\u001b[0m] Running \u001b[1;33;49m~/.rvm/bin/rvm 2.2.0 do bundle exec rake db:migrate\u001b[0m as \u001b[0;34;49mlizhe\u001b[0m@\u001b[0;34;49mouzhi.dev\u001b[0m\r\n"
+    ],
+    [
+      1.767641,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m2a886292\u001b[0m] Finished in 1.767 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.000516,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m197c5807\u001b[0m] Running \u001b[1;33;49m/usr/bin/env ln -s /home/lizhe/www/ouzhi/releases/20150326030056 /home/lizhe/www/ouzhi/releases/current\u001b[0m as \u001b[0;34;49mlizhe\u001b[0m@\u001b[0;34;49mouzhi.dev\u001b[0m\r\n"
+    ],
+    [
+      0.004439,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m197c5807\u001b[0m] Finished in 0.004 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.000335,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49mc87b4e23\u001b[0m] Running \u001b[1;33;49m/usr/bin/env mv /home/lizhe/www/ouzhi/releases/current /home/lizhe/www/ouzhi\u001b[0m as \u001b[0;34;49mlizhe\u001b[0m@\u001b[0;34;49mouzhi.dev\u001b[0m\r\n"
+    ],
+    [
+      0.005414,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49mc87b4e23\u001b[0m] Finished in 0.005 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.000902,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m3ae717f1\u001b[0m] Running \u001b[1;33;49m/usr/bin/env sudo /etc/init.d/nginx reload\u001b[0m as \u001b[0;34;49mlizhe\u001b[0m@\u001b[0;34;49mouzhi.dev\u001b[0m\r\n"
+    ],
+    [
+      0.021330,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m3ae717f1\u001b[0m] Finished in 0.020 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.000450,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m3280e74b\u001b[0m] Running \u001b[1;33;49m/usr/bin/env service unicorn_ouzhi_local restart\u001b[0m as \u001b[0;34;49mlizhe\u001b[0m@\u001b[0;34;49mouzhi.dev\u001b[0m\r\n"
+    ],
+    [
+      0.010987,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m3280e74b\u001b[0m] Finished in 0.010 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m)."
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.008486,
+      "\u001b[0;34;49mINFO\u001b[0m Keeping 5 of 6 deployed releases on ouzhi.dev\r\n"
+    ],
+    [
+      0.001053,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m11da650b\u001b[0m] Running \u001b[1;33;49m/usr/bin/env rm -rf /home/lizhe/www/ouzhi/releases/20150325033633\u001b[0m as \u001b[0;34;49mlizhe\u001b[0m@\u001b[0;34;49mouzhi.dev\u001b[0m\r\n"
+    ],
+    [
+      0.012289,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m11da650b\u001b[0m] Finished in 0.012 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.005750,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m2cd59594\u001b[0m] Running \u001b[1;33;49m/usr/bin/env echo \"Branch master (at 2b1b8fd) deployed as release 20150326030056 by lizhe\" \u003e\u003e /home/lizhe/www/ouzhi/revisions.log\u001b[0m as \u001b[0;34;49mlizhe\u001b[0m@\u001b[0;34;49mouzhi.dev\u001b[0m\r\n"
+    ],
+    [
+      0.006715,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m2cd59594\u001b[0m] Finished in 0.007 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.028792,
+      "\r\r\n\u001b[33;1m[2.2.0@ouzhi] \u001b[36;1m~/Workspace/ouzhi \u001b[32;1m(master)\u001b[31;1m ✗ \u001b[0m\r\r\n \u001b[35;1m→  \u001b[0m"
+    ],
+    [
+      1.704063,
+      "exit\r\n"
+    ]
+  ]
+}
