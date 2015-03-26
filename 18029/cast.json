@@ -1,0 +1,1826 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 219.839904,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.084960,
+      "\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ "
+    ],
+    [
+      6.202685,
+      "l"
+    ],
+    [
+      0.125899,
+      "s"
+    ],
+    [
+      0.685679,
+      "\r\n"
+    ],
+    [
+      0.001597,
+      "monitor.py  Readme.md\r\n\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ "
+    ],
+    [
+      0.688036,
+      "l"
+    ],
+    [
+      0.104556,
+      "s"
+    ],
+    [
+      0.065278,
+      " "
+    ],
+    [
+      0.085153,
+      "-"
+    ],
+    [
+      0.174919,
+      "l"
+    ],
+    [
+      0.849857,
+      "\r\n"
+    ],
+    [
+      0.000896,
+      "total 12\r\n-rw-rw-r-- 1 shafi shafi 5132 Mar 25 23:22 monitor.py\r\n-rw-rw-r-- 1 shafi shafi  665 Mar 24 16:49 Readme.md\r\n\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ "
+    ],
+    [
+      3.952919,
+      "#"
+    ],
+    [
+      0.389475,
+      " "
+    ],
+    [
+      0.272443,
+      "C"
+    ],
+    [
+      0.320629,
+      "a"
+    ],
+    [
+      0.191245,
+      "s"
+    ],
+    [
+      0.290170,
+      "e"
+    ],
+    [
+      0.257092,
+      " "
+    ],
+    [
+      0.221783,
+      "1"
+    ],
+    [
+      0.263517,
+      " "
+    ],
+    [
+      0.290903,
+      ":"
+    ],
+    [
+      0.617736,
+      " "
+    ],
+    [
+      0.312066,
+      "V"
+    ],
+    [
+      0.541527,
+      "a"
+    ],
+    [
+      0.098622,
+      "l"
+    ],
+    [
+      0.212669,
+      "i"
+    ],
+    [
+      0.330053,
+      "d"
+    ],
+    [
+      0.260398,
+      " "
+    ],
+    [
+      0.339099,
+      "c"
+    ],
+    [
+      0.632481,
+      "A"
+    ],
+    [
+      0.239180,
+      "e"
+    ],
+    [
+      0.503996,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.154921,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.105633,
+      "a"
+    ],
+    [
+      0.207622,
+      "s"
+    ],
+    [
+      0.163438,
+      "e"
+    ],
+    [
+      0.449240,
+      "\r\n\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ "
+    ],
+    [
+      5.864938,
+      "monitor.py --url http://ww \rw.oracle.com/index.html"
+    ],
+    [
+      2.858802,
+      "\r\n"
+    ],
+    [
+      0.232799,
+      "monitor.py: command not found"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.011258,
+      "\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ "
+    ],
+    [
+      2.309417,
+      "l"
+    ],
+    [
+      0.099015,
+      "s"
+    ],
+    [
+      0.069168,
+      " "
+    ],
+    [
+      0.098207,
+      "-"
+    ],
+    [
+      0.190833,
+      "l"
+    ],
+    [
+      0.619399,
+      "\r\n"
+    ],
+    [
+      0.000512,
+      "total 12\r\n-rw-rw-r-- 1 shafi shafi 5132 Mar 25 23:22 monitor.py\r\n-rw-rw-r-- 1 shafi shafi  665 Mar 24 16:49 Readme.md\r\n"
+    ],
+    [
+      0.000496,
+      "\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ "
+    ],
+    [
+      2.485033,
+      "ls -l"
+    ],
+    [
+      0.694432,
+      "\u0008\u0008\u0008\u0008\u0008monitor.py --url http://www\rw.oracle.com/index.html"
+    ],
+    [
+      1.121045,
+      "\u001b[A\r\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ "
+    ],
+    [
+      0.883901,
+      "pmonitor.py --url http://www.oracle.com/index.html\u001b[A\r\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ \u001b[C"
+    ],
+    [
+      0.271864,
+      "ymonitor.py --url http://w\u001b[Cw.oracle.com/index.html\u001b[A\r\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ \u001b[C\u001b[C"
+    ],
+    [
+      0.178921,
+      "tmonitor.py --url http://\u001b[C\u001b[Cw.oracle.com/index.html\u001b[A\r\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ \u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.208093,
+      "hmonitor.py --url http://www.oracle.com/index.html\u001b[A\r\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ \u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.625833,
+      "\u0007"
+    ],
+    [
+      0.000684,
+      "onmonitor.py --url http://www.oracle.com/index.html\u001b[A\r\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.623733,
+      " monitor.py --url http://www.oracle.com/index.html\u001b[A\r\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.453278,
+      "\r\n\r\r\n"
+    ],
+    [
+      0.041942,
+      "root        : INFO     ----------- Starting -------------"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000191,
+      "root        : INFO     Global Dictionary {'lang': 'en', 'length': '38827', 'type': 'text/html; charset=utf-8'}"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.075073,
+      "root        : INFO     http://www.oracle.com/index.html is reachable\r\n"
+    ],
+    [
+      0.000125,
+      "root        : INFO     http code : 200"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000151,
+      "root        : INFO     "
+    ],
+    [
+      0.000004,
+      "\r\n Content-Length: 38827\r\r\n"
+    ],
+    [
+      0.000003,
+      "Access-Control-Allow-Origin: *\r\r\n"
+    ],
+    [
+      0.000002,
+      "X-Powered-By: Servlet/2.5 JSP/2.1\r"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "X-Frame-Options: SAMEORIGIN\r"
+    ],
+    [
+      0.000003,
+      "\r\nContent-Type: text/html; charset=utf-8\r"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "Content-Language: en\r"
+    ],
+    [
+      0.000003,
+      "\r\nX-Oracle-DMS-ECID: 146098898721199\r"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "Server: Oracle-Application-Server-11g Oracle-Web-Cache-11g/11.1.1.6.0 (G;max-age=300+0;age=0;ecid=146098898721199,0:1)\r"
+    ],
+    [
+      0.000003,
+      "\r\nDate: Thu, 26 Mar 2015 04:24:41 GMT\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "Connection: close\r\r\n\r\n"
+    ],
+    [
+      0.000126,
+      "root        : INFO     Expects Contents \u003e\u003e {'lang': 'en', 'length': '38827', 'type': 'text/html; charset=utf-8'}"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000113,
+      "root        : INFO     Current Contents \u003e\u003e {'lang': 'en', 'length': '38827', 'type': 'text/html; charset=utf-8'}"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000101,
+      "root        : INFO     === Content same ==="
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      5.005311,
+      "root        : INFO     Global Dictionary {'lang': 'en', 'length': '38827', 'type': 'text/html; charset=utf-8'}\r\n"
+    ],
+    [
+      0.074937,
+      "root        : INFO     http://www.oracle.com/index.html is reachable\r\nroot        : INFO     http code : 200\r\nroot        : INFO     \r\n Content-Length: 38827\r\r\nAccess-Control-Allow-Origin: *\r\r\nX-Powered-By: Servlet/2.5 JSP/2.1\r\r\nX-Frame-Options: SAMEORIGIN\r\r\nContent-Type: text/html; charset=utf-8\r\r\nContent-Language: en\r\r\nX-Oracle-DMS-ECID: 146098898721199\r\r\nServer: Oracle-Application-Server-11g Oracle-Web-Cache-11g/11.1.1.6.0 (G;max-age=300+0;age=0;ecid=146098898721199,0:1)\r\r\nDate: Thu, 26 Mar 2015 04:24:46 GMT\r\r\nConnection: close\r\r\n\r\nroot        : INFO     Expects Contents \u003e\u003e {'lang': 'en', 'length': '38827', 'type': 'text/html; charset=utf-8'}\r\nroot        : INFO     Current Contents \u003e\u003e {'lang': 'en', 'length': '38827', 'type': 'text/html; charset=utf-8'}\r\nroot        : INFO     === Content same ===\r\n"
+    ],
+    [
+      5.002469,
+      "root        : INFO     Global Dictionary {'lang': 'en', 'length': '38827', 'type': 'text/html; charset=utf-8'}\r\n"
+    ],
+    [
+      0.082506,
+      "root        : INFO     http://www.oracle.com/index.html is reachable\r\nroot        : INFO     http code : 200\r\nroot        : INFO     \r\n Content-Length: 38827\r\r\nAccess-Control-Allow-Origin: *\r\r\nX-Powered-By: Servlet/2.5 JSP/2.1\r\r\nX-Frame-Options: SAMEORIGIN\r\r\nContent-Type: text/html; charset=utf-8\r\r\nContent-Language: en\r\r\nX-Oracle-DMS-ECID: 146098898721199\r\r\nServer: Oracle-Application-Server-11g Oracle-Web-Cache-11g/11.1.1.6.0 (G;max-age=300+0;age=0;ecid=146098898721199,0:1)\r\r\nDate: Thu, 26 Mar 2015 04:24:51 GMT\r\r\nConnection: close\r\r\n\r\nroot        : INFO     Expects Contents \u003e\u003e {'lang': 'en', 'length': '38827', 'type': 'text/html; charset=utf-8'}\r\nroot        : INFO     Current Contents \u003e\u003e {'lang': 'en', 'length': '38827', 'type': 'text/html; charset=utf-8'}\r\nroot        : INFO     === Content same ===\r\n"
+    ],
+    [
+      1.760737,
+      "^C"
+    ],
+    [
+      0.005418,
+      "Traceback (most recent call last):\r\n  File \"monitor.py\", line 153, in \u003cmodule\u003e\r\n    main(sys.argv[1:])\r\n  File \"monitor.py\", line 146, in main\r\n    time.sleep(5)\r\nKeyboardInterrupt\r\n"
+    ],
+    [
+      0.001207,
+      "\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ "
+    ],
+    [
+      5.462387,
+      "c"
+    ],
+    [
+      0.134849,
+      "l"
+    ],
+    [
+      0.153185,
+      "e"
+    ],
+    [
+      0.257167,
+      "a"
+    ],
+    [
+      0.272779,
+      "r"
+    ],
+    [
+      3.199718,
+      "\r\n"
+    ],
+    [
+      0.000713,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000464,
+      "\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ "
+    ],
+    [
+      5.091047,
+      "#"
+    ],
+    [
+      0.322506,
+      " "
+    ],
+    [
+      0.694079,
+      "V"
+    ],
+    [
+      0.517173,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.273512,
+      "C"
+    ],
+    [
+      0.279470,
+      "a"
+    ],
+    [
+      0.253488,
+      "s"
+    ],
+    [
+      0.166868,
+      "e"
+    ],
+    [
+      0.212792,
+      " "
+    ],
+    [
+      0.150557,
+      "2"
+    ],
+    [
+      0.667294,
+      " "
+    ],
+    [
+      1.502947,
+      "v"
+    ],
+    [
+      0.543196,
+      "\u0008\u001b[K"
+    ],
+    [
+      1.312547,
+      "V"
+    ],
+    [
+      0.844383,
+      "a"
+    ],
+    [
+      0.117437,
+      "l"
+    ],
+    [
+      0.186123,
+      "i"
+    ],
+    [
+      0.093956,
+      "d"
+    ],
+    [
+      0.321000,
+      " "
+    ],
+    [
+      0.141109,
+      "u"
+    ],
+    [
+      0.130212,
+      "r"
+    ],
+    [
+      0.182402,
+      "l"
+    ],
+    [
+      0.226875,
+      " "
+    ],
+    [
+      0.451133,
+      "w"
+    ],
+    [
+      0.112642,
+      "i"
+    ],
+    [
+      0.198783,
+      "t"
+    ],
+    [
+      0.172330,
+      "h"
+    ],
+    [
+      0.129710,
+      " "
+    ],
+    [
+      0.245413,
+      "r"
+    ],
+    [
+      0.126819,
+      "e \r"
+    ],
+    [
+      1.647516,
+      "t"
+    ],
+    [
+      0.181739,
+      "y"
+    ],
+    [
+      1.190467,
+      "\u0008\u001b[K"
+    ],
+    [
+      1.713736,
+      "t"
+    ],
+    [
+      0.198492,
+      "y"
+    ],
+    [
+      0.600908,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.137147,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.333828,
+      "r"
+    ],
+    [
+      0.070089,
+      "y"
+    ],
+    [
+      1.549845,
+      " "
+    ],
+    [
+      0.206992,
+      "c"
+    ],
+    [
+      0.073291,
+      "o"
+    ],
+    [
+      0.144532,
+      "u"
+    ],
+    [
+      0.219025,
+      "n"
+    ],
+    [
+      0.207326,
+      "t"
+    ],
+    [
+      0.176880,
+      " "
+    ],
+    [
+      0.822312,
+      "5"
+    ],
+    [
+      0.433094,
+      "\r\n\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ "
+    ],
+    [
+      6.646456,
+      "monitor.py --url http://ww \rw.oracle.com/index.html --retry 5 "
+    ],
+    [
+      1.018865,
+      "\r\n"
+    ],
+    [
+      0.116523,
+      "monitor.py: command not found"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.010923,
+      "\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ "
+    ],
+    [
+      1.606801,
+      "monitor.py --url http://www\rw.oracle.com/index.html --retry 5 "
+    ],
+    [
+      0.980202,
+      "\u001b[A\r\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ "
+    ],
+    [
+      0.782153,
+      "pmonitor.py --url http://ww\u001b[1@w\u001b[A\r\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ \u001b[C"
+    ],
+    [
+      0.931734,
+      "ymonitor.py --url http://w\u001b[C\u001b[1@w\u001b[A\r\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ \u001b[C\u001b[C"
+    ],
+    [
+      0.247190,
+      "tmonitor.py --url http://\u001b[C\u001b[C\u001b[1@w\u001b[A\r\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ \u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.267375,
+      "hmonitor.py --url http:/\u001b[1@/\u001b[A\r\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ \u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.130883,
+      "\u0007"
+    ],
+    [
+      0.000603,
+      "onmonitor.py --url http\u001b[2@:/\u001b[A\r\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.689744,
+      " monitor.py --url htt\u001b[1@p\u001b[A\r\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.266901,
+      "\r\n\r\r\n"
+    ],
+    [
+      0.044402,
+      "root        : INFO     ----------- Starting -------------\r\nRetry Count is : 5\r\nroot        : INFO     Global Dictionary {'lang': 'en', 'length': '38827', 'type': 'text/html; charset=utf-8'}\r\n"
+    ],
+    [
+      0.074851,
+      "root        : INFO     http://www.oracle.com/index.html is reachable"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000183,
+      "root        : INFO     http code : 200"
+    ],
+    [
+      0.000060,
+      "\r\n"
+    ],
+    [
+      0.000308,
+      "root        : INFO     \r\n Content-Length: 38827\r\r\nAccess-Control-Allow-Origin: *\r\r\nX-Powered-By: Servlet/2.5 JSP/2.1\r\r\nX-Frame-Options: SAMEORIGIN\r\r\nContent-Type: text/html; charset=utf-8\r\r\nContent-Language: en\r\r\nX-Oracle-DMS-ECID: 146098898721199\r\r\nServer: Oracle-Application-Server-11g Oracle-Web-Cache-11g/11.1.1.6.0 (G;max-age=300+0;age=0;ecid=146098898721199,0:1)\r\r\nDate: Thu, 26 Mar 2015 04:25:41 GMT\r"
+    ],
+    [
+      0.000005,
+      "\r\nConnection: close\r\r\n\r\nroot        : INFO     Expects Contents \u003e\u003e {'lang': 'en', 'length': '38827', 'type': 'text/html; charset=utf-8'}\r\n"
+    ],
+    [
+      0.000138,
+      "root        : INFO     Current Contents \u003e\u003e {'lang': 'en', 'length': '38827', 'type': 'text/html; charset=utf-8'}"
+    ],
+    [
+      0.000051,
+      "\r\n"
+    ],
+    [
+      0.000050,
+      "root        : INFO     === Content same ==="
+    ],
+    [
+      0.000044,
+      "\r\n"
+    ],
+    [
+      5.001769,
+      "root        : INFO     Global Dictionary {'lang': 'en', 'length': '38827', 'type': 'text/html; charset=utf-8'}\r\n"
+    ],
+    [
+      0.075941,
+      "root        : INFO     http://www.oracle.com/index.html is reachable\r\nroot        : INFO     http code : 200\r\nroot        : INFO     \r\n Content-Length: 38827\r\r\nAccess-Control-Allow-Origin: *\r\r\nX-Powered-By: Servlet/2.5 JSP/2.1\r\r\nX-Frame-Options: SAMEORIGIN\r\r\nContent-Type: text/html; charset=utf-8\r\r\nContent-Language: en\r\r\nX-Oracle-DMS-ECID: 146098898721199\r\r\nServer: Oracle-Application-Server-11g Oracle-Web-Cache-11g/11.1.1.6.0 (G;max-age=300+0;age=0;ecid=146098898721199,0:1)\r\r\nDate: Thu, 26 Mar 2015 04:25:47 GMT\r\r\nConnection: close\r\r\n\r\nroot        : INFO     Expects Contents \u003e\u003e {'lang': 'en', 'length': '38827', 'type': 'text/html; charset=utf-8'}\r\nroot        : INFO     Current Contents \u003e\u003e {'lang': 'en', 'length': '38827', 'type': 'text/html; charset=utf-8'}\r\nroot        : INFO     === Content same ===\r\n"
+    ],
+    [
+      5.005069,
+      "root        : INFO     Global Dictionary {'lang': 'en', 'length': '38827', 'type': 'text/html; charset=utf-8'}\r\n"
+    ],
+    [
+      0.076785,
+      "root        : INFO     http://www.oracle.com/index.html is reachable\r\nroot        : INFO     http code : 200\r\nroot        : INFO     \r\n Content-Length: 38827\r\r\nAccess-Control-Allow-Origin: *\r\r\nX-Powered-By: Servlet/2.5 JSP/2.1\r\r\nX-Frame-Options: SAMEORIGIN\r\r\nContent-Type: text/html; charset=utf-8\r\r\nContent-Language: en\r\r\nX-Oracle-DMS-ECID: 146098898721199\r\r\nServer: Oracle-Application-Server-11g Oracle-Web-Cache-11g/11.1.1.6.0 (G;max-age=300+0;age=0;ecid=146098898721199,0:1)\r\r\nDate: Thu, 26 Mar 2015 04:25:52 GMT\r\r\nConnection: close\r\r\n\r\nroot        : INFO     Expects Contents \u003e\u003e {'lang': 'en', 'length': '38827', 'type': 'text/html; charset=utf-8'}\r\nroot        : INFO     Current Contents \u003e\u003e {'lang': 'en', 'length': '38827', 'type': 'text/html; charset=utf-8'}\r\nroot        : INFO     === Content same ===\r\n"
+    ],
+    [
+      2.919639,
+      "^Z"
+    ],
+    [
+      0.000551,
+      "\r\n[1]+  Stopped                 python monitor.py --url http://www.oracle.com/index.html --retry 5\r\n\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ "
+    ],
+    [
+      3.710909,
+      "l"
+    ],
+    [
+      0.091069,
+      "s"
+    ],
+    [
+      0.097920,
+      " "
+    ],
+    [
+      0.395296,
+      "\r\nmonitor.py  output.log  Readme.md\r\n\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ "
+    ],
+    [
+      1.037704,
+      "p"
+    ],
+    [
+      0.118896,
+      "s"
+    ],
+    [
+      0.063955,
+      " "
+    ],
+    [
+      0.310405,
+      "e"
+    ],
+    [
+      0.690813,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.183640,
+      "-"
+    ],
+    [
+      0.107746,
+      "e"
+    ],
+    [
+      0.237396,
+      "a"
+    ],
+    [
+      0.224302,
+      "f"
+    ],
+    [
+      0.146232,
+      " "
+    ],
+    [
+      0.282204,
+      "|"
+    ],
+    [
+      0.144481,
+      " "
+    ],
+    [
+      0.553685,
+      "g"
+    ],
+    [
+      0.165829,
+      "r"
+    ],
+    [
+      0.096555,
+      "e"
+    ],
+    [
+      0.188824,
+      "p"
+    ],
+    [
+      0.167764,
+      " "
+    ],
+    [
+      0.692464,
+      "m"
+    ],
+    [
+      0.145892,
+      "o"
+    ],
+    [
+      0.709377,
+      "n"
+    ],
+    [
+      0.812999,
+      "i"
+    ],
+    [
+      0.267874,
+      "t"
+    ],
+    [
+      0.226812,
+      "o"
+    ],
+    [
+      0.127233,
+      "r"
+    ],
+    [
+      0.411745,
+      "\r\n"
+    ],
+    [
+      0.035856,
+      "shafi     2627  1936  0 Mar19 ?        00:00:02 /usr/lib/gvfs/gvfs-udisks2-volume-\u001b[01;31m\u001b[Kmonitor\u001b[m\u001b[K"
+    ],
+    [
+      0.000160,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      "shafi     2668  1936  0 Mar19 ?        00:00:00 /usr/lib/gvfs/gvfs-gphoto2-volume-\u001b[01;31m\u001b[Kmonitor\u001b[m\u001b[K"
+    ],
+    [
+      0.000041,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "shafi     2672  1936  0 Mar19 ?        00:00:00 /usr/lib/gvfs/gvfs-mtp-volume-\u001b[01;31m\u001b[Kmonitor\u001b[m\u001b[K"
+    ],
+    [
+      0.000041,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "shafi     2676  1936  0 Mar19 ?        00:00:00 /usr/lib/gvfs/gvfs-afc-volume-\u001b[01;31m\u001b[Kmonitor\u001b[m\u001b[K"
+    ],
+    [
+      0.000045,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "shafi     3122  2083  0 Mar19 ?        00:00:00 /usr/lib/x86_64-linux-gnu/deja-dup/deja-dup-\u001b[01;31m\u001b[Kmonitor\u001b[m\u001b[K"
+    ],
+    [
+      0.000046,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "shafi     6678  6620  0 23:25 pts/26   00:00:00 python \u001b[01;31m\u001b[Kmonitor\u001b[m\u001b[K.py --url http://www.oracle.com/index.html --retry 5"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "shafi     6689  6620  0 23:26 pts/26   00:00:00 grep --color=auto \u001b[01;31m\u001b[Kmonitor\u001b[m\u001b[K"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.001637,
+      "shafi    31907  7435  1 16:43 ?        00:06:43 /home/shafi/anaconda/bin/python /home/shafi/PycharmProjects/democodes/test/\u001b[01;31m\u001b[Kmonitor\u001b[m\u001b[K.py -h"
+    ],
+    [
+      0.000114,
+      "\r\n"
+    ],
+    [
+      0.000924,
+      "\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ "
+    ],
+    [
+      3.194585,
+      "k"
+    ],
+    [
+      0.183209,
+      "i"
+    ],
+    [
+      0.193139,
+      "l"
+    ],
+    [
+      0.176884,
+      "l"
+    ],
+    [
+      0.131770,
+      " "
+    ],
+    [
+      0.129013,
+      "-"
+    ],
+    [
+      0.199553,
+      "9"
+    ],
+    [
+      0.951530,
+      " "
+    ],
+    [
+      0.293059,
+      "m"
+    ],
+    [
+      0.222779,
+      "\u0007"
+    ],
+    [
+      0.892264,
+      "n"
+    ],
+    [
+      0.227250,
+      "o"
+    ],
+    [
+      0.519882,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.166901,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.676911,
+      "\u0008\u001b[K"
+    ],
+    [
+      1.096644,
+      "6"
+    ],
+    [
+      0.153642,
+      "6"
+    ],
+    [
+      0.201778,
+      "7"
+    ],
+    [
+      0.149298,
+      "8"
+    ],
+    [
+      0.464902,
+      "\r\n\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ "
+    ],
+    [
+      1.012065,
+      "l"
+    ],
+    [
+      0.120041,
+      "s"
+    ],
+    [
+      0.037400,
+      " "
+    ],
+    [
+      0.100682,
+      "-"
+    ],
+    [
+      0.142701,
+      "l"
+    ],
+    [
+      0.253983,
+      "\r\n"
+    ],
+    [
+      0.001342,
+      "total 16"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000065,
+      "-rw-rw-r-- 1 shafi shafi 5132 Mar 25 23:22 monitor.py\r\n"
+    ],
+    [
+      0.000023,
+      "-rw-rw-r-- 1 shafi shafi 3090 Mar 25 23:25 output.log\r\n"
+    ],
+    [
+      0.000003,
+      "-rw-rw-r-- 1 shafi shafi  665 Mar 24 16:49 Readme.md\r\n"
+    ],
+    [
+      0.000708,
+      "[1]+  Killed                  python monitor.py --url http://www.oracle.com/index.html --retry 5\r\n\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ "
+    ],
+    [
+      1.074392,
+      "c"
+    ],
+    [
+      0.083253,
+      "l"
+    ],
+    [
+      0.156768,
+      "e"
+    ],
+    [
+      0.788725,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.157337,
+      "e"
+    ],
+    [
+      0.246151,
+      "a"
+    ],
+    [
+      0.222004,
+      "r"
+    ],
+    [
+      0.128489,
+      "\r\n\u001b[H\u001b[2J\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ "
+    ],
+    [
+      2.450494,
+      "c"
+    ],
+    [
+      0.253622,
+      "a"
+    ],
+    [
+      0.123165,
+      "t"
+    ],
+    [
+      0.124691,
+      " "
+    ],
+    [
+      0.244081,
+      "o"
+    ],
+    [
+      0.094739,
+      "utput.log "
+    ],
+    [
+      0.776511,
+      "\r\n03-25 23:25:45 root         INFO     ----------- Starting -------------\r\n03-25 23:25:45 root         INFO     Global Dictionary {'lang': 'en', 'length': '38827', 'type': 'text/html; charset=utf-8'}\r\n03-25 23:25:45 root         INFO     http://www.oracle.com/index.html is reachable\r\n03-25 23:25:45 root         INFO     http code : 200\r\n03-25 23:25:45 root         INFO     \r\n Content-Length: 38827\r\r\nAccess-Control-Allow-Origin: *\r\r\nX-Powered-By: Servlet/2.5 JSP/2.1\r\r\nX-Frame-Options: SAMEORIGIN\r\r\nContent-Type: text/html; charset=utf-8\r\r\nContent-Language: en\r\r\nX-Oracle-DMS-ECID: 146098898721199\r\r\nServer: Oracle-Application-Server-11g Oracle-Web-Cache-11g/11.1.1.6.0 (G;max-age=300+0;age=0;ecid=146098898721199,0:1)\r\r\nDate: Thu, 26 Mar 2015 04:25:41 GMT\r\r\nConnection: close\r\r\n\r\n03-25 23:25:45 root         INFO     Expects Contents \u003e\u003e {'lang': 'en', 'length': '38827', 'type': 'text/html; charset=utf-8'}\r\n03-25 23:25:45 root         INFO     Current Contents \u003e\u003e {'lang': 'en', 'length': '38827', 'type': 'text/html; charset=utf-8'}\r\n03-25 23:25:45 root         INFO     === Content same ===\r\n03-25 23:25:50 root         INFO     Global Dictionary {'lang': 'en', 'length': '38827', 'type': 'text/html; charset=utf-8'}\r\n03-25 23:25:50 root         INFO     http://www.oracle.com/index.html is reachable\r\n03-25 23:25:50 root         INFO     http code : 200\r\n03-25 23:25:50 root         INFO     \r\n Content-Length: 38827\r\r\nAccess-Control-Allow-Origin: *\r\r\nX-Powered-By: Servlet/2.5 JSP/2.1\r\r\nX-Frame-Options: SAMEORIGIN\r\r\nContent-Type: text/html; charset=utf-8\r\r\nContent-Language: en\r\r\nX-Oracle-DMS-ECID: 146098898721199\r\r\nServer: Oracle-Application-Server-11g Oracle-Web-Cache-11g/11.1.1.6.0 (G;max-age=300+0;age=0;ecid=146098898721199,0:1)\r\r\nDate: Thu, 26 Mar 2015 04:25:47 GMT\r\r\nConnection: close\r\r\n\r\n03-25 23:25:50 root         INFO     Expects Contents \u003e\u003e {'lang': 'en', 'length': '38827', 'type': 'text/html; charset=utf-8'}\r\n03-25 23:25:50 root         INFO     Current Contents \u003e\u003e {'lang': 'en', 'length': '38827', 'type': 'text/html; charset=utf-8'}\r\n03-25 23:25:50 root         INFO     === Content same ===\r\n03-25 23:25:55 root         INFO     Global Dictionary {'lang': 'en', 'length': '38827', 'type': 'text/html; charset=utf-8'}\r\n03-25 23:25:55 root         INFO     http://www.oracle.com/index.html is reachable\r\n03-25 23:25:55 root         INFO     http code : 200\r\n03-25 23:25:55 root         INFO     \r\n Content-Length: 38827\r\r\nAccess-Control-Allow-Origin: *\r\r\nX-Powered-By: Servlet/2.5 JSP/2.1\r\r\nX-Frame-Options: SAMEORIGIN\r\r\nContent-Type: text/html; charset=utf-8\r\r\nContent-Language: en\r\r\nX-Oracle-DMS-ECID: 146098898721199\r\r\nServer: Oracle-Application-Server-11g Oracle-Web-Cache-11g/11.1.1.6.0 (G;max-age=300+0;age=0;ecid=146098898721199,0:1)\r\r\nDate: Thu, 26 Mar 2015 04:25:52 GMT\r\r\nConnection: close\r\r\n\r\n03-25 23:25:55 root         INFO     Expects Contents \u003e\u003e {'lang': 'en', 'length': '38827', 'type': 'text/html; charset=utf-8'}\r\n03-25 23:25:55 root         INFO     Current Contents \u003e\u003e {'lang': 'en', 'length': '38827', 'type': 'text/html; charset=utf-8'}\r\n03-25 23:25:55 root         INFO     === Content same ===\r\n\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ "
+    ],
+    [
+      4.479408,
+      "cat output.log "
+    ],
+    [
+      1.214140,
+      "|"
+    ],
+    [
+      0.189545,
+      " "
+    ],
+    [
+      0.246615,
+      "m"
+    ],
+    [
+      0.118954,
+      "o"
+    ],
+    [
+      0.030760,
+      "r"
+    ],
+    [
+      0.196803,
+      "e"
+    ],
+    [
+      0.254749,
+      "\r\n"
+    ],
+    [
+      0.003821,
+      "03-25 23:25:45 root         INFO     ----------- Starting -------------\r\n03-25 23:25:45 root         INFO     Global Dictionary {'lang': 'en', 'length': \r\n'38827', 'type': 'text/html; charset=utf-8'}\r\n03-25 23:25:45 root         INFO     http://www.oracle.com/index.html is reachab\r\nle\r\n03-25 23:25:45 root         INFO     http code : 200\r\n03-25 23:25:45 root         INFO     \r\n Content-Length: 38827\r\nAccess-Control-Allow-Origin: *\r\nX-Powered-By: Servlet/2.5 JSP/2.1\r\nX-Frame-Options: SAMEORIGIN\r\nContent-Type: text/html; charset=utf-8\r\nContent-Language: en\r\nX-Oracle-DMS-ECID: 146098898721199\r\nServer: Oracle-Application-Server-11g Oracle-Web-Cache-11g/11.1.1.6.0 (G;max-age\r\n=300+0;age=0;ecid=146098898721199,0:1)\r\nDate: Thu, 26 Mar 2015 04:25:41 GMT\r\nConnection: close\r\n\r\n03-25 23:25:45 root         INFO     Expects Contents \u003e\u003e {'lang': 'en', 'length'\r\n: '38827', 'type': 'text/html; charset=utf-8'}\r\n03-25 23:25:45 root         INFO     Current Contents \u003e\u003e {'lang': 'en', 'length'\r\n: '38827', 'type': 'text/html; charset=utf-8'}\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.753984,
+      "\r03-25 23:25:45 root         INFO     === Content same ===\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.196648,
+      "\r03-25 23:25:50 root         INFO     Global Dictionary {'lang': 'en', 'length': \r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.486266,
+      "\r'38827', 'type': 'text/html; charset=utf-8'}\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.028494,
+      "\r03-25 23:25:50 root         INFO     http://www.oracle.com/index.html is reachab\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.029212,
+      "\rle\u001b[K\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.030595,
+      "\r03-25 23:25:50 root         INFO     http code : 200\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.028373,
+      "\r03-25 23:25:50 root         INFO     \r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.049532,
+      "\r Content-Length: 38827\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.011315,
+      "\rAccess-Control-Allow-Origin: *\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.029292,
+      "\rX-Powered-By: Servlet/2.5 JSP/2.1\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.030934,
+      "\rX-Frame-Options: SAMEORIGIN\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.122496,
+      "\rContent-Type: text/html; charset=utf-8\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.000724,
+      "\rContent-Language: en\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.000922,
+      "\rX-Oracle-DMS-ECID: 146098898721199\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.011461,
+      "\rServer: Oracle-Application-Server-11g Oracle-Web-Cache-11g/11.1.1.6.0 (G;max-age\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.013544,
+      "\r=300+0;age=0;ecid=146098898721199,0:1)\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.038496,
+      "\rDate: Thu, 26 Mar 2015 04:25:47 GMT\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.026606,
+      "\rConnection: close\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.025646,
+      "\r\r\u001b[K\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.027490,
+      "\r03-25 23:25:50 root         INFO     Expects Contents \u003e\u003e {'lang': 'en', 'length'\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.029633,
+      "\r: '38827', 'type': 'text/html; charset=utf-8'}\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.029637,
+      "\r03-25 23:25:50 root         INFO     Current Contents \u003e\u003e {'lang': 'en', 'length'\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.029135,
+      "\r: '38827', 'type': 'text/html; charset=utf-8'}\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.033107,
+      "\r03-25 23:25:50 root         INFO     === Content same ===\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.030794,
+      "\r03-25 23:25:55 root         INFO     Global Dictionary {'lang': 'en', 'length': \r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.034037,
+      "\r'38827', 'type': 'text/html; charset=utf-8'}\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.022279,
+      "\r03-25 23:25:55 root         INFO     http://www.oracle.com/index.html is reachab\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.047402,
+      "\rle\u001b[K\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.011201,
+      "\r03-25 23:25:55 root         INFO     http code : 200\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.030194,
+      "\r03-25 23:25:55 root         INFO     \r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.029583,
+      "\r Content-Length: 38827\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.029461,
+      "\rAccess-Control-Allow-Origin: *\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.030350,
+      "\rX-Powered-By: Servlet/2.5 JSP/2.1\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.300081,
+      "\rX-Frame-Options: SAMEORIGIN\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.487783,
+      "\rContent-Type: text/html; charset=utf-8\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.028405,
+      "\rContent-Language: en\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.049963,
+      "\rX-Oracle-DMS-ECID: 146098898721199\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.009498,
+      "\rServer: Oracle-Application-Server-11g Oracle-Web-Cache-11g/11.1.1.6.0 (G;max-age\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.029361,
+      "\r=300+0;age=0;ecid=146098898721199,0:1)\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.030772,
+      "\rDate: Thu, 26 Mar 2015 04:25:52 GMT\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.030504,
+      "\rConnection: close\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.028667,
+      "\r\r\u001b[K\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      1.012804,
+      "\r\u001b[K\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ "
+    ],
+    [
+      4.660665,
+      "C"
+    ],
+    [
+      0.275045,
+      "a"
+    ],
+    [
+      0.181222,
+      "s"
+    ],
+    [
+      0.164793,
+      "e"
+    ],
+    [
+      0.194399,
+      " "
+    ],
+    [
+      0.185448,
+      "2"
+    ],
+    [
+      0.196749,
+      " "
+    ],
+    [
+      0.510003,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.134842,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.154851,
+      "3"
+    ],
+    [
+      0.145203,
+      " "
+    ],
+    [
+      0.280364,
+      "I"
+    ],
+    [
+      0.178391,
+      "n"
+    ],
+    [
+      0.604950,
+      "v"
+    ],
+    [
+      0.245506,
+      "l"
+    ],
+    [
+      0.191543,
+      "i"
+    ],
+    [
+      0.494823,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.143599,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.149170,
+      "a"
+    ],
+    [
+      0.166876,
+      "l"
+    ],
+    [
+      0.200151,
+      "i"
+    ],
+    [
+      0.109795,
+      "d"
+    ],
+    [
+      0.159436,
+      " "
+    ],
+    [
+      0.132653,
+      "c"
+    ],
+    [
+      0.259713,
+      "a"
+    ],
+    [
+      0.189934,
+      "s"
+    ],
+    [
+      0.160264,
+      "e"
+    ],
+    [
+      0.231468,
+      " "
+    ],
+    [
+      0.991871,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.166572,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.138402,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.156730,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.156746,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.453636,
+      "u"
+    ],
+    [
+      0.102502,
+      "r"
+    ],
+    [
+      0.115041,
+      "l"
+    ],
+    [
+      0.885891,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.951616,
+      "\u001b[1@#"
+    ],
+    [
+      0.639607,
+      "\r\n\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ "
+    ],
+    [
+      2.230752,
+      "p"
+    ],
+    [
+      0.431001,
+      "y"
+    ],
+    [
+      0.152880,
+      "t"
+    ],
+    [
+      0.201701,
+      "h"
+    ],
+    [
+      0.153090,
+      "o"
+    ],
+    [
+      0.937853,
+      "n"
+    ],
+    [
+      0.130759,
+      " "
+    ],
+    [
+      0.159975,
+      "m"
+    ],
+    [
+      0.152309,
+      "o"
+    ],
+    [
+      0.205808,
+      "nitor.py "
+    ],
+    [
+      8.363423,
+      "--url ht \rtp://www.oracle.com/index1.html --retry 5"
+    ],
+    [
+      2.503047,
+      "\r\n"
+    ],
+    [
+      0.041643,
+      "root        : INFO     ----------- Starting -------------"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "Retry Count is : 5\r\n"
+    ],
+    [
+      0.000215,
+      "root        : INFO     Global Dictionary {'lang': 'en', 'length': '38827', 'type': 'text/html; charset=utf-8'}\r\n"
+    ],
+    [
+      0.208248,
+      "root        : ERROR    HTTPError = 404"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      1.207244,
+      "root        : ERROR    HTTPError = 404\r\n"
+    ],
+    [
+      1.366913,
+      "root        : ERROR    HTTPError = 404\r\n"
+    ],
+    [
+      1.205614,
+      "root        : ERROR    HTTPError = 404\r\n"
+    ],
+    [
+      1.204683,
+      "root        : ERROR    HTTPError = 404\r\n"
+    ],
+    [
+      1.007632,
+      "\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ "
+    ],
+    [
+      1.434439,
+      "c"
+    ],
+    [
+      0.264361,
+      "a"
+    ],
+    [
+      0.080748,
+      "t"
+    ],
+    [
+      0.153694,
+      " "
+    ],
+    [
+      0.675646,
+      "o"
+    ],
+    [
+      0.218536,
+      "u"
+    ],
+    [
+      0.113394,
+      "tput.log "
+    ],
+    [
+      0.544519,
+      "\r\n03-25 23:27:11 root         INFO     ----------- Starting -------------\r\n03-25 23:27:11 root         INFO     Global Dictionary {'lang': 'en', 'length': '38827', 'type': 'text/html; charset=utf-8'}\r\n03-25 23:27:12 root         ERROR    HTTPError = 404\r\n03-25 23:27:13 root         ERROR    HTTPError = 404\r\n03-25 23:27:14 root         ERROR    HTTPError = 404\r\n03-25 23:27:15 root         ERROR    HTTPError = 404\r\n03-25 23:27:17 root         ERROR    HTTPError = 404\r\n\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ "
+    ],
+    [
+      2.131772,
+      "c"
+    ],
+    [
+      0.157637,
+      "l"
+    ],
+    [
+      0.107174,
+      "e"
+    ],
+    [
+      0.257963,
+      "a"
+    ],
+    [
+      0.254524,
+      "r"
+    ],
+    [
+      0.245780,
+      "\r\n\u001b[H\u001b[2J\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ "
+    ],
+    [
+      1.456558,
+      "#"
+    ],
+    [
+      0.307632,
+      " "
+    ],
+    [
+      1.252644,
+      "E"
+    ],
+    [
+      0.147838,
+      "n"
+    ],
+    [
+      0.067640,
+      "d"
+    ],
+    [
+      0.161308,
+      " "
+    ],
+    [
+      0.110567,
+      "o"
+    ],
+    [
+      0.089083,
+      "f"
+    ],
+    [
+      0.119006,
+      " "
+    ],
+    [
+      0.473621,
+      "t"
+    ],
+    [
+      0.173414,
+      "h"
+    ],
+    [
+      0.136212,
+      "e"
+    ],
+    [
+      0.087707,
+      " "
+    ],
+    [
+      0.152470,
+      "d"
+    ],
+    [
+      0.176951,
+      "m"
+    ],
+    [
+      0.137335,
+      "o"
+    ],
+    [
+      0.808166,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.143317,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.103055,
+      "e"
+    ],
+    [
+      0.188569,
+      "m"
+    ],
+    [
+      0.146866,
+      "o"
+    ],
+    [
+      0.907213,
+      "\r\n\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ "
+    ],
+    [
+      0.835353,
+      "T"
+    ],
+    [
+      0.208024,
+      "h"
+    ],
+    [
+      0.156126,
+      "a"
+    ],
+    [
+      0.040093,
+      "n"
+    ],
+    [
+      0.125344,
+      "k"
+    ],
+    [
+      0.127530,
+      "s"
+    ],
+    [
+      0.098900,
+      " "
+    ],
+    [
+      0.288874,
+      "y"
+    ],
+    [
+      0.171280,
+      "o"
+    ],
+    [
+      0.106465,
+      "u"
+    ],
+    [
+      1.023964,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      1.987840,
+      "\u001b[1@#"
+    ],
+    [
+      0.932612,
+      "\u001b[1@ "
+    ],
+    [
+      1.060196,
+      "\u001b[C"
+    ],
+    [
+      0.137950,
+      "\u001b[C"
+    ],
+    [
+      0.152679,
+      "\u001b[C"
+    ],
+    [
+      0.136526,
+      "\u001b[C"
+    ],
+    [
+      0.157726,
+      "\u001b[C"
+    ],
+    [
+      0.117066,
+      "\u001b[C"
+    ],
+    [
+      0.124563,
+      "\u001b[C"
+    ],
+    [
+      0.368763,
+      "\u0008\u001b[1Pyou\u0008\u0008\u0008"
+    ],
+    [
+      0.490017,
+      "\u0008\u001b[1Pyou\u0008\u0008\u0008"
+    ],
+    [
+      0.507215,
+      " you\u0008\u0008\u0008"
+    ],
+    [
+      0.217131,
+      "\r\n\u001b]0;shafi@shafi-techops: ~/PycharmProjects/democodes/test\u0007shafi@shafi-techops:~/PycharmProjects/democodes/test$ "
+    ],
+    [
+      2.020136,
+      "exit\r\n"
+    ]
+  ]
+}
