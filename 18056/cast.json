@@ -1,0 +1,4306 @@
+{
+  "version": 1,
+  "width": 90,
+  "height": 28,
+  "duration": 169087.520969,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.058364,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                         \r \r"
+    ],
+    [
+      0.000926,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mmiles@kali\u001b[49m \u001b[1m\u001b[36m/tmp\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      7.630696,
+      "n"
+    ],
+    [
+      0.895664,
+      "\u0008 \u0008"
+    ],
+    [
+      0.490553,
+      "asciinema rec"
+    ],
+    [
+      0.438346,
+      "\u001b[13Dcurl -sL https://asciinema.org/install | sh"
+    ],
+    [
+      1.072335,
+      "\u001b[38Dshowterm.io/showterm \u003e ~/b\u001b[2C/showterm \u0008"
+    ],
+    [
+      0.384052,
+      "\u001b[42Dsudo nmap -sS -T4 -F 54.69.42.199 -v      \u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.351937,
+      "\u001b[36D\u001b[5P\u001b[31C     \u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.463999,
+      "\u001b[31Dsudo nmap -sS -T4 -F 54.69.42.199 -v"
+    ],
+    [
+      0.783712,
+      "\r\r\n"
+    ],
+    [
+      0.013187,
+      "sudo"
+    ],
+    [
+      0.000074,
+      ": "
+    ],
+    [
+      0.000034,
+      "unable to resolve host kali"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.003018,
+      "[sudo] password for miles: "
+    ],
+    [
+      2.136812,
+      "\r\n"
+    ],
+    [
+      0.040718,
+      "\r\n"
+    ],
+    [
+      0.000188,
+      "Starting Nmap 6.47 ( http://nmap.org ) at 2015-03-24 15:26 MDT"
+    ],
+    [
+      0.000057,
+      "\r\n"
+    ],
+    [
+      0.040099,
+      "Initiating Ping Scan at 15:26"
+    ],
+    [
+      0.000071,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      "Scanning 54.69.42.199 [4 ports]"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.001452,
+      "Completed Ping Scan at 15:26, 0.00s elapsed (1 total hosts)"
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.000514,
+      "Initiating Parallel DNS resolution of 1 host. at 15:26"
+    ],
+    [
+      0.000043,
+      "\r\n"
+    ],
+    [
+      0.002631,
+      "Completed Parallel DNS resolution of 1 host. at 15:26, 0.00s elapsed"
+    ],
+    [
+      0.000078,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "Initiating SYN Stealth Scan at 15:26"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "Scanning ec2-54-69-42-199.us-west-2.compute.amazonaws.com (54.69.42.199) [100 ports]"
+    ],
+    [
+      0.000041,
+      "\r\n"
+    ],
+    [
+      0.079348,
+      "Discovered open port 8080/tcp on 54.69.42.199\r\n"
+    ],
+    [
+      1.306613,
+      "Discovered open port 80/tcp on 54.69.42.199\r\n"
+    ],
+    [
+      0.035771,
+      "Discovered open port 22/tcp on 54.69.42.199\r\n"
+    ],
+    [
+      1.312120,
+      "Completed SYN Stealth Scan at 15:26, 2.73s elapsed (100 total ports)\r\nNmap scan report for ec2-54-69-42-199.us-west-2.compute.amazonaws.com (54.69.42.199)\r\nHost is up (0.031s latency).\r\nNot shown: 95 filtered ports\r\nPORT     STATE  SERVICE\r\n22/tcp   open   ssh\r\n80/tcp   open   http\r\n443/tcp  closed https\r\n445/tcp  closed microsoft-ds\r\n8080/tcp open   http-proxy\r\n\r\nRead data files from: /usr/bin/../share/nmap\r\nNmap done: 1 IP address (1 host up) scanned in 2.78 seconds\r\n           Raw packets sent: 200 (8.772KB) | Rcvd: 8 (332B)\r\n"
+    ],
+    [
+      0.003426,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                         \r \r"
+    ],
+    [
+      0.001046,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mmiles@kali\u001b[49m \u001b[1m\u001b[36m/tmp\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      17.042606,
+      "n"
+    ],
+    [
+      0.048295,
+      "\u0008nc"
+    ],
+    [
+      1.383641,
+      " "
+    ],
+    [
+      1.079390,
+      "5"
+    ],
+    [
+      0.080639,
+      "4"
+    ],
+    [
+      0.288212,
+      "."
+    ],
+    [
+      1.847394,
+      "6"
+    ],
+    [
+      0.128761,
+      "9"
+    ],
+    [
+      0.744059,
+      "."
+    ],
+    [
+      1.023908,
+      "4"
+    ],
+    [
+      0.072104,
+      "2"
+    ],
+    [
+      0.247893,
+      "."
+    ],
+    [
+      1.048020,
+      "1"
+    ],
+    [
+      0.136178,
+      "9"
+    ],
+    [
+      0.127869,
+      "9"
+    ],
+    [
+      0.591991,
+      " "
+    ],
+    [
+      0.536309,
+      "9"
+    ],
+    [
+      0.031357,
+      "0"
+    ],
+    [
+      0.432882,
+      "\u0008 \u0008"
+    ],
+    [
+      0.159621,
+      "\u0008 \u0008"
+    ],
+    [
+      0.392133,
+      "8"
+    ],
+    [
+      0.103417,
+      "0"
+    ],
+    [
+      0.216614,
+      "8"
+    ],
+    [
+      0.048826,
+      "0"
+    ],
+    [
+      3.136669,
+      "\r\r\n"
+    ],
+    [
+      2.039080,
+      "G"
+    ],
+    [
+      0.111970,
+      "E"
+    ],
+    [
+      0.120053,
+      "T"
+    ],
+    [
+      0.151925,
+      " "
+    ],
+    [
+      0.232065,
+      "/"
+    ],
+    [
+      0.080388,
+      " "
+    ],
+    [
+      0.463964,
+      "H"
+    ],
+    [
+      0.143817,
+      "T"
+    ],
+    [
+      0.287880,
+      "T"
+    ],
+    [
+      0.096168,
+      "P"
+    ],
+    [
+      0.912090,
+      "/"
+    ],
+    [
+      0.167980,
+      "1"
+    ],
+    [
+      0.112002,
+      "."
+    ],
+    [
+      0.143942,
+      "1"
+    ],
+    [
+      0.264262,
+      "\r\n"
+    ],
+    [
+      20.097028,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                         \r \r"
+    ],
+    [
+      0.001756,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mmiles@kali\u001b[49m \u001b[1m\u001b[36m/tmp\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      4.639390,
+      "nc 54.69.42.199 8080"
+    ],
+    [
+      0.687988,
+      "\r\r\n"
+    ],
+    [
+      2.318941,
+      "G"
+    ],
+    [
+      0.071936,
+      "E"
+    ],
+    [
+      0.143908,
+      "T"
+    ],
+    [
+      0.135459,
+      " "
+    ],
+    [
+      0.152653,
+      "/"
+    ],
+    [
+      0.648123,
+      "i"
+    ],
+    [
+      0.056112,
+      "n"
+    ],
+    [
+      0.207787,
+      "d"
+    ],
+    [
+      0.152133,
+      "e"
+    ],
+    [
+      0.248049,
+      "x"
+    ],
+    [
+      0.327884,
+      "."
+    ],
+    [
+      0.448157,
+      "p"
+    ],
+    [
+      0.112025,
+      "h"
+    ],
+    [
+      0.127947,
+      "p"
+    ],
+    [
+      1.519848,
+      " "
+    ],
+    [
+      0.632017,
+      "H"
+    ],
+    [
+      0.279909,
+      "T"
+    ],
+    [
+      0.199783,
+      "T"
+    ],
+    [
+      0.112136,
+      "P"
+    ],
+    [
+      0.672044,
+      "/"
+    ],
+    [
+      0.239972,
+      "1"
+    ],
+    [
+      0.087717,
+      "."
+    ],
+    [
+      0.136540,
+      "1"
+    ],
+    [
+      0.680111,
+      "\r\n"
+    ],
+    [
+      20.169325,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                         \r \r"
+    ],
+    [
+      0.001495,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mmiles@kali\u001b[49m \u001b[1m\u001b[36m/tmp\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      8.204990,
+      "D"
+    ],
+    [
+      0.024121,
+      "\u0008DI"
+    ],
+    [
+      0.095780,
+      "R"
+    ],
+    [
+      0.264171,
+      "B"
+    ],
+    [
+      0.111845,
+      "U"
+    ],
+    [
+      0.455931,
+      "\u0008 \u0008"
+    ],
+    [
+      0.104137,
+      "\u0008 \u0008"
+    ],
+    [
+      0.119854,
+      "\u0008 \u0008"
+    ],
+    [
+      0.120112,
+      "\u0008\u0008D \u0008"
+    ],
+    [
+      0.128109,
+      "\u0008 \u0008"
+    ],
+    [
+      0.255926,
+      "d"
+    ],
+    [
+      0.119935,
+      "\u0008di"
+    ],
+    [
+      0.151834,
+      "r"
+    ],
+    [
+      0.248234,
+      "b"
+    ],
+    [
+      0.079105,
+      "u"
+    ],
+    [
+      0.136653,
+      "s"
+    ],
+    [
+      0.104076,
+      "t"
+    ],
+    [
+      0.127882,
+      "e"
+    ],
+    [
+      0.072300,
+      "r"
+    ],
+    [
+      3.632976,
+      "\r\r\n"
+    ],
+    [
+      1.357630,
+      "Starting OWASP DirBuster 1.0-RC1"
+    ],
+    [
+      0.000127,
+      "\r\n"
+    ],
+    [
+      7.605405,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                         \r \r"
+    ],
+    [
+      0.012819,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mmiles@kali\u001b[49m \u001b[1m\u001b[36m/tmp\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      1.710907,
+      "c"
+    ],
+    [
+      0.208080,
+      "\u0008cd"
+    ],
+    [
+      0.079979,
+      " "
+    ],
+    [
+      0.224257,
+      "/"
+    ],
+    [
+      0.223630,
+      "u"
+    ],
+    [
+      0.080254,
+      "s"
+    ],
+    [
+      0.135869,
+      "r"
+    ],
+    [
+      0.192057,
+      "/"
+    ],
+    [
+      0.255911,
+      "s"
+    ],
+    [
+      0.095908,
+      "h"
+    ],
+    [
+      0.080046,
+      "a"
+    ],
+    [
+      0.056129,
+      "r"
+    ],
+    [
+      0.079892,
+      "e"
+    ],
+    [
+      0.215984,
+      "/"
+    ],
+    [
+      1.655823,
+      "w"
+    ],
+    [
+      0.120441,
+      "o"
+    ],
+    [
+      0.048566,
+      "r"
+    ],
+    [
+      0.205591,
+      "dlists\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.586334,
+      "\u0008\u001b[0m \u0008\r\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                         \r \r"
+    ],
+    [
+      0.001249,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mmiles@kali\u001b[49m \u001b[1m\u001b[32m/usr/share/wordlists\r\n\r\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      4.078013,
+      "c"
+    ],
+    [
+      0.216007,
+      "\u0008cd"
+    ],
+    [
+      0.208137,
+      " "
+    ],
+    [
+      0.191783,
+      "d"
+    ],
+    [
+      0.104112,
+      "i"
+    ],
+    [
+      0.122603,
+      "r"
+    ],
+    [
+      0.177584,
+      "b"
+    ],
+    [
+      1.255741,
+      "\u0007"
+    ],
+    [
+      0.000142,
+      "\r"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.000089,
+      "Completing local directory"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[J\u001b[01;36mdirb\u001b[0m@       \u001b[J\u001b[01;36mdirbuster\u001b[0m@\u001b[J\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[3C"
+    ],
+    [
+      0.000037,
+      "cd dirb\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      1.115934,
+      "u"
+    ],
+    [
+      0.460691,
+      "ster\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.524058,
+      "\u0008\u001b[0m \u0008\r\r\n\u001b[J\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                         \r \r"
+    ],
+    [
+      0.002323,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mmiles@kali\u001b[49m \u001b[1m\u001b[32m/usr/share/wordlists/dirbuster\r\n\r\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      0.596817,
+      "l"
+    ],
+    [
+      0.087031,
+      "\u0008ls"
+    ],
+    [
+      0.113894,
+      "\r\r\n"
+    ],
+    [
+      0.013192,
+      "apache-user-enum-1.0.txt  directory-list-2.3-medium.txt"
+    ],
+    [
+      0.000073,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "apache-user-enum-2.0.txt  directory-list-2.3-small.txt"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "directories.jbrofuzz"
+    ],
+    [
+      0.000029,
+      "\t"
+    ],
+    [
+      0.000021,
+      "  directory-list-lowercase-2.3-medium.txt"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "directory-list-1.0.txt"
+    ],
+    [
+      0.000024,
+      "\t"
+    ],
+    [
+      0.000020,
+      "  directory-list-lowercase-2.3-small.txt"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000502,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                         \r \r"
+    ],
+    [
+      0.001084,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mmiles@kali\u001b[49m \u001b[1m\u001b[32m/usr/share/wordlists/dirbuster\r\n\r\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      2.823707,
+      "l"
+    ],
+    [
+      0.063524,
+      "\u0008le"
+    ],
+    [
+      0.096518,
+      "s"
+    ],
+    [
+      0.255925,
+      "s"
+    ],
+    [
+      0.360284,
+      " "
+    ],
+    [
+      0.143784,
+      "d"
+    ],
+    [
+      0.111935,
+      "i"
+    ],
+    [
+      0.127258,
+      "r"
+    ],
+    [
+      0.032007,
+      "e"
+    ],
+    [
+      0.800528,
+      "ctor"
+    ],
+    [
+      0.992359,
+      "y"
+    ],
+    [
+      0.093411,
+      "-list-"
+    ],
+    [
+      1.938582,
+      "1"
+    ],
+    [
+      0.084687,
+      ".0.txt\u001b[1m \u001b[0m"
+    ],
+    [
+      0.828359,
+      "\u0008\u001b[0m \u0008\r\r\n"
+    ],
+    [
+      0.006496,
+      "\u001b[?1049h\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.000262,
+      "# directory-list-1.0.txt"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "#"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "# Copyright 2007 James Fisher"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "#"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "# This work is licensed under the Creative Commons "
+    ],
+    [
+      0.000097,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "# Attribution-Share Alike 3.0 License. To view a copy of this "
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "# license, visit http://creativecommons.org/licenses/by-sa/3.0/ "
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "# or send a letter to Creative Commons, 171 Second Street, "
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "# Suite 300, San Francisco, California, 94105, USA."
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "#"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "# Unordered case sensative list, where entries were found "
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "# on atleast 2 host.  This was the first draft of the list."
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "#"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "cgi-bin"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "education"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "betsie"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "accessibility"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "accesskeys"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "go"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "toolbar"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "-"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "text"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "tv"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "radio"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "talk"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "whereilive"
+    ],
+    [
+      0.000047,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[7mdirectory-list-1.0.txt\u001b[27m\u001b[K"
+    ],
+    [
+      2.382906,
+      "\r\u001b[Ka-z\r\n:\u001b[K"
+    ],
+    [
+      0.511821,
+      "\r\u001b[K\u001b[H\u001bM# directory-list-1.0.txt\r\n\u001b[28;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      24.122865,
+      "\r\u001b[Ka-z\r\n:\u001b[K"
+    ],
+    [
+      0.113390,
+      "\r\u001b[Khomepage\r\n:\u001b[K"
+    ],
+    [
+      0.294638,
+      "\r\u001b[Kint\r\n:\u001b[K"
+    ],
+    [
+      0.111865,
+      "\r\u001b[Kbb\r\n:\u001b[K"
+    ],
+    [
+      0.775505,
+      "\r\u001b[Koth\r\n:\u001b[K"
+    ],
+    [
+      0.312307,
+      "\r\u001b[Ktextonly\r\n:\u001b[K"
+    ],
+    [
+      0.215392,
+      "\r\u001b[Kt\r\n:\u001b[K"
+    ],
+    [
+      0.144735,
+      "\r\u001b[Kmobile\r\n:\u001b[K"
+    ],
+    [
+      0.167477,
+      "\r\u001b[Kmakehomepage\r\n:\u001b[K"
+    ],
+    [
+      0.256371,
+      "\r\u001b[Khelp\r\n:\u001b[K"
+    ],
+    [
+      0.168204,
+      "\r\u001b[Ksearch\r\n:\u001b[K"
+    ],
+    [
+      0.495820,
+      "\r\u001b[Kpl1\r\n:\u001b[K"
+    ],
+    [
+      0.440365,
+      "\r\u001b[Kpl2\r\n:\u001b[K"
+    ],
+    [
+      0.207801,
+      "\r\u001b[Kpl3\r\n:\u001b[K"
+    ],
+    [
+      0.143921,
+      "\r\u001b[Kpan\r\n:\u001b[K"
+    ],
+    [
+      0.455307,
+      "\r\u001b[Knew\r\n:\u001b[K"
+    ],
+    [
+      0.120836,
+      "\r\u001b[Kpr\r\n:\u001b[K"
+    ],
+    [
+      0.823933,
+      "\r\u001b[Kno\r\n:\u001b[K"
+    ],
+    [
+      2.152736,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                         \r \r"
+    ],
+    [
+      0.001437,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mmiles@kali\u001b[49m \u001b[1m\u001b[32m/usr/share/wordlists/dirbuster\r\n\r\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      1.133946,
+      "d"
+    ],
+    [
+      0.103341,
+      "\u0008di"
+    ],
+    [
+      0.080603,
+      "r"
+    ],
+    [
+      0.215229,
+      "b"
+    ],
+    [
+      0.072896,
+      "u"
+    ],
+    [
+      0.119999,
+      "s"
+    ],
+    [
+      0.191769,
+      "t"
+    ],
+    [
+      0.032142,
+      "e"
+    ],
+    [
+      0.140861,
+      "r\u001b[1m \u001b[0m"
+    ],
+    [
+      2.187054,
+      "\u0008\u001b[0m \u0008\r\r\n"
+    ],
+    [
+      0.905427,
+      "Starting OWASP DirBuster 1.0-RC1"
+    ],
+    [
+      0.000143,
+      "\r\n"
+    ],
+    [
+      93.223396,
+      "Starting dir/file list based brute forcing"
+    ],
+    [
+      0.000114,
+      "\r\n"
+    ],
+    [
+      8.539794,
+      "Dir found: / - 200\r\n"
+    ],
+    [
+      3.290591,
+      "File found: /index.php - 302\r\n"
+    ],
+    [
+      1.580091,
+      "Dir found: /icons/ - 403\r\n"
+    ],
+    [
+      2.808835,
+      "Dir found: /images/ - 200\r\n"
+    ],
+    [
+      51.608121,
+      "Dir found: /wordpress/ - 200\r\n"
+    ],
+    [
+      2.781946,
+      "Dir found: /wordpress/wordpress/ - 200\r\n"
+    ],
+    [
+      1.468999,
+      "File found: /wordpress/wordpress/index.php - 301\r\n"
+    ],
+    [
+      1.442428,
+      "File found: /wordpress/wordpress-2.9.2.tar.gz - 200\r\n"
+    ],
+    [
+      0.005988,
+      "File found: /wordpress/wordpress/wp-login.php - 200\r\n"
+    ],
+    [
+      4.254042,
+      "Dir found: /includes/ - 200\r\n"
+    ],
+    [
+      1.808274,
+      "File found: /includes/database.config.php - 200\r\n"
+    ],
+    [
+      0.428012,
+      "File found: /includes/environ.inc.php - 200\r\n"
+    ],
+    [
+      0.321202,
+      "File found: /includes/mcir.css - 200\r\n"
+    ],
+    [
+      0.391888,
+      "File found: /includes/mcir.nav.inc.php - 200\r\n"
+    ],
+    [
+      0.313481,
+      "File found: /includes/options.inc.php - 200\r\n"
+    ],
+    [
+      0.220985,
+      "Mar 24, 2015 3:32:44 PM au.id.jericho.lib.html.LoggerProviderJava$JavaLogger info"
+    ],
+    [
+      0.000117,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "INFO: StartTag at (r3,c1,p4) missing required end tag"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.209782,
+      "File found: /includes/sanitize.inc.php - 200"
+    ],
+    [
+      0.000646,
+      "\r\n"
+    ],
+    [
+      1.574714,
+      "Dir found: /sqlol/ - 302\r\n"
+    ],
+    [
+      0.382588,
+      "Dir found: /xmlmao/ - 302\r\n"
+    ],
+    [
+      0.421602,
+      "Dir found: /shellol/ - 302\r\n"
+    ],
+    [
+      0.578148,
+      "Dir found: /xssmh/ - 302\r\n"
+    ],
+    [
+      0.321404,
+      "File found: /sqlol/index.php - 302\r\n"
+    ],
+    [
+      0.256041,
+      "File found: /cryptomg - 301\r\n"
+    ],
+    [
+      0.204650,
+      "File found: /xmlmao/index.php - 302\r\n"
+    ],
+    [
+      0.510350,
+      "File found: /rfidk - 301\r\n"
+    ],
+    [
+      0.190343,
+      "File found: /shellol/index.php - 302\r\n"
+    ],
+    [
+      0.351493,
+      "File found: /phpwn - 301\r\n"
+    ],
+    [
+      0.273222,
+      "File found: /xssmh/index.php - 302\r\n"
+    ],
+    [
+      0.780898,
+      "Dir found: /cryptomg/ - 302\r\n"
+    ],
+    [
+      0.516447,
+      "Dir found: /rfidk/ - 302\r\n"
+    ],
+    [
+      0.482030,
+      "Dir found: /phpwn/ - 302\r\n"
+    ],
+    [
+      0.353952,
+      "File found: /cryptomg/index.php - 302"
+    ],
+    [
+      0.000160,
+      "\r\n"
+    ],
+    [
+      0.542517,
+      "File found: /rfidk/index.php - 302"
+    ],
+    [
+      0.000163,
+      "\r\n"
+    ],
+    [
+      0.557413,
+      "File found: /phpwn/index.php - 302\r\n"
+    ],
+    [
+      30.062680,
+      "DirBuster Stopped"
+    ],
+    [
+      0.000110,
+      "\r\n"
+    ],
+    [
+      12.183556,
+      "Starting dir/file list based brute forcing"
+    ],
+    [
+      0.000105,
+      "\r\n"
+    ],
+    [
+      0.188650,
+      "Dir found: / - 200\r\n"
+    ],
+    [
+      16.224750,
+      "Dir found: /examples/ - 200\r\n"
+    ],
+    [
+      2.854264,
+      "DirBuster Stopped"
+    ],
+    [
+      0.000556,
+      "\r\n"
+    ],
+    [
+      1.626975,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                         \r \r"
+    ],
+    [
+      0.025702,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mmiles@kali\u001b[49m \u001b[1m\u001b[32m/usr/share/wordlists/dirbuster\r\n\r\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      1.643384,
+      "s"
+    ],
+    [
+      0.167625,
+      "\u0008ss"
+    ],
+    [
+      0.111984,
+      "l"
+    ],
+    [
+      0.288073,
+      "c"
+    ],
+    [
+      0.480307,
+      "s"
+    ],
+    [
+      0.263983,
+      "c"
+    ],
+    [
+      0.456054,
+      "\u0008 \u0008"
+    ],
+    [
+      0.112205,
+      "\u0008 \u0008"
+    ],
+    [
+      0.143672,
+      "\u0008 \u0008"
+    ],
+    [
+      0.168164,
+      "s"
+    ],
+    [
+      0.240385,
+      "c"
+    ],
+    [
+      0.201497,
+      "an\u001b[1m \u001b[0m"
+    ],
+    [
+      1.144164,
+      "\u0008\u001b[0m ="
+    ],
+    [
+      0.302443,
+      "h"
+    ],
+    [
+      0.760105,
+      "\u0008 \u0008"
+    ],
+    [
+      0.120154,
+      "\u0008 \u0008"
+    ],
+    [
+      0.503842,
+      "-"
+    ],
+    [
+      0.192151,
+      "h"
+    ],
+    [
+      0.208378,
+      "\r\r\n"
+    ],
+    [
+      0.049702,
+      "\u001b[34m                   _"
+    ],
+    [
+      0.000077,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "           ___ ___| |___  ___ __ _ _ __"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "          / __/ __| / __|/ __/ _` | '_ \\"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "          \\__ \\__ \\ \\__ \\ (_| (_| | | | |"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "          |___/___/_|___/\\___\\__,_|_| |_|"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "                  Version 1.8.2"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "             http://www.titania.co.uk"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "        Copyright Ian Ventura-Whiting 2009"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.024885,
+      "\u001b[0m\u001b[31mERROR: Could not resolve hostname -h.\u001b[0m"
+    ],
+    [
+      0.000078,
+      "\r\n"
+    ],
+    [
+      0.000607,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                         \r \r"
+    ],
+    [
+      0.001095,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mmiles@kali\u001b[49m \u001b[1m\u001b[32m/usr/share/wordlists/dirbuster\r\n\r\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      13.317914,
+      "s"
+    ],
+    [
+      0.183908,
+      "\u0008ss"
+    ],
+    [
+      0.056457,
+      "l"
+    ],
+    [
+      0.543712,
+      "c"
+    ],
+    [
+      0.504100,
+      "\u0008 \u0008"
+    ],
+    [
+      0.048727,
+      "s"
+    ],
+    [
+      0.167225,
+      "c"
+    ],
+    [
+      0.248153,
+      "a"
+    ],
+    [
+      0.151802,
+      "n"
+    ],
+    [
+      0.232870,
+      "\r\r\n"
+    ],
+    [
+      0.002000,
+      "\u001b[34m                   _"
+    ],
+    [
+      0.000064,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "           ___ ___| |___  ___ __ _ _ __"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "          / __/ __| / __|/ __/ _` | '_ \\"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "          \\__ \\__ \\ \\__ \\ (_| (_| | | | |"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "          |___/___/_|___/\\___\\__,_|_| |_|"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "                  Version 1.8.2"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "             http://www.titania.co.uk"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "        Copyright Ian Ventura-Whiting 2009"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "\u001b[0m"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "SSLScan is a fast SSL port scanner. SSLScan connects to SSL"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "ports and determines what  ciphers are supported, which are"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "the servers  preferred  ciphers,  which  SSL  protocols  are"
+    ],
+    [
+      0.000046,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "supported  and   returns  the   SSL   certificate.   Client"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "certificates /  private key can be configured and output is"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "to text / XML."
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "\u001b[34mCommand:\u001b[0m"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "  \u001b[32msslscan [Options] [host:port | host]\u001b[0m"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[34mOptions:\u001b[0m"
+    ],
+    [
+      0.000135,
+      "\r\n"
+    ],
+    [
+      0.000050,
+      "  \u001b[32m--targets=\u003cfile\u003e\u001b[0m     A file containing a list of hosts to"
+    ],
+    [
+      0.000047,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "                       check.  Hosts can  be supplied  with"
+    ],
+    [
+      0.000042,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "                       ports (i.e. host:port)."
+    ],
+    [
+      0.000040,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "  \u001b[32m--no-failed\u001b[0m          List only accepted ciphers  (default"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "                       is to listing all ciphers)."
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "  \u001b[32m--ssl2\u001b[0m               Only check SSLv2 ciphers."
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "  \u001b[32m--ssl3\u001b[0m               Only check SSLv3 ciphers."
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "  \u001b[32m--tls1\u001b[0m               Only check TLSv1 ciphers."
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "  \u001b[32m--pk=\u003cfile\u003e\u001b[0m          A file containing the private key or"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "                       a PKCS#12  file containing a private"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "                       key/certificate pair (as produced by"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "                       MSIE and Netscape)."
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "  \u001b[32m--pkpass=\u003cpassword\u003e\u001b[0m  The password for the private  key or"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "                       PKCS#12 file."
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "  \u001b[32m--certs=\u003cfile\u003e\u001b[0m       A file containing PEM/ASN1 formatted"
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "                       client certificates."
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "  \u001b[32m--starttls\u001b[0m           If a STARTTLS is required to kick an"
+    ],
+    [
+      0.000173,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "                       SMTP service into action."
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "  \u001b[32m--http\u001b[0m               Test a HTTP connection."
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "  \u001b[32m--bugs\u001b[0m               Enable SSL implementation  bug work-"
+    ],
+    [
+      0.000090,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "                       arounds."
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "  \u001b[32m--xml=\u003cfile\u003e\u001b[0m         Output results to an XML file."
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "  \u001b[32m--version\u001b[0m            Display the program version."
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "  \u001b[32m--help\u001b[0m               Display the  help text  you are  now"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000031,
+      "                       reading."
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[34mExample:\u001b[0m"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "  \u001b[32msslscan 127.0.0.1\u001b[0m"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.000492,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                         \r \r"
+    ],
+    [
+      0.001108,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mmiles@kali\u001b[49m \u001b[1m\u001b[32m/usr/share/wordlists/dirbuster\r\n\r\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      63.718838,
+      "s"
+    ],
+    [
+      0.407932,
+      "\u0008ss"
+    ],
+    [
+      0.071574,
+      "l"
+    ],
+    [
+      0.352469,
+      "c"
+    ],
+    [
+      0.511632,
+      "\u0008 \u0008"
+    ],
+    [
+      0.032222,
+      "s"
+    ],
+    [
+      0.104017,
+      "c"
+    ],
+    [
+      0.215869,
+      "a"
+    ],
+    [
+      0.088230,
+      "n"
+    ],
+    [
+      9.701114,
+      " "
+    ],
+    [
+      0.079889,
+      "f"
+    ],
+    [
+      0.096144,
+      "a"
+    ],
+    [
+      0.191944,
+      "c"
+    ],
+    [
+      0.232166,
+      "e"
+    ],
+    [
+      0.223821,
+      "b"
+    ],
+    [
+      0.104077,
+      "o"
+    ],
+    [
+      0.144146,
+      "o"
+    ],
+    [
+      0.103786,
+      "k"
+    ],
+    [
+      0.168058,
+      "."
+    ],
+    [
+      1.336261,
+      "c"
+    ],
+    [
+      0.072404,
+      "o"
+    ],
+    [
+      0.031345,
+      "m"
+    ],
+    [
+      1.033594,
+      "\r\r\n"
+    ],
+    [
+      0.001900,
+      "\u001b[34m                   _"
+    ],
+    [
+      0.000058,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "           ___ ___| |___  ___ __ _ _ __"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "          / __/ __| / __|/ __/ _` | '_ \\"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "          \\__ \\__ \\ \\__ \\ (_| (_| | | | |"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "          |___/___/_|___/\\___\\__,_|_| |_|"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "                  Version 1.8.2"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "             http://www.titania.co.uk"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "        Copyright Ian Ventura-Whiting 2009"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.005980,
+      "\u001b[0m"
+    ],
+    [
+      0.000077,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "\u001b[32mTesting SSL server facebook.com on port 443\u001b[0m"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "  \u001b[34mSupported Server Cipher(s):\u001b[0m"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.079489,
+      "    Failed    SSLv3  256 bits  ECDHE-RSA-AES256-GCM-SHA384"
+    ],
+    [
+      0.000134,
+      "\r\n"
+    ],
+    [
+      0.083696,
+      "    Failed    SSLv3  256 bits  ECDHE-ECDSA-AES256-GCM-SHA384\r\n"
+    ],
+    [
+      0.083501,
+      "    Failed    SSLv3  256 bits  ECDHE-RSA-AES256-SHA384\r\n"
+    ],
+    [
+      0.079333,
+      "    Failed    SSLv3  256 bits  ECDHE-ECDSA-AES256-SHA384\r\n"
+    ],
+    [
+      0.161425,
+      "    Rejected  SSLv3  256 bits  ECDHE-RSA-AES256-SHA\r\n"
+    ],
+    [
+      0.158729,
+      "    Rejected  SSLv3  256 bits  ECDHE-ECDSA-AES256-SHA\r\n"
+    ],
+    [
+      0.082850,
+      "    Failed    SSLv3  256 bits  SRP-DSS-AES-256-CBC-SHA\r\n"
+    ],
+    [
+      0.079372,
+      "    Failed    SSLv3  256 bits  SRP-RSA-AES-256-CBC-SHA\r\n"
+    ],
+    [
+      0.079406,
+      "    Failed    SSLv3  256 bits  SRP-AES-256-CBC-SHA\r\n"
+    ],
+    [
+      0.082155,
+      "    Failed    SSLv3  256 bits  DHE-DSS-AES256-GCM-SHA384\r\n"
+    ],
+    [
+      0.081059,
+      "    Failed    SSLv3  256 bits  DHE-RSA-AES256-GCM-SHA384\r\n"
+    ],
+    [
+      0.079857,
+      "    Failed    SSLv3  256 bits  DHE-RSA-AES256-SHA256\r\n"
+    ],
+    [
+      0.079699,
+      "    Failed    SSLv3  256 bits  DHE-DSS-AES256-SHA256\r\n"
+    ],
+    [
+      0.163015,
+      "    Rejected  SSLv3  256 bits  DHE-RSA-AES256-SHA\r\n"
+    ],
+    [
+      0.159426,
+      "    Rejected  SSLv3  256 bits  DHE-DSS-AES256-SHA\r\n"
+    ],
+    [
+      0.165277,
+      "    Rejected  SSLv3  256 bits  DHE-RSA-CAMELLIA256-SHA\r\n"
+    ],
+    [
+      0.162278,
+      "    Rejected  SSLv3  256 bits  DHE-DSS-CAMELLIA256-SHA\r\n"
+    ],
+    [
+      0.158514,
+      "    Rejected  SSLv3  256 bits  AECDH-AES256-SHA\r\n"
+    ],
+    [
+      0.083913,
+      "    Failed    SSLv3  256 bits  ADH-AES256-GCM-SHA384\r\n"
+    ],
+    [
+      0.079875,
+      "    Failed    SSLv3  256 bits  ADH-AES256-SHA256\r\n"
+    ],
+    [
+      0.163933,
+      "    Rejected  SSLv3  256 bits  ADH-AES256-SHA\r\n"
+    ],
+    [
+      0.159906,
+      "    Rejected  SSLv3  256 bits  ADH-CAMELLIA256-SHA\r\n"
+    ],
+    [
+      0.082563,
+      "    Failed    SSLv3  256 bits  ECDH-RSA-AES256-GCM-SHA384\r\n"
+    ],
+    [
+      0.082466,
+      "    Failed    SSLv3  256 bits  ECDH-ECDSA-AES256-GCM-SHA384\r\n"
+    ],
+    [
+      0.079596,
+      "    Failed    SSLv3  256 bits  ECDH-RSA-AES256-SHA384\r\n"
+    ],
+    [
+      0.083296,
+      "    Failed    SSLv3  256 bits  ECDH-ECDSA-AES256-SHA384\r\n"
+    ],
+    [
+      0.166881,
+      "    Rejected  SSLv3  256 bits  ECDH-RSA-AES256-SHA\r\n"
+    ],
+    [
+      0.158867,
+      "    Rejected  SSLv3  256 bits  ECDH-ECDSA-AES256-SHA\r\n"
+    ],
+    [
+      0.079375,
+      "    Failed    SSLv3  256 bits  AES256-GCM-SHA384\r\n"
+    ],
+    [
+      0.079856,
+      "    Failed    SSLv3  256 bits  AES256-SHA256\r\n"
+    ],
+    [
+      0.162170,
+      "    Rejected  SSLv3  256 bits  AES256-SHA\r\n"
+    ],
+    [
+      0.164297,
+      "    Rejected  SSLv3  256 bits  CAMELLIA256-SHA\r\n"
+    ],
+    [
+      0.081275,
+      "    Failed    SSLv3  256 bits  PSK-AES256-CBC-SHA\r\n"
+    ],
+    [
+      0.164486,
+      "    Rejected  SSLv3  168 bits  ECDHE-RSA-DES-CBC3-SHA\r\n"
+    ],
+    [
+      0.166887,
+      "    Rejected  SSLv3  168 bits  ECDHE-ECDSA-DES-CBC3-SHA\r\n"
+    ],
+    [
+      0.082579,
+      "    Failed    SSLv3  168 bits  SRP-DSS-3DES-EDE-CBC-SHA\r\n"
+    ],
+    [
+      0.082812,
+      "    Failed    SSLv3  168 bits  SRP-RSA-3DES-EDE-CBC-SHA\r\n"
+    ],
+    [
+      0.081045,
+      "    Failed    SSLv3  168 bits  SRP-3DES-EDE-CBC-SHA\r\n"
+    ],
+    [
+      0.164962,
+      "    Rejected  SSLv3  168 bits  EDH-RSA-DES-CBC3-SHA\r\n"
+    ],
+    [
+      0.165456,
+      "    Rejected  SSLv3  168 bits  EDH-DSS-DES-CBC3-SHA\r\n"
+    ],
+    [
+      0.164345,
+      "    Rejected  SSLv3  168 bits  AECDH-DES-CBC3-SHA\r\n"
+    ],
+    [
+      0.159354,
+      "    Rejected  SSLv3  168 bits  ADH-DES-CBC3-SHA\r\n"
+    ],
+    [
+      0.164552,
+      "    Rejected  SSLv3  168 bits  ECDH-RSA-DES-CBC3-SHA\r\n"
+    ],
+    [
+      0.158326,
+      "    Rejected  SSLv3  168 bits  ECDH-ECDSA-DES-CBC3-SHA\r\n"
+    ],
+    [
+      0.166016,
+      "    Rejected  SSLv3  168 bits  DES-CBC3-SHA\r\n"
+    ],
+    [
+      0.082373,
+      "    Failed    SSLv3  168 bits  PSK-3DES-EDE-CBC-SHA\r\n"
+    ],
+    [
+      0.078654,
+      "    Failed    SSLv3  128 bits  ECDHE-RSA-AES128-GCM-SHA256\r\n"
+    ],
+    [
+      0.082643,
+      "    Failed    SSLv3  128 bits  ECDHE-ECDSA-AES128-GCM-SHA256\r\n"
+    ],
+    [
+      0.079334,
+      "    Failed    SSLv3  128 bits  ECDHE-RSA-AES128-SHA256\r\n"
+    ],
+    [
+      0.079557,
+      "    Failed    SSLv3  128 bits  ECDHE-ECDSA-AES128-SHA256\r\n"
+    ],
+    [
+      0.158190,
+      "    Rejected  SSLv3  128 bits  ECDHE-RSA-AES128-SHA\r\n"
+    ],
+    [
+      0.159385,
+      "    Rejected  SSLv3  128 bits  ECDHE-ECDSA-AES128-SHA\r\n"
+    ],
+    [
+      0.081685,
+      "    Failed    SSLv3  128 bits  SRP-DSS-AES-128-CBC-SHA\r\n"
+    ],
+    [
+      0.084610,
+      "    Failed    SSLv3  128 bits  SRP-RSA-AES-128-CBC-SHA\r\n"
+    ],
+    [
+      0.079576,
+      "    Failed    SSLv3  128 bits  SRP-AES-128-CBC-SHA\r\n"
+    ],
+    [
+      0.083343,
+      "    Failed    SSLv3  128 bits  DHE-DSS-AES128-GCM-SHA256\r\n"
+    ],
+    [
+      0.079540,
+      "    Failed    SSLv3  128 bits  DHE-RSA-AES128-GCM-SHA256\r\n"
+    ],
+    [
+      0.079922,
+      "    Failed    SSLv3  128 bits  DHE-RSA-AES128-SHA256\r\n"
+    ],
+    [
+      0.080162,
+      "    Failed    SSLv3  128 bits  DHE-DSS-AES128-SHA256\r\n"
+    ],
+    [
+      0.158857,
+      "    Rejected  SSLv3  128 bits  DHE-RSA-AES128-SHA\r\n"
+    ],
+    [
+      0.158311,
+      "    Rejected  SSLv3  128 bits  DHE-DSS-AES128-SHA\r\n"
+    ],
+    [
+      0.160464,
+      "    Rejected  SSLv3  128 bits  DHE-RSA-SEED-SHA\r\n"
+    ],
+    [
+      0.164283,
+      "    Rejected  SSLv3  128 bits  DHE-DSS-SEED-SHA\r\n"
+    ],
+    [
+      0.159109,
+      "    Rejected  SSLv3  128 bits  DHE-RSA-CAMELLIA128-SHA\r\n"
+    ],
+    [
+      0.164100,
+      "    Rejected  SSLv3  128 bits  DHE-DSS-CAMELLIA128-SHA\r\n"
+    ],
+    [
+      0.158937,
+      "    Rejected  SSLv3  128 bits  AECDH-AES128-SHA\r\n"
+    ],
+    [
+      0.082260,
+      "    Failed    SSLv3  128 bits  ADH-AES128-GCM-SHA256\r\n"
+    ],
+    [
+      0.082466,
+      "    Failed    SSLv3  128 bits  ADH-AES128-SHA256\r\n"
+    ],
+    [
+      0.165453,
+      "    Rejected  SSLv3  128 bits  ADH-AES128-SHA\r\n"
+    ],
+    [
+      0.164215,
+      "    Rejected  SSLv3  128 bits  ADH-SEED-SHA\r\n"
+    ],
+    [
+      0.164979,
+      "    Rejected  SSLv3  128 bits  ADH-CAMELLIA128-SHA\r\n"
+    ],
+    [
+      0.079470,
+      "    Failed    SSLv3  128 bits  ECDH-RSA-AES128-GCM-SHA256\r\n"
+    ],
+    [
+      0.079153,
+      "    Failed    SSLv3  128 bits  ECDH-ECDSA-AES128-GCM-SHA256\r\n"
+    ],
+    [
+      0.080803,
+      "    Failed    SSLv3  128 bits  ECDH-RSA-AES128-SHA256\r\n"
+    ],
+    [
+      0.082500,
+      "    Failed    SSLv3  128 bits  ECDH-ECDSA-AES128-SHA256\r\n"
+    ],
+    [
+      0.163790,
+      "    Rejected  SSLv3  128 bits  ECDH-RSA-AES128-SHA\r\n"
+    ],
+    [
+      0.158836,
+      "    Rejected  SSLv3  128 bits  ECDH-ECDSA-AES128-SHA\r\n"
+    ],
+    [
+      0.078888,
+      "    Failed    SSLv3  128 bits  AES128-GCM-SHA256\r\n"
+    ],
+    [
+      0.079757,
+      "    Failed    SSLv3  128 bits  AES128-SHA256\r\n"
+    ],
+    [
+      0.159366,
+      "    Rejected  SSLv3  128 bits  AES128-SHA\r\n"
+    ],
+    [
+      0.163934,
+      "    Rejected  SSLv3  128 bits  SEED-SHA\r\n"
+    ],
+    [
+      0.166022,
+      "    Rejected  SSLv3  128 bits  CAMELLIA128-SHA\r\n"
+    ],
+    [
+      0.079561,
+      "    Failed    SSLv3  128 bits  PSK-AES128-CBC-SHA\r\n"
+    ],
+    [
+      0.165006,
+      "    Rejected  SSLv3  128 bits  ECDHE-RSA-RC4-SHA\r\n"
+    ],
+    [
+      0.164377,
+      "    Rejected  SSLv3  128 bits  ECDHE-ECDSA-RC4-SHA\r\n"
+    ],
+    [
+      0.161237,
+      "    Rejected  SSLv3  128 bits  AECDH-RC4-SHA\r\n"
+    ],
+    [
+      0.158623,
+      "    Rejected  SSLv3  128 bits  ADH-RC4-MD5\r\n"
+    ],
+    [
+      0.156301,
+      "    Rejected  SSLv3  128 bits  ECDH-RSA-RC4-SHA\r\n"
+    ],
+    [
+      0.159355,
+      "    Rejected  SSLv3  128 bits  ECDH-ECDSA-RC4-SHA\r\n"
+    ],
+    [
+      0.160062,
+      "    Rejected  SSLv3  128 bits  RC4-SHA\r\n"
+    ],
+    [
+      0.170376,
+      "    Rejected  SSLv3  128 bits  RC4-MD5\r\n"
+    ],
+    [
+      0.079606,
+      "    Failed    SSLv3  128 bits  PSK-RC4-SHA\r\n"
+    ],
+    [
+      0.160379,
+      "    Rejected  SSLv3  56 bits   EDH-RSA-DES-CBC-SHA\r\n"
+    ],
+    [
+      0.159481,
+      "    Rejected  SSLv3  56 bits   EDH-DSS-DES-CBC-SHA\r\n"
+    ],
+    [
+      0.164210,
+      "    Rejected  SSLv3  56 bits   ADH-DES-CBC-SHA\r\n"
+    ],
+    [
+      0.158585,
+      "    Rejected  SSLv3  56 bits   DES-CBC-SHA\r\n"
+    ],
+    [
+      0.164462,
+      "    Rejected  SSLv3  40 bits   EXP-EDH-RSA-DES-CBC-SHA\r\n"
+    ],
+    [
+      0.158308,
+      "    Rejected  SSLv3  40 bits   EXP-EDH-DSS-DES-CBC-SHA\r\n"
+    ],
+    [
+      0.161523,
+      "    Rejected  SSLv3  40 bits   EXP-ADH-DES-CBC-SHA\r\n"
+    ],
+    [
+      0.159806,
+      "    Rejected  SSLv3  40 bits   EXP-DES-CBC-SHA\r\n"
+    ],
+    [
+      0.165667,
+      "    Rejected  SSLv3  40 bits   EXP-RC2-CBC-MD5\r\n"
+    ],
+    [
+      0.185405,
+      "    Rejected  SSLv3  40 bits   EXP-ADH-RC4-MD5\r\n"
+    ],
+    [
+      0.164177,
+      "    Rejected  SSLv3  40 bits   EXP-RC4-MD5\r\n"
+    ],
+    [
+      0.159846,
+      "    Rejected  SSLv3  0 bits    ECDHE-RSA-NULL-SHA\r\n"
+    ],
+    [
+      0.164317,
+      "    Rejected  SSLv3  0 bits    ECDHE-ECDSA-NULL-SHA\r\n"
+    ],
+    [
+      0.164522,
+      "    Rejected  SSLv3  0 bits    AECDH-NULL-SHA\r\n"
+    ],
+    [
+      0.159396,
+      "    Rejected  SSLv3  0 bits    ECDH-RSA-NULL-SHA\r\n"
+    ],
+    [
+      0.162831,
+      "    Rejected  SSLv3  0 bits    ECDH-ECDSA-NULL-SHA\r\n"
+    ],
+    [
+      0.082039,
+      "    Failed    SSLv3  0 bits    NULL-SHA256\r\n"
+    ],
+    [
+      0.160268,
+      "    Rejected  SSLv3  0 bits    NULL-SHA\r\n"
+    ],
+    [
+      0.159283,
+      "    Rejected  SSLv3  0 bits    NULL-MD5\r\n"
+    ],
+    [
+      0.084866,
+      "    Failed    TLSv1  256 bits  ECDHE-RSA-AES256-GCM-SHA384\r\n"
+    ],
+    [
+      0.079972,
+      "    Failed    TLSv1  256 bits  ECDHE-ECDSA-AES256-GCM-SHA384\r\n"
+    ],
+    [
+      0.082964,
+      "    Failed    TLSv1  256 bits  ECDHE-RSA-AES256-SHA384\r\n"
+    ],
+    [
+      0.082523,
+      "    Failed    TLSv1  256 bits  ECDHE-ECDSA-AES256-SHA384\r\n"
+    ],
+    [
+      0.243179,
+      "    Accepted  TLSv1  256 bits  ECDHE-RSA-AES256-SHA"
+    ],
+    [
+      0.000130,
+      "\r\n"
+    ],
+    [
+      0.241267,
+      "    Accepted  TLSv1  256 bits  ECDHE-ECDSA-AES256-SHA"
+    ],
+    [
+      0.000423,
+      "\r\n"
+    ],
+    [
+      0.079479,
+      "    Failed    TLSv1  256 bits  SRP-DSS-AES-256-CBC-SHA\r\n"
+    ],
+    [
+      0.079789,
+      "    Failed    TLSv1  256 bits  SRP-RSA-AES-256-CBC-SHA\r\n"
+    ],
+    [
+      0.101068,
+      "    Failed    TLSv1  256 bits  SRP-AES-256-CBC-SHA\r\n"
+    ],
+    [
+      0.083765,
+      "    Failed    TLSv1  256 bits  DHE-DSS-AES256-GCM-SHA384\r\n"
+    ],
+    [
+      0.082001,
+      "    Failed    TLSv1  256 bits  DHE-RSA-AES256-GCM-SHA384\r\n"
+    ],
+    [
+      0.084021,
+      "    Failed    TLSv1  256 bits  DHE-RSA-AES256-SHA256\r\n"
+    ],
+    [
+      0.082641,
+      "    Failed    TLSv1  256 bits  DHE-DSS-AES256-SHA256\r\n"
+    ],
+    [
+      0.163307,
+      "    Rejected  TLSv1  256 bits  DHE-RSA-AES256-SHA\r\n"
+    ],
+    [
+      0.165841,
+      "    Rejected  TLSv1  256 bits  DHE-DSS-AES256-SHA\r\n"
+    ],
+    [
+      0.164934,
+      "    Rejected  TLSv1  256 bits  DHE-RSA-CAMELLIA256-SHA\r\n"
+    ],
+    [
+      0.167272,
+      "    Rejected  TLSv1  256 bits  DHE-DSS-CAMELLIA256-SHA\r\n"
+    ],
+    [
+      0.164233,
+      "    Rejected  TLSv1  256 bits  AECDH-AES256-SHA\r\n"
+    ],
+    [
+      0.078726,
+      "    Failed    TLSv1  256 bits  ADH-AES256-GCM-SHA384\r\n"
+    ],
+    [
+      0.079681,
+      "    Failed    TLSv1  256 bits  ADH-AES256-SHA256\r\n"
+    ],
+    [
+      0.159239,
+      "    Rejected  TLSv1  256 bits  ADH-AES256-SHA\r\n"
+    ],
+    [
+      0.161288,
+      "    Rejected  TLSv1  256 bits  ADH-CAMELLIA256-SHA\r\n"
+    ],
+    [
+      0.082165,
+      "    Failed    TLSv1  256 bits  ECDH-RSA-AES256-GCM-SHA384\r\n"
+    ],
+    [
+      0.081968,
+      "    Failed    TLSv1  256 bits  ECDH-ECDSA-AES256-GCM-SHA384\r\n"
+    ],
+    [
+      0.085287,
+      "    Failed    TLSv1  256 bits  ECDH-RSA-AES256-SHA384\r\n"
+    ],
+    [
+      0.079356,
+      "    Failed    TLSv1  256 bits  ECDH-ECDSA-AES256-SHA384\r\n"
+    ],
+    [
+      0.159029,
+      "    Rejected  TLSv1  256 bits  ECDH-RSA-AES256-SHA\r\n"
+    ],
+    [
+      0.168888,
+      "    Rejected  TLSv1  256 bits  ECDH-ECDSA-AES256-SHA\r\n"
+    ],
+    [
+      0.079002,
+      "    Failed    TLSv1  256 bits  AES256-GCM-SHA384\r\n"
+    ],
+    [
+      0.079481,
+      "    Failed    TLSv1  256 bits  AES256-SHA256\r\n"
+    ],
+    [
+      0.252283,
+      "    Accepted  TLSv1  256 bits  AES256-SHA\r\n"
+    ],
+    [
+      0.160002,
+      "    Rejected  TLSv1  256 bits  CAMELLIA256-SHA\r\n"
+    ],
+    [
+      0.082162,
+      "    Failed    TLSv1  256 bits  PSK-AES256-CBC-SHA\r\n"
+    ],
+    [
+      0.251739,
+      "    Accepted  TLSv1  168 bits  ECDHE-RSA-DES-CBC3-SHA"
+    ],
+    [
+      0.000130,
+      "\r\n"
+    ],
+    [
+      0.165760,
+      "    Rejected  TLSv1  168 bits  ECDHE-ECDSA-DES-CBC3-SHA\r\n"
+    ],
+    [
+      0.079567,
+      "    Failed    TLSv1  168 bits  SRP-DSS-3DES-EDE-CBC-SHA\r\n"
+    ],
+    [
+      0.079848,
+      "    Failed    TLSv1  168 bits  SRP-RSA-3DES-EDE-CBC-SHA\r\n"
+    ],
+    [
+      0.082356,
+      "    Failed    TLSv1  168 bits  SRP-3DES-EDE-CBC-SHA\r\n"
+    ],
+    [
+      0.163990,
+      "    Rejected  TLSv1  168 bits  EDH-RSA-DES-CBC3-SHA\r\n"
+    ],
+    [
+      0.160594,
+      "    Rejected  TLSv1  168 bits  EDH-DSS-DES-CBC3-SHA\r\n"
+    ],
+    [
+      0.165714,
+      "    Rejected  TLSv1  168 bits  AECDH-DES-CBC3-SHA\r\n"
+    ],
+    [
+      0.160304,
+      "    Rejected  TLSv1  168 bits  ADH-DES-CBC3-SHA\r\n"
+    ],
+    [
+      0.156615,
+      "    Rejected  TLSv1  168 bits  ECDH-RSA-DES-CBC3-SHA\r\n"
+    ],
+    [
+      0.165756,
+      "    Rejected  TLSv1  168 bits  ECDH-ECDSA-DES-CBC3-SHA\r\n"
+    ],
+    [
+      0.248583,
+      "    Accepted  TLSv1  168 bits  DES-CBC3-SHA"
+    ],
+    [
+      0.000131,
+      "\r\n"
+    ],
+    [
+      0.083276,
+      "    Failed    TLSv1  168 bits  PSK-3DES-EDE-CBC-SHA\r\n"
+    ],
+    [
+      0.082401,
+      "    Failed    TLSv1  128 bits  ECDHE-RSA-AES128-GCM-SHA256\r\n"
+    ],
+    [
+      0.083192,
+      "    Failed    TLSv1  128 bits  ECDHE-ECDSA-AES128-GCM-SHA256\r\n"
+    ],
+    [
+      0.080222,
+      "    Failed    TLSv1  128 bits  ECDHE-RSA-AES128-SHA256\r\n"
+    ],
+    [
+      0.082625,
+      "    Failed    TLSv1  128 bits  ECDHE-ECDSA-AES128-SHA256\r\n"
+    ],
+    [
+      0.249895,
+      "    Accepted  TLSv1  128 bits  ECDHE-RSA-AES128-SHA"
+    ],
+    [
+      0.000132,
+      "\r\n"
+    ],
+    [
+      0.242017,
+      "    Accepted  TLSv1  128 bits  ECDHE-ECDSA-AES128-SHA"
+    ],
+    [
+      0.000091,
+      "\r\n"
+    ],
+    [
+      0.080590,
+      "    Failed    TLSv1  128 bits  SRP-DSS-AES-128-CBC-SHA\r\n"
+    ],
+    [
+      0.082629,
+      "    Failed    TLSv1  128 bits  SRP-RSA-AES-128-CBC-SHA\r\n"
+    ],
+    [
+      0.081844,
+      "    Failed    TLSv1  128 bits  SRP-AES-128-CBC-SHA\r\n"
+    ],
+    [
+      0.079881,
+      "    Failed    TLSv1  128 bits  DHE-DSS-AES128-GCM-SHA256\r\n"
+    ],
+    [
+      0.079470,
+      "    Failed    TLSv1  128 bits  DHE-RSA-AES128-GCM-SHA256\r\n"
+    ],
+    [
+      0.080538,
+      "    Failed    TLSv1  128 bits  DHE-RSA-AES128-SHA256\r\n"
+    ],
+    [
+      0.082235,
+      "    Failed    TLSv1  128 bits  DHE-DSS-AES128-SHA256\r\n"
+    ],
+    [
+      0.158558,
+      "    Rejected  TLSv1  128 bits  DHE-RSA-AES128-SHA\r\n"
+    ],
+    [
+      0.158567,
+      "    Rejected  TLSv1  128 bits  DHE-DSS-AES128-SHA\r\n"
+    ],
+    [
+      0.159595,
+      "    Rejected  TLSv1  128 bits  DHE-RSA-SEED-SHA\r\n"
+    ],
+    [
+      0.167418,
+      "    Rejected  TLSv1  128 bits  DHE-DSS-SEED-SHA\r\n"
+    ],
+    [
+      0.157781,
+      "    Rejected  TLSv1  128 bits  DHE-RSA-CAMELLIA128-SHA\r\n"
+    ],
+    [
+      0.156539,
+      "    Rejected  TLSv1  128 bits  DHE-DSS-CAMELLIA128-SHA\r\n"
+    ],
+    [
+      0.161990,
+      "    Rejected  TLSv1  128 bits  AECDH-AES128-SHA\r\n"
+    ],
+    [
+      1.085103,
+      "    Failed    TLSv1  128 bits  ADH-AES128-GCM-SHA256\r\n"
+    ],
+    [
+      0.082213,
+      "    Failed    TLSv1  128 bits  ADH-AES128-SHA256\r\n"
+    ],
+    [
+      0.158244,
+      "    Rejected  TLSv1  128 bits  ADH-AES128-SHA\r\n"
+    ],
+    [
+      0.164802,
+      "    Rejected  TLSv1  128 bits  ADH-SEED-SHA\r\n"
+    ],
+    [
+      0.160247,
+      "    Rejected  TLSv1  128 bits  ADH-CAMELLIA128-SHA\r\n"
+    ],
+    [
+      0.082831,
+      "    Failed    TLSv1  128 bits  ECDH-RSA-AES128-GCM-SHA256\r\n"
+    ],
+    [
+      0.082715,
+      "    Failed    TLSv1  128 bits  ECDH-ECDSA-AES128-GCM-SHA256\r\n"
+    ],
+    [
+      0.082920,
+      "    Failed    TLSv1  128 bits  ECDH-RSA-AES128-SHA256\r\n"
+    ],
+    [
+      0.079908,
+      "    Failed    TLSv1  128 bits  ECDH-ECDSA-AES128-SHA256\r\n"
+    ],
+    [
+      0.170085,
+      "    Rejected  TLSv1  128 bits  ECDH-RSA-AES128-SHA\r\n"
+    ],
+    [
+      0.165016,
+      "    Rejected  TLSv1  128 bits  ECDH-ECDSA-AES128-SHA\r\n"
+    ],
+    [
+      0.080472,
+      "    Failed    TLSv1  128 bits  AES128-GCM-SHA256\r\n"
+    ],
+    [
+      0.082235,
+      "    Failed    TLSv1  128 bits  AES128-SHA256\r\n"
+    ],
+    [
+      0.249220,
+      "    Accepted  TLSv1  128 bits  AES128-SHA"
+    ],
+    [
+      0.000133,
+      "\r\n"
+    ],
+    [
+      0.161764,
+      "    Rejected  TLSv1  128 bits  SEED-SHA"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.159607,
+      "    Rejected  TLSv1  128 bits  CAMELLIA128-SHA\r\n"
+    ],
+    [
+      0.082875,
+      "    Failed    TLSv1  128 bits  PSK-AES128-CBC-SHA\r\n"
+    ],
+    [
+      0.684149,
+      "    Accepted  TLSv1  128 bits  ECDHE-RSA-RC4-SHA\r\n"
+    ],
+    [
+      0.248294,
+      "    Accepted  TLSv1  128 bits  ECDHE-ECDSA-RC4-SHA"
+    ],
+    [
+      0.000134,
+      "\r\n"
+    ],
+    [
+      0.164833,
+      "    Rejected  TLSv1  128 bits  AECDH-RC4-SHA\r\n"
+    ],
+    [
+      0.170459,
+      "    Rejected  TLSv1  128 bits  ADH-RC4-MD5\r\n"
+    ],
+    [
+      0.166600,
+      "    Rejected  TLSv1  128 bits  ECDH-RSA-RC4-SHA\r\n"
+    ],
+    [
+      0.165020,
+      "    Rejected  TLSv1  128 bits  ECDH-ECDSA-RC4-SHA\r\n"
+    ],
+    [
+      0.247159,
+      "    Accepted  TLSv1  128 bits  RC4-SHA"
+    ],
+    [
+      0.000129,
+      "\r\n"
+    ],
+    [
+      0.250637,
+      "    Accepted  TLSv1  128 bits  RC4-MD5"
+    ],
+    [
+      0.000131,
+      "\r\n"
+    ],
+    [
+      0.080708,
+      "    Failed    TLSv1  128 bits  PSK-RC4-SHA\r\n"
+    ],
+    [
+      0.164507,
+      "    Rejected  TLSv1  56 bits   EDH-RSA-DES-CBC-SHA\r\n"
+    ],
+    [
+      0.162041,
+      "    Rejected  TLSv1  56 bits   EDH-DSS-DES-CBC-SHA\r\n"
+    ],
+    [
+      0.158574,
+      "    Rejected  TLSv1  56 bits   ADH-DES-CBC-SHA\r\n"
+    ],
+    [
+      0.164657,
+      "    Rejected  TLSv1  56 bits   DES-CBC-SHA\r\n"
+    ],
+    [
+      0.158767,
+      "    Rejected  TLSv1  40 bits   EXP-EDH-RSA-DES-CBC-SHA\r\n"
+    ],
+    [
+      0.165799,
+      "    Rejected  TLSv1  40 bits   EXP-EDH-DSS-DES-CBC-SHA\r\n"
+    ],
+    [
+      0.164001,
+      "    Rejected  TLSv1  40 bits   EXP-ADH-DES-CBC-SHA\r\n"
+    ],
+    [
+      0.167674,
+      "    Rejected  TLSv1  40 bits   EXP-DES-CBC-SHA\r\n"
+    ],
+    [
+      0.158186,
+      "    Rejected  TLSv1  40 bits   EXP-RC2-CBC-MD5\r\n"
+    ],
+    [
+      0.165276,
+      "    Rejected  TLSv1  40 bits   EXP-ADH-RC4-MD5\r\n"
+    ],
+    [
+      0.158497,
+      "    Rejected  TLSv1  40 bits   EXP-RC4-MD5\r\n"
+    ],
+    [
+      0.166211,
+      "    Rejected  TLSv1  0 bits    ECDHE-RSA-NULL-SHA\r\n"
+    ],
+    [
+      0.165089,
+      "    Rejected  TLSv1  0 bits    ECDHE-ECDSA-NULL-SHA\r\n"
+    ],
+    [
+      0.161620,
+      "    Rejected  TLSv1  0 bits    AECDH-NULL-SHA\r\n"
+    ],
+    [
+      0.158233,
+      "    Rejected  TLSv1  0 bits    ECDH-RSA-NULL-SHA\r\n"
+    ],
+    [
+      0.164713,
+      "    Rejected  TLSv1  0 bits    ECDH-ECDSA-NULL-SHA\r\n"
+    ],
+    [
+      0.079495,
+      "    Failed    TLSv1  0 bits    NULL-SHA256\r\n"
+    ],
+    [
+      0.159280,
+      "    Rejected  TLSv1  0 bits    NULL-SHA\r\n"
+    ],
+    [
+      0.160790,
+      "    Rejected  TLSv1  0 bits    NULL-MD5\r\n\r\n  \u001b[34mPrefered Server Cipher(s):\u001b[0m\r\n"
+    ],
+    [
+      0.404770,
+      "    TLSv1  128 bits  ECDHE-ECDSA-RC4-SHA"
+    ],
+    [
+      0.000138,
+      "\r\n"
+    ],
+    [
+      0.241082,
+      "\r\n"
+    ],
+    [
+      0.000135,
+      "  \u001b[34mSSL Certificate:\u001b[0m"
+    ],
+    [
+      0.000040,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "    Version: 2"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "    Serial Number: -18446744073709551615"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      "    Signature Algorithm: sha1WithRSAEncryption"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.000056,
+      "    Issuer: /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance CA-3"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000065,
+      "    Not valid before: Aug 28 00:00:00 2014 GMT"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000048,
+      "    Not valid after: Oct 28 12:00:00 2015 GMT"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.000050,
+      "    Subject: /C=US/ST=CA/L=Menlo Park/O=Facebook, Inc./CN=*.facebook.com"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "    Public Key Algorithm: id-ecPublicKey"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "    EC Public Key:"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.000107,
+      "      Private-Key: (256 bit)"
+    ],
+    [
+      0.000042,
+      "\r\n"
+    ],
+    [
+      0.000051,
+      "      pub: "
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000051,
+      "          04:d8:d1:dd:35:bd:e2:59:b6:fb:9b:1f:54:15:8c:"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "          db:bf:4e:58:bd:47:be:b8:10:fc:22:e9:d2:9e:98:"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "          f8:49:2a:25:fb:94:46:e4:42:99:84:50:1c:5f:01:"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "          fd:14:25:31:5c:4e:d9:64:fd:c5:0c:b3:46:d2:a1:"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      "          bc:70:b4:87:8e"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000051,
+      "      ASN1 OID: prime256v1"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000050,
+      "    X509v3 Extensions:"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "      X509v3 Authority Key Identifier: "
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000258,
+      "        keyid:50:EA:73:89:DB:29:FB:10:8F:9E:E5:01:20:D4:DE:79:99:48:83:F7"
+    ],
+    [
+      0.000062,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "\r\n"
+    ],
+    [
+      0.000051,
+      "      X509v3 Subject Key Identifier: "
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "        43:09:93:40:FA:11:4B:30:33:EC:F2:87:6E:8D:71:18:CF:8A:BC:8E"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000048,
+      "      X509v3 Subject Alternative Name: "
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000091,
+      "        DNS:*.facebook.com, DNS:facebook.com, DNS:*.fbsbx.com, DNS:*.fbcdn.net, DNS:*.xx.fbcdn.net, DNS:*.xy.fbcdn.net, DNS:fb.com, DNS:*.fb.com, DNS:*.facebookcorewwwi.onion, DNS:facebookcorewwwi.onion, DNS:fbcdn23dssr3jqnq.onion, DNS:fbsbx2q4mvcl63pw.onion, DNS:*.m.facebook.com, DNS:*.messenger.com, DNS:messenger.com"
+    ],
+    [
+      0.000051,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "      X509v3 Key Usage: critical"
+    ],
+    [
+      0.000043,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "        Digital Signature, Key Agreement"
+    ],
+    [
+      0.000049,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "      X509v3 Extended Key Usage: "
+    ],
+    [
+      0.000044,
+      "\r\n"
+    ],
+    [
+      0.000057,
+      "        TLS Web Server Authentication, TLS Web Client Authentication"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "      X509v3 CRL Distribution Points: "
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.000055,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "        Full Name:"
+    ],
+    [
+      0.000139,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "          URI:http://crl3.digicert.com/ca3-g29.crl"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "        Full Name:"
+    ],
+    [
+      0.000081,
+      "\r\n"
+    ],
+    [
+      0.000031,
+      "          URI:http://crl4.digicert.com/ca3-g29.crl"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "      X509v3 Certificate Policies: "
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "        Policy: 2.16.840.1.114412.1.1"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "          CPS: https://www.digicert.com/CPS"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "      Authority Information Access: "
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "        OCSP - URI:http://ocsp.digicert.com"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "        CA Issuers - URI:http://cacerts.digicert.com/DigiCertHighAssuranceCA-3.crt"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "      X509v3 Basic Constraints: critical"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "        CA:FALSE"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "  Verify Certificate:"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "    unable to get local issuer certificate"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.000941,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                         \r \r"
+    ],
+    [
+      0.001323,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mmiles@kali\u001b[49m \u001b[1m\u001b[32m/usr/share/wordlists/dirbuster\r\n\r\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      98.607259,
+      "s"
+    ],
+    [
+      0.167304,
+      "\u0008ss"
+    ],
+    [
+      0.063963,
+      "l"
+    ],
+    [
+      0.175529,
+      "\u0007"
+    ],
+    [
+      0.000162,
+      "\r"
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "Completing external command"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[J\u001b[0msslcaudit  \u001b[Jsslscan    \u001b[Jsslsniff   \u001b[Jsslsplit   \u001b[Jsslstrip   \u001b[Jsslyze   \u001b[J\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[3C"
+    ],
+    [
+      0.000025,
+      "ssl\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      2.904546,
+      "c"
+    ],
+    [
+      1.240027,
+      "a"
+    ],
+    [
+      0.087945,
+      "u"
+    ],
+    [
+      0.101187,
+      "dit\u001b[1m \u001b[0m"
+    ],
+    [
+      0.612444,
+      "\u0008\u001b[0m \u0008\r\r\n\u001b[J"
+    ],
+    [
+      0.395955,
+      "Traceback (most recent call last):"
+    ],
+    [
+      0.000092,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "  File \"/usr/bin/sslcaudit\", line 72, in \u003cmodule\u003e"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "    "
+    ],
+    [
+      0.000026,
+      "sys.exit(main(sys.argv))"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "  File \"/usr/bin/sslcaudit\", line 65, in main"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "    "
+    ],
+    [
+      0.000024,
+      "c = init_controller(argv)"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "  File \"/usr/bin/sslcaudit\", line 32, in init_controller"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "    "
+    ],
+    [
+      0.000024,
+      "controller = SSLCAuditCLI(argv[1:])"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "  File \"/usr/share/sslcaudit/src/core/SSLCAuditCLI.py\", line 27, in __init__"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000051,
+      "    "
+    ],
+    [
+      0.000022,
+      "BaseClientAuditController.__init__(self, self.parse_options(argv))"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "  File \"/usr/share/sslcaudit/src/core/BaseClientAuditController.py\", line 34, in __init__"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000031,
+      "    "
+    ],
+    [
+      0.000027,
+      "self.file_bag = FileBag(self.options.test_name)"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "  File \"/usr/share/sslcaudit/src/core/FileBag.py\", line 36, in __init__"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "    "
+    ],
+    [
+      0.000020,
+      "raise ex"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "OSError"
+    ],
+    [
+      0.000038,
+      ": "
+    ],
+    [
+      0.000026,
+      "[Errno 13] Permission denied: 'sslcaudit.0'"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.013986,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                         \r \r"
+    ],
+    [
+      0.001024,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mmiles@kali\u001b[49m \u001b[1m\u001b[32m/usr/share/wordlists/dirbuster\r\n\r\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      3.906343,
+      "s"
+    ],
+    [
+      0.191847,
+      "\u0008ss"
+    ],
+    [
+      0.112269,
+      "l"
+    ],
+    [
+      0.661363,
+      "\u0007"
+    ],
+    [
+      0.000115,
+      "\r"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000062,
+      "Completing external command"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "\u001b[J\u001b[0msslcaudit  \u001b[Jsslscan    \u001b[Jsslsniff   \u001b[Jsslsplit   \u001b[Jsslstrip   \u001b[Jsslyze   \u001b[J\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[3C"
+    ],
+    [
+      0.000024,
+      "ssl\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      2.874538,
+      "s"
+    ],
+    [
+      0.087712,
+      "n"
+    ],
+    [
+      0.718500,
+      "iff\u001b[1m \u001b[0m"
+    ],
+    [
+      0.658447,
+      "\u0008\u001b[0m \u0008\r\r\n\u001b[J"
+    ],
+    [
+      0.023120,
+      "Usage: sslsniff [options]"
+    ],
+    [
+      0.000108,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "Modes:"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "-a"
+    ],
+    [
+      0.000052,
+      "\t"
+    ],
+    [
+      0.000023,
+      "Authority mode.  Specify a certificate that will act as a CA."
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "-t"
+    ],
+    [
+      0.000024,
+      "\t"
+    ],
+    [
+      0.000021,
+      "Targeted mode.  Specify a directory full of certificates to target."
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "Required Options:"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "-c \u003cfile|directory\u003e"
+    ],
+    [
+      0.000028,
+      "\t"
+    ],
+    [
+      0.000021,
+      "File containing CA cert/key (authority mode) or "
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "\t"
+    ],
+    [
+      0.000027,
+      "\t"
+    ],
+    [
+      0.000021,
+      "\t"
+    ],
+    [
+      0.000020,
+      "directory containing a collection of certs/keys"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "\t"
+    ],
+    [
+      0.000035,
+      "\t"
+    ],
+    [
+      0.000072,
+      "\t"
+    ],
+    [
+      0.000024,
+      "(targeted mode)"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "-s \u003cport\u003e"
+    ],
+    [
+      0.000021,
+      "\t"
+    ],
+    [
+      0.000020,
+      "\t"
+    ],
+    [
+      0.000021,
+      "Port to listen on for SSL interception."
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "-w \u003cfile\u003e"
+    ],
+    [
+      0.000020,
+      "\t"
+    ],
+    [
+      0.000020,
+      "\t"
+    ],
+    [
+      0.000027,
+      "File to log to"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "Optional Options:"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "-u \u003cupdateLocation\u003e"
+    ],
+    [
+      0.000020,
+      "\t"
+    ],
+    [
+      0.000020,
+      "Loction of any Firefox XML update files."
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "-m \u003ccertificateChain\u003e"
+    ],
+    [
+      0.000020,
+      "\t"
+    ],
+    [
+      0.000021,
+      "Location of any intermediary certificates."
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "-h \u003cport\u003e"
+    ],
+    [
+      0.000020,
+      "\t"
+    ],
+    [
+      0.000020,
+      "\t"
+    ],
+    [
+      0.000027,
+      "Port to listen on for HTTP interception (required for"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "\t"
+    ],
+    [
+      0.000020,
+      "\t"
+    ],
+    [
+      0.000027,
+      "\t"
+    ],
+    [
+      0.000021,
+      "fingerprinting)."
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "-f \u003cff,ie,safari,opera,ios\u003e"
+    ],
+    [
+      0.000028,
+      "\t"
+    ],
+    [
+      0.000020,
+      "Only intercept requests from the specified browser(s)."
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "-d"
+    ],
+    [
+      0.000020,
+      "\t"
+    ],
+    [
+      0.000020,
+      "\t"
+    ],
+    [
+      0.000027,
+      "\t"
+    ],
+    [
+      0.000021,
+      "Deny OCSP requests for our certificates."
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "-p"
+    ],
+    [
+      0.000028,
+      "\t"
+    ],
+    [
+      0.000020,
+      "\t"
+    ],
+    [
+      0.000020,
+      "\t"
+    ],
+    [
+      0.000030,
+      "Only log HTTP POSTs"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "-e \u003curl\u003e"
+    ],
+    [
+      0.000028,
+      "\t"
+    ],
+    [
+      0.000020,
+      "\t"
+    ],
+    [
+      0.000020,
+      "Intercept Mozilla Addon Updates"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "-j \u003csha256\u003e"
+    ],
+    [
+      0.000020,
+      "\t"
+    ],
+    [
+      0.000055,
+      "\t"
+    ],
+    [
+      0.000020,
+      "The sha256sum value of the addon to inject"
+    ],
+    [
+      0.004107,
+      "\r\n"
+    ],
+    [
+      0.000084,
+      "\r\n"
+    ],
+    [
+      0.000763,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                         \r \r"
+    ],
+    [
+      0.001373,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mmiles@kali\u001b[49m \u001b[1m\u001b[32m/usr/share/wordlists/dirbuster\r\n\r\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      2.023646,
+      "m"
+    ],
+    [
+      0.055974,
+      "\u0008ma"
+    ],
+    [
+      0.087872,
+      "n"
+    ],
+    [
+      0.168005,
+      " "
+    ],
+    [
+      0.136257,
+      "s"
+    ],
+    [
+      0.167947,
+      "s"
+    ],
+    [
+      0.095940,
+      "l"
+    ],
+    [
+      0.328142,
+      "s"
+    ],
+    [
+      0.143839,
+      "n"
+    ],
+    [
+      0.144025,
+      "i"
+    ],
+    [
+      0.080198,
+      "f"
+    ],
+    [
+      0.183610,
+      "f"
+    ],
+    [
+      0.129101,
+      "\r\r\n"
+    ],
+    [
+      0.138325,
+      "\u001b[?1049h\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.114880,
+      "SSLSNIFF(1)                                                                 SSLSNIFF(1)\u001b[m\r\n\u001b[m\r\n\u001b[1mNAME\u001b[0m\u001b[m\r\n       sslsniff - SSL/TLS man-in-the-middle attack tool\u001b[m\r\n\u001b[m\r\n\u001b[1mSYNOPSIS\u001b[0m\u001b[m\r\n       \u001b[1msslsniff\u001b[0m [\u001b[4moptions\u001b[24m]\u001b[m\r\n\u001b[m\r\n\u001b[1mDESCRIPTION\u001b[0m\u001b[m\r\n       This manual page documents briefly the \u001b[1msslsniff\u001b[0m command.\u001b[m\r\n\u001b[m\r\n       \u001b[1msslsniff\u001b[0m is designed to create man-in-the-middle (MITM) attacks for SSL/TLS con‐\u001b[m\r\n       nections, and dynamically  generates  certs  for  the  domains  that  are  being\u001b[m\r\n       accessed on the fly. The new certificates are constructed in a certificate chain\u001b[m\r\n       that is signed by any certificate that is provided.\u001b[m\r\n       sslsniff also supports other attacks like null-prefix or OCSP attacks to achieve\u001b[m\r\n       silent interceptions of connections when possible.\u001b[m\r\n\u001b[m\r\n\u001b[1mOPTIONS\u001b[0m\u001b[m\r\n       Modes:\u001b[m\r\n\u001b[m\r\n       \u001b[1m-a\u001b[0m     Authority mode.  Specify a certificate that will act as a CA.\u001b[m\r\n\u001b[m\r\n       \u001b[1m-t\u001b[0m     Targeted mode.  Specify a directory full of certificates to target.\u001b[m\r\n\u001b[m\r\n       Required options:\u001b[m\r\n\u001b[m\r\n\u001b[7m Manual page sslsniff(1) line 1 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      1.554168,
+      "\r\u001b[K       \u001b[1m-c\u001b[0m \u001b[1m\u003cfile|directory\u003e\u001b[0m\u001b[m\r\n\u001b[7m Manual page sslsniff(1) line 2 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      45.778055,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                         \r \r"
+    ],
+    [
+      0.001463,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mmiles@kali\u001b[49m \u001b[1m\u001b[32m/usr/share/wordlists/dirbuster\r\n\r\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      73.099256,
+      "b"
+    ],
+    [
+      0.077140,
+      "\u0008bu"
+    ],
+    [
+      0.090060,
+      "p"
+    ],
+    [
+      0.101783,
+      "r"
+    ],
+    [
+      0.512031,
+      "s"
+    ],
+    [
+      0.256117,
+      "\u0008 \u0008"
+    ],
+    [
+      0.239798,
+      "\u0008 \u0008"
+    ],
+    [
+      0.167238,
+      "\u0008 \u0008"
+    ],
+    [
+      0.184784,
+      "r"
+    ],
+    [
+      0.167896,
+      "p"
+    ],
+    [
+      0.287877,
+      "s"
+    ],
+    [
+      0.205399,
+      "uite\u001b[1m \u001b[0m"
+    ],
+    [
+      0.627816,
+      "\u0008\u001b[0m \u0008\r\r\n"
+    ],
+    [
+      168268.008907,
+      "^C"
+    ],
+    [
+      0.453546,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                         \r \r"
+    ],
+    [
+      0.079475,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mmiles@kali\u001b[49m \u001b[1m\u001b[32m/usr/share/wordlists/dirbuster"
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "\r\u001b[37m % \u001b[0m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.000036,
+      "\u001b[K"
+    ],
+    [
+      0.065689,
+      "\r\r\n"
+    ],
+    [
+      0.009844,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                         \r \r"
+    ],
+    [
+      0.004327,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mmiles@kali\u001b[49m \u001b[1m\u001b[32m/usr/share/wordlists/dirbuster\r\n\r\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      0.848806,
+      "e"
+    ],
+    [
+      0.184908,
+      "\u0008ex"
+    ],
+    [
+      0.102635,
+      "i"
+    ],
+    [
+      0.118972,
+      "t"
+    ],
+    [
+      0.089303,
+      "\r\r\n"
+    ]
+  ]
+}
