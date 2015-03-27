@@ -1,0 +1,914 @@
+{
+  "version": 1,
+  "width": 211,
+  "height": 54,
+  "duration": 460.021067,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.140518,
+      "\u001b]0;derpibooru@luna: ~/derpibooru\u0007derpibooru@luna:~/derpibooru$ "
+    ],
+    [
+      2.587551,
+      "b"
+    ],
+    [
+      0.274068,
+      "u"
+    ],
+    [
+      0.115742,
+      "n"
+    ],
+    [
+      0.239463,
+      "d"
+    ],
+    [
+      0.091174,
+      "l"
+    ],
+    [
+      0.128753,
+      "e"
+    ],
+    [
+      0.134490,
+      " "
+    ],
+    [
+      0.485807,
+      "i"
+    ],
+    [
+      0.189989,
+      "n"
+    ],
+    [
+      0.466092,
+      "s"
+    ],
+    [
+      0.168156,
+      "t"
+    ],
+    [
+      0.128178,
+      "a"
+    ],
+    [
+      0.151909,
+      "l"
+    ],
+    [
+      0.124390,
+      "l"
+    ],
+    [
+      0.496357,
+      "\r\n"
+    ],
+    [
+      1.197788,
+      "Fetching gem metadata from http://rubygems.org/"
+    ],
+    [
+      0.002323,
+      "."
+    ],
+    [
+      2.569417,
+      "."
+    ],
+    [
+      0.839946,
+      "."
+    ],
+    [
+      0.252565,
+      "."
+    ],
+    [
+      0.053364,
+      "."
+    ],
+    [
+      0.046125,
+      "."
+    ],
+    [
+      0.399446,
+      "\r\n"
+    ],
+    [
+      0.000214,
+      "Fetching version metadata from http://rubygems.org/"
+    ],
+    [
+      0.078285,
+      "."
+    ],
+    [
+      3.548886,
+      "."
+    ],
+    [
+      0.048498,
+      "."
+    ],
+    [
+      0.371439,
+      "\r\n"
+    ],
+    [
+      0.462790,
+      "Fetching dependency metadata from http://rubygems.org/"
+    ],
+    [
+      0.000048,
+      "."
+    ],
+    [
+      0.036323,
+      "."
+    ],
+    [
+      0.000365,
+      "\r\n"
+    ],
+    [
+      0.138272,
+      "Fetching git://github.com/jnunemaker/flipper-ui.git\r\n"
+    ],
+    [
+      0.749485,
+      "Fetching git://github.com/JamesHarrison/origin.git\r\n"
+    ],
+    [
+      0.781989,
+      "Fetching git://github.com/aq1018/mongoid-history.git\r\n"
+    ],
+    [
+      0.711936,
+      "Fetching git://github.com/rs-pro/voteable_mongo.git\r\n"
+    ],
+    [
+      0.674225,
+      "Fetching git://github.com/JamesHarrison/trackoid.git\r\n"
+    ],
+    [
+      1.040797,
+      "Using rake 10.4.2\r\n"
+    ],
+    [
+      8.186841,
+      "\u001b[32mInstalling RedCloth 4.2.9\u001b[0m\r\n"
+    ],
+    [
+      0.787979,
+      "\u001b[32mInstalling aasm 4.1.0\u001b[0m\r\n"
+    ],
+    [
+      0.512761,
+      "\u001b[32mInstalling i18n 0.7.0\u001b[0m\r\n"
+    ],
+    [
+      4.948531,
+      "\u001b[32mInstalling json 1.8.2\u001b[0m\r\n"
+    ],
+    [
+      0.485529,
+      "\u001b[32mInstalling minitest 5.5.1\u001b[0m\r\n"
+    ],
+    [
+      0.762329,
+      "\u001b[32mInstalling thread_safe 0.3.5\u001b[0m\r\n"
+    ],
+    [
+      1.038919,
+      "\u001b[32mInstalling tzinfo 1.2.2\u001b[0m\r\n"
+    ],
+    [
+      0.957344,
+      "\u001b[32mInstalling activesupport 4.2.1\u001b[0m\r\n"
+    ],
+    [
+      0.427111,
+      "\u001b[32mInstalling builder 3.2.2\u001b[0m\r\n"
+    ],
+    [
+      1.899252,
+      "\u001b[32mInstalling erubis 2.7.0\u001b[0m\r\n"
+    ],
+    [
+      0.409901,
+      "\u001b[32mInstalling mini_portile 0.6.2\u001b[0m\r\n"
+    ],
+    [
+      120.518591,
+      "\u001b[32mInstalling nokogiri 1.6.6.2\u001b[0m\r\n"
+    ],
+    [
+      0.632249,
+      "\u001b[32mInstalling rails-deprecated_sanitizer 1.0.3\u001b[0m\r\n"
+    ],
+    [
+      0.443850,
+      "\u001b[32mInstalling rails-dom-testing 1.0.6\u001b[0m\r\n"
+    ],
+    [
+      0.469453,
+      "\u001b[32mInstalling loofah 2.0.1\u001b[0m\r\n"
+    ],
+    [
+      0.401993,
+      "\u001b[32mInstalling rails-html-sanitizer 1.0.2\u001b[0m\r\n"
+    ],
+    [
+      0.704224,
+      "\u001b[32mInstalling actionview 4.2.1\u001b[0m\r\n"
+    ],
+    [
+      0.874140,
+      "\u001b[32mInstalling rack 1.6.0\u001b[0m\r\n"
+    ],
+    [
+      0.427440,
+      "\u001b[32mInstalling rack-test 0.6.3\u001b[0m\r\n"
+    ],
+    [
+      0.638116,
+      "\u001b[32mInstalling actionpack 4.2.1\u001b[0m\r\n"
+    ],
+    [
+      1.461419,
+      "\u001b[32mInstalling globalid 0.3.3\u001b[0m\r\n"
+    ],
+    [
+      0.419015,
+      "\u001b[32mInstalling activejob 4.2.1\u001b[0m\r\n"
+    ],
+    [
+      0.519312,
+      "\u001b[32mInstalling mime-types 1.25.1\u001b[0m"
+    ],
+    [
+      0.000281,
+      "\r\n"
+    ],
+    [
+      0.704739,
+      "\u001b[32mInstalling mail 2.6.3\u001b[0m\r\n"
+    ],
+    [
+      0.427185,
+      "\u001b[32mInstalling actionmailer 4.2.1\u001b[0m\r\n"
+    ],
+    [
+      0.468799,
+      "\u001b[32mInstalling activemodel 4.2.1\u001b[0m\r\n"
+    ],
+    [
+      0.597025,
+      "\u001b[32mInstalling active_model_serializers 0.9.3\u001b[0m\r\n"
+    ],
+    [
+      0.610960,
+      "\u001b[32mInstalling arel 6.0.0\u001b[0m\r\n"
+    ],
+    [
+      0.765551,
+      "\u001b[32mInstalling activerecord 4.2.1\u001b[0m\r\n"
+    ],
+    [
+      0.527350,
+      "\u001b[32mInstalling addressable 2.3.7\u001b[0m\r\n"
+    ],
+    [
+      0.410150,
+      "\u001b[32mInstalling ast 2.0.0\u001b[0m\r\n"
+    ],
+    [
+      0.755517,
+      "\u001b[32mInstalling parser 2.2.0.3\u001b[0m\r\n"
+    ],
+    [
+      0.453244,
+      "\u001b[32mInstalling astrolabe 1.3.0\u001b[0m\r\n"
+    ],
+    [
+      0.426335,
+      "\u001b[32mInstalling descendants_tracker 0.0.4\u001b[0m\r\n"
+    ],
+    [
+      0.491986,
+      "\u001b[32mInstalling ice_nine 0.11.1\u001b[0m\r\n"
+    ],
+    [
+      0.481411,
+      "\u001b[32mInstalling axiom-types 0.1.1\u001b[0m\r\n"
+    ],
+    [
+      0.610606,
+      "\u001b[32mInstalling babosa 1.0.2\u001b[0m\r\n"
+    ],
+    [
+      3.803727,
+      "\u001b[32mInstalling bcrypt 3.1.10\u001b[0m\r\n"
+    ],
+    [
+      0.428722,
+      "\u001b[32mInstalling beefcake 1.0.0\u001b[0m\r\n"
+    ],
+    [
+      1.462097,
+      "\u001b[32mInstalling bson 2.3.0\u001b[0m\r\n"
+    ],
+    [
+      3.188589,
+      "\u001b[32mInstalling bson_ext 1.5.1\u001b[0m\r\n"
+    ],
+    [
+      0.611061,
+      "\u001b[32mInstalling cancan 1.6.10\u001b[0m\r\n"
+    ],
+    [
+      0.410151,
+      "\u001b[32mInstalling colorize 0.7.5\u001b[0m\r\n"
+    ],
+    [
+      0.622808,
+      "\u001b[32mInstalling net-ssh 2.9.2\u001b[0m\r\n"
+    ],
+    [
+      0.410407,
+      "\u001b[32mInstalling net-scp 1.2.1\u001b[0m\r\n"
+    ],
+    [
+      0.545240,
+      "\u001b[32mInstalling sshkit 1.7.1\u001b[0m\r\n"
+    ],
+    [
+      1.197037,
+      "\u001b[32mInstalling capistrano 3.4.0\u001b[0m\r\n"
+    ],
+    [
+      0.385154,
+      "\u001b[32mInstalling capistrano-bundler 1.1.4\u001b[0m\r\n"
+    ],
+    [
+      1.893257,
+      "\u001b[32mInstalling shout-bot 0.0.7\u001b[0m\r\n"
+    ],
+    [
+      0.561811,
+      "\u001b[32mInstalling validatable 1.6.7\u001b[0m\r\n"
+    ],
+    [
+      0.385096,
+      "\u001b[32mInstalling capistrano-notification 0.1.1\u001b[0m\r\n"
+    ],
+    [
+      0.426875,
+      "\u001b[32mInstalling capistrano-rails 1.1.2\u001b[0m\r\n"
+    ],
+    [
+      0.476823,
+      "\u001b[32mInstalling capistrano-rbenv 2.0.3\u001b[0m\r\n"
+    ],
+    [
+      2.390141,
+      "\u001b[32mInstalling hitimes 1.2.2\u001b[0m\r\n"
+    ],
+    [
+      0.560352,
+      "\u001b[32mInstalling timers 4.0.1\u001b[0m\r\n"
+    ],
+    [
+      0.469497,
+      "\u001b[32mInstalling celluloid 0.16.0\u001b[0m\r\n"
+    ],
+    [
+      5.897577,
+      "\u001b[32mInstalling charlock_holmes 0.7.3\u001b[0m\r\n"
+    ],
+    [
+      18.927935,
+      "\u001b[32mInstalling ffi 1.9.8\u001b[0m\r\n"
+    ],
+    [
+      0.585966,
+      "\u001b[32mInstalling childprocess 0.5.5\u001b[0m\r\n"
+    ],
+    [
+      0.468913,
+      "\u001b[32mInstalling chronic 0.10.2\u001b[0m\r\n"
+    ],
+    [
+      1.071540,
+      "\u001b[32mInstalling cinch 2.2.4\u001b[0m\r\n"
+    ],
+    [
+      2.678236,
+      "\u001b[32mInstalling closure-compiler 1.1.11\u001b[0m\r\n"
+    ],
+    [
+      0.576789,
+      "\u001b[32mInstalling sexp_processor 4.5.0\u001b[0m\r\n"
+    ],
+    [
+      0.420881,
+      "\u001b[32mInstalling code_analyzer 0.4.5\u001b[0m\r\n"
+    ],
+    [
+      0.536554,
+      "\u001b[32mInstalling coderay 1.1.0\u001b[0m\r\n"
+    ],
+    [
+      0.506521,
+      "\u001b[32mInstalling coercible 1.0.0\u001b[0m\r\n"
+    ],
+    [
+      0.586606,
+      "\u001b[32mInstalling coffee-script-source 1.9.1\u001b[0m\r\n"
+    ],
+    [
+      0.401773,
+      "\u001b[32mInstalling execjs 2.4.0\u001b[0m\r\n"
+    ],
+    [
+      0.476768,
+      "\u001b[32mInstalling coffee-script 2.3.0\u001b[0m\r\n"
+    ],
+    [
+      0.000562,
+      "Using thor 0.19.1\r\n"
+    ],
+    [
+      0.632706,
+      "\u001b[32mInstalling railties 4.2.1\u001b[0m\r\n"
+    ],
+    [
+      0.402741,
+      "\u001b[32mInstalling coffee-rails 4.1.0\u001b[0m\r\n"
+    ],
+    [
+      0.361204,
+      "\u001b[32mInstalling colored 1.2\u001b[0m\r\n"
+    ],
+    [
+      0.376808,
+      "\u001b[32mInstalling connection_pool 2.1.3\u001b[0m\r\n"
+    ],
+    [
+      0.427961,
+      "\u001b[32mInstalling safe_yaml 1.0.4\u001b[0m\r\n"
+    ],
+    [
+      0.446053,
+      "\u001b[32mInstalling crack 0.4.2\u001b[0m\r\n"
+    ],
+    [
+      0.409157,
+      "\u001b[32mInstalling multi_json 1.11.0\u001b[0m\r\n"
+    ],
+    [
+      61.413163,
+      "\u001b[32mInstalling gherkin 2.12.2\u001b[0m\r\n"
+    ],
+    [
+      0.496552,
+      "\u001b[32mInstalling cucumber-core 1.1.3\u001b[0m\r\n"
+    ],
+    [
+      0.652559,
+      "\u001b[32mInstalling diff-lcs 1.2.5\u001b[0m\r\n"
+    ],
+    [
+      0.436898,
+      "\u001b[32mInstalling multi_test 0.1.2\u001b[0m\r\n"
+    ],
+    [
+      1.282820,
+      "\u001b[32mInstalling cucumber 2.0.0\u001b[0m\r\n"
+    ],
+    [
+      0.460971,
+      "\u001b[32mInstalling dalli 2.7.4\u001b[0m\r\n"
+    ],
+    [
+      0.565996,
+      "\u001b[32mInstalling database_cleaner 1.4.1\u001b[0m\r\n"
+    ],
+    [
+      0.568944,
+      "\u001b[32mInstalling orm_adapter 0.5.0\u001b[0m\r\n"
+    ],
+    [
+      0.571663,
+      "\u001b[32mInstalling responders 2.1.0\u001b[0m\r\n"
+    ],
+    [
+      0.451698,
+      "\u001b[32mInstalling warden 1.2.3\u001b[0m\r\n"
+    ],
+    [
+      0.720559,
+      "\u001b[32mInstalling devise 3.4.1\u001b[0m\r\n"
+    ],
+    [
+      0.410457,
+      "\u001b[32mInstalling differ 0.1.2\u001b[0m\r\n"
+    ],
+    [
+      0.376823,
+      "\u001b[32mInstalling disable_assets_logger 1.0.0\u001b[0m\r\n"
+    ],
+    [
+      0.411417,
+      "\u001b[32mInstalling docile 1.1.5\u001b[0m\r\n"
+    ],
+    [
+      3.796660,
+      "\u001b[32mInstalling unf_ext 0.0.6\u001b[0m\r\n"
+    ],
+    [
+      0.959865,
+      "\u001b[32mInstalling unf 0.1.4\u001b[0m\r\n"
+    ],
+    [
+      0.461514,
+      "\u001b[32mInstalling domain_name 0.5.23\u001b[0m\r\n"
+    ],
+    [
+      0.704328,
+      "\u001b[32mInstalling doorkeeper 1.4.2\u001b[0m\r\n"
+    ],
+    [
+      1.525598,
+      "\u001b[32mInstalling dragonfly 0.9.15\u001b[0m\r\n"
+    ],
+    [
+      0.410101,
+      "\u001b[32mInstalling easy_diff 0.0.4\u001b[0m\r\n"
+    ],
+    [
+      0.689524,
+      "\u001b[32mInstalling elasticsearch-api 1.0.7\u001b[0m\r\n"
+    ],
+    [
+      0.418956,
+      "\u001b[32mInstalling multipart-post 2.0.0\u001b[0m\r\n"
+    ],
+    [
+      0.511271,
+      "\u001b[32mInstalling faraday 0.9.1\u001b[0m\r\n"
+    ],
+    [
+      0.470669,
+      "\u001b[32mInstalling elasticsearch-transport 1.0.7\u001b[0m\r\n"
+    ],
+    [
+      0.410295,
+      "\u001b[32mInstalling elasticsearch 1.0.8\u001b[0m\r\n"
+    ],
+    [
+      0.486386,
+      "\u001b[32mInstalling hashie 3.4.0\u001b[0m\r\n"
+    ],
+    [
+      0.529151,
+      "\u001b[32mInstalling elasticsearch-model 0.1.6\u001b[0m\r\n"
+    ],
+    [
+      1.919640,
+      "\u001b[32mInstalling elasticsearch-rails 0.1.6\u001b[0m\r\n"
+    ],
+    [
+      0.402489,
+      "\u001b[32mInstalling equalizer 0.0.11\u001b[0m\r\n"
+    ],
+    [
+      0.815339,
+      "\u001b[32mInstalling exception_notification 4.0.1\u001b[0m\r\n"
+    ],
+    [
+      0.546005,
+      "\u001b[32mInstalling factory_girl 4.5.0\u001b[0m\r\n"
+    ],
+    [
+      0.396013,
+      "\u001b[32mInstalling factory_girl_rails 4.5.0\u001b[0m\r\n"
+    ],
+    [
+      0.569061,
+      "\u001b[32mInstalling faker 1.4.3\u001b[0m\r\n"
+    ],
+    [
+      0.471868,
+      "\u001b[32mInstalling flipper 0.6.3\u001b[0m\r\n"
+    ],
+    [
+      0.511720,
+      "\u001b[32mInstalling redis 3.2.1\u001b[0m\r\n"
+    ],
+    [
+      0.410927,
+      "\u001b[32mInstalling flipper-redis 0.6.2\u001b[0m\r\n"
+    ],
+    [
+      0.039779,
+      "Using flipper-ui 0.1.0 from git://github.com/jnunemaker/flipper-ui.git (at master)\r\n"
+    ],
+    [
+      0.836278,
+      "\u001b[32mInstalling sass 3.4.13\u001b[0m\r\n"
+    ],
+    [
+      0.995291,
+      "\u001b[32mInstalling font-awesome-sass 4.3.2.1\u001b[0m\r\n"
+    ],
+    [
+      0.000437,
+      "Using foreman 0.78.0\r\n"
+    ],
+    [
+      0.393339,
+      "\u001b[32mInstalling formatador 0.2.5\u001b[0m\r\n"
+    ],
+    [
+      1.378801,
+      "\u001b[32mInstalling posix-spawn 0.3.10\u001b[0m\r\n"
+    ],
+    [
+      0.461806,
+      "\u001b[32mInstalling gitlab-grit 2.7.3\u001b[0m\r\n"
+    ],
+    [
+      3.173790,
+      "\u001b[32mInstalling god 0.13.6\u001b[0m\r\n"
+    ],
+    [
+      0.411644,
+      "\u001b[32mInstalling multi_xml 0.5.5\u001b[0m\r\n"
+    ],
+    [
+      0.551920,
+      "\u001b[32mInstalling rack-accept 0.4.5\u001b[0m\r\n"
+    ],
+    [
+      0.477429,
+      "\u001b[32mInstalling rack-mount 0.8.3\u001b[0m\r\n"
+    ],
+    [
+      0.697421,
+      "\u001b[32mInstalling virtus 1.0.5\u001b[0m\r\n"
+    ],
+    [
+      1.264413,
+      "\u001b[32mInstalling grape 0.11.0\u001b[0m\r\n"
+    ],
+    [
+      0.393201,
+      "\u001b[32mInstalling grape-doorkeeper 0.0.2\u001b[0m\r\n"
+    ],
+    [
+      0.569986,
+      "\u001b[32mInstalling grape-entity 0.4.5\u001b[0m\r\n"
+    ],
+    [
+      0.569022,
+      "\u001b[32mInstalling grape-swagger 0.10.1\u001b[0m\r\n"
+    ],
+    [
+      0.519423,
+      "\u001b[32mInstalling rb-fsevent 0.9.4\u001b[0m\r\n"
+    ],
+    [
+      0.553005,
+      "\u001b[32mInstalling rb-inotify 0.9.5\u001b[0m\r\n"
+    ],
+    [
+      0.560936,
+      "\u001b[32mInstalling listen 2.10.0\u001b[0m\r\n"
+    ],
+    [
+      0.577582,
+      "\u001b[32mInstalling lumberjack 1.0.9\u001b[0m\r\n"
+    ],
+    [
+      0.385399,
+      "\u001b[32mInstalling nenv 0.2.0\u001b[0m\r\n"
+    ],
+    [
+      0.398368,
+      "\u001b[32mInstalling shellany 0.0.1\u001b[0m\r\n"
+    ],
+    [
+      0.527176,
+      "\u001b[32mInstalling notiffany 0.0.6\u001b[0m\r\n"
+    ],
+    [
+      0.403054,
+      "\u001b[32mInstalling method_source 0.8.2\u001b[0m\r\n"
+    ],
+    [
+      0.418624,
+      "\u001b[32mInstalling slop 3.6.0\u001b[0m\r\n"
+    ],
+    [
+      0.595167,
+      "\u001b[32mInstalling pry 0.10.1\u001b[0m\r\n"
+    ],
+    [
+      0.912956,
+      "\u001b[32mInstalling guard 2.12.5\u001b[0m\r\n"
+    ],
+    [
+      0.000500,
+      "Using bundler 1.9.1\r\n"
+    ],
+    [
+      0.393354,
+      "\u001b[32mInstalling guard-compat 1.2.1\u001b[0m\r\n"
+    ],
+    [
+      0.385364,
+      "\u001b[32mInstalling guard-bundler 2.1.0\u001b[0m\r\n"
+    ],
+    [
+      0.401909,
+      "\u001b[32mInstalling guard-cucumber 1.5.4\u001b[0m\r\n"
+    ],
+    [
+      0.561608,
+      "\u001b[32mInstalling rspec-support 3.2.2\u001b[0m\r\n"
+    ],
+    [
+      0.989523,
+      "\u001b[32mInstalling rspec-core 3.2.2\u001b[0m\r\n"
+    ],
+    [
+      0.678387,
+      "\u001b[32mInstalling rspec-expectations 3.2.0\u001b[0m\r\n"
+    ],
+    [
+      0.502340,
+      "\u001b[32mInstalling rspec-mocks 3.2.1\u001b[0m\r\n"
+    ],
+    [
+      0.484985,
+      "\u001b[32mInstalling rspec 3.2.0\u001b[0m\r\n"
+    ],
+    [
+      0.436124,
+      "\u001b[32mInstalling guard-rspec 4.5.0\u001b[0m\r\n"
+    ],
+    [
+      0.605205,
+      "\u001b[32mInstalling spork 0.9.2\u001b[0m\r\n"
+    ],
+    [
+      0.410020,
+      "\u001b[32mInstalling guard-spork 2.1.0\u001b[0m\r\n"
+    ],
+    [
+      1.227713,
+      "\u001b[32mInstalling yard 0.8.7.6\u001b[0m\r\n"
+    ],
+    [
+      0.418282,
+      "\u001b[32mInstalling guard-yard 2.1.4\u001b[0m\r\n"
+    ],
+    [
+      0.685830,
+      "\u001b[32mInstalling tilt 1.4.1\u001b[0m\r\n"
+    ],
+    [
+      0.771147,
+      "\u001b[32mInstalling haml 4.0.6\u001b[0m\r\n"
+    ],
+    [
+      0.461251,
+      "\u001b[32mInstalling haml_rails 0.1.0\u001b[0m\r\n"
+    ],
+    [
+      0.476776,
+      "\u001b[32mInstalling hike 1.2.3\u001b[0m\r\n"
+    ],
+    [
+      6.521657,
+      "\u001b[32mInstalling hiredis 0.6.0\u001b[0m\r\n"
+    ],
+    [
+      0.427097,
+      "\u001b[32mInstalling http-cookie 1.0.2\u001b[0m\r\n"
+    ],
+    [
+      0.982813,
+      "\u001b[32mInstalling jquery-rails 4.0.3\u001b[0m\r\n"
+    ],
+    [
+      0.713793,
+      "\u001b[32mInstalling kaminari 0.16.3\u001b[0m\r\n"
+    ],
+    [
+      23.896351,
+      "\u001b[32mInstalling kgio 2.9.3\u001b[0m\r\n"
+    ],
+    [
+      0.361406,
+      "\u001b[32mInstalling metaclass 0.0.4\u001b[0m\r\n"
+    ],
+    [
+      0.560370,
+      "\u001b[32mInstalling mini_magick 4.2.0\u001b[0m\r\n"
+    ],
+    [
+      0.663059,
+      "\u001b[32mInstalling mocha 1.1.0\u001b[0m\r\n"
+    ],
+    [
+      0.394876,
+      "\u001b[32mInstalling optionable 0.2.0\u001b[0m\r\n"
+    ],
+    [
+      0.669535,
+      "\u001b[32mInstalling moped 2.0.4\u001b[0m\r\n"
+    ],
+    [
+      0.020218,
+      "Using origin 2.1.0 from git://github.com/JamesHarrison/origin.git (at master)\r\n"
+    ],
+    [
+      1.238544,
+      "\u001b[32mInstalling mongoid 4.0.2\u001b[0m\r\n"
+    ],
+    [
+      0.013914,
+      "Using mongoid-history 0.4.6 from git://github.com/aq1018/mongoid-history.git (at master)\r\n"
+    ],
+    [
+      0.989314,
+      "\u001b[32mInstalling mongoid-rspec 2.2.0\u001b[0m\r\n"
+    ],
+    [
+      0.385103,
+      "\u001b[32mInstalling mono_logger 1.1.0\u001b[0m\r\n"
+    ],
+    [
+      0.528005,
+      "\u001b[32mInstalling mtrc 0.0.4\u001b[0m\r\n"
+    ],
+    [
+      0.476872,
+      "\u001b[32mInstalling netrc 0.10.3\u001b[0m\r\n"
+    ],
+    [
+      2.069079,
+      "\u001b[32mInstalling newrelic_rpm 3.11.1.284\u001b[0m\r\n"
+    ],
+    [
+      0.394437,
+      "\u001b[32mInstalling newrelic-httpclient 0.1.0\u001b[0m\r\n"
+    ],
+    [
+      0.410250,
+      "\u001b[32mInstalling newrelic-middleware 1.1.0\u001b[0m\r\n"
+    ],
+    [
+      0.536930,
+      "\u001b[32mInstalling newrelic-redis 2.0.0\u001b[0m\r\n"
+    ],
+    [
+      0.377952,
+      "\u001b[32mInstalling newrelic_moped 1.0.0\u001b[0m\r\n"
+    ],
+    [
+      15.624228,
+      "\u001b[32mInstalling oj 2.12.1\u001b[0m\r\n"
+    ],
+    [
+      1.089875,
+      "\r\n\u001b[33mGem::Ext::BuildError: ERROR: Failed to build gem native extension.\r\n\r\n    /home/derpibooru/.rbenv/versions/2.2.1/bin/ruby -r ./siteconf20150327-31579-1y47218.rb extconf.rb \r\nchecking for curl-config... no\r\nchecking for main() in -lcurl... no\r\n*** extconf.rb failed ***\r\nCould not create Makefile due to some reason, probably lack of necessary\r\nlibraries and/or headers.  Check the mkmf.log file for more details.  You may\r\nneed configuration options.\r\n\r\nProvided configuration options:\r\n\t--with-opt-dir\r\n\t--without-opt-dir\r\n\t--with-opt-include\r\n\t--without-opt-include=${opt-dir}/include\r\n\t--with-opt-lib\r\n\t--without-opt-lib=${opt-dir}/lib\r\n\t--with-make-prog\r\n\t--without-make-prog\r\n\t--srcdir=.\r\n\t--curdir\r\n\t--ruby=/home/derpibooru/.rbenv/versions/2.2.1/bin/$(RUBY_BASE_NAME)\r\n\t--with-curl-dir\r\n\t--without-curl-dir\r\n\t--with-curl-include\r\n\t--without-curl-include=${curl-dir}/include\r\n\t--with-curl-lib\r\n\t--without-curl-lib=${curl-dir}/lib\r\n\t--with-curllib\r\n\t--without-curllib\r\nextconf.rb:34:in `\u003cmain\u003e':   Can't find libcurl or curl/curl.h (RuntimeError)\r\n\r\n  Try passing --with-curl-dir or --with-curl-lib and --with-curl-include\r\n  options to extconf.\r\n\r\nextconf failed, exit code 1\r\n\r\nGem files will remain installed in /home/derpibooru/.rbenv/versions/2.2.1/lib/ruby/gems/2.2.0/gems/patron-0.4.20 for inspection.\r\nResults logged to /home/derpibooru/.rbenv/versions/2.2.1/lib/ruby/gems/2.2.0/extensions/x86-linux/2.2.0-static/patron-0.4.20/gem_make.out\r\n\u001b[0m"
+    ],
+    [
+      0.009714,
+      "\u001b[31mAn error occurred while installing patron (0.4.20), and Bundler cannot continue.\r\nMake sure that `gem install patron -v '0.4.20'` succeeds before bundling.\u001b[0m\r\n"
+    ],
+    [
+      0.074487,
+      "\u001b]0;derpibooru@luna: ~/derpibooru\u0007derpibooru@luna:~/derpibooru$ "
+    ],
+    [
+      54.389561,
+      "exit\r\n"
+    ]
+  ]
+}
