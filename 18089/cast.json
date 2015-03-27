@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "width": 231,
+  "height": 55,
+  "duration": 7.320672,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.039601,
+      "\u001b]0;saafdev@saafdev-VirtualBox: ~\u0007saafdev@saafdev-VirtualBox:~$ "
+    ],
+    [
+      2.872025,
+      "l"
+    ],
+    [
+      0.113172,
+      "s"
+    ],
+    [
+      0.158463,
+      "\r\n"
+    ],
+    [
+      0.001229,
+      "\u001b[0m\u001b[01;34mDesktop\u001b[0m  \u001b[01;34mDocuments\u001b[0m  \u001b[01;34mDownloads\u001b[0m  examples.desktop  \u001b[01;34mMusic\u001b[0m  \u001b[01;34mPictures\u001b[0m  \u001b[01;34mPublic\u001b[0m  recording.txt  \u001b[01;34mTemplates\u001b[0m  timing.txt  \u001b[01;34mVideos\u001b[0m\r\n\u001b]0;saafdev@saafdev-VirtualBox: ~\u0007saafdev@saafdev-VirtualBox:~$ "
+    ],
+    [
+      0.767881,
+      "p"
+    ],
+    [
+      0.137042,
+      "w"
+    ],
+    [
+      0.198579,
+      "d"
+    ],
+    [
+      0.417206,
+      "\r\n/home/saafdev\r\n\u001b]0;saafdev@saafdev-VirtualBox: ~\u0007saafdev@saafdev-VirtualBox:~$ "
+    ],
+    [
+      1.997496,
+      "e"
+    ],
+    [
+      0.210347,
+      "x"
+    ],
+    [
+      0.103051,
+      "i"
+    ],
+    [
+      0.161133,
+      "t"
+    ],
+    [
+      0.143268,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
