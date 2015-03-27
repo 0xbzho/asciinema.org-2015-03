@@ -1,0 +1,2862 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 22.486112,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.062069,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.025715,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31mjanos\u001b[37m@\u001b[31msulik\u001b[37m:\u001b[37m~\u001b[31m ☢ \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      4.381306,
+      "f"
+    ],
+    [
+      0.103718,
+      "\u0008fr"
+    ],
+    [
+      0.200092,
+      "e"
+    ],
+    [
+      0.136211,
+      "e"
+    ],
+    [
+      0.135795,
+      " "
+    ],
+    [
+      0.128141,
+      "-"
+    ],
+    [
+      0.279983,
+      "m"
+    ],
+    [
+      0.258266,
+      "\u001b[?1l\u001b\u003e\r\r\n"
+    ],
+    [
+      0.002832,
+      "             total       used       free     shared    buffers     cached\r\n"
+    ],
+    [
+      0.000141,
+      "Mem:          7987       7117        869        286        436       2563\r\n-/+ buffers/cache:       4117       3869\r\nSwap:            0          0          0\r\n"
+    ],
+    [
+      0.001016,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.016294,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31mjanos\u001b[37m@\u001b[31msulik\u001b[37m:\u001b[37m~\u001b[31m ☢ \u001b[00m"
+    ],
+    [
+      0.000013,
+      "\u001b[K"
+    ],
+    [
+      0.000087,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.993526,
+      "c"
+    ],
+    [
+      0.135658,
+      "\u0008ca"
+    ],
+    [
+      0.696182,
+      "t"
+    ],
+    [
+      0.175868,
+      " "
+    ],
+    [
+      0.696091,
+      "/"
+    ],
+    [
+      0.576009,
+      "p"
+    ],
+    [
+      0.143853,
+      "r"
+    ],
+    [
+      0.119999,
+      "o"
+    ],
+    [
+      0.096068,
+      "c"
+    ],
+    [
+      0.264762,
+      "\u001b[1m/\u001b[0m"
+    ],
+    [
+      1.183002,
+      "\u0008\u001b[0m/c"
+    ],
+    [
+      0.096271,
+      "p"
+    ],
+    [
+      0.215994,
+      "u"
+    ],
+    [
+      0.089812,
+      "info\u001b[1m \u001b[0m"
+    ],
+    [
+      0.622584,
+      "\u0008\u001b[0m \u0008\u001b[?1l\u001b\u003e\r\r\n"
+    ],
+    [
+      0.001355,
+      "processor\t"
+    ],
+    [
+      0.000010,
+      ": 0\r\nvendor_id\t"
+    ],
+    [
+      0.000016,
+      ": AuthenticAMD\r\ncpu family\t"
+    ],
+    [
+      0.000007,
+      ": 21\r\n"
+    ],
+    [
+      0.000007,
+      "model"
+    ],
+    [
+      0.000007,
+      "\t\t"
+    ],
+    [
+      0.000007,
+      ": 1"
+    ],
+    [
+      0.000007,
+      "\r\nmodel name"
+    ],
+    [
+      0.000008,
+      "\t: AMD FX(tm)-8120 Eight-Core Processor"
+    ],
+    [
+      0.000008,
+      "\r\nstepping"
+    ],
+    [
+      0.000007,
+      "\t"
+    ],
+    [
+      0.000007,
+      ": 2\r\n"
+    ],
+    [
+      0.000006,
+      "microcode"
+    ],
+    [
+      0.000007,
+      "\t: 0x6000626"
+    ],
+    [
+      0.000008,
+      "\r\ncpu MHz"
+    ],
+    [
+      0.000007,
+      "\t"
+    ],
+    [
+      0.000007,
+      "\t: 1400.000"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "cache size\t"
+    ],
+    [
+      0.000007,
+      ": 2048 KB\r\n"
+    ],
+    [
+      0.000007,
+      "physical id"
+    ],
+    [
+      0.000007,
+      "\t: 0"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "siblings\t"
+    ],
+    [
+      0.000007,
+      ": 8"
+    ],
+    [
+      0.000007,
+      "\r\ncore id"
+    ],
+    [
+      0.000007,
+      "\t"
+    ],
+    [
+      0.000007,
+      "\t: 0"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "cpu cores\t"
+    ],
+    [
+      0.000007,
+      ": 4\r\n"
+    ],
+    [
+      0.000006,
+      "apicid"
+    ],
+    [
+      0.000007,
+      "\t\t"
+    ],
+    [
+      0.000006,
+      ": 0"
+    ],
+    [
+      0.000014,
+      "\r\ninitial apicid\t"
+    ],
+    [
+      0.000007,
+      ": 0\r\n"
+    ],
+    [
+      0.000007,
+      "fpu\t"
+    ],
+    [
+      0.000007,
+      "\t"
+    ],
+    [
+      0.000007,
+      ": yes\r\n"
+    ],
+    [
+      0.000007,
+      "fpu_exception"
+    ],
+    [
+      0.000007,
+      "\t: yes"
+    ],
+    [
+      0.000007,
+      "\r\ncpuid level"
+    ],
+    [
+      0.000006,
+      "\t"
+    ],
+    [
+      0.000007,
+      ": 13\r\n"
+    ],
+    [
+      0.000006,
+      "wp"
+    ],
+    [
+      0.000007,
+      "\t\t"
+    ],
+    [
+      0.000007,
+      ": yes"
+    ],
+    [
+      0.000007,
+      "\r\nflags"
+    ],
+    [
+      0.000007,
+      "\t\t"
+    ],
+    [
+      0.000035,
+      ": fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc extd_apicid aperfmperf pni pclmulqdq monitor ssse3 cx16 sse4_1 sse4_2 popcnt aes xsave avx lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs xop skinit wdt lwp fma4 nodeid_msr topoext perfctr_core perfctr_nb arat cpb hw_pstate npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold\r\n"
+    ],
+    [
+      0.000009,
+      "bogomips\t: 6200.63\r\nTLB size\t"
+    ],
+    [
+      0.000004,
+      ": 1536 4K pages"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "clflush size"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000003,
+      ": 64"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "cache_alignment"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000024,
+      ": 64\r\n"
+    ],
+    [
+      0.000009,
+      "address sizes\t: 48 bits physical, 48 bits virtual\r\npower management: ts ttp tm 100mhzsteps hwpstate cpb"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "processor"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": 1\r\n"
+    ],
+    [
+      0.000004,
+      "vendor_id"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000003,
+      ": AuthenticAMD"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "cpu family"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000016,
+      ": 21\r\n"
+    ],
+    [
+      0.000004,
+      "model\t"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000004,
+      ": 1"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "model name"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000003,
+      ": AMD FX(tm)-8120 Eight-Core Processor           "
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "stepping"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000003,
+      ": 2"
+    ],
+    [
+      0.000018,
+      "\r\nmicrocode"
+    ],
+    [
+      0.000006,
+      "\t: 0x6000626\r\n"
+    ],
+    [
+      0.000004,
+      "cpu MHz"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000004,
+      ": 1400.000"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "cache size"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000003,
+      ": 2048 KB"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "physical id"
+    ],
+    [
+      0.000015,
+      "\t: 0"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "siblings\t: 8\r\ncore id"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000003,
+      ": 3"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "cpu cores"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000004,
+      ": 4"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "apicid"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000003,
+      ": 1"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "initial apicid\t"
+    ],
+    [
+      0.000005,
+      ": 3\r\nfpu"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": yes"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "fpu_exception\t"
+    ],
+    [
+      0.000004,
+      ": yes\r\n"
+    ],
+    [
+      0.000004,
+      "cpuid level"
+    ],
+    [
+      0.000015,
+      "\t: 13"
+    ],
+    [
+      0.000004,
+      "\r\nwp"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000004,
+      ": yes"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "flags"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000020,
+      ": fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc extd_apicid aperfmperf pni pclmulqdq monitor ssse3 cx16 sse4_1 sse4_2 popcnt aes xsave avx lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs xop skinit wdt lwp fma4 nodeid_msr topoext perfctr_core perfctr_nb arat cpb hw_pstate npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold"
+    ],
+    [
+      0.000005,
+      "\r\nbogomips\t: 6200.63"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "TLB size"
+    ],
+    [
+      0.000014,
+      "\t"
+    ],
+    [
+      0.000006,
+      ": 1536 4K pages\r\n"
+    ],
+    [
+      0.000005,
+      "clflush size\t"
+    ],
+    [
+      0.000004,
+      ": 64"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "cache_alignment\t"
+    ],
+    [
+      0.000004,
+      ": 64"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "address sizes"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000003,
+      ": 48 bits physical, 48 bits virtual"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "power management: ts ttp tm 100mhzsteps hwpstate cpb"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "processor"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000016,
+      ": 2\r\n"
+    ],
+    [
+      0.000004,
+      "vendor_id\t"
+    ],
+    [
+      0.000004,
+      ": AuthenticAMD"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "cpu family"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": 21"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "model"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000003,
+      ": 1"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "model name"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000016,
+      ": AMD FX(tm)-8120 Eight-Core Processor           \r\n"
+    ],
+    [
+      0.000004,
+      "stepping\t"
+    ],
+    [
+      0.000003,
+      ": 2"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "microcode"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000015,
+      ": 0x6000626\r\n"
+    ],
+    [
+      0.000004,
+      "cpu MHz\t"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000004,
+      ": 1400.000"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "cache size"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000004,
+      ": 2048 KB"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "physical id"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000003,
+      ": 0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "siblings"
+    ],
+    [
+      0.000015,
+      "\t: 8"
+    ],
+    [
+      0.000004,
+      "\r\ncore id"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000021,
+      "\t: 5\r\n"
+    ],
+    [
+      0.000004,
+      "cpu cores\t"
+    ],
+    [
+      0.000003,
+      ": 4"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "apicid"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000018,
+      ": 2\r\n"
+    ],
+    [
+      0.000005,
+      "initial apicid\t: 5"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "fpu"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000004,
+      ": yes"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "fpu_exception"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000004,
+      ": yes"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "cpuid level\t"
+    ],
+    [
+      0.000004,
+      ": 13"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "wp"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000003,
+      ": yes"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "flags\t"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000008,
+      ": fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc extd_apicid aperfmperf pni pclmulqdq monitor ssse3 cx16 sse4_1 sse4_2 popcnt aes xsave avx lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs xop skinit wdt lwp fma4 nodeid_msr topoext perfctr_core perfctr_nb arat cpb hw_pstate npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold"
+    ],
+    [
+      0.000006,
+      "\r\nbogomips"
+    ],
+    [
+      0.000005,
+      "\t: 6200.63"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "TLB size"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000004,
+      ": 1536 4K pages"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "clflush size\t: 64\r\ncache_alignment\t"
+    ],
+    [
+      0.000003,
+      ": 64"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "address sizes"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000004,
+      ": 48 bits physical, 48 bits virtual"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "power management: ts ttp tm 100mhzsteps hwpstate cpb\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000104,
+      "processor"
+    ],
+    [
+      0.000004,
+      "\t: 3"
+    ],
+    [
+      0.000015,
+      "\r\nvendor_id"
+    ],
+    [
+      0.000005,
+      "\t: AuthenticAMD"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "cpu family\t"
+    ],
+    [
+      0.000003,
+      ": 21"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "model"
+    ],
+    [
+      0.000004,
+      "\t\t"
+    ],
+    [
+      0.000003,
+      ": 1"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "model name"
+    ],
+    [
+      0.000013,
+      "\t"
+    ],
+    [
+      0.000007,
+      ": AMD FX(tm)-8120 Eight-Core Processor           \r\n"
+    ],
+    [
+      0.000004,
+      "stepping\t"
+    ],
+    [
+      0.000003,
+      ": 2"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "microcode"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000012,
+      ": 0x6000626"
+    ],
+    [
+      0.000004,
+      "\r\ncpu MHz"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000036,
+      ": 1400.000"
+    ],
+    [
+      0.000007,
+      "\r\ncache size\t: 2048 KB\r\nphysical id\t: 0\r\nsiblings"
+    ],
+    [
+      0.000004,
+      "\t: 8"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "core id"
+    ],
+    [
+      0.000013,
+      "\t"
+    ],
+    [
+      0.000003,
+      "\t: 4"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "cpu cores"
+    ],
+    [
+      0.000013,
+      "\t"
+    ],
+    [
+      0.000004,
+      ": 4\r\n"
+    ],
+    [
+      0.000003,
+      "apicid"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000015,
+      ": 3"
+    ],
+    [
+      0.000005,
+      "\r\ninitial apicid"
+    ],
+    [
+      0.000010,
+      "\t"
+    ],
+    [
+      0.000019,
+      ": 4"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "fpu\t\t"
+    ],
+    [
+      0.000004,
+      ": yes"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "fpu_exception"
+    ],
+    [
+      0.000006,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": yes\r\n"
+    ],
+    [
+      0.000004,
+      "cpuid level"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": 13"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "wp\t"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000004,
+      ": yes"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "flags"
+    ],
+    [
+      0.000005,
+      "\t\t"
+    ],
+    [
+      0.000017,
+      ": fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc extd_apicid aperfmperf pni pclmulqdq monitor ssse3 cx16 sse4_1 sse4_2 popcnt aes xsave avx lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs xop skinit wdt lwp fma4 nodeid_msr topoext perfctr_core perfctr_nb arat cpb hw_pstate npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold"
+    ],
+    [
+      0.000008,
+      "\r\nbogomips\t: 6200.63"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "TLB size\t"
+    ],
+    [
+      0.000005,
+      ": 1536 4K pages"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "clflush size\t"
+    ],
+    [
+      0.000004,
+      ": 64"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "cache_alignment"
+    ],
+    [
+      0.000006,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": 64\r\n"
+    ],
+    [
+      0.000004,
+      "address sizes"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": 48 bits physical, 48 bits virtual"
+    ],
+    [
+      0.000006,
+      "\r\npower management: ts ttp tm 100mhzsteps hwpstate cpb"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "processor\t"
+    ],
+    [
+      0.000004,
+      ": 4"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "vendor_id\t"
+    ],
+    [
+      0.000005,
+      ": AuthenticAMD"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "cpu family"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000006,
+      ": 21"
+    ],
+    [
+      0.000006,
+      "\r\nmodel"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000006,
+      ": 1\r\n"
+    ],
+    [
+      0.000005,
+      "model name"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": AMD FX(tm)-8120 Eight-Core Processor           "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "stepping\t"
+    ],
+    [
+      0.000004,
+      ": 2"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "microcode"
+    ],
+    [
+      0.000005,
+      "\t: 0x6000626"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "cpu MHz"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": 3100.000\r\n"
+    ],
+    [
+      0.000005,
+      "cache size"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": 2048 KB"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "physical id\t"
+    ],
+    [
+      0.000004,
+      ": 0"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "siblings"
+    ],
+    [
+      0.000005,
+      "\t: 8"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "core id"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000005,
+      "\t: 7"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "cpu cores"
+    ],
+    [
+      0.000008,
+      "\t: 4"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "apicid\t"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": 4"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "initial apicid\t"
+    ],
+    [
+      0.000004,
+      ": 7"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "fpu"
+    ],
+    [
+      0.000005,
+      "\t\t"
+    ],
+    [
+      0.000004,
+      ": yes"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "fpu_exception"
+    ],
+    [
+      0.000005,
+      "\t: yes"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "cpuid level"
+    ],
+    [
+      0.000006,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": 13\r\n"
+    ],
+    [
+      0.000004,
+      "wp"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": yes\r\n"
+    ],
+    [
+      0.000004,
+      "flags"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000019,
+      ": fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc extd_apicid aperfmperf pni pclmulqdq monitor ssse3 cx16 sse4_1 sse4_2 popcnt aes xsave avx lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs xop skinit wdt lwp fma4 nodeid_msr topoext perfctr_core perfctr_nb arat cpb hw_pstate npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold"
+    ],
+    [
+      0.000005,
+      "\r\nbogomips\t: 6200.63"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "TLB size"
+    ],
+    [
+      0.000016,
+      "\t: 1536 4K pages"
+    ],
+    [
+      0.000005,
+      "\r\nclflush"
+    ],
+    [
+      0.000007,
+      " size"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": 64"
+    ],
+    [
+      0.000005,
+      "\r\ncache_alignment"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000004,
+      ": 64"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "address sizes"
+    ],
+    [
+      0.000009,
+      "\t: 48 bits physical, 48 bits virtual\r\n"
+    ],
+    [
+      0.000005,
+      "power management: ts ttp tm 100mhzsteps hwpstate cpb"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\r\nprocessor"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": 5"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "vendor_id\t"
+    ],
+    [
+      0.000004,
+      ": AuthenticAMD"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "cpu family"
+    ],
+    [
+      0.000005,
+      "\t: 21"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "model"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000005,
+      "\t: 1"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "model name"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000006,
+      ": AMD FX(tm)-8120 Eight-Core Processor           \r\n"
+    ],
+    [
+      0.000005,
+      "stepping"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": 2"
+    ],
+    [
+      0.000005,
+      "\r\nmicrocode"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": 0x6000626"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "cpu MHz\t"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": 3100.000"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "cache size\t"
+    ],
+    [
+      0.000004,
+      ": 2048 KB"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "physical id"
+    ],
+    [
+      0.000005,
+      "\t: 0"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "siblings"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": 8\r\n"
+    ],
+    [
+      0.000004,
+      "core id"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000006,
+      ": 2"
+    ],
+    [
+      0.000005,
+      "\r\ncpu cores"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000004,
+      ": 4"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "apicid"
+    ],
+    [
+      0.000005,
+      "\t\t"
+    ],
+    [
+      0.000004,
+      ": 5"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "initial apicid"
+    ],
+    [
+      0.000005,
+      "\t: 2"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "fpu"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000006,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": yes\r\n"
+    ],
+    [
+      0.000004,
+      "fpu_exception"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": yes"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "cpuid level\t"
+    ],
+    [
+      0.000004,
+      ": 13"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "wp"
+    ],
+    [
+      0.000005,
+      "\t\t"
+    ],
+    [
+      0.000004,
+      ": yes"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "flags"
+    ],
+    [
+      0.000006,
+      "\t\t"
+    ],
+    [
+      0.000018,
+      ": fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc extd_apicid aperfmperf pni pclmulqdq monitor ssse3 cx16 sse4_1 sse4_2 popcnt aes xsave avx lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs xop skinit wdt lwp fma4 nodeid_msr topoext perfctr_core perfctr_nb arat cpb hw_pstate npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold"
+    ],
+    [
+      0.000006,
+      "\r\nbogomips\t"
+    ],
+    [
+      0.000005,
+      ": 6200.63\r\n"
+    ],
+    [
+      0.000004,
+      "TLB size"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": 1536 4K pages\r\n"
+    ],
+    [
+      0.000005,
+      "clflush size"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": 64\r\n"
+    ],
+    [
+      0.000005,
+      "cache_alignment"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000004,
+      ": 64"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "address sizes\t"
+    ],
+    [
+      0.000005,
+      ": 48 bits physical, 48 bits virtual"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "power management: ts ttp tm 100mhzsteps hwpstate cpb\r\n\r\n"
+    ],
+    [
+      0.000048,
+      "processor\t"
+    ],
+    [
+      0.000005,
+      ": 6\r\n"
+    ],
+    [
+      0.000005,
+      "vendor_id"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": AuthenticAMD\r\n"
+    ],
+    [
+      0.000005,
+      "cpu family"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": 21"
+    ],
+    [
+      0.000005,
+      "\r\nmodel"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000006,
+      ": 1"
+    ],
+    [
+      0.000005,
+      "\r\nmodel name"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": AMD FX(tm)-8120 Eight-Core Processor           "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "stepping\t"
+    ],
+    [
+      0.000004,
+      ": 2"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "microcode"
+    ],
+    [
+      0.000006,
+      "\t: 0x6000626"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "cpu MHz"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": 1400.000\r\n"
+    ],
+    [
+      0.000004,
+      "cache size"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": 2048 KB"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "physical id\t"
+    ],
+    [
+      0.000006,
+      ": 0"
+    ],
+    [
+      0.000007,
+      "\r\nsiblings"
+    ],
+    [
+      0.000011,
+      "\t: 8\r\n"
+    ],
+    [
+      0.000006,
+      "core id"
+    ],
+    [
+      0.000005,
+      "\t\t"
+    ],
+    [
+      0.000004,
+      ": 6"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "cpu cores"
+    ],
+    [
+      0.000005,
+      "\t: 4"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "apicid"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": 6\r\n"
+    ],
+    [
+      0.000006,
+      "initial apicid"
+    ],
+    [
+      0.000006,
+      "\t: 6"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "fpu\t"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000004,
+      ": yes"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "fpu_exception\t"
+    ],
+    [
+      0.000004,
+      ": yes"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "cpuid level"
+    ],
+    [
+      0.000005,
+      "\t: 13"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "wp"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000007,
+      "\t: yes"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "flags\t"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000019,
+      ": fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc extd_apicid aperfmperf pni pclmulqdq monitor ssse3 cx16 sse4_1 sse4_2 popcnt aes xsave avx lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs xop skinit wdt lwp fma4 nodeid_msr topoext perfctr_core perfctr_nb arat cpb hw_pstate npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold\r\n"
+    ],
+    [
+      0.000005,
+      "bogomips\t: 6200.63"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "TLB size\t"
+    ],
+    [
+      0.000006,
+      ": 1536 4K pages\r\nclflush size"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000007,
+      ": 64\r\n"
+    ],
+    [
+      0.000005,
+      "cache_alignment"
+    ],
+    [
+      0.000005,
+      "\t: 64"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "address sizes"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": 48 bits physical, 48 bits virtual\r\n"
+    ],
+    [
+      0.000005,
+      "power management: ts ttp tm 100mhzsteps hwpstate cpb"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\r\nprocessor"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000004,
+      ": 7"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "vendor_id"
+    ],
+    [
+      0.000005,
+      "\t: AuthenticAMD"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "cpu family\t"
+    ],
+    [
+      0.000006,
+      ": 21\r\n"
+    ],
+    [
+      0.000005,
+      "model"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000006,
+      ": 1"
+    ],
+    [
+      0.000006,
+      "\r\nmodel name"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": AMD FX(tm)-8120 Eight-Core Processor           "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "stepping\t"
+    ],
+    [
+      0.000004,
+      ": 2"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "microcode\t"
+    ],
+    [
+      0.000007,
+      ": 0x6000626"
+    ],
+    [
+      0.000007,
+      "\r\ncpu MHz"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": 1900.000"
+    ],
+    [
+      0.000005,
+      "\r\ncache size"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000004,
+      ": 2048 KB"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "physical id\t"
+    ],
+    [
+      0.000005,
+      ": 0"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "siblings"
+    ],
+    [
+      0.000005,
+      "\t: 8"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "core id"
+    ],
+    [
+      0.000006,
+      "\t\t"
+    ],
+    [
+      0.000005,
+      ": 1\r\n"
+    ],
+    [
+      0.000004,
+      "cpu cores"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": 4"
+    ],
+    [
+      0.000005,
+      "\r\napicid"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000006,
+      ": 7"
+    ],
+    [
+      0.000005,
+      "\r\ninitial apicid"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": 1"
+    ],
+    [
+      0.000006,
+      "\r\nfpu"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000007,
+      "\t"
+    ],
+    [
+      0.000006,
+      ": yes\r\n"
+    ],
+    [
+      0.000005,
+      "fpu_exception\t"
+    ],
+    [
+      0.000004,
+      ": yes"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "cpuid level"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": 13\r\n"
+    ],
+    [
+      0.000004,
+      "wp"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000005,
+      ": yes\r\n"
+    ],
+    [
+      0.000004,
+      "flags"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000016,
+      ": fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc extd_apicid aperfmperf pni pclmulqdq monitor ssse3 cx16 sse4_1 sse4_2 popcnt aes xsave avx lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs xop skinit wdt lwp fma4 nodeid_msr topoext perfctr_core perfctr_nb arat cpb hw_pstate npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold"
+    ],
+    [
+      0.000004,
+      "\r\nbogomips\t"
+    ],
+    [
+      0.000003,
+      ": 6200.63"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "TLB size"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000016,
+      ": 1536 4K pages\r\n"
+    ],
+    [
+      0.000006,
+      "clflush size"
+    ],
+    [
+      0.000006,
+      "\t: 64"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "cache_alignment"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000007,
+      ": 64"
+    ],
+    [
+      0.000006,
+      "\r\naddress sizes"
+    ],
+    [
+      0.000005,
+      "\t: 48 bits physical, 48 bits virtual"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "power management: ts ttp tm 100mhzsteps hwpstate cpb\r\n"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.001387,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.012438,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31mjanos\u001b[37m@\u001b[31msulik\u001b[37m:\u001b[37m~\u001b[31m ☢ \u001b[00m"
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000071,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.116767,
+      "t"
+    ],
+    [
+      0.151571,
+      "\u0008te"
+    ],
+    [
+      0.192142,
+      "s"
+    ],
+    [
+      0.231848,
+      "t"
+    ],
+    [
+      0.088001,
+      " "
+    ],
+    [
+      0.151831,
+      "b"
+    ],
+    [
+      0.208083,
+      "l"
+    ],
+    [
+      0.135918,
+      "a"
+    ],
+    [
+      0.224224,
+      " "
+    ],
+    [
+      0.231919,
+      "."
+    ],
+    [
+      0.135782,
+      "."
+    ],
+    [
+      0.120050,
+      "."
+    ],
+    [
+      0.138280,
+      "\u001b[?1l\u001b\u003e\r\r\nzsh: parse error: condition expected: bla\r\nzsh: exit 1\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.018740,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31mjanos\u001b[37m@\u001b[31msulik\u001b[37m:\u001b[37m~\u001b[31m ☢ \u001b[00m"
+    ],
+    [
+      0.000012,
+      "\u001b[K"
+    ],
+    [
+      0.000070,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.019115,
+      "test bla ..."
+    ],
+    [
+      0.495839,
+      "\u0008 \u0008"
+    ],
+    [
+      0.127782,
+      "\u0008 \u0008"
+    ],
+    [
+      0.128106,
+      "\u0008 \u0008"
+    ],
+    [
+      0.104119,
+      "\u0008"
+    ],
+    [
+      0.111987,
+      "\u0008 \u0008"
+    ],
+    [
+      0.127874,
+      "\u0008 \u0008"
+    ],
+    [
+      0.135874,
+      "\u0008 \u0008"
+    ],
+    [
+      0.472297,
+      "\u0008"
+    ],
+    [
+      0.698560,
+      "\u001b[?1l\u001b\u003e\r\r\nzsh: exit 1\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.018796,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31mjanos\u001b[37m@\u001b[31msulik\u001b[37m:\u001b[37m~\u001b[31m ☢ \u001b[00m"
+    ],
+    [
+      0.000013,
+      "\u001b[K"
+    ],
+    [
+      0.000070,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.026417,
+      "\r"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ]
+  ]
+}
