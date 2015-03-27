@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "width": 103,
+  "height": 31,
+  "duration": 7.773238,
+  "command": "zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "zsh"
+  },
+  "stdout": [
+    [
+      2.756963,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                      \r \r"
+    ],
+    [
+      0.000029,
+      "\u001b]2;zjones@Zacks-MacBook-Pro:\u0007"
+    ],
+    [
+      0.000007,
+      "\u001b]1;~/Downloads\u0007"
+    ],
+    [
+      0.011205,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[00m\u001b[40m\u001b[01;33mzjones＠Zacks-MacBook-Pro\u001b[49m\u001b[00m  \u001b[00m\u001b[01;35m\u001b[00m03/27/15 \u001b[40m\u001b[01;31m9:47\u001b[49m\u001b[00m\r\n\u001b[00m\u001b[00m\u001b[22;37m~/Downloads\u001b[00m\u001b[01;33m \u003e \u001b[00m"
+    ],
+    [
+      0.000014,
+      "\u001b[K\u001b[88C\u001b[00m\u001b[88D"
+    ],
+    [
+      0.000148,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      4.991613,
+      "\r\r\n"
+    ]
+  ]
+}
