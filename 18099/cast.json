@@ -1,0 +1,258 @@
+{
+  "version": 1,
+  "width": 95,
+  "height": 27,
+  "duration": 24.786053,
+  "command": "/bin/bash",
+  "title": "Git on Mac OS",
+  "env": {
+    "TERM": "screen",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.011384,
+      "\u001b[32mkitchen2\u001b[37m:~$\u001b[m\u000f "
+    ],
+    [
+      1.726281,
+      "g"
+    ],
+    [
+      0.134898,
+      "i"
+    ],
+    [
+      0.202623,
+      "t"
+    ],
+    [
+      0.123765,
+      " "
+    ],
+    [
+      0.461272,
+      "-"
+    ],
+    [
+      0.168616,
+      "-"
+    ],
+    [
+      0.123791,
+      "v"
+    ],
+    [
+      0.157287,
+      "e"
+    ],
+    [
+      0.067804,
+      "r"
+    ],
+    [
+      0.236174,
+      "s"
+    ],
+    [
+      0.123929,
+      "i"
+    ],
+    [
+      0.089774,
+      "o"
+    ],
+    [
+      0.112547,
+      "n"
+    ],
+    [
+      0.337485,
+      "\r\n"
+    ],
+    [
+      0.003650,
+      "git version 1.9.5 (Apple Git-50.3)\r\n"
+    ],
+    [
+      0.000221,
+      "\u001b[32mkitchen2\u001b[37m:~$\u001b[m\u000f "
+    ],
+    [
+      1.728502,
+      "g"
+    ],
+    [
+      0.112623,
+      "i"
+    ],
+    [
+      0.123774,
+      "t"
+    ],
+    [
+      0.922611,
+      "\r\n"
+    ],
+    [
+      0.003559,
+      "usage: git [--version] [--help] [-C \u003cpath\u003e] [-c name=value]\r\n           [--exec-path[=\u003cpath\u003e]] [--html-path] [--man-path] [--info-path]\r\n           [-p|--paginate|--no-pager] [--no-replace-objects] [--bare]\r\n           [--git-dir=\u003cpath\u003e] [--work-tree=\u003cpath\u003e] [--namespace=\u003cname\u003e]\r\n           \u003ccommand\u003e [\u003cargs\u003e]\r\n\r\nThe most commonly used git commands are:\r\n   add        Add file contents to the index\r\n   bisect     Find by binary search the change that introduced a bug\r\n"
+    ],
+    [
+      0.000048,
+      "   branch     List, create, or delete branches\r\n   checkout   Checkout a branch or paths to the working tree\r\n   clone      Clone a repository into a new directory\r\n   commit     Record changes to the repository\r\n   diff       Show changes between commits, commit and working tree, etc\r\n   fetch      Download objects and refs from another repository\r\n   grep       Print lines matching a pattern\r\n   init       Create an empty Git repository or reinitialize an existing one\r\n   log        Show commit logs\r\n   merge      Join two or more development histories together\r\n   mv         Move or rename a file, a directory, or a symlink\r\n   pull       Fetch from and integrate with another repository or a local branch\r\n   push       Update remote refs along with associated objects\r\n   rebase     Forward-port local commits to the updated upstream head\r\n   reset      Reset current HEAD to the specified state\r\n   rm         Remove files from the working tree and from the index\r\n   show       Show various types of objects\r\n "
+    ],
+    [
+      0.000007,
+      "  status     Show the working tree status\r\n   tag        Create, list, delete or verify a tag object signed with GPG\r\n\r\n'git help -a' and 'git help -g' lists available subcommands and some\r\nconcept guides. See 'git help \u003ccommand\u003e' or 'git help \u003cconcept\u003e'\r\nto read about a specific subcommand or concept.\r\n"
+    ],
+    [
+      0.000206,
+      "\u001b[32mkitchen2\u001b[37m:~$\u001b[m\u000f "
+    ],
+    [
+      1.166103,
+      "git"
+    ],
+    [
+      0.596154,
+      " "
+    ],
+    [
+      2.891261,
+      "\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.009685,
+      "\u0007"
+    ],
+    [
+      0.000078,
+      "\u0007"
+    ],
+    [
+      1.261556,
+      "g"
+    ],
+    [
+      0.191091,
+      "i"
+    ],
+    [
+      0.168880,
+      "t"
+    ],
+    [
+      0.630219,
+      "  \u0008"
+    ],
+    [
+      2.418658,
+      "| \u0008"
+    ],
+    [
+      0.719809,
+      "  \u0008"
+    ],
+    [
+      0.382719,
+      "l \u0008"
+    ],
+    [
+      0.112499,
+      "e \u0008"
+    ],
+    [
+      0.236282,
+      "s \u0008"
+    ],
+    [
+      0.157553,
+      "s \u0008"
+    ],
+    [
+      0.157274,
+      "\r\n"
+    ],
+    [
+      0.270070,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.000225,
+      "usage: git [--version] [--help] [-C \u003cpath\u003e] [-c name=value]\r\n           [--exec-path[=\u003cpath\u003e]] [--html-path] [--man-path] [--info-path]\r\n           [-p|--paginate|--no-pager] [--no-replace-objects] [--bare]\r\n           [--git-dir=\u003cpath\u003e] [--work-tree=\u003cpath\u003e] [--namespace=\u003cname\u003e]\r\n           \u003ccommand\u003e [\u003cargs\u003e]\r\n\r\nThe most commonly used git commands are:\r\n   add        Add file contents to the index\r\n   bisect     Find by binary search the change that introduced a bug\r\n   branch     List, create, or delete branches\r\n   checkout   Checkout a branch or paths to the working tree\r\n   clone      Clone a repository into a new directory\r\n   commit     Record changes to the repository\r\n   diff       Show changes between commits, commit and working tree, etc\r\n   fetch      Download objects and refs from another repository\r\n   grep       Print lines matching a pattern\r\n   init       Create an empty Git repository or reinitialize an existing one\r\n   log        Show commit logs\r\n   merge      Join two or more development h"
+    ],
+    [
+      0.000009,
+      "istories together\r\n   mv         Move or rename a file, a directory, or a symlink\r\n   pull       Fetch from and integrate with another repository or a local branch\r\n   push       Update remote refs along with associated objects\r\n   rebase     Forward-port local commits to the updated upstream head\r\n   reset      Reset current HEAD to the specified state\r\n   rm         Remove files from the working tree and from the index\r\n   show       Show various types of objects\r\n:\u001b[K"
+    ],
+    [
+      1.529865,
+      "\r\u001b[K"
+    ],
+    [
+      0.000005,
+      "   status     Show the working tree status\r\n:\u001b[K"
+    ],
+    [
+      0.371222,
+      "\r\u001b[K"
+    ],
+    [
+      0.000005,
+      "   tag        Create, list, delete or verify a tag object signed with GPG\r\n:\u001b[K"
+    ],
+    [
+      0.348788,
+      "\r\u001b[K"
+    ],
+    [
+      0.000005,
+      "\r\n:\u001b[K"
+    ],
+    [
+      0.404995,
+      "\r\u001b[K"
+    ],
+    [
+      0.000005,
+      "'git help -a' and 'git help -g' lists available subcommands and some\r\n:\u001b[K"
+    ],
+    [
+      0.404983,
+      "\r\u001b[K"
+    ],
+    [
+      0.000010,
+      "concept guides. See 'git help \u003ccommand\u003e' or 'git help \u003cconcept\u003e'\r\n:\u001b[K"
+    ],
+    [
+      0.371079,
+      "\r\u001b[K"
+    ],
+    [
+      0.000005,
+      "to read about a specific subcommand or concept.\r\n:\u001b[K"
+    ],
+    [
+      0.348763,
+      "\r\u001b[K"
+    ],
+    [
+      0.000005,
+      "\u0007\r\u001b[K\u001b[3m(END) \u001b[23m\u001b[K"
+    ],
+    [
+      1.181569,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l"
+    ],
+    [
+      0.000418,
+      "\u001b[32mkitchen2\u001b[37m:~$\u001b[m\u000f "
+    ],
+    [
+      1.473270,
+      "exit\r\n"
+    ]
+  ]
+}
