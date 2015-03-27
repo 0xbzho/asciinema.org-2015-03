@@ -1,0 +1,1614 @@
+{
+  "version": 1,
+  "width": 82,
+  "height": 25,
+  "duration": 131.782678,
+  "command": "zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "zsh"
+  },
+  "stdout": [
+    [
+      2.740182,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                 \r \r"
+    ],
+    [
+      0.000019,
+      "\u001b]2;zjones@Zacks-MacBook-Pro:\u0007"
+    ],
+    [
+      0.000014,
+      "\u001b]1;~/Downloads\u0007"
+    ],
+    [
+      0.011277,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[00m\u001b[40m\u001b[01;33mzjones＠Zacks-MacBook-Pro\u001b[49m\u001b[00m  \u001b[00m\u001b[01;35m\u001b[00m03/27/15 \u001b[40m\u001b[01;31m9:52\u001b[49m\u001b[00m\r\n\u001b[00m\u001b[00m\u001b[22;37m~/Downloads\u001b[00m\u001b[01;33m \u003e \u001b[00m"
+    ],
+    [
+      0.000015,
+      "\u001b[K\u001b[67C\u001b[00m\u001b[67D"
+    ],
+    [
+      0.000096,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.246617,
+      "\u001b[36mg\u001b[39m"
+    ],
+    [
+      0.134734,
+      "\u0008\u001b[1m\u001b[34mg\u001b[1m\u001b[34mi\u001b[0m\u001b[39m"
+    ],
+    [
+      0.096873,
+      "\u0008\u0008\u001b[1m\u001b[34mg\u001b[1m\u001b[34mi\u001b[1m\u001b[34mt\u001b[0m\u001b[39m"
+    ],
+    [
+      1.066346,
+      "\u0008\u0008\u0008\u001b[1m\u001b[37m\u001b[45mg\u001b[1m\u001b[37m\u001b[45mi\u001b[1m\u001b[37m\u001b[45mt\u001b[0m\u001b[39m\u001b[49m clone git@bitbucket.org:ctacdevteam/arim_map_api.git"
+    ],
+    [
+      1.213667,
+      "\u001b[56D\u001b[49m\u001b[1m\u001b[34mg\u001b[49m\u001b[1m\u001b[34mi\u001b[49m\u001b[1m\u001b[34mt\u001b[0m\u001b[39m\u001b[53C"
+    ],
+    [
+      0.000009,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000088,
+      "\r\r\n"
+    ],
+    [
+      0.000906,
+      "\u001b]2;git clone git@bitbucket.org:ctacdevteam/arim_map_api.git\u0007\u001b]1;git\u0007"
+    ],
+    [
+      0.004847,
+      "Cloning into 'arim_map_api'...\r\n"
+    ],
+    [
+      5.436458,
+      "remote: Counting objects: 340, done.\u001b[K\r\n"
+    ],
+    [
+      0.180966,
+      "remote: Compressing objects:   0% (1/224)   \u001b[K\rremote: Compressing objects:   1% (3/224)   \u001b[K\r"
+    ],
+    [
+      0.000237,
+      "remote: Compressing objects:   2% (5/224)   \u001b[K\r"
+    ],
+    [
+      0.000012,
+      "remote: Compressing objects:   3% (7/224)   \u001b[K\r"
+    ],
+    [
+      0.000039,
+      "remote: Compressing objects:   4% (9/224)   \u001b[K\rremote: Compressing objects:   5% (12/224)   \u001b[K\r"
+    ],
+    [
+      0.001174,
+      "remote: Compressing objects:   6% (14/224)   \u001b[K\r"
+    ],
+    [
+      0.000533,
+      "remote: Compressing objects:   7% (16/224)   \u001b[K\r"
+    ],
+    [
+      0.000926,
+      "remote: Compressing objects:   8% (18/224)   \u001b[K\r"
+    ],
+    [
+      0.000322,
+      "remote: Compressing objects:   9% (21/224)   \u001b[K\r"
+    ],
+    [
+      0.000805,
+      "remote: Compressing objects:  10% (23/224)   \u001b[K\r"
+    ],
+    [
+      0.000299,
+      "remote: Compressing objects:  11% (25/224)   \u001b[K\r"
+    ],
+    [
+      0.075751,
+      "remote: Compressing objects:  12% (27/224)   \u001b[K\rremote: Compressing objects:  13% (30/224)   \u001b[K\r"
+    ],
+    [
+      0.000018,
+      "remote: Compressing objects:  14% (32/224)   \u001b[K\rremote: Compressing objects:  15% (34/224)   \u001b[K\rremote: Compressing objects:  16% (36/224)   \u001b[K\rremote: Compressing objects:  17% (39/224)   \u001b[K\rremote: Compressing objects:  18% (41/224)   \u001b[K\rremote: Compressing objects:  19% (43/224)   \u001b[K\rremote: Compressing objects:  20% (45/224)   \u001b[K\rremote: Compressing objects:  21% (48/224)   \u001b[K\rremote: Compressing objects:  22% (50/224)   \u001b[K\rremote: Compressing objects:  23% (52/224)   \u001b[K\rremote: Compressing objects:  24% (54/224)   \u001b[K\r"
+    ],
+    [
+      0.000007,
+      "remote: Compressing objects:  25% (56/224)   \u001b[K\rremote: Compressing objects:  26% (59/224)   \u001b[K\rremote: Compressing objects:  27% (61/224)   \u001b[K\r"
+    ],
+    [
+      0.000004,
+      "remote: Compressing objects:  28% (63/224)   \u001b[K\r"
+    ],
+    [
+      0.000004,
+      "remote: Compressing objects:  29% (65/224)   \u001b[K\r"
+    ],
+    [
+      0.000004,
+      "remote: Compressing objects:  30% (68/224)   \u001b[K\r"
+    ],
+    [
+      0.000004,
+      "remote: Compressing objects:  31% (70/224)   \u001b[K\r"
+    ],
+    [
+      0.000027,
+      "remote: Compressing objects:  32% (72/224)   \u001b[K\rremote: Compressing objects:  33% (74/224)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  34% (77/224)   \u001b[K\rremote: Compressing objects:  35% (79/224)   \u001b[K\rremote: Compressing objects:  36% (81/224)   \u001b[K\rremote: Compressing objects:  37% (83/224)   \u001b[K\rremote: Compressing objects:  38% (86/224)   \u001b[K\rremote: Compressing objects:  39% (88/224)   \u001b[K\rremote: Compressing objects:  40% (90/224)   \u001b[K\rremote: Compressing objects:  41% (92/224)   \u001b[K\r"
+    ],
+    [
+      0.000014,
+      "remote: Compressing objects:  42% (95/224)   \u001b[K\rremote: Compressing objects:  43% (97/224)   \u001b[K\rremote: Compressing objects:  44% (99/224)   \u001b[K\rremote: Compressing objects:  45% (101/224)   \u001b[K\r"
+    ],
+    [
+      0.000004,
+      "remote: Compressing objects:  46% (104/224)   \u001b[K\rremote: Compressing objects:  47% (106/224)   \u001b[K\r"
+    ],
+    [
+      0.000004,
+      "remote: Compressing objects:  48% (108/224)   \u001b[K\r"
+    ],
+    [
+      0.000003,
+      "remote: Compressing objects:  49% (110/224)   \u001b[K\r"
+    ],
+    [
+      0.000004,
+      "remote: Compressing objects:  50% (112/224)   \u001b[K\r"
+    ],
+    [
+      0.000003,
+      "remote: Compressing objects:  51% (115/224)   \u001b[K\r"
+    ],
+    [
+      0.000488,
+      "remote: Compressing objects:  52% (117/224)   \u001b[K\rremote: Compressing objects:  53% (119/224)   \u001b[K\r"
+    ],
+    [
+      0.000011,
+      "remote: Compressing objects:  54% (121/224)   \u001b[K\rremote: Compressing objects:  55% (124/224)   \u001b[K\rremote: Compressing objects:  56% (126/224)   \u001b[K\rremote: Compressing objects:  57% (128/224)   \u001b[K\rremote: Compressing objects:  58% (130/224)   \u001b[K\rremote: Compressing objects:  59% (133/224)   \u001b[K\rremote: Compressing objects:  60% (135/224)   \u001b[K\rremote: Compressing objects:  61% (137/224)   \u001b[K\r"
+    ],
+    [
+      0.000005,
+      "remote: Compressing objects:  62% (139/224)   \u001b[K\rremote: Compressing objects:  63% (142/224)   \u001b[K\r"
+    ],
+    [
+      0.000004,
+      "remote: Compressing objects:  64% (144/224)   \u001b[K\r"
+    ],
+    [
+      0.000004,
+      "remote: Compressing objects:  65% (146/224)   \u001b[K\r"
+    ],
+    [
+      0.000003,
+      "remote: Compressing objects:  66% (148/224)   \u001b[K\r"
+    ],
+    [
+      0.000004,
+      "remote: Compressing objects:  67% (151/224)   \u001b[K\r"
+    ],
+    [
+      0.000004,
+      "remote: Compressing objects:  68% (153/224)   \u001b[K\r"
+    ],
+    [
+      0.000015,
+      "remote: Compressing objects:  69% (155/224)   \u001b[K\rremote: Compressing objects:  70% (157/224)   \u001b[K\r"
+    ],
+    [
+      0.000004,
+      "remote: Compressing objects:  71% (160/224)   \u001b[K\rremote: Compressing objects:  72% (162/224)   \u001b[K\r"
+    ],
+    [
+      0.000477,
+      "remote: Compressing objects:  73% (164/224)   \u001b[K\rremote: Compressing objects:  74% (166/224)   \u001b[K\rremote: Compressing objects:  75% (168/224)   \u001b[K\rremote: Compressing objects:  76% (171/224)   \u001b[K\rremote: Compressing objects:  77% (173/224)   \u001b[K\rremote: Compressing objects:  78% (175/224)   \u001b[K\rremote: Compressing objects:  79% (177/224)   \u001b[K\rremote: Compressing objects:  80% (180/224)   \u001b[K\r"
+    ],
+    [
+      0.000016,
+      "remote: Compressing objects:  81% (182/224)   \u001b[K\rremote: Compressing objects:  82% (184/224)   \u001b[K\rremote: Compressing objects:  83% (186/224)   \u001b[K\rremote: Compressing objects:  84% (189/224)   \u001b[K\rremote: Compressing objects:  85% (191/224)   \u001b[K\rremote: Compressing objects:  86% (193/224)   \u001b[K\rremote: Compressing objects:  87% (195/224)   \u001b[K\rremote: Compressing objects:  88% (198/224)   \u001b[K\rremote: Compressing objects:  89% (200/224)   \u001b[K\r"
+    ],
+    [
+      0.000012,
+      "remote: Compressing objects:  90% (202/224)   \u001b[K\rremote: Compressing objects:  91% (204/224)   \u001b[K\rremote: Compressing objects:  92% (207/224)   \u001b[K\r"
+    ],
+    [
+      0.000616,
+      "remote: Compressing objects:  93% (209/224)   \u001b[K\rremote: Compressing objects:  94% (211/224)   \u001b[K\rremote: Compressing objects:  95% (213/224)   \u001b[K\rremote: Compressing objects:  96% (216/224)   \u001b[K\rremote: Compressing objects:  97% (218/224)   \u001b[K\rremote: Compressing objects:  98% (220/224)   \u001b[K\rremote: Compressing objects:  99% (222/224)   \u001b[K\r"
+    ],
+    [
+      0.000013,
+      "remote: Compressing objects: 100% (224/224)   \u001b[K\rremote: Compressing objects: 100% (224/224), done.\u001b[K\r\n"
+    ],
+    [
+      0.078488,
+      "Receiving objects:   0% (1/340)   \r"
+    ],
+    [
+      0.000058,
+      "Receiving objects:   1% (4/340)   \r"
+    ],
+    [
+      0.000082,
+      "Receiving objects:   2% (7/340)   \r"
+    ],
+    [
+      0.000108,
+      "Receiving objects:   3% (11/340)   \r"
+    ],
+    [
+      0.000063,
+      "Receiving objects:   4% (14/340)   \r"
+    ],
+    [
+      0.000110,
+      "Receiving objects:   5% (17/340)   \r"
+    ],
+    [
+      0.000149,
+      "Receiving objects:   6% (21/340)   \r"
+    ],
+    [
+      0.000076,
+      "Receiving objects:   7% (24/340)   \r"
+    ],
+    [
+      0.011733,
+      "Receiving objects:   8% (28/340)   \r"
+    ],
+    [
+      0.072023,
+      "Receiving objects:   9% (31/340)   \r"
+    ],
+    [
+      0.000110,
+      "Receiving objects:  10% (34/340)   \r"
+    ],
+    [
+      0.000244,
+      "Receiving objects:  11% (38/340)   \r"
+    ],
+    [
+      0.005466,
+      "Receiving objects:  12% (41/340)   \r"
+    ],
+    [
+      0.001565,
+      "Receiving objects:  13% (45/340)   \r"
+    ],
+    [
+      0.000101,
+      "Receiving objects:  14% (48/340)   \r"
+    ],
+    [
+      0.000290,
+      "Receiving objects:  15% (51/340)   \r"
+    ],
+    [
+      0.068028,
+      "Receiving objects:  16% (55/340)   \r"
+    ],
+    [
+      0.000173,
+      "Receiving objects:  17% (58/340)   \r"
+    ],
+    [
+      0.000168,
+      "Receiving objects:  18% (62/340)   \r"
+    ],
+    [
+      0.000083,
+      "Receiving objects:  19% (65/340)   \r"
+    ],
+    [
+      0.000076,
+      "Receiving objects:  20% (68/340)   \r"
+    ],
+    [
+      0.002017,
+      "Receiving objects:  21% (72/340)   \r"
+    ],
+    [
+      0.000155,
+      "Receiving objects:  22% (75/340)   \r"
+    ],
+    [
+      0.000236,
+      "Receiving objects:  23% (79/340)   \r"
+    ],
+    [
+      0.002303,
+      "Receiving objects:  24% (82/340)   \r"
+    ],
+    [
+      0.000141,
+      "Receiving objects:  25% (85/340)   \r"
+    ],
+    [
+      0.000300,
+      "Receiving objects:  26% (89/340)   \r"
+    ],
+    [
+      0.000164,
+      "Receiving objects:  27% (92/340)   \r"
+    ],
+    [
+      0.003465,
+      "Receiving objects:  28% (96/340)   \r"
+    ],
+    [
+      0.000077,
+      "Receiving objects:  29% (99/340)   \r"
+    ],
+    [
+      0.000074,
+      "Receiving objects:  30% (102/340)   \r"
+    ],
+    [
+      0.000081,
+      "Receiving objects:  31% (106/340)   \r"
+    ],
+    [
+      0.000098,
+      "Receiving objects:  32% (109/340)   \r"
+    ],
+    [
+      0.001806,
+      "Receiving objects:  33% (113/340)   \r"
+    ],
+    [
+      0.000048,
+      "Receiving objects:  34% (116/340)   \r"
+    ],
+    [
+      0.000112,
+      "Receiving objects:  35% (119/340)   \r"
+    ],
+    [
+      0.000077,
+      "Receiving objects:  36% (123/340)   \r"
+    ],
+    [
+      0.000081,
+      "Receiving objects:  37% (126/340)   \r"
+    ],
+    [
+      0.000137,
+      "Receiving objects:  38% (130/340)   \r"
+    ],
+    [
+      0.000093,
+      "Receiving objects:  39% (133/340)   \r"
+    ],
+    [
+      0.066933,
+      "Receiving objects:  40% (136/340)   \r"
+    ],
+    [
+      0.000871,
+      "Receiving objects:  41% (140/340)   \r"
+    ],
+    [
+      0.000007,
+      "Receiving objects:  42% (143/340)   \r"
+    ],
+    [
+      0.000164,
+      "Receiving objects:  43% (147/340)   \r"
+    ],
+    [
+      0.000008,
+      "Receiving objects:  44% (150/340)   \r"
+    ],
+    [
+      3.173971,
+      "Receiving objects:  44% (150/340), 116.00 KiB | 31.00 KiB/s   \r"
+    ],
+    [
+      0.000006,
+      "Receiving objects:  45% (153/340), 116.00 KiB | 31.00 KiB/s   \r"
+    ],
+    [
+      0.000135,
+      "Receiving objects:  46% (157/340), 116.00 KiB | 31.00 KiB/s   \r"
+    ],
+    [
+      0.000019,
+      "Receiving objects:  47% (160/340), 116.00 KiB | 31.00 KiB/s   \r"
+    ],
+    [
+      0.000048,
+      "Receiving objects:  48% (164/340), 116.00 KiB | 31.00 KiB/s   \r"
+    ],
+    [
+      0.000046,
+      "Receiving objects:  49% (167/340), 116.00 KiB | 31.00 KiB/s   \r"
+    ],
+    [
+      0.000034,
+      "Receiving objects:  50% (170/340), 116.00 KiB | 31.00 KiB/s   \r"
+    ],
+    [
+      0.000050,
+      "Receiving objects:  51% (174/340), 116.00 KiB | 31.00 KiB/s   \r"
+    ],
+    [
+      0.000027,
+      "Receiving objects:  52% (177/340), 116.00 KiB | 31.00 KiB/s   \r"
+    ],
+    [
+      0.000062,
+      "Receiving objects:  53% (181/340), 116.00 KiB | 31.00 KiB/s   \r"
+    ],
+    [
+      0.000017,
+      "Receiving objects:  54% (184/340), 116.00 KiB | 31.00 KiB/s   \r"
+    ],
+    [
+      0.000031,
+      "Receiving objects:  55% (187/340), 116.00 KiB | 31.00 KiB/s   \r"
+    ],
+    [
+      0.000046,
+      "Receiving objects:  56% (191/340), 116.00 KiB | 31.00 KiB/s   \r"
+    ],
+    [
+      0.000007,
+      "Receiving objects:  57% (194/340), 116.00 KiB | 31.00 KiB/s   \r"
+    ],
+    [
+      0.000023,
+      "Receiving objects:  58% (198/340), 116.00 KiB | 31.00 KiB/s   \r"
+    ],
+    [
+      0.000049,
+      "Receiving objects:  59% (201/340), 116.00 KiB | 31.00 KiB/s   \r"
+    ],
+    [
+      0.000035,
+      "Receiving objects:  60% (204/340), 116.00 KiB | 31.00 KiB/s   \r"
+    ],
+    [
+      0.000061,
+      "Receiving objects:  61% (208/340), 116.00 KiB | 31.00 KiB/s   \r"
+    ],
+    [
+      0.412378,
+      "Receiving objects:  62% (211/340), 116.00 KiB | 31.00 KiB/s   \r"
+    ],
+    [
+      0.000022,
+      "Receiving objects:  63% (215/340), 116.00 KiB | 31.00 KiB/s   \rReceiving objects:  64% (218/340), 116.00 KiB | 31.00 KiB/s   \rReceiving objects:  65% (221/340), 116.00 KiB | 31.00 KiB/s   \r"
+    ],
+    [
+      0.594794,
+      "Receiving objects:  65% (224/340), 932.00 KiB | 209.00 KiB/s   \r"
+    ],
+    [
+      2.112462,
+      "Receiving objects:  65% (224/340), 2.88 MiB | 450.00 KiB/s   \r"
+    ],
+    [
+      0.623862,
+      "Receiving objects:  65% (224/340), 2.94 MiB | 419.00 KiB/s   \r"
+    ],
+    [
+      1.467740,
+      "Receiving objects:  65% (224/340), 3.38 MiB | 400.00 KiB/s   \r"
+    ],
+    [
+      0.575535,
+      "Receiving objects:  65% (224/340), 3.57 MiB | 396.00 KiB/s   \r"
+    ],
+    [
+      1.074754,
+      "Receiving objects:  65% (224/340), 4.22 MiB | 631.00 KiB/s   \r"
+    ],
+    [
+      1.027171,
+      "Receiving objects:  65% (224/340), 5.29 MiB | 552.00 KiB/s   \r"
+    ],
+    [
+      1.018918,
+      "Receiving objects:  65% (224/340), 7.10 MiB | 824.00 KiB/s   \r"
+    ],
+    [
+      1.971921,
+      "Receiving objects:  65% (224/340), 9.44 MiB | 1.07 MiB/s   \r"
+    ],
+    [
+      1.169590,
+      "Receiving objects:  65% (224/340), 9.75 MiB | 1012.00 KiB/s   \r"
+    ],
+    [
+      0.577649,
+      "Receiving objects:  65% (224/340), 9.85 MiB | 971.00 KiB/s   \r"
+    ],
+    [
+      1.073498,
+      "Receiving objects:  65% (224/340), 10.25 MiB | 904.00 KiB/s   \r"
+    ],
+    [
+      1.066690,
+      "Receiving objects:  65% (224/340), 11.04 MiB | 799.00 KiB/s   \r"
+    ],
+    [
+      1.005948,
+      "Receiving objects:  65% (224/340), 12.53 MiB | 658.00 KiB/s   \r"
+    ],
+    [
+      1.865139,
+      "Receiving objects:  65% (224/340), 14.18 MiB | 812.00 KiB/s   \r"
+    ],
+    [
+      1.450588,
+      "Receiving objects:  65% (224/340), 14.56 MiB | 792.00 KiB/s   \r"
+    ],
+    [
+      0.501240,
+      "Receiving objects:  65% (224/340), 14.68 MiB | 770.00 KiB/s   \r"
+    ],
+    [
+      1.079020,
+      "Receiving objects:  65% (224/340), 15.18 MiB | 720.00 KiB/s   \r"
+    ],
+    [
+      1.018176,
+      "Receiving objects:  65% (224/340), 16.06 MiB | 612.00 KiB/s   \r"
+    ],
+    [
+      1.028123,
+      "Receiving objects:  65% (224/340), 17.75 MiB | 719.00 KiB/s   \r"
+    ],
+    [
+      1.135845,
+      "Receiving objects:  65% (224/340), 19.42 MiB | 1.02 MiB/s   \r"
+    ],
+    [
+      1.159632,
+      "Receiving objects:  65% (224/340), 20.01 MiB | 1.05 MiB/s   \r"
+    ],
+    [
+      1.011012,
+      "Receiving objects:  65% (224/340), 21.52 MiB | 1.23 MiB/s   \r"
+    ],
+    [
+      1.009933,
+      "Receiving objects:  65% (224/340), 23.80 MiB | 1.46 MiB/s   \r"
+    ],
+    [
+      1.008451,
+      "Receiving objects:  65% (224/340), 27.10 MiB | 1.67 MiB/s   \r"
+    ],
+    [
+      1.033319,
+      "Receiving objects:  65% (224/340), 29.21 MiB | 2.08 MiB/s   \r"
+    ],
+    [
+      0.839841,
+      "Receiving objects:  65% (224/340), 29.61 MiB | 1.96 MiB/s   \r"
+    ],
+    [
+      1.003865,
+      "Receiving objects:  65% (224/340), 30.26 MiB | 1.79 MiB/s   \r"
+    ],
+    [
+      1.004752,
+      "Receiving objects:  65% (224/340), 32.50 MiB | 1.78 MiB/s   \r"
+    ],
+    [
+      1.005138,
+      "Receiving objects:  65% (224/340), 35.58 MiB | 1.74 MiB/s   \r"
+    ],
+    [
+      2.079485,
+      "Receiving objects:  65% (224/340), 37.30 MiB | 1.36 MiB/s   \r"
+    ],
+    [
+      1.226303,
+      "Receiving objects:  65% (224/340), 37.50 MiB | 1.33 MiB/s   \r"
+    ],
+    [
+      0.568602,
+      "Receiving objects:  65% (224/340), 37.57 MiB | 1.24 MiB/s   \r"
+    ],
+    [
+      1.081744,
+      "Receiving objects:  65% (224/340), 37.86 MiB | 922.00 KiB/s   \r"
+    ],
+    [
+      1.064514,
+      "Receiving objects:  65% (224/340), 38.50 MiB | 497.00 KiB/s   \r"
+    ],
+    [
+      0.793300,
+      "remote: Total 340 (delta 88), reused 0 (delta 0)\u001b[K\r\n"
+    ],
+    [
+      0.005318,
+      "Receiving objects:  66% (225/340), 39.00 MiB | 335.00 KiB/s   \r"
+    ],
+    [
+      0.000052,
+      "Receiving objects:  67% (228/340), 39.00 MiB | 335.00 KiB/s   \r"
+    ],
+    [
+      0.000089,
+      "Receiving objects:  68% (232/340), 39.00 MiB | 335.00 KiB/s   \r"
+    ],
+    [
+      0.000005,
+      "Receiving objects:  69% (235/340), 39.00 MiB | 335.00 KiB/s   \r"
+    ],
+    [
+      0.000096,
+      "Receiving objects:  70% (238/340), 39.00 MiB | 335.00 KiB/s   \r"
+    ],
+    [
+      0.000078,
+      "Receiving objects:  71% (242/340), 39.00 MiB | 335.00 KiB/s   \r"
+    ],
+    [
+      0.000043,
+      "Receiving objects:  72% (245/340), 39.00 MiB | 335.00 KiB/s   \r"
+    ],
+    [
+      0.000091,
+      "Receiving objects:  73% (249/340), 39.00 MiB | 335.00 KiB/s   \r"
+    ],
+    [
+      0.000029,
+      "Receiving objects:  74% (252/340), 39.00 MiB | 335.00 KiB/s   \r"
+    ],
+    [
+      0.000070,
+      "Receiving objects:  75% (255/340), 39.00 MiB | 335.00 KiB/s   \r"
+    ],
+    [
+      0.000062,
+      "Receiving objects:  76% (259/340), 39.00 MiB | 335.00 KiB/s   \r"
+    ],
+    [
+      0.000005,
+      "Receiving objects:  77% (262/340), 39.00 MiB | 335.00 KiB/s   \r"
+    ],
+    [
+      0.000060,
+      "Receiving objects:  78% (266/340), 39.00 MiB | 335.00 KiB/s   \rReceiving objects:  79% (269/340), 39.00 MiB | 335.00 KiB/s   \r"
+    ],
+    [
+      0.000012,
+      "Receiving objects:  80% (272/340), 39.00 MiB | 335.00 KiB/s   \r"
+    ],
+    [
+      0.000088,
+      "Receiving objects:  81% (276/340), 39.00 MiB | 335.00 KiB/s   \r"
+    ],
+    [
+      0.000074,
+      "Receiving objects:  82% (279/340), 39.00 MiB | 335.00 KiB/s   \r"
+    ],
+    [
+      0.000026,
+      "Receiving objects:  83% (283/340), 39.00 MiB | 335.00 KiB/s   \r"
+    ],
+    [
+      0.000056,
+      "Receiving objects:  84% (286/340), 39.00 MiB | 335.00 KiB/s   \r"
+    ],
+    [
+      0.000076,
+      "Receiving objects:  85% (289/340), 39.00 MiB | 335.00 KiB/s   \r"
+    ],
+    [
+      0.000130,
+      "Receiving objects:  86% (293/340), 39.00 MiB | 335.00 KiB/s   \r"
+    ],
+    [
+      0.000039,
+      "Receiving objects:  87% (296/340), 39.00 MiB | 335.00 KiB/s   \r"
+    ],
+    [
+      0.000129,
+      "Receiving objects:  88% (300/340), 39.00 MiB | 335.00 KiB/s   \r"
+    ],
+    [
+      0.000036,
+      "Receiving objects:  89% (303/340), 39.00 MiB | 335.00 KiB/s   \r"
+    ],
+    [
+      0.000019,
+      "Receiving objects:  90% (306/340), 39.00 MiB | 335.00 KiB/s   \r"
+    ],
+    [
+      0.000073,
+      "Receiving objects:  91% (310/340), 39.00 MiB | 335.00 KiB/s   \r"
+    ],
+    [
+      0.000044,
+      "Receiving objects:  92% (313/340), 39.00 MiB | 335.00 KiB/s   \r"
+    ],
+    [
+      0.000090,
+      "Receiving objects:  93% (317/340), 39.00 MiB | 335.00 KiB/s   \r"
+    ],
+    [
+      0.000049,
+      "Receiving objects:  94% (320/340), 39.00 MiB | 335.00 KiB/s   \r"
+    ],
+    [
+      0.000007,
+      "Receiving objects:  95% (323/340), 39.00 MiB | 335.00 KiB/s   \r"
+    ],
+    [
+      0.000082,
+      "Receiving objects:  96% (327/340), 39.00 MiB | 335.00 KiB/s   \r"
+    ],
+    [
+      0.000053,
+      "Receiving objects:  97% (330/340), 39.00 MiB | 335.00 KiB/s   \r"
+    ],
+    [
+      0.000055,
+      "Receiving objects:  98% (334/340), 39.00 MiB | 335.00 KiB/s   \r"
+    ],
+    [
+      0.000040,
+      "Receiving objects:  99% (337/340), 39.00 MiB | 335.00 KiB/s   \r"
+    ],
+    [
+      0.000037,
+      "Receiving objects: 100% (340/340), 39.00 MiB | 335.00 KiB/s   \rReceiving objects: 100% (340/340), 39.39 MiB | 392.00 KiB/s, done.\r\n"
+    ],
+    [
+      0.000094,
+      "Resolving deltas:   0% (0/88)   \r"
+    ],
+    [
+      0.000269,
+      "Resolving deltas:   3% (3/88)   \r"
+    ],
+    [
+      0.000102,
+      "Resolving deltas:   5% (5/88)   \r"
+    ],
+    [
+      0.000013,
+      "Resolving deltas:   6% (6/88)   \r"
+    ],
+    [
+      0.000128,
+      "Resolving deltas:   9% (8/88)   \r"
+    ],
+    [
+      0.000135,
+      "Resolving deltas:  12% (11/88)   \r"
+    ],
+    [
+      0.000030,
+      "Resolving deltas:  14% (13/88)   \r"
+    ],
+    [
+      0.000068,
+      "Resolving deltas:  15% (14/88)   \r"
+    ],
+    [
+      0.000254,
+      "Resolving deltas:  20% (18/88)   \r"
+    ],
+    [
+      0.000024,
+      "Resolving deltas:  22% (20/88)   \r"
+    ],
+    [
+      0.000109,
+      "Resolving deltas:  23% (21/88)   \r"
+    ],
+    [
+      0.000025,
+      "Resolving deltas:  25% (22/88)   \r"
+    ],
+    [
+      0.000020,
+      "Resolving deltas:  26% (23/88)   \r"
+    ],
+    [
+      0.000078,
+      "Resolving deltas:  27% (24/88)   \r"
+    ],
+    [
+      0.000149,
+      "Resolving deltas:  30% (27/88)   \r"
+    ],
+    [
+      0.000025,
+      "Resolving deltas:  32% (29/88)   \r"
+    ],
+    [
+      0.000191,
+      "Resolving deltas:  36% (32/88)   \r"
+    ],
+    [
+      0.000108,
+      "Resolving deltas:  39% (35/88)   \r"
+    ],
+    [
+      0.000085,
+      "Resolving deltas:  42% (37/88)   \r"
+    ],
+    [
+      0.000055,
+      "Resolving deltas:  43% (38/88)   \r"
+    ],
+    [
+      0.000117,
+      "Resolving deltas:  46% (41/88)   \r"
+    ],
+    [
+      0.000194,
+      "Resolving deltas:  53% (47/88)   \r"
+    ],
+    [
+      0.000039,
+      "Resolving deltas:  54% (48/88)   \r"
+    ],
+    [
+      0.000005,
+      "Resolving deltas:  55% (49/88)   \r"
+    ],
+    [
+      0.000171,
+      "Resolving deltas:  60% (53/88)   \r"
+    ],
+    [
+      0.000156,
+      "Resolving deltas:  65% (58/88)   \r"
+    ],
+    [
+      0.000128,
+      "Resolving deltas:  69% (61/88)   \r"
+    ],
+    [
+      0.000039,
+      "Resolving deltas:  70% (62/88)   \r"
+    ],
+    [
+      0.000036,
+      "Resolving deltas:  71% (63/88)   \r"
+    ],
+    [
+      0.000013,
+      "Resolving deltas:  72% (64/88)   \r"
+    ],
+    [
+      0.000106,
+      "Resolving deltas:  73% (65/88)   \r"
+    ],
+    [
+      0.000041,
+      "Resolving deltas:  75% (66/88)   \r"
+    ],
+    [
+      0.000188,
+      "Resolving deltas:  81% (72/88)   \r"
+    ],
+    [
+      0.000083,
+      "Resolving deltas:  84% (74/88)   \r"
+    ],
+    [
+      0.000108,
+      "Resolving deltas:  88% (78/88)   \r"
+    ],
+    [
+      0.000093,
+      "Resolving deltas:  92% (81/88)   \r"
+    ],
+    [
+      0.000130,
+      "Resolving deltas:  95% (84/88)   \r"
+    ],
+    [
+      0.000067,
+      "Resolving deltas:  97% (86/88)   \r"
+    ],
+    [
+      0.000044,
+      "Resolving deltas:  98% (87/88)   \r"
+    ],
+    [
+      0.000010,
+      "Resolving deltas: 100% (88/88)   \r"
+    ],
+    [
+      0.000044,
+      "Resolving deltas: 100% (88/88), done.\r\n"
+    ],
+    [
+      0.014013,
+      "Checking connectivity... "
+    ],
+    [
+      0.002564,
+      "done.\r\n"
+    ],
+    [
+      0.019071,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                 \r \r"
+    ],
+    [
+      0.000092,
+      "\u001b]2;zjones@Zacks-MacBook-Pro:\u0007"
+    ],
+    [
+      0.000019,
+      "\u001b]1;~/Downloads\u0007"
+    ],
+    [
+      0.009014,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[00m\u001b[40m\u001b[01;33mzjones＠Zacks-MacBook-Pro\u001b[49m\u001b[00m  \u001b[00m\u001b[01;35m\u001b[00m03/27/15 \u001b[40m\u001b[01;31m9:52\u001b[49m\u001b[00m\r\n\u001b[00m\u001b[00m\u001b[22;37m~/Downloads\u001b[00m\u001b[01;33m \u003e \u001b[00m"
+    ],
+    [
+      0.000004,
+      "\u001b[K\u001b[67C\u001b[00m\u001b[67D"
+    ],
+    [
+      0.000050,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      13.601355,
+      "c"
+    ],
+    [
+      0.051520,
+      "\u0008\u001b[1m\u001b[34mc\u001b[1m\u001b[34md\u001b[0m\u001b[39m"
+    ],
+    [
+      0.050160,
+      " "
+    ],
+    [
+      0.977584,
+      "a"
+    ],
+    [
+      0.296062,
+      "r"
+    ],
+    [
+      0.285720,
+      "im_map_api\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.953042,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000005,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000021,
+      "\r\r\n"
+    ],
+    [
+      0.001160,
+      "\u001b]2;cd arim_map_api\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b]1;cd\u0007"
+    ],
+    [
+      0.000175,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                 \r \r"
+    ],
+    [
+      0.000018,
+      "\u001b]2;zjones@Zacks-MacBook-Pro:\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b]1;../arim_map_api\u0007"
+    ],
+    [
+      0.020010,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[00m\u001b[40m\u001b[01;33mzjones＠Zacks-MacBook-Pro\u001b[49m\u001b[00m  \u001b[00m\u001b[01;35m\u001b[00m03/27/15 \u001b[40m\u001b[01;31m9:53\u001b[49m\u001b[00m\r\n\u001b[00m\u001b[00m\u001b[22;37m~/Downloads/arim_map_api\u001b[00m\u001b[01;33m \u003e \u001b[00m"
+    ],
+    [
+      0.000008,
+      "\u001b[K\u001b[47C\u001b[01;32mmaster\u001b[00m \u001b[00m\u001b[54D"
+    ],
+    [
+      0.000124,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.197604,
+      "\u001b[36ml\u001b[39m"
+    ],
+    [
+      0.071023,
+      "\u0008\u001b[36ml\u001b[36ms\u001b[39m"
+    ],
+    [
+      0.063690,
+      " "
+    ],
+    [
+      0.088410,
+      "-"
+    ],
+    [
+      0.040391,
+      "l"
+    ],
+    [
+      0.063478,
+      "s"
+    ],
+    [
+      0.024103,
+      "a"
+    ],
+    [
+      0.281086,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000008,
+      "\r\r\n"
+    ],
+    [
+      0.000726,
+      "\u001b]2;ls -G -lsa\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.005993,
+      "total 64\r\n"
+    ],
+    [
+      0.000144,
+      " 0 drwxr-xr-x  15 zjones  staff   510 Mar 27 09:52 \u001b[1m\u001b[36m.\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      " 0 drwx------+  4 zjones  staff   136 Mar 27 09:52 \u001b[1m\u001b[36m..\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000002,
+      " 0 drwxr-xr-x  12 zjones  staff   408 Mar 27 09:53 \u001b[1m\u001b[36m.git\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      " 8 -rw-r--r--   1 zjones  staff  1774 Mar 27 09:52 .gitignore\r\n"
+    ],
+    [
+      0.000003,
+      " 8 -rw-r--r--   1 zjones  staff   254 Mar 27 09:52 application.properties\r\n"
+    ],
+    [
+      0.000008,
+      " 8 -rw-r--r--   1 zjones  staff    11 Mar 27 09:52 contributors.txt\r\n"
+    ],
+    [
+      0.000014,
+      " 0 drwxr-xr-x   4 zjones  staff   136 Mar 27 09:52 \u001b[1m\u001b[36mdefaultConfigFiles\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000004,
+      " 0 drwxr-xr-x   7 zjones  staff   238 Mar 27 09:52 \u001b[1m\u001b[36mgrails-app\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000002,
+      "24 -rwxr-xr-x   1 zjones  staff  9604 Mar 27 09:52 \u001b[31mgrailsw\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "16 -rw-r--r--   1 zjones  staff  5972 Mar 27 09:52 grailsw.bat\r\n"
+    ],
+    [
+      0.000006,
+      " 0 drwxr-xr-x   4 zjones  staff   136 Mar 27 09:52 \u001b[1m\u001b[36mscripts\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      " 0 drwxr-xr-x   3 zjones  staff   102 Mar 27 09:52 \u001b[1m\u001b[36msrc\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      " 0 drwxr-xr-x   5 zjones  staff   170 Mar 27 09:52 \u001b[1m\u001b[36mtest\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      " 0 drwxr-xr-x   3 zjones  staff   102 Mar 27 09:52 \u001b[1m\u001b[36mweb-app\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      " 0 drwxr-xr-x   3 zjones  staff   102 Mar 27 09:52 \u001b[1m\u001b[36mwrapper\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000386,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                 \r \r"
+    ],
+    [
+      0.000074,
+      "\u001b]2;zjones@Zacks-MacBook-Pro:\u0007"
+    ],
+    [
+      0.000023,
+      "\u001b]1;../arim_map_api\u0007"
+    ],
+    [
+      0.018377,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[00m\u001b[40m\u001b[01;33mzjones＠Zacks-MacBook-Pro\u001b[49m\u001b[00m  \u001b[00m\u001b[01;35m\u001b[00m03/27/15 \u001b[40m\u001b[01;31m9:53\u001b[49m\u001b[00m\r\n\u001b[00m\u001b[00m\u001b[22;37m~/Downloads/arim_map_api\u001b[00m\u001b[01;33m \u003e \u001b[00m"
+    ],
+    [
+      0.000006,
+      "\u001b[K\u001b[47C\u001b[01;32mmaster\u001b[00m \u001b[00m\u001b[54D"
+    ],
+    [
+      0.000059,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      4.074595,
+      "\u001b[1m\u001b[34m.\u001b[0m\u001b[39m"
+    ],
+    [
+      0.200501,
+      "\u0008\u001b[0m\u001b[39m./"
+    ],
+    [
+      0.423740,
+      "g"
+    ],
+    [
+      0.320142,
+      "r"
+    ],
+    [
+      0.402909,
+      "ails"
+    ],
+    [
+      0.933076,
+      "\u001b[8D\u001b[1m\u001b[34m.\u001b[1m\u001b[34m/\u001b[1m\u001b[34mg\u001b[1m\u001b[34mr\u001b[1m\u001b[34ma\u001b[1m\u001b[34mi\u001b[1m\u001b[34ml\u001b[1m\u001b[34ms\u001b[1m\u001b[34mw\u001b[0m\u001b[39m"
+    ],
+    [
+      0.225709,
+      "\u001b[9D\u001b[0m\u001b[39m.\u001b[0m\u001b[39m/\u001b[0m\u001b[39mg\u001b[0m\u001b[39mr\u001b[0m\u001b[39ma\u001b[0m\u001b[39mi\u001b[0m\u001b[39ml\u001b[0m\u001b[39ms\u001b[0m\u001b[39mw\u001b[1m \u001b[0m"
+    ],
+    [
+      4.242080,
+      "\u0008\u001b[0m g"
+    ],
+    [
+      0.000220,
+      "r"
+    ],
+    [
+      0.000202,
+      "a"
+    ],
+    [
+      0.000173,
+      "i"
+    ],
+    [
+      0.000189,
+      "l"
+    ],
+    [
+      0.000168,
+      "s"
+    ],
+    [
+      0.000116,
+      " "
+    ],
+    [
+      0.000134,
+      "c"
+    ],
+    [
+      0.000114,
+      "o"
+    ],
+    [
+      0.000112,
+      "p"
+    ],
+    [
+      0.000101,
+      "y"
+    ],
+    [
+      0.000113,
+      "-"
+    ],
+    [
+      0.000099,
+      "d"
+    ],
+    [
+      0.000111,
+      "e"
+    ],
+    [
+      0.000112,
+      "f"
+    ],
+    [
+      0.000113,
+      "a"
+    ],
+    [
+      0.000111,
+      "u"
+    ],
+    [
+      0.000112,
+      "l"
+    ],
+    [
+      0.000113,
+      "t"
+    ],
+    [
+      0.000112,
+      "-"
+    ],
+    [
+      0.000116,
+      "c"
+    ],
+    [
+      0.000111,
+      "o"
+    ],
+    [
+      0.000115,
+      "n"
+    ],
+    [
+      0.000111,
+      "f"
+    ],
+    [
+      0.000112,
+      "i"
+    ],
+    [
+      0.000112,
+      "g"
+    ],
+    [
+      0.005026,
+      "\u001b[36D\u001b[1m\u001b[34m.\u001b[1m\u001b[34m/\u001b[1m\u001b[34mg\u001b[1m\u001b[34mr\u001b[1m\u001b[34ma\u001b[1m\u001b[34mi\u001b[1m\u001b[34ml\u001b[1m\u001b[34ms\u001b[1m\u001b[34mw\u001b[0m\u001b[39m\u001b[27Cs"
+    ],
+    [
+      1.526771,
+      "\u0008"
+    ],
+    [
+      0.249888,
+      "\u0008"
+    ],
+    [
+      0.034638,
+      "\u0008"
+    ],
+    [
+      0.034060,
+      "\u0008"
+    ],
+    [
+      0.034078,
+      "\u0008"
+    ],
+    [
+      0.033638,
+      "\u0008"
+    ],
+    [
+      0.033864,
+      "\u0008"
+    ],
+    [
+      0.033544,
+      "\u0008"
+    ],
+    [
+      0.033412,
+      "\u0008"
+    ],
+    [
+      0.034222,
+      "\u0008"
+    ],
+    [
+      0.042993,
+      "\u0008"
+    ],
+    [
+      0.026196,
+      "\u0008"
+    ],
+    [
+      0.034586,
+      "\u0008"
+    ],
+    [
+      0.034339,
+      "\u0008"
+    ],
+    [
+      0.033967,
+      "\u0008"
+    ],
+    [
+      0.033684,
+      "\u0008"
+    ],
+    [
+      0.033628,
+      "\u0008"
+    ],
+    [
+      0.034042,
+      "\u0008"
+    ],
+    [
+      0.034513,
+      "\u0008"
+    ],
+    [
+      0.033715,
+      "\u0008"
+    ],
+    [
+      0.813869,
+      "\u0008copy-default-configs \u001b[21D"
+    ],
+    [
+      0.151905,
+      "\u0008copy-default-configs \u001b[21D"
+    ],
+    [
+      0.136258,
+      "\u0008copy-default-configs \u001b[21D"
+    ],
+    [
+      0.120430,
+      "\u0008copy-default-configs \u001b[21D"
+    ],
+    [
+      0.128488,
+      "\u0008copy-default-configs \u001b[21D"
+    ],
+    [
+      0.223189,
+      "\u0008copy-default-configs \u001b[21D"
+    ],
+    [
+      0.335699,
+      "\u0008copy-default-configs \u001b[21D"
+    ],
+    [
+      4.930619,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000009,
+      "\r\r\n"
+    ],
+    [
+      0.000765,
+      "\u001b]2;./grailsw copy-default-configs\u0007\u001b]1;./grailsw\u0007"
+    ],
+    [
+      0.088747,
+      "Error: Could not find or load main class org.grails.wrapper.GrailsWrapper"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.014789,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                 \r \r"
+    ],
+    [
+      0.000133,
+      "\u001b]2;zjones@Zacks-MacBook-Pro:\u0007"
+    ],
+    [
+      0.000007,
+      "\u001b]1;../arim_map_api\u0007"
+    ],
+    [
+      0.020237,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[00m\u001b[40m\u001b[01;33mzjones＠Zacks-MacBook-Pro\u001b[49m\u001b[00m  \u001b[00m\u001b[01;35m\u001b[00m03/27/15 \u001b[40m\u001b[01;31m9:53\u001b[49m\u001b[00m\r\n\u001b[00m\u001b[00m\u001b[22;37m~/Downloads/arim_map_api\u001b[00m\u001b[01;33m \u003e \u001b[00m"
+    ],
+    [
+      0.000007,
+      "\u001b[K\u001b[47C\u001b[01;32mmaster\u001b[00m \u001b[00m\u001b[54D"
+    ],
+    [
+      0.000123,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      6.688918,
+      "\u001b[36mg\u001b[39m"
+    ],
+    [
+      0.056159,
+      "\u0008\u001b[36mg\u001b[36mr\u001b[39m"
+    ],
+    [
+      0.183136,
+      "\u0008\u0008\u001b[39mg\u001b[39mra"
+    ],
+    [
+      0.096030,
+      "i"
+    ],
+    [
+      0.239775,
+      "l"
+    ],
+    [
+      0.039384,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[1m\u001b[34mg\u001b[1m\u001b[34mr\u001b[1m\u001b[34ma\u001b[1m\u001b[34mi\u001b[1m\u001b[34ml\u001b[1m\u001b[34ms\u001b[0m\u001b[39m"
+    ],
+    [
+      0.025449,
+      " "
+    ],
+    [
+      1.134869,
+      "\u0008"
+    ],
+    [
+      0.252019,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0m\u001b[39mg\u001b[0m\u001b[39mr\u001b[0m\u001b[39ma\u001b[0m\u001b[39mi\u001b[0m\u001b[39ml\u001b[0m\u001b[39m \u0008"
+    ],
+    [
+      0.033098,
+      "\u0008 \u0008"
+    ],
+    [
+      0.034613,
+      "\u0008 \u0008"
+    ],
+    [
+      0.033974,
+      "\u0008\u0008\u0008\u001b[36mg\u001b[36mr\u001b[39m \u0008"
+    ],
+    [
+      0.032725,
+      "\u0008\u0008\u001b[36mg\u001b[39m\u001b[39m \u0008"
+    ],
+    [
+      0.033572,
+      "\u0008\u001b[39m \u0008"
+    ],
+    [
+      0.811876,
+      "\u001b[1m\u001b[34m.\u001b[0m\u001b[39m"
+    ],
+    [
+      0.176348,
+      "\u0008\u001b[0m\u001b[39m./"
+    ],
+    [
+      2.544035,
+      "g"
+    ],
+    [
+      0.062629,
+      "r"
+    ],
+    [
+      0.217122,
+      "a"
+    ],
+    [
+      1.247948,
+      "i"
+    ],
+    [
+      0.080091,
+      "s"
+    ],
+    [
+      0.088160,
+      "l"
+    ],
+    [
+      0.760019,
+      "\u0008 \u0008"
+    ],
+    [
+      0.151987,
+      "\u0008 \u0008"
+    ],
+    [
+      0.663934,
+      "l"
+    ],
+    [
+      0.096105,
+      "s"
+    ],
+    [
+      0.223585,
+      "\u001b[8D\u001b[1m\u001b[34m.\u001b[1m\u001b[34m/\u001b[1m\u001b[34mg\u001b[1m\u001b[34mr\u001b[1m\u001b[34ma\u001b[1m\u001b[34mi\u001b[1m\u001b[34ml\u001b[1m\u001b[34ms\u001b[1m\u001b[34mw\u001b[0m\u001b[39m"
+    ],
+    [
+      0.131042,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000008,
+      "\r\r\n"
+    ],
+    [
+      0.000684,
+      "\u001b]2;./grailsw\u0007"
+    ],
+    [
+      0.000008,
+      "\u001b]1;./grailsw\u0007"
+    ],
+    [
+      0.087042,
+      "Error: Could not find or load main class org.grails.wrapper.GrailsWrapper"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.014323,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                 \r \r"
+    ],
+    [
+      0.000081,
+      "\u001b]2;zjones@Zacks-MacBook-Pro:\u0007"
+    ],
+    [
+      0.000060,
+      "\u001b]1;../arim_map_api\u0007"
+    ],
+    [
+      0.020075,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[00m\u001b[40m\u001b[01;33mzjones＠Zacks-MacBook-Pro\u001b[49m\u001b[00m  \u001b[00m\u001b[01;35m\u001b[00m03/27/15 \u001b[40m\u001b[01;31m9:53\u001b[49m\u001b[00m\r\n\u001b[00m\u001b[00m\u001b[22;37m~/Downloads/arim_map_api\u001b[00m\u001b[01;33m \u003e \u001b[00m\u001b[K\u001b[47C\u001b[01;32mmaster\u001b[00m \u001b[00m\u001b[54D"
+    ],
+    [
+      0.000088,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      19.724797,
+      "\r\r\n"
+    ]
+  ]
+}
