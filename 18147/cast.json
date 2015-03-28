@@ -1,0 +1,546 @@
+{
+  "version": 1,
+  "width": 89,
+  "height": 23,
+  "duration": 44.983179,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.079321,
+      "\u001b]0;st0p_d1ck@Ultra5: ~\u0007st0p_d1ck@Ultra5:~$ "
+    ],
+    [
+      3.112814,
+      "d"
+    ],
+    [
+      0.077119,
+      "a"
+    ],
+    [
+      0.128495,
+      "t"
+    ],
+    [
+      0.166258,
+      "e"
+    ],
+    [
+      0.239768,
+      "\r\n"
+    ],
+    [
+      0.017169,
+      "Σαβ 28 Μάρ 2015 11:49:28 μμ EET\r\n"
+    ],
+    [
+      0.000477,
+      "\u001b]0;st0p_d1ck@Ultra5: ~\u0007st0p_d1ck@Ultra5:~$ "
+    ],
+    [
+      2.266140,
+      "u"
+    ],
+    [
+      0.104868,
+      "n"
+    ],
+    [
+      0.216252,
+      "a"
+    ],
+    [
+      0.127667,
+      "m"
+    ],
+    [
+      0.174825,
+      "e"
+    ],
+    [
+      0.501492,
+      " "
+    ],
+    [
+      1.137453,
+      "-"
+    ],
+    [
+      0.687836,
+      "s"
+    ],
+    [
+      0.148593,
+      "n"
+    ],
+    [
+      0.576348,
+      "v"
+    ],
+    [
+      0.169710,
+      "\r\n"
+    ],
+    [
+      0.001045,
+      "Linux Ultra5 #80-Ubuntu SMP Thu Mar 12 11:16:15 UTC 2015\r\n"
+    ],
+    [
+      0.000696,
+      "\u001b]0;st0p_d1ck@Ultra5: ~\u0007st0p_d1ck@Ultra5:~$ "
+    ],
+    [
+      6.117336,
+      "i"
+    ],
+    [
+      0.081924,
+      "f"
+    ],
+    [
+      0.207981,
+      "c"
+    ],
+    [
+      0.123622,
+      "o"
+    ],
+    [
+      0.196863,
+      "n"
+    ],
+    [
+      0.125261,
+      "f"
+    ],
+    [
+      0.119408,
+      "i"
+    ],
+    [
+      0.153625,
+      "g"
+    ],
+    [
+      0.200658,
+      "\r\n"
+    ],
+    [
+      0.002321,
+      "eth0      Link encap:Ethernet  HWaddr e8:03:9a:ee:f5:ba  "
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000138,
+      "          UP BROADCAST MULTICAST  MTU:1500  Metric:1"
+    ],
+    [
+      0.000201,
+      "\r\n          RX packets:0 errors:0 dropped:0 overruns:0 frame:0\r\n          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0\r\n          collisions:0 txqueuelen:1000 \r\n          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)\r\n\r\nlo        Link encap:Local Loopback  \r\n"
+    ],
+    [
+      0.000082,
+      "          inet addr:127.0.0.1  Mask:255.0.0.0\r\n"
+    ],
+    [
+      0.000134,
+      "          inet6 addr: ::1/128 Scope:Host"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.000048,
+      "          UP LOOPBACK RUNNING  MTU:65536  Metric:1"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "          RX packets:54103 errors:0 dropped:0 overruns:0 frame:0\r\n"
+    ],
+    [
+      0.000015,
+      "          TX packets:54103 errors:0 dropped:0 overruns:0 carrier:0"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      "          collisions:0 txqueuelen:0 \r\n"
+    ],
+    [
+      0.000015,
+      "          RX bytes:409485152 (409.4 MB)  TX bytes:409485152 (409.4 MB)\r\n"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "wlan0     Link encap:Ethernet  HWaddr c4:85:08:b8:7a:6d  "
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "          inet addr:192.168.1.101  Bcast:192.168.1.255  Mask:255.255.255.0"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000116,
+      "          inet6 addr: fe80::c685:8ff:feb8:7a6d/64 Scope:Link"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000067,
+      "          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "          RX packets:1560336 errors:0 dropped:0 overruns:0 frame:0"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "          TX packets:923506 errors:0 dropped:0 overruns:0 carrier:0"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "          collisions:0 txqueuelen:1000 "
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "          RX bytes:2193694977 (2.1 GB)  TX bytes:91748057 (91.7 MB)"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000681,
+      "\u001b]0;st0p_d1ck@Ultra5: ~\u0007st0p_d1ck@Ultra5:~$ "
+    ],
+    [
+      2.037351,
+      "i"
+    ],
+    [
+      0.077805,
+      "w"
+    ],
+    [
+      0.224286,
+      "c"
+    ],
+    [
+      0.129672,
+      "o"
+    ],
+    [
+      0.185960,
+      "n"
+    ],
+    [
+      0.138219,
+      "f"
+    ],
+    [
+      0.096205,
+      "i"
+    ],
+    [
+      0.213999,
+      "g"
+    ],
+    [
+      0.215779,
+      "\r\n"
+    ],
+    [
+      0.048002,
+      "eth0      no wireless extensions.\r\n\r\nlo        no wireless extensions.\r\n\r\nwlan0     IEEE 802.11abgn  ESSID:\"cookie kane diaita\"  \r\n          Mode:Managed  Frequency:2.462 GHz  Access Point: CC:1A:FA:9F:3D:14   \r\n          Bit Rate=54 Mb/s   Tx-Power=15 dBm   \r\n          Retry  long limit:7   RTS thr:off   Fragment thr:off\r\n          Power Management:off\r\n          Link Quality=36/70  Signal level=-74 dBm  \r\n          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0\r\n          Tx excessive retries:250  Invalid misc:1214   Missed beacon:0\r\n\r\n"
+    ],
+    [
+      0.000325,
+      "\u001b]0;st0p_d1ck@Ultra5: ~\u0007st0p_d1ck@Ultra5:~$ "
+    ],
+    [
+      2.433783,
+      "c"
+    ],
+    [
+      0.082549,
+      "d"
+    ],
+    [
+      0.231554,
+      " "
+    ],
+    [
+      0.865702,
+      "/"
+    ],
+    [
+      0.335283,
+      "p"
+    ],
+    [
+      0.168163,
+      "r"
+    ],
+    [
+      0.121103,
+      "o"
+    ],
+    [
+      0.542970,
+      "c"
+    ],
+    [
+      0.276564,
+      "/"
+    ],
+    [
+      0.437553,
+      "n"
+    ],
+    [
+      0.087197,
+      "e"
+    ],
+    [
+      0.246702,
+      "t"
+    ],
+    [
+      0.145923,
+      "\r\n\u001b]0;st0p_d1ck@Ultra5: /proc/net\u0007st0p_d1ck@Ultra5:/proc/net$ "
+    ],
+    [
+      0.536746,
+      "s"
+    ],
+    [
+      0.368624,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.248164,
+      "l"
+    ],
+    [
+      0.174272,
+      "s"
+    ],
+    [
+      0.136061,
+      "\r\n"
+    ],
+    [
+      0.003010,
+      "anycast6   fib_triestat   ip6_mr_cache  \u001b[0m\u001b[01;34mnetfilter\u001b[0m  raw        snmp          udp\r\n"
+    ],
+    [
+      0.000028,
+      "arp        hci            ip6_mr_vif    netlink    raw6       snmp6         udp6\r\nbnep       icmp           ip_mr_cache   netstat    rfcomm     sockstat      udplite\r\n"
+    ],
+    [
+      0.000027,
+      "connector  icmp6          ip_mr_vif     packet     route      sockstat6     udplite6\r\n"
+    ],
+    [
+      0.000048,
+      "dev        if_inet6       ipv6_route    pnp        rt6_stats  softnet_stat  unix\r\n"
+    ],
+    [
+      0.000027,
+      "dev_mcast  igmp           l2cap         protocols  rt_acct    \u001b[01;34mstat\u001b[0m          wireless"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "\u001b[01;34mdev_snmp6\u001b[0m  igmp6          mcfilter      psched     rt_cache   tcp"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "fib_trie   ip6_flowlabel  mcfilter6     ptype      sco        tcp6\r\n"
+    ],
+    [
+      0.000951,
+      "\u001b]0;st0p_d1ck@Ultra5: /proc/net\u0007st0p_d1ck@Ultra5:/proc/net$ "
+    ],
+    [
+      4.061032,
+      "c"
+    ],
+    [
+      0.083194,
+      "a"
+    ],
+    [
+      0.164116,
+      "t"
+    ],
+    [
+      0.253670,
+      " "
+    ],
+    [
+      3.327688,
+      "w"
+    ],
+    [
+      0.141094,
+      "i"
+    ],
+    [
+      0.249347,
+      "r"
+    ],
+    [
+      0.077595,
+      "e"
+    ],
+    [
+      0.245988,
+      "l"
+    ],
+    [
+      0.152081,
+      "e"
+    ],
+    [
+      0.191153,
+      "s"
+    ],
+    [
+      0.189563,
+      "s"
+    ],
+    [
+      0.152656,
+      "\r\n"
+    ],
+    [
+      0.017971,
+      "Inter-| sta-|   Quality        |   Discarded packets               | Missed | WE\r\n face | tus | link level noise |  nwid  crypt   frag  retry   misc | beacon | 22\r\n wlan0: 0000   39.  -71.  -256        0      0      0    250   1215        0\r\n"
+    ],
+    [
+      0.000246,
+      "\u001b]0;st0p_d1ck@Ultra5: /proc/net\u0007st0p_d1ck@Ultra5:/proc/net$ "
+    ],
+    [
+      2.743150,
+      "c"
+    ],
+    [
+      0.106977,
+      "d"
+    ],
+    [
+      0.221941,
+      "\r\n\u001b]0;st0p_d1ck@Ultra5: ~\u0007st0p_d1ck@Ultra5:~$ "
+    ],
+    [
+      0.564781,
+      "c"
+    ],
+    [
+      0.149057,
+      "l"
+    ],
+    [
+      0.264612,
+      "a"
+    ],
+    [
+      0.059473,
+      "e"
+    ],
+    [
+      0.278560,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.158315,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.106284,
+      "e"
+    ],
+    [
+      0.095740,
+      "a"
+    ],
+    [
+      0.145987,
+      "r"
+    ],
+    [
+      0.224100,
+      "\r\n"
+    ],
+    [
+      0.002097,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000585,
+      "\u001b]0;st0p_d1ck@Ultra5: ~\u0007st0p_d1ck@Ultra5:~$ "
+    ],
+    [
+      2.477632,
+      "exit\r\n"
+    ]
+  ]
+}
