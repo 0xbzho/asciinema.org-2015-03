@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "width": 132,
+  "height": 36,
+  "duration": 5.012723,
+  "command": "cat PKGBUILD; sleep 5",
+  "title": "Arch Linux PKGBUILD for asciinema-git",
+  "env": {
+    "TERM": "screen-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.010429,
+      "# Maintainer:  sudokode \u003csudokode@gmail.com\u003e\r\n# Contributor: Marcin Kulik \u003cm@kulik.com\u003e\r\n\r\npkgname=asciinema-git\r\npkgver=1.0.0.r1.g7b9948d\r\npkgrel=1\r\npkgdesc=\"Command line client for asciinema.org service\"\r\narch=('any')\r\nurl=\"https://github.com/sickill/asciinema\"\r\nlicense=('MIT')\r\ndepends=('python' 'python-requests')\r\nmakedepends=('git' 'python-distribute')\r\nconflicts=('asciinema')\r\nsource=(\"$pkgname::git+https://github.com/sickill/asciinema.git\")\r\nsha256sums=('SKIP')\r\n\r\npkgver() {\r\n  cd $pkgname\r\n\r\n"
+    ],
+    [
+      0.000041,
+      "  git describe --long | sed 's/^v//; s/\\([^-]*-g\\)/r\\1/; s/-/./g'\r\n}\r\n\r\npackage() {\r\n  cd $pkgname\r\n\r\n  ./install --root=\"$pkgdir\"\r\n}\r\n\r\n# vim:set ts=2 sw=2 et:\r\n"
+    ]
+  ]
+}
