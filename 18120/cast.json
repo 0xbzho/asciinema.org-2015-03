@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 7.213766,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.113814,
+      "\u001b]0;root@ubuntu: ~\u0007root@ubuntu:~# "
+    ],
+    [
+      2.484920,
+      "l"
+    ],
+    [
+      0.112126,
+      "s"
+    ],
+    [
+      0.751327,
+      "\r\n"
+    ],
+    [
+      0.001139,
+      "\u001b[0m\u001b[01;34mDesktop\u001b[0m    \u001b[01;34mDownloads\u001b[0m         \u001b[01;34mMusic\u001b[0m     \u001b[01;34mPublic\u001b[0m     \u001b[01;34mVideos\u001b[0m\r\n\u001b[01;34mDocuments\u001b[0m  examples.desktop  \u001b[01;34mPictures\u001b[0m  \u001b[01;34mTemplates\u001b[0m\r\n\u001b]0;root@ubuntu: ~\u0007root@ubuntu:~# "
+    ],
+    [
+      0.580776,
+      "l"
+    ],
+    [
+      0.159241,
+      "s"
+    ],
+    [
+      0.243137,
+      "\r\n"
+    ],
+    [
+      0.001239,
+      "\u001b[0m\u001b[01;34mDesktop\u001b[0m    \u001b[01;34mDownloads\u001b[0m         \u001b[01;34mMusic\u001b[0m     \u001b[01;34mPublic\u001b[0m     \u001b[01;34mVideos\u001b[0m\r\n\u001b[01;34mDocuments\u001b[0m  examples.desktop  \u001b[01;34mPictures\u001b[0m  \u001b[01;34mTemplates\u001b[0m\r\n\u001b]0;root@ubuntu: ~\u0007root@ubuntu:~# "
+    ],
+    [
+      2.692178,
+      "exit\r\n"
+    ]
+  ]
+}
