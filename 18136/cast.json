@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 1.568110,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.008847,
+      "matthew@penguin:~$ "
+    ],
+    [
+      1.559209,
+      "exit\r\n"
+    ]
+  ]
+}
