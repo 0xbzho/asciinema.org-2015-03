@@ -1,0 +1,170 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 16.585159,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      1.153339,
+      "\u001b[1m\u001b[7m#\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;root@kali: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.109112,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35mroot@\u001b[35mkali\u001b[00m \u001b[34m~\u001b[00m$ \u001b[K\u001b[64C \u001b[00m\u001b[00m \u001b[66D\u001b[?1h\u001b="
+    ],
+    [
+      2.635578,
+      "l"
+    ],
+    [
+      0.044663,
+      "\u0008ls"
+    ],
+    [
+      0.468599,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;ls --color=tty\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.004857,
+      "\u001b[0m\u001b[01;34mbackups\u001b[0m  \u001b[01;34mDesktop\u001b[0m  \u001b[01;34mDownloads\u001b[0m  \u001b[01;32mfirst-setup.sh\u001b[0m  kali.png"
+    ],
+    [
+      0.001197,
+      "\r\n"
+    ],
+    [
+      0.000462,
+      "\u001b[1m\u001b[7m#\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;root@kali: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.077577,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35mroot@\u001b[35mkali\u001b[00m \u001b[34m~\u001b[00m$ \u001b[K\u001b[64C \u001b[00m\u001b[00m \u001b[66D\u001b[?1h\u001b="
+    ],
+    [
+      1.077185,
+      "c"
+    ],
+    [
+      0.117287,
+      "\u0008cd"
+    ],
+    [
+      0.995009,
+      " "
+    ],
+    [
+      0.226542,
+      "d"
+    ],
+    [
+      0.355489,
+      "a"
+    ],
+    [
+      0.321847,
+      "c"
+    ],
+    [
+      0.347039,
+      "k"
+    ],
+    [
+      0.268800,
+      "u"
+    ],
+    [
+      0.245548,
+      "p"
+    ],
+    [
+      0.141674,
+      "s"
+    ],
+    [
+      0.159912,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;cd dackups\u0007\u001b]1;cd\u0007cd: no such file or directory: dackups\r\n\u001b[1m\u001b[7m#\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;root@kali: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.110478,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35mroot@\u001b[35mkali\u001b[00m \u001b[34m~\u001b[00m$ \u001b[K\u001b[61C\u001b[31m1 ↵\u001b[00m \u001b[00m\u001b[00m \u001b[66D\u001b[?1h\u001b="
+    ],
+    [
+      0.868150,
+      "c"
+    ],
+    [
+      0.102449,
+      "\u0008cd"
+    ],
+    [
+      0.246847,
+      " "
+    ],
+    [
+      0.535221,
+      "."
+    ],
+    [
+      0.148234,
+      "."
+    ],
+    [
+      0.122562,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;cd ..\u0007\u001b]1;cd\u0007\u001b[1m\u001b[7m#\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;root@kali: /\u0007\u001b]1;/\u0007"
+    ],
+    [
+      0.179864,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35mroot@\u001b[35mkali\u001b[00m \u001b[34m/\u001b[00m$ \u001b[K\u001b[64C \u001b[00m\u001b[00m \u001b[66D\u001b[?1h\u001b="
+    ],
+    [
+      0.137182,
+      "l"
+    ],
+    [
+      0.157419,
+      "\u0008ls"
+    ],
+    [
+      0.115096,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;ls --color=tty\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.083280,
+      "0     devnull            \u001b[0m\u001b[01;36minitrd.img\u001b[0m  \u001b[01;34mlive-build\u001b[0m  \u001b[01;34mopt\u001b[0m   \u001b[01;34msbin\u001b[0m     \u001b[30;42mtmp\u001b[0m\r\n\u001b[01;34mbin\u001b[0m   \u001b[01;34metc\u001b[0m                \u001b[01;34mlib\u001b[0m         \u001b[01;34mlost+found\u001b[0m  \u001b[01;34mproc\u001b[0m  \u001b[01;34mselinux\u001b[0m  \u001b[01;34musr\u001b[0m\r\n\u001b[01;34mboot\u001b[0m  example.conf.json  \u001b[01;34mlib32\u001b[0m       \u001b[01;34mmedia\u001b[0m       \u001b[01;34mroot\u001b[0m  \u001b[01;34msrv\u001b[0m      \u001b[01;34mvar\u001b[0m\r\n\u001b[01;34mdev\u001b[0m   \u001b[01;34mhome\u001b[0m               \u001b[01;34mlib64\u001b[0m       \u001b[01;34mmnt\u001b[0m         \u001b[01;34mrun\u001b[0m   \u001b[01;34msys\u001b[0m      \u001b[01;36mvmlinuz\u001b[0m\r\n"
+    ],
+    [
+      0.000211,
+      "\u001b[1m\u001b[7m#\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;root@kali: /\u0007\u001b]1;/\u0007"
+    ],
+    [
+      0.183506,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35mroot@\u001b[35mkali\u001b[00m \u001b[34m/\u001b[00m$ \u001b[K\u001b[64C \u001b[00m\u001b[00m \u001b[66D\u001b[?1h\u001b="
+    ],
+    [
+      3.921636,
+      "e"
+    ],
+    [
+      0.271780,
+      "\u0008ex"
+    ],
+    [
+      0.204378,
+      "i"
+    ],
+    [
+      0.114469,
+      "t"
+    ],
+    [
+      0.261336,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;exit\u0007\u001b]1;exit\u0007"
+    ]
+  ]
+}
