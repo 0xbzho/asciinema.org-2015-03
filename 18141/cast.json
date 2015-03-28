@@ -1,0 +1,3246 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 694.541370,
+  "command": "/bin/bash",
+  "title": "=vagrant",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.004916,
+      "matthew@penguin:~$ "
+    ],
+    [
+      30.232104,
+      "w"
+    ],
+    [
+      0.376200,
+      "g"
+    ],
+    [
+      0.087528,
+      "e"
+    ],
+    [
+      0.088177,
+      "t"
+    ],
+    [
+      0.072045,
+      " "
+    ],
+    [
+      0.948498,
+      "https://dl.bintray.com/mitchellh/vagrant/vagrant_1.7.2_x \r86_64.deb"
+    ],
+    [
+      5.337840,
+      "\r\n"
+    ],
+    [
+      0.052381,
+      "--2015-03-28 09:12:38--  https://dl.bintray.com/mitchellh/vagrant/vagrant_1.7.2_x86_64.deb\r\n"
+    ],
+    [
+      0.011176,
+      "Resolving dl.bintray.com (dl.bintray.com)... "
+    ],
+    [
+      0.037581,
+      "5.153.24.114\r\nConnecting to dl.bintray.com (dl.bintray.com)|5.153.24.114|:443... "
+    ],
+    [
+      0.037546,
+      "connected.\r\n"
+    ],
+    [
+      0.116160,
+      "HTTP request sent, awaiting response... "
+    ],
+    [
+      0.059693,
+      "302 \r\nLocation: https://d29vzk4ow07wi7.cloudfront.net/68f0821b5a8feb5968593125bdc2d8e4e458c2b1?response-content-disposition=attachment%3Bfilename%3D%22vagrant_1.7.2_x86_64.deb%22\u0026Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHAqOi8vZDI5dnprNG93MDd3aTcuY2xvdWRmcm9udC5uZXQvNjhmMDgyMWI1YThmZWI1OTY4NTkzMTI1YmRjMmQ4ZTRlNDU4YzJiMT9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPWF0dGFjaG1lbnQlM0JmaWxlbmFtZSUzRCUyMnZhZ3JhbnRfMS43LjJfeDg2XzY0LmRlYiUyMiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTQyNzUzNDAxOH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_\u0026Signature=PdKKUGmNYK6TeHKvLjZd3PEB0pOouQzzhxMTQ5LbBF4Ykel5MIraki~1-L8~dKu1qmymtQovTk10w-yBIwoA5y716f1NfOUdBaV-gqJ7pVsnqbmkBO0OnK9cpfFvRQPtc7yzDeG96s8SC~QIpMxNs-H0JI2HIXB8vP9cQOYEebEfmmfY4cn3yzKmia9h2mQBwf9VWaUCNQLtZelkmdARx2Ojer8tWEH-5MRbL2BKLZPyz29yT4l08EZtFhVugVigAQgGIarxZJl7i8G6Ivk5jjTdM54XGrkCoveLziECJ14VoyYVFyJddoUjt7gAcwhpftH9~8zr2~O~fCKNxMLTMA__\u0026Key-Pair-Id=APKAIQIOJCQ5764M5VTQ [following]\r\n--2015-03-28 09:12:38--  https://d29vzk4ow07wi7.cloudfront.net/68f0821b5a8feb5968593125bdc2d8e4e458c2b1?response-content-disposition=attachment%3Bfilename%3D%22vagrant_1.7.2_x86_64.deb%22\u0026Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHAqOi8vZDI5dnprNG93MDd3aTcuY2xvdWRmcm9udC5uZXQvNjhmMDgyMWI1YThmZWI1OTY4NTkzMTI1YmRjMmQ4ZTRlNDU4YzJiMT9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPWF0dGFjaG1lbnQlM0JmaWxlbmFtZSUzRCUyMnZhZ3JhbnRfMS43LjJfeDg2XzY0LmRlYiUyMiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTQyNzUzNDAxOH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_\u0026Signature=PdKKUGmNYK6TeHKvLjZd3PEB0pOouQzzhxMTQ5LbBF4Ykel5MIraki~1-L8~dKu1qmymtQovTk10w-yBIwoA5y716f1NfOUdBaV-gqJ7pVsnqbmkBO0OnK9cpfFvRQPtc7yzDeG96s8SC~QIpMxNs-H0JI2HIXB8vP9cQOYEebEfmmfY4cn3yzKmia9h2mQBwf9VWaUCNQLtZelkmdARx2Ojer8tWEH-5MRbL2BKLZPyz29yT4l08EZtFhVugVigAQgGIarxZJl7i8G6Ivk5jjTdM54XGrkCoveLziECJ14VoyYVFyJddoUjt7gAcwhpftH9~8zr2~O~fCKNxMLTMA__\u0026Key-Pair-Id=APKAIQIOJCQ5764M5VTQ\r\nResolving d29vzk4ow07wi7.cloudfront.net (d29vzk4ow07wi7.cloudfront.net)... "
+    ],
+    [
+      0.174689,
+      "54.230.196.147, 54.239.164.125, 54.230.196.180, ...\r\nConnecting to d29vzk4ow07wi7.cloudfront.net (d29vzk4ow07wi7.cloudfront.net)|54.230.196.147|:443... "
+    ],
+    [
+      0.029185,
+      "connected.\r\n"
+    ],
+    [
+      0.079868,
+      "HTTP request sent, awaiting response... "
+    ],
+    [
+      0.038569,
+      "200 OK\r\nLength: 70528150 (67M) [application/unknown]\r\nSaving to: ‘vagrant_1.7.2_x86_64.deb’\r\n\r\n\r 0% [                                       ] 0           --.-K/s              "
+    ],
+    [
+      0.204188,
+      "\r 0% [                                       ] 265,160     1.24MB/s             "
+    ],
+    [
+      0.200423,
+      "\r 1% [                                       ] 1,117,128   2.63MB/s             "
+    ],
+    [
+      0.202466,
+      "\r 2% [\u003e                                      ] 2,001,864   3.15MB/s             "
+    ],
+    [
+      0.201465,
+      "\r 4% [\u003e                                      ] 2,902,984   3.42MB/s             "
+    ],
+    [
+      0.200963,
+      "\r 5% [=\u003e                                     ] 3,787,720   3.58MB/s             "
+    ],
+    [
+      0.200079,
+      "\r 6% [=\u003e                                     ] 4,672,456   3.68MB/s             "
+    ],
+    [
+      0.203391,
+      "\r 7% [==\u003e                                    ] 5,557,192   3.75MB/s             "
+    ],
+    [
+      0.200908,
+      "\r 9% [==\u003e                                    ] 6,458,312   3.82MB/s             "
+    ],
+    [
+      0.875178,
+      "\r10% [===\u003e                                   ] 7,277,512   2.79MB/s             "
+    ],
+    [
+      0.230595,
+      "\r14% [====\u003e                                  ] 10,466,266  3.67MB/s             "
+    ],
+    [
+      0.200334,
+      "\r15% [=====\u003e                                 ] 11,187,162  3.65MB/s             "
+    ],
+    [
+      0.205088,
+      "\r17% [=====\u003e                                 ] 12,088,282  3.69MB/s  eta 15s    "
+    ],
+    [
+      0.201368,
+      "\r18% [======\u003e                                ] 12,973,018  3.72MB/s  eta 15s    "
+    ],
+    [
+      0.202536,
+      "\r19% [======\u003e                                ] 13,874,138  3.75MB/s  eta 15s    "
+    ],
+    [
+      0.203529,
+      "\r"
+    ],
+    [
+      0.000744,
+      "20% [=======\u003e                               ] 14,775,258  3.78MB/s  eta 15s    "
+    ],
+    [
+      0.203311,
+      "\r22% [=======\u003e                               ] 15,659,994  3.92MB/s  eta 15s    "
+    ],
+    [
+      0.200895,
+      "\r23% [========\u003e                              ] 16,561,114  3.95MB/s  eta 13s    "
+    ],
+    [
+      0.204675,
+      "\r24% [========\u003e                              ] 17,380,314  3.94MB/s  eta 13s    "
+    ],
+    [
+      0.201655,
+      "\r25% [========\u003e                              ] 17,757,146  3.80MB/s  eta 13s    "
+    ],
+    [
+      0.216805,
+      "\r25% [=========\u003e                             ] 18,150,362  3.66MB/s  eta 13s    "
+    ],
+    [
+      0.207001,
+      "\r26% [=========\u003e                             ] 18,559,962  3.52MB/s  eta 13s    "
+    ],
+    [
+      0.200436,
+      "\r26% [=========\u003e                             ] 18,969,562  3.41MB/s  eta 14s    "
+    ],
+    [
+      0.208505,
+      "\r27% [=========\u003e                             ] 19,379,162  3.30MB/s  eta 14s    "
+    ],
+    [
+      0.211983,
+      "\r28% [=========\u003e                             ] 19,821,530  3.86MB/s  eta 14s    "
+    ],
+    [
+      0.202293,
+      "\r28% [==========\u003e                            ] 20,247,514  3.05MB/s  eta 14s    "
+    ],
+    [
+      0.200582,
+      "\r29% [==========\u003e                            ] 20,673,498  2.98MB/s  eta 14s    "
+    ],
+    [
+      0.203022,
+      "\r29% [==========\u003e                            ] 21,132,250  2.88MB/s  eta 14s    "
+    ],
+    [
+      0.203828,
+      "\r30% [==========\u003e                            ] 21,656,538  2.72MB/s  eta 14s    "
+    ],
+    [
+      0.202913,
+      "\r31% [===========\u003e                           ] 22,164,442  2.63MB/s  eta 14s    "
+    ],
+    [
+      0.210743,
+      "\r32% [===========\u003e                           ] 22,721,498  2.46MB/s  eta 14s    "
+    ],
+    [
+      0.209974,
+      "\r33% [===========\u003e                           ] 23,294,938  2.38MB/s  eta 14s    "
+    ],
+    [
+      0.202019,
+      "\r33% [============\u003e                          ] 23,851,994  2.31MB/s  eta 14s    "
+    ],
+    [
+      0.206392,
+      "\r34% [============\u003e                          ] 24,458,202  2.18MB/s  eta 14s    "
+    ],
+    [
+      0.200356,
+      "\r35% [============\u003e                          ] 25,031,642  2.24MB/s  eta 14s    "
+    ],
+    [
+      0.202092,
+      "\r36% [=============\u003e                         ] 25,654,234  2.31MB/s  eta 14s    "
+    ],
+    [
+      0.202718,
+      "\r37% [=============\u003e                         ] 26,276,826  2.40MB/s  eta 14s    "
+    ],
+    [
+      0.203443,
+      "\r38% [=============\u003e                         ] 26,915,802  2.46MB/s  eta 13s    "
+    ],
+    [
+      0.201593,
+      "\r39% [==============\u003e                        ] 27,587,546  2.53MB/s  eta 13s    "
+    ],
+    [
+      0.203181,
+      "\r40% [==============\u003e                        ] 28,259,290  2.60MB/s  eta 13s    "
+    ],
+    [
+      0.207022,
+      "\r41% [===============\u003e                       ] 28,947,418  2.70MB/s  eta 13s    "
+    ],
+    [
+      0.204744,
+      "\r42% [===============\u003e                       ] 29,651,930  2.78MB/s  eta 13s    "
+    ],
+    [
+      0.204310,
+      "\r43% [===============\u003e                       ] 30,340,058  2.84MB/s  eta 12s    "
+    ],
+    [
+      0.200252,
+      "\r43% [================\u003e                      ] 31,028,186  2.91MB/s  eta 12s    "
+    ],
+    [
+      0.201434,
+      "\r45% [================\u003e                      ] 31,765,466  2.97MB/s  eta 12s    "
+    ],
+    [
+      0.209106,
+      "\r46% [================\u003e                      ] 32,486,362  3.02MB/s  eta 12s    "
+    ],
+    [
+      0.201037,
+      "\r47% [=================\u003e                     ] 33,223,642  3.10MB/s  eta 12s    "
+    ],
+    [
+      0.200798,
+      "\r48% [=================\u003e                     ] 33,977,306  3.15MB/s  eta 11s    "
+    ],
+    [
+      0.200909,
+      "\r49% [==================\u003e                    ] 34,730,970  3.20MB/s  eta 11s    "
+    ],
+    [
+      0.202366,
+      "\r50% [==================\u003e                    ] 35,501,018  3.27MB/s  eta 11s    "
+    ],
+    [
+      0.200773,
+      "\r51% [===================\u003e                   ] 36,287,450  3.32MB/s  eta 11s    "
+    ],
+    [
+      0.208716,
+      "\r52% [===================\u003e                   ] 37,057,498  3.35MB/s  eta 11s    "
+    ],
+    [
+      0.203098,
+      "\r53% [===================\u003e                   ] 37,876,698  3.42MB/s  eta 10s    "
+    ],
+    [
+      0.204535,
+      "\r54% [====================\u003e                  ] 38,663,130  3.45MB/s  eta 10s    "
+    ],
+    [
+      0.202655,
+      "\r55% [====================\u003e                  ] 39,482,330  3.49MB/s  eta 10s    "
+    ],
+    [
+      0.200737,
+      "\r57% [=====================\u003e                 ] 40,301,530  3.55MB/s  eta 10s    "
+    ],
+    [
+      0.200115,
+      "\r58% [=====================\u003e                 ] 41,137,114  3.59MB/s  eta 10s    "
+    ],
+    [
+      0.206164,
+      "\r59% [======================\u003e                ] 42,005,466  3.64MB/s  eta 8s     "
+    ],
+    [
+      0.201419,
+      "\r60% [======================\u003e                ] 42,873,818  3.70MB/s  eta 8s     "
+    ],
+    [
+      0.203720,
+      "\r61% [=======================\u003e               ] 43,496,410  3.67MB/s  eta 8s     "
+    ],
+    [
+      0.212419,
+      "\r62% [=======================\u003e               ] 43,922,394  3.57MB/s  eta 8s     "
+    ],
+    [
+      0.206368,
+      "\r62% [=======================\u003e               ] 44,348,378  3.47MB/s  eta 8s     "
+    ],
+    [
+      0.213710,
+      "\r"
+    ],
+    [
+      0.000086,
+      "63% [=======================\u003e               ] 44,790,746  3.36MB/s  eta 8s     "
+    ],
+    [
+      0.202115,
+      "\r64% [========================\u003e              ] 45,233,114  3.26MB/s  eta 8s     "
+    ],
+    [
+      0.207518,
+      "\r64% [========================\u003e              ] 45,724,634  3.18MB/s  eta 8s     "
+    ],
+    [
+      0.207511,
+      "\r65% [========================\u003e              ] 46,216,154  3.09MB/s  eta 8s     "
+    ],
+    [
+      0.205933,
+      "\r66% [========================\u003e              ] 46,773,210  3.00MB/s  eta 8s     "
+    ],
+    [
+      0.205298,
+      "\r67% [=========================\u003e             ] 47,330,266  2.94MB/s  eta 7s     "
+    ],
+    [
+      0.201328,
+      "\r67% [=========================\u003e             ] 47,887,322  2.88MB/s  eta 7s     "
+    ],
+    [
+      0.201453,
+      "\r68% [=========================\u003e             ] 48,444,378  2.77MB/s  eta 7s     "
+    ],
+    [
+      0.203132,
+      "\r69% [==========================\u003e            ] 49,017,818  2.72MB/s  eta 7s     "
+    ],
+    [
+      0.200866,
+      "\r70% [==========================\u003e            ] 49,607,642  2.66MB/s  eta 7s     "
+    ],
+    [
+      0.200337,
+      "\r71% [==========================\u003e            ] 50,164,698  2.60MB/s  eta 6s     "
+    ],
+    [
+      0.211670,
+      "\r72% [===========================\u003e           ] 50,803,674  2.48MB/s  eta 6s     "
+    ],
+    [
+      0.203054,
+      "\r72% [===========================\u003e           ] 51,459,034  2.45MB/s  eta 6s     "
+    ],
+    [
+      0.201574,
+      "\r73% [===========================\u003e           ] 52,114,394  2.51MB/s  eta 6s     "
+    ],
+    [
+      0.204418,
+      "\r74% [============================\u003e          ] 52,753,370  2.60MB/s  eta 6s     "
+    ],
+    [
+      0.202234,
+      "\r75% [============================\u003e          ] 53,425,114  2.67MB/s  eta 5s     "
+    ],
+    [
+      0.207156,
+      "\r76% [============================\u003e          ] 54,080,474  2.72MB/s  eta 5s     "
+    ],
+    [
+      0.205956,
+      "\r77% [=============================\u003e         ] 54,801,370  2.82MB/s  eta 5s     "
+    ],
+    [
+      0.204723,
+      "\r78% [=============================\u003e         ] 55,505,882  2.87MB/s  eta 5s     "
+    ],
+    [
+      0.200964,
+      "\r79% [==============================\u003e        ] 56,226,778  2.93MB/s  eta 5s     "
+    ],
+    [
+      0.203023,
+      "\r80% [==============================\u003e        ] 56,964,058  3.00MB/s  eta 4s     "
+    ],
+    [
+      0.207809,
+      "\r"
+    ],
+    [
+      0.000016,
+      "81% [==============================\u003e        ] 57,684,954  3.05MB/s  eta 4s     "
+    ],
+    [
+      0.201115,
+      "\r82% [===============================\u003e       ] 58,438,618  3.09MB/s  eta 4s     "
+    ],
+    [
+      0.202190,
+      "\r"
+    ],
+    [
+      0.000016,
+      "83% [===============================\u003e       ] 59,192,282  3.17MB/s  eta 4s     "
+    ],
+    [
+      0.202278,
+      "\r84% [================================\u003e      ] 59,929,562  3.20MB/s  eta 4s     "
+    ],
+    [
+      0.200419,
+      "\r86% [================================\u003e      ] 60,715,994  3.27MB/s  eta 3s     "
+    ],
+    [
+      0.207010,
+      "\r87% [================================\u003e      ] 61,486,042  3.32MB/s  eta 3s     "
+    ],
+    [
+      0.200745,
+      "\r88% [=================================\u003e     ] 62,288,858  3.37MB/s  eta 3s     "
+    ],
+    [
+      0.202028,
+      "\r89% [=================================\u003e     ] 63,091,674  3.42MB/s  eta 3s     "
+    ],
+    [
+      0.205905,
+      "\r90% [==================================\u003e    ] 63,910,874  3.47MB/s  eta 3s     "
+    ],
+    [
+      0.201098,
+      "\r91% [==================================\u003e    ] 64,762,842  3.53MB/s  eta 2s     "
+    ],
+    [
+      0.202580,
+      "\r92% [===================================\u003e   ] 65,532,890  3.56MB/s  eta 2s     "
+    ],
+    [
+      0.200539,
+      "\r94% [===================================\u003e   ] 66,368,474  3.62MB/s  eta 2s     "
+    ],
+    [
+      0.204291,
+      "\r95% [====================================\u003e  ] 67,204,058  3.66MB/s  eta 2s     "
+    ],
+    [
+      0.201817,
+      "\r96% [====================================\u003e  ] 68,105,178  3.71MB/s  eta 2s     "
+    ],
+    [
+      0.202085,
+      "\r97% [=====================================\u003e ] 68,973,530  3.76MB/s  eta 0s     "
+    ],
+    [
+      0.200099,
+      "\r99% [=====================================\u003e ] 69,841,882  3.81MB/s  eta 0s     "
+    ],
+    [
+      0.158952,
+      "\r100%[======================================\u003e] 70,528,150  3.85MB/s   in 21s    \r\n\r\n2015-03-28 09:13:00 (3.23 MB/s) - ‘vagrant_1.7.2_x86_64.deb’ saved [70528150/70528150]\r\n\r\n"
+    ],
+    [
+      0.000237,
+      "matthew@penguin:~$ "
+    ],
+    [
+      2.559592,
+      "l"
+    ],
+    [
+      0.023309,
+      "s"
+    ],
+    [
+      0.455274,
+      "\r\n"
+    ],
+    [
+      0.001334,
+      "code\u0009   examples.desktop\u0009  Public       #TODO.org#\r\nDesktop    Firefox_wallpaper.png  record_term  vagrant_1.7.2_x86_64.deb\r\nDocuments  Music\u0009\u0009  Templates    Videos\r\ndotfiles   notes\u0009\u0009  todo.org\r\nDownloads  Pictures\u0009\u0009  todo.org~\r\n"
+    ],
+    [
+      0.000127,
+      "matthew@penguin:~$ "
+    ],
+    [
+      0.423750,
+      "c"
+    ],
+    [
+      0.077476,
+      "d"
+    ],
+    [
+      0.066607,
+      " "
+    ],
+    [
+      3.678350,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.305562,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.254022,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.266179,
+      "\u0007"
+    ],
+    [
+      17.080071,
+      "s"
+    ],
+    [
+      0.072318,
+      "u"
+    ],
+    [
+      0.149451,
+      "d"
+    ],
+    [
+      0.073987,
+      "o"
+    ],
+    [
+      0.070314,
+      " "
+    ],
+    [
+      1.031681,
+      "d"
+    ],
+    [
+      0.895857,
+      "p"
+    ],
+    [
+      0.616149,
+      "k"
+    ],
+    [
+      0.495469,
+      "g"
+    ],
+    [
+      0.016503,
+      " "
+    ],
+    [
+      2.321661,
+      "-"
+    ],
+    [
+      0.518757,
+      "i"
+    ],
+    [
+      0.071530,
+      " "
+    ],
+    [
+      2.608066,
+      "v"
+    ],
+    [
+      0.066613,
+      "agrant_1.7.2_x86_64.deb "
+    ],
+    [
+      0.639307,
+      "\u0008\u001b[K"
+    ],
+    [
+      1.718390,
+      "\r\n"
+    ],
+    [
+      0.003151,
+      "[sudo] password for matthew: "
+    ],
+    [
+      3.733172,
+      "\r\n"
+    ],
+    [
+      0.241802,
+      "Selecting previously unselected package vagrant.\r\n"
+    ],
+    [
+      0.000005,
+      "(Reading database ... \r"
+    ],
+    [
+      0.005769,
+      "(Reading database ... 5%\r"
+    ],
+    [
+      0.000008,
+      "(Reading database ... 10%\r"
+    ],
+    [
+      0.000016,
+      "(Reading database ... 15%\r"
+    ],
+    [
+      0.000029,
+      "(Reading database ... 20%\r"
+    ],
+    [
+      0.000030,
+      "(Reading database ... 25%\r"
+    ],
+    [
+      0.000038,
+      "(Reading database ... 30%\r"
+    ],
+    [
+      0.000049,
+      "(Reading database ... 35%\r"
+    ],
+    [
+      0.000041,
+      "(Reading database ... 40%\r"
+    ],
+    [
+      0.000028,
+      "(Reading database ... 45%\r"
+    ],
+    [
+      0.000043,
+      "(Reading database ... 50%\r"
+    ],
+    [
+      0.113816,
+      "(Reading database ... 55%\r"
+    ],
+    [
+      0.018976,
+      "(Reading database ... 60%\r"
+    ],
+    [
+      0.018095,
+      "(Reading database ... 65%\r"
+    ],
+    [
+      0.002905,
+      "(Reading database ... 70%\r"
+    ],
+    [
+      0.003587,
+      "(Reading database ... 75%\r"
+    ],
+    [
+      0.009609,
+      "(Reading database ... 80%\r"
+    ],
+    [
+      0.012533,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.008573,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.013237,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.012566,
+      "(Reading database ... 100%\r(Reading database ... "
+    ],
+    [
+      0.000006,
+      "355815 files and directories currently installed.)\r\n"
+    ],
+    [
+      0.041986,
+      "Preparing to unpack vagrant_1.7.2_x86_64.deb ...\r\n"
+    ],
+    [
+      0.071582,
+      "Unpacking vagrant (1:1.7.2) ...\r\n"
+    ],
+    [
+      5.044201,
+      "Setting up vagrant (1:1.7.2) ...\r\n"
+    ],
+    [
+      0.392297,
+      "matthew@penguin:~$ "
+    ],
+    [
+      17.195167,
+      "m"
+    ],
+    [
+      0.498585,
+      "k"
+    ],
+    [
+      0.255960,
+      "d"
+    ],
+    [
+      0.109652,
+      "i"
+    ],
+    [
+      0.098037,
+      "r"
+    ],
+    [
+      0.069740,
+      " "
+    ],
+    [
+      0.121817,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.072719,
+      " "
+    ],
+    [
+      1.493990,
+      "v"
+    ],
+    [
+      0.223917,
+      "agrant_1.7.2_x86_64.deb "
+    ],
+    [
+      0.535801,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.499872,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034090,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030783,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029524,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.028637,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.032198,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.032495,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029298,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.031157,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030541,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.032413,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030276,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.032419,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.150422,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.161881,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.176153,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.214010,
+      "\u0008\u001b[K"
+    ],
+    [
+      3.272448,
+      "_"
+    ],
+    [
+      0.313244,
+      "t"
+    ],
+    [
+      0.496447,
+      "u"
+    ],
+    [
+      0.213461,
+      "t"
+    ],
+    [
+      0.409153,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.161505,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.150421,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.143245,
+      "\u0008\u001b[K"
+    ],
+    [
+      1.824027,
+      "b"
+    ],
+    [
+      0.239808,
+      "o"
+    ],
+    [
+      0.098353,
+      "x"
+    ],
+    [
+      0.102573,
+      " "
+    ],
+    [
+      0.088222,
+      "\u0008\u001b[K"
+    ],
+    [
+      1.646883,
+      "\r\n"
+    ],
+    [
+      0.023722,
+      "matthew@penguin:~$ "
+    ],
+    [
+      0.368348,
+      "c"
+    ],
+    [
+      0.095703,
+      "d"
+    ],
+    [
+      0.442659,
+      " "
+    ],
+    [
+      0.559566,
+      "v"
+    ],
+    [
+      0.038056,
+      "\u0007agrant"
+    ],
+    [
+      2.089636,
+      "b"
+    ],
+    [
+      0.032521,
+      "ox/"
+    ],
+    [
+      0.761263,
+      "\r\nmatthew@penguin:~/vagrantbox$ "
+    ],
+    [
+      30.404747,
+      "v"
+    ],
+    [
+      0.095579,
+      "a"
+    ],
+    [
+      0.469534,
+      "g"
+    ],
+    [
+      0.204999,
+      "r"
+    ],
+    [
+      0.254431,
+      "a"
+    ],
+    [
+      0.129067,
+      "n"
+    ],
+    [
+      0.296237,
+      "t"
+    ],
+    [
+      0.087141,
+      " "
+    ],
+    [
+      0.401707,
+      "i"
+    ],
+    [
+      0.207668,
+      "n"
+    ],
+    [
+      0.215793,
+      "i"
+    ],
+    [
+      0.248048,
+      "t"
+    ],
+    [
+      0.053391,
+      " "
+    ],
+    [
+      4.504567,
+      "u"
+    ],
+    [
+      0.417795,
+      "b"
+    ],
+    [
+      0.190539,
+      "u"
+    ],
+    [
+      0.217839,
+      "n"
+    ],
+    [
+      0.247816,
+      "t"
+    ],
+    [
+      0.446581,
+      "u"
+    ],
+    [
+      1.696904,
+      "/"
+    ],
+    [
+      0.862269,
+      "t"
+    ],
+    [
+      0.562217,
+      "r"
+    ],
+    [
+      0.533871,
+      "u"
+    ],
+    [
+      0.271662,
+      "s"
+    ],
+    [
+      0.136055,
+      "t"
+    ],
+    [
+      0.255711,
+      "y"
+    ],
+    [
+      2.769779,
+      "6"
+    ],
+    [
+      0.166617,
+      "4"
+    ],
+    [
+      1.392300,
+      "\r\n"
+    ],
+    [
+      1.023585,
+      "\u001b[0mA `Vagrantfile` has been placed in this directory. You are now\r\nready to `vagrant up` your first virtual environment! Please read\r\nthe comments in the Vagrantfile as well as documentation on"
+    ],
+    [
+      0.000007,
+      "\r\n`vagrantup.com` for more information on using Vagrant.\u001b[0m\r\n"
+    ],
+    [
+      0.099710,
+      "matthew@penguin:~/vagrantbox$ "
+    ],
+    [
+      7.670650,
+      "v"
+    ],
+    [
+      0.101930,
+      "a"
+    ],
+    [
+      0.209630,
+      "g"
+    ],
+    [
+      0.158237,
+      "r"
+    ],
+    [
+      0.215902,
+      "a"
+    ],
+    [
+      0.114841,
+      "n"
+    ],
+    [
+      0.223148,
+      "t"
+    ],
+    [
+      0.057230,
+      " "
+    ],
+    [
+      0.373265,
+      "u"
+    ],
+    [
+      0.393935,
+      "p"
+    ],
+    [
+      1.096387,
+      "\r\n"
+    ],
+    [
+      1.347436,
+      "\u001b[0mBringing machine 'default' up with 'virtualbox' provider...\u001b[0m\r\n"
+    ],
+    [
+      0.298146,
+      "\u001b[1m==\u003e default: Box 'ubuntu/trusty64' could not be found. Attempting to find and install...\u001b[0m\r\n"
+    ],
+    [
+      0.000163,
+      "\u001b[0m    default: Box Provider: virtualbox\u001b[0m\r\n"
+    ],
+    [
+      0.000155,
+      "\u001b[0m    default: Box Version: \u003e= 0\u001b[0m\r\n"
+    ],
+    [
+      0.911159,
+      "\u001b[1m==\u003e default: Loading metadata for box 'ubuntu/trusty64'\u001b[0m\r\n"
+    ],
+    [
+      0.000790,
+      "\u001b[0m    default: URL: https://atlas.hashicorp.com/ubuntu/trusty64\u001b[0m\r\n"
+    ],
+    [
+      0.773794,
+      "\u001b[1m==\u003e default: Adding box 'ubuntu/trusty64' (v14.04) for provider: virtualbox\u001b[0m\r\n"
+    ],
+    [
+      0.008233,
+      "\u001b[0m    default: Downloading: https://atlas.hashicorp.com/ubuntu/boxes/trusty64/versions/14.04/providers/virtualbox.box\u001b[0m\r\n"
+    ],
+    [
+      0.933026,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000172,
+      "\u001b[0m    default: Progress: 0% (Rate: 0/s, Estimated time remaining: --:--:--)\u001b[0m"
+    ],
+    [
+      0.000255,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000138,
+      "\u001b[0m    default: Progress: 100% (Rate: 190/s, Estimated time remaining: --:--:--)\u001b[0m"
+    ],
+    [
+      1.494461,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000163,
+      "\u001b[0m    default: Progress: 0% (Rate: 609k/s, Estimated time remaining: 0:10:10)\u001b[0m"
+    ],
+    [
+      1.125372,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000260,
+      "\u001b[0m    default: Progress: 1% (Rate: 4320k/s, Estimated time remaining: 0:02:51)\u001b[0m"
+    ],
+    [
+      0.874437,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000651,
+      "\u001b[0m    default: Progress: 1% (Rate: 2912k/s, Estimated time remaining: 0:03:04)\u001b[0m"
+    ],
+    [
+      0.998989,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000179,
+      "\u001b[0m    default: Progress: 3% (Rate: 3850k/s, Estimated time remaining: 0:02:08)\u001b[0m"
+    ],
+    [
+      1.286703,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000245,
+      "\u001b[0m    default: Progress: 4% (Rate: 3968k/s, Estimated time remaining: 0:01:55)\u001b[0m"
+    ],
+    [
+      0.712869,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000424,
+      "\u001b[0m    default: Progress: 5% (Rate: 3480k/s, Estimated time remaining: 0:02:03)\u001b[0m"
+    ],
+    [
+      0.999356,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000843,
+      "\u001b[0m    default: Progress: 6% (Rate: 3584k/s, Estimated time remaining: 0:01:52)\u001b[0m"
+    ],
+    [
+      1.003009,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000461,
+      "\u001b[0m    default: Progress: 7% (Rate: 4178k/s, Estimated time remaining: 0:01:46)\u001b[0m"
+    ],
+    [
+      0.995567,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000210,
+      "\u001b[0m    default: Progress: 8% (Rate: 3629k/s, Estimated time remaining: 0:01:45)\u001b[0m"
+    ],
+    [
+      1.196194,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000058,
+      "\u001b[0m    default: Progress: 9% (Rate: 3779k/s, Estimated time remaining: 0:01:38)\u001b[0m"
+    ],
+    [
+      0.806612,
+      "\u001b[0m\r\u001b[K\u001b[0m\u001b[0m    default: Progress: 10% (Rate: 4203k/s, Estimated time remaining: 0:01:37)\u001b[0m"
+    ],
+    [
+      0.997689,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000617,
+      "\u001b[0m    default: Progress: 11% (Rate: 4169k/s, Estimated time remaining: 0:01:33)\u001b[0m"
+    ],
+    [
+      0.999274,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000136,
+      "\u001b[0m    default: Progress: 12% (Rate: 4169k/s, Estimated time remaining: 0:01:30)\u001b[0m"
+    ],
+    [
+      1.000888,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000674,
+      "\u001b[0m    default: Progress: 14% (Rate: 4341k/s, Estimated time remaining: 0:01:28)\u001b[0m"
+    ],
+    [
+      0.998308,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000094,
+      "\u001b[0m    default: Progress: 15% (Rate: 4192k/s, Estimated time remaining: 0:01:26)\u001b[0m"
+    ],
+    [
+      1.001292,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000211,
+      "\u001b[0m    default: Progress: 16% (Rate: 4265k/s, Estimated time remaining: 0:01:25)\u001b[0m"
+    ],
+    [
+      1.000034,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000401,
+      "\u001b[0m    default: Progress: 17% (Rate: 4064k/s, Estimated time remaining: 0:01:24)\u001b[0m"
+    ],
+    [
+      0.998771,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000404,
+      "\u001b[0m    default: Progress: 18% (Rate: 4008k/s, Estimated time remaining: 0:01:22)\u001b[0m"
+    ],
+    [
+      0.998793,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.002005,
+      "\u001b[0m    default: Progress: 19% (Rate: 4012k/s, Estimated time remaining: 0:01:21)\u001b[0m"
+    ],
+    [
+      0.998055,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000468,
+      "\u001b[0m    default: Progress: 20% (Rate: 3996k/s, Estimated time remaining: 0:01:19)\u001b[0m"
+    ],
+    [
+      1.002379,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000180,
+      "\u001b[0m    default: Progress: 21% (Rate: 4089k/s, Estimated time remaining: 0:01:17)\u001b[0m"
+    ],
+    [
+      0.998322,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000422,
+      "\u001b[0m    default: Progress: 22% (Rate: 4171k/s, Estimated time remaining: 0:01:16)\u001b[0m"
+    ],
+    [
+      0.998380,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000540,
+      "\u001b[0m    default: Progress: 23% (Rate: 4224k/s, Estimated time remaining: 0:01:14)\u001b[0m"
+    ],
+    [
+      0.999235,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000366,
+      "\u001b[0m    default: Progress: 25% (Rate: 4284k/s, Estimated time remaining: 0:01:13)\u001b[0m"
+    ],
+    [
+      0.999342,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000281,
+      "\u001b[0m    default: Progress: 26% (Rate: 4297k/s, Estimated time remaining: 0:01:11)\u001b[0m"
+    ],
+    [
+      0.999314,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000201,
+      "\u001b[0m    default: Progress: 27% (Rate: 4249k/s, Estimated time remaining: 0:01:10)\u001b[0m"
+    ],
+    [
+      0.999878,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000520,
+      "\u001b[0m    default: Progress: 28% (Rate: 4225k/s, Estimated time remaining: 0:01:09)\u001b[0m"
+    ],
+    [
+      1.000237,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000380,
+      "\u001b[0m    default: Progress: 29% (Rate: 4212k/s, Estimated time remaining: 0:01:07)\u001b[0m"
+    ],
+    [
+      0.999240,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.001406,
+      "\u001b[0m    default: Progress: 30% (Rate: 4204k/s, Estimated time remaining: 0:01:06)\u001b[0m"
+    ],
+    [
+      0.998870,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000473,
+      "\u001b[0m    default: Progress: 31% (Rate: 4204k/s, Estimated time remaining: 0:01:05)\u001b[0m"
+    ],
+    [
+      0.999791,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000540,
+      "\u001b[0m    default: Progress: 33% (Rate: 4259k/s, Estimated time remaining: 0:01:03)\u001b[0m"
+    ],
+    [
+      1.141930,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000435,
+      "\u001b[0m    default: Progress: 34% (Rate: 4291k/s, Estimated time remaining: 0:01:02)\u001b[0m"
+    ],
+    [
+      0.887292,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000161,
+      "\u001b[0m    default: Progress: 35% (Rate: 4009k/s, Estimated time remaining: 0:01:02)\u001b[0m"
+    ],
+    [
+      0.969614,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000442,
+      "\u001b[0m    default: Progress: 36% (Rate: 3887k/s, Estimated time remaining: 0:01:01)\u001b[0m"
+    ],
+    [
+      0.999416,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000399,
+      "\u001b[0m    default: Progress: 37% (Rate: 3990k/s, Estimated time remaining: 0:00:59)\u001b[0m"
+    ],
+    [
+      1.000980,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000319,
+      "\u001b[0m    default: Progress: 38% (Rate: 3952k/s, Estimated time remaining: 0:00:58)\u001b[0m"
+    ],
+    [
+      0.999849,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000230,
+      "\u001b[0m    default: Progress: 39% (Rate: 3878k/s, Estimated time remaining: 0:00:57)\u001b[0m"
+    ],
+    [
+      1.000031,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.001048,
+      "\u001b[0m    default: Progress: 40% (Rate: 4157k/s, Estimated time remaining: 0:00:56)\u001b[0m"
+    ],
+    [
+      0.997234,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000027,
+      "\u001b[0m    default: Progress: 41% (Rate: 4253k/s, Estimated time remaining: 0:00:55)\u001b[0m"
+    ],
+    [
+      0.998956,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000941,
+      "\u001b[0m    default: Progress: 42% (Rate: 4131k/s, Estimated time remaining: 0:00:54)\u001b[0m"
+    ],
+    [
+      0.999285,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.001057,
+      "\u001b[0m    default: Progress: 44% (Rate: 4169k/s, Estimated time remaining: 0:00:53)\u001b[0m"
+    ],
+    [
+      0.999098,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000244,
+      "\u001b[0m    default: Progress: 45% (Rate: 4236k/s, Estimated time remaining: 0:00:51)\u001b[0m"
+    ],
+    [
+      1.002123,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000177,
+      "\u001b[0m    default: Progress: 46% (Rate: 4256k/s, Estimated time remaining: 0:00:50)\u001b[0m"
+    ],
+    [
+      0.997617,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000422,
+      "\u001b[0m    default: Progress: 47% (Rate: 4283k/s, Estimated time remaining: 0:00:49)\u001b[0m"
+    ],
+    [
+      1.000604,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000470,
+      "\u001b[0m    default: Progress: 48% (Rate: 4304k/s, Estimated time remaining: 0:00:48)\u001b[0m"
+    ],
+    [
+      0.998431,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000128,
+      "\u001b[0m    default: Progress: 49% (Rate: 4300k/s, Estimated time remaining: 0:00:47)\u001b[0m"
+    ],
+    [
+      0.999759,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000454,
+      "\u001b[0m    default: Progress: 50% (Rate: 4294k/s, Estimated time remaining: 0:00:46)\u001b[0m"
+    ],
+    [
+      0.999674,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000358,
+      "\u001b[0m    default: Progress: 52% (Rate: 4291k/s, Estimated time remaining: 0:00:44)\u001b[0m"
+    ],
+    [
+      1.002879,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.001139,
+      "\u001b[0m    default: Progress: 53% (Rate: 4292k/s, Estimated time remaining: 0:00:43)\u001b[0m"
+    ],
+    [
+      0.995146,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.003227,
+      "\u001b[0m    default: Progress: 54% (Rate: 4288k/s, Estimated time remaining: 0:00:42)\u001b[0m"
+    ],
+    [
+      0.996889,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000323,
+      "\u001b[0m    default: Progress: 55% (Rate: 4291k/s, Estimated time remaining: 0:00:41)\u001b[0m"
+    ],
+    [
+      1.000371,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000507,
+      "\u001b[0m    default: Progress: 56% (Rate: 4300k/s, Estimated time remaining: 0:00:40)\u001b[0m"
+    ],
+    [
+      1.000402,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000651,
+      "\u001b[0m    default: Progress: 57% (Rate: 4307k/s, Estimated time remaining: 0:00:39)\u001b[0m"
+    ],
+    [
+      0.997994,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000151,
+      "\u001b[0m    default: Progress: 58% (Rate: 4307k/s, Estimated time remaining: 0:00:38)\u001b[0m"
+    ],
+    [
+      1.001288,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000808,
+      "\u001b[0m    default: Progress: 60% (Rate: 4300k/s, Estimated time remaining: 0:00:37)\u001b[0m"
+    ],
+    [
+      0.999627,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000029,
+      "\u001b[0m    default: Progress: 61% (Rate: 4280k/s, Estimated time remaining: 0:00:36)\u001b[0m"
+    ],
+    [
+      0.999013,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000034,
+      "\u001b[0m    default: Progress: 62% (Rate: 4085k/s, Estimated time remaining: 0:00:35)\u001b[0m"
+    ],
+    [
+      0.998947,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000152,
+      "\u001b[0m    default: Progress: 63% (Rate: 4041k/s, Estimated time remaining: 0:00:34)\u001b[0m"
+    ],
+    [
+      0.999444,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000270,
+      "\u001b[0m    default: Progress: 64% (Rate: 4003k/s, Estimated time remaining: 0:00:33)\u001b[0m"
+    ],
+    [
+      1.003219,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000477,
+      "\u001b[0m    default: Progress: 65% (Rate: 3996k/s, Estimated time remaining: 0:00:32)\u001b[0m"
+    ],
+    [
+      0.996654,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000619,
+      "\u001b[0m    default: Progress: 66% (Rate: 4016k/s, Estimated time remaining: 0:00:31)\u001b[0m"
+    ],
+    [
+      0.999231,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000125,
+      "\u001b[0m    default: Progress: 67% (Rate: 4215k/s, Estimated time remaining: 0:00:30)\u001b[0m"
+    ],
+    [
+      1.000735,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000205,
+      "\u001b[0m    default: Progress: 68% (Rate: 4256k/s, Estimated time remaining: 0:00:28)\u001b[0m"
+    ],
+    [
+      0.999291,
+      "\u001b[0m\r\u001b[K\u001b[0m\u001b[0m    default: Progress: 70% (Rate: 4291k/s, Estimated time remaining: 0:00:27)\u001b[0m"
+    ],
+    [
+      1.002991,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000125,
+      "\u001b[0m    default: Progress: 71% (Rate: 4233k/s, Estimated time remaining: 0:00:26)\u001b[0m"
+    ],
+    [
+      0.998225,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000278,
+      "\u001b[0m    default: Progress: 72% (Rate: 4235k/s, Estimated time remaining: 0:00:25)\u001b[0m"
+    ],
+    [
+      1.000817,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000569,
+      "\u001b[0m    default: Progress: 73% (Rate: 4235k/s, Estimated time remaining: 0:00:24)\u001b[0m"
+    ],
+    [
+      0.997657,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000509,
+      "\u001b[0m    default: Progress: 74% (Rate: 4236k/s, Estimated time remaining: 0:00:23)\u001b[0m"
+    ],
+    [
+      0.998301,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000712,
+      "\u001b[0m    default: Progress: 75% (Rate: 4240k/s, Estimated time remaining: 0:00:22)\u001b[0m"
+    ],
+    [
+      1.001257,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000420,
+      "\u001b[0m    default: Progress: 76% (Rate: 4313k/s, Estimated time remaining: 0:00:21)\u001b[0m"
+    ],
+    [
+      1.001519,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000139,
+      "\u001b[0m    default: Progress: 78% (Rate: 4313k/s, Estimated time remaining: 0:00:20)\u001b[0m"
+    ],
+    [
+      0.997048,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000313,
+      "\u001b[0m    default: Progress: 79% (Rate: 4311k/s, Estimated time remaining: 0:00:19)\u001b[0m"
+    ],
+    [
+      0.999494,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000500,
+      "\u001b[0m    default: Progress: 80% (Rate: 4310k/s, Estimated time remaining: 0:00:18)\u001b[0m"
+    ],
+    [
+      0.998508,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000257,
+      "\u001b[0m    default: Progress: 81% (Rate: 4313k/s, Estimated time remaining: 0:00:17)\u001b[0m"
+    ],
+    [
+      1.000713,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000453,
+      "\u001b[0m    default: Progress: 82% (Rate: 4310k/s, Estimated time remaining: 0:00:16)\u001b[0m"
+    ],
+    [
+      0.998554,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.001154,
+      "\u001b[0m    default: Progress: 83% (Rate: 4311k/s, Estimated time remaining: 0:00:15)\u001b[0m"
+    ],
+    [
+      1.000224,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000139,
+      "\u001b[0m    default: Progress: 85% (Rate: 4296k/s, Estimated time remaining: 0:00:14)\u001b[0m"
+    ],
+    [
+      0.999451,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000139,
+      "\u001b[0m    default: Progress: 86% (Rate: 4300k/s, Estimated time remaining: 0:00:12)\u001b[0m"
+    ],
+    [
+      1.002114,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000148,
+      "\u001b[0m    default: Progress: 87% (Rate: 4290k/s, Estimated time remaining: 0:00:11)\u001b[0m"
+    ],
+    [
+      0.997136,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000441,
+      "\u001b[0m    default: Progress: 88% (Rate: 4285k/s, Estimated time remaining: 0:00:10)\u001b[0m"
+    ],
+    [
+      0.999862,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000206,
+      "\u001b[0m    default: Progress: 89% (Rate: 4185k/s, Estimated time remaining: 0:00:09)\u001b[0m"
+    ],
+    [
+      0.999160,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000083,
+      "\u001b[0m    default: Progress: 90% (Rate: 4096k/s, Estimated time remaining: 0:00:09)\u001b[0m"
+    ],
+    [
+      1.001019,
+      "\u001b[0m\r\u001b[K\u001b[0m\u001b[0m    default: Progress: 91% (Rate: 4042k/s, Estimated time remaining: 0:00:08)\u001b[0m"
+    ],
+    [
+      1.050142,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000201,
+      "\u001b[0m    default: Progress: 92% (Rate: 4006k/s, Estimated time remaining: 0:00:07)\u001b[0m"
+    ],
+    [
+      0.948734,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000254,
+      "\u001b[0m    default: Progress: 93% (Rate: 3976k/s, Estimated time remaining: 0:00:06)\u001b[0m"
+    ],
+    [
+      0.999501,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000230,
+      "\u001b[0m    default: Progress: 94% (Rate: 4057k/s, Estimated time remaining: 0:00:04)\u001b[0m"
+    ],
+    [
+      1.002348,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000396,
+      "\u001b[0m    default: Progress: 96% (Rate: 4153k/s, Estimated time remaining: 0:00:03)\u001b[0m"
+    ],
+    [
+      0.997336,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000409,
+      "\u001b[0m    default: Progress: 97% (Rate: 4203k/s, Estimated time remaining: 0:00:02)\u001b[0m"
+    ],
+    [
+      1.000575,
+      "\u001b[0m\r\u001b[K\u001b[0m\u001b[0m    default: Progress: 98% (Rate: 4246k/s, Estimated time remaining: 0:00:01)\u001b[0m"
+    ],
+    [
+      0.360902,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000173,
+      "\u001b[0m    default: Progress: 99% (Rate: 4275k/s, Estimated time remaining: --:--:--)\u001b[0m"
+    ],
+    [
+      0.003157,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      2.043121,
+      "\u001b[1;32m==\u003e default: Successfully added box 'ubuntu/trusty64' (v14.04) for 'virtualbox'!\u001b[0m\r\n"
+    ],
+    [
+      0.203762,
+      "\u001b[1m==\u003e default: Importing base box 'ubuntu/trusty64'...\u001b[0m\r\n"
+    ],
+    [
+      11.359853,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000140,
+      "\u001b[0mProgress: 90%\u001b[0m"
+    ],
+    [
+      6.410789,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000366,
+      "\u001b[1m==\u003e default: Matching MAC address for NAT networking...\u001b[0m\r\n"
+    ],
+    [
+      0.174507,
+      "\u001b[1m==\u003e default: Checking if box 'ubuntu/trusty64' is up to date...\u001b[0m\r\n"
+    ],
+    [
+      1.221124,
+      "\u001b[1m==\u003e default: Setting the name of the VM: vagrantbox_default_1427534237232_14578\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.286447,
+      "\u001b[1m==\u003e default: Clearing any previously set forwarded ports...\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.721471,
+      "\u001b[1m==\u003e default: Clearing any previously set network interfaces...\u001b[0m\r\n"
+    ],
+    [
+      0.161315,
+      "\u001b[1m==\u003e default: Preparing network interfaces based on configuration...\u001b[0m\r\n"
+    ],
+    [
+      0.000262,
+      "\u001b[0m    default: Adapter 1: nat\u001b[0m\r\n"
+    ],
+    [
+      0.098821,
+      "\u001b[1m==\u003e default: Forwarding ports...\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.060482,
+      "\u001b[0m    default: 22 =\u003e 2222 (adapter 1)\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.431897,
+      "\u001b[1m==\u003e default: Booting VM...\u001b[0m\r\n"
+    ],
+    [
+      0.262632,
+      "\u001b[1m==\u003e default: Waiting for machine to boot. This may take a few minutes...\u001b[0m\r\n"
+    ],
+    [
+      1.072929,
+      "\u001b[0;31mThe guest machine entered an invalid state while waiting for it\r\nto boot. Valid states are 'starting, running'. The machine is in the\r\n'poweroff' state. Please verify everything is configured"
+    ],
+    [
+      0.000011,
+      "\r\nproperly and try again.\r\n\r\nIf the provider you're using has a GUI that comes with it,\r\nit is often helpful to open that and watch the machine, since the\r\nGUI often has more helpful error messages than Vagrant can retrieve.\r\nFor example, if you're using VirtualBox, run `vagrant up` while the\r\nVirtualBox GUI is open.\u001b[0m\r\n"
+    ],
+    [
+      0.025916,
+      "matthew@penguin:~/vagrantbox$ "
+    ],
+    [
+      32.376597,
+      "vagrant up"
+    ],
+    [
+      0.210565,
+      "\u0008\u0008init ubuntu/trusty64"
+    ],
+    [
+      0.628943,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008up\u001b[K"
+    ],
+    [
+      0.328584,
+      "\r\n"
+    ],
+    [
+      1.498905,
+      "\u001b[0mBringing machine 'default' up with 'virtualbox' provider...\u001b[0m\r\n"
+    ],
+    [
+      0.497069,
+      "\u001b[1m==\u003e default: Checking if box 'ubuntu/trusty64' is up to date...\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      1.386486,
+      "\u001b[1m==\u003e default: Clearing any previously set forwarded ports...\u001b[0m\r\n"
+    ],
+    [
+      0.771216,
+      "\u001b[1m==\u003e default: Clearing any previously set network interfaces...\u001b[0m\r\n"
+    ],
+    [
+      0.113948,
+      "\u001b[1m==\u003e default: Preparing network interfaces based on configuration...\u001b[0m\r\n"
+    ],
+    [
+      0.000256,
+      "\u001b[0m    default: Adapter 1: nat\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.127303,
+      "\u001b[1m==\u003e default: Forwarding ports...\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.078788,
+      "\u001b[0m    default: 22 =\u003e 2222 (adapter 1)\u001b[0m\r\n"
+    ],
+    [
+      0.559361,
+      "\u001b[1m==\u003e default: Booting VM...\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.300209,
+      "\u001b[1m==\u003e default: Waiting for machine to boot. This may take a few minutes...\u001b[0m"
+    ],
+    [
+      0.007872,
+      "\r\n"
+    ],
+    [
+      1.010706,
+      "\u001b[0;31mThe guest machine entered an invalid state while waiting for it\r\nto boot. Valid states are 'starting, running'. The machine is in the\r\n'poweroff' state. Please verify everything is configured\r\nproperly and try again.\r\n\r\nIf the provider you're using has a GUI that comes with it,\r\nit is often helpful to open that and watch the machine, since the\r\nGUI often has more helpful error messages than Vagrant can retrieve.\r\nFor example, if you're using VirtualBox, run `vagrant up` while the\r\nVirtualBox GUI is open.\u001b[0m\r\n"
+    ],
+    [
+      0.024027,
+      "matthew@penguin:~/vagrantbox$ "
+    ],
+    [
+      57.296863,
+      "udo modprobe vboxnetflt"
+    ],
+    [
+      1.847465,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.511192,
+      "\u001b[1@s"
+    ],
+    [
+      0.242152,
+      "\r\n"
+    ],
+    [
+      0.008008,
+      "matthew@penguin:~/vagrantbox$ "
+    ],
+    [
+      1.904324,
+      "sudo modprobe vboxnetflt"
+    ],
+    [
+      0.175159,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[14Pvagrant up"
+    ],
+    [
+      0.774907,
+      "\r\n"
+    ],
+    [
+      1.552953,
+      "\u001b[0mBringing machine 'default' up with 'virtualbox' provider...\u001b[0m\r\n"
+    ],
+    [
+      0.472168,
+      "\u001b[1m==\u003e default: Checking if box 'ubuntu/trusty64' is up to date...\u001b[0m\r\n"
+    ],
+    [
+      1.438040,
+      "\u001b[1m==\u003e default: Clearing any previously set forwarded ports...\u001b[0m\r\n"
+    ],
+    [
+      0.801782,
+      "\u001b[1m==\u003e default: Clearing any previously set network interfaces...\u001b[0m"
+    ],
+    [
+      0.000043,
+      "\r\n"
+    ],
+    [
+      0.202816,
+      "\u001b[1m==\u003e default: Preparing network interfaces based on configuration...\u001b[0m\r\n"
+    ],
+    [
+      0.000363,
+      "\u001b[0m    default: Adapter 1: nat\u001b[0m\r\n"
+    ],
+    [
+      0.106559,
+      "\u001b[1m==\u003e default: Forwarding ports...\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.077238,
+      "\u001b[0m    default: 22 =\u003e 2222 (adapter 1)\u001b[0m\r\n"
+    ],
+    [
+      0.532582,
+      "\u001b[1m==\u003e default: Booting VM...\u001b[0m\r\n"
+    ],
+    [
+      0.264566,
+      "\u001b[1m==\u003e default: Waiting for machine to boot. This may take a few minutes...\u001b[0m"
+    ],
+    [
+      0.001121,
+      "\r\n"
+    ],
+    [
+      1.029460,
+      "\u001b[0;31mThe guest machine entered an invalid state while waiting for it\r\nto boot. Valid states are 'starting, running'. The machine is in the\r\n'poweroff' state. Please verify everything is configured\r\nproperly and try again.\r\n\r\nIf the provider you're using has a GUI that comes with it,\r\nit is often helpful to open that and watch the machine, since the\r\nGUI often has more helpful error messages than Vagrant can retrieve.\r\nFor example, if you're using VirtualBox, run `vagrant up` while the\r\nVirtualBox GUI is open.\u001b[0m\r\n"
+    ],
+    [
+      0.023212,
+      "matthew@penguin:~/vagrantbox$ "
+    ],
+    [
+      12.485810,
+      "sudo dpkg-reconfigure virtualbox-dkms"
+    ],
+    [
+      0.404793,
+      "\r\n"
+    ],
+    [
+      0.667917,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "-------- Uninstall Beginning --------\r\n"
+    ],
+    [
+      0.000012,
+      "Module:  virtualbox\r\n"
+    ],
+    [
+      0.000091,
+      "Version: 4.3.10\r\nKernel:  3.13.0-46-generic (x86_64)\r\n-------------------------------------\r\n"
+    ],
+    [
+      0.007295,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "Status: Before uninstall, this module version was ACTIVE on this kernel.\r\n"
+    ],
+    [
+      0.004645,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "vboxdrv.ko:\r\n"
+    ],
+    [
+      0.000019,
+      " - Uninstallation"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "   - Deleting from: /lib/modules/3.13.0-46-generic/updates/dkms/\r\n"
+    ],
+    [
+      0.007758,
+      " - Original module\r\n"
+    ],
+    [
+      0.000040,
+      "   - No original module was found for this module on this kernel."
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "   - Use the dkms install command to reinstall any previous module version."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.041055,
+      "\r\n"
+    ],
+    [
+      0.007943,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "vboxnetadp.ko:"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      " - Uninstallation\r\n"
+    ],
+    [
+      0.000042,
+      "   - Deleting from: /lib/modules/3.13.0-46-generic/updates/dkms/\r\n"
+    ],
+    [
+      0.003564,
+      " - Original module\r\n"
+    ],
+    [
+      0.000150,
+      "   - No original module was found for this module on this kernel.\r\n"
+    ],
+    [
+      0.000030,
+      "   - Use the dkms install command to reinstall any previous module version."
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.044994,
+      "\r\n"
+    ],
+    [
+      0.011621,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "vboxnetflt.ko:"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      " - Uninstallation"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "   - Deleting from: /lib/modules/3.13.0-46-generic/updates/dkms/"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.002261,
+      " - Original module\r\n"
+    ],
+    [
+      0.000093,
+      "   - No original module was found for this module on this kernel.\r\n   - Use the dkms install command to reinstall any previous module version.\r\n"
+    ],
+    [
+      0.041344,
+      "\r\n"
+    ],
+    [
+      0.007892,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "vboxpci.ko:\r\n"
+    ],
+    [
+      0.000025,
+      " - Uninstallation"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "   - Deleting from: /lib/modules/3.13.0-46-generic/updates/dkms/\r\n"
+    ],
+    [
+      0.003159,
+      " - Original module\r\n"
+    ],
+    [
+      0.000077,
+      "   - No original module was found for this module on this kernel."
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "   - Use the dkms install command to reinstall any previous module version."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.046329,
+      "\r\n"
+    ],
+    [
+      0.007379,
+      "depmod..."
+    ],
+    [
+      3.009520,
+      "."
+    ],
+    [
+      0.002320,
+      "\r\n"
+    ],
+    [
+      0.006481,
+      "\r\nDKMS: uninstall completed.\r\n"
+    ],
+    [
+      0.012318,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "------------------------------\r\n"
+    ],
+    [
+      0.000016,
+      "Deleting module version: 4.3.10"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "completely from the DKMS tree."
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "------------------------------"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.013146,
+      "Done.\r\n"
+    ],
+    [
+      0.064283,
+      "Loading new virtualbox-4.3.10 DKMS files...\r\n"
+    ],
+    [
+      0.106058,
+      "Building only for 3.13.0-46-generic"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.026185,
+      "Building initial module for 3.13.0-46-generic\r\n"
+    ],
+    [
+      36.191805,
+      "Done."
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.249189,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "vboxdrv:\r\n"
+    ],
+    [
+      0.000158,
+      "Running module version sanity check."
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.025554,
+      " - Original module\r\n"
+    ],
+    [
+      0.000199,
+      "   - No original module exists within this kernel\r\n"
+    ],
+    [
+      0.000012,
+      " - Installation"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "   - Installing to /lib/modules/3.13.0-46-generic/updates/dkms/\r\n"
+    ],
+    [
+      0.003166,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "vboxnetadp.ko:\r\n"
+    ],
+    [
+      0.000137,
+      "Running module version sanity check.\r\n"
+    ],
+    [
+      0.029619,
+      " - Original module"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000209,
+      "   - No original module exists within this kernel"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      " - Installation"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "   - Installing to /lib/modules/3.13.0-46-generic/updates/dkms/"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.002936,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "vboxnetflt.ko:"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000277,
+      "Running module version sanity check.\r\n"
+    ],
+    [
+      0.039320,
+      " - Original module\r\n"
+    ],
+    [
+      0.000314,
+      "   - No original module exists within this kernel\r\n"
+    ],
+    [
+      0.000022,
+      " - Installation\r\n"
+    ],
+    [
+      0.000038,
+      "   - Installing to /lib/modules/3.13.0-46-generic/updates/dkms/"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.002307,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "vboxpci.ko:\r\n"
+    ],
+    [
+      0.000178,
+      "Running module version sanity check."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.035450,
+      " - Original module\r\n   - No original module exists within this kernel\r\n - Installation\r\n   - Installing to /lib/modules/3.13.0-46-generic/updates/dkms/\r\n"
+    ],
+    [
+      0.007838,
+      "\r\n"
+    ],
+    [
+      0.004959,
+      "depmod..."
+    ],
+    [
+      3.003978,
+      "."
+    ],
+    [
+      0.001819,
+      "\r\n\r\nDKMS: install completed.\r\n"
+    ],
+    [
+      0.109927,
+      "matthew@penguin:~/vagrantbox$ "
+    ],
+    [
+      8.690562,
+      "sudo dpkg-reconfigure virtualbox"
+    ],
+    [
+      1.211891,
+      "\r\n"
+    ],
+    [
+      0.932308,
+      "matthew@penguin:~/vagrantbox$ "
+    ],
+    [
+      1.636110,
+      "sudo dpkg-reconfigure virtualbox"
+    ],
+    [
+      0.137610,
+      "-dkms"
+    ],
+    [
+      0.263590,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cvagrant up\u001b[K"
+    ],
+    [
+      0.496759,
+      "\r\n"
+    ],
+    [
+      1.568328,
+      "\u001b[0mBringing machine 'default' up with 'virtualbox' provider...\u001b[0m\r\n"
+    ],
+    [
+      0.515956,
+      "\u001b[1m==\u003e default: Checking if box 'ubuntu/trusty64' is up to date...\u001b[0m\r\n"
+    ],
+    [
+      1.372767,
+      "\u001b[1m==\u003e default: Clearing any previously set forwarded ports...\u001b[0m\r\n"
+    ],
+    [
+      0.819964,
+      "\u001b[1m==\u003e default: Clearing any previously set network interfaces...\u001b[0m\r\n"
+    ],
+    [
+      0.150726,
+      "\u001b[1m==\u003e default: Preparing network interfaces based on configuration...\u001b[0m\r\n"
+    ],
+    [
+      0.000330,
+      "\u001b[0m    default: Adapter 1: nat\u001b[0m\r\n"
+    ],
+    [
+      0.126514,
+      "\u001b[1m==\u003e default: Forwarding ports...\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.080309,
+      "\u001b[0m    default: 22 =\u003e 2222 (adapter 1)\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.541720,
+      "\u001b[1m==\u003e default: Booting VM...\u001b[0m"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.342381,
+      "\u001b[1m==\u003e default: Waiting for machine to boot. This may take a few minutes...\u001b[0m\r\n"
+    ],
+    [
+      1.019873,
+      "\u001b[0;31mThe guest machine entered an invalid state while waiting for it\r\nto boot. Valid states are 'starting, running'. The machine is in the\r\n'poweroff' state. Please verify everything is configured\r\nproperly and try again.\r\n\r\nIf the provider you're using has a GUI that comes with it,\r\nit is often helpful to open that and watch the machine, since the\r\nGUI often has more helpful error messages than Vagrant can retrieve.\r\nFor example, if you're using VirtualBox, run `vagrant up` while the\r\nVirtualBox GUI is open.\u001b[0m\r\n"
+    ],
+    [
+      0.032333,
+      "matthew@penguin:~/vagrantbox$ "
+    ],
+    [
+      110.066192,
+      "vagrant up"
+    ],
+    [
+      0.642175,
+      "\r\n"
+    ],
+    [
+      1.445611,
+      "\u001b[0mBringing machine 'default' up with 'virtualbox' provider...\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.407117,
+      "\u001b[1m==\u003e default: Checking if box 'ubuntu/trusty64' is up to date...\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      1.238470,
+      "\u001b[1m==\u003e default: Clearing any previously set forwarded ports...\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.656546,
+      "\u001b[1m==\u003e default: Clearing any previously set network interfaces...\u001b[0m\r\n"
+    ],
+    [
+      0.122101,
+      "\u001b[1m==\u003e default: Preparing network interfaces based on configuration...\u001b[0m\r\n"
+    ],
+    [
+      0.000371,
+      "\u001b[0m    default: Adapter 1: nat\u001b[0m\r\n"
+    ],
+    [
+      0.134143,
+      "\u001b[1m==\u003e default: Forwarding ports...\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.058190,
+      "\u001b[0m    default: 22 =\u003e 2222 (adapter 1)\u001b[0m"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.477629,
+      "\u001b[1m==\u003e default: Booting VM...\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.303126,
+      "\u001b[1m==\u003e default: Waiting for machine to boot. This may take a few minutes...\u001b[0m"
+    ],
+    [
+      0.009585,
+      "\r\n"
+    ],
+    [
+      1.011460,
+      "\u001b[0;31mThe guest machine entered an invalid state while waiting for it\r\nto boot. Valid states are 'starting, running'. The machine is in the\r\n'poweroff' state. Please verify everything is configured\r\nproperly and try again.\r\n\r\nIf the provider you're using has a GUI that comes with it,\r\nit is often helpful to open that and watch the machine, since the\r\nGUI often has more helpful error messages than Vagrant can retrieve.\r\nFor example, if you're using VirtualBox, run `vagrant up` while the\r\nVirtualBox GUI is open.\u001b[0m\r\n"
+    ],
+    [
+      0.024456,
+      "matthew@penguin:~/vagrantbox$ "
+    ],
+    [
+      51.685958,
+      "i"
+    ],
+    [
+      0.246567,
+      "s"
+    ],
+    [
+      0.111681,
+      "s"
+    ],
+    [
+      0.112283,
+      " "
+    ],
+    [
+      0.488260,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.167634,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.351985,
+      "s"
+    ],
+    [
+      0.473381,
+      "u"
+    ],
+    [
+      0.214562,
+      "w"
+    ],
+    [
+      0.127959,
+      " "
+    ],
+    [
+      0.393580,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.214465,
+      "e"
+    ],
+    [
+      0.223858,
+      " "
+    ],
+    [
+      0.329940,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.167510,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.134568,
+      "e"
+    ],
+    [
+      0.361810,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.118417,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.079984,
+      "e"
+    ],
+    [
+      0.127793,
+      " "
+    ],
+    [
+      0.201555,
+      "i"
+    ],
+    [
+      0.120127,
+      "s"
+    ],
+    [
+      0.110408,
+      " "
+    ],
+    [
+      0.216664,
+      "w"
+    ],
+    [
+      0.287993,
+      "i"
+    ],
+    [
+      0.240453,
+      "t"
+    ],
+    [
+      0.158984,
+      "h"
+    ],
+    [
+      0.104069,
+      " "
+    ],
+    [
+      0.231924,
+      "m"
+    ],
+    [
+      0.313563,
+      "y"
+    ],
+    [
+      0.103938,
+      " "
+    ],
+    [
+      0.350637,
+      "m"
+    ],
+    [
+      0.129340,
+      "a"
+    ],
+    [
+      0.967855,
+      "c"
+    ],
+    [
+      0.158494,
+      "h"
+    ],
+    [
+      0.185321,
+      "i"
+    ],
+    [
+      0.206661,
+      "n"
+    ],
+    [
+      0.072041,
+      "e"
+    ],
+    [
+      0.113904,
+      " "
+    ],
+    [
+      1.095369,
+      ":"
+    ],
+    [
+      0.359058,
+      "("
+    ],
+    [
+      1.192046,
+      "\u0007"
+    ],
+    [
+      0.289236,
+      "\u0008"
+    ],
+    [
+      0.230590,
+      "\u001b[C"
+    ],
+    [
+      0.369726,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.498938,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033083,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.028747,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.028770,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030245,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.031610,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.031093,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.031187,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029791,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.031145,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030396,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030202,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029041,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030971,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.032268,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.028146,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030199,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030033,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.032275,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029166,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029960,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030900,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.032914,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030986,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029629,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029166,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.031333,
+      "\u0007"
+    ],
+    [
+      0.029561,
+      "\u0007"
+    ],
+    [
+      0.030618,
+      "\u0007"
+    ],
+    [
+      0.028492,
+      "\u0007"
+    ],
+    [
+      0.030288,
+      "\u0007"
+    ],
+    [
+      0.031116,
+      "\u0007"
+    ],
+    [
+      0.031181,
+      "\u0007"
+    ],
+    [
+      0.029876,
+      "\u0007"
+    ],
+    [
+      0.448984,
+      "w"
+    ],
+    [
+      0.223335,
+      "i"
+    ],
+    [
+      0.207012,
+      "l"
+    ],
+    [
+      0.112823,
+      "l"
+    ],
+    [
+      0.096044,
+      " "
+    ],
+    [
+      0.238688,
+      "c"
+    ],
+    [
+      0.064042,
+      "o"
+    ],
+    [
+      0.249528,
+      "n"
+    ],
+    [
+      0.255909,
+      "t"
+    ],
+    [
+      0.208047,
+      "i"
+    ],
+    [
+      0.176524,
+      "n"
+    ],
+    [
+      0.230168,
+      "u"
+    ],
+    [
+      0.103661,
+      "e"
+    ],
+    [
+      0.057572,
+      " "
+    ],
+    [
+      0.254279,
+      "l"
+    ],
+    [
+      0.129861,
+      "a"
+    ],
+    [
+      0.231833,
+      "t"
+    ],
+    [
+      0.086523,
+      "e"
+    ],
+    [
+      0.137612,
+      "r"
+    ],
+    [
+      0.086426,
+      " "
+    ],
+    [
+      0.128031,
+      "\u0008\u001b[K"
+    ],
+    [
+      1.719846,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.501892,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030650,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030078,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030314,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.032207,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030175,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.028081,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033105,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.028727,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.031844,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.031218,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029243,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033290,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029093,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030802,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.028646,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.032506,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.031907,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029019,
+      "\u0007"
+    ],
+    [
+      0.028385,
+      "\u0007"
+    ],
+    [
+      0.029836,
+      "\u0007"
+    ],
+    [
+      0.031840,
+      "\u0007"
+    ],
+    [
+      0.031557,
+      "\u0007"
+    ],
+    [
+      0.028811,
+      "\u0007"
+    ],
+    [
+      0.029918,
+      "\u0007"
+    ],
+    [
+      1.065115,
+      "exit\r\n"
+    ]
+  ]
+}
