@@ -1,0 +1,186 @@
+{
+  "version": 1,
+  "width": 199,
+  "height": 50,
+  "duration": 8.392385,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.090124,
+      "\u001b]0;fii@kofi-laptop:~\u0007"
+    ],
+    [
+      0.000520,
+      "[fii@kofi-laptop ~]$ "
+    ],
+    [
+      3.199845,
+      "\u001b[H\u001b[2J[fii@kofi-laptop ~]$ "
+    ],
+    [
+      0.293003,
+      "l"
+    ],
+    [
+      0.116087,
+      "s"
+    ],
+    [
+      0.161024,
+      " "
+    ],
+    [
+      0.342381,
+      "\r\n"
+    ],
+    [
+      0.012365,
+      "10.200.177.212:1          \u001b[0m\u001b[01;34mDesktop\u001b[0m                             fii.cform                        my_first_python.py                  salt.yml            test.yml\r\n"
+    ],
+    [
+      0.000104,
+      "140558_FhGFS-HA.pdf       disk.sh                             fii.json                         NEW_VPN.pem                         SG-Boarding_Pass    uk1-clu2-fhgfs3-and-4-DAS-connections.pdf\r\n\u001b[01;34malampi-bak\u001b[0m                disk.txt                            fii.py                           nfs-201502202015.log                SG-Boarding_Passv1  users.txt\r\n\u001b[01;34mansible-teamcity-install\u001b[0m  docker                              go-agent-14.3.0-1248.noarch.rpm  nodes                               shell.py            \u001b[01;34mVideos\u001b[0m\r\naws.cform                 \u001b[01;34mdocker_rdp\u001b[0m                          grep                             \u001b[01;34mopencps\u001b[0m                             \u001b[01;34msrv\u001b[0m                 \u001b[01;34mVirtualBox VMs\u001b[0m\r\naws.json                  \u001b[01;34mDockerX2go\u001b[0m                          IMG_20140807_102948.jpg          opencps-time-2.2-2012-04-15.tar.gz  \u001b[01;34msusers.txt\u001b[0m          \u001b[01;32mVMware-Horizon-Client-3.2.0-2331566.x86.bundle\u001b[0m\r\n\u001b[01;34mbpython\u001b[0m                   \u001b[01;34mDocuments\u001b[0m                           Internet.pdf                     \u001b[01;34mPictures\u001b[0m                            \u001b[01;34mTemplates\u001b[0m           whereiseverything_2.ppt\r\n"
+    ],
+    [
+      0.000800,
+      "cdu.files                 Dolphin 007.JPG                     \u001b[01;34mLaptopBackup\u001b[0m                     \u001b[01;34mPublic\u001b[0m                              \u001b[01;34mtes\u001b[0m                 whereiseverything_3.ppt\r\ncdu.files.out             \u001b[01;34mDownloads\u001b[0m                           lustre_manual.pdf                \u001b[01;34mPycharmProjects\u001b[0m                     \u001b[01;34mtest\u001b[0m                whereiseverything.ppt\r\ncdu.txt                   DSC_0069.JPG                        \u001b[01;34mmcm-7.2.6-5549\u001b[0m                   \u001b[01;34mpythoncm-6.0-r15096\u001b[0m                 \u001b[01;34mtest1\u001b[0m\r\n\u001b[01;34mcform\u001b[0m                     \u001b[01;32mdutop.py\u001b[0m                            mcm-7.2.6-5549.linux-x64.tar.gz  pythoncm-6.0-r15096-src.tar         \u001b[01;34mtest2\u001b[0m\r\n\u001b[01;34mCloudFormationTemplates\u001b[0m   Emmanuel_AK - Dolphin Geo (1).docx  \u001b[01;34mMoab_Training\u001b[0m                    qselect.txt                         test.py\r\n\u001b[01;34mcoreos-vagrant\u001b[0m            Emmanuel_AK - Dolphin Geo.docx      \u001b[01;34mMusic\u001b[0m                            queue.txt                           test.sls\r\n\u001b[01;34mD1\u001b[0m                        export.gz                           my_cv_BACKUP.doc                 \u001b[01;34mREAL_PYTHON\u001b[0m                         test.txt\r\n"
+    ],
+    [
+      0.000038,
+      "\u001b]0;fii@kofi-laptop:~\u0007[fii@kofi-laptop ~]$ "
+    ],
+    [
+      0.582656,
+      "l"
+    ],
+    [
+      0.115284,
+      "s"
+    ],
+    [
+      0.129766,
+      " "
+    ],
+    [
+      0.597137,
+      "/"
+    ],
+    [
+      0.179880,
+      "e"
+    ],
+    [
+      0.238024,
+      "t"
+    ],
+    [
+      0.199032,
+      "c/"
+    ],
+    [
+      0.311793,
+      "\r\n"
+    ],
+    [
+      0.005110,
+      "adjtime            \u001b[0m\u001b[01;34mcron.hourly\u001b[0m    \u001b[01;34mfltk\u001b[0m                  \u001b[01;34mgtk-2.0\u001b[0m         ld.so.conf         makepkg.conf     ntp.conf       protocols         \u001b[01;34msound\u001b[0m                          \u001b[01;34musb_modeswitch.d\u001b[0m\r\n\u001b[01;34madobe\u001b[0m              \u001b[01;34mcron.monthly\u001b[0m   \u001b[01;34mfonts\u001b[0m                 \u001b[01;34mgtk-3.0\u001b[0m         \u001b[01;34mld.so.conf.d\u001b[0m       man_db.conf      \u001b[01;34mopenldap\u001b[0m       \u001b[01;34mpulse\u001b[0m             \u001b[01;34mspeech-dispatcher\u001b[0m              usb_modeswitch.setup\r\n"
+    ],
+    [
+      0.000025,
+      "anacrontab         \u001b[01;34mcron.weekly\u001b[0m    fstab                 \u001b[01;34mgufw\u001b[0m            libao.conf         mdadm.conf       \u001b[01;34mopenvpn\u001b[0m        \u001b[01;34mrc.d\u001b[0m              \u001b[01;34mssh\u001b[0m                            \u001b[01;34mvbox\u001b[0m\r\n\u001b[01;34mansible\u001b[0m            crypttab       fuse.conf             healthd.conf    \u001b[01;34mlibnl\u001b[0m              mime.types       \u001b[01;36mos-release\u001b[0m     \u001b[01;34mrc_keymaps\u001b[0m        \u001b[01;34mssl\u001b[0m                            vconsole.conf\r\narch-release       \u001b[01;34mcups\u001b[0m           gai.conf              host.conf       \u001b[01;34mlibpaper.d\u001b[0m         mke2fs.conf      pacman.conf    rc_maps.cfg       sudoers                        \u001b[01;34mvde\u001b[0m\r\nasound.conf        \u001b[01;34mcwiid\u001b[0m          \u001b[01;34mgconf\u001b[0m                 hostname        \u001b[01;34mlibreoffice\u001b[0m        mkinitcpio.conf  \u001b[01;34mpacman.d\u001b[0m       request-key.conf  \u001b[01;34msudoers.d\u001b[0m                      \u001b[01;34mvde2\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[01;34matop\u001b[0m               \u001b[01;34mdbus-1\u001b[0m         \u001b[01;34mgdm\u001b[0m                   hosts           libuser.conf       \u001b[01;34mmkinitcpio.d\u001b[0m     \u001b[01;34mpam.d\u001b[0m          \u001b[01;34mrequest-key.d\u001b[0m     \u001b[01;34msupervisor.d\u001b[0m                   vdpau_wrapper.cfg\r\n"
+    ],
+    [
+      0.000048,
+      "\u001b[01;34mat-spi2\u001b[0m            \u001b[01;34mdefault\u001b[0m        gemrc                 \u001b[01;34mhp\u001b[0m              \u001b[01;34mlibvirt\u001b[0m            \u001b[01;34mmodprobe.d\u001b[0m       \u001b[01;34mpango\u001b[0m          resolv.conf       supervisord.conf               vimrc\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[01;34mavahi\u001b[0m              \u001b[01;34mdepmod.d\u001b[0m       \u001b[01;34mgeoclue\u001b[0m               idnalias.conf   \u001b[01;34mlirc\u001b[0m               \u001b[01;34mmodules-load.d\u001b[0m   papersize      resolvconf.conf   synergy.conf.example           \u001b[01;34mvmware-installer-horizon\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "bash.bash_logout   dhcpcd.conf    gkrellmd.conf         idn.conf        lldpd.conf         \u001b[01;34mmonitorix\u001b[0m        passwd         rpc               synergy.conf.example-advanced  \u001b[01;34mvpnc\u001b[0m\r\n"
+    ],
+    [
+      0.000036,
+      "bash.bashrc        dhcpcd.duid    \u001b[01;34mgnome-vfs-2.0\u001b[0m         \u001b[01;34mifplugd\u001b[0m         \u001b[01;34mlldpd.d\u001b[0m            motd             passwd-        securetty         synergy.conf.example-basic     wgetrc\r\n"
+    ],
+    [
+      0.000031,
+      "\u001b[01;34mbash_completion.d\u001b[0m  dhcpcd.secret  gnome-vfs-mime-magic  \u001b[01;34mImageMagick-6\u001b[0m   locale.conf        \u001b[01;34mmplayer\u001b[0m          passwd.OLD     \u001b[01;34msecurity\u001b[0m          \u001b[01;34msysconfig\u001b[0m                      whois.conf\r\n"
+    ],
+    [
+      0.000041,
+      "\u001b[01;34mbinfmt.d\u001b[0m           \u001b[01;34mdkms\u001b[0m           group                 \u001b[01;34minitcpio\u001b[0m        locale.gen         \u001b[01;36mmtab\u001b[0m             passwd.pacnew  sensors3.conf     \u001b[01;34msysctl.d\u001b[0m                       \u001b[01;34mwpa_supplicant\u001b[0m\r\n"
+    ],
+    [
+      0.000032,
+      "\u001b[01;34mbluetooth\u001b[0m          dnsmasq.conf   group-                inputrc         locale.gen.pacnew  multipath.conf   \u001b[01;34mpcmcia\u001b[0m         \u001b[01;34msensors.d\u001b[0m         \u001b[01;34msystemd\u001b[0m                        \u001b[01;34mX11\u001b[0m\r\n"
+    ],
+    [
+      0.000036,
+      "\u001b[01;34mbonobo-activation\u001b[0m  \u001b[01;34mdocker\u001b[0m         group.pacnew          \u001b[01;34miproute2\u001b[0m        \u001b[01;36mlocaltime\u001b[0m          \u001b[01;34mmysql\u001b[0m            \u001b[01;34mpkcs11\u001b[0m         services          \u001b[01;34mtmpfiles.d\u001b[0m                     \u001b[01;34mx2go\u001b[0m\r\n"
+    ],
+    [
+      0.000030,
+      "\u001b[01;34mca-certificates\u001b[0m    drirc          \u001b[01;34mgrub.d\u001b[0m                \u001b[01;34miptables\u001b[0m        login.defs         nanorc           \u001b[01;34mpm\u001b[0m             shadow            \u001b[01;34mtor\u001b[0m                            \u001b[01;34mxdg\u001b[0m\r\n"
+    ],
+    [
+      0.000031,
+      "\u001b[01;34mchromium\u001b[0m           ebtables.conf  gshadow               irman.conf      logrotate.conf     netconfig        \u001b[01;34mpolkit-1\u001b[0m       shadow-           trusted-key.key                \u001b[01;34mxinetd.d\u001b[0m\r\n"
+    ],
+    [
+      0.000035,
+      "\u001b[01;34mconf.d\u001b[0m             \u001b[01;34menlightenment\u001b[0m  gshadow-              issue           \u001b[01;34mlogrotate.d\u001b[0m        \u001b[01;34mnetctl\u001b[0m           \u001b[01;34mppp\u001b[0m            shadow.pacnew     \u001b[01;34mudev\u001b[0m                           \u001b[01;34mxml\u001b[0m\r\n"
+    ],
+    [
+      0.000032,
+      "conntrackd.conf    environment    gshadow.pacnew        \u001b[01;34mjava-7-openjdk\u001b[0m  lsb-release        \u001b[01;34mNetworkManager\u001b[0m   printcap       \u001b[01;34mshairplay\u001b[0m         \u001b[01;34mudisks2\u001b[0m                        xpdfrc\r\n"
+    ],
+    [
+      0.000030,
+      "\u001b[01;34mcron.d\u001b[0m             ethertypes     \u001b[01;34mgss\u001b[0m                   \u001b[01;34mkernel\u001b[0m          \u001b[01;34mlvm\u001b[0m                nfsmount.conf    \u001b[01;34mprivoxy\u001b[0m        shells            \u001b[01;34mufw\u001b[0m                            yaourtrc\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[01;34mcron.daily\u001b[0m         exports        gssapi_mech.conf      krb5.conf       machine-id         nscd.conf        profile        \u001b[01;34mskel\u001b[0m              \u001b[01;34mUPower\u001b[0m                         yaourtrc.pacorig\r\n"
+    ],
+    [
+      0.000021,
+      "cron.deny          \u001b[01;34mexports.d\u001b[0m      \u001b[01;34mgssproxy\u001b[0m              ld.so.cache     mail.rc            nsswitch.conf    \u001b[01;34mprofile.d\u001b[0m      slsh.rc           usb_modeswitch.conf\r\n"
+    ],
+    [
+      0.000717,
+      "\u001b]0;fii@kofi-laptop:~\u0007[fii@kofi-laptop ~]$ "
+    ],
+    [
+      0.635823,
+      "e"
+    ],
+    [
+      0.341435,
+      "x"
+    ],
+    [
+      0.383853,
+      "i"
+    ],
+    [
+      0.277064,
+      "t"
+    ],
+    [
+      0.177775,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
