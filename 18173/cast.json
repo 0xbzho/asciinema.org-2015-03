@@ -1,0 +1,3810 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 8.749289,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.008926,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000007,
+      "bash-3.2$ "
+    ],
+    [
+      0.742569,
+      "s"
+    ],
+    [
+      0.000015,
+      "nmpw"
+    ],
+    [
+      0.000003,
+      "a"
+    ],
+    [
+      0.000012,
+      "lk"
+    ],
+    [
+      0.000014,
+      " "
+    ],
+    [
+      0.000021,
+      "-v1"
+    ],
+    [
+      0.000006,
+      " -"
+    ],
+    [
+      0.000304,
+      "c public 192.168.1.162"
+    ],
+    [
+      0.614423,
+      "\r\n"
+    ],
+    [
+      0.085534,
+      "SNMPv2-MIB::sysDescr.0 = STRING: Samsung SL-M3370FD; V4.00.01.16 Feb-24-2014;Engine V1.00.02;NIC V4.01.19 NOV-07-2013;S/N ZDELBJAF40002NE\r\n"
+    ],
+    [
+      0.003108,
+      "SNMPv2-MIB::sysObjectID.0 = OID: SNMPv2-SMI::enterprises.236.11.5.1\r\n"
+    ],
+    [
+      0.002822,
+      "DISMAN-EVENT-MIB::sysUpTimeInstance = Timeticks: (114100) 0:19:01.00\r\n"
+    ],
+    [
+      0.003035,
+      "SNMPv2-MIB::sysContact.0 = STRING: Administrator\r\n"
+    ],
+    [
+      0.002663,
+      "SNMPv2-MIB::sysName.0 = STRING: Printopolis\r\n"
+    ],
+    [
+      0.003188,
+      "SNMPv2-MIB::sysLocation.0 = STRING: Office\r\n"
+    ],
+    [
+      0.002798,
+      "SNMPv2-MIB::sysServices.0 = INTEGER: 104\r\n"
+    ],
+    [
+      0.002732,
+      "IF-MIB::ifNumber.0 = INTEGER: 2\r\n"
+    ],
+    [
+      0.003192,
+      "IF-MIB::ifIndex.1 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002963,
+      "IF-MIB::ifIndex.2 = INTEGER: 2\r\n"
+    ],
+    [
+      0.003070,
+      "IF-MIB::ifDescr.1 = STRING: Embedded Ethernet Controller, 10/100 Mbps, v1.0, UTP RJ-45, connector A1, 100 full duplex\r\n"
+    ],
+    [
+      0.003028,
+      "IF-MIB::ifDescr.2 = STRING: Loopback Interface\r\n"
+    ],
+    [
+      0.003085,
+      "IF-MIB::ifType.1 = INTEGER: ethernetCsmacd(6)\r\n"
+    ],
+    [
+      0.003466,
+      "IF-MIB::ifType.2 = INTEGER: softwareLoopback(24)\r\n"
+    ],
+    [
+      0.003173,
+      "IF-MIB::ifMtu.1 = INTEGER: 1500\r\n"
+    ],
+    [
+      0.002942,
+      "IF-MIB::ifMtu.2 = INTEGER: 1500\r\n"
+    ],
+    [
+      0.003237,
+      "IF-MIB::ifSpeed.1 = Gauge32: 100000000\r\n"
+    ],
+    [
+      0.002734,
+      "IF-MIB::ifSpeed.2 = Gauge32: 10000\r\n"
+    ],
+    [
+      0.003351,
+      "IF-MIB::ifPhysAddress.1 = STRING: 30:cd:a7:24:69:6\r\n"
+    ],
+    [
+      0.002784,
+      "IF-MIB::ifPhysAddress.2 = STRING: \r\n"
+    ],
+    [
+      0.003147,
+      "IF-MIB::ifAdminStatus.1 = INTEGER: up(1)\r\n"
+    ],
+    [
+      0.002976,
+      "IF-MIB::ifAdminStatus.2 = INTEGER: up(1)\r\n"
+    ],
+    [
+      0.003142,
+      "IF-MIB::ifOperStatus.1 = INTEGER: up(1)\r\n"
+    ],
+    [
+      0.002977,
+      "IF-MIB::ifOperStatus.2 = INTEGER: up(1)\r\n"
+    ],
+    [
+      0.003148,
+      "IF-MIB::ifLastChange.1 = Timeticks: (0) 0:00:00.00\r\n"
+    ],
+    [
+      0.003067,
+      "IF-MIB::ifLastChange.2 = Timeticks: (0) 0:00:00.00\r\n"
+    ],
+    [
+      0.003211,
+      "IF-MIB::ifInOctets.1 = Counter32: 433064\r\n"
+    ],
+    [
+      0.002564,
+      "IF-MIB::ifInOctets.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003320,
+      "IF-MIB::ifInUcastPkts.1 = Counter32: 3627\r\n"
+    ],
+    [
+      0.002868,
+      "IF-MIB::ifInUcastPkts.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003101,
+      "IF-MIB::ifInNUcastPkts.1 = Counter32: 414\r\n"
+    ],
+    [
+      0.002929,
+      "IF-MIB::ifInNUcastPkts.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003004,
+      "IF-MIB::ifInDiscards.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002908,
+      "IF-MIB::ifInDiscards.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003170,
+      "IF-MIB::ifInErrors.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002872,
+      "IF-MIB::ifInErrors.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003250,
+      "IF-MIB::ifInUnknownProtos.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002518,
+      "IF-MIB::ifInUnknownProtos.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003419,
+      "IF-MIB::ifOutOctets.1 = Counter32: 1534546\r\n"
+    ],
+    [
+      0.002702,
+      "IF-MIB::ifOutOctets.2 = Counter32: 431285\r\n"
+    ],
+    [
+      0.003159,
+      "IF-MIB::ifOutUcastPkts.1 = Counter32: 4115\r\n"
+    ],
+    [
+      0.003009,
+      "IF-MIB::ifOutUcastPkts.2 = Counter32: 2740\r\n"
+    ],
+    [
+      0.003172,
+      "IF-MIB::ifOutNUcastPkts.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002585,
+      "IF-MIB::ifOutNUcastPkts.2 = Counter32: 3\r\n"
+    ],
+    [
+      0.002884,
+      "IF-MIB::ifOutDiscards.1 = Counter32: 1\r\n"
+    ],
+    [
+      0.003034,
+      "IF-MIB::ifOutDiscards.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003558,
+      "IF-MIB::ifOutErrors.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002679,
+      "IF-MIB::ifOutErrors.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003444,
+      "IF-MIB::ifOutQLen.1 = Gauge32: 0\r\n"
+    ],
+    [
+      0.002686,
+      "IF-MIB::ifOutQLen.2 = Gauge32: 0\r\n"
+    ],
+    [
+      0.003221,
+      "IF-MIB::ifSpecific.1 = OID: SNMPv2-SMI::zeroDotZero\r\n"
+    ],
+    [
+      0.002898,
+      "IF-MIB::ifSpecific.2 = OID: SNMPv2-SMI::zeroDotZero\r\n"
+    ],
+    [
+      0.003524,
+      "IP-MIB::ipForwarding.0 = INTEGER: forwarding(1)\r\n"
+    ],
+    [
+      0.006270,
+      "IP-MIB::ipDefaultTTL.0 = INTEGER: 64\r\n"
+    ],
+    [
+      0.003127,
+      "IP-MIB::ipInReceives.0 = Counter32: 6693\r\n"
+    ],
+    [
+      0.002806,
+      "IP-MIB::ipInHdrErrors.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.003056,
+      "IP-MIB::ipInAddrErrors.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002941,
+      "IP-MIB::ipForwDatagrams.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.003136,
+      "IP-MIB::ipInUnknownProtos.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002588,
+      "IP-MIB::ipInDiscards.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.003331,
+      "IP-MIB::ipInDelivers.0 = Counter32: 247\r\n"
+    ],
+    [
+      0.002912,
+      "IP-MIB::ipOutRequests.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002925,
+      "IP-MIB::ipOutDiscards.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002930,
+      "IP-MIB::ipOutNoRoutes.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002848,
+      "IP-MIB::ipReasmTimeout.0 = INTEGER: 60 seconds\r\n"
+    ],
+    [
+      0.002777,
+      "IP-MIB::ipReasmReqds.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002763,
+      "IP-MIB::ipReasmOKs.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.003014,
+      "IP-MIB::ipReasmFails.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002714,
+      "IP-MIB::ipFragOKs.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002989,
+      "IP-MIB::ipFragFails.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002946,
+      "IP-MIB::ipFragCreates.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002870,
+      "IP-MIB::ipAdEntAddr.192.168.1.162 = IpAddress: 192.168.1.162\r\n"
+    ],
+    [
+      0.003182,
+      "IP-MIB::ipAdEntIfIndex.192.168.1.162 = INTEGER: 1\r\n"
+    ],
+    [
+      0.003033,
+      "IP-MIB::ipAdEntNetMask.192.168.1.162 = IpAddress: 255.255.255.0\r\n"
+    ],
+    [
+      0.003031,
+      "IP-MIB::ipAdEntBcastAddr.192.168.1.162 = INTEGER: 1\r\n"
+    ],
+    [
+      0.003085,
+      "IP-MIB::ipAdEntReasmMaxSize.192.168.1.162 = INTEGER: 65535\r\n"
+    ],
+    [
+      0.002737,
+      "IP-MIB::ip.21.1.1.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.002833,
+      "IP-MIB::ip.21.1.1.169.254.0.0 = IpAddress: 169.254.0.0\r\n"
+    ],
+    [
+      0.002784,
+      "IP-MIB::ip.21.1.1.192.168.1.0 = IpAddress: 192.168.1.0\r\n"
+    ],
+    [
+      0.003189,
+      "IP-MIB::ip.21.1.2.0.0.0.0 = INTEGER: 1\r\n"
+    ],
+    [
+      0.003485,
+      "IP-MIB::ip.21.1.2.169.254.0.0 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002837,
+      "IP-MIB::ip.21.1.2.192.168.1.0 = INTEGER: 1\r\n"
+    ],
+    [
+      0.003026,
+      "IP-MIB::ip.21.1.3.0.0.0.0 = INTEGER: -1\r\n"
+    ],
+    [
+      0.002617,
+      "IP-MIB::ip.21.1.3.169.254.0.0 = INTEGER: -1\r\n"
+    ],
+    [
+      0.002687,
+      "IP-MIB::ip.21.1.3.192.168.1.0 = INTEGER: -1\r\n"
+    ],
+    [
+      0.002577,
+      "IP-MIB::ip.21.1.4.0.0.0.0 = INTEGER: -1\r\n"
+    ],
+    [
+      0.002774,
+      "IP-MIB::ip.21.1.4.169.254.0.0 = INTEGER: -1\r\n"
+    ],
+    [
+      0.002610,
+      "IP-MIB::ip.21.1.4.192.168.1.0 = INTEGER: -1\r\n"
+    ],
+    [
+      0.002726,
+      "IP-MIB::ip.21.1.5.0.0.0.0 = INTEGER: -1\r\n"
+    ],
+    [
+      0.002715,
+      "IP-MIB::ip.21.1.5.169.254.0.0 = INTEGER: -1\r\n"
+    ],
+    [
+      0.002718,
+      "IP-MIB::ip.21.1.5.192.168.1.0 = INTEGER: -1\r\n"
+    ],
+    [
+      0.002974,
+      "IP-MIB::ip.21.1.6.0.0.0.0 = INTEGER: -1\r\n"
+    ],
+    [
+      0.002519,
+      "IP-MIB::ip.21.1.6.169.254.0.0 = INTEGER: -1\r\n"
+    ],
+    [
+      0.002757,
+      "IP-MIB::ip.21.1.6.192.168.1.0 = INTEGER: -1\r\n"
+    ],
+    [
+      0.002655,
+      "IP-MIB::ip.21.1.7.0.0.0.0 = IpAddress: 192.168.1.1\r\n"
+    ],
+    [
+      0.002798,
+      "IP-MIB::ip.21.1.7.169.254.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.002511,
+      "IP-MIB::ip.21.1.7.192.168.1.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.002788,
+      "IP-MIB::ip.21.1.8.0.0.0.0 = INTEGER: 4\r\n"
+    ],
+    [
+      0.002555,
+      "IP-MIB::ip.21.1.8.169.254.0.0 = INTEGER: 3\r\n"
+    ],
+    [
+      0.002698,
+      "IP-MIB::ip.21.1.8.192.168.1.0 = INTEGER: 3\r\n"
+    ],
+    [
+      0.003006,
+      "IP-MIB::ip.21.1.9.0.0.0.0 = INTEGER: 2\r\n"
+    ],
+    [
+      0.002607,
+      "IP-MIB::ip.21.1.9.169.254.0.0 = INTEGER: 2\r\n"
+    ],
+    [
+      0.002506,
+      "IP-MIB::ip.21.1.9.192.168.1.0 = INTEGER: 2\r\n"
+    ],
+    [
+      0.002708,
+      "IP-MIB::ip.21.1.10.0.0.0.0 = INTEGER: 0\r\n"
+    ],
+    [
+      0.002634,
+      "IP-MIB::ip.21.1.10.169.254.0.0 = INTEGER: 0\r\n"
+    ],
+    [
+      0.002525,
+      "IP-MIB::ip.21.1.10.192.168.1.0 = INTEGER: 0\r\n"
+    ],
+    [
+      0.002950,
+      "IP-MIB::ip.21.1.11.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.002610,
+      "IP-MIB::ip.21.1.11.169.254.0.0 = IpAddress: 255.255.0.0\r\n"
+    ],
+    [
+      0.002588,
+      "IP-MIB::ip.21.1.11.192.168.1.0 = IpAddress: 255.255.255.0\r\n"
+    ],
+    [
+      0.002800,
+      "IP-MIB::ip.21.1.12.0.0.0.0 = INTEGER: -1\r\n"
+    ],
+    [
+      0.002731,
+      "IP-MIB::ip.21.1.12.169.254.0.0 = INTEGER: -1\r\n"
+    ],
+    [
+      0.002334,
+      "IP-MIB::ip.21.1.12.192.168.1.0 = INTEGER: -1\r\n"
+    ],
+    [
+      0.002826,
+      "IP-MIB::ip.21.1.13.0.0.0.0 = OID: SNMPv2-SMI::zeroDotZero\r\n"
+    ],
+    [
+      0.002625,
+      "IP-MIB::ip.21.1.13.169.254.0.0 = OID: SNMPv2-SMI::zeroDotZero\r\n"
+    ],
+    [
+      0.002758,
+      "IP-MIB::ip.21.1.13.192.168.1.0 = OID: SNMPv2-SMI::zeroDotZero\r\n"
+    ],
+    [
+      0.003377,
+      "IP-MIB::ipRoutingDiscards.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002490,
+      "IP-MIB::icmpInMsgs.0 = Counter32: 32\r\n"
+    ],
+    [
+      0.002849,
+      "IP-MIB::icmpInErrors.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002678,
+      "IP-MIB::icmpInDestUnreachs.0 = Counter32: 29\r\n"
+    ],
+    [
+      0.002557,
+      "IP-MIB::icmpInTimeExcds.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002593,
+      "IP-MIB::icmpInParmProbs.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002883,
+      "IP-MIB::icmpInSrcQuenchs.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002443,
+      "IP-MIB::icmpInRedirects.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002645,
+      "IP-MIB::icmpInEchos.0 = Counter32: 3\r\n"
+    ],
+    [
+      0.002665,
+      "IP-MIB::icmpInEchoReps.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002865,
+      "IP-MIB::icmpInTimestamps.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002786,
+      "IP-MIB::icmpInTimestampReps.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002640,
+      "IP-MIB::icmpInAddrMasks.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002658,
+      "IP-MIB::icmpInAddrMaskReps.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002715,
+      "IP-MIB::icmpOutMsgs.0 = Counter32: 127\r\n"
+    ],
+    [
+      0.002767,
+      "IP-MIB::icmpOutErrors.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002575,
+      "IP-MIB::icmpOutDestUnreachs.0 = Counter32: 8\r\n"
+    ],
+    [
+      0.003133,
+      "IP-MIB::icmpOutTimeExcds.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002524,
+      "IP-MIB::icmpOutParmProbs.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002755,
+      "IP-MIB::icmpOutSrcQuenchs.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002599,
+      "IP-MIB::icmpOutRedirects.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002823,
+      "IP-MIB::icmpOutEchos.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002743,
+      "IP-MIB::icmpOutEchoReps.0 = Counter32: 3\r\n"
+    ],
+    [
+      0.002561,
+      "IP-MIB::icmpOutTimestamps.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002615,
+      "IP-MIB::icmpOutTimestampReps.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002584,
+      "IP-MIB::icmpOutAddrMasks.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002730,
+      "IP-MIB::icmpOutAddrMaskReps.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002614,
+      "TCP-MIB::tcpRtoAlgorithm.0 = INTEGER: vanj(4)\r\n"
+    ],
+    [
+      0.002878,
+      "TCP-MIB::tcpRtoMin.0 = INTEGER: 1000 milliseconds\r\n"
+    ],
+    [
+      0.002544,
+      "TCP-MIB::tcpRtoMax.0 = INTEGER: 60000 milliseconds\r\n"
+    ],
+    [
+      0.002771,
+      "TCP-MIB::tcpMaxConn.0 = INTEGER: 1024\r\n"
+    ],
+    [
+      0.002713,
+      "TCP-MIB::tcpActiveOpens.0 = Counter32: 177\r\n"
+    ],
+    [
+      0.002875,
+      "TCP-MIB::tcpPassiveOpens.0 = Counter32: 286\r\n"
+    ],
+    [
+      0.002491,
+      "TCP-MIB::tcpAttemptFails.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002658,
+      "TCP-MIB::tcpEstabResets.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002786,
+      "TCP-MIB::tcpCurrEstab.0 = Gauge32: 3\r\n"
+    ],
+    [
+      0.002550,
+      "TCP-MIB::tcpInSegs.0 = Counter32: 4187\r\n"
+    ],
+    [
+      0.002740,
+      "TCP-MIB::tcpOutSegs.0 = Counter32: 4289\r\n"
+    ],
+    [
+      0.002660,
+      "TCP-MIB::tcpRetransSegs.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.003275,
+      "TCP-MIB::tcpConnState.0.0.0.0.80.0.0.0.0.0 = INTEGER: listen(2)\r\n"
+    ],
+    [
+      0.002703,
+      "TCP-MIB::tcpConnState.0.0.0.0.443.0.0.0.0.0 = INTEGER: listen(2)\r\n"
+    ],
+    [
+      0.002613,
+      "TCP-MIB::tcpConnState.0.0.0.0.515.0.0.0.0.0 = INTEGER: listen(2)\r\n"
+    ],
+    [
+      0.002788,
+      "TCP-MIB::tcpConnState.0.0.0.0.631.0.0.0.0.0 = INTEGER: listen(2)\r\n"
+    ],
+    [
+      0.002976,
+      "TCP-MIB::tcpConnState.0.0.0.0.4000.0.0.0.0.0 = INTEGER: listen(2)\r\n"
+    ],
+    [
+      0.002959,
+      "TCP-MIB::tcpConnState.0.0.0.0.5200.0.0.0.0.0 = INTEGER: listen(2)\r\n"
+    ],
+    [
+      0.002788,
+      "TCP-MIB::tcpConnState.0.0.0.0.8018.0.0.0.0.0 = INTEGER: listen(2)\r\n"
+    ],
+    [
+      0.002965,
+      "TCP-MIB::tcpConnState.0.0.0.0.8088.0.0.0.0.0 = INTEGER: listen(2)\r\n"
+    ],
+    [
+      0.006541,
+      "TCP-MIB::tcpConnState.0.0.0.0.9100.0.0.0.0.0 = INTEGER: listen(2)\r\n"
+    ],
+    [
+      0.002847,
+      "TCP-MIB::tcpConnState.0.0.0.0.9150.0.0.0.0.0 = INTEGER: listen(2)\r\n"
+    ],
+    [
+      0.002823,
+      "TCP-MIB::tcpConnState.0.0.0.0.9400.0.0.0.0.0 = INTEGER: listen(2)\r\n"
+    ],
+    [
+      0.002854,
+      "TCP-MIB::tcpConnState.0.0.0.0.9401.0.0.0.0.0 = INTEGER: listen(2)\r\n"
+    ],
+    [
+      0.002806,
+      "TCP-MIB::tcpConnState.0.0.0.0.9402.0.0.0.0.0 = INTEGER: listen(2)\r\n"
+    ],
+    [
+      0.002980,
+      "TCP-MIB::tcpConnState.0.0.0.0.9403.0.0.0.0.0 = INTEGER: listen(2)\r\n"
+    ],
+    [
+      0.002636,
+      "TCP-MIB::tcpConnState.0.0.0.0.9410.0.0.0.0.0 = INTEGER: listen(2)\r\n"
+    ],
+    [
+      0.002839,
+      "TCP-MIB::tcpConnState.0.0.0.0.9411.0.0.0.0.0 = INTEGER: listen(2)\r\n"
+    ],
+    [
+      0.002899,
+      "TCP-MIB::tcpConnState.0.0.0.0.41000.0.0.0.0.0 = INTEGER: listen(2)\r\n"
+    ],
+    [
+      0.002887,
+      "TCP-MIB::tcpConnState.0.0.0.0.41001.0.0.0.0.0 = INTEGER: listen(2)\r\n"
+    ],
+    [
+      0.002954,
+      "TCP-MIB::tcpConnState.192.168.1.162.63778.64.233.168.125.5222 = INTEGER: established(5)\r\n"
+    ],
+    [
+      0.003097,
+      "TCP-MIB::tcpConnLocalAddress.0.0.0.0.80.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.008621,
+      "TCP-MIB::tcpConnLocalAddress.0.0.0.0.443.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.003225,
+      "TCP-MIB::tcpConnLocalAddress.0.0.0.0.515.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.002740,
+      "TCP-MIB::tcpConnLocalAddress.0.0.0.0.631.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.002799,
+      "TCP-MIB::tcpConnLocalAddress.0.0.0.0.4000.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.002757,
+      "TCP-MIB::tcpConnLocalAddress.0.0.0.0.5200.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.002927,
+      "TCP-MIB::tcpConnLocalAddress.0.0.0.0.8018.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.002822,
+      "TCP-MIB::tcpConnLocalAddress.0.0.0.0.8088.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.002876,
+      "TCP-MIB::tcpConnLocalAddress.0.0.0.0.9100.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.003081,
+      "TCP-MIB::tcpConnLocalAddress.0.0.0.0.9150.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.002864,
+      "TCP-MIB::tcpConnLocalAddress.0.0.0.0.9400.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.002773,
+      "TCP-MIB::tcpConnLocalAddress.0.0.0.0.9401.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.002750,
+      "TCP-MIB::tcpConnLocalAddress.0.0.0.0.9402.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.002872,
+      "TCP-MIB::tcpConnLocalAddress.0.0.0.0.9403.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.003147,
+      "TCP-MIB::tcpConnLocalAddress.0.0.0.0.9410.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.002833,
+      "TCP-MIB::tcpConnLocalAddress.0.0.0.0.9411.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.003172,
+      "TCP-MIB::tcpConnLocalAddress.0.0.0.0.41000.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.002672,
+      "TCP-MIB::tcpConnLocalAddress.0.0.0.0.41001.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.002860,
+      "TCP-MIB::tcpConnLocalAddress.192.168.1.162.63778.64.233.168.125.5222 = IpAddress: 192.168.1.162\r\n"
+    ],
+    [
+      0.003204,
+      "TCP-MIB::tcpConnLocalPort.0.0.0.0.80.0.0.0.0.0 = INTEGER: 80\r\n"
+    ],
+    [
+      0.002849,
+      "TCP-MIB::tcpConnLocalPort.0.0.0.0.443.0.0.0.0.0 = INTEGER: 443\r\n"
+    ],
+    [
+      0.002946,
+      "TCP-MIB::tcpConnLocalPort.0.0.0.0.515.0.0.0.0.0 = INTEGER: 515\r\n"
+    ],
+    [
+      0.002557,
+      "TCP-MIB::tcpConnLocalPort.0.0.0.0.631.0.0.0.0.0 = INTEGER: 631\r\n"
+    ],
+    [
+      0.002941,
+      "TCP-MIB::tcpConnLocalPort.0.0.0.0.4000.0.0.0.0.0 = INTEGER: 4000\r\n"
+    ],
+    [
+      0.002739,
+      "TCP-MIB::tcpConnLocalPort.0.0.0.0.5200.0.0.0.0.0 = INTEGER: 5200\r\n"
+    ],
+    [
+      0.002827,
+      "TCP-MIB::tcpConnLocalPort.0.0.0.0.8018.0.0.0.0.0 = INTEGER: 8018\r\n"
+    ],
+    [
+      0.002919,
+      "TCP-MIB::tcpConnLocalPort.0.0.0.0.8088.0.0.0.0.0 = INTEGER: 8088\r\n"
+    ],
+    [
+      0.002910,
+      "TCP-MIB::tcpConnLocalPort.0.0.0.0.9100.0.0.0.0.0 = INTEGER: 9100\r\n"
+    ],
+    [
+      0.002849,
+      "TCP-MIB::tcpConnLocalPort.0.0.0.0.9150.0.0.0.0.0 = INTEGER: 9150\r\n"
+    ],
+    [
+      0.002735,
+      "TCP-MIB::tcpConnLocalPort.0.0.0.0.9400.0.0.0.0.0 = INTEGER: 9400\r\n"
+    ],
+    [
+      0.003006,
+      "TCP-MIB::tcpConnLocalPort.0.0.0.0.9401.0.0.0.0.0 = INTEGER: 9401\r\n"
+    ],
+    [
+      0.002775,
+      "TCP-MIB::tcpConnLocalPort.0.0.0.0.9402.0.0.0.0.0 = INTEGER: 9402\r\n"
+    ],
+    [
+      0.002808,
+      "TCP-MIB::tcpConnLocalPort.0.0.0.0.9403.0.0.0.0.0 = INTEGER: 9403\r\n"
+    ],
+    [
+      0.002838,
+      "TCP-MIB::tcpConnLocalPort.0.0.0.0.9410.0.0.0.0.0 = INTEGER: 9410\r\n"
+    ],
+    [
+      0.002710,
+      "TCP-MIB::tcpConnLocalPort.0.0.0.0.9411.0.0.0.0.0 = INTEGER: 9411\r\n"
+    ],
+    [
+      0.002856,
+      "TCP-MIB::tcpConnLocalPort.0.0.0.0.41000.0.0.0.0.0 = INTEGER: 41000\r\n"
+    ],
+    [
+      0.003089,
+      "TCP-MIB::tcpConnLocalPort.0.0.0.0.41001.0.0.0.0.0 = INTEGER: 41001\r\n"
+    ],
+    [
+      0.003222,
+      "TCP-MIB::tcpConnLocalPort.192.168.1.162.63778.64.233.168.125.5222 = INTEGER: 63778\r\n"
+    ],
+    [
+      0.003498,
+      "TCP-MIB::tcpConnRemAddress.0.0.0.0.80.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.003063,
+      "TCP-MIB::tcpConnRemAddress.0.0.0.0.443.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.003210,
+      "TCP-MIB::tcpConnRemAddress.0.0.0.0.515.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.002995,
+      "TCP-MIB::tcpConnRemAddress.0.0.0.0.631.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.002942,
+      "TCP-MIB::tcpConnRemAddress.0.0.0.0.4000.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.002929,
+      "TCP-MIB::tcpConnRemAddress.0.0.0.0.5200.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.003087,
+      "TCP-MIB::tcpConnRemAddress.0.0.0.0.8018.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.003041,
+      "TCP-MIB::tcpConnRemAddress.0.0.0.0.8088.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.003077,
+      "TCP-MIB::tcpConnRemAddress.0.0.0.0.9100.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.003010,
+      "TCP-MIB::tcpConnRemAddress.0.0.0.0.9150.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.003227,
+      "TCP-MIB::tcpConnRemAddress.0.0.0.0.9400.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.002822,
+      "TCP-MIB::tcpConnRemAddress.0.0.0.0.9401.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.003313,
+      "TCP-MIB::tcpConnRemAddress.0.0.0.0.9402.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.002837,
+      "TCP-MIB::tcpConnRemAddress.0.0.0.0.9403.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.003096,
+      "TCP-MIB::tcpConnRemAddress.0.0.0.0.9410.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.002800,
+      "TCP-MIB::tcpConnRemAddress.0.0.0.0.9411.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.003186,
+      "TCP-MIB::tcpConnRemAddress.0.0.0.0.41000.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.002954,
+      "TCP-MIB::tcpConnRemAddress.0.0.0.0.41001.0.0.0.0.0 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.006798,
+      "TCP-MIB::tcpConnRemAddress.192.168.1.162.63778.64.233.168.125.5222 = IpAddress: 64.233.168.125\r\n"
+    ],
+    [
+      0.003538,
+      "TCP-MIB::tcpConnRemPort.0.0.0.0.80.0.0.0.0.0 = INTEGER: 0\r\n"
+    ],
+    [
+      0.003062,
+      "TCP-MIB::tcpConnRemPort.0.0.0.0.443.0.0.0.0.0 = INTEGER: 0\r\n"
+    ],
+    [
+      0.003024,
+      "TCP-MIB::tcpConnRemPort.0.0.0.0.515.0.0.0.0.0 = INTEGER: 0\r\n"
+    ],
+    [
+      0.003053,
+      "TCP-MIB::tcpConnRemPort.0.0.0.0.631.0.0.0.0.0 = INTEGER: 0\r\n"
+    ],
+    [
+      0.003056,
+      "TCP-MIB::tcpConnRemPort.0.0.0.0.4000.0.0.0.0.0 = INTEGER: 0\r\n"
+    ],
+    [
+      0.002977,
+      "TCP-MIB::tcpConnRemPort.0.0.0.0.5200.0.0.0.0.0 = INTEGER: 0\r\n"
+    ],
+    [
+      0.003141,
+      "TCP-MIB::tcpConnRemPort.0.0.0.0.8018.0.0.0.0.0 = INTEGER: 0\r\n"
+    ],
+    [
+      0.002979,
+      "TCP-MIB::tcpConnRemPort.0.0.0.0.8088.0.0.0.0.0 = INTEGER: 0\r\n"
+    ],
+    [
+      0.003176,
+      "TCP-MIB::tcpConnRemPort.0.0.0.0.9100.0.0.0.0.0 = INTEGER: 0\r\n"
+    ],
+    [
+      0.002930,
+      "TCP-MIB::tcpConnRemPort.0.0.0.0.9150.0.0.0.0.0 = INTEGER: 0\r\n"
+    ],
+    [
+      0.003018,
+      "TCP-MIB::tcpConnRemPort.0.0.0.0.9400.0.0.0.0.0 = INTEGER: 0\r\n"
+    ],
+    [
+      0.003685,
+      "TCP-MIB::tcpConnRemPort.0.0.0.0.9401.0.0.0.0.0 = INTEGER: 0\r\n"
+    ],
+    [
+      0.003021,
+      "TCP-MIB::tcpConnRemPort.0.0.0.0.9402.0.0.0.0.0 = INTEGER: 0\r\n"
+    ],
+    [
+      0.003050,
+      "TCP-MIB::tcpConnRemPort.0.0.0.0.9403.0.0.0.0.0 = INTEGER: 0\r\n"
+    ],
+    [
+      0.003106,
+      "TCP-MIB::tcpConnRemPort.0.0.0.0.9410.0.0.0.0.0 = INTEGER: 0\r\n"
+    ],
+    [
+      0.003185,
+      "TCP-MIB::tcpConnRemPort.0.0.0.0.9411.0.0.0.0.0 = INTEGER: 0\r\n"
+    ],
+    [
+      0.003161,
+      "TCP-MIB::tcpConnRemPort.0.0.0.0.41000.0.0.0.0.0 = INTEGER: 0\r\n"
+    ],
+    [
+      0.002914,
+      "TCP-MIB::tcpConnRemPort.0.0.0.0.41001.0.0.0.0.0 = INTEGER: 0\r\n"
+    ],
+    [
+      0.003069,
+      "TCP-MIB::tcpConnRemPort.192.168.1.162.63778.64.233.168.125.5222 = INTEGER: 5222\r\n"
+    ],
+    [
+      0.003395,
+      "TCP-MIB::tcpInErrs.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002862,
+      "TCP-MIB::tcpOutRsts.0 = Counter32: 1\r\n"
+    ],
+    [
+      0.003245,
+      "TCP-MIB::tcp.16.1.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4000.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0 = INTEGER: 2\r\n"
+    ],
+    [
+      0.003148,
+      "TCP-MIB::tcp.16.1.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.9400.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0 = INTEGER: 2\r\n"
+    ],
+    [
+      0.003063,
+      "TCP-MIB::tcp.16.1.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.9401.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0 = INTEGER: 2\r\n"
+    ],
+    [
+      0.003441,
+      "TCP-MIB::tcp.16.1.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.9410.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0 = INTEGER: 2\r\n"
+    ],
+    [
+      0.002880,
+      "TCP-MIB::tcp.16.1.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.9411.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0 = INTEGER: 2\r\n"
+    ],
+    [
+      0.003234,
+      "UDP-MIB::udpInDatagrams.0 = Counter32: 2456\r\n"
+    ],
+    [
+      0.002672,
+      "UDP-MIB::udpNoPorts.0 = Counter32: 5\r\n"
+    ],
+    [
+      0.002880,
+      "UDP-MIB::udpInErrors.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002992,
+      "UDP-MIB::udpOutDatagrams.0 = Counter32: 2404\r\n"
+    ],
+    [
+      0.003140,
+      "UDP-MIB::udpLocalAddress.0.0.0.0.137 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.002977,
+      "UDP-MIB::udpLocalAddress.0.0.0.0.161 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.002925,
+      "UDP-MIB::udpLocalAddress.0.0.0.0.1900 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.002785,
+      "UDP-MIB::udpLocalAddress.0.0.0.0.3702 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.003259,
+      "UDP-MIB::udpLocalAddress.0.0.0.0.5353 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.002896,
+      "UDP-MIB::udpLocalAddress.0.0.0.0.6000 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.002984,
+      "UDP-MIB::udpLocalAddress.0.0.0.0.7000 = IpAddress: 0.0.0.0\r\n"
+    ],
+    [
+      0.003598,
+      "UDP-MIB::udpLocalPort.0.0.0.0.137 = INTEGER: 137\r\n"
+    ],
+    [
+      0.002813,
+      "UDP-MIB::udpLocalPort.0.0.0.0.161 = INTEGER: 161\r\n"
+    ],
+    [
+      0.002741,
+      "UDP-MIB::udpLocalPort.0.0.0.0.1900 = INTEGER: 1900\r\n"
+    ],
+    [
+      0.002960,
+      "UDP-MIB::udpLocalPort.0.0.0.0.3702 = INTEGER: 3702\r\n"
+    ],
+    [
+      0.003052,
+      "UDP-MIB::udpLocalPort.0.0.0.0.5353 = INTEGER: 5353\r\n"
+    ],
+    [
+      0.003085,
+      "UDP-MIB::udpLocalPort.0.0.0.0.6000 = INTEGER: 6000\r\n"
+    ],
+    [
+      0.002709,
+      "UDP-MIB::udpLocalPort.0.0.0.0.7000 = INTEGER: 7000\r\n"
+    ],
+    [
+      0.003614,
+      "SNMPv2-MIB::snmpInPkts.0 = Counter32: 2162\r\n"
+    ],
+    [
+      0.002659,
+      "SNMPv2-MIB::snmpOutPkts.0 = Counter32: 2155\r\n"
+    ],
+    [
+      0.003019,
+      "SNMPv2-MIB::snmpInBadVersions.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.047895,
+      "SNMPv2-MIB::snmpInBadCommunityNames.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002917,
+      "SNMPv2-MIB::snmpInBadCommunityUses.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.003127,
+      "SNMPv2-MIB::snmpInASNParseErrs.0 = Counter32: 1\r\n"
+    ],
+    [
+      0.007537,
+      "SNMPv2-MIB::snmpInTooBigs.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.003021,
+      "SNMPv2-MIB::snmpInNoSuchNames.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.003007,
+      "SNMPv2-MIB::snmpInBadValues.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002926,
+      "SNMPv2-MIB::snmpInReadOnlys.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.003045,
+      "SNMPv2-MIB::snmpInGenErrs.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002750,
+      "SNMPv2-MIB::snmpInTotalReqVars.0 = Counter32: 2159\r\n"
+    ],
+    [
+      0.002689,
+      "SNMPv2-MIB::snmpInTotalSetVars.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002962,
+      "SNMPv2-MIB::snmpInGetRequests.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002821,
+      "SNMPv2-MIB::snmpInGetNexts.0 = Counter32: 2163\r\n"
+    ],
+    [
+      0.002704,
+      "SNMPv2-MIB::snmpInSetRequests.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002924,
+      "SNMPv2-MIB::snmpInGetResponses.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002980,
+      "SNMPv2-MIB::snmpInTraps.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002860,
+      "SNMPv2-MIB::snmpOutTooBigs.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002717,
+      "SNMPv2-MIB::snmpOutNoSuchNames.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002799,
+      "SNMPv2-MIB::snmpOutBadValues.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.003030,
+      "SNMPv2-MIB::snmpOutGenErrs.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.003036,
+      "SNMPv2-MIB::snmpOutGetRequests.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002854,
+      "SNMPv2-MIB::snmpOutGetNexts.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002964,
+      "SNMPv2-MIB::snmpOutSetRequests.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002887,
+      "SNMPv2-MIB::snmpOutGetResponses.0 = Counter32: 2177\r\n"
+    ],
+    [
+      0.002891,
+      "SNMPv2-MIB::snmpOutTraps.0 = Counter32: 0\r\n"
+    ],
+    [
+      0.002783,
+      "SNMPv2-MIB::snmpEnableAuthenTraps.0 = INTEGER: enabled(1)\r\n"
+    ],
+    [
+      0.002750,
+      "HOST-RESOURCES-MIB::hrSystemUptime.0 = Timeticks: (114200) 0:19:02.00\r\n"
+    ],
+    [
+      0.003037,
+      "HOST-RESOURCES-MIB::hrSystemDate.0 = STRING: 2015-3-30,7:16:49.0,-5:0\r\n"
+    ],
+    [
+      0.002796,
+      "HOST-RESOURCES-MIB::hrSystemInitialLoadDevice.0 = INTEGER: 0\r\n"
+    ],
+    [
+      0.003185,
+      "HOST-RESOURCES-MIB::hrSystemInitialLoadParameters.0 = \"\"\r\n"
+    ],
+    [
+      0.002852,
+      "HOST-RESOURCES-MIB::hrSystemNumUsers.0 = Gauge32: 0\r\n"
+    ],
+    [
+      0.003047,
+      "HOST-RESOURCES-MIB::hrSystemProcesses.0 = Gauge32: 0\r\n"
+    ],
+    [
+      0.010444,
+      "HOST-RESOURCES-MIB::hrSystemMaxProcesses.0 = INTEGER: 0\r\n"
+    ],
+    [
+      0.003153,
+      "HOST-RESOURCES-MIB::hrMemorySize.0 = INTEGER: 262144 KBytes\r\n"
+    ],
+    [
+      0.002990,
+      "HOST-RESOURCES-MIB::hrStorageIndex.1 = INTEGER: 1\r\n"
+    ],
+    [
+      0.003296,
+      "HOST-RESOURCES-MIB::hrStorageType.1 = OID: HOST-RESOURCES-TYPES::hrStorageRam\r\n"
+    ],
+    [
+      0.002966,
+      "HOST-RESOURCES-MIB::hrStorageDescr.1 = STRING: RAM\r\n"
+    ],
+    [
+      0.003122,
+      "HOST-RESOURCES-MIB::hrStorageAllocationUnits.1 = INTEGER: 1024 Bytes\r\n"
+    ],
+    [
+      0.003066,
+      "HOST-RESOURCES-MIB::hrStorageSize.1 = INTEGER: 262144\r\n"
+    ],
+    [
+      0.002940,
+      "HOST-RESOURCES-MIB::hrStorageUsed.1 = INTEGER: 109332\r\n"
+    ],
+    [
+      0.002974,
+      "HOST-RESOURCES-MIB::hrStorageAllocationFailures.1 = Wrong Type (should be Counter32): INTEGER: 0\r\n"
+    ],
+    [
+      0.002892,
+      "HOST-RESOURCES-MIB::hrDeviceIndex.1 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002741,
+      "HOST-RESOURCES-MIB::hrDeviceIndex.2 = INTEGER: 2\r\n"
+    ],
+    [
+      0.003003,
+      "HOST-RESOURCES-MIB::hrDeviceIndex.3 = INTEGER: 3\r\n"
+    ],
+    [
+      0.002751,
+      "HOST-RESOURCES-MIB::hrDeviceIndex.4 = INTEGER: 4\r\n"
+    ],
+    [
+      0.002577,
+      "HOST-RESOURCES-MIB::hrDeviceIndex.5 = INTEGER: 5\r\n"
+    ],
+    [
+      0.002698,
+      "HOST-RESOURCES-MIB::hrDeviceIndex.6 = INTEGER: 6\r\n"
+    ],
+    [
+      0.002895,
+      "HOST-RESOURCES-MIB::hrDeviceIndex.7 = INTEGER: 7\r\n"
+    ],
+    [
+      0.002628,
+      "HOST-RESOURCES-MIB::hrDeviceIndex.8 = INTEGER: 8\r\n"
+    ],
+    [
+      0.002843,
+      "HOST-RESOURCES-MIB::hrDeviceType.1 = OID: HOST-RESOURCES-TYPES::hrDevicePrinter\r\n"
+    ],
+    [
+      0.002669,
+      "HOST-RESOURCES-MIB::hrDeviceType.2 = OID: HOST-RESOURCES-TYPES::hrDeviceProcessor\r\n"
+    ],
+    [
+      0.002730,
+      "HOST-RESOURCES-MIB::hrDeviceType.3 = OID: HOST-RESOURCES-TYPES::hrDeviceVolatileMemory\r\n"
+    ],
+    [
+      0.002882,
+      "HOST-RESOURCES-MIB::hrDeviceType.4 = OID: SNMPv2-SMI::enterprises.236.11.5.11.53.3.1\r\n"
+    ],
+    [
+      0.002537,
+      "HOST-RESOURCES-MIB::hrDeviceType.5 = OID: HOST-RESOURCES-TYPES::hrDeviceOther\r\n"
+    ],
+    [
+      0.003053,
+      "HOST-RESOURCES-MIB::hrDeviceType.6 = OID: HOST-RESOURCES-TYPES::hrDeviceNetwork\r\n"
+    ],
+    [
+      0.002976,
+      "HOST-RESOURCES-MIB::hrDeviceType.7 = OID: SNMPv2-SMI::enterprises.236.11.5.11.53.3.3\r\n"
+    ],
+    [
+      0.002935,
+      "HOST-RESOURCES-MIB::hrDeviceType.8 = OID: SNMPv2-SMI::enterprises.236.11.5.11.53.3.2\r\n"
+    ],
+    [
+      0.003129,
+      "HOST-RESOURCES-MIB::hrDeviceDescr.1 = STRING: Samsung M337x 387x 407x Series\r\n"
+    ],
+    [
+      0.002763,
+      "HOST-RESOURCES-MIB::hrDeviceDescr.2 = STRING: CPU\r\n"
+    ],
+    [
+      0.002681,
+      "HOST-RESOURCES-MIB::hrDeviceDescr.3 = STRING: RAM 262144 KB - Volatile Memory\r\n"
+    ],
+    [
+      0.002343,
+      "HOST-RESOURCES-MIB::hrDeviceDescr.4 = STRING: Samsung Copy Service, Simplex/Duplex\r\n"
+    ],
+    [
+      0.003079,
+      "HOST-RESOURCES-MIB::hrDeviceDescr.5 = STRING: Universal Serial Bus, 1 MBit/second\r\n"
+    ],
+    [
+      0.002791,
+      "HOST-RESOURCES-MIB::hrDeviceDescr.6 = STRING: Ethernet Card 10/100/1000 Mbps v1 UTP RJ-45 connector A1\r\n"
+    ],
+    [
+      0.002638,
+      "HOST-RESOURCES-MIB::hrDeviceDescr.7 = STRING: Samsung Color Scanner, 38ppm, Auto Doc Feeder, 600 X 600 dpi\r\n"
+    ],
+    [
+      0.002975,
+      "HOST-RESOURCES-MIB::hrDeviceDescr.8 = STRING: Samsung Embeded Fax Service\r\n"
+    ],
+    [
+      0.002744,
+      "HOST-RESOURCES-MIB::hrDeviceID.1 = OID: SNMPv2-SMI::enterprises.236.11.5.1\r\n"
+    ],
+    [
+      0.002624,
+      "HOST-RESOURCES-MIB::hrDeviceID.2 = OID: SNMPv2-SMI::zeroDotZero\r\n"
+    ],
+    [
+      0.002668,
+      "HOST-RESOURCES-MIB::hrDeviceID.3 = OID: SNMPv2-SMI::zeroDotZero\r\n"
+    ],
+    [
+      0.002789,
+      "HOST-RESOURCES-MIB::hrDeviceID.4 = OID: SNMPv2-SMI::zeroDotZero\r\n"
+    ],
+    [
+      0.002843,
+      "HOST-RESOURCES-MIB::hrDeviceID.5 = OID: SNMPv2-SMI::zeroDotZero\r\n"
+    ],
+    [
+      0.002736,
+      "HOST-RESOURCES-MIB::hrDeviceID.6 = OID: SNMPv2-SMI::zeroDotZero\r\n"
+    ],
+    [
+      0.002933,
+      "HOST-RESOURCES-MIB::hrDeviceID.7 = OID: SNMPv2-SMI::zeroDotZero\r\n"
+    ],
+    [
+      0.002941,
+      "HOST-RESOURCES-MIB::hrDeviceID.8 = OID: SNMPv2-SMI::zeroDotZero\r\n"
+    ],
+    [
+      0.002751,
+      "HOST-RESOURCES-MIB::hrDeviceStatus.1 = INTEGER: running(2)\r\n"
+    ],
+    [
+      0.002901,
+      "HOST-RESOURCES-MIB::hrDeviceStatus.2 = INTEGER: running(2)\r\n"
+    ],
+    [
+      0.002855,
+      "HOST-RESOURCES-MIB::hrDeviceStatus.3 = INTEGER: running(2)\r\n"
+    ],
+    [
+      0.002649,
+      "HOST-RESOURCES-MIB::hrDeviceStatus.4 = INTEGER: running(2)\r\n"
+    ],
+    [
+      0.002693,
+      "HOST-RESOURCES-MIB::hrDeviceStatus.5 = INTEGER: running(2)\r\n"
+    ],
+    [
+      0.002462,
+      "HOST-RESOURCES-MIB::hrDeviceStatus.6 = INTEGER: running(2)\r\n"
+    ],
+    [
+      0.002969,
+      "HOST-RESOURCES-MIB::hrDeviceStatus.7 = INTEGER: running(2)\r\n"
+    ],
+    [
+      0.002716,
+      "HOST-RESOURCES-MIB::hrDeviceStatus.8 = INTEGER: running(2)\r\n"
+    ],
+    [
+      0.002758,
+      "HOST-RESOURCES-MIB::hrDeviceErrors.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002810,
+      "HOST-RESOURCES-MIB::hrDeviceErrors.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.002872,
+      "HOST-RESOURCES-MIB::hrDeviceErrors.3 = Counter32: 0\r\n"
+    ],
+    [
+      0.002824,
+      "HOST-RESOURCES-MIB::hrDeviceErrors.4 = Counter32: 0\r\n"
+    ],
+    [
+      0.002738,
+      "HOST-RESOURCES-MIB::hrDeviceErrors.5 = Counter32: 0\r\n"
+    ],
+    [
+      0.002787,
+      "HOST-RESOURCES-MIB::hrDeviceErrors.6 = Counter32: 0\r\n"
+    ],
+    [
+      0.002766,
+      "HOST-RESOURCES-MIB::hrDeviceErrors.7 = Counter32: 0\r\n"
+    ],
+    [
+      0.002834,
+      "HOST-RESOURCES-MIB::hrDeviceErrors.8 = Counter32: 0\r\n"
+    ],
+    [
+      0.003041,
+      "HOST-RESOURCES-MIB::hrProcessorFrwID.2 = OID: SNMPv2-SMI::zeroDotZero\r\n"
+    ],
+    [
+      0.003111,
+      "HOST-RESOURCES-MIB::hrProcessorLoad.2 = INTEGER: 0\r\n"
+    ],
+    [
+      0.002983,
+      "HOST-RESOURCES-MIB::hrNetworkIfIndex.6 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002900,
+      "HOST-RESOURCES-MIB::hrPrinterStatus.1 = INTEGER: idle(3)\r\n"
+    ],
+    [
+      0.003002,
+      "HOST-RESOURCES-MIB::hrPrinterDetectedErrorState.1 = Hex-STRING: 00 00 \r\n"
+    ],
+    [
+      0.004839,
+      "HOST-RESOURCES-MIB::hrSWOSIndex.0 = INTEGER: 0\r\n"
+    ],
+    [
+      0.003872,
+      "HOST-RESOURCES-MIB::hrSWInstalledLastChange.0 = Timeticks: (0) 0:00:00.00\r\n"
+    ],
+    [
+      0.002904,
+      "HOST-RESOURCES-MIB::hrSWInstalledLastUpdateTime.0 = Timeticks: (0) 0:00:00.00\r\n"
+    ],
+    [
+      0.002945,
+      "HOST-RESOURCES-MIB::hrSWInstalledIndex.1 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002585,
+      "HOST-RESOURCES-MIB::hrSWInstalledIndex.2 = INTEGER: 2\r\n"
+    ],
+    [
+      0.003033,
+      "HOST-RESOURCES-MIB::hrSWInstalledIndex.3 = INTEGER: 3\r\n"
+    ],
+    [
+      0.002745,
+      "HOST-RESOURCES-MIB::hrSWInstalledIndex.4 = INTEGER: 4\r\n"
+    ],
+    [
+      0.002988,
+      "HOST-RESOURCES-MIB::hrSWInstalledName.1 = STRING: \"Samsung M337x 387x 407x Series Main V4.00.01.16 Feb-24-2014\"\r\n"
+    ],
+    [
+      0.002846,
+      "HOST-RESOURCES-MIB::hrSWInstalledName.2 = STRING: \"Samsung M337x 387x 407x Series Engine V1.00.02\"\r\n"
+    ],
+    [
+      0.002662,
+      "HOST-RESOURCES-MIB::hrSWInstalledName.3 = STRING: \"Samsung M337x 387x 407x Series Network V4.01.19 NOV-07-2013\"\r\n"
+    ],
+    [
+      0.002879,
+      "HOST-RESOURCES-MIB::hrSWInstalledName.4 = STRING: \"Samsung M337x 387x 407x Series AddressBook V1.0.0\"\r\n"
+    ],
+    [
+      0.002841,
+      "HOST-RESOURCES-MIB::hrSWInstalledID.1 = OID: SNMPv2-SMI::zeroDotZero\r\n"
+    ],
+    [
+      0.003410,
+      "HOST-RESOURCES-MIB::hrSWInstalledID.2 = OID: SNMPv2-SMI::zeroDotZero\r\n"
+    ],
+    [
+      0.002342,
+      "HOST-RESOURCES-MIB::hrSWInstalledID.3 = OID: SNMPv2-SMI::zeroDotZero\r\n"
+    ],
+    [
+      0.002515,
+      "HOST-RESOURCES-MIB::hrSWInstalledID.4 = OID: SNMPv2-SMI::zeroDotZero\r\n"
+    ],
+    [
+      0.002759,
+      "HOST-RESOURCES-MIB::hrSWInstalledType.1 = INTEGER: operatingSystem(2)\r\n"
+    ],
+    [
+      0.002672,
+      "HOST-RESOURCES-MIB::hrSWInstalledType.2 = INTEGER: application(4)\r\n"
+    ],
+    [
+      0.002303,
+      "HOST-RESOURCES-MIB::hrSWInstalledType.3 = INTEGER: application(4)\r\n"
+    ],
+    [
+      0.002658,
+      "HOST-RESOURCES-MIB::hrSWInstalledType.4 = INTEGER: application(4)\r\n"
+    ],
+    [
+      0.002826,
+      "HOST-RESOURCES-MIB::hrSWInstalledDate.1 = STRING: 2000-0-0,0:0:0.0,+0:0\r\n"
+    ],
+    [
+      0.002692,
+      "HOST-RESOURCES-MIB::hrSWInstalledDate.2 = STRING: 2000-0-0,0:0:0.0,+0:0\r\n"
+    ],
+    [
+      0.002910,
+      "HOST-RESOURCES-MIB::hrSWInstalledDate.3 = STRING: 2000-0-0,0:0:0.0,+0:0\r\n"
+    ],
+    [
+      0.002752,
+      "HOST-RESOURCES-MIB::hrSWInstalledDate.4 = STRING: 2000-0-0,0:0:0.0,+0:0\r\n"
+    ],
+    [
+      0.003216,
+      "SNMPv2-SMI::mib-2.43.5.1.1.1.1 = Counter32: 30\r\n"
+    ],
+    [
+      0.002776,
+      "SNMPv2-SMI::mib-2.43.5.1.1.2.1 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002926,
+      "SNMPv2-SMI::mib-2.43.5.1.1.3.1 = INTEGER: 3\r\n"
+    ],
+    [
+      0.003030,
+      "SNMPv2-SMI::mib-2.43.5.1.1.4.1 = STRING: \"Network Administrator\"\r\n"
+    ],
+    [
+      0.002868,
+      "SNMPv2-SMI::mib-2.43.5.1.1.5.1 = STRING: \"Samsung Electronics\"\r\n"
+    ],
+    [
+      0.002924,
+      "SNMPv2-SMI::mib-2.43.5.1.1.6.1 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002979,
+      "SNMPv2-SMI::mib-2.43.5.1.1.7.1 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002986,
+      "SNMPv2-SMI::mib-2.43.5.1.1.8.1 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002710,
+      "SNMPv2-SMI::mib-2.43.5.1.1.9.1 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002809,
+      "SNMPv2-SMI::mib-2.43.5.1.1.10.1 = INTEGER: 1\r\n"
+    ],
+    [
+      0.003048,
+      "SNMPv2-SMI::mib-2.43.5.1.1.11.1 = INTEGER: 4\r\n"
+    ],
+    [
+      0.002871,
+      "SNMPv2-SMI::mib-2.43.5.1.1.12.1 = INTEGER: 20\r\n"
+    ],
+    [
+      0.002762,
+      "SNMPv2-SMI::mib-2.43.5.1.1.13.1 = INTEGER: 3\r\n"
+    ],
+    [
+      0.002789,
+      "SNMPv2-SMI::mib-2.43.5.1.1.14.1 = INTEGER: 4\r\n"
+    ],
+    [
+      0.003098,
+      "SNMPv2-SMI::mib-2.43.5.1.1.15.1 = INTEGER: 4\r\n"
+    ],
+    [
+      0.003036,
+      "SNMPv2-SMI::mib-2.43.5.1.1.16.1 = STRING: \"Printopolis\"\r\n"
+    ],
+    [
+      0.002702,
+      "SNMPv2-SMI::mib-2.43.5.1.1.17.1 = STRING: \"ZDELBJAF40002NE\"\r\n"
+    ],
+    [
+      0.002720,
+      "SNMPv2-SMI::mib-2.43.5.1.1.18.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002827,
+      "SNMPv2-SMI::mib-2.43.5.1.1.19.1 = Counter32: 1\r\n"
+    ],
+    [
+      0.003077,
+      "SNMPv2-SMI::mib-2.43.5.2.1.2.1.1 = INTEGER: 0\r\n"
+    ],
+    [
+      0.003034,
+      "SNMPv2-SMI::mib-2.43.5.3.1.2.1.1 = INTEGER: 0\r\n"
+    ],
+    [
+      0.002972,
+      "SNMPv2-SMI::mib-2.43.6.1.1.2.1.1 = STRING: \"Main Front Door\"\r\n"
+    ],
+    [
+      0.002869,
+      "SNMPv2-SMI::mib-2.43.6.1.1.2.1.2 = STRING: \"Rear Door\"\r\n"
+    ],
+    [
+      0.002772,
+      "SNMPv2-SMI::mib-2.43.6.1.1.3.1.1 = INTEGER: 4\r\n"
+    ],
+    [
+      0.003016,
+      "SNMPv2-SMI::mib-2.43.6.1.1.3.1.2 = INTEGER: 4\r\n"
+    ],
+    [
+      0.002988,
+      "SNMPv2-SMI::mib-2.43.7.1.1.2.1.1 = STRING: \"en\"\r\n"
+    ],
+    [
+      0.002598,
+      "SNMPv2-SMI::mib-2.43.7.1.1.2.1.2 = STRING: \"fr\"\r\n"
+    ],
+    [
+      0.002651,
+      "SNMPv2-SMI::mib-2.43.7.1.1.2.1.3 = STRING: \"es\"\r\n"
+    ],
+    [
+      0.002997,
+      "SNMPv2-SMI::mib-2.43.7.1.1.2.1.4 = STRING: \"pt\"\r\n"
+    ],
+    [
+      0.002643,
+      "SNMPv2-SMI::mib-2.43.7.1.1.2.1.5 = STRING: \"de\"\r\n"
+    ],
+    [
+      0.002691,
+      "SNMPv2-SMI::mib-2.43.7.1.1.2.1.6 = STRING: \"it\"\r\n"
+    ],
+    [
+      0.002732,
+      "SNMPv2-SMI::mib-2.43.7.1.1.2.1.7 = STRING: \"nl\"\r\n"
+    ],
+    [
+      0.002911,
+      "SNMPv2-SMI::mib-2.43.7.1.1.2.1.8 = STRING: \"ru\"\r\n"
+    ],
+    [
+      0.058695,
+      "SNMPv2-SMI::mib-2.43.7.1.1.2.1.9 = STRING: \"no\"\r\n"
+    ],
+    [
+      0.002541,
+      "SNMPv2-SMI::mib-2.43.7.1.1.2.1.10 = STRING: \"pl\"\r\n"
+    ],
+    [
+      0.002887,
+      "SNMPv2-SMI::mib-2.43.7.1.1.2.1.11 = STRING: \"fi\"\r\n"
+    ],
+    [
+      0.002930,
+      "SNMPv2-SMI::mib-2.43.7.1.1.2.1.12 = STRING: \"hu\"\r\n"
+    ],
+    [
+      0.002763,
+      "SNMPv2-SMI::mib-2.43.7.1.1.2.1.13 = STRING: \"da\"\r\n"
+    ],
+    [
+      0.002671,
+      "SNMPv2-SMI::mib-2.43.7.1.1.2.1.14 = STRING: \"cs\"\r\n"
+    ],
+    [
+      0.002678,
+      "SNMPv2-SMI::mib-2.43.7.1.1.2.1.15 = STRING: \"sv\"\r\n"
+    ],
+    [
+      0.003189,
+      "SNMPv2-SMI::mib-2.43.7.1.1.2.1.16 = STRING: \"pt\"\r\n"
+    ],
+    [
+      0.002630,
+      "SNMPv2-SMI::mib-2.43.7.1.1.2.1.17 = STRING: \"fr\"\r\n"
+    ],
+    [
+      0.002904,
+      "SNMPv2-SMI::mib-2.43.7.1.1.2.1.18 = STRING: \"zh\"\r\n"
+    ],
+    [
+      0.002839,
+      "SNMPv2-SMI::mib-2.43.7.1.1.2.1.19 = STRING: \"ko\"\r\n"
+    ],
+    [
+      0.002474,
+      "SNMPv2-SMI::mib-2.43.7.1.1.2.1.20 = STRING: \"ja\"\r\n"
+    ],
+    [
+      0.002898,
+      "SNMPv2-SMI::mib-2.43.7.1.1.2.1.21 = STRING: \"tr\"\r\n"
+    ],
+    [
+      0.002700,
+      "SNMPv2-SMI::mib-2.43.7.1.1.3.1.1 = STRING: \"US\"\r\n"
+    ],
+    [
+      0.002808,
+      "SNMPv2-SMI::mib-2.43.7.1.1.3.1.2 = STRING: \"FR\"\r\n"
+    ],
+    [
+      0.002794,
+      "SNMPv2-SMI::mib-2.43.7.1.1.3.1.3 = STRING: \"ES\"\r\n"
+    ],
+    [
+      0.002652,
+      "SNMPv2-SMI::mib-2.43.7.1.1.3.1.4 = STRING: \"PT\"\r\n"
+    ],
+    [
+      0.002941,
+      "SNMPv2-SMI::mib-2.43.7.1.1.3.1.5 = STRING: \"DE\"\r\n"
+    ],
+    [
+      0.002822,
+      "SNMPv2-SMI::mib-2.43.7.1.1.3.1.6 = STRING: \"IT\"\r\n"
+    ],
+    [
+      0.002447,
+      "SNMPv2-SMI::mib-2.43.7.1.1.3.1.7 = STRING: \"NL\"\r\n"
+    ],
+    [
+      0.002837,
+      "SNMPv2-SMI::mib-2.43.7.1.1.3.1.8 = STRING: \"RU\"\r\n"
+    ],
+    [
+      0.002921,
+      "SNMPv2-SMI::mib-2.43.7.1.1.3.1.9 = STRING: \"NO\"\r\n"
+    ],
+    [
+      0.002869,
+      "SNMPv2-SMI::mib-2.43.7.1.1.3.1.10 = STRING: \"PL\"\r\n"
+    ],
+    [
+      0.002900,
+      "SNMPv2-SMI::mib-2.43.7.1.1.3.1.11 = STRING: \"FI\"\r\n"
+    ],
+    [
+      0.002627,
+      "SNMPv2-SMI::mib-2.43.7.1.1.3.1.12 = STRING: \"HU\"\r\n"
+    ],
+    [
+      0.002967,
+      "SNMPv2-SMI::mib-2.43.7.1.1.3.1.13 = STRING: \"DK\"\r\n"
+    ],
+    [
+      0.002645,
+      "SNMPv2-SMI::mib-2.43.7.1.1.3.1.14 = STRING: \"CZ\"\r\n"
+    ],
+    [
+      0.002810,
+      "SNMPv2-SMI::mib-2.43.7.1.1.3.1.15 = STRING: \"SE\"\r\n"
+    ],
+    [
+      0.002712,
+      "SNMPv2-SMI::mib-2.43.7.1.1.3.1.16 = STRING: \"BR\"\r\n"
+    ],
+    [
+      0.002513,
+      "SNMPv2-SMI::mib-2.43.7.1.1.3.1.17 = STRING: \"CA\"\r\n"
+    ],
+    [
+      0.002775,
+      "SNMPv2-SMI::mib-2.43.7.1.1.3.1.18 = STRING: \"CN\"\r\n"
+    ],
+    [
+      0.002558,
+      "SNMPv2-SMI::mib-2.43.7.1.1.3.1.19 = STRING: \"KR\"\r\n"
+    ],
+    [
+      0.002878,
+      "SNMPv2-SMI::mib-2.43.7.1.1.3.1.20 = STRING: \"JP\"\r\n"
+    ],
+    [
+      0.002790,
+      "SNMPv2-SMI::mib-2.43.7.1.1.3.1.21 = STRING: \"TR\"\r\n"
+    ],
+    [
+      0.003031,
+      "SNMPv2-SMI::mib-2.43.7.1.1.4.1.1 = INTEGER: 106\r\n"
+    ],
+    [
+      0.002744,
+      "SNMPv2-SMI::mib-2.43.7.1.1.4.1.2 = INTEGER: 106\r\n"
+    ],
+    [
+      0.002876,
+      "SNMPv2-SMI::mib-2.43.7.1.1.4.1.3 = INTEGER: 106\r\n"
+    ],
+    [
+      0.002642,
+      "SNMPv2-SMI::mib-2.43.7.1.1.4.1.4 = INTEGER: 106\r\n"
+    ],
+    [
+      0.002721,
+      "SNMPv2-SMI::mib-2.43.7.1.1.4.1.5 = INTEGER: 106\r\n"
+    ],
+    [
+      0.002869,
+      "SNMPv2-SMI::mib-2.43.7.1.1.4.1.6 = INTEGER: 106\r\n"
+    ],
+    [
+      0.002807,
+      "SNMPv2-SMI::mib-2.43.7.1.1.4.1.7 = INTEGER: 106\r\n"
+    ],
+    [
+      0.002921,
+      "SNMPv2-SMI::mib-2.43.7.1.1.4.1.8 = INTEGER: 106\r\n"
+    ],
+    [
+      0.002558,
+      "SNMPv2-SMI::mib-2.43.7.1.1.4.1.9 = INTEGER: 106\r\n"
+    ],
+    [
+      0.003013,
+      "SNMPv2-SMI::mib-2.43.7.1.1.4.1.10 = INTEGER: 106\r\n"
+    ],
+    [
+      0.002663,
+      "SNMPv2-SMI::mib-2.43.7.1.1.4.1.11 = INTEGER: 106\r\n"
+    ],
+    [
+      0.006891,
+      "SNMPv2-SMI::mib-2.43.7.1.1.4.1.12 = INTEGER: 106\r\n"
+    ],
+    [
+      0.002650,
+      "SNMPv2-SMI::mib-2.43.7.1.1.4.1.13 = INTEGER: 106\r\n"
+    ],
+    [
+      0.002482,
+      "SNMPv2-SMI::mib-2.43.7.1.1.4.1.14 = INTEGER: 106\r\n"
+    ],
+    [
+      0.002686,
+      "SNMPv2-SMI::mib-2.43.7.1.1.4.1.15 = INTEGER: 106\r\n"
+    ],
+    [
+      0.008613,
+      "SNMPv2-SMI::mib-2.43.7.1.1.4.1.16 = INTEGER: 106\r\n"
+    ],
+    [
+      0.002904,
+      "SNMPv2-SMI::mib-2.43.7.1.1.4.1.17 = INTEGER: 106\r\n"
+    ],
+    [
+      0.002776,
+      "SNMPv2-SMI::mib-2.43.7.1.1.4.1.18 = INTEGER: 106\r\n"
+    ],
+    [
+      0.002874,
+      "SNMPv2-SMI::mib-2.43.7.1.1.4.1.19 = INTEGER: 106\r\n"
+    ],
+    [
+      0.002375,
+      "SNMPv2-SMI::mib-2.43.7.1.1.4.1.20 = INTEGER: 106\r\n"
+    ],
+    [
+      0.002918,
+      "SNMPv2-SMI::mib-2.43.7.1.1.4.1.21 = INTEGER: 106\r\n"
+    ],
+    [
+      0.002896,
+      "SNMPv2-SMI::mib-2.43.8.2.1.2.1.1 = INTEGER: 4\r\n"
+    ],
+    [
+      0.002613,
+      "SNMPv2-SMI::mib-2.43.8.2.1.2.1.2 = INTEGER: 4\r\n"
+    ],
+    [
+      0.002955,
+      "SNMPv2-SMI::mib-2.43.8.2.1.3.1.1 = INTEGER: 4\r\n"
+    ],
+    [
+      0.002630,
+      "SNMPv2-SMI::mib-2.43.8.2.1.3.1.2 = INTEGER: 4\r\n"
+    ],
+    [
+      0.002983,
+      "SNMPv2-SMI::mib-2.43.8.2.1.4.1.1 = INTEGER: 279400\r\n"
+    ],
+    [
+      0.002757,
+      "SNMPv2-SMI::mib-2.43.8.2.1.4.1.2 = INTEGER: 279400\r\n"
+    ],
+    [
+      0.003250,
+      "SNMPv2-SMI::mib-2.43.8.2.1.5.1.1 = INTEGER: 215900\r\n"
+    ],
+    [
+      0.002642,
+      "SNMPv2-SMI::mib-2.43.8.2.1.5.1.2 = INTEGER: 215900\r\n"
+    ],
+    [
+      0.002725,
+      "SNMPv2-SMI::mib-2.43.8.2.1.6.1.1 = INTEGER: -2\r\n"
+    ],
+    [
+      0.002786,
+      "SNMPv2-SMI::mib-2.43.8.2.1.6.1.2 = INTEGER: -2\r\n"
+    ],
+    [
+      0.002908,
+      "SNMPv2-SMI::mib-2.43.8.2.1.7.1.1 = INTEGER: -2\r\n"
+    ],
+    [
+      0.002870,
+      "SNMPv2-SMI::mib-2.43.8.2.1.7.1.2 = INTEGER: -2\r\n"
+    ],
+    [
+      0.002980,
+      "SNMPv2-SMI::mib-2.43.8.2.1.8.1.1 = INTEGER: 8\r\n"
+    ],
+    [
+      0.002886,
+      "SNMPv2-SMI::mib-2.43.8.2.1.8.1.2 = INTEGER: 8\r\n"
+    ],
+    [
+      0.002847,
+      "SNMPv2-SMI::mib-2.43.8.2.1.9.1.1 = INTEGER: 250\r\n"
+    ],
+    [
+      0.002344,
+      "SNMPv2-SMI::mib-2.43.8.2.1.9.1.2 = INTEGER: 50\r\n"
+    ],
+    [
+      0.002936,
+      "SNMPv2-SMI::mib-2.43.8.2.1.10.1.1 = INTEGER: -3\r\n"
+    ],
+    [
+      0.002830,
+      "SNMPv2-SMI::mib-2.43.8.2.1.10.1.2 = INTEGER: 0\r\n"
+    ],
+    [
+      0.003025,
+      "SNMPv2-SMI::mib-2.43.8.2.1.11.1.1 = INTEGER: 0\r\n"
+    ],
+    [
+      0.002635,
+      "SNMPv2-SMI::mib-2.43.8.2.1.11.1.2 = INTEGER: 0\r\n"
+    ],
+    [
+      0.003271,
+      "SNMPv2-SMI::mib-2.43.8.2.1.12.1.1 = STRING: \"na_letter\"\r\n"
+    ],
+    [
+      0.002755,
+      "SNMPv2-SMI::mib-2.43.8.2.1.12.1.2 = STRING: \"na_letter\"\r\n"
+    ],
+    [
+      0.002793,
+      "SNMPv2-SMI::mib-2.43.8.2.1.13.1.1 = STRING: \"Tray 1\"\r\n"
+    ],
+    [
+      0.002774,
+      "SNMPv2-SMI::mib-2.43.8.2.1.13.1.2 = STRING: \"Manual Feeder\"\r\n"
+    ],
+    [
+      0.003036,
+      "SNMPv2-SMI::mib-2.43.8.2.1.14.1.1 = STRING: \"Samsung Electronics\"\r\n"
+    ],
+    [
+      0.002934,
+      "SNMPv2-SMI::mib-2.43.8.2.1.14.1.2 = STRING: \"Samsung Electronics\"\r\n"
+    ],
+    [
+      0.002734,
+      "SNMPv2-SMI::mib-2.43.8.2.1.15.1.1 = STRING: \"Samsung Internal Input Tray\"\r\n"
+    ],
+    [
+      0.002933,
+      "SNMPv2-SMI::mib-2.43.8.2.1.15.1.2 = STRING: \"Samsung External Media Handler\"\r\n"
+    ],
+    [
+      0.002872,
+      "SNMPv2-SMI::mib-2.43.8.2.1.16.1.1 = NULL\r\n"
+    ],
+    [
+      0.002393,
+      "SNMPv2-SMI::mib-2.43.8.2.1.16.1.2 = NULL\r\n"
+    ],
+    [
+      0.003117,
+      "SNMPv2-SMI::mib-2.43.8.2.1.17.1.1 = STRING: \"0001\"\r\n"
+    ],
+    [
+      0.002857,
+      "SNMPv2-SMI::mib-2.43.8.2.1.17.1.2 = STRING: \"0001\"\r\n"
+    ],
+    [
+      0.003006,
+      "SNMPv2-SMI::mib-2.43.8.2.1.18.1.1 = STRING: \"Tray 1\"\r\n"
+    ],
+    [
+      0.002849,
+      "SNMPv2-SMI::mib-2.43.8.2.1.18.1.2 = STRING: \"Manual Feeder\"\r\n"
+    ],
+    [
+      0.003108,
+      "SNMPv2-SMI::mib-2.43.8.2.1.19.1.1 = INTEGER: 5\r\n"
+    ],
+    [
+      0.002813,
+      "SNMPv2-SMI::mib-2.43.8.2.1.19.1.2 = INTEGER: 5\r\n"
+    ],
+    [
+      0.002859,
+      "SNMPv2-SMI::mib-2.43.8.2.1.20.1.1 = INTEGER: 0\r\n"
+    ],
+    [
+      0.002756,
+      "SNMPv2-SMI::mib-2.43.8.2.1.20.1.2 = INTEGER: 0\r\n"
+    ],
+    [
+      0.002875,
+      "SNMPv2-SMI::mib-2.43.8.2.1.21.1.1 = STRING: \"Plain\"\r\n"
+    ],
+    [
+      0.002824,
+      "SNMPv2-SMI::mib-2.43.8.2.1.21.1.2 = STRING: \"Plain\"\r\n"
+    ],
+    [
+      0.002872,
+      "SNMPv2-SMI::mib-2.43.8.2.1.22.1.1 = \"\"\r\n"
+    ],
+    [
+      0.003125,
+      "SNMPv2-SMI::mib-2.43.8.2.1.22.1.2 = \"\"\r\n"
+    ],
+    [
+      0.002749,
+      "SNMPv2-SMI::mib-2.43.8.2.1.23.1.1 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002683,
+      "SNMPv2-SMI::mib-2.43.8.2.1.23.1.2 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002928,
+      "SNMPv2-SMI::mib-2.43.8.2.1.24.1.1 = INTEGER: -1\r\n"
+    ],
+    [
+      0.002700,
+      "SNMPv2-SMI::mib-2.43.8.2.1.24.1.2 = INTEGER: -1\r\n"
+    ],
+    [
+      0.003255,
+      "SNMPv2-SMI::mib-2.43.8.2.1.25.1.1 = INTEGER: -3\r\n"
+    ],
+    [
+      0.002404,
+      "SNMPv2-SMI::mib-2.43.8.2.1.25.1.2 = INTEGER: -3\r\n"
+    ],
+    [
+      0.003060,
+      "SNMPv2-SMI::mib-2.43.9.2.1.2.1.1 = INTEGER: 4\r\n"
+    ],
+    [
+      0.002601,
+      "SNMPv2-SMI::mib-2.43.9.2.1.3.1.1 = INTEGER: 8\r\n"
+    ],
+    [
+      0.002432,
+      "SNMPv2-SMI::mib-2.43.9.2.1.4.1.1 = INTEGER: 150\r\n"
+    ],
+    [
+      0.002730,
+      "SNMPv2-SMI::mib-2.43.9.2.1.5.1.1 = INTEGER: 150\r\n"
+    ],
+    [
+      0.002843,
+      "SNMPv2-SMI::mib-2.43.9.2.1.6.1.1 = INTEGER: 0\r\n"
+    ],
+    [
+      0.002447,
+      "SNMPv2-SMI::mib-2.43.9.2.1.7.1.1 = STRING: \"Standard Bin\"\r\n"
+    ],
+    [
+      0.002695,
+      "SNMPv2-SMI::mib-2.43.9.2.1.8.1.1 = STRING: \"Samsung Electronics\"\r\n"
+    ],
+    [
+      0.002713,
+      "SNMPv2-SMI::mib-2.43.9.2.1.9.1.1 = STRING: \"Samsung Electronics\"\r\n"
+    ],
+    [
+      0.002704,
+      "SNMPv2-SMI::mib-2.43.9.2.1.10.1.1 = STRING: \"v1.0\"\r\n"
+    ],
+    [
+      0.003110,
+      "SNMPv2-SMI::mib-2.43.9.2.1.11.1.1 = STRING: \"0000\"\r\n"
+    ],
+    [
+      0.002907,
+      "SNMPv2-SMI::mib-2.43.9.2.1.12.1.1 = STRING: \"Standard Bin\"\r\n"
+    ],
+    [
+      0.007256,
+      "SNMPv2-SMI::mib-2.43.9.2.1.13.1.1 = INTEGER: 5\r\n"
+    ],
+    [
+      0.002578,
+      "SNMPv2-SMI::mib-2.43.9.2.1.14.1.1 = INTEGER: 4\r\n"
+    ],
+    [
+      0.003183,
+      "SNMPv2-SMI::mib-2.43.9.2.1.15.1.1 = INTEGER: 355600\r\n"
+    ],
+    [
+      0.002945,
+      "SNMPv2-SMI::mib-2.43.9.2.1.16.1.1 = INTEGER: 215900\r\n"
+    ],
+    [
+      0.003004,
+      "SNMPv2-SMI::mib-2.43.9.2.1.17.1.1 = INTEGER: 148500\r\n"
+    ],
+    [
+      0.003030,
+      "SNMPv2-SMI::mib-2.43.9.2.1.18.1.1 = INTEGER: 105000\r\n"
+    ],
+    [
+      0.002849,
+      "SNMPv2-SMI::mib-2.43.9.2.1.19.1.1 = INTEGER: 3\r\n"
+    ],
+    [
+      0.002951,
+      "SNMPv2-SMI::mib-2.43.9.2.1.20.1.1 = INTEGER: 4\r\n"
+    ],
+    [
+      0.002847,
+      "SNMPv2-SMI::mib-2.43.9.2.1.21.1.1 = INTEGER: 3\r\n"
+    ],
+    [
+      0.003082,
+      "SNMPv2-SMI::mib-2.43.9.2.1.22.1.1 = INTEGER: 3\r\n"
+    ],
+    [
+      0.003079,
+      "SNMPv2-SMI::mib-2.43.9.2.1.23.1.1 = INTEGER: 3\r\n"
+    ],
+    [
+      0.002894,
+      "SNMPv2-SMI::mib-2.43.9.2.1.24.1.1 = INTEGER: 3\r\n"
+    ],
+    [
+      0.003123,
+      "SNMPv2-SMI::mib-2.43.10.2.1.2.1.1 = INTEGER: 4\r\n"
+    ],
+    [
+      0.002889,
+      "SNMPv2-SMI::mib-2.43.10.2.1.3.1.1 = INTEGER: 7\r\n"
+    ],
+    [
+      0.003003,
+      "SNMPv2-SMI::mib-2.43.10.2.1.4.1.1 = INTEGER: 5\r\n"
+    ],
+    [
+      0.003000,
+      "SNMPv2-SMI::mib-2.43.10.2.1.5.1.1 = INTEGER: 0\r\n"
+    ],
+    [
+      0.002955,
+      "SNMPv2-SMI::mib-2.43.10.2.1.6.1.1 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002777,
+      "SNMPv2-SMI::mib-2.43.10.2.1.7.1.1 = INTEGER: 0\r\n"
+    ],
+    [
+      0.002667,
+      "SNMPv2-SMI::mib-2.43.10.2.1.8.1.1 = INTEGER: 3\r\n"
+    ],
+    [
+      0.003298,
+      "SNMPv2-SMI::mib-2.43.10.2.1.9.1.1 = INTEGER: 600\r\n"
+    ],
+    [
+      0.002561,
+      "SNMPv2-SMI::mib-2.43.10.2.1.10.1.1 = INTEGER: 600\r\n"
+    ],
+    [
+      0.002967,
+      "SNMPv2-SMI::mib-2.43.10.2.1.11.1.1 = INTEGER: -2\r\n"
+    ],
+    [
+      0.002892,
+      "SNMPv2-SMI::mib-2.43.10.2.1.12.1.1 = INTEGER: -2\r\n"
+    ],
+    [
+      0.002977,
+      "SNMPv2-SMI::mib-2.43.10.2.1.13.1.1 = INTEGER: -2\r\n"
+    ],
+    [
+      0.002991,
+      "SNMPv2-SMI::mib-2.43.10.2.1.14.1.1 = INTEGER: -2\r\n"
+    ],
+    [
+      0.002866,
+      "SNMPv2-SMI::mib-2.43.10.2.1.15.1.1 = INTEGER: 53\r\n"
+    ],
+    [
+      0.003066,
+      "SNMPv2-SMI::mib-2.43.11.1.1.2.1.1 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002688,
+      "SNMPv2-SMI::mib-2.43.11.1.1.2.1.2 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002789,
+      "SNMPv2-SMI::mib-2.43.11.1.1.2.1.3 = INTEGER: 1\r\n"
+    ],
+    [
+      0.003019,
+      "SNMPv2-SMI::mib-2.43.11.1.1.2.1.4 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002880,
+      "SNMPv2-SMI::mib-2.43.11.1.1.2.1.5 = INTEGER: 1\r\n"
+    ],
+    [
+      0.003066,
+      "SNMPv2-SMI::mib-2.43.11.1.1.3.1.1 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002802,
+      "SNMPv2-SMI::mib-2.43.11.1.1.3.1.2 = INTEGER: 0\r\n"
+    ],
+    [
+      0.002983,
+      "SNMPv2-SMI::mib-2.43.11.1.1.3.1.3 = INTEGER: 0\r\n"
+    ],
+    [
+      0.002637,
+      "SNMPv2-SMI::mib-2.43.11.1.1.3.1.4 = INTEGER: 0\r\n"
+    ],
+    [
+      0.002618,
+      "SNMPv2-SMI::mib-2.43.11.1.1.3.1.5 = INTEGER: 0\r\n"
+    ],
+    [
+      0.002940,
+      "SNMPv2-SMI::mib-2.43.11.1.1.4.1.1 = INTEGER: 3\r\n"
+    ],
+    [
+      0.002889,
+      "SNMPv2-SMI::mib-2.43.11.1.1.4.1.2 = INTEGER: 3\r\n"
+    ],
+    [
+      0.002905,
+      "SNMPv2-SMI::mib-2.43.11.1.1.4.1.3 = INTEGER: 3\r\n"
+    ],
+    [
+      0.002839,
+      "SNMPv2-SMI::mib-2.43.11.1.1.4.1.4 = INTEGER: 3\r\n"
+    ],
+    [
+      0.002728,
+      "SNMPv2-SMI::mib-2.43.11.1.1.4.1.5 = INTEGER: 3\r\n"
+    ],
+    [
+      0.002552,
+      "SNMPv2-SMI::mib-2.43.11.1.1.5.1.1 = INTEGER: 3\r\n"
+    ],
+    [
+      0.002711,
+      "SNMPv2-SMI::mib-2.43.11.1.1.5.1.2 = INTEGER: 15\r\n"
+    ],
+    [
+      0.002831,
+      "SNMPv2-SMI::mib-2.43.11.1.1.5.1.3 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002542,
+      "SNMPv2-SMI::mib-2.43.11.1.1.5.1.4 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002964,
+      "SNMPv2-SMI::mib-2.43.11.1.1.5.1.5 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002817,
+      "SNMPv2-SMI::mib-2.43.11.1.1.6.1.1 = STRING: \"Black Toner Cartridge S/N:CRUM-14042751752\"\r\n"
+    ],
+    [
+      0.003879,
+      "SNMPv2-SMI::mib-2.43.11.1.1.6.1.2 = STRING: \"Fuser \"\r\n"
+    ],
+    [
+      0.002702,
+      "SNMPv2-SMI::mib-2.43.11.1.1.6.1.3 = STRING: \"T2 Roller \"\r\n"
+    ],
+    [
+      0.002792,
+      "SNMPv2-SMI::mib-2.43.11.1.1.6.1.4 = STRING: \"Tray 1 Roller \"\r\n"
+    ],
+    [
+      0.002758,
+      "SNMPv2-SMI::mib-2.43.11.1.1.6.1.5 = STRING: \"Tray 1 Retard Roller \"\r\n"
+    ],
+    [
+      0.002975,
+      "SNMPv2-SMI::mib-2.43.11.1.1.7.1.1 = INTEGER: 7\r\n"
+    ],
+    [
+      0.002691,
+      "SNMPv2-SMI::mib-2.43.11.1.1.7.1.2 = INTEGER: 7\r\n"
+    ],
+    [
+      0.002597,
+      "SNMPv2-SMI::mib-2.43.11.1.1.7.1.3 = INTEGER: 7\r\n"
+    ],
+    [
+      0.002976,
+      "SNMPv2-SMI::mib-2.43.11.1.1.7.1.4 = INTEGER: 7\r\n"
+    ],
+    [
+      0.002572,
+      "SNMPv2-SMI::mib-2.43.11.1.1.7.1.5 = INTEGER: 7\r\n"
+    ],
+    [
+      0.003011,
+      "SNMPv2-SMI::mib-2.43.11.1.1.8.1.1 = INTEGER: 3000\r\n"
+    ],
+    [
+      0.002542,
+      "SNMPv2-SMI::mib-2.43.11.1.1.8.1.2 = INTEGER: 90000\r\n"
+    ],
+    [
+      0.002596,
+      "SNMPv2-SMI::mib-2.43.11.1.1.8.1.3 = INTEGER: 100000\r\n"
+    ],
+    [
+      0.002802,
+      "SNMPv2-SMI::mib-2.43.11.1.1.8.1.4 = INTEGER: 90000\r\n"
+    ],
+    [
+      0.002821,
+      "SNMPv2-SMI::mib-2.43.11.1.1.8.1.5 = INTEGER: 60000\r\n"
+    ],
+    [
+      0.003087,
+      "SNMPv2-SMI::mib-2.43.11.1.1.9.1.1 = INTEGER: 2970\r\n"
+    ],
+    [
+      0.002716,
+      "SNMPv2-SMI::mib-2.43.11.1.1.9.1.2 = INTEGER: 89995\r\n"
+    ],
+    [
+      0.002720,
+      "SNMPv2-SMI::mib-2.43.11.1.1.9.1.3 = INTEGER: 99995\r\n"
+    ],
+    [
+      0.002905,
+      "SNMPv2-SMI::mib-2.43.11.1.1.9.1.4 = INTEGER: 89995\r\n"
+    ],
+    [
+      0.002885,
+      "SNMPv2-SMI::mib-2.43.11.1.1.9.1.5 = INTEGER: 59995\r\n"
+    ],
+    [
+      0.003020,
+      "SNMPv2-SMI::mib-2.43.12.1.1.2.1.1 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002921,
+      "SNMPv2-SMI::mib-2.43.12.1.1.3.1.1 = INTEGER: 3\r\n"
+    ],
+    [
+      0.003123,
+      "SNMPv2-SMI::mib-2.43.12.1.1.4.1.1 = STRING: \"Black\"\r\n"
+    ],
+    [
+      0.002696,
+      "SNMPv2-SMI::mib-2.43.12.1.1.5.1.1 = INTEGER: 2\r\n"
+    ],
+    [
+      0.006602,
+      "SNMPv2-SMI::mib-2.43.13.4.1.2.1.1 = INTEGER: 7\r\n"
+    ],
+    [
+      0.002900,
+      "SNMPv2-SMI::mib-2.43.13.4.1.2.1.2 = INTEGER: 7\r\n"
+    ],
+    [
+      0.002884,
+      "SNMPv2-SMI::mib-2.43.13.4.1.2.1.3 = INTEGER: 7\r\n"
+    ],
+    [
+      0.002990,
+      "SNMPv2-SMI::mib-2.43.13.4.1.3.1.1 = INTEGER: 4\r\n"
+    ],
+    [
+      0.002913,
+      "SNMPv2-SMI::mib-2.43.13.4.1.3.1.2 = INTEGER: 4\r\n"
+    ],
+    [
+      0.002912,
+      "SNMPv2-SMI::mib-2.43.13.4.1.3.1.3 = INTEGER: 4\r\n"
+    ],
+    [
+      0.002805,
+      "SNMPv2-SMI::mib-2.43.13.4.1.4.1.1 = INTEGER: 2280\r\n"
+    ],
+    [
+      0.002941,
+      "SNMPv2-SMI::mib-2.43.13.4.1.4.1.2 = INTEGER: 2052\r\n"
+    ],
+    [
+      0.002889,
+      "SNMPv2-SMI::mib-2.43.13.4.1.4.1.3 = INTEGER: 2052\r\n"
+    ],
+    [
+      0.002878,
+      "SNMPv2-SMI::mib-2.43.13.4.1.5.1.1 = INTEGER: 355600\r\n"
+    ],
+    [
+      0.002755,
+      "SNMPv2-SMI::mib-2.43.13.4.1.5.1.2 = INTEGER: 355600\r\n"
+    ],
+    [
+      0.002867,
+      "SNMPv2-SMI::mib-2.43.13.4.1.5.1.3 = INTEGER: 355600\r\n"
+    ],
+    [
+      0.002977,
+      "SNMPv2-SMI::mib-2.43.13.4.1.6.1.1 = INTEGER: 215900\r\n"
+    ],
+    [
+      0.002747,
+      "SNMPv2-SMI::mib-2.43.13.4.1.6.1.2 = INTEGER: 215900\r\n"
+    ],
+    [
+      0.003079,
+      "SNMPv2-SMI::mib-2.43.13.4.1.6.1.3 = INTEGER: 215900\r\n"
+    ],
+    [
+      0.002764,
+      "SNMPv2-SMI::mib-2.43.13.4.1.7.1.1 = INTEGER: 148500\r\n"
+    ],
+    [
+      0.002410,
+      "SNMPv2-SMI::mib-2.43.13.4.1.7.1.2 = INTEGER: 148500\r\n"
+    ],
+    [
+      0.002644,
+      "SNMPv2-SMI::mib-2.43.13.4.1.7.1.3 = INTEGER: 148500\r\n"
+    ],
+    [
+      0.003055,
+      "SNMPv2-SMI::mib-2.43.13.4.1.8.1.1 = INTEGER: 105000\r\n"
+    ],
+    [
+      0.002579,
+      "SNMPv2-SMI::mib-2.43.13.4.1.8.1.2 = INTEGER: 105000\r\n"
+    ],
+    [
+      0.002877,
+      "SNMPv2-SMI::mib-2.43.13.4.1.8.1.3 = INTEGER: 105000\r\n"
+    ],
+    [
+      0.003576,
+      "SNMPv2-SMI::mib-2.43.13.4.1.9.1.1 = INTEGER: 5\r\n"
+    ],
+    [
+      0.002709,
+      "SNMPv2-SMI::mib-2.43.13.4.1.9.1.2 = INTEGER: 3\r\n"
+    ],
+    [
+      0.002616,
+      "SNMPv2-SMI::mib-2.43.13.4.1.9.1.3 = INTEGER: 4\r\n"
+    ],
+    [
+      0.002993,
+      "SNMPv2-SMI::mib-2.43.13.4.1.10.1.1 = STRING: \"1-sided paper path\"\r\n"
+    ],
+    [
+      0.002849,
+      "SNMPv2-SMI::mib-2.43.13.4.1.10.1.2 = STRING: \"2-sided, long edge feed, paper path\"\r\n"
+    ],
+    [
+      0.002959,
+      "SNMPv2-SMI::mib-2.43.13.4.1.10.1.3 = STRING: \"2-sided, short edge feed, paper path\"\r\n"
+    ],
+    [
+      0.002899,
+      "SNMPv2-SMI::mib-2.43.13.4.1.11.1.1 = INTEGER: 53\r\n"
+    ],
+    [
+      0.003518,
+      "SNMPv2-SMI::mib-2.43.13.4.1.11.1.2 = INTEGER: 53\r\n"
+    ],
+    [
+      0.002568,
+      "SNMPv2-SMI::mib-2.43.13.4.1.11.1.3 = INTEGER: 53\r\n"
+    ],
+    [
+      0.002998,
+      "SNMPv2-SMI::mib-2.43.14.1.1.2.1.1 = INTEGER: 34\r\n"
+    ],
+    [
+      0.002872,
+      "SNMPv2-SMI::mib-2.43.14.1.1.2.1.2 = INTEGER: 5\r\n"
+    ],
+    [
+      0.002843,
+      "SNMPv2-SMI::mib-2.43.14.1.1.2.1.3 = INTEGER: 8\r\n"
+    ],
+    [
+      0.002871,
+      "SNMPv2-SMI::mib-2.43.14.1.1.2.1.4 = INTEGER: 38\r\n"
+    ],
+    [
+      0.007207,
+      "SNMPv2-SMI::mib-2.43.14.1.1.2.1.5 = INTEGER: 44\r\n"
+    ],
+    [
+      0.003233,
+      "SNMPv2-SMI::mib-2.43.14.1.1.3.1.1 = STRING: \"Direct-connect Universal Serial Bus(USB) port printing,480MBps\"\r\n"
+    ],
+    [
+      0.002842,
+      "SNMPv2-SMI::mib-2.43.14.1.1.3.1.2 = STRING: \"Direct-connect Parallel port printing, IEEE 1284\"\r\n"
+    ],
+    [
+      0.002974,
+      "SNMPv2-SMI::mib-2.43.14.1.1.3.1.3 = STRING: \"Line Printer Daemon(LPR/LPD) Protocol\"\r\n"
+    ],
+    [
+      0.002696,
+      "SNMPv2-SMI::mib-2.43.14.1.1.3.1.4 = STRING: \"Standard TCP/IP Printing\"\r\n"
+    ],
+    [
+      0.002892,
+      "SNMPv2-SMI::mib-2.43.14.1.1.3.1.5 = STRING: \"Internet Printing Protocol(IPP)/2.0\"\r\n"
+    ],
+    [
+      0.002712,
+      "SNMPv2-SMI::mib-2.43.14.1.1.4.1.1 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002915,
+      "SNMPv2-SMI::mib-2.43.14.1.1.4.1.2 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002844,
+      "SNMPv2-SMI::mib-2.43.14.1.1.4.1.3 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002562,
+      "SNMPv2-SMI::mib-2.43.14.1.1.4.1.4 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002988,
+      "SNMPv2-SMI::mib-2.43.14.1.1.4.1.5 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002779,
+      "SNMPv2-SMI::mib-2.43.14.1.1.5.1.1 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002698,
+      "SNMPv2-SMI::mib-2.43.14.1.1.5.1.2 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002906,
+      "SNMPv2-SMI::mib-2.43.14.1.1.5.1.3 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002695,
+      "SNMPv2-SMI::mib-2.43.14.1.1.5.1.4 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002650,
+      "SNMPv2-SMI::mib-2.43.14.1.1.5.1.5 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002711,
+      "SNMPv2-SMI::mib-2.43.14.1.1.6.1.1 = INTEGER: 3\r\n"
+    ],
+    [
+      0.002982,
+      "SNMPv2-SMI::mib-2.43.14.1.1.6.1.2 = INTEGER: 3\r\n"
+    ],
+    [
+      0.002565,
+      "SNMPv2-SMI::mib-2.43.14.1.1.6.1.3 = INTEGER: 3\r\n"
+    ],
+    [
+      0.002436,
+      "SNMPv2-SMI::mib-2.43.14.1.1.6.1.4 = INTEGER: 3\r\n"
+    ],
+    [
+      0.002446,
+      "SNMPv2-SMI::mib-2.43.14.1.1.6.1.5 = INTEGER: 3\r\n"
+    ],
+    [
+      0.002923,
+      "SNMPv2-SMI::mib-2.43.14.1.1.7.1.1 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002732,
+      "SNMPv2-SMI::mib-2.43.14.1.1.7.1.2 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002783,
+      "SNMPv2-SMI::mib-2.43.14.1.1.7.1.3 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002666,
+      "SNMPv2-SMI::mib-2.43.14.1.1.7.1.4 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002502,
+      "SNMPv2-SMI::mib-2.43.14.1.1.7.1.5 = INTEGER: 1\r\n"
+    ],
+    [
+      0.003035,
+      "SNMPv2-SMI::mib-2.43.14.1.1.8.1.1 = INTEGER: 0\r\n"
+    ],
+    [
+      0.002705,
+      "SNMPv2-SMI::mib-2.43.14.1.1.8.1.2 = INTEGER: 0\r\n"
+    ],
+    [
+      0.002767,
+      "SNMPv2-SMI::mib-2.43.14.1.1.8.1.3 = INTEGER: 0\r\n"
+    ],
+    [
+      0.002804,
+      "SNMPv2-SMI::mib-2.43.14.1.1.8.1.4 = INTEGER: 0\r\n"
+    ],
+    [
+      0.002927,
+      "SNMPv2-SMI::mib-2.43.14.1.1.8.1.5 = INTEGER: 0\r\n"
+    ],
+    [
+      0.002840,
+      "SNMPv2-SMI::mib-2.43.14.1.1.9.1.1 = \"\"\r\n"
+    ],
+    [
+      0.002888,
+      "SNMPv2-SMI::mib-2.43.14.1.1.9.1.2 = \"\"\r\n"
+    ],
+    [
+      0.002723,
+      "SNMPv2-SMI::mib-2.43.14.1.1.9.1.3 = STRING: \"Not supported\"\r\n"
+    ],
+    [
+      0.002582,
+      "SNMPv2-SMI::mib-2.43.14.1.1.9.1.4 = STRING: \"Not supported\"\r\n"
+    ],
+    [
+      0.002841,
+      "SNMPv2-SMI::mib-2.43.14.1.1.9.1.5 = STRING: \"Not supported\"\r\n"
+    ],
+    [
+      0.002977,
+      "SNMPv2-SMI::mib-2.43.15.1.1.2.1.1 = INTEGER: 37\r\n"
+    ],
+    [
+      0.002883,
+      "SNMPv2-SMI::mib-2.43.15.1.1.2.1.2 = INTEGER: 5\r\n"
+    ],
+    [
+      0.002589,
+      "SNMPv2-SMI::mib-2.43.15.1.1.2.1.3 = INTEGER: 3\r\n"
+    ],
+    [
+      0.002953,
+      "SNMPv2-SMI::mib-2.43.15.1.1.2.1.4 = INTEGER: 47\r\n"
+    ],
+    [
+      0.002583,
+      "SNMPv2-SMI::mib-2.43.15.1.1.2.1.5 = INTEGER: 6\r\n"
+    ],
+    [
+      0.002752,
+      "SNMPv2-SMI::mib-2.43.15.1.1.2.1.6 = INTEGER: 54\r\n"
+    ],
+    [
+      0.002789,
+      "SNMPv2-SMI::mib-2.43.15.1.1.2.1.7 = INTEGER: 18\r\n"
+    ],
+    [
+      0.002766,
+      "SNMPv2-SMI::mib-2.43.15.1.1.3.1.1 = STRING: \"Version 2.1\"\r\n"
+    ],
+    [
+      0.002826,
+      "SNMPv2-SMI::mib-2.43.15.1.1.3.1.2 = STRING: \"Version 2.1\"\r\n"
+    ],
+    [
+      0.002780,
+      "SNMPv2-SMI::mib-2.43.15.1.1.3.1.3 = STRING: \"5E\"\r\n"
+    ],
+    [
+      0.002908,
+      "SNMPv2-SMI::mib-2.43.15.1.1.3.1.4 = STRING: \"6\"\r\n"
+    ],
+    [
+      0.002750,
+      "SNMPv2-SMI::mib-2.43.15.1.1.3.1.5 = STRING: \"3\"\r\n"
+    ],
+    [
+      0.002563,
+      "SNMPv2-SMI::mib-2.43.15.1.1.3.1.6 = STRING: \"1.0\"\r\n"
+    ],
+    [
+      0.002771,
+      "SNMPv2-SMI::mib-2.43.15.1.1.3.1.7 = STRING: \"1.0\"\r\n"
+    ],
+    [
+      0.003129,
+      "SNMPv2-SMI::mib-2.43.15.1.1.4.1.1 = STRING: \"0.00\"\r\n"
+    ],
+    [
+      0.002679,
+      "SNMPv2-SMI::mib-2.43.15.1.1.4.1.2 = STRING: \"0.00\"\r\n"
+    ],
+    [
+      0.002532,
+      "SNMPv2-SMI::mib-2.43.15.1.1.4.1.3 = STRING: \"6.85\"\r\n"
+    ],
+    [
+      0.002810,
+      "SNMPv2-SMI::mib-2.43.15.1.1.4.1.4 = STRING: \"7.76\"\r\n"
+    ],
+    [
+      0.002828,
+      "SNMPv2-SMI::mib-2.43.15.1.1.4.1.5 = STRING: \"4.29.01.18.01.14\"\r\n"
+    ],
+    [
+      0.002691,
+      "SNMPv2-SMI::mib-2.43.15.1.1.4.1.6 = \"\"\r\n"
+    ],
+    [
+      0.002568,
+      "SNMPv2-SMI::mib-2.43.15.1.1.4.1.7 = \"\"\r\n"
+    ],
+    [
+      0.003186,
+      "SNMPv2-SMI::mib-2.43.15.1.1.5.1.1 = STRING: \"Automatic Language Switching\"\r\n"
+    ],
+    [
+      0.002668,
+      "SNMPv2-SMI::mib-2.43.15.1.1.5.1.2 = STRING: \"PJL\"\r\n"
+    ],
+    [
+      0.002709,
+      "SNMPv2-SMI::mib-2.43.15.1.1.5.1.3 = STRING: \"Page Control Language (PCL), also handles simple text files\"\r\n"
+    ],
+    [
+      0.002811,
+      "SNMPv2-SMI::mib-2.43.15.1.1.5.1.4 = STRING: \"Page Control Language Enhanced (PCL XL)\"\r\n"
+    ],
+    [
+      0.002656,
+      "SNMPv2-SMI::mib-2.43.15.1.1.5.1.5 = STRING: \"PostScript Interpreter (PS)\"\r\n"
+    ],
+    [
+      0.002923,
+      "SNMPv2-SMI::mib-2.43.15.1.1.5.1.6 = STRING: \"Adobe Portable Document Format (PDF)\"\r\n"
+    ],
+    [
+      0.002699,
+      "SNMPv2-SMI::mib-2.43.15.1.1.5.1.7 = STRING: \"Auto Page Description Language interpreter\"\r\n"
+    ],
+    [
+      0.003330,
+      "SNMPv2-SMI::mib-2.43.15.1.1.6.1.1 = STRING: \"00-00-2000\"\r\n"
+    ],
+    [
+      0.002735,
+      "SNMPv2-SMI::mib-2.43.15.1.1.6.1.2 = STRING: \"00-00-2000\"\r\n"
+    ],
+    [
+      0.002584,
+      "SNMPv2-SMI::mib-2.43.15.1.1.6.1.3 = STRING: \"10-31-2013\"\r\n"
+    ],
+    [
+      0.002712,
+      "SNMPv2-SMI::mib-2.43.15.1.1.6.1.4 = STRING: \"05-24-2013\"\r\n"
+    ],
+    [
+      0.002948,
+      "SNMPv2-SMI::mib-2.43.15.1.1.6.1.5 = STRING: \"05-29-2013\"\r\n"
+    ],
+    [
+      0.002746,
+      "SNMPv2-SMI::mib-2.43.15.1.1.6.1.6 = \"\"\r\n"
+    ],
+    [
+      0.002567,
+      "SNMPv2-SMI::mib-2.43.15.1.1.6.1.7 = \"\"\r\n"
+    ],
+    [
+      0.002862,
+      "SNMPv2-SMI::mib-2.43.15.1.1.7.1.1 = INTEGER: 3\r\n"
+    ],
+    [
+      0.006989,
+      "SNMPv2-SMI::mib-2.43.15.1.1.7.1.2 = INTEGER: 3\r\n"
+    ],
+    [
+      0.002799,
+      "SNMPv2-SMI::mib-2.43.15.1.1.7.1.3 = INTEGER: 3\r\n"
+    ],
+    [
+      0.002829,
+      "SNMPv2-SMI::mib-2.43.15.1.1.7.1.4 = INTEGER: 3\r\n"
+    ],
+    [
+      0.002861,
+      "SNMPv2-SMI::mib-2.43.15.1.1.7.1.5 = INTEGER: 3\r\n"
+    ],
+    [
+      0.002536,
+      "SNMPv2-SMI::mib-2.43.15.1.1.7.1.6 = INTEGER: 3\r\n"
+    ],
+    [
+      0.002963,
+      "SNMPv2-SMI::mib-2.43.15.1.1.7.1.7 = INTEGER: 3\r\n"
+    ],
+    [
+      0.002728,
+      "SNMPv2-SMI::mib-2.43.15.1.1.8.1.1 = INTEGER: -1\r\n"
+    ],
+    [
+      0.002852,
+      "SNMPv2-SMI::mib-2.43.15.1.1.8.1.2 = INTEGER: 1200\r\n"
+    ],
+    [
+      0.002699,
+      "SNMPv2-SMI::mib-2.43.15.1.1.8.1.3 = INTEGER: 1200\r\n"
+    ],
+    [
+      0.002763,
+      "SNMPv2-SMI::mib-2.43.15.1.1.8.1.4 = INTEGER: -2\r\n"
+    ],
+    [
+      0.002905,
+      "SNMPv2-SMI::mib-2.43.15.1.1.8.1.5 = INTEGER: -2\r\n"
+    ],
+    [
+      0.002755,
+      "SNMPv2-SMI::mib-2.43.15.1.1.8.1.6 = INTEGER: -2\r\n"
+    ],
+    [
+      0.003036,
+      "SNMPv2-SMI::mib-2.43.15.1.1.8.1.7 = INTEGER: -2\r\n"
+    ],
+    [
+      0.002884,
+      "SNMPv2-SMI::mib-2.43.15.1.1.9.1.1 = INTEGER: -1\r\n"
+    ],
+    [
+      0.002385,
+      "SNMPv2-SMI::mib-2.43.15.1.1.9.1.2 = INTEGER: 1200\r\n"
+    ],
+    [
+      0.002729,
+      "SNMPv2-SMI::mib-2.43.15.1.1.9.1.3 = INTEGER: 1200\r\n"
+    ],
+    [
+      0.002913,
+      "SNMPv2-SMI::mib-2.43.15.1.1.9.1.4 = INTEGER: -2\r\n"
+    ],
+    [
+      0.002856,
+      "SNMPv2-SMI::mib-2.43.15.1.1.9.1.5 = INTEGER: -2\r\n"
+    ],
+    [
+      0.002790,
+      "SNMPv2-SMI::mib-2.43.15.1.1.9.1.6 = INTEGER: -2\r\n"
+    ],
+    [
+      0.002633,
+      "SNMPv2-SMI::mib-2.43.15.1.1.9.1.7 = INTEGER: -2\r\n"
+    ],
+    [
+      0.003149,
+      "SNMPv2-SMI::mib-2.43.15.1.1.10.1.1 = INTEGER: 2004\r\n"
+    ],
+    [
+      0.002759,
+      "SNMPv2-SMI::mib-2.43.15.1.1.10.1.2 = INTEGER: 2005\r\n"
+    ],
+    [
+      0.002713,
+      "SNMPv2-SMI::mib-2.43.15.1.1.10.1.3 = INTEGER: 2011\r\n"
+    ],
+    [
+      0.002868,
+      "SNMPv2-SMI::mib-2.43.15.1.1.10.1.4 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002467,
+      "SNMPv2-SMI::mib-2.43.15.1.1.10.1.5 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002894,
+      "SNMPv2-SMI::mib-2.43.15.1.1.10.1.6 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002721,
+      "SNMPv2-SMI::mib-2.43.15.1.1.10.1.7 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002798,
+      "SNMPv2-SMI::mib-2.43.15.1.1.11.1.1 = INTEGER: 2\r\n"
+    ],
+    [
+      0.002854,
+      "SNMPv2-SMI::mib-2.43.15.1.1.11.1.2 = INTEGER: 2005\r\n"
+    ],
+    [
+      0.002784,
+      "SNMPv2-SMI::mib-2.43.15.1.1.11.1.3 = INTEGER: 2004\r\n"
+    ],
+    [
+      0.002920,
+      "SNMPv2-SMI::mib-2.43.15.1.1.11.1.4 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002700,
+      "SNMPv2-SMI::mib-2.43.15.1.1.11.1.5 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002671,
+      "SNMPv2-SMI::mib-2.43.15.1.1.11.1.6 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002789,
+      "SNMPv2-SMI::mib-2.43.15.1.1.11.1.7 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002953,
+      "SNMPv2-SMI::mib-2.43.15.1.1.12.1.1 = INTEGER: 4\r\n"
+    ],
+    [
+      0.002871,
+      "SNMPv2-SMI::mib-2.43.15.1.1.12.1.2 = INTEGER: 3\r\n"
+    ],
+    [
+      0.002729,
+      "SNMPv2-SMI::mib-2.43.15.1.1.12.1.3 = INTEGER: 4\r\n"
+    ],
+    [
+      0.002743,
+      "SNMPv2-SMI::mib-2.43.15.1.1.12.1.4 = INTEGER: 4\r\n"
+    ],
+    [
+      0.002828,
+      "SNMPv2-SMI::mib-2.43.15.1.1.12.1.5 = INTEGER: 4\r\n"
+    ],
+    [
+      0.002770,
+      "SNMPv2-SMI::mib-2.43.15.1.1.12.1.6 = INTEGER: 4\r\n"
+    ],
+    [
+      0.002745,
+      "SNMPv2-SMI::mib-2.43.15.1.1.12.1.7 = INTEGER: 4\r\n"
+    ],
+    [
+      0.005235,
+      "SNMPv2-SMI::mib-2.43.16.5.1.2.1.1 = STRING: \"Sleeping...\"\r\n"
+    ],
+    [
+      0.005027,
+      "SNMPv2-SMI::mib-2.43.16.5.1.2.1.2 = \"\"\r\n"
+    ],
+    [
+      0.005059,
+      "SNMPv2-SMI::mib-2.43.16.5.1.2.1.3 = \"\"\r\n"
+    ],
+    [
+      0.005006,
+      "SNMPv2-SMI::mib-2.43.16.5.1.2.1.4 = \"\"\r\n"
+    ],
+    [
+      0.003066,
+      "SNMPv2-SMI::mib-2.43.17.6.1.2.1.1 = INTEGER: 0\r\n"
+    ],
+    [
+      0.002997,
+      "SNMPv2-SMI::mib-2.43.17.6.1.3.1.1 = INTEGER: 0\r\n"
+    ],
+    [
+      0.002807,
+      "SNMPv2-SMI::mib-2.43.17.6.1.4.1.1 = INTEGER: 1\r\n"
+    ],
+    [
+      0.003020,
+      "SNMPv2-SMI::mib-2.43.17.6.1.5.1.1 = \"\"\r\n"
+    ],
+    [
+      0.002912,
+      "SNMPv2-SMI::mib-2.43.18.1.1.1.1.3 = INTEGER: 3\r\n"
+    ],
+    [
+      0.002993,
+      "SNMPv2-SMI::mib-2.43.18.1.1.2.1.3 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002963,
+      "SNMPv2-SMI::mib-2.43.18.1.1.3.1.3 = INTEGER: 7\r\n"
+    ],
+    [
+      0.003110,
+      "SNMPv2-SMI::mib-2.43.18.1.1.4.1.3 = INTEGER: 5\r\n"
+    ],
+    [
+      0.003077,
+      "SNMPv2-SMI::mib-2.43.18.1.1.5.1.3 = INTEGER: 0\r\n"
+    ],
+    [
+      0.003091,
+      "SNMPv2-SMI::mib-2.43.18.1.1.6.1.3 = INTEGER: 3120\r\n"
+    ],
+    [
+      0.003026,
+      "SNMPv2-SMI::mib-2.43.18.1.1.7.1.3 = INTEGER: 23\r\n"
+    ],
+    [
+      0.003081,
+      "SNMPv2-SMI::mib-2.43.18.1.1.8.1.3 = STRING: \"S2-3313 The machine is currently in power saver mode. No user intervention is required. Printing will start when a job is received from the network, a Fax job has been received(if installed), or a scan/copy job is initiated at the local UI.\"\r\n"
+    ],
+    [
+      0.002894,
+      "SNMPv2-SMI::mib-2.43.18.1.1.9.1.3 = Timeticks: (12953) 0:02:09.53\r\n"
+    ],
+    [
+      0.004407,
+      "SNMPv2-SMI::mib-2.55.1.1.0 = INTEGER: 2\r\n"
+    ],
+    [
+      0.003134,
+      "SNMPv2-SMI::mib-2.55.1.2.0 = INTEGER: 64\r\n"
+    ],
+    [
+      0.002872,
+      "SNMPv2-SMI::mib-2.55.1.3.0 = INTEGER: 2\r\n"
+    ],
+    [
+      0.003209,
+      "SNMPv2-SMI::mib-2.55.1.4.0 = INTEGER: 0\r\n"
+    ],
+    [
+      0.003032,
+      "SNMPv2-SMI::mib-2.55.1.5.1.2.1 = STRING: \"eth0\"\r\n"
+    ],
+    [
+      2.351488,
+      "SNMPv2-SMI::mib-2.55.1.5.1.2.2 = STRING: \"lo0\"\r\n"
+    ],
+    [
+      0.003420,
+      "SNMPv2-SMI::mib-2.55.1.5.1.3.1 = OID: SNMPv2-SMI::zeroDotZero\r\n"
+    ],
+    [
+      0.003078,
+      "SNMPv2-SMI::mib-2.55.1.5.1.3.2 = OID: SNMPv2-SMI::zeroDotZero\r\n"
+    ],
+    [
+      0.003282,
+      "SNMPv2-SMI::mib-2.55.1.5.1.4.1 = Gauge32: 1500\r\n"
+    ],
+    [
+      0.002878,
+      "SNMPv2-SMI::mib-2.55.1.5.1.4.2 = Gauge32: 1500\r\n"
+    ],
+    [
+      0.003230,
+      "SNMPv2-SMI::mib-2.55.1.5.1.5.1 = Gauge32: 4294967295\r\n"
+    ],
+    [
+      0.002987,
+      "SNMPv2-SMI::mib-2.55.1.5.1.5.2 = Gauge32: 4294967295\r\n"
+    ],
+    [
+      0.003105,
+      "SNMPv2-SMI::mib-2.55.1.5.1.6.1 = Hex-STRING: 32 CD A7 FF FE 24 69 06 \r\n"
+    ],
+    [
+      0.003089,
+      "SNMPv2-SMI::mib-2.55.1.5.1.6.2 = \"\"\r\n"
+    ],
+    [
+      0.002943,
+      "SNMPv2-SMI::mib-2.55.1.5.1.7.1 = INTEGER: 64\r\n"
+    ],
+    [
+      0.002988,
+      "SNMPv2-SMI::mib-2.55.1.5.1.7.2 = INTEGER: 0\r\n"
+    ],
+    [
+      0.003685,
+      "SNMPv2-SMI::mib-2.55.1.5.1.8.1 = Hex-STRING: 30 CD A7 24 69 06 \r\n"
+    ],
+    [
+      0.002670,
+      "SNMPv2-SMI::mib-2.55.1.5.1.8.2 = \"\"\r\n"
+    ],
+    [
+      0.003128,
+      "SNMPv2-SMI::mib-2.55.1.5.1.9.1 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002935,
+      "SNMPv2-SMI::mib-2.55.1.5.1.9.2 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002965,
+      "SNMPv2-SMI::mib-2.55.1.5.1.10.1 = INTEGER: 1\r\n"
+    ],
+    [
+      0.003031,
+      "SNMPv2-SMI::mib-2.55.1.5.1.10.2 = INTEGER: 1\r\n"
+    ],
+    [
+      0.003101,
+      "SNMPv2-SMI::mib-2.55.1.5.1.11.1 = INTEGER: 0\r\n"
+    ],
+    [
+      0.003077,
+      "SNMPv2-SMI::mib-2.55.1.5.1.11.2 = INTEGER: 0\r\n"
+    ],
+    [
+      0.003159,
+      "SNMPv2-SMI::mib-2.55.1.6.1.1.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002854,
+      "SNMPv2-SMI::mib-2.55.1.6.1.1.2 = Counter32: 3\r\n"
+    ],
+    [
+      0.003434,
+      "SNMPv2-SMI::mib-2.55.1.6.1.2.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002739,
+      "SNMPv2-SMI::mib-2.55.1.6.1.2.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003174,
+      "SNMPv2-SMI::mib-2.55.1.6.1.3.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002989,
+      "SNMPv2-SMI::mib-2.55.1.6.1.3.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003133,
+      "SNMPv2-SMI::mib-2.55.1.6.1.4.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002849,
+      "SNMPv2-SMI::mib-2.55.1.6.1.4.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003020,
+      "SNMPv2-SMI::mib-2.55.1.6.1.5.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002777,
+      "SNMPv2-SMI::mib-2.55.1.6.1.5.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003147,
+      "SNMPv2-SMI::mib-2.55.1.6.1.6.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002841,
+      "SNMPv2-SMI::mib-2.55.1.6.1.6.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003421,
+      "SNMPv2-SMI::mib-2.55.1.6.1.7.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002574,
+      "SNMPv2-SMI::mib-2.55.1.6.1.7.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003250,
+      "SNMPv2-SMI::mib-2.55.1.6.1.8.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002978,
+      "SNMPv2-SMI::mib-2.55.1.6.1.8.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003239,
+      "SNMPv2-SMI::mib-2.55.1.6.1.9.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002650,
+      "SNMPv2-SMI::mib-2.55.1.6.1.9.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003154,
+      "SNMPv2-SMI::mib-2.55.1.6.1.10.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002969,
+      "SNMPv2-SMI::mib-2.55.1.6.1.10.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.005072,
+      "SNMPv2-SMI::mib-2.55.1.6.1.11.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.004089,
+      "SNMPv2-SMI::mib-2.55.1.6.1.11.2 = Counter32: 3\r\n"
+    ],
+    [
+      0.002940,
+      "SNMPv2-SMI::mib-2.55.1.6.1.12.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002846,
+      "SNMPv2-SMI::mib-2.55.1.6.1.12.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003461,
+      "SNMPv2-SMI::mib-2.55.1.6.1.13.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002751,
+      "SNMPv2-SMI::mib-2.55.1.6.1.13.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003060,
+      "SNMPv2-SMI::mib-2.55.1.6.1.14.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002880,
+      "SNMPv2-SMI::mib-2.55.1.6.1.14.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003284,
+      "SNMPv2-SMI::mib-2.55.1.6.1.15.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.003044,
+      "SNMPv2-SMI::mib-2.55.1.6.1.15.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003074,
+      "SNMPv2-SMI::mib-2.55.1.6.1.16.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.003019,
+      "SNMPv2-SMI::mib-2.55.1.6.1.16.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003225,
+      "SNMPv2-SMI::mib-2.55.1.6.1.17.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002917,
+      "SNMPv2-SMI::mib-2.55.1.6.1.17.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003179,
+      "SNMPv2-SMI::mib-2.55.1.6.1.18.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002876,
+      "SNMPv2-SMI::mib-2.55.1.6.1.18.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003087,
+      "SNMPv2-SMI::mib-2.55.1.6.1.19.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.003037,
+      "SNMPv2-SMI::mib-2.55.1.6.1.19.2 = Counter32: 3\r\n"
+    ],
+    [
+      0.003204,
+      "SNMPv2-SMI::mib-2.55.1.6.1.20.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002883,
+      "SNMPv2-SMI::mib-2.55.1.6.1.20.2 = Counter32: 3\r\n"
+    ],
+    [
+      0.003089,
+      "SNMPv2-SMI::mib-2.55.1.7.1.3.1.2.255.2.16 = INTEGER: 1\r\n"
+    ],
+    [
+      0.003012,
+      "SNMPv2-SMI::mib-2.55.1.7.1.3.2.2.255.1.16 = INTEGER: 1\r\n"
+    ],
+    [
+      0.003114,
+      "SNMPv2-SMI::mib-2.55.1.7.1.3.2.2.255.2.16 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002770,
+      "SNMPv2-SMI::mib-2.55.1.7.1.3.2.8.254.128.0.0.0.0.0.0.64 = INTEGER: 1\r\n"
+    ],
+    [
+      0.003296,
+      "SNMPv2-SMI::mib-2.55.1.7.1.3.2.16.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.128 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002776,
+      "SNMPv2-SMI::mib-2.55.1.7.1.4.1.2.255.2.16 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002961,
+      "SNMPv2-SMI::mib-2.55.1.7.1.4.2.2.255.1.16 = INTEGER: 1\r\n"
+    ],
+    [
+      0.003735,
+      "SNMPv2-SMI::mib-2.55.1.7.1.4.2.2.255.2.16 = INTEGER: 1\r\n"
+    ],
+    [
+      0.003067,
+      "SNMPv2-SMI::mib-2.55.1.7.1.4.2.8.254.128.0.0.0.0.0.0.64 = INTEGER: 1\r\n"
+    ],
+    [
+      0.003051,
+      "SNMPv2-SMI::mib-2.55.1.7.1.4.2.16.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.128 = INTEGER: 1\r\n"
+    ],
+    [
+      0.003198,
+      "SNMPv2-SMI::mib-2.55.1.7.1.5.1.2.255.2.16 = Gauge32: 0\r\n"
+    ],
+    [
+      0.002926,
+      "SNMPv2-SMI::mib-2.55.1.7.1.5.2.2.255.1.16 = Gauge32: 0\r\n"
+    ],
+    [
+      0.002986,
+      "SNMPv2-SMI::mib-2.55.1.7.1.5.2.2.255.2.16 = Gauge32: 0\r\n"
+    ],
+    [
+      0.006393,
+      "SNMPv2-SMI::mib-2.55.1.7.1.5.2.8.254.128.0.0.0.0.0.0.64 = Gauge32: 0\r\n"
+    ],
+    [
+      0.003084,
+      "SNMPv2-SMI::mib-2.55.1.7.1.5.2.16.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.128 = Gauge32: 0\r\n"
+    ],
+    [
+      0.003026,
+      "SNMPv2-SMI::mib-2.55.1.7.1.6.1.2.255.2.16 = Gauge32: 0\r\n"
+    ],
+    [
+      0.003014,
+      "SNMPv2-SMI::mib-2.55.1.7.1.6.2.2.255.1.16 = Gauge32: 0\r\n"
+    ],
+    [
+      0.002746,
+      "SNMPv2-SMI::mib-2.55.1.7.1.6.2.2.255.2.16 = Gauge32: 0\r\n"
+    ],
+    [
+      0.002874,
+      "SNMPv2-SMI::mib-2.55.1.7.1.6.2.8.254.128.0.0.0.0.0.0.64 = Gauge32: 0\r\n"
+    ],
+    [
+      0.003030,
+      "SNMPv2-SMI::mib-2.55.1.7.1.6.2.16.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.128 = Gauge32: 0\r\n"
+    ],
+    [
+      0.003152,
+      "SNMPv2-SMI::mib-2.55.1.8.1.2.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1 = INTEGER: 0\r\n"
+    ],
+    [
+      0.002855,
+      "SNMPv2-SMI::mib-2.55.1.8.1.2.2.254.128.0.0.0.0.0.0.0.0.0.0.0.0.0.1 = INTEGER: 0\r\n"
+    ],
+    [
+      0.003037,
+      "SNMPv2-SMI::mib-2.55.1.8.1.3.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1 = INTEGER: 1\r\n"
+    ],
+    [
+      0.002691,
+      "SNMPv2-SMI::mib-2.55.1.8.1.3.2.254.128.0.0.0.0.0.0.0.0.0.0.0.0.0.1 = INTEGER: 1\r\n"
+    ],
+    [
+      0.003235,
+      "SNMPv2-SMI::mib-2.55.1.8.1.4.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1 = INTEGER: 2\r\n"
+    ],
+    [
+      0.002658,
+      "SNMPv2-SMI::mib-2.55.1.8.1.4.2.254.128.0.0.0.0.0.0.0.0.0.0.0.0.0.1 = INTEGER: 2\r\n"
+    ],
+    [
+      0.003187,
+      "SNMPv2-SMI::mib-2.55.1.8.1.5.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1 = INTEGER: 3\r\n"
+    ],
+    [
+      0.002668,
+      "SNMPv2-SMI::mib-2.55.1.8.1.5.2.254.128.0.0.0.0.0.0.0.0.0.0.0.0.0.1 = INTEGER: 3\r\n"
+    ],
+    [
+      0.003169,
+      "SNMPv2-SMI::mib-2.55.1.9.0 = Gauge32: 0\r\n"
+    ],
+    [
+      0.002845,
+      "SNMPv2-SMI::mib-2.55.1.10.0 = INTEGER: 0\r\n"
+    ],
+    [
+      0.005458,
+      "SNMPv2-SMI::mib-2.56.1.1.1.1.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002706,
+      "SNMPv2-SMI::mib-2.56.1.1.1.1.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003242,
+      "SNMPv2-SMI::mib-2.56.1.1.1.2.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002796,
+      "SNMPv2-SMI::mib-2.56.1.1.1.2.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003112,
+      "SNMPv2-SMI::mib-2.56.1.1.1.3.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.003102,
+      "SNMPv2-SMI::mib-2.56.1.1.1.3.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003082,
+      "SNMPv2-SMI::mib-2.56.1.1.1.4.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002882,
+      "SNMPv2-SMI::mib-2.56.1.1.1.4.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003128,
+      "SNMPv2-SMI::mib-2.56.1.1.1.5.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002959,
+      "SNMPv2-SMI::mib-2.56.1.1.1.5.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003243,
+      "SNMPv2-SMI::mib-2.56.1.1.1.6.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002826,
+      "SNMPv2-SMI::mib-2.56.1.1.1.6.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003395,
+      "SNMPv2-SMI::mib-2.56.1.1.1.7.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.003001,
+      "SNMPv2-SMI::mib-2.56.1.1.1.7.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003088,
+      "SNMPv2-SMI::mib-2.56.1.1.1.8.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.007299,
+      "SNMPv2-SMI::mib-2.56.1.1.1.8.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003018,
+      "SNMPv2-SMI::mib-2.56.1.1.1.9.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.003327,
+      "SNMPv2-SMI::mib-2.56.1.1.1.9.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.002660,
+      "SNMPv2-SMI::mib-2.56.1.1.1.10.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002679,
+      "SNMPv2-SMI::mib-2.56.1.1.1.10.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003070,
+      "SNMPv2-SMI::mib-2.56.1.1.1.11.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002630,
+      "SNMPv2-SMI::mib-2.56.1.1.1.11.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003224,
+      "SNMPv2-SMI::mib-2.56.1.1.1.12.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002702,
+      "SNMPv2-SMI::mib-2.56.1.1.1.12.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003336,
+      "SNMPv2-SMI::mib-2.56.1.1.1.13.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002962,
+      "SNMPv2-SMI::mib-2.56.1.1.1.13.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003177,
+      "SNMPv2-SMI::mib-2.56.1.1.1.14.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.003009,
+      "SNMPv2-SMI::mib-2.56.1.1.1.14.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.002944,
+      "SNMPv2-SMI::mib-2.56.1.1.1.15.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002829,
+      "SNMPv2-SMI::mib-2.56.1.1.1.15.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003148,
+      "SNMPv2-SMI::mib-2.56.1.1.1.16.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002840,
+      "SNMPv2-SMI::mib-2.56.1.1.1.16.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003276,
+      "SNMPv2-SMI::mib-2.56.1.1.1.17.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002878,
+      "SNMPv2-SMI::mib-2.56.1.1.1.17.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003082,
+      "SNMPv2-SMI::mib-2.56.1.1.1.18.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002835,
+      "SNMPv2-SMI::mib-2.56.1.1.1.18.2 = Counter32: 3\r\n"
+    ],
+    [
+      0.002949,
+      "SNMPv2-SMI::mib-2.56.1.1.1.19.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.003182,
+      "SNMPv2-SMI::mib-2.56.1.1.1.19.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.002932,
+      "SNMPv2-SMI::mib-2.56.1.1.1.20.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002891,
+      "SNMPv2-SMI::mib-2.56.1.1.1.20.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003283,
+      "SNMPv2-SMI::mib-2.56.1.1.1.21.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002973,
+      "SNMPv2-SMI::mib-2.56.1.1.1.21.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003244,
+      "SNMPv2-SMI::mib-2.56.1.1.1.22.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002982,
+      "SNMPv2-SMI::mib-2.56.1.1.1.22.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003166,
+      "SNMPv2-SMI::mib-2.56.1.1.1.23.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.003028,
+      "SNMPv2-SMI::mib-2.56.1.1.1.23.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.002942,
+      "SNMPv2-SMI::mib-2.56.1.1.1.24.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.003066,
+      "SNMPv2-SMI::mib-2.56.1.1.1.24.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.005793,
+      "SNMPv2-SMI::mib-2.56.1.1.1.25.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002918,
+      "SNMPv2-SMI::mib-2.56.1.1.1.25.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003226,
+      "SNMPv2-SMI::mib-2.56.1.1.1.26.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002737,
+      "SNMPv2-SMI::mib-2.56.1.1.1.26.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.002952,
+      "SNMPv2-SMI::mib-2.56.1.1.1.27.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002796,
+      "SNMPv2-SMI::mib-2.56.1.1.1.27.2 = Counter32: 3\r\n"
+    ],
+    [
+      0.003053,
+      "SNMPv2-SMI::mib-2.56.1.1.1.28.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002807,
+      "SNMPv2-SMI::mib-2.56.1.1.1.28.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003122,
+      "SNMPv2-SMI::mib-2.56.1.1.1.29.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002880,
+      "SNMPv2-SMI::mib-2.56.1.1.1.29.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003007,
+      "SNMPv2-SMI::mib-2.56.1.1.1.30.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002801,
+      "SNMPv2-SMI::mib-2.56.1.1.1.30.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.002793,
+      "SNMPv2-SMI::mib-2.56.1.1.1.31.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002744,
+      "SNMPv2-SMI::mib-2.56.1.1.1.31.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.002928,
+      "SNMPv2-SMI::mib-2.56.1.1.1.32.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002931,
+      "SNMPv2-SMI::mib-2.56.1.1.1.32.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.002879,
+      "SNMPv2-SMI::mib-2.56.1.1.1.33.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002567,
+      "SNMPv2-SMI::mib-2.56.1.1.1.33.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003029,
+      "SNMPv2-SMI::mib-2.56.1.1.1.34.1 = Counter32: 0\r\n"
+    ],
+    [
+      0.002673,
+      "SNMPv2-SMI::mib-2.56.1.1.1.34.2 = Counter32: 0\r\n"
+    ],
+    [
+      0.003710,
+      "bash-3.2$ "
+    ],
+    [
+      2.050719,
+      "exit\r\n"
+    ]
+  ]
+}
