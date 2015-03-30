@@ -1,0 +1,4022 @@
+{
+  "version": 1,
+  "width": 90,
+  "height": 30,
+  "duration": 147.986399,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.005788,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000006,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "I"
+    ],
+    [
+      0.359700,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.223490,
+      "#"
+    ],
+    [
+      0.184448,
+      " "
+    ],
+    [
+      0.359804,
+      "I"
+    ],
+    [
+      0.184375,
+      "'"
+    ],
+    [
+      0.095807,
+      "m"
+    ],
+    [
+      0.104018,
+      " "
+    ],
+    [
+      0.143721,
+      "o"
+    ],
+    [
+      0.048033,
+      "n"
+    ],
+    [
+      0.128194,
+      " "
+    ],
+    [
+      0.199989,
+      "m"
+    ],
+    [
+      0.120126,
+      "y"
+    ],
+    [
+      0.095588,
+      " "
+    ],
+    [
+      0.120581,
+      "m"
+    ],
+    [
+      0.063749,
+      "a"
+    ],
+    [
+      0.111756,
+      "c"
+    ],
+    [
+      0.224011,
+      " "
+    ],
+    [
+      0.104269,
+      "a"
+    ],
+    [
+      0.095689,
+      "n"
+    ],
+    [
+      0.119918,
+      "d"
+    ],
+    [
+      0.087866,
+      " "
+    ],
+    [
+      0.168203,
+      "I"
+    ],
+    [
+      0.096626,
+      " "
+    ],
+    [
+      0.143346,
+      "w"
+    ],
+    [
+      0.176340,
+      "a"
+    ],
+    [
+      0.191910,
+      "n"
+    ],
+    [
+      0.128148,
+      "t"
+    ],
+    [
+      0.095601,
+      " "
+    ],
+    [
+      0.272230,
+      "a"
+    ],
+    [
+      0.104182,
+      " "
+    ],
+    [
+      0.215978,
+      "b"
+    ],
+    [
+      0.495518,
+      "a"
+    ],
+    [
+      0.248370,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.071683,
+      "r"
+    ],
+    [
+      0.136415,
+      "a"
+    ],
+    [
+      0.143566,
+      "n"
+    ],
+    [
+      0.048245,
+      "d"
+    ],
+    [
+      0.112125,
+      " "
+    ],
+    [
+      0.136103,
+      "n"
+    ],
+    [
+      0.071788,
+      "e"
+    ],
+    [
+      0.096153,
+      "w"
+    ],
+    [
+      0.103830,
+      " "
+    ],
+    [
+      0.399959,
+      "u"
+    ],
+    [
+      0.071742,
+      "b"
+    ],
+    [
+      0.096614,
+      "u"
+    ],
+    [
+      0.207802,
+      "n"
+    ],
+    [
+      0.207567,
+      "t"
+    ],
+    [
+      0.128110,
+      "u"
+    ],
+    [
+      0.144328,
+      " "
+    ],
+    [
+      0.287820,
+      "m"
+    ],
+    [
+      0.071980,
+      "a"
+    ],
+    [
+      0.103961,
+      "c"
+    ],
+    [
+      0.080011,
+      "h"
+    ],
+    [
+      0.119983,
+      "i"
+    ],
+    [
+      0.103831,
+      "n"
+    ],
+    [
+      0.159948,
+      "e"
+    ],
+    [
+      0.736319,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "bash-3.2$ "
+    ],
+    [
+      0.439990,
+      "d"
+    ],
+    [
+      0.079854,
+      "o"
+    ],
+    [
+      0.103674,
+      "c"
+    ],
+    [
+      0.096364,
+      "k"
+    ],
+    [
+      0.080000,
+      "e"
+    ],
+    [
+      0.103687,
+      "r"
+    ],
+    [
+      0.127949,
+      " "
+    ],
+    [
+      0.240032,
+      "r"
+    ],
+    [
+      0.128367,
+      "u"
+    ],
+    [
+      0.079933,
+      "n"
+    ],
+    [
+      0.128111,
+      " "
+    ],
+    [
+      0.247841,
+      "-"
+    ],
+    [
+      0.224135,
+      "i"
+    ],
+    [
+      0.199957,
+      " "
+    ],
+    [
+      0.159961,
+      "-"
+    ],
+    [
+      0.143602,
+      "t"
+    ],
+    [
+      0.232262,
+      " "
+    ],
+    [
+      1.000000,
+      "u"
+    ],
+    [
+      0.112444,
+      "b"
+    ],
+    [
+      0.071975,
+      "u"
+    ],
+    [
+      0.183806,
+      "n"
+    ],
+    [
+      0.184611,
+      "t"
+    ],
+    [
+      0.127664,
+      "u"
+    ],
+    [
+      0.184060,
+      " "
+    ],
+    [
+      0.319671,
+      "/"
+    ],
+    [
+      0.127971,
+      "b"
+    ],
+    [
+      0.192280,
+      "n"
+    ],
+    [
+      0.319886,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.272032,
+      "i"
+    ],
+    [
+      0.056037,
+      "n"
+    ],
+    [
+      0.231800,
+      "/"
+    ],
+    [
+      0.128161,
+      "b"
+    ],
+    [
+      0.144077,
+      "a"
+    ],
+    [
+      0.103769,
+      "s"
+    ],
+    [
+      0.127932,
+      "h"
+    ],
+    [
+      0.808305,
+      "\r\n"
+    ],
+    [
+      0.565188,
+      "\u001b]0;root@a1dcc8da8f7c: /\u0007root@a1dcc8da8f7c:/# "
+    ],
+    [
+      1.000000,
+      "#"
+    ],
+    [
+      0.176517,
+      " "
+    ],
+    [
+      0.201305,
+      "I"
+    ],
+    [
+      0.194567,
+      "'"
+    ],
+    [
+      0.100850,
+      "m"
+    ],
+    [
+      0.110340,
+      " "
+    ],
+    [
+      0.127103,
+      "n"
+    ],
+    [
+      0.084029,
+      "o"
+    ],
+    [
+      0.078384,
+      "t"
+    ],
+    [
+      0.108607,
+      " "
+    ],
+    [
+      0.590575,
+      "\u0008 \u0008"
+    ],
+    [
+      0.142472,
+      "\u0008 \u0008"
+    ],
+    [
+      0.072361,
+      "w"
+    ],
+    [
+      0.096063,
+      " "
+    ],
+    [
+      0.122687,
+      "o"
+    ],
+    [
+      0.070865,
+      "n"
+    ],
+    [
+      0.100473,
+      " "
+    ],
+    [
+      0.339860,
+      "a"
+    ],
+    [
+      0.167512,
+      " "
+    ],
+    [
+      1.000000,
+      "\u0008 \u0008"
+    ],
+    [
+      0.203991,
+      "n"
+    ],
+    [
+      0.149483,
+      " "
+    ],
+    [
+      0.162858,
+      "i"
+    ],
+    [
+      0.120770,
+      "s"
+    ],
+    [
+      0.097965,
+      "o"
+    ],
+    [
+      0.147364,
+      "l"
+    ],
+    [
+      0.118263,
+      "a"
+    ],
+    [
+      0.102004,
+      "t"
+    ],
+    [
+      0.174818,
+      "e"
+    ],
+    [
+      0.152665,
+      "d"
+    ],
+    [
+      0.103648,
+      " "
+    ],
+    [
+      0.259818,
+      "d"
+    ],
+    [
+      0.112785,
+      "o"
+    ],
+    [
+      0.327521,
+      "\u0008 \u0008"
+    ],
+    [
+      0.129281,
+      "\u0008 \u0008"
+    ],
+    [
+      0.244316,
+      "u"
+    ],
+    [
+      0.056913,
+      "b"
+    ],
+    [
+      0.096816,
+      "u"
+    ],
+    [
+      0.176741,
+      "n"
+    ],
+    [
+      0.111815,
+      "t"
+    ],
+    [
+      0.120099,
+      "u"
+    ],
+    [
+      0.143322,
+      " "
+    ],
+    [
+      0.220073,
+      "m"
+    ],
+    [
+      0.080672,
+      "a"
+    ],
+    [
+      0.113215,
+      "c"
+    ],
+    [
+      0.074991,
+      "h"
+    ],
+    [
+      0.122149,
+      "i"
+    ],
+    [
+      0.070820,
+      "n"
+    ],
+    [
+      0.086379,
+      "e"
+    ],
+    [
+      0.893753,
+      "\r\n"
+    ],
+    [
+      0.001638,
+      "\u001b]0;root@a1dcc8da8f7c: /\u0007root@a1dcc8da8f7c:/# \u001b[K"
+    ],
+    [
+      0.919450,
+      "#"
+    ],
+    [
+      0.119726,
+      " "
+    ],
+    [
+      0.208982,
+      "I"
+    ],
+    [
+      0.132367,
+      " "
+    ],
+    [
+      0.160979,
+      "c"
+    ],
+    [
+      0.086880,
+      "a"
+    ],
+    [
+      0.093380,
+      "n"
+    ],
+    [
+      0.104458,
+      " "
+    ],
+    [
+      0.144975,
+      "i"
+    ],
+    [
+      0.045573,
+      "n"
+    ],
+    [
+      0.059360,
+      "s"
+    ],
+    [
+      0.089150,
+      "t"
+    ],
+    [
+      0.124895,
+      "a"
+    ],
+    [
+      0.065575,
+      "l"
+    ],
+    [
+      0.093919,
+      "l"
+    ],
+    [
+      0.087958,
+      " "
+    ],
+    [
+      0.139476,
+      "s"
+    ],
+    [
+      0.091991,
+      "t"
+    ],
+    [
+      0.099481,
+      "u"
+    ],
+    [
+      0.112132,
+      "f"
+    ],
+    [
+      0.107489,
+      "f"
+    ],
+    [
+      0.243010,
+      ","
+    ],
+    [
+      0.077338,
+      " "
+    ],
+    [
+      0.132054,
+      "l"
+    ],
+    [
+      0.080530,
+      "i"
+    ],
+    [
+      0.138293,
+      "k"
+    ],
+    [
+      0.060670,
+      "e"
+    ],
+    [
+      0.090475,
+      " "
+    ],
+    [
+      0.125165,
+      "g"
+    ],
+    [
+      0.102330,
+      "i"
+    ],
+    [
+      0.073709,
+      "t"
+    ],
+    [
+      1.000000,
+      "\r\n\u001b]0;root@a1dcc8da8f7c: /\u0007root@a1dcc8da8f7c:/# \u001b[K"
+    ],
+    [
+      0.441046,
+      "s"
+    ],
+    [
+      0.077556,
+      "u"
+    ],
+    [
+      0.105072,
+      "d"
+    ],
+    [
+      0.066749,
+      "o"
+    ],
+    [
+      0.102604,
+      " "
+    ],
+    [
+      0.117247,
+      "a"
+    ],
+    [
+      0.087422,
+      "p"
+    ],
+    [
+      0.105045,
+      "t"
+    ],
+    [
+      0.117554,
+      "-"
+    ],
+    [
+      0.092674,
+      "g"
+    ],
+    [
+      0.150626,
+      "e"
+    ],
+    [
+      0.065104,
+      "t"
+    ],
+    [
+      0.098158,
+      " "
+    ],
+    [
+      0.126250,
+      "u"
+    ],
+    [
+      0.160359,
+      "p"
+    ],
+    [
+      0.079015,
+      "d"
+    ],
+    [
+      0.146217,
+      "a"
+    ],
+    [
+      0.082801,
+      "t"
+    ],
+    [
+      0.161113,
+      "e"
+    ],
+    [
+      1.000000,
+      " "
+    ],
+    [
+      0.226285,
+      "-"
+    ],
+    [
+      0.175140,
+      "q"
+    ],
+    [
+      0.611086,
+      "q"
+    ],
+    [
+      0.762505,
+      "\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b]0;root@a1dcc8da8f7c: /\u0007root@a1dcc8da8f7c:/# "
+    ],
+    [
+      0.747839,
+      "s"
+    ],
+    [
+      0.110646,
+      "u"
+    ],
+    [
+      0.085722,
+      "d"
+    ],
+    [
+      0.090894,
+      "o"
+    ],
+    [
+      0.107391,
+      " "
+    ],
+    [
+      0.132264,
+      "a"
+    ],
+    [
+      0.068785,
+      "p"
+    ],
+    [
+      0.138969,
+      "t"
+    ],
+    [
+      0.116324,
+      "-"
+    ],
+    [
+      0.113192,
+      "g"
+    ],
+    [
+      0.145410,
+      "e"
+    ],
+    [
+      0.080938,
+      "t"
+    ],
+    [
+      0.095256,
+      " "
+    ],
+    [
+      0.092145,
+      "i"
+    ],
+    [
+      0.058514,
+      "n"
+    ],
+    [
+      0.060891,
+      "s"
+    ],
+    [
+      0.090821,
+      "t"
+    ],
+    [
+      0.109391,
+      "a"
+    ],
+    [
+      0.062007,
+      "l"
+    ],
+    [
+      0.127058,
+      "l"
+    ],
+    [
+      0.058107,
+      " "
+    ],
+    [
+      0.152346,
+      "g"
+    ],
+    [
+      0.121193,
+      "i"
+    ],
+    [
+      0.083528,
+      "t"
+    ],
+    [
+      0.246223,
+      "\r\n"
+    ],
+    [
+      0.150868,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.138289,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.113321,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.002884,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000007,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.005001,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.560171,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.005276,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.052551,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.002060,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000005,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.001782,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.028344,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.005237,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.010214,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.004707,
+      "\rReading package lists... 0%\r\rReading package lists... 0%\r"
+    ],
+    [
+      0.002066,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.001055,
+      "\rReading package lists... 0%\r\rReading package lists... 0%\r"
+    ],
+    [
+      0.000326,
+      "\rReading package lists... 52%\r"
+    ],
+    [
+      0.002625,
+      "\rReading package lists... Done\r\r\n"
+    ],
+    [
+      0.130151,
+      "\rBuilding dependency tree... 0%\r\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.019184,
+      "\rBuilding dependency tree... 50%\r\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.085401,
+      "\rBuilding dependency tree       \r\r\n\rReading state information... 0%\r\rReading state information... 0%\r\rReading state information... Done\r\r\n"
+    ],
+    [
+      0.084444,
+      "The following extra packages will be installed:\r\n  ca-certificates git-man krb5-locales libasn1-8-heimdal libcurl3-gnutls\r\n  libedit2 liberror-perl libgssapi-krb5-2 libgssapi3-heimdal\r\n  libhcrypto4-heimdal libheimbase1-heimdal libheimntlm0-heimdal\r\n  libhx509-5-heimdal libidn11 libk5crypto3 libkeyutils1 libkrb5-26-heimdal\r\n  libkrb5-3 libkrb5support0 libldap-2.4-2 libroken18-heimdal librtmp0\r\n  libsasl2-2 libsasl2-modules libsasl2-modules-db libwind0-heimdal libx11-6\r\n  libx11-data libxau6 libxcb1 libxdmcp6 libxext6 libxmuu1 openssh-client"
+    ],
+    [
+      0.001525,
+      "\r\n  openssl patch rsync xauth\r\n"
+    ],
+    [
+      0.000644,
+      "Suggested packages:\r\n  gettext-base git-daemon-run git-daemon-sysvinit git-doc git-el git-email\r\n  git-gui gitk gitweb git-arch git-bzr git-cvs git-mediawiki git-svn krb5-doc\r\n  krb5-user libsasl2-modules-otp libsasl2-modules-ldap libsasl2-modules-sql\r\n  libsasl2-modules-gssapi-mit libsasl2-modules-gssapi-heimdal ssh-askpass\r\n  libpam-ssh keychain monkeysphere ed diffutils-doc openssh-server\r\nRecommended packages:\r\n  ssh-client\r\n"
+    ],
+    [
+      0.000711,
+      "The following NEW packages will be installed:\r\n  ca-certificates git git-man krb5-locales libasn1-8-heimdal libcurl3-gnutls\r\n  libedit2 liberror-perl libgssapi-krb5-2 libgssapi3-heimdal\r\n  libhcrypto4-heimdal libheimbase1-heimdal libheimntlm0-heimdal\r\n  libhx509-5-heimdal libidn11 libk5crypto3 libkeyutils1 libkrb5-26-heimdal\r\n  libkrb5-3 libkrb5support0 libldap-2.4-2 libroken18-heimdal librtmp0\r\n  libsasl2-2 libsasl2-modules libsasl2-modules-db libwind0-heimdal libx11-6\r\n  libx11-data libxau6 libxcb1 libxdmcp6 libxext6 libxmuu1 openssh-client\r\n  openssl patch rsync xauth\r\n"
+    ],
+    [
+      0.004390,
+      "0 upgraded, 39 newly installed, 0 to remove and 6 not upgraded.\r\n"
+    ],
+    [
+      0.377499,
+      "Need to get 7722 kB of archives.\r\nAfter this operation, 41.2 MB of additional disk space will be used.\r\nDo you want to continue?"
+    ],
+    [
+      0.006567,
+      " [Y/n] "
+    ],
+    [
+      0.788370,
+      "\r\n"
+    ],
+    [
+      0.145112,
+      "\r\r0% [Working]"
+    ],
+    [
+      0.124698,
+      "\r            \rGet:1 http://archive.ubuntu.com/ubuntu/ trusty-updates/main libroken18-heimdal amd64 1.6~git20131207+dfsg-1ubuntu1.1 [40.0 kB]\r\n\r            \r0% [1 libroken18-heimdal 8269 B/40.0 kB 21%]"
+    ],
+    [
+      0.121184,
+      "\r                                            \r1% [Waiting for headers]"
+    ],
+    [
+      0.069100,
+      "\r                        \rGet:2 http://archive.ubuntu.com/ubuntu/ trusty-updates/main libasn1-8-heimdal amd64 1.6~git20131207+dfsg-1ubuntu1.1 [161 kB]\r\n\r                        \r1% [2 libasn1-8-heimdal 25.0 kB/161 kB 16%]"
+    ],
+    [
+      0.180428,
+      "\r                                           \r3% [Working]"
+    ],
+    [
+      0.054749,
+      "\r            \rGet:3 http://archive.ubuntu.com/ubuntu/ trusty-updates/main libkrb5support0 amd64 1.12+dfsg-2ubuntu5.1 [30.4 kB]\r\n\r            \r3% [3 libkrb5support0 18.6 kB/30.4 kB 61%]"
+    ],
+    [
+      0.003618,
+      "\r                                          \r3% [Waiting for headers]"
+    ],
+    [
+      0.066317,
+      "\r                        \rGet:4 http://archive.ubuntu.com/ubuntu/ trusty-updates/main libk5crypto3 amd64 1.12+dfsg-2ubuntu5.1 [79.8 kB]\r\n\r                        \r3% [4 libk5crypto3 0 B/79.8 kB 0%]"
+    ],
+    [
+      0.056558,
+      "\r                                  \r4% [Waiting for headers]"
+    ],
+    [
+      0.056607,
+      "\r                        \rGet:5 http://archive.ubuntu.com/ubuntu/ trusty/main libkeyutils1 amd64 1.5.6-1 [7318 B]\r\n\r                        \r4% [5 libkeyutils1 7318 B/7318 B 100%]"
+    ],
+    [
+      0.001575,
+      "\r                                      \r4% [Working]"
+    ],
+    [
+      0.064125,
+      "\r            \rGet:6 http://archive.ubuntu.com/ubuntu/ trusty-updates/main libkrb5-3 amd64 1.12+dfsg-2ubuntu5.1 [262 kB]\r\n\r            \r4% [6 libkrb5-3 8162 B/262 kB 3%]"
+    ],
+    [
+      0.127230,
+      "\r                                 \r8% [Waiting for headers]"
+    ],
+    [
+      0.055294,
+      "\r                        \rGet:7 http://archive.ubuntu.com/ubuntu/ trusty-updates/main libgssapi-krb5-2 amd64 1.12+dfsg-2ubuntu5.1 [113 kB]\r\n"
+    ],
+    [
+      0.003274,
+      "\r                        \r8% [7 libgssapi-krb5-2 7867 B/113 kB 7%]"
+    ],
+    [
+      0.019953,
+      "\r                                        \r9% [Working]"
+    ],
+    [
+      0.055208,
+      "\r            \rGet:8 http://archive.ubuntu.com/ubuntu/ trusty/main libidn11 amd64 1.28-1ubuntu2 [93.0 kB]\r\n\r            \r9% [8 libidn11 21.4 kB/93.0 kB 23%]"
+    ],
+    [
+      0.015473,
+      "\r                                   \r10% [Working]"
+    ],
+    [
+      0.054831,
+      "\r             \rGet:9 http://archive.ubuntu.com/ubuntu/ trusty-updates/main libhcrypto4-heimdal amd64 1.6~git20131207+dfsg-1ubuntu1.1 [83.9 kB]\r\n\r             \r10% [9 libhcrypto4-heimdal 15.7 kB/83.9 kB 19%]"
+    ],
+    [
+      0.014564,
+      "\r                                               \r11% [Working]"
+    ],
+    [
+      0.054815,
+      "\r             \rGet:10 http://archive.ubuntu.com/ubuntu/ trusty-updates/main libheimbase1-heimdal amd64 1.6~git20131207+dfsg-1ubuntu1.1 [28.9 kB]\r\n\r             \r11% [10 libheimbase1-heimdal 9885 B/28.9 kB 34%]"
+    ],
+    [
+      0.009798,
+      "\r                                                \r12% [Waiting for headers]"
+    ],
+    [
+      0.061300,
+      "\r                         \rGet:11 http://archive.ubuntu.com/ubuntu/ trusty-updates/main libwind0-heimdal amd64 1.6~git20131207+dfsg-1ubuntu1.1 [47.8 kB]\r\n\r                         \r12% [11 libwind0-heimdal 9885 B/47.8 kB 21%]"
+    ],
+    [
+      0.005974,
+      "\r                                            \r12% [Waiting for headers]"
+    ],
+    [
+      0.073197,
+      "\r                         \rGet:12 http://archive.ubuntu.com/ubuntu/ trusty-updates/main libhx509-5-heimdal amd64 1.6~git20131207+dfsg-1ubuntu1.1 [104 kB]\r\n\r                         \r12% [12 libhx509-5-heimdal 0 B/104 kB 0%]"
+    ],
+    [
+      0.504926,
+      "\r                                         \r14% [12 libhx509-5-heimdal 101 kB/104 kB 97%]"
+    ],
+    [
+      0.100213,
+      "\r                                             \r14% [Working]"
+    ],
+    [
+      0.068368,
+      "\r             \rGet:13 http://archive.ubuntu.com/ubuntu/ trusty-updates/main libkrb5-26-heimdal amd64 1.6~git20131207+dfsg-1ubuntu1.1 [196 kB]\r\n\r             \r14% [13 libkrb5-26-heimdal 4091 B/196 kB 2%]"
+    ],
+    [
+      0.481522,
+      "\r                                            \r16% [Waiting for headers]"
+    ],
+    [
+      0.051433,
+      "\r                         \rGet:14 http://archive.ubuntu.com/ubuntu/ trusty-updates/main libheimntlm0-heimdal amd64 1.6~git20131207+dfsg-1ubuntu1.1 [15.2 kB]\r\n\r                         \r16% [14 libheimntlm0-heimdal 15.2 kB/15.2 kB 100%]"
+    ],
+    [
+      0.004005,
+      "\r                                                  \r16% [Waiting for headers]"
+    ],
+    [
+      0.064953,
+      "\r                         \rGet:15 http://archive.ubuntu.com/ubuntu/ trusty-updates/main libgssapi3-heimdal amd64 1.6~git20131207+dfsg-1ubuntu1.1 [89.8 kB]\r\n\r                         \r16% [15 libgssapi3-heimdal 4096 B/89.8 kB 5%]"
+    ],
+    [
+      0.060006,
+      "\r                                             \r18% [Waiting for headers]"
+    ],
+    [
+      0.056944,
+      "\r                         \rGet:16 http://archive.ubuntu.com/ubuntu/ trusty/main libsasl2-modules-db amd64 2.1.25.dfsg1-17build1 [14.9 kB]\r\n\r                         \r18% [16 libsasl2-modules-db 14.9 kB/14.9 kB 100%]"
+    ],
+    [
+      0.003930,
+      "\r                                                 \r18% [Waiting for headers]"
+    ],
+    [
+      0.063025,
+      "\r                         \rGet:17 http://archive.ubuntu.com/ubuntu/ trusty/main libsasl2-2 amd64 2.1.25.dfsg1-17build1 [56.5 kB]\r\n\r                         \r18% [17 libsasl2-2 4688 B/56.5 kB 8%]"
+    ],
+    [
+      0.010868,
+      "\r                                     \r18% [Working]"
+    ],
+    [
+      0.059627,
+      "\r             \rGet:18 http://archive.ubuntu.com/ubuntu/ trusty/main libldap-2.4-2 amd64 2.4.31-1+nmu2ubuntu8 [154 kB]\r\n\r             \r18% [18 libldap-2.4-2 4096 B/154 kB 3%]"
+    ],
+    [
+      0.080545,
+      "\r                                       \r20% [Working]"
+    ],
+    [
+      0.054869,
+      "\r             \rGet:19 http://archive.ubuntu.com/ubuntu/ trusty/main librtmp0 amd64 2.4+20121230.gitdf6c518-1 [57.5 kB]\r\n\r             \r21% [19 librtmp0 33.0 kB/57.5 kB 57%]"
+    ],
+    [
+      0.005520,
+      "\r                                     \r21% [Waiting for headers]"
+    ],
+    [
+      0.060334,
+      "\r                         \rGet:20 http://archive.ubuntu.com/ubuntu/ trusty-updates/main libcurl3-gnutls amd64 7.35.0-1ubuntu2.3 [165 kB]\r\n\r                         \r21% [20 libcurl3-gnutls 0 B/165 kB 0%]"
+    ],
+    [
+      0.079694,
+      "\r                                      \r23% [Waiting for headers]"
+    ],
+    [
+      0.064535,
+      "\r                         \rGet:21 http://archive.ubuntu.com/ubuntu/ trusty/main libedit2 amd64 3.1-20130712-2 [86.7 kB]\r\n\r                         \r24% [21 libedit2 15.7 kB/86.7 kB 18%]"
+    ],
+    [
+      0.007183,
+      "\r                                     \r24% [Working]"
+    ],
+    [
+      0.062350,
+      "\r             \rGet:22 http://archive.ubuntu.com/ubuntu/ trusty/main libxau6 amd64 1:1.0.8-1 [8376 B]\r\n\r             \r25% [22 libxau6 8376 B/8376 B 100%]"
+    ],
+    [
+      0.000731,
+      "\r                                   \r25% [Waiting for headers]"
+    ],
+    [
+      0.070058,
+      "\r                         \rGet:23 http://archive.ubuntu.com/ubuntu/ trusty/main libxdmcp6 amd64 1:1.1.1-1 [12.8 kB]\r\n\r                         \r25% [23 libxdmcp6 12.8 kB/12.8 kB 100%]"
+    ],
+    [
+      0.002527,
+      "\r                                       \r25% [Working]"
+    ],
+    [
+      0.068486,
+      "\r             \rGet:24 http://archive.ubuntu.com/ubuntu/ trusty/main libxcb1 amd64 1.10-2ubuntu1 [38.0 kB]\r\n\r             \r25% [24 libxcb1 0 B/38.0 kB 0%]"
+    ],
+    [
+      0.014978,
+      "\r                               \r25% [Waiting for headers]"
+    ],
+    [
+      0.184605,
+      "\r                         \rGet:25 http://archive.ubuntu.com/ubuntu/ trusty/main libx11-data all 2:1.6.2-1ubuntu2 [111 kB]\r\n\r                         \r25% [25 libx11-data 14.1 kB/111 kB 13%]"
+    ],
+    [
+      0.453737,
+      "\r                                       \r27% [Working]"
+    ],
+    [
+      0.076615,
+      "\r             \rGet:26 http://archive.ubuntu.com/ubuntu/ trusty/main libx11-6 amd64 2:1.6.2-1ubuntu2 [560 kB]\r\n\r             \r27% [26 libx11-6 2643 B/560 kB 0%]"
+    ],
+    [
+      0.501291,
+      "\r                                  \r29% [26 libx11-6 156 kB/560 kB 28%]"
+    ],
+    [
+      0.302459,
+      "\r                                   \r34% [Waiting for headers]"
+    ],
+    [
+      0.059441,
+      "\r                         \rGet:27 http://archive.ubuntu.com/ubuntu/ trusty/main libxext6 amd64 2:1.3.2-1 [33.9 kB]\r\n\r                         \r34% [27 libxext6 4096 B/33.9 kB 12%]"
+    ],
+    [
+      0.008224,
+      "\r                                    \r34% [Waiting for headers]"
+    ],
+    [
+      0.061868,
+      "\r                         \rGet:28 http://archive.ubuntu.com/ubuntu/ trusty/main libxmuu1 amd64 2:1.1.1-1 [11.0 kB]\r\n\r                         \r34% [28 libxmuu1 11.0 kB/11.0 kB 100%]"
+    ],
+    [
+      0.000874,
+      "\r                                      \r34% [Waiting for headers]"
+    ],
+    [
+      0.065552,
+      "\r                         \rGet:29 http://archive.ubuntu.com/ubuntu/ trusty-updates/main openssl amd64 1.0.1f-1ubuntu2.11 [488 kB]\r\n\r                         \r35% [29 openssl 15.7 kB/488 kB 3%]"
+    ],
+    [
+      0.261212,
+      "\r                                  \r41% [Waiting for headers]"
+    ],
+    [
+      0.067561,
+      "\r                         \rGet:30 http://archive.ubuntu.com/ubuntu/ trusty-updates/main ca-certificates all 20141019ubuntu0.14.04.1 [189 kB]\r\n\r                         \r41% [30 ca-certificates 14.2 kB/189 kB 8%]"
+    ],
+    [
+      0.077804,
+      "\r                                          \r43% [Waiting for headers]"
+    ],
+    [
+      0.063909,
+      "\r                         \rGet:31 http://archive.ubuntu.com/ubuntu/ trusty-updates/main krb5-locales all 1.12+dfsg-2ubuntu5.1 [13.2 kB]\r\n\r                         \r43% [31 krb5-locales 13.2 kB/13.2 kB 100%]"
+    ],
+    [
+      0.004830,
+      "\r                                          \r43% [Waiting for headers]"
+    ],
+    [
+      0.063381,
+      "\r                         \rGet:32 http://archive.ubuntu.com/ubuntu/ trusty/main libsasl2-modules amd64 2.1.25.dfsg1-17build1 [64.3 kB]\r\n"
+    ],
+    [
+      0.000010,
+      "\r                         \r43% [32 libsasl2-modules 0 B/64.3 kB 0%]"
+    ],
+    [
+      0.015337,
+      "\r                                        \r44% [Waiting for headers]"
+    ],
+    [
+      0.060276,
+      "\r                         \rGet:33 http://archive.ubuntu.com/ubuntu/ trusty-updates/main openssh-client amd64 1:6.6p1-2ubuntu2 [565 kB]\r\n"
+    ],
+    [
+      0.004645,
+      "\r                         \r44% [33 openssh-client 17.1 kB/565 kB 3%]"
+    ],
+    [
+      0.253218,
+      "\r                                         \r52% [Waiting for headers]                                           660 kB/s 5s"
+    ],
+    [
+      0.061976,
+      "\r                                                                               \rGet:34 http://archive.ubuntu.com/ubuntu/ trusty-updates/main rsync amd64 3.1.0-2ubuntu0.1 [283 kB]\r\n\r52% [34 rsync 11.3 kB/283 kB 4%]                                    660 kB/s 5s"
+    ],
+    [
+      0.120463,
+      "\r55% [Waiting for headers]                                           660 kB/s 5s"
+    ],
+    [
+      0.063945,
+      "\r                                                                               \rGet:35 http://archive.ubuntu.com/ubuntu/ trusty/main xauth amd64 1:1.0.7-1ubuntu1 [25.8 kB]\r\n"
+    ],
+    [
+      0.000009,
+      "\r55% [35 xauth 15.7 kB/25.8 kB 61%]                                  660 kB/s 5s\r56% [Working]                                                       660 kB/s 5s"
+    ],
+    [
+      0.065145,
+      "\r                                                                               \rGet:36 http://archive.ubuntu.com/ubuntu/ trusty/main liberror-perl all 0.17-1.1 [21.1 kB]\r\n\r56% [36 liberror-perl 17.1 kB/21.1 kB 81%]                          660 kB/s 5s"
+    ],
+    [
+      0.004709,
+      "\r56% [Waiting for headers]                                           660 kB/s 5s"
+    ],
+    [
+      0.060490,
+      "\r                                                                               \rGet:37 http://archive.ubuntu.com/ubuntu/ trusty-updates/main git-man all 1:1.9.1-1ubuntu0.1 [698 kB]\r\n\r56% [37 git-man 0 B/698 kB 0%]                                      660 kB/s 5s"
+    ],
+    [
+      0.264809,
+      "\r65% [Waiting for headers]                                           660 kB/s 4s"
+    ],
+    [
+      0.064976,
+      "\r                                                                               \rGet:38 http://archive.ubuntu.com/ubuntu/ trusty-updates/main git amd64 1:1.9.1-1ubuntu0.1 [2627 kB]\r\n"
+    ],
+    [
+      0.000007,
+      "\r65% [38 git 12.8 kB/2627 kB 0%]                                     660 kB/s 4s"
+    ],
+    [
+      0.499568,
+      "\r86% [38 git 1627 kB/2627 kB 62%]                                    660 kB/s 1s"
+    ],
+    [
+      0.245109,
+      "\r99% [Waiting for headers]                                           660 kB/s 0s"
+    ],
+    [
+      0.066210,
+      "\r                                                                               \rGet:39 http://archive.ubuntu.com/ubuntu/ trusty-updates/main patch amd64 2.7.1-4ubuntu1 [84.4 kB]\r\n"
+    ],
+    [
+      0.000420,
+      "\r99% [39 patch 4092 B/84.4 kB 5%]                                    660 kB/s 0s"
+    ],
+    [
+      0.353413,
+      "\r100% [Working]                                                      660 kB/s 0s\r                                                                               \rFetched 7722 kB in 7s (976 kB/s)\r\n"
+    ],
+    [
+      1.000000,
+      "\rExtracting templates from packages: 76%"
+    ],
+    [
+      1.000000,
+      "\rExtracting templates from packages: 100%\r\n"
+    ],
+    [
+      0.009985,
+      "Preconfiguring packages ...\r\n"
+    ],
+    [
+      0.216304,
+      "Selecting previously unselected package libroken18-heimdal:amd64.\r\n(Reading database ... \r"
+    ],
+    [
+      0.003658,
+      "(Reading database ... 5%\r"
+    ],
+    [
+      0.000014,
+      "(Reading database ... 10%\r"
+    ],
+    [
+      0.000004,
+      "(Reading database ... 15%\r"
+    ],
+    [
+      0.000005,
+      "(Reading database ... 20%\r"
+    ],
+    [
+      0.000002,
+      "(Reading database ... 25%\r"
+    ],
+    [
+      0.000009,
+      "(Reading database ... 30%\r(Reading database ... 35%\r(Reading database ... 40%\r"
+    ],
+    [
+      0.000017,
+      "(Reading database ... 45%\r(Reading database ... 50%\r(Reading database ... 55%\r(Reading database ... 60%\r(Reading database ... 65%\r(Reading database ... 70%\r(Reading database ... 75%\r"
+    ],
+    [
+      0.000133,
+      "(Reading database ... 80%\r(Reading database ... 85%\r(Reading database ... 90%\r"
+    ],
+    [
+      0.000190,
+      "(Reading database ... 95%\r(Reading database ... 100%\r(Reading database ... "
+    ],
+    [
+      0.003770,
+      "11527 files and directories currently installed.)\r\n"
+    ],
+    [
+      0.000004,
+      "Preparing to unpack .../libroken18-heimdal_1.6~git20131207+dfsg-1ubuntu1.1_amd64.deb ...\r\nUnpacking libroken18-heimdal:amd64 (1.6~git20131207+dfsg-1ubuntu1.1) ...\r\n"
+    ],
+    [
+      0.030198,
+      "Selecting previously unselected package libasn1-8-heimdal:amd64.\r\n"
+    ],
+    [
+      0.000504,
+      "Preparing to unpack .../libasn1-8-heimdal_1.6~git20131207+dfsg-1ubuntu1.1_amd64.deb ...\r\n"
+    ],
+    [
+      0.003127,
+      "Unpacking libasn1-8-heimdal:amd64 (1.6~git20131207+dfsg-1ubuntu1.1) ...\r\n"
+    ],
+    [
+      0.043941,
+      "Selecting previously unselected package libkrb5support0:amd64.\r\n"
+    ],
+    [
+      0.000006,
+      "Preparing to unpack .../libkrb5support0_1.12+dfsg-2ubuntu5.1_amd64.deb ...\r\n"
+    ],
+    [
+      0.003336,
+      "Unpacking libkrb5support0:amd64 (1.12+dfsg-2ubuntu5.1) ...\r\n"
+    ],
+    [
+      0.029901,
+      "Selecting previously unselected package libk5crypto3:amd64.\r\n"
+    ],
+    [
+      0.004458,
+      "Preparing to unpack .../libk5crypto3_1.12+dfsg-2ubuntu5.1_amd64.deb ...\r\n"
+    ],
+    [
+      0.000005,
+      "Unpacking libk5crypto3:amd64 (1.12+dfsg-2ubuntu5.1) ...\r\n"
+    ],
+    [
+      0.035384,
+      "Selecting previously unselected package libkeyutils1:amd64.\r\n"
+    ],
+    [
+      0.000269,
+      "Preparing to unpack .../libkeyutils1_1.5.6-1_amd64.deb ...\r\n"
+    ],
+    [
+      0.000124,
+      "Unpacking libkeyutils1:amd64 (1.5.6-1) ...\r\n"
+    ],
+    [
+      0.027175,
+      "Selecting previously unselected package libkrb5-3:amd64.\r\n"
+    ],
+    [
+      0.001142,
+      "Preparing to unpack .../libkrb5-3_1.12+dfsg-2ubuntu5.1_amd64.deb ...\r\n"
+    ],
+    [
+      0.003683,
+      "Unpacking libkrb5-3:amd64 (1.12+dfsg-2ubuntu5.1) ...\r\n"
+    ],
+    [
+      0.053688,
+      "Selecting previously unselected package libgssapi-krb5-2:amd64.\r\n"
+    ],
+    [
+      0.000545,
+      "Preparing to unpack .../libgssapi-krb5-2_1.12+dfsg-2ubuntu5.1_amd64.deb ...\r\n"
+    ],
+    [
+      0.002758,
+      "Unpacking libgssapi-krb5-2:amd64 (1.12+dfsg-2ubuntu5.1) ...\r\n"
+    ],
+    [
+      0.040312,
+      "Selecting previously unselected package libidn11:amd64.\r\n"
+    ],
+    [
+      0.000443,
+      "Preparing to unpack .../libidn11_1.28-1ubuntu2_amd64.deb ...\r\n"
+    ],
+    [
+      0.002240,
+      "Unpacking libidn11:amd64 (1.28-1ubuntu2) ...\r\n"
+    ],
+    [
+      0.034508,
+      "Selecting previously unselected package libhcrypto4-heimdal:amd64.\r\n"
+    ],
+    [
+      0.000637,
+      "Preparing to unpack .../libhcrypto4-heimdal_1.6~git20131207+dfsg-1ubuntu1.1_amd64.deb ...\r\n"
+    ],
+    [
+      0.003315,
+      "Unpacking libhcrypto4-heimdal:amd64 (1.6~git20131207+dfsg-1ubuntu1.1) ...\r\n"
+    ],
+    [
+      0.039447,
+      "Selecting previously unselected package libheimbase1-heimdal:amd64.\r\n"
+    ],
+    [
+      0.000006,
+      "Preparing to unpack .../libheimbase1-heimdal_1.6~git20131207+dfsg-1ubuntu1.1_amd64.deb ...\r\n"
+    ],
+    [
+      0.000252,
+      "Unpacking libheimbase1-heimdal:amd64 (1.6~git20131207+dfsg-1ubuntu1.1) ...\r\n"
+    ],
+    [
+      0.029423,
+      "Selecting previously unselected package libwind0-heimdal:amd64.\r\n"
+    ],
+    [
+      0.000433,
+      "Preparing to unpack .../libwind0-heimdal_1.6~git20131207+dfsg-1ubuntu1.1_amd64.deb ...\r\n"
+    ],
+    [
+      0.004685,
+      "Unpacking libwind0-heimdal:amd64 (1.6~git20131207+dfsg-1ubuntu1.1) ...\r\n"
+    ],
+    [
+      0.034687,
+      "Selecting previously unselected package libhx509-5-heimdal:amd64.\r\n"
+    ],
+    [
+      0.000009,
+      "Preparing to unpack .../libhx509-5-heimdal_1.6~git20131207+dfsg-1ubuntu1.1_amd64.deb ...\r\nUnpacking libhx509-5-heimdal:amd64 (1.6~git20131207+dfsg-1ubuntu1.1) ...\r\n"
+    ],
+    [
+      0.038897,
+      "Selecting previously unselected package libkrb5-26-heimdal:amd64.\r\n"
+    ],
+    [
+      0.000946,
+      "Preparing to unpack .../libkrb5-26-heimdal_1.6~git20131207+dfsg-1ubuntu1.1_amd64.deb ...\r\n"
+    ],
+    [
+      0.003902,
+      "Unpacking libkrb5-26-heimdal:amd64 (1.6~git20131207+dfsg-1ubuntu1.1) ...\r\n"
+    ],
+    [
+      0.046378,
+      "Selecting previously unselected package libheimntlm0-heimdal:amd64.\r\n"
+    ],
+    [
+      0.001833,
+      "Preparing to unpack .../libheimntlm0-heimdal_1.6~git20131207+dfsg-1ubuntu1.1_amd64.deb ...\r\n"
+    ],
+    [
+      0.002903,
+      "Unpacking libheimntlm0-heimdal:amd64 (1.6~git20131207+dfsg-1ubuntu1.1) ...\r\n"
+    ],
+    [
+      0.028754,
+      "Selecting previously unselected package libgssapi3-heimdal:amd64.\r\n"
+    ],
+    [
+      0.000423,
+      "Preparing to unpack .../libgssapi3-heimdal_1.6~git20131207+dfsg-1ubuntu1.1_amd64.deb ...\r\n"
+    ],
+    [
+      0.002344,
+      "Unpacking libgssapi3-heimdal:amd64 (1.6~git20131207+dfsg-1ubuntu1.1) ...\r\n"
+    ],
+    [
+      0.029387,
+      "Selecting previously unselected package libsasl2-modules-db:amd64.\r\n"
+    ],
+    [
+      0.000008,
+      "Preparing to unpack .../libsasl2-modules-db_2.1.25.dfsg1-17build1_amd64.deb ...\r\n"
+    ],
+    [
+      0.003519,
+      "Unpacking libsasl2-modules-db:amd64 (2.1.25.dfsg1-17build1) ...\r\n"
+    ],
+    [
+      0.026130,
+      "Selecting previously unselected package libsasl2-2:amd64.\r\n"
+    ],
+    [
+      0.000008,
+      "Preparing to unpack .../libsasl2-2_2.1.25.dfsg1-17build1_amd64.deb ..."
+    ],
+    [
+      0.000346,
+      "\r\n"
+    ],
+    [
+      0.003395,
+      "Unpacking libsasl2-2:amd64 (2.1.25.dfsg1-17build1) ...\r\n"
+    ],
+    [
+      0.027693,
+      "Selecting previously unselected package libldap-2.4-2:amd64.\r\n"
+    ],
+    [
+      0.000484,
+      "Preparing to unpack .../libldap-2.4-2_2.4.31-1+nmu2ubuntu8_amd64.deb ...\r\n"
+    ],
+    [
+      0.002723,
+      "Unpacking libldap-2.4-2:amd64 (2.4.31-1+nmu2ubuntu8) ...\r\n"
+    ],
+    [
+      0.044006,
+      "Selecting previously unselected package librtmp0:amd64.\r\n"
+    ],
+    [
+      0.000532,
+      "Preparing to unpack .../librtmp0_2.4+20121230.gitdf6c518-1_amd64.deb ...\r\n"
+    ],
+    [
+      0.002323,
+      "Unpacking librtmp0:amd64 (2.4+20121230.gitdf6c518-1) ...\r\n"
+    ],
+    [
+      0.026356,
+      "Selecting previously unselected package libcurl3-gnutls:amd64.\r\n"
+    ],
+    [
+      0.000225,
+      "Preparing to unpack .../libcurl3-gnutls_7.35.0-1ubuntu2.3_amd64.deb ...\r\n"
+    ],
+    [
+      0.002567,
+      "Unpacking libcurl3-gnutls:amd64 (7.35.0-1ubuntu2.3) ...\r\n"
+    ],
+    [
+      0.046405,
+      "Selecting previously unselected package libedit2:amd64.\r\n"
+    ],
+    [
+      0.000006,
+      "Preparing to unpack .../libedit2_3.1-20130712-2_amd64.deb ...\r\n"
+    ],
+    [
+      0.002912,
+      "Unpacking libedit2:amd64 (3.1-20130712-2) ...\r\n"
+    ],
+    [
+      0.025991,
+      "Selecting previously unselected package libxau6:amd64.\r\n"
+    ],
+    [
+      0.001129,
+      "Preparing to unpack .../libxau6_1%3a1.0.8-1_amd64.deb ...\r\n"
+    ],
+    [
+      0.002446,
+      "Unpacking libxau6:amd64 (1:1.0.8-1) ...\r\n"
+    ],
+    [
+      0.029353,
+      "Selecting previously unselected package libxdmcp6:amd64.\r\n"
+    ],
+    [
+      0.000280,
+      "Preparing to unpack .../libxdmcp6_1%3a1.1.1-1_amd64.deb ...\r\n"
+    ],
+    [
+      0.002838,
+      "Unpacking libxdmcp6:amd64 (1:1.1.1-1) ...\r\n"
+    ],
+    [
+      0.026692,
+      "Selecting previously unselected package libxcb1:amd64.\r\n"
+    ],
+    [
+      0.000473,
+      "Preparing to unpack .../libxcb1_1.10-2ubuntu1_amd64.deb ...\r\n"
+    ],
+    [
+      0.002192,
+      "Unpacking libxcb1:amd64 (1.10-2ubuntu1) ...\r\n"
+    ],
+    [
+      0.026689,
+      "Selecting previously unselected package libx11-data.\r\n"
+    ],
+    [
+      0.000784,
+      "Preparing to unpack .../libx11-data_2%3a1.6.2-1ubuntu2_all.deb ...\r\n"
+    ],
+    [
+      0.002089,
+      "Unpacking libx11-data (2:1.6.2-1ubuntu2) ...\r\n"
+    ],
+    [
+      0.066200,
+      "Selecting previously unselected package libx11-6:amd64.\r\n"
+    ],
+    [
+      0.001203,
+      "Preparing to unpack .../libx11-6_2%3a1.6.2-1ubuntu2_amd64.deb ...\r\n"
+    ],
+    [
+      0.002369,
+      "Unpacking libx11-6:amd64 (2:1.6.2-1ubuntu2) ...\r\n"
+    ],
+    [
+      0.082966,
+      "Selecting previously unselected package libxext6:amd64.\r\n"
+    ],
+    [
+      0.000149,
+      "Preparing to unpack .../libxext6_2%3a1.3.2-1_amd64.deb ...\r\n"
+    ],
+    [
+      0.002915,
+      "Unpacking libxext6:amd64 (2:1.3.2-1) ...\r\n"
+    ],
+    [
+      0.024938,
+      "Selecting previously unselected package libxmuu1:amd64.\r\n"
+    ],
+    [
+      0.000390,
+      "Preparing to unpack .../libxmuu1_2%3a1.1.1-1_amd64.deb ...\r\n"
+    ],
+    [
+      0.003737,
+      "Unpacking libxmuu1:amd64 (2:1.1.1-1) ...\r\n"
+    ],
+    [
+      0.025228,
+      "Selecting previously unselected package openssl.\r\n"
+    ],
+    [
+      0.000678,
+      "Preparing to unpack .../openssl_1.0.1f-1ubuntu2.11_amd64.deb ...\r\n"
+    ],
+    [
+      0.002947,
+      "Unpacking openssl (1.0.1f-1ubuntu2.11) ...\r\n"
+    ],
+    [
+      0.095910,
+      "Selecting previously unselected package ca-certificates.\r\n"
+    ],
+    [
+      0.000007,
+      "Preparing to unpack .../ca-certificates_20141019ubuntu0.14.04.1_all.deb ...\r\n"
+    ],
+    [
+      0.000517,
+      "Unpacking ca-certificates (20141019ubuntu0.14.04.1) ...\r\n"
+    ],
+    [
+      0.051272,
+      "Selecting previously unselected package krb5-locales.\r\n"
+    ],
+    [
+      0.000006,
+      "Preparing to unpack .../krb5-locales_1.12+dfsg-2ubuntu5.1_all.deb ...\r\n"
+    ],
+    [
+      0.003320,
+      "Unpacking krb5-locales (1.12+dfsg-2ubuntu5.1) ...\r\n"
+    ],
+    [
+      0.023092,
+      "Selecting previously unselected package libsasl2-modules:amd64.\r\n"
+    ],
+    [
+      0.000340,
+      "Preparing to unpack .../libsasl2-modules_2.1.25.dfsg1-17build1_amd64.deb ...\r\n"
+    ],
+    [
+      0.002657,
+      "Unpacking libsasl2-modules:amd64 (2.1.25.dfsg1-17build1) ...\r\n"
+    ],
+    [
+      0.029036,
+      "Selecting previously unselected package openssh-client.\r\n"
+    ],
+    [
+      0.000849,
+      "Preparing to unpack .../openssh-client_1%3a6.6p1-2ubuntu2_amd64.deb ...\r\n"
+    ],
+    [
+      0.002485,
+      "Unpacking openssh-client (1:6.6p1-2ubuntu2) ...\r\n"
+    ],
+    [
+      0.093221,
+      "Selecting previously unselected package rsync.\r\n"
+    ],
+    [
+      0.000480,
+      "Preparing to unpack .../rsync_3.1.0-2ubuntu0.1_amd64.deb ...\r\n"
+    ],
+    [
+      0.006578,
+      "Unpacking rsync (3.1.0-2ubuntu0.1) ...\r\n"
+    ],
+    [
+      0.050465,
+      "Selecting previously unselected package xauth.\r\n"
+    ],
+    [
+      0.001904,
+      "Preparing to unpack .../xauth_1%3a1.0.7-1ubuntu1_amd64.deb ...\r\n"
+    ],
+    [
+      0.002949,
+      "Unpacking xauth (1:1.0.7-1ubuntu1) ...\r\n"
+    ],
+    [
+      0.021904,
+      "Selecting previously unselected package liberror-perl.\r\n"
+    ],
+    [
+      0.000563,
+      "Preparing to unpack .../liberror-perl_0.17-1.1_all.deb ...\r\n"
+    ],
+    [
+      0.004136,
+      "Unpacking liberror-perl (0.17-1.1) ...\r\n"
+    ],
+    [
+      0.022004,
+      "Selecting previously unselected package git-man.\r\n"
+    ],
+    [
+      0.000497,
+      "Preparing to unpack .../git-man_1%3a1.9.1-1ubuntu0.1_all.deb ...\r\n"
+    ],
+    [
+      0.003135,
+      "Unpacking git-man (1:1.9.1-1ubuntu0.1) ...\r\n"
+    ],
+    [
+      0.090316,
+      "Selecting previously unselected package git.\r\n"
+    ],
+    [
+      0.000840,
+      "Preparing to unpack .../git_1%3a1.9.1-1ubuntu0.1_amd64.deb ...\r\n"
+    ],
+    [
+      0.006359,
+      "Unpacking git (1:1.9.1-1ubuntu0.1) ...\r\n"
+    ],
+    [
+      0.357627,
+      "Selecting previously unselected package patch.\r\n"
+    ],
+    [
+      0.000894,
+      "Preparing to unpack .../patch_2.7.1-4ubuntu1_amd64.deb ...\r\n"
+    ],
+    [
+      0.002235,
+      "Unpacking patch (2.7.1-4ubuntu1) ...\r\n"
+    ],
+    [
+      0.021848,
+      "Processing triggers for ureadahead (0.100.0-16) ...\r\n"
+    ],
+    [
+      0.160771,
+      "Setting up libroken18-heimdal:amd64 (1.6~git20131207+dfsg-1ubuntu1.1) ...\r\n"
+    ],
+    [
+      0.020793,
+      "Setting up libasn1-8-heimdal:amd64 (1.6~git20131207+dfsg-1ubuntu1.1) ...\r\n"
+    ],
+    [
+      0.014672,
+      "Setting up libkrb5support0:amd64 (1.12+dfsg-2ubuntu5.1) ...\r\n"
+    ],
+    [
+      0.021424,
+      "Setting up libk5crypto3:amd64 (1.12+dfsg-2ubuntu5.1) ...\r\n"
+    ],
+    [
+      0.013685,
+      "Setting up libkeyutils1:amd64 (1.5.6-1) ...\r\n"
+    ],
+    [
+      0.011334,
+      "Setting up libkrb5-3:amd64 (1.12+dfsg-2ubuntu5.1) ...\r\n"
+    ],
+    [
+      0.015121,
+      "Setting up libgssapi-krb5-2:amd64 (1.12+dfsg-2ubuntu5.1) ...\r\n"
+    ],
+    [
+      0.014797,
+      "Setting up libidn11:amd64 (1.28-1ubuntu2) ...\r\n"
+    ],
+    [
+      0.015513,
+      "Setting up libhcrypto4-heimdal:amd64 (1.6~git20131207+dfsg-1ubuntu1.1) ...\r\n"
+    ],
+    [
+      0.014199,
+      "Setting up libheimbase1-heimdal:amd64 (1.6~git20131207+dfsg-1ubuntu1.1) ...\r\n"
+    ],
+    [
+      0.015708,
+      "Setting up libwind0-heimdal:amd64 (1.6~git20131207+dfsg-1ubuntu1.1) ...\r\n"
+    ],
+    [
+      0.009814,
+      "Setting up libhx509-5-heimdal:amd64 (1.6~git20131207+dfsg-1ubuntu1.1) ...\r\n"
+    ],
+    [
+      0.014126,
+      "Setting up libkrb5-26-heimdal:amd64 (1.6~git20131207+dfsg-1ubuntu1.1) ...\r\n"
+    ],
+    [
+      0.014871,
+      "Setting up libheimntlm0-heimdal:amd64 (1.6~git20131207+dfsg-1ubuntu1.1) ...\r\n"
+    ],
+    [
+      0.011467,
+      "Setting up libgssapi3-heimdal:amd64 (1.6~git20131207+dfsg-1ubuntu1.1) ...\r\n"
+    ],
+    [
+      0.018935,
+      "Setting up libsasl2-modules-db:amd64 (2.1.25.dfsg1-17build1) ...\r\n"
+    ],
+    [
+      0.003998,
+      "Setting up libsasl2-2:amd64 (2.1.25.dfsg1-17build1) ...\r\n"
+    ],
+    [
+      0.016692,
+      "Setting up libldap-2.4-2:amd64 (2.4.31-1+nmu2ubuntu8) ...\r\n"
+    ],
+    [
+      0.014771,
+      "Setting up librtmp0:amd64 (2.4+20121230.gitdf6c518-1) ...\r\n"
+    ],
+    [
+      0.014238,
+      "Setting up libcurl3-gnutls:amd64 (7.35.0-1ubuntu2.3) ...\r\n"
+    ],
+    [
+      0.015413,
+      "Setting up libedit2:amd64 (3.1-20130712-2) ...\r\n"
+    ],
+    [
+      0.012943,
+      "Setting up libxau6:amd64 (1:1.0.8-1) ...\r\n"
+    ],
+    [
+      0.014260,
+      "Setting up libxdmcp6:amd64 (1:1.1.1-1) ...\r\n"
+    ],
+    [
+      0.013475,
+      "Setting up libxcb1:amd64 (1.10-2ubuntu1) ...\r\n"
+    ],
+    [
+      0.014917,
+      "Setting up libx11-data (2:1.6.2-1ubuntu2) ...\r\n"
+    ],
+    [
+      0.007436,
+      "Setting up libx11-6:amd64 (2:1.6.2-1ubuntu2) ...\r\n"
+    ],
+    [
+      0.014854,
+      "Setting up libxext6:amd64 (2:1.3.2-1) ...\r\n"
+    ],
+    [
+      0.017501,
+      "Setting up libxmuu1:amd64 (2:1.1.1-1) ...\r\n"
+    ],
+    [
+      0.014836,
+      "Setting up openssl (1.0.1f-1ubuntu2.11) ...\r\n"
+    ],
+    [
+      0.009922,
+      "Setting up ca-certificates (20141019ubuntu0.14.04.1) ...\r\n"
+    ],
+    [
+      0.635285,
+      "Setting up krb5-locales (1.12+dfsg-2ubuntu5.1) ...\r\n"
+    ],
+    [
+      0.007260,
+      "Setting up libsasl2-modules:amd64 (2.1.25.dfsg1-17build1) ...\r\n"
+    ],
+    [
+      0.006371,
+      "Setting up openssh-client (1:6.6p1-2ubuntu2) ...\r\n"
+    ],
+    [
+      0.074590,
+      "Setting up rsync (3.1.0-2ubuntu0.1) ...\r\n"
+    ],
+    [
+      0.024055,
+      " Removing any system startup links for /etc/init.d/rsync ...\r\n"
+    ],
+    [
+      0.009139,
+      "update-rc.d: warning: default stop runlevel arguments (0 1 6) do not match rsync Default-Stop values (none)\r\n Adding system startup for /etc/init.d/rsync ...\r\n   /etc/rc0.d/K20rsync -\u003e ../init.d/rsync\r\n   /etc/rc1.d/K20rsync -\u003e ../init.d/rsync"
+    ],
+    [
+      0.000010,
+      "\r\n   /etc/rc6.d/K20rsync -\u003e ../init.d/rsync\r\n   /etc/rc2.d/S20rsync -\u003e ../init.d/rsync\r\n   /etc/rc3.d/S20rsync -\u003e ../init.d/rsync\r\n   /etc/rc4.d/S20rsync -\u003e ../init.d/rsync\r\n"
+    ],
+    [
+      0.000248,
+      "   /etc/rc5.d/S20rsync -\u003e ../init.d/rsync\r\n"
+    ],
+    [
+      0.017599,
+      "invoke-rc.d: policy-rc.d denied execution of restart.\r\n"
+    ],
+    [
+      0.003437,
+      "Setting up xauth (1:1.0.7-1ubuntu1) ...\r\n"
+    ],
+    [
+      0.007107,
+      "Setting up liberror-perl (0.17-1.1) ...\r\n"
+    ],
+    [
+      0.007435,
+      "Setting up git-man (1:1.9.1-1ubuntu0.1) ...\r\n"
+    ],
+    [
+      0.006862,
+      "Setting up git (1:1.9.1-1ubuntu0.1) ...\r\n"
+    ],
+    [
+      0.016157,
+      "Setting up patch (2.7.1-4ubuntu1) ...\r\n"
+    ],
+    [
+      0.007478,
+      "Processing triggers for libc-bin (2.19-0ubuntu6.6) ...\r\n"
+    ],
+    [
+      0.016440,
+      "Processing triggers for ca-certificates (20141019ubuntu0.14.04.1) ...\r\n"
+    ],
+    [
+      0.007005,
+      "Updating certificates in /etc/ssl/certs... "
+    ],
+    [
+      1.000000,
+      "173 added, 0 removed; done.\r\nRunning hooks in /etc/ca-certificates/update.d...."
+    ],
+    [
+      0.000007,
+      "done.\r\n"
+    ],
+    [
+      0.007697,
+      "Processing triggers for ureadahead (0.100.0-16) ...\r\n"
+    ],
+    [
+      0.178313,
+      "\u001b]0;root@a1dcc8da8f7c: /\u0007root@a1dcc8da8f7c:/# "
+    ],
+    [
+      1.000000,
+      "g"
+    ],
+    [
+      0.127637,
+      "i"
+    ],
+    [
+      0.058926,
+      "t"
+    ],
+    [
+      0.091581,
+      " "
+    ],
+    [
+      0.183541,
+      "v"
+    ],
+    [
+      0.557703,
+      "e"
+    ],
+    [
+      0.078384,
+      "r"
+    ],
+    [
+      0.145416,
+      "s"
+    ],
+    [
+      0.095086,
+      "i"
+    ],
+    [
+      0.201081,
+      "o"
+    ],
+    [
+      0.311289,
+      "\u0008 \u0008"
+    ],
+    [
+      0.250734,
+      "\u0008 \u0008"
+    ],
+    [
+      0.033687,
+      "\u0008 \u0008"
+    ],
+    [
+      0.035443,
+      "\u0008 \u0008"
+    ],
+    [
+      0.128834,
+      "\u0008 \u0008"
+    ],
+    [
+      0.182949,
+      "\u0008 \u0008"
+    ],
+    [
+      0.191679,
+      "-"
+    ],
+    [
+      0.121144,
+      "-"
+    ],
+    [
+      0.087825,
+      "v"
+    ],
+    [
+      0.135667,
+      "e"
+    ],
+    [
+      0.104460,
+      "r"
+    ],
+    [
+      0.119223,
+      "s"
+    ],
+    [
+      0.052545,
+      "i"
+    ],
+    [
+      0.068121,
+      "o"
+    ],
+    [
+      0.087960,
+      "n"
+    ],
+    [
+      0.287895,
+      "\r\n"
+    ],
+    [
+      0.002130,
+      "git version 1.9.1\r\n"
+    ],
+    [
+      0.000457,
+      "\u001b]0;root@a1dcc8da8f7c: /\u0007root@a1dcc8da8f7c:/# "
+    ],
+    [
+      1.000000,
+      "#"
+    ],
+    [
+      0.151409,
+      " "
+    ],
+    [
+      0.264918,
+      "n"
+    ],
+    [
+      0.080214,
+      "o"
+    ],
+    [
+      0.022985,
+      "w"
+    ],
+    [
+      0.104973,
+      " "
+    ],
+    [
+      0.223425,
+      "I"
+    ],
+    [
+      0.168241,
+      "'"
+    ],
+    [
+      0.088879,
+      "m"
+    ],
+    [
+      0.151119,
+      " "
+    ],
+    [
+      0.440521,
+      "d"
+    ],
+    [
+      0.095807,
+      "o"
+    ],
+    [
+      0.070990,
+      "n"
+    ],
+    [
+      0.112905,
+      "e"
+    ],
+    [
+      0.639985,
+      " "
+    ],
+    [
+      0.111415,
+      "w"
+    ],
+    [
+      0.095993,
+      "i"
+    ],
+    [
+      0.104084,
+      "t"
+    ],
+    [
+      0.071351,
+      "h"
+    ],
+    [
+      0.120413,
+      " "
+    ],
+    [
+      0.120070,
+      "t"
+    ],
+    [
+      0.111729,
+      "h"
+    ],
+    [
+      0.064780,
+      "i"
+    ],
+    [
+      0.287258,
+      "s"
+    ],
+    [
+      0.112892,
+      " "
+    ],
+    [
+      0.174924,
+      "v"
+    ],
+    [
+      0.120582,
+      "i"
+    ],
+    [
+      0.072925,
+      "r"
+    ],
+    [
+      0.094986,
+      "t"
+    ],
+    [
+      0.065190,
+      "u"
+    ],
+    [
+      0.118981,
+      "a"
+    ],
+    [
+      0.068457,
+      "l"
+    ],
+    [
+      0.160002,
+      " "
+    ],
+    [
+      0.148496,
+      "m"
+    ],
+    [
+      0.092510,
+      "a"
+    ],
+    [
+      0.119922,
+      "c"
+    ],
+    [
+      0.072472,
+      "h"
+    ],
+    [
+      0.077405,
+      "i"
+    ],
+    [
+      0.118229,
+      "n"
+    ],
+    [
+      0.074359,
+      "e"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.002475,
+      "\u001b]0;root@a1dcc8da8f7c: /\u0007root@a1dcc8da8f7c:/# \u001b[K"
+    ],
+    [
+      0.146021,
+      "e"
+    ],
+    [
+      0.159534,
+      "x"
+    ],
+    [
+      0.095429,
+      "i"
+    ],
+    [
+      0.114202,
+      "t"
+    ],
+    [
+      0.226233,
+      "\r\nexit\r\n"
+    ],
+    [
+      0.275856,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "#"
+    ],
+    [
+      0.176389,
+      " "
+    ],
+    [
+      0.167999,
+      "i"
+    ],
+    [
+      0.063960,
+      "t"
+    ],
+    [
+      0.143644,
+      "'"
+    ],
+    [
+      0.064322,
+      "s"
+    ],
+    [
+      0.087356,
+      " "
+    ],
+    [
+      0.208306,
+      "g"
+    ],
+    [
+      0.072224,
+      "o"
+    ],
+    [
+      0.064131,
+      "n"
+    ],
+    [
+      0.095672,
+      "e"
+    ],
+    [
+      1.000000,
+      ","
+    ],
+    [
+      0.111654,
+      " "
+    ],
+    [
+      0.176432,
+      "b"
+    ],
+    [
+      0.159926,
+      "u"
+    ],
+    [
+      0.359899,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.143544,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.208315,
+      "s"
+    ],
+    [
+      0.135967,
+      "o"
+    ],
+    [
+      0.072034,
+      "r"
+    ],
+    [
+      0.080031,
+      "t"
+    ],
+    [
+      0.103708,
+      " "
+    ],
+    [
+      0.071977,
+      "o"
+    ],
+    [
+      0.112800,
+      "f"
+    ],
+    [
+      0.463490,
+      "."
+    ],
+    [
+      0.135771,
+      " "
+    ],
+    [
+      0.127999,
+      " "
+    ],
+    [
+      0.192168,
+      "I"
+    ],
+    [
+      0.104219,
+      " "
+    ],
+    [
+      0.167924,
+      "c"
+    ],
+    [
+      0.111910,
+      "a"
+    ],
+    [
+      0.119961,
+      "n"
+    ],
+    [
+      0.111794,
+      " "
+    ],
+    [
+      0.111847,
+      "r"
+    ],
+    [
+      0.160377,
+      "e"
+    ],
+    [
+      1.000000,
+      "r"
+    ],
+    [
+      0.120192,
+      "u"
+    ],
+    [
+      0.087877,
+      "n"
+    ],
+    [
+      0.391980,
+      " "
+    ],
+    [
+      0.175920,
+      "i"
+    ],
+    [
+      0.095696,
+      "t"
+    ],
+    [
+      0.160170,
+      " "
+    ],
+    [
+      0.231868,
+      "l"
+    ],
+    [
+      0.120037,
+      "i"
+    ],
+    [
+      0.127972,
+      "k"
+    ],
+    [
+      0.079969,
+      "e"
+    ],
+    [
+      0.104054,
+      " "
+    ],
+    [
+      0.136019,
+      "t"
+    ],
+    [
+      0.151965,
+      "h"
+    ],
+    [
+      0.040655,
+      "i"
+    ],
+    [
+      0.183666,
+      "s"
+    ],
+    [
+      0.567894,
+      ":"
+    ],
+    [
+      0.895933,
+      "\r\n"
+    ],
+    [
+      0.000124,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "d"
+    ],
+    [
+      0.079652,
+      "o"
+    ],
+    [
+      0.143732,
+      "c"
+    ],
+    [
+      0.080046,
+      "k"
+    ],
+    [
+      0.119988,
+      "e"
+    ],
+    [
+      0.087921,
+      "r"
+    ],
+    [
+      0.120095,
+      " "
+    ],
+    [
+      0.344303,
+      "p"
+    ],
+    [
+      0.080015,
+      "s"
+    ],
+    [
+      0.111882,
+      " "
+    ],
+    [
+      0.232034,
+      "-"
+    ],
+    [
+      0.103744,
+      "a"
+    ],
+    [
+      0.080387,
+      " "
+    ],
+    [
+      1.000000,
+      "|"
+    ],
+    [
+      0.336460,
+      " "
+    ],
+    [
+      0.423541,
+      "h"
+    ],
+    [
+      0.064481,
+      "e"
+    ],
+    [
+      0.167596,
+      "a"
+    ],
+    [
+      0.088208,
+      "d"
+    ],
+    [
+      0.239640,
+      "\r\n"
+    ],
+    [
+      0.161966,
+      "CONTAINER ID        IMAGE                      COMMAND                CREATED             STATUS                          PORTS                    NAMES\r\na1dcc8da8f7c        ubuntu:14.04               \"/bin/bash\"            3 minutes ago       Exited (0) About a minute ago                            ecstatic_morse          \r\n"
+    ],
+    [
+      0.000010,
+      "42b390b43a5c        pb-static-builder:latest   \"/bin/bash -l build.   About an hour ago   Exited (0) About an hour ago                             suspicious_mayer        \r\n"
+    ],
+    [
+      0.000005,
+      "58fb57d0a71f        pb-static-builder:latest   \"/bin/bash -l build.   2 days ago          Exited (0) 2 days ago                                    sleepy_mayer            \r\n"
+    ],
+    [
+      0.000034,
+      "c5aa66859a90        pb-static-builder:latest   \"/bin/bash -l build.   3 days ago          Exited (0) 3 days ago                                    agitated_lovelace       \r\n"
+    ],
+    [
+      0.000070,
+      "cef602b3954a        pb-static-builder:latest   \"/bin/bash -l build.   3 days ago          Exited (0) 3 days ago                                    romantic_swartz         \r\n"
+    ],
+    [
+      0.000016,
+      "41eed62fd98a        5764464a59cd               \"/bin/sh -c 'pip ins   3 days ago          Exited (1) 3 days ago                                    reverent_darwin         \r\n"
+    ],
+    [
+      0.000042,
+      "75eab2c19f59        5764464a59cd               \"/bin/sh -c 'pip ins   3 days ago          Exited (1) 3 days ago                                    reverent_tesla          \r\n"
+    ],
+    [
+      0.000030,
+      "47053454bfc1        mybuilder:latest           \"/bin/bash -l build.   3 days ago          Exited (0) 3 days ago                                    kickass_mcclintock      \r\n"
+    ],
+    [
+      0.000005,
+      "9476740d4d85        mybuilder:latest           \"/bin/bash -l build.   3 days ago          Exited (0) 3 days ago                                    reverent_jones          \r\n"
+    ],
+    [
+      0.001136,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "C"
+    ],
+    [
+      0.264078,
+      "O"
+    ],
+    [
+      0.255939,
+      "T"
+    ],
+    [
+      0.152265,
+      "A"
+    ],
+    [
+      0.159819,
+      "I"
+    ],
+    [
+      0.295755,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.136207,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.143719,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.552239,
+      "N"
+    ],
+    [
+      0.184135,
+      "T"
+    ],
+    [
+      0.135894,
+      "A"
+    ],
+    [
+      0.072114,
+      "I"
+    ],
+    [
+      0.103659,
+      "N"
+    ],
+    [
+      0.104207,
+      "E"
+    ],
+    [
+      0.103880,
+      "R"
+    ],
+    [
+      0.240275,
+      "="
+    ],
+    [
+      0.287449,
+      "\""
+    ],
+    [
+      0.313754,
+      "a1dc"
+    ],
+    [
+      0.000006,
+      "c8d"
+    ],
+    [
+      0.000013,
+      "a"
+    ],
+    [
+      0.000003,
+      "8"
+    ],
+    [
+      0.000017,
+      "f"
+    ],
+    [
+      0.000014,
+      "7"
+    ],
+    [
+      0.000005,
+      "c"
+    ],
+    [
+      0.318652,
+      "\""
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.000150,
+      "bash-3.2$ "
+    ],
+    [
+      0.480067,
+      "d"
+    ],
+    [
+      0.071969,
+      "o"
+    ],
+    [
+      0.120096,
+      "c"
+    ],
+    [
+      0.119627,
+      "k"
+    ],
+    [
+      0.040278,
+      "e"
+    ],
+    [
+      0.119833,
+      "r"
+    ],
+    [
+      0.128162,
+      " "
+    ],
+    [
+      0.183889,
+      "r"
+    ],
+    [
+      0.103749,
+      "o"
+    ],
+    [
+      0.248170,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.135988,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.103799,
+      "c"
+    ],
+    [
+      0.104180,
+      "o"
+    ],
+    [
+      0.103919,
+      "m"
+    ],
+    [
+      0.168155,
+      "m"
+    ],
+    [
+      0.055995,
+      "i"
+    ],
+    [
+      0.111795,
+      "t"
+    ],
+    [
+      0.112321,
+      " "
+    ],
+    [
+      0.721334,
+      "a"
+    ],
+    [
+      0.000007,
+      "1d"
+    ],
+    [
+      0.000031,
+      "cc"
+    ],
+    [
+      0.000004,
+      "8"
+    ],
+    [
+      0.000006,
+      "d"
+    ],
+    [
+      0.000009,
+      "a"
+    ],
+    [
+      0.000032,
+      "8"
+    ],
+    [
+      0.000006,
+      "f7c"
+    ],
+    [
+      0.702176,
+      " "
+    ],
+    [
+      0.208388,
+      "s"
+    ],
+    [
+      0.087802,
+      "o"
+    ],
+    [
+      0.072171,
+      "m"
+    ],
+    [
+      0.063629,
+      "e"
+    ],
+    [
+      0.256310,
+      "c"
+    ],
+    [
+      0.135953,
+      "o"
+    ],
+    [
+      0.919815,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.160126,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.672022,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.159843,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.143798,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.208355,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.151681,
+      "t"
+    ],
+    [
+      0.184180,
+      "e"
+    ],
+    [
+      0.128020,
+      "s"
+    ],
+    [
+      0.111978,
+      "t"
+    ],
+    [
+      0.072127,
+      "/"
+    ],
+    [
+      0.191911,
+      "s"
+    ],
+    [
+      0.103765,
+      "o"
+    ],
+    [
+      0.056360,
+      "m"
+    ],
+    [
+      0.080028,
+      "e"
+    ],
+    [
+      0.471574,
+      "c"
+    ],
+    [
+      0.119929,
+      "o"
+    ],
+    [
+      0.144275,
+      "n"
+    ],
+    [
+      0.135747,
+      "t"
+    ],
+    [
+      0.136501,
+      "a"
+    ],
+    [
+      0.095343,
+      "i"
+    ],
+    [
+      0.064056,
+      "n"
+    ],
+    [
+      0.087987,
+      "e"
+    ],
+    [
+      0.080045,
+      "r"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.504334,
+      "7f11211f34ddf33ce75fe5e37285355a41e7735447d50daebee415aaf0e40496\r\n"
+    ],
+    [
+      0.000760,
+      "bash-3.2$ "
+    ],
+    [
+      0.646928,
+      "d"
+    ],
+    [
+      0.088061,
+      "o"
+    ],
+    [
+      0.111933,
+      "c"
+    ],
+    [
+      0.112045,
+      "k"
+    ],
+    [
+      0.040007,
+      "e"
+    ],
+    [
+      0.095902,
+      "r"
+    ],
+    [
+      0.132936,
+      " "
+    ],
+    [
+      0.219060,
+      "r"
+    ],
+    [
+      0.136038,
+      "u"
+    ],
+    [
+      0.072036,
+      "n"
+    ],
+    [
+      0.400042,
+      " "
+    ],
+    [
+      0.279971,
+      "-"
+    ],
+    [
+      0.199912,
+      "i"
+    ],
+    [
+      0.127999,
+      " "
+    ],
+    [
+      0.120042,
+      "-"
+    ],
+    [
+      0.119986,
+      "t"
+    ],
+    [
+      0.135944,
+      " "
+    ],
+    [
+      0.536048,
+      "/"
+    ],
+    [
+      0.119980,
+      "b"
+    ],
+    [
+      0.104067,
+      "i"
+    ],
+    [
+      0.072022,
+      "n"
+    ],
+    [
+      0.215806,
+      "/"
+    ],
+    [
+      0.104085,
+      "b"
+    ],
+    [
+      0.143969,
+      "a"
+    ],
+    [
+      0.159984,
+      "s"
+    ],
+    [
+      0.136109,
+      "h"
+    ],
+    [
+      0.127769,
+      " "
+    ],
+    [
+      1.000000,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.250565,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033607,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033468,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033651,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033437,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033509,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033689,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.124095,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.159889,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.352155,
+      "$"
+    ],
+    [
+      0.232405,
+      "C"
+    ],
+    [
+      0.127662,
+      "O"
+    ],
+    [
+      1.000000,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.144396,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.151831,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.503878,
+      "s"
+    ],
+    [
+      0.247788,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.104453,
+      "t"
+    ],
+    [
+      0.087726,
+      "e"
+    ],
+    [
+      0.104192,
+      "s"
+    ],
+    [
+      0.080084,
+      "t"
+    ],
+    [
+      0.120153,
+      "/"
+    ],
+    [
+      0.231785,
+      "s"
+    ],
+    [
+      0.127992,
+      "o"
+    ],
+    [
+      0.063761,
+      "m"
+    ],
+    [
+      0.079971,
+      "e"
+    ],
+    [
+      0.351959,
+      "c"
+    ],
+    [
+      0.080069,
+      "o"
+    ],
+    [
+      0.087984,
+      "n"
+    ],
+    [
+      0.088561,
+      "t"
+    ],
+    [
+      0.135643,
+      "a"
+    ],
+    [
+      0.087819,
+      "i"
+    ],
+    [
+      0.071963,
+      "n"
+    ],
+    [
+      0.056002,
+      "e"
+    ],
+    [
+      0.080023,
+      "r"
+    ],
+    [
+      0.136397,
+      " "
+    ],
+    [
+      0.703539,
+      "/"
+    ],
+    [
+      0.280029,
+      "b"
+    ],
+    [
+      0.584332,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.535502,
+      "b"
+    ],
+    [
+      0.112223,
+      "i"
+    ],
+    [
+      0.071916,
+      "n"
+    ],
+    [
+      0.240149,
+      "/"
+    ],
+    [
+      0.127813,
+      "b"
+    ],
+    [
+      0.127979,
+      "a"
+    ],
+    [
+      0.104397,
+      "s"
+    ],
+    [
+      0.087816,
+      "h"
+    ],
+    [
+      0.551867,
+      "\r\n"
+    ],
+    [
+      0.526812,
+      "\u001b]0;root@b69de9115452: /\u0007root@b69de9115452:/# "
+    ],
+    [
+      0.482712,
+      "g"
+    ],
+    [
+      0.083612,
+      "i"
+    ],
+    [
+      0.066041,
+      "t"
+    ],
+    [
+      0.100912,
+      " "
+    ],
+    [
+      0.080147,
+      "-"
+    ],
+    [
+      0.123803,
+      "-"
+    ],
+    [
+      0.034859,
+      "v"
+    ],
+    [
+      0.150845,
+      "e"
+    ],
+    [
+      0.110368,
+      "r"
+    ],
+    [
+      0.124143,
+      "s"
+    ],
+    [
+      0.086349,
+      "i"
+    ],
+    [
+      0.079730,
+      "o"
+    ],
+    [
+      0.070882,
+      "n"
+    ],
+    [
+      0.281542,
+      "\r\n"
+    ],
+    [
+      0.004311,
+      "git version 1.9.1\r\n\u001b]0;root@b69de9115452: /\u0007root@b69de9115452:/# "
+    ],
+    [
+      0.551749,
+      "#"
+    ],
+    [
+      0.131516,
+      " "
+    ],
+    [
+      0.138488,
+      "s"
+    ],
+    [
+      0.115079,
+      "t"
+    ],
+    [
+      0.082918,
+      "i"
+    ],
+    [
+      0.040833,
+      "l"
+    ],
+    [
+      0.140239,
+      "l"
+    ],
+    [
+      0.081454,
+      " "
+    ],
+    [
+      0.172610,
+      "i"
+    ],
+    [
+      0.051953,
+      "n"
+    ],
+    [
+      0.033192,
+      "s"
+    ],
+    [
+      0.094859,
+      "t"
+    ],
+    [
+      0.117517,
+      "a"
+    ],
+    [
+      0.063039,
+      "l"
+    ],
+    [
+      0.111746,
+      "l"
+    ],
+    [
+      0.063559,
+      "e"
+    ],
+    [
+      0.164366,
+      "d"
+    ],
+    [
+      0.426649,
+      "\r\n\u001b]0;root@b69de9115452: /\u0007root@b69de9115452:/# "
+    ],
+    [
+      0.737637,
+      "exit\r\n"
+    ],
+    [
+      0.162687,
+      "bash-3.2$ "
+    ],
+    [
+      0.694803,
+      "d"
+    ],
+    [
+      0.103906,
+      "o"
+    ],
+    [
+      0.136183,
+      "c"
+    ],
+    [
+      0.935770,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.135716,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.144267,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.255782,
+      "#"
+    ],
+    [
+      0.112003,
+      " "
+    ],
+    [
+      0.792439,
+      "s"
+    ],
+    [
+      0.087621,
+      "t"
+    ],
+    [
+      0.136189,
+      "a"
+    ],
+    [
+      0.055982,
+      "r"
+    ],
+    [
+      0.095890,
+      "t"
+    ],
+    [
+      0.103952,
+      " "
+    ],
+    [
+      0.064324,
+      "a"
+    ],
+    [
+      0.128061,
+      " "
+    ],
+    [
+      0.127971,
+      "n"
+    ],
+    [
+      0.063902,
+      "e"
+    ],
+    [
+      0.087858,
+      "w"
+    ],
+    [
+      0.096173,
+      " "
+    ],
+    [
+      0.216011,
+      "o"
+    ],
+    [
+      0.079800,
+      "n"
+    ],
+    [
+      0.088188,
+      "e"
+    ],
+    [
+      0.607712,
+      "\r\n"
+    ],
+    [
+      0.000167,
+      "bash-3.2$ "
+    ],
+    [
+      0.383942,
+      "d"
+    ],
+    [
+      0.088007,
+      "o"
+    ],
+    [
+      0.087857,
+      "c"
+    ],
+    [
+      0.127740,
+      "k"
+    ],
+    [
+      0.040365,
+      "e"
+    ],
+    [
+      0.079742,
+      "r"
+    ],
+    [
+      0.112011,
+      " "
+    ],
+    [
+      0.175972,
+      "r"
+    ],
+    [
+      0.104286,
+      "u"
+    ],
+    [
+      0.064113,
+      "n"
+    ],
+    [
+      0.111606,
+      " "
+    ],
+    [
+      0.224014,
+      "-"
+    ],
+    [
+      0.255987,
+      "i"
+    ],
+    [
+      0.816415,
+      " "
+    ],
+    [
+      0.520011,
+      "-"
+    ],
+    [
+      0.103552,
+      "t"
+    ],
+    [
+      0.088314,
+      " "
+    ],
+    [
+      0.887860,
+      "u"
+    ],
+    [
+      0.079910,
+      "b"
+    ],
+    [
+      0.096096,
+      "u"
+    ],
+    [
+      0.175993,
+      "n"
+    ],
+    [
+      0.104026,
+      "t"
+    ],
+    [
+      0.104160,
+      "u"
+    ],
+    [
+      0.159896,
+      " "
+    ],
+    [
+      0.200086,
+      "b"
+    ],
+    [
+      0.143478,
+      "i"
+    ],
+    [
+      0.112108,
+      "n"
+    ],
+    [
+      0.232301,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.143969,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.135818,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.223709,
+      "/"
+    ],
+    [
+      0.128521,
+      "b"
+    ],
+    [
+      0.095634,
+      "i"
+    ],
+    [
+      0.088309,
+      "n"
+    ],
+    [
+      0.215936,
+      "/"
+    ],
+    [
+      0.135713,
+      "b"
+    ],
+    [
+      0.128045,
+      "a"
+    ],
+    [
+      0.144441,
+      "s"
+    ],
+    [
+      0.079534,
+      "h"
+    ],
+    [
+      0.447864,
+      "\r\n"
+    ],
+    [
+      0.466186,
+      "\u001b]0;root@1a89ba3fdd0b: /\u0007root@1a89ba3fdd0b:/# "
+    ],
+    [
+      1.000000,
+      "g"
+    ],
+    [
+      0.088399,
+      "i"
+    ],
+    [
+      0.079937,
+      "t"
+    ],
+    [
+      0.080197,
+      " "
+    ],
+    [
+      0.097907,
+      "-"
+    ],
+    [
+      0.133968,
+      "-"
+    ],
+    [
+      0.034738,
+      "v"
+    ],
+    [
+      0.153888,
+      "e"
+    ],
+    [
+      0.107975,
+      "r"
+    ],
+    [
+      0.150575,
+      "s"
+    ],
+    [
+      0.034463,
+      "i"
+    ],
+    [
+      0.080827,
+      "o"
+    ],
+    [
+      0.066476,
+      "n"
+    ],
+    [
+      0.298322,
+      "\r\n"
+    ],
+    [
+      0.008209,
+      "bash: git: command not found\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b]0;root@1a89ba3fdd0b: /\u0007root@1a89ba3fdd0b:/# "
+    ],
+    [
+      0.485179,
+      "#"
+    ],
+    [
+      0.125909,
+      " "
+    ],
+    [
+      0.161912,
+      "n"
+    ],
+    [
+      0.059715,
+      "o"
+    ],
+    [
+      0.048238,
+      "t"
+    ],
+    [
+      0.088353,
+      " "
+    ],
+    [
+      0.082262,
+      "i"
+    ],
+    [
+      0.080011,
+      "n"
+    ],
+    [
+      0.053507,
+      "s"
+    ],
+    [
+      0.066232,
+      "t"
+    ],
+    [
+      0.115492,
+      "a"
+    ],
+    [
+      0.039492,
+      "l"
+    ],
+    [
+      0.124669,
+      "l"
+    ],
+    [
+      0.078935,
+      "e"
+    ],
+    [
+      0.134513,
+      "d"
+    ],
+    [
+      0.131644,
+      " "
+    ],
+    [
+      0.057607,
+      "i"
+    ],
+    [
+      0.056705,
+      "n"
+    ],
+    [
+      0.086576,
+      " "
+    ],
+    [
+      0.082146,
+      "t"
+    ],
+    [
+      0.052073,
+      "h"
+    ],
+    [
+      0.092667,
+      "i"
+    ],
+    [
+      0.069330,
+      "s"
+    ],
+    [
+      0.087920,
+      " "
+    ],
+    [
+      0.070133,
+      "o"
+    ],
+    [
+      0.052829,
+      "n"
+    ],
+    [
+      0.090683,
+      "e"
+    ],
+    [
+      0.361525,
+      "\r\n\u001b]0;root@1a89ba3fdd0b: /\u0007root@1a89ba3fdd0b:/# \u001b[K"
+    ],
+    [
+      0.639139,
+      "exit\r\n"
+    ],
+    [
+      0.181173,
+      "bash-3.2$ "
+    ],
+    [
+      0.598072,
+      "exit\r\n"
+    ]
+  ]
+}
