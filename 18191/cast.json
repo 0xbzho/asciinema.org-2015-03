@@ -1,0 +1,522 @@
+{
+  "version": 1,
+  "width": 86,
+  "height": 26,
+  "duration": 34.764722,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.073886,
+      "\u001b]0;codemonkey@codemonkey3: ~\u0007codemonkey@codemonkey3:~$ "
+    ],
+    [
+      2.790786,
+      "m"
+    ],
+    [
+      0.092088,
+      "k"
+    ],
+    [
+      0.160778,
+      "d"
+    ],
+    [
+      0.106153,
+      "i"
+    ],
+    [
+      0.104033,
+      "r"
+    ],
+    [
+      0.103661,
+      " "
+    ],
+    [
+      0.486761,
+      "m"
+    ],
+    [
+      0.162467,
+      "e"
+    ],
+    [
+      0.218379,
+      "h"
+    ],
+    [
+      0.124620,
+      "a"
+    ],
+    [
+      0.175424,
+      "c"
+    ],
+    [
+      0.069497,
+      "k"
+    ],
+    [
+      0.156876,
+      "i"
+    ],
+    [
+      0.119918,
+      "t"
+    ],
+    [
+      0.239873,
+      "\r\n\u001b]0;codemonkey@codemonkey3: ~\u0007codemonkey@codemonkey3:~$ "
+    ],
+    [
+      0.993811,
+      "c"
+    ],
+    [
+      0.069289,
+      "d"
+    ],
+    [
+      0.183190,
+      " "
+    ],
+    [
+      0.304104,
+      "m"
+    ],
+    [
+      0.160374,
+      "e"
+    ],
+    [
+      0.186395,
+      "hackit/"
+    ],
+    [
+      0.642441,
+      "\r\n\u001b]0;codemonkey@codemonkey3: ~/mehackit\u0007codemonkey@codemonkey3:~/mehackit$ "
+    ],
+    [
+      2.536313,
+      "s"
+    ],
+    [
+      0.124586,
+      "u"
+    ],
+    [
+      0.120855,
+      "d"
+    ],
+    [
+      0.078895,
+      "o"
+    ],
+    [
+      0.119795,
+      " "
+    ],
+    [
+      0.206621,
+      "a"
+    ],
+    [
+      0.184488,
+      "p"
+    ],
+    [
+      0.222135,
+      "t"
+    ],
+    [
+      0.371059,
+      "-"
+    ],
+    [
+      0.159580,
+      "g"
+    ],
+    [
+      0.083149,
+      "e"
+    ],
+    [
+      0.138512,
+      "t"
+    ],
+    [
+      0.202084,
+      " "
+    ],
+    [
+      0.171303,
+      "i"
+    ],
+    [
+      0.069121,
+      "n"
+    ],
+    [
+      0.064752,
+      "s"
+    ],
+    [
+      0.092297,
+      "t"
+    ],
+    [
+      0.082875,
+      "a"
+    ],
+    [
+      0.181993,
+      "l"
+    ],
+    [
+      0.138200,
+      "l"
+    ],
+    [
+      0.110765,
+      " "
+    ],
+    [
+      0.537550,
+      "a"
+    ],
+    [
+      0.399434,
+      "r"
+    ],
+    [
+      0.183829,
+      "d"
+    ],
+    [
+      0.101662,
+      "u"
+    ],
+    [
+      0.078508,
+      "i"
+    ],
+    [
+      0.160891,
+      "n"
+    ],
+    [
+      0.120285,
+      "o"
+    ],
+    [
+      0.249079,
+      "\r\n[sudo] password for codemonkey: "
+    ],
+    [
+      4.100577,
+      "\r\n"
+    ],
+    [
+      0.015294,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.005090,
+      "\rReading package lists... 100%\r"
+    ],
+    [
+      0.000084,
+      "\rReading package lists... Done\r"
+    ],
+    [
+      0.000057,
+      "\r\n"
+    ],
+    [
+      0.004750,
+      "\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.000125,
+      "\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.054608,
+      "\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.000043,
+      "\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.343755,
+      "\rBuilding dependency tree       \r"
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.000077,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.000833,
+      "\rReading state information... Done\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.323893,
+      "The following packages were automatically installed and are no longer required:"
+    ],
+    [
+      0.000010,
+      "\r\n  linux-headers-3.13.0-32 linux-headers-3.13.0-32-generic\r\n  linux-image-3.13.0-32-generic linux-image-extra-3.13.0-32-generic\r\n"
+    ],
+    [
+      0.000014,
+      "Use 'apt-get autoremove' to remove them.\r\n"
+    ],
+    [
+      0.050079,
+      "The following NEW packages will be installed:\r\n"
+    ],
+    [
+      0.000010,
+      "  arduino\r\n"
+    ],
+    [
+      0.025808,
+      "0 upgraded, 1 newly installed, 0 to remove and 6 not upgraded.\r\n"
+    ],
+    [
+      0.017406,
+      "Need to get 1 164 kB of archives.\r\n"
+    ],
+    [
+      0.000010,
+      "After this operation, 1 727 kB of additional disk space will be used.\r\n"
+    ],
+    [
+      0.004062,
+      "\r\r0% [Working]"
+    ],
+    [
+      0.099027,
+      "\r            \rGet:1 http://se.archive.ubuntu.com/ubuntu/ trusty/universe arduino all 1:1.0.5+dfsg2-2 [1 164 kB]\r\n\r            \r0% [1 arduino 1 135 B/1 164 kB 0%]"
+    ],
+    [
+      0.500558,
+      "\r                                  \r91% [1 arduino 1 055 kB/1 164 kB 91%]"
+    ],
+    [
+      0.057232,
+      "\r                                     \r100% [Working]"
+    ],
+    [
+      0.000077,
+      "\r              \r"
+    ],
+    [
+      0.000068,
+      "Fetched 1 164 kB in 0s (1 772 kB/s)"
+    ],
+    [
+      0.000050,
+      "\r\n"
+    ],
+    [
+      0.419436,
+      "Selecting previously unselected package arduino.\r\n(Reading database ... \r"
+    ],
+    [
+      0.007899,
+      "(Reading database ... 5%\r(Reading database ... 10%\r(Reading database ... 15%\r"
+    ],
+    [
+      0.000035,
+      "(Reading database ... 20%\r(Reading database ... 25%\r(Reading database ... 30%\r"
+    ],
+    [
+      0.000024,
+      "(Reading database ... 35%\r"
+    ],
+    [
+      0.000024,
+      "(Reading database ... 40%\r"
+    ],
+    [
+      0.000032,
+      "(Reading database ... 45%\r(Reading database ... 50%\r"
+    ],
+    [
+      0.043198,
+      "(Reading database ... 55%\r"
+    ],
+    [
+      0.005826,
+      "(Reading database ... 60%\r"
+    ],
+    [
+      0.010961,
+      "(Reading database ... 65%\r"
+    ],
+    [
+      0.016398,
+      "(Reading database ... 70%\r"
+    ],
+    [
+      0.008609,
+      "(Reading database ... 75%\r"
+    ],
+    [
+      0.002815,
+      "(Reading database ... 80%\r"
+    ],
+    [
+      0.003578,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.026153,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.007524,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.005716,
+      "(Reading database ... 100%\r(Reading database ... 233246 files and directories currently installed.)\r\n"
+    ],
+    [
+      0.022457,
+      "Preparing to unpack .../arduino_1%3a1.0.5+dfsg2-2_all.deb ...\r\n"
+    ],
+    [
+      0.004650,
+      "Unpacking arduino (1:1.0.5+dfsg2-2) ...\r\n"
+    ],
+    [
+      0.347627,
+      "Processing triggers for shared-mime-info (1.2-0ubuntu3) ..."
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      5.120362,
+      "Processing triggers for hicolor-icon-theme (0.13-1) ...\r\n"
+    ],
+    [
+      0.641653,
+      "Processing triggers for mime-support (3.54ubuntu1.1) ...\r\n"
+    ],
+    [
+      0.246109,
+      "Processing triggers for gnome-menus (3.10.1-0ubuntu2) ...\r\n"
+    ],
+    [
+      0.028986,
+      "Processing triggers for desktop-file-utils (0.22-1ubuntu1) ..."
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.029948,
+      "Processing triggers for bamfdaemon (0.5.1+14.04.20140409-0ubuntu1) ..."
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.018755,
+      "Rebuilding /usr/share/applications/bamf-2.index...\r\n"
+    ],
+    [
+      0.051432,
+      "Processing triggers for man-db (2.6.7.1-1ubuntu1) ..."
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.459497,
+      "Setting up arduino (1:1.0.5+dfsg2-2) ...\r\n"
+    ],
+    [
+      0.498490,
+      "\u001b]0;codemonkey@codemonkey3: ~/mehackit\u0007codemonkey@codemonkey3:~/mehackit$ "
+    ],
+    [
+      2.876324,
+      "e"
+    ],
+    [
+      0.210399,
+      "i"
+    ],
+    [
+      0.090955,
+      "x"
+    ],
+    [
+      0.503263,
+      "t"
+    ],
+    [
+      0.320048,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.145561,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.130913,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.393729,
+      "i"
+    ],
+    [
+      0.576873,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.354041,
+      "x"
+    ],
+    [
+      0.131497,
+      "i"
+    ],
+    [
+      0.210416,
+      "t"
+    ],
+    [
+      0.173063,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
