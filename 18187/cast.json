@@ -1,0 +1,458 @@
+{
+  "version": 1,
+  "width": 97,
+  "height": 22,
+  "duration": 13.877364,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.704781,
+      "\u001b[46m\u001b[37m⏎\u001b[00m                                                                                                \r \r"
+    ],
+    [
+      0.448184,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35m grisa \u001b[33m➜ \u001b[00m\u001b[K\u001b[83C \u001b[33m✔\u001b[00m\u001b[34m ~\u001b[00m\u001b[00m\u001b[87D"
+    ],
+    [
+      0.822326,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35m grisa \u001b[33m➜ \u001b[00m"
+    ],
+    [
+      0.000091,
+      "\u001b[K\u001b[84C \u001b[33m✔\u001b[00m\u001b[34m ~\u001b[00m\u001b[00m\u001b[88D"
+    ],
+    [
+      0.000420,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35m grisa \u001b[33m➜ \u001b[00m"
+    ],
+    [
+      0.000046,
+      "\u001b[K\u001b[83C \u001b[33m✔\u001b[00m\u001b[34m ~\u001b[00m\u001b[00m\u001b[87D"
+    ],
+    [
+      1.038549,
+      "\u001b[32mvim\u001b[39m\u0008\u0008"
+    ],
+    [
+      0.184872,
+      "\u001b[1C"
+    ],
+    [
+      0.248144,
+      "\u001b[1C"
+    ],
+    [
+      0.146045,
+      " \u001b[34m/etc/passwd\u001b[39m\u001b[11D"
+    ],
+    [
+      0.478553,
+      "\u001b[1C"
+    ],
+    [
+      1.719223,
+      "\u001b[1C"
+    ],
+    [
+      0.209422,
+      "\u001b[2C\u001b[34m/\u001b[0m\u001b[39m\u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u001b[39m \u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.165443,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[39m\u001b[4m/\u001b[39m\u001b[4me\u001b[39m\u001b[4mt\u001b[39m\u001b[4mc\u001b[39m\u001b[4m/\u001b[4mw\u001b[24m"
+    ],
+    [
+      0.328857,
+      "\u0008\u001b[4mw\u001b[4mg\u001b[24m"
+    ],
+    [
+      0.269326,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[24m\u001b[34m/\u001b[24m\u001b[34me\u001b[24m\u001b[34mt\u001b[24m\u001b[34mc\u001b[24m\u001b[34m/\u001b[24m\u001b[34mw\u001b[24m\u001b[34mg\u001b[34metrc\u001b[39m\u001b[1m \u001b[0m"
+    ],
+    [
+      0.274455,
+      "\u0008\u001b[0m "
+    ],
+    [
+      0.000102,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000081,
+      "\r"
+    ],
+    [
+      0.000131,
+      "\r\n"
+    ],
+    [
+      0.346860,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.000029,
+      "\u001b[2;1H▽\u001b[6n\u001b[2;1H  \u001b[1;1H"
+    ],
+    [
+      0.000847,
+      "\u001b[1;22r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[23m\u001b[m\u001b[94m\u001b[100m\u001b[H\u001b[2J\u001b[?25l\u001b[22;1H\"/etc/wgetrc\""
+    ],
+    [
+      0.000391,
+      " [только для чтения] 134L, 4810C"
+    ],
+    [
+      0.077667,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.012255,
+      "\u001b[1;1H\u001b[93m  1 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m###\u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                                          \u001b[m\u001b[94m\u001b[100m\u001b[2;1H\u001b[92m\u001b[40m  2 \u001b[m\u001b[94m\u001b[100m\u001b[92m### Sample Wget initialization file .wgetrc\u001b[m\u001b[94m\u001b[100m\r\n\u001b[92m\u001b[40m  3 \u001b[m\u001b[94m\u001b[100m\u001b[92m###\u001b[m\u001b[94m\u001b[100m\r\n\u001b[92m\u001b[40m  4 \u001b[m\u001b[94m\u001b[100m\u001b[92m## You can use this file to change the default behaviour of wget ir T\u001b[m\u001b[94m\u001b[100m\r\n\u001b[92m\u001b[40m  5 \u001b[m\u001b[94m\u001b[100m\u001b[92m## avoid having to type many many command-line options. This file does\u001b[m\u001b[94m\u001b[100m\r\n\u001b[92m\u001b[40m  6 \u001b[m\u001b[94m\u001b[100m\u001b[92m## not contain a comprehensive list of commands -- look at the manual\u001b[m\u001b[94m\u001b[100m\r\n\u001b[92m\u001b[40m  7 \u001b[m\u001b[94m\u001b[100m\u001b[92m## to find out what you can put into this file. You can find this here:\u001b[m\u001b[94m\u001b[100m\r\n\u001b[92m\u001b[40m  8 \u001b[m\u001b[94m\u001b[100m\u001b[92m##   $ info wget.info 'Startup File'\u001b[m\u001b[94m\u001b[100m\r\n\u001b[92m\u001b[40m  9 \u001b[m\u001b[94m\u001b[100m\u001b[92m## Or online here:\u001b[m\u001b[94m\u001b[100m\r\n\u001b[92m\u001b[40m 10 \u001b[m\u001b[94m\u001b[100m\u001b[92m##   https://www.gnu.org/software/wget/manual/wget.html#Startup-File\u001b[m\u001b[94m\u001b[100m\r\n\u001b[92m\u001b[40m 11 \u001b[m\u001b[94m\u001b[100m\u001b[92m##\u001b[m\u001b[94m\u001b[100m\r\n\u001b[92m\u001b[40m 12 \u001b[m\u001b[94m\u001b[100m\u001b[92m## Wget initialization file can reside in /etc/wgetrc\u001b[m\u001b[94m\u001b[100m\r\n\u001b[92m\u001b[40m 13 \u001b[m\u001b[94m\u001b[100m\u001b[92m## (global, for all users) or $HOME/.wgetrc (for a single user).\u001b[m\u001b[94m\u001b[100m\r\n\u001b[92m\u001b[40m 14 \u001b[m\u001b[94m\u001b[100m\u001b[92m##\u001b[m\u001b[94m\u001b[100m\r\n\u001b[92m\u001b[40m 15 \u001b[m\u001b[94m\u001b[100m\u001b[92m## To use the settings in this file, you will have to uncomment them,\u001b[m\u001b[94m\u001b[100m\r\n\u001b[92m\u001b[40m 16 \u001b[m\u001b[94m\u001b[100m\u001b[92m## as well as change them, in most cases, as the values on the\u001b[m\u001b[94m\u001b[100m\r\n\u001b[92m\u001b[40m 17 \u001b[m\u001b[94m\u001b[100m\u001b[92m## commented-out lines are the default values (e.g. \"off\").\u001b[m\u001b[94m\u001b[100m\r\n\u001b[92m\u001b[40m 18 \r\n 19 \r\n 20 \u001b[m\u001b[94m\u001b[100m\u001b[92m##\u001b[m\u001b[94m\u001b[100m\r\n\u001b[97m\u001b[44m NORMAL \u001b[m\u001b[94m\u001b[100m\u001b[97m\u001b[102m RO | wgetrc \u001b[m\u001b[94m\u001b[100m\u001b[96m\u001b[40m                                        \u001b[m\u001b[94m\u001b[100m\u001b[30m\u001b[40m|\u001b[m\u001b[94m\u001b[100m\u001b[96m\u001b[40m unix | utf-8 | wget \u001b[m\u001b[94m\u001b[100m\u001b[96m\u001b[102m   0% \u001b[m\u001b[94m\u001b[100m\u001b[30m\u001b[104m   1:1  "
+    ],
+    [
+      0.003131,
+      "\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      3.195890,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\r\u001b[92m\u001b[40m  1 \u001b[m\u001b[94m\u001b[100m\u001b[92m###\u001b[m\u001b[94m\u001b[100m\u001b[1;8H\u001b[K\u001b[2;1H\u001b[93m  2 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m### Sample Wget initialization file .wgetrc\u001b[m\u001b[94m\u001b[100m\u001b[40m                                                  \u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m1\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m2\u001b[2;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[m\u001b[94m\u001b[100m\r\u001b[92m\u001b[40m  2 \u001b[m\u001b[94m\u001b[100m\u001b[92m### Sample Wget initialization file .wgetrc\u001b[m\u001b[94m\u001b[100m\u001b[2;48H\u001b[K\u001b[3;1H\u001b[93m  3 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m###\u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                                          \u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m2\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m3\u001b[3;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001151,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[22;87H~@k\u001b[3;5H"
+    ],
+    [
+      0.001330,
+      "\u001b[22;87H   \u001b[4;5H\u001b[3;1H\u001b[92m\u001b[40m  3 \u001b[m\u001b[94m\u001b[100m\u001b[92m###\u001b[m\u001b[94m\u001b[100m\u001b[3;8H\u001b[K\u001b[4;1H\u001b[93m  4 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m## You can use this file to change the default behaviour of wget ir T\u001b[m\u001b[94m\u001b[100m\u001b[40m                        \u001b[m\u001b[94m\u001b[100m\u001b[21;93H\u001b[30m\u001b[104m4\u001b[4;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.020513,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\r\u001b[92m\u001b[40m  4 \u001b[m\u001b[94m\u001b[100m\u001b[92m## You can use this file to change the default behaviour of wget ir T\u001b[m\u001b[94m\u001b[100m\u001b[4;74H\u001b[K\u001b[5;1H\u001b[93m  5 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m## avoid having to type many many command-line options. This file does\u001b[m\u001b[94m\u001b[100m\u001b[40m                       \u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m3\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m5\u001b[5;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[m\u001b[94m\u001b[100m\r\u001b[92m\u001b[40m  5 \u001b[m\u001b[94m\u001b[100m\u001b[92m## avoid having to type many many command-line options. This file does\u001b[m\u001b[94m\u001b[100m\u001b[5;75H\u001b[K\u001b[6;1H\u001b[93m  6 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m## not contain a comprehensive list of commands -- look at the manual\u001b[m\u001b[94m\u001b[100m\u001b[40m                        \u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m4\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m6\u001b[6;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[22;87H~@k\u001b[6;5H"
+    ],
+    [
+      0.002481,
+      "\u001b[22;87H   \u001b[7;5H\u001b[6;1H\u001b[92m\u001b[40m  6 \u001b[m\u001b[94m\u001b[100m\u001b[92m## not contain a comprehensive list of commands -- look at the manual\u001b[m\u001b[94m\u001b[100m\u001b[6;74H\u001b[K\u001b[7;1H\u001b[93m  7 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m## to find out what you can put into this file. You can find this here:\u001b[m\u001b[94m\u001b[100m\u001b[40m                      \u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m5\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m7\u001b[7;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.016211,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\r\u001b[92m\u001b[40m  7 \u001b[m\u001b[94m\u001b[100m\u001b[92m## to find out what you can put into this file. You can find this here:\u001b[m\u001b[94m\u001b[100m\u001b[7;76H\u001b[K\u001b[8;1H\u001b[93m  8 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m##   $ info wget.info 'Startup File'\u001b[m\u001b[94m\u001b[100m\u001b[40m                                                         \u001b[m\u001b[94m\u001b[100m\u001b[21;93H\u001b[30m\u001b[104m8\u001b[8;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[m\u001b[94m\u001b[100m\r\u001b[92m\u001b[40m  8 \u001b[m\u001b[94m\u001b[100m\u001b[92m##   $ info wget.info 'Startup File'\u001b[m\u001b[94m\u001b[100m\u001b[8;41H\u001b[K\u001b[9;1H\u001b[93m  9 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m## Or online here:\u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                           \u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m6\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m9\u001b[9;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000273,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[22;87H~@k\u001b[9;5H"
+    ],
+    [
+      0.003211,
+      "\u001b[22;87H   \u001b[10;5H\u001b[9;1H\u001b[92m\u001b[40m  9 \u001b[m\u001b[94m\u001b[100m\u001b[92m## Or online here:\u001b[m\u001b[94m\u001b[100m\u001b[9;23H\u001b[K\u001b[10;1H\u001b[93m 10 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m##   https://www.gnu.org/software/wget/manual/wget.html#Startup-File\u001b[m\u001b[94m\u001b[100m\u001b[40m                         \u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m7\u001b[m\u001b[94m\u001b[100m\u001b[4C\u001b[30m\u001b[104m10\u001b[10;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.009442,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\r\u001b[92m\u001b[40m 10 \u001b[m\u001b[94m\u001b[100m\u001b[92m##   https://www.gnu.org/software/wget/manual/wget.html#Startup-File\u001b[m\u001b[94m\u001b[100m\u001b[10;73H\u001b[K\u001b[11;1H\u001b[93m 11 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m##\u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                                           \u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m8\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m1\u001b[11;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[m\u001b[94m\u001b[100m\r\u001b[92m\u001b[40m 11 \u001b[m\u001b[94m\u001b[100m\u001b[92m##\u001b[m\u001b[94m\u001b[100m\u001b[11;7H\u001b[K\u001b[12;1H\u001b[93m 12 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m## Wget initialization file can reside in /etc/wgetrc\u001b[m\u001b[94m\u001b[100m\u001b[40m                                        \u001b[m\u001b[94m\u001b[100m\u001b[21;93H\u001b[30m\u001b[104m2\u001b[12;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000198,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[22;87H~@k\u001b[12;5H"
+    ],
+    [
+      0.002576,
+      "\u001b[22;87H   \u001b[13;5H\u001b[12;1H\u001b[92m\u001b[40m 12 \u001b[m\u001b[94m\u001b[100m\u001b[92m## Wget initialization file can reside in /etc/wgetrc\u001b[m\u001b[94m\u001b[100m\u001b[12;58H\u001b[K\u001b[13;1H\u001b[93m 13 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m## (global, for all users) or $HOME/.wgetrc (for a single user).\u001b[m\u001b[94m\u001b[100m\u001b[40m                             \u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m9\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m3\u001b[13;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.014094,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\r\u001b[92m\u001b[40m 13 \u001b[m\u001b[94m\u001b[100m\u001b[92m## (global, for all users) or $HOME/.wgetrc (for a single user).\u001b[m\u001b[94m\u001b[100m\u001b[13;69H\u001b[K\u001b[14;1H\u001b[93m 14 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m##\u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                                           \u001b[m\u001b[94m\u001b[100m\u001b[21;86H\u001b[96m\u001b[102m10\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m4\u001b[14;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[m\u001b[94m\u001b[100m\r\u001b[92m\u001b[40m 14 \u001b[m\u001b[94m\u001b[100m\u001b[92m##\u001b[m\u001b[94m\u001b[100m\u001b[14;7H\u001b[K\u001b[15;1H\u001b[93m 15 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m## To use the settings in this file, you will have to uncomment them,\u001b[m\u001b[94m\u001b[100m\u001b[40m                        \u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m1\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m5\u001b[15;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000075,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[22;87H~@k\u001b[15;5H"
+    ],
+    [
+      0.003245,
+      "\u001b[22;87H   \u001b[16;5H\u001b[15;1H\u001b[92m\u001b[40m 15 \u001b[m\u001b[94m\u001b[100m\u001b[92m## To use the settings in this file, you will have to uncomment them,\u001b[m\u001b[94m\u001b[100m\u001b[15;74H\u001b[K\u001b[16;1H\u001b[93m 16 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m## as well as change them, in most cases, as the values on the\u001b[m\u001b[94m\u001b[100m\u001b[40m                               \u001b[m\u001b[94m\u001b[100m\u001b[21;93H\u001b[30m\u001b[104m6\u001b[16;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.005370,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\r\u001b[92m\u001b[40m 16 \u001b[m\u001b[94m\u001b[100m\u001b[92m## as well as change them, in most cases, as the values on the\u001b[m\u001b[94m\u001b[100m\u001b[16;67H\u001b[K\u001b[17;1H\u001b[93m 17 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m## commented-out lines are the default values (e.g. \"off\").\u001b[m\u001b[94m\u001b[100m\u001b[40m                                  \u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m2\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m7\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 17 \u001b[m\u001b[94m\u001b[100m\u001b[92m## commented-out lines are the default values (e.g. \"off\").\u001b[m\u001b[94m\u001b[100m\u001b[16;64H\u001b[K\u001b[17;1H\u001b[93m 18 \u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                                             \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 21 \u001b[m\u001b[94m\u001b[100m\u001b[92m## Global settings (useful for setting up in /etc/wgetrc).\u001b[m\u001b[94m\u001b[100m\u001b[22;1H\u001b[K\u001b[21;87H\u001b[96m\u001b[102m3\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m8\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000110,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[22;87H~@k\u001b[17;5H"
+    ],
+    [
+      0.002966,
+      "\u001b[22;87H   \u001b[17;5H\u001b[1;20r\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 18 \u001b[m\u001b[94m\u001b[100m\u001b[16;5H\u001b[K\u001b[17;1H\u001b[93m 19 \u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                                             \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 22 \u001b[m\u001b[94m\u001b[100m\u001b[92m## Think well before you change them, since they may reduce wget's\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m4\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m9\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.021861,
+      "\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 19 \u001b[m\u001b[94m\u001b[100m\u001b[16;5H\u001b[K\u001b[17;1H\u001b[93m 20 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m##\u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                                           \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 23 \u001b[m\u001b[94m\u001b[100m\u001b[92m## functionality, and make it behave contrary to the documentation:\u001b[m\u001b[94m\u001b[100m\u001b[21;92H\u001b[30m\u001b[104m20\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 20 \u001b[m\u001b[94m\u001b[100m\u001b[92m##\u001b[m\u001b[94m\u001b[100m\u001b[16;7H\u001b[K\u001b[17;1H\u001b[93m 21 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m## Global settings (useful for setting up in /etc/wgetrc).\u001b[m\u001b[94m\u001b[100m\u001b[40m                                   \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 24 \u001b[m\u001b[94m\u001b[100m\u001b[92m##\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m5\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m1\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.007470,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[22;87H~@k\u001b[17;5H"
+    ],
+    [
+      0.003884,
+      "\u001b[22;87H   \u001b[17;5H\u001b[1;20r\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 21 \u001b[m\u001b[94m\u001b[100m\u001b[92m## Global settings (useful for setting up in /etc/wgetrc).\u001b[m\u001b[94m\u001b[100m\u001b[16;63H\u001b[K\u001b[17;1H\u001b[93m 22 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m## Think well before you change them, since they may reduce wget's\u001b[m\u001b[94m\u001b[100m\u001b[40m                           \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 25 \u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m6\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m2\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.005813,
+      "\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 22 \u001b[m\u001b[94m\u001b[100m\u001b[92m## Think well before you change them, since they may reduce wget's\u001b[m\u001b[94m\u001b[100m\u001b[16;71H\u001b[K\u001b[17;1H\u001b[93m 23 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m## functionality, and make it behave contrary to the documentation:\u001b[m\u001b[94m\u001b[100m\u001b[40m                          \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 26 \u001b[m\u001b[94m\u001b[100m\u001b[92m# You can set retrieve quota for beginners by specifying a value\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m7\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m3\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 23 \u001b[m\u001b[94m\u001b[100m\u001b[92m## functionality, and make it behave contrary to the documentation:\u001b[m\u001b[94m\u001b[100m\u001b[16;72H\u001b[K\u001b[17;1H\u001b[93m 24 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m##\u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                                           \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 27 \u001b[m\u001b[94m\u001b[100m\u001b[92m# optionally followed by 'K' (kilobytes) or 'M' (megabytes).  The\u001b[m\u001b[94m\u001b[100m\u001b[21;93H\u001b[30m\u001b[104m4\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000143,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[22;87H~@k\u001b[17;5H"
+    ],
+    [
+      0.002796,
+      "\u001b[22;87H   \u001b[17;5H\u001b[1;20r\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 24 \u001b[m\u001b[94m\u001b[100m\u001b[92m##\u001b[m\u001b[94m\u001b[100m\u001b[16;7H\u001b[K\u001b[17;1H\u001b[93m 25 \u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                                             \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 28 \u001b[m\u001b[94m\u001b[100m\u001b[92m# default quota is unlimited.\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m8\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m5\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.247259,
+      "\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 25 \u001b[m\u001b[94m\u001b[100m\u001b[16;5H\u001b[K\u001b[17;1H\u001b[93m 26 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# You can set retrieve quota for beginners by specifying a value\u001b[m\u001b[94m\u001b[100m\u001b[40m                             \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 29 \u001b[m\u001b[94m\u001b[100m\u001b[92m#quota = inf\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m9\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m6\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 26 \u001b[m\u001b[94m\u001b[100m\u001b[92m# You can set retrieve quota for beginners by specifying a value\u001b[m\u001b[94m\u001b[100m\u001b[16;69H\u001b[K\u001b[17;1H\u001b[93m 27 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# optionally followed by 'K' (kilobytes) or 'M' (megabytes).  The\u001b[m\u001b[94m\u001b[100m\u001b[40m                            \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 30 \u001b[m\u001b[94m\u001b[100m\u001b[21;86H\u001b[96m\u001b[102m20\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m7\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000172,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[22;87H~@k\u001b[17;5H"
+    ],
+    [
+      0.003519,
+      "\u001b[22;87H   \u001b[17;5H\u001b[1;20r\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 27 \u001b[m\u001b[94m\u001b[100m\u001b[92m# optionally followed by 'K' (kilobytes) or 'M' (megabytes).  The\u001b[m\u001b[94m\u001b[100m\u001b[16;70H\u001b[K\u001b[17;1H\u001b[93m 28 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# default quota is unlimited.\u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 31 \u001b[m\u001b[94m\u001b[100m\u001b[92m# You can lower (or raise) the default number of retries when\u001b[m\u001b[94m\u001b[100m\u001b[21;93H\u001b[30m\u001b[104m8\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.008498,
+      "\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 28 \u001b[m\u001b[94m\u001b[100m\u001b[92m# default quota is unlimited.\u001b[m\u001b[94m\u001b[100m\u001b[16;34H\u001b[K\u001b[17;1H\u001b[93m 29 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m#quota = inf\u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                                 \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 32 \u001b[m\u001b[94m\u001b[100m\u001b[92m# downloading a file (default is 20).\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m1\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m9\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 29 \u001b[m\u001b[94m\u001b[100m\u001b[92m#quota = inf\u001b[m\u001b[94m\u001b[100m\u001b[16;17H\u001b[K\u001b[17;1H\u001b[93m 30 \u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                                             \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 33 \u001b[m\u001b[94m\u001b[100m\u001b[92m#tries = 20\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m2\u001b[m\u001b[94m\u001b[100m\u001b[4C\u001b[30m\u001b[104m30\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[22;87H~@k\u001b[17;5H"
+    ],
+    [
+      0.003014,
+      "\u001b[22;87H   \u001b[17;5H\u001b[1;20r\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 30 \u001b[m\u001b[94m\u001b[100m\u001b[16;5H\u001b[K\u001b[17;1H\u001b[93m 31 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# You can lower (or raise) the default number of retries when\u001b[m\u001b[94m\u001b[100m\u001b[40m                                \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 34 \u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m3\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m1\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.014342,
+      "\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 31 \u001b[m\u001b[94m\u001b[100m\u001b[92m# You can lower (or raise) the default number of retries when\u001b[m\u001b[94m\u001b[100m\u001b[16;66H\u001b[K\u001b[17;1H\u001b[93m 32 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# downloading a file (default is 20).\u001b[m\u001b[94m\u001b[100m\u001b[40m                                                        \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 35 \u001b[m\u001b[94m\u001b[100m\u001b[92m# Lowering the maximum depth of the recursive retrieval is handy to\u001b[m\u001b[94m\u001b[100m\u001b[21;93H\u001b[30m\u001b[104m2\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 32 \u001b[m\u001b[94m\u001b[100m\u001b[92m# downloading a file (default is 20).\u001b[m\u001b[94m\u001b[100m\u001b[16;42H\u001b[K\u001b[17;1H\u001b[93m 33 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m#tries = 20\u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                                  \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 36 \u001b[m\u001b[94m\u001b[100m\u001b[92m# prevent newbies from going too \"deep\" when they unwittingly start\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m4\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m3\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[22;87H~@k\u001b[17;5H"
+    ],
+    [
+      0.002587,
+      "\u001b[22;87H   \u001b[17;5H\u001b[1;20r\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 33 \u001b[m\u001b[94m\u001b[100m\u001b[92m#tries = 20\u001b[m\u001b[94m\u001b[100m\u001b[16;16H\u001b[K\u001b[17;1H\u001b[93m 34 \u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                                             \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 37 \u001b[m\u001b[94m\u001b[100m\u001b[92m# the recursive retrieval.  The default is 5.\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m5\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m4\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.005687,
+      "\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 34 \u001b[m\u001b[94m\u001b[100m\u001b[16;5H\u001b[K\u001b[17;1H\u001b[93m 35 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# Lowering the maximum depth of the recursive retrieval is handy to\u001b[m\u001b[94m\u001b[100m\u001b[40m                          \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 38 \u001b[m\u001b[94m\u001b[100m\u001b[92m#reclevel = 5\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m6\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m5\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 35 \u001b[m\u001b[94m\u001b[100m\u001b[92m# Lowering the maximum depth of the recursive retrieval is handy to\u001b[m\u001b[94m\u001b[100m\u001b[16;72H\u001b[K\u001b[17;1H\u001b[93m 36 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# prevent newbies from going too \"deep\" when they unwittingly start\u001b[m\u001b[94m\u001b[100m\u001b[40m                          \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 39 \u001b[m\u001b[94m\u001b[100m\u001b[21;93H\u001b[30m\u001b[104m6\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[22;87H~@k\u001b[17;5H"
+    ],
+    [
+      0.002608,
+      "\u001b[22;87H   \u001b[17;5H\u001b[1;20r\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 36 \u001b[m\u001b[94m\u001b[100m\u001b[92m# prevent newbies from going too \"deep\" when they unwittingly start\u001b[m\u001b[94m\u001b[100m\u001b[16;72H\u001b[K\u001b[17;1H\u001b[93m 37 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# the recursive retrieval.  The default is 5.\u001b[m\u001b[94m\u001b[100m\u001b[40m                                                \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 40 \u001b[m\u001b[94m\u001b[100m\u001b[92m# By default Wget uses \"passive FTP\" transfer where the client\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m7\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m7\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.014892,
+      "\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 37 \u001b[m\u001b[94m\u001b[100m\u001b[92m# the recursive retrieval.  The default is 5.\u001b[m\u001b[94m\u001b[100m\u001b[16;50H\u001b[K\u001b[17;1H\u001b[93m 38 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m#reclevel = 5\u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                                \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 41 \u001b[m\u001b[94m\u001b[100m\u001b[92m# initiates the data connection to the server rather than the other\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m8\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m8\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 38 \u001b[m\u001b[94m\u001b[100m\u001b[92m#reclevel = 5\u001b[m\u001b[94m\u001b[100m\u001b[16;18H\u001b[K\u001b[17;1H\u001b[93m 39 \u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                                             \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 42 \u001b[m\u001b[94m\u001b[100m\u001b[92m# way around.  That is required on systems behind NAT where the client\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m9\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m9\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000070,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[22;87H~@k\u001b[17;5H"
+    ],
+    [
+      0.002831,
+      "\u001b[22;87H   \u001b[17;5H\u001b[1;20r\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 39 \u001b[m\u001b[94m\u001b[100m\u001b[16;5H\u001b[K\u001b[17;1H\u001b[93m 40 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# By default Wget uses \"passive FTP\" transfer where the client\u001b[m\u001b[94m\u001b[100m\u001b[40m                               \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 43 \u001b[m\u001b[94m\u001b[100m\u001b[92m# computer cannot be easily reached from the Internet.  However, some\u001b[m\u001b[94m\u001b[100m\u001b[21;92H\u001b[30m\u001b[104m40\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.007781,
+      "\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 40 \u001b[m\u001b[94m\u001b[100m\u001b[92m# By default Wget uses \"passive FTP\" transfer where the client\u001b[m\u001b[94m\u001b[100m\u001b[16;67H\u001b[K\u001b[17;1H\u001b[93m 41 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# initiates the data connection to the server rather than the other\u001b[m\u001b[94m\u001b[100m\u001b[40m                          \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 44 \u001b[m\u001b[94m\u001b[100m\u001b[92m# firewalls software explicitly supports active FTP and in fact has\u001b[m\u001b[94m\u001b[100m\u001b[21;86H\u001b[96m\u001b[102m30\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m1\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 41 \u001b[m\u001b[94m\u001b[100m\u001b[92m# initiates the data connection to the server rather than the other\u001b[m\u001b[94m\u001b[100m\u001b[16;72H\u001b[K\u001b[17;1H\u001b[93m 42 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# way around.  That is required on systems behind NAT where the client\u001b[m\u001b[94m\u001b[100m\u001b[40m                       \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 45 \u001b[m\u001b[94m\u001b[100m\u001b[92m# problems supporting passive transfer.  If you are in such\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m1\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m2\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.009345,
+      "\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 42 \u001b[m\u001b[94m\u001b[100m\u001b[92m# way around.  That is required on systems behind NAT where the client\u001b[m\u001b[94m\u001b[100m\u001b[16;75H\u001b[K\u001b[17;1H\u001b[93m 43 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# computer cannot be easily reached from the Internet.  However, some\u001b[m\u001b[94m\u001b[100m\u001b[40m                        \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 46 \u001b[m\u001b[94m\u001b[100m\u001b[92m# environment, use \"passive_ftp = off\" to revert to active FTP.\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m2\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m3\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 43 \u001b[m\u001b[94m\u001b[100m\u001b[92m# computer cannot be easily reached from the Internet.  However, some\u001b[m\u001b[94m\u001b[100m\u001b[16;74H\u001b[K\u001b[17;1H\u001b[93m 44 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# firewalls software explicitly supports active FTP and in fact has\u001b[m\u001b[94m\u001b[100m\u001b[40m                          \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 47 \u001b[m\u001b[94m\u001b[100m\u001b[92m#passive_ftp = off\u001b[m\u001b[94m\u001b[100m\u001b[21;93H\u001b[30m\u001b[104m4\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 44 \u001b[m\u001b[94m\u001b[100m\u001b[92m# firewalls software explicitly supports active FTP and in fact has\u001b[m\u001b[94m\u001b[100m\u001b[16;72H\u001b[K\u001b[17;1H\u001b[93m 45 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# problems supporting passive transfer.  If you are in such\u001b[m\u001b[94m\u001b[100m\u001b[40m                                  \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 48 \u001b[m\u001b[94m\u001b[100m\u001b[34mpassive_ftp\u001b[m\u001b[94m\u001b[100m \u001b[31m=\u001b[m\u001b[94m\u001b[100m \u001b[36mon\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m3\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m5\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000047,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[22;87H~@k\u001b[17;5H"
+    ],
+    [
+      0.003208,
+      "\u001b[22;87H   \u001b[17;5H\u001b[1;20r\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 45 \u001b[m\u001b[94m\u001b[100m\u001b[92m# problems supporting passive transfer.  If you are in such\u001b[m\u001b[94m\u001b[100m\u001b[16;64H\u001b[K\u001b[17;1H\u001b[93m 46 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# environment, use \"passive_ftp = off\" to revert to active FTP.\u001b[m\u001b[94m\u001b[100m\u001b[40m                              \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 49 \u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m4\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m6\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.007174,
+      "\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 46 \u001b[m\u001b[94m\u001b[100m\u001b[92m# environment, use \"passive_ftp = off\" to revert to active FTP.\u001b[m\u001b[94m\u001b[100m\u001b[16;68H\u001b[K\u001b[17;1H\u001b[93m 47 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m#passive_ftp = off\u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                           \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 50 \u001b[m\u001b[94m\u001b[100m\u001b[92m# The \"wait\" command below makes Wget wait between every connection.\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m5\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m7\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 47 \u001b[m\u001b[94m\u001b[100m\u001b[92m#passive_ftp = off\u001b[m\u001b[94m\u001b[100m\u001b[16;23H\u001b[K\u001b[17;1H\u001b[93m 48 \u001b[m\u001b[94m\u001b[100m\u001b[34m\u001b[40mpassive_ftp\u001b[m\u001b[94m\u001b[100m\u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[31m\u001b[40m=\u001b[m\u001b[94m\u001b[100m\u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[36m\u001b[40mon\u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                             \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 51 \u001b[m\u001b[94m\u001b[100m\u001b[92m# If, instead, you want Wget to wait only between retries of failed\u001b[m\u001b[94m\u001b[100m\u001b[21;93H\u001b[30m\u001b[104m8\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[22;87H~@k\u001b[17;5H"
+    ],
+    [
+      0.003429,
+      "\u001b[22;87H   \u001b[17;5H\u001b[1;20r\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 48 \u001b[m\u001b[94m\u001b[100m\u001b[34mpassive_ftp\u001b[m\u001b[94m\u001b[100m \u001b[31m=\u001b[m\u001b[94m\u001b[100m \u001b[36mon\u001b[m\u001b[94m\u001b[100m\u001b[16;21H\u001b[K\u001b[17;1H\u001b[93m 49 \u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                                             \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 52 \u001b[m\u001b[94m\u001b[100m\u001b[92m# downloads, set waitretry to maximum number of seconds to wait (Wget\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m6\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m9\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.235421,
+      "\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 49 \u001b[m\u001b[94m\u001b[100m\u001b[16;5H\u001b[K\u001b[17;1H\u001b[93m 50 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# The \"wait\" command below makes Wget wait between every connection.\u001b[m\u001b[94m\u001b[100m\u001b[40m                         \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 53 \u001b[m\u001b[94m\u001b[100m\u001b[92m# will use \"linear backoff\", waiting 1 second after the first failure\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m7\u001b[m\u001b[94m\u001b[100m\u001b[4C\u001b[30m\u001b[104m50\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 50 \u001b[m\u001b[94m\u001b[100m\u001b[92m# The \"wait\" command below makes Wget wait between every connection.\u001b[m\u001b[94m\u001b[100m\u001b[16;73H\u001b[K\u001b[17;1H\u001b[93m 51 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# If, instead, you want Wget to wait only between retries of failed\u001b[m\u001b[94m\u001b[100m\u001b[40m                          \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 54 \u001b[m\u001b[94m\u001b[100m\u001b[92m# on a file, 2 seconds after the second failure, etc. up to this max).\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m8\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m1\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[22;87H~@k\u001b[17;5H"
+    ],
+    [
+      0.003077,
+      "\u001b[22;87H   \u001b[17;5H\u001b[1;20r\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 51 \u001b[m\u001b[94m\u001b[100m\u001b[92m# If, instead, you want Wget to wait only between retries of failed\u001b[m\u001b[94m\u001b[100m\u001b[16;72H\u001b[K\u001b[17;1H\u001b[93m 52 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# downloads, set waitretry to maximum number of seconds to wait (Wget\u001b[m\u001b[94m\u001b[100m\u001b[40m                        \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 55 \u001b[m\u001b[94m\u001b[100m\u001b[92m#waitretry = 10\u001b[m\u001b[94m\u001b[100m\u001b[21;93H\u001b[30m\u001b[104m2\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.015025,
+      "\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 52 \u001b[m\u001b[94m\u001b[100m\u001b[92m# downloads, set waitretry to maximum number of seconds to wait (Wget\u001b[m\u001b[94m\u001b[100m\u001b[16;74H\u001b[K\u001b[17;1H\u001b[93m 53 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# will use \"linear backoff\", waiting 1 second after the first failure\u001b[m\u001b[94m\u001b[100m\u001b[40m                        \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 56 \u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m9\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m3\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 53 \u001b[m\u001b[94m\u001b[100m\u001b[92m# will use \"linear backoff\", waiting 1 second after the first failure\u001b[m\u001b[94m\u001b[100m\u001b[16;74H\u001b[K\u001b[17;1H\u001b[93m 54 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# on a file, 2 seconds after the second failure, etc. up to this max).\u001b[m\u001b[94m\u001b[100m\u001b[40m                       \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 57 \u001b[m\u001b[94m\u001b[100m\u001b[21;86H\u001b[96m\u001b[102m40\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m4\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.010277,
+      "\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 54 \u001b[m\u001b[94m\u001b[100m\u001b[92m# on a file, 2 seconds after the second failure, etc. up to this max).\u001b[m\u001b[94m\u001b[100m\u001b[16;75H\u001b[K\u001b[17;1H\u001b[93m 55 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m#waitretry = 10\u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                              \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 58 \u001b[m\u001b[94m\u001b[100m\u001b[92m##\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m1\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m5\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 55 \u001b[m\u001b[94m\u001b[100m\u001b[92m#waitretry = 10\u001b[m\u001b[94m\u001b[100m\u001b[16;20H\u001b[K\u001b[17;1H\u001b[93m 56 \u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                                             \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 59 \u001b[m\u001b[94m\u001b[100m\u001b[92m## Local settings (for a user to set in his $HOME/.wgetrc).  It is\u001b[m\u001b[94m\u001b[100m\u001b[21;93H\u001b[30m\u001b[104m6\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 56 \u001b[m\u001b[94m\u001b[100m\u001b[16;5H\u001b[K\u001b[17;1H\u001b[93m 57 \u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                                             \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 60 \u001b[m\u001b[94m\u001b[100m\u001b[92m## *highly* undesirable to put these settings in the global file, since\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m2\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m7\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[22;87H~@k\u001b[17;5H"
+    ],
+    [
+      0.004217,
+      "\u001b[22;87H   \u001b[17;5H\u001b[1;20r\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 57 \u001b[m\u001b[94m\u001b[100m\u001b[16;5H\u001b[K\u001b[17;1H\u001b[93m 58 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m##\u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                                           \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 61 \u001b[m\u001b[94m\u001b[100m\u001b[92m## they are potentially dangerous to \"normal\" users.\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m3\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m8\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.006828,
+      "\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 58 \u001b[m\u001b[94m\u001b[100m\u001b[92m##\u001b[m\u001b[94m\u001b[100m\u001b[16;7H\u001b[K\u001b[17;1H\u001b[93m 59 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m## Local settings (for a user to set in his $HOME/.wgetrc).  It is\u001b[m\u001b[94m\u001b[100m\u001b[40m                           \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 62 \u001b[m\u001b[94m\u001b[100m\u001b[92m##\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m4\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m9\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 59 \u001b[m\u001b[94m\u001b[100m\u001b[92m## Local settings (for a user to set in his $HOME/.wgetrc).  It is\u001b[m\u001b[94m\u001b[100m\u001b[16;71H\u001b[K\u001b[17;1H\u001b[93m 60 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m## *highly* undesirable to put these settings in the global file, since\u001b[m\u001b[94m\u001b[100m\u001b[40m                      \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 63 \u001b[m\u001b[94m\u001b[100m\u001b[92m## Even when setting up your own ~/.wgetrc, you should know what you\u001b[m\u001b[94m\u001b[100m\u001b[21;92H\u001b[30m\u001b[104m60\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000033,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[22;87H~@k\u001b[17;5H"
+    ],
+    [
+      0.009834,
+      "\u001b[22;87H   \u001b[17;5H\u001b[1;20r\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 60 \u001b[m\u001b[94m\u001b[100m\u001b[92m## *highly* undesirable to put these settings in the global file, since\u001b[m\u001b[94m\u001b[100m\u001b[16;76H\u001b[K\u001b[17;1H\u001b[93m 61 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m## they are potentially dangerous to \"normal\" users.\u001b[m\u001b[94m\u001b[100m\u001b[40m                                         \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 64 \u001b[m\u001b[94m\u001b[100m\u001b[92m## are doing before doing so.\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m5\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m1\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.023942,
+      "\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 61 \u001b[m\u001b[94m\u001b[100m\u001b[92m## they are potentially dangerous to \"normal\" users.\u001b[m\u001b[94m\u001b[100m\u001b[16;57H\u001b[K\u001b[17;1H\u001b[93m 62 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m##\u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                                           \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 65 \u001b[m\u001b[94m\u001b[100m\u001b[92m##\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m6\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m2\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 62 \u001b[m\u001b[94m\u001b[100m\u001b[92m##\u001b[m\u001b[94m\u001b[100m\u001b[16;7H\u001b[K\u001b[17;1H\u001b[93m 63 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m## Even when setting up your own ~/.wgetrc, you should know what you\u001b[m\u001b[94m\u001b[100m\u001b[40m                         \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 66 \u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m7\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m3\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 63 \u001b[m\u001b[94m\u001b[100m\u001b[92m## Even when setting up your own ~/.wgetrc, you should know what you\u001b[m\u001b[94m\u001b[100m\u001b[16;73H\u001b[K\u001b[17;1H\u001b[93m 64 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m## are doing before doing so.\u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 67 \u001b[m\u001b[94m\u001b[100m\u001b[92m# Set this to on to use timestamping by default:\u001b[m\u001b[94m\u001b[100m\u001b[21;93H\u001b[30m\u001b[104m4\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 64 \u001b[m\u001b[94m\u001b[100m\u001b[92m## are doing before doing so.\u001b[m\u001b[94m\u001b[100m\u001b[16;34H\u001b[K\u001b[17;1H\u001b[93m 65 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m##\u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                                           \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 68 \u001b[m\u001b[94m\u001b[100m\u001b[92m#timestamping = off\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m8\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m5\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 65 \u001b[m\u001b[94m\u001b[100m\u001b[92m##\u001b[m\u001b[94m\u001b[100m\u001b[16;7H\u001b[K\u001b[17;1H\u001b[93m 66 \u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                                             \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 69 \u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m9\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m6\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.005411,
+      "\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 66 \u001b[m\u001b[94m\u001b[100m\u001b[16;5H\u001b[K\u001b[17;1H\u001b[93m 67 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# Set this to on to use timestamping by default:\u001b[m\u001b[94m\u001b[100m\u001b[40m                                             \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 70 \u001b[m\u001b[94m\u001b[100m\u001b[92m# It is a good idea to make Wget send your email address in a `From:'\u001b[m\u001b[94m\u001b[100m\u001b[21;86H\u001b[96m\u001b[102m50\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m7\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 67 \u001b[m\u001b[94m\u001b[100m\u001b[92m# Set this to on to use timestamping by default:\u001b[m\u001b[94m\u001b[100m\u001b[16;53H\u001b[K\u001b[17;1H\u001b[93m 68 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m#timestamping = off\u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                          \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 71 \u001b[m\u001b[94m\u001b[100m\u001b[92m# header with your request (so that server administrators can contact\u001b[m\u001b[94m\u001b[100m\u001b[21;93H\u001b[30m\u001b[104m8\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 68 \u001b[m\u001b[94m\u001b[100m\u001b[92m#timestamping = off\u001b[m\u001b[94m\u001b[100m\u001b[16;24H\u001b[K\u001b[17;1H\u001b[93m 69 \u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                                             \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 72 \u001b[m\u001b[94m\u001b[100m\u001b[92m# you in case of errors).  Wget does *not* send `From:' by default.\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m1\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m9\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.007116,
+      "\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 69 \u001b[m\u001b[94m\u001b[100m\u001b[16;5H\u001b[K\u001b[17;1H\u001b[93m 70 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# It is a good idea to make Wget send your email address in a `From:'\u001b[m\u001b[94m\u001b[100m\u001b[40m                        \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 73 \u001b[m\u001b[94m\u001b[100m\u001b[92m#header = From: Your Name \u003cusername@site.domain\u003e\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m2\u001b[m\u001b[94m\u001b[100m\u001b[4C\u001b[30m\u001b[104m70\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 70 \u001b[m\u001b[94m\u001b[100m\u001b[92m# It is a good idea to make Wget send your email address in a `From:'\u001b[m\u001b[94m\u001b[100m\u001b[16;74H\u001b[K\u001b[17;1H\u001b[93m 71 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# header with your request (so that server administrators can contact\u001b[m\u001b[94m\u001b[100m\u001b[40m                        \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 74 \u001b[m\u001b[94m\u001b[100m\u001b[21;93H\u001b[30m\u001b[104m1\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 71 \u001b[m\u001b[94m\u001b[100m\u001b[92m# header with your request (so that server administrators can contact\u001b[m\u001b[94m\u001b[100m\u001b[16;74H\u001b[K\u001b[17;1H\u001b[93m 72 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# you in case of errors).  Wget does *not* send `From:' by default.\u001b[m\u001b[94m\u001b[100m\u001b[40m                          \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 75 \u001b[m\u001b[94m\u001b[100m\u001b[92m# You can set up other headers, like Accept-Language.  Accept-Language\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m3\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m2\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000035,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[22;87H~@k\u001b[17;5H"
+    ],
+    [
+      0.002462,
+      "\u001b[22;87H   \u001b[17;5H\u001b[1;20r\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 72 \u001b[m\u001b[94m\u001b[100m\u001b[92m# you in case of errors).  Wget does *not* send `From:' by default.\u001b[m\u001b[94m\u001b[100m\u001b[16;72H\u001b[K\u001b[17;1H\u001b[93m 73 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m#header = From: Your Name \u003cusername@site.domain\u003e\u001b[m\u001b[94m\u001b[100m\u001b[40m                                             \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 76 \u001b[m\u001b[94m\u001b[100m\u001b[92m# is *not* sent by default.\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m4\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m3\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.192663,
+      "\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 73 \u001b[m\u001b[94m\u001b[100m\u001b[92m#header = From: Your Name \u003cusername@site.domain\u003e\u001b[m\u001b[94m\u001b[100m\u001b[16;53H\u001b[K\u001b[17;1H\u001b[93m 74 \u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                                             \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 77 \u001b[m\u001b[94m\u001b[100m\u001b[92m#header = Accept-Language: en\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m5\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m4\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 74 \u001b[m\u001b[94m\u001b[100m\u001b[16;5H\u001b[K\u001b[17;1H\u001b[93m 75 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# You can set up other headers, like Accept-Language.  Accept-Language\u001b[m\u001b[94m\u001b[100m\u001b[40m                       \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 78 \u001b[m\u001b[94m\u001b[100m\u001b[21;93H\u001b[30m\u001b[104m5\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000043,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[22;87H~@k\u001b[17;5H"
+    ],
+    [
+      0.003930,
+      "\u001b[22;87H   \u001b[17;5H\u001b[1;20r\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 75 \u001b[m\u001b[94m\u001b[100m\u001b[92m# You can set up other headers, like Accept-Language.  Accept-Language\u001b[m\u001b[94m\u001b[100m\u001b[16;75H\u001b[K\u001b[17;1H\u001b[93m 76 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# is *not* sent by default.\u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                  \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 79 \u001b[m\u001b[94m\u001b[100m\u001b[92m# You can set the default proxies for Wget to use for http, https, and ftp.\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m6\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m6\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.008909,
+      "\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 76 \u001b[m\u001b[94m\u001b[100m\u001b[92m# is *not* sent by default.\u001b[m\u001b[94m\u001b[100m\u001b[16;32H\u001b[K\u001b[17;1H\u001b[93m 77 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m#header = Accept-Language: en\u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 80 \u001b[m\u001b[94m\u001b[100m\u001b[92m# They will override the value in the environment.\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m7\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m7\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 77 \u001b[m\u001b[94m\u001b[100m\u001b[92m#header = Accept-Language: en\u001b[m\u001b[94m\u001b[100m\u001b[16;34H\u001b[K\u001b[17;1H\u001b[93m 78 \u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                                             \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 81 \u001b[m\u001b[94m\u001b[100m\u001b[92m#https_proxy = http://proxy.yoyodyne.com:18023/\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m8\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m8\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[22;87H~@k\u001b[17;5H"
+    ],
+    [
+      0.004187,
+      "\u001b[22;87H   \u001b[17;5H\u001b[1;20r\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 78 \u001b[m\u001b[94m\u001b[100m\u001b[16;5H\u001b[K\u001b[17;1H\u001b[93m 79 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# You can set the default proxies for Wget to use for http, https, and ftp.\u001b[m\u001b[94m\u001b[100m\u001b[40m                  \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 82 \u001b[m\u001b[94m\u001b[100m\u001b[92m#http_proxy = http://proxy.yoyodyne.com:18023/\u001b[m\u001b[94m\u001b[100m\u001b[21;93H\u001b[30m\u001b[104m9\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.005651,
+      "\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 79 \u001b[m\u001b[94m\u001b[100m\u001b[92m# You can set the default proxies for Wget to use for http, https, and ftp.\u001b[m\u001b[94m\u001b[100m\u001b[16;80H\u001b[K\u001b[17;1H\u001b[93m 80 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# They will override the value in the environment.\u001b[m\u001b[94m\u001b[100m\u001b[40m                                           \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 83 \u001b[m\u001b[94m\u001b[100m\u001b[92m#ftp_proxy = http://proxy.yoyodyne.com:18023/\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m9\u001b[m\u001b[94m\u001b[100m\u001b[4C\u001b[30m\u001b[104m80\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 80 \u001b[m\u001b[94m\u001b[100m\u001b[92m# They will override the value in the environment.\u001b[m\u001b[94m\u001b[100m\u001b[16;55H\u001b[K\u001b[17;1H\u001b[93m 81 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m#https_proxy = http://proxy.yoyodyne.com:18023/\u001b[m\u001b[94m\u001b[100m\u001b[40m                                              \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 84 \u001b[m\u001b[94m\u001b[100m\u001b[21;86H\u001b[96m\u001b[102m60\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m1\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[22;87H~@k\u001b[17;5H"
+    ],
+    [
+      0.003820,
+      "\u001b[22;87H   \u001b[17;5H\u001b[1;20r\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 81 \u001b[m\u001b[94m\u001b[100m\u001b[92m#https_proxy = http://proxy.yoyodyne.com:18023/\u001b[m\u001b[94m\u001b[100m\u001b[16;52H\u001b[K\u001b[17;1H\u001b[93m 82 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m#http_proxy = http://proxy.yoyodyne.com:18023/\u001b[m\u001b[94m\u001b[100m\u001b[40m                                               \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 85 \u001b[m\u001b[94m\u001b[100m\u001b[92m# If you do not want to use proxy at all, set this to off.\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m1\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m2\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.006875,
+      "\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 82 \u001b[m\u001b[94m\u001b[100m\u001b[92m#http_proxy = http://proxy.yoyodyne.com:18023/\u001b[m\u001b[94m\u001b[100m\u001b[16;51H\u001b[K\u001b[17;1H\u001b[93m 83 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m#ftp_proxy = http://proxy.yoyodyne.com:18023/\u001b[m\u001b[94m\u001b[100m\u001b[40m                                                \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 86 \u001b[m\u001b[94m\u001b[100m\u001b[92m#use_proxy = on\u001b[m\u001b[94m\u001b[100m\u001b[21;93H\u001b[30m\u001b[104m3\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 83 \u001b[m\u001b[94m\u001b[100m\u001b[92m#ftp_proxy = http://proxy.yoyodyne.com:18023/\u001b[m\u001b[94m\u001b[100m\u001b[16;50H\u001b[K\u001b[17;1H\u001b[93m 84 \u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                                             \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 87 \u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m2\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m4\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.007760,
+      "\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 84 \u001b[m\u001b[94m\u001b[100m\u001b[16;5H\u001b[K\u001b[17;1H\u001b[93m 85 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# If you do not want to use proxy at all, set this to off.\u001b[m\u001b[94m\u001b[100m\u001b[40m                                   \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 88 \u001b[m\u001b[94m\u001b[100m\u001b[92m# You can customize the retrieval outlook.  Valid options are default,\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m3\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m5\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 85 \u001b[m\u001b[94m\u001b[100m\u001b[92m# If you do not want to use proxy at all, set this to off.\u001b[m\u001b[94m\u001b[100m\u001b[16;63H\u001b[K\u001b[17;1H\u001b[93m 86 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m#use_proxy = on\u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                              \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 89 \u001b[m\u001b[94m\u001b[100m\u001b[92m# binary, mega and micro.\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m4\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m6\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 86 \u001b[m\u001b[94m\u001b[100m\u001b[92m#use_proxy = on\u001b[m\u001b[94m\u001b[100m\u001b[16;20H\u001b[K\u001b[17;1H\u001b[93m 87 \u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                                             \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 90 \u001b[m\u001b[94m\u001b[100m\u001b[92m#dot_style = default\u001b[m\u001b[94m\u001b[100m\u001b[21;93H\u001b[30m\u001b[104m7\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002011,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[22;87H~@k\u001b[17;5H"
+    ],
+    [
+      0.000554,
+      "\u001b[22;87H   \u001b[17;5H\u001b[1;20r\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 87 \u001b[m\u001b[94m\u001b[100m\u001b[16;5H\u001b[K\u001b[17;1H\u001b[93m 88 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# You can customize the retrieval outlook.  Valid options are default,\u001b[m\u001b[94m\u001b[100m\u001b[40m                       \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 91 \u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m5\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m8\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.012601,
+      "\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 88 \u001b[m\u001b[94m\u001b[100m\u001b[92m# You can customize the retrieval outlook.  Valid options are default,\u001b[m\u001b[94m\u001b[100m\u001b[16;75H\u001b[K\u001b[17;1H\u001b[93m 89 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# binary, mega and micro.\u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                    \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 92 \u001b[m\u001b[94m\u001b[100m\u001b[92m# Setting this to off makes Wget not download /robots.txt.  Be sure to\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m6\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m9\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 89 \u001b[m\u001b[94m\u001b[100m\u001b[92m# binary, mega and micro.\u001b[m\u001b[94m\u001b[100m\u001b[16;30H\u001b[K\u001b[17;1H\u001b[93m 90 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m#dot_style = default\u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                         \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 93 \u001b[m\u001b[94m\u001b[100m\u001b[92m# know *exactly* what /robots.txt is and how it is used before changing\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m7\u001b[m\u001b[94m\u001b[100m\u001b[4C\u001b[30m\u001b[104m90\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[22;87H~@k\u001b[17;5H"
+    ],
+    [
+      0.004214,
+      "\u001b[22;87H   \u001b[17;5H\u001b[1;20r\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 90 \u001b[m\u001b[94m\u001b[100m\u001b[92m#dot_style = default\u001b[m\u001b[94m\u001b[100m\u001b[16;25H\u001b[K\u001b[17;1H\u001b[93m 91 \u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                                             \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 94 \u001b[m\u001b[94m\u001b[100m\u001b[92m# the default!\u001b[m\u001b[94m\u001b[100m\u001b[21;93H\u001b[30m\u001b[104m1\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.005273,
+      "\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 91 \u001b[m\u001b[94m\u001b[100m\u001b[16;5H\u001b[K\u001b[17;1H\u001b[93m 92 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# Setting this to off makes Wget not download /robots.txt.  Be sure to\u001b[m\u001b[94m\u001b[100m\u001b[40m                       \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 95 \u001b[m\u001b[94m\u001b[100m\u001b[92m#robots = on\u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m8\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m2\u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;20r\u001b[m\u001b[94m\u001b[100m\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 92 \u001b[m\u001b[94m\u001b[100m\u001b[92m# Setting this to off makes Wget not download /robots.txt.  Be sure to\u001b[m\u001b[94m\u001b[100m\u001b[16;75H\u001b[K\u001b[17;1H\u001b[93m 93 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# know *exactly* what /robots.txt is and how it is used before changing\u001b[m\u001b[94m\u001b[100m\u001b[40m                      \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 96 \u001b[m\u001b[94m\u001b[100m\u001b[21;87H\u001b[96m\u001b[102m9\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m3\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000012,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[22;87H~@k\u001b[17;5H"
+    ],
+    [
+      0.002683,
+      "\u001b[22;87H   \u001b[17;5H\u001b[1;20r\u001b[20;1H\r\n\u001b[1;22r\u001b[16;1H\u001b[92m\u001b[40m 93 \u001b[m\u001b[94m\u001b[100m\u001b[92m# know *exactly* what /robots.txt is and how it is used before changing\u001b[m\u001b[94m\u001b[100m\u001b[16;76H\u001b[K\u001b[17;1H\u001b[93m 94 \u001b[m\u001b[94m\u001b[100m\u001b[92m\u001b[40m# the default!\u001b[m\u001b[94m\u001b[100m\u001b[40m                                                                               \u001b[m\u001b[94m\u001b[100m\u001b[20;1H\u001b[92m\u001b[40m 97 \u001b[m\u001b[94m\u001b[100m\u001b[92m# It can be useful to make Wget wait between connections.  Set this to\u001b[m\u001b[94m\u001b[100m\u001b[21;86H\u001b[96m\u001b[102m70\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[30m\u001b[104m4\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.762909,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[22;87H:\u001b[17;5H"
+    ],
+    [
+      0.000050,
+      "\u001b[22;87H\u001b[K\u001b[22;1H:"
+    ],
+    [
+      0.000051,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.199646,
+      "q"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.184007,
+      "\r"
+    ],
+    [
+      0.005501,
+      "\u001b[?25l"
+    ],
+    [
+      0.000066,
+      "\u001b[22;1H\u001b[K\u001b[22;1H\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000026,
+      "\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.002885,
+      "\u001b[46m\u001b[37m⏎\u001b[00m                                                                                                \r \r"
+    ],
+    [
+      0.004426,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[35m grisa \u001b[33m➜ \u001b[00m"
+    ],
+    [
+      0.000052,
+      "\u001b[K\u001b[83C \u001b[33m✔\u001b[00m\u001b[34m ~\u001b[00m\u001b[00m\u001b[87D"
+    ],
+    [
+      0.989082,
+      "\r"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ]
+  ]
+}
