@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "width": 144,
+  "height": 41,
+  "duration": 25.258503,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.627880,
+      "\u001b]0;m008@masthaka-lt2: ~/software/install/nuodb-2.2.0.9.linux.x86_64/etc\u0007m008@masthaka-lt2:~/software/install/nuodb-2.2.0.9.linux.x86_64/etc$ "
+    ],
+    [
+      10.816194,
+      "h"
+    ],
+    [
+      0.222925,
+      "e"
+    ],
+    [
+      1.155366,
+      "l"
+    ],
+    [
+      0.154438,
+      "l"
+    ],
+    [
+      0.172552,
+      "o"
+    ],
+    [
+      0.917818,
+      " "
+    ],
+    [
+      2.065295,
+      "w"
+    ],
+    [
+      0.354012,
+      "o"
+    ],
+    [
+      0.543716,
+      "r"
+    ],
+    [
+      0.829408,
+      "l"
+    ],
+    [
+      0.189616,
+      "d"
+    ],
+    [
+      1.157626,
+      "\r\n"
+    ],
+    [
+      0.060313,
+      "bash: /usr/bin/python: Argument list too long\r\n"
+    ],
+    [
+      0.001234,
+      "\u001b]0;m008@masthaka-lt2: ~/software/install/nuodb-2.2.0.9.linux.x86_64/etc\u0007m008@masthaka-lt2:~/software/install/nuodb-2.2.0.9.linux.x86_64/etc$ "
+    ],
+    [
+      5.989716,
+      "exit\r\n"
+    ]
+  ]
+}
