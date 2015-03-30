@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "width": 135,
+  "height": 36,
+  "duration": 3.081116,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.262260,
+      "\u001b]0;nerdsville@localhost:/home/nerdsville/test\u0007"
+    ],
+    [
+      0.000248,
+      "[nerdsville@localhost test]$ "
+    ],
+    [
+      0.033158,
+      "t"
+    ],
+    [
+      0.120099,
+      "e"
+    ],
+    [
+      0.151937,
+      "s"
+    ],
+    [
+      0.127871,
+      "t"
+    ],
+    [
+      0.280014,
+      "\r\n"
+    ],
+    [
+      0.000376,
+      "\u001b]0;nerdsville@localhost:/home/nerdsville/test\u0007"
+    ],
+    [
+      0.000056,
+      "[nerdsville@localhost test]$ "
+    ],
+    [
+      2.104990,
+      "exit\r\n"
+    ]
+  ]
+}
