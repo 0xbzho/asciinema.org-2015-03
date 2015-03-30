@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 9.238413,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.085202,
+      "\u001b]0;grossp@localhost:~\u0007\u001b]7;file://localhost.localdomain/home/grossp\u0007\u001b[?1034h[grossp@~ ]\u003e "
+    ],
+    [
+      6.064280,
+      "\u0007"
+    ],
+    [
+      2.159903,
+      "e"
+    ],
+    [
+      0.247973,
+      "x"
+    ],
+    [
+      0.327884,
+      "i"
+    ],
+    [
+      0.152113,
+      "t"
+    ],
+    [
+      0.200398,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
