@@ -1,0 +1,3030 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 4.966692,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.334547,
+      "\u001b[1m\u001b[38;5;27mcheesy\u001b(B\u001b[m \u001b[1m\u001b[37mat\u001b(B\u001b[m \u001b[1m\u001b[38;5;39mfalcon\u001b(B\u001b[m \u001b[1m\u001b[37min\u001b(B\u001b[m \u001b[1m\u001b[38;5;76m~/Code/ruby/war\u001b(B\u001b[m\r\r\n\u001b(B\u001b[m\u001b[1m$ \u001b(B\u001b[m"
+    ],
+    [
+      0.508963,
+      "r"
+    ],
+    [
+      0.161960,
+      "u"
+    ],
+    [
+      0.080023,
+      "b"
+    ],
+    [
+      0.176236,
+      "y"
+    ],
+    [
+      0.039468,
+      " "
+    ],
+    [
+      0.160382,
+      "w"
+    ],
+    [
+      0.061705,
+      "a"
+    ],
+    [
+      0.080224,
+      "r"
+    ],
+    [
+      0.182049,
+      "."
+    ],
+    [
+      0.275901,
+      "r"
+    ],
+    [
+      0.122308,
+      "b"
+    ],
+    [
+      0.229424,
+      "\r\n"
+    ],
+    [
+      0.065973,
+      "\u001b[0;35;49m\u003e Simulation (#1) at 1:00 PM, day 1\u001b[0m\r\n"
+    ],
+    [
+      0.000123,
+      "\u001b[0;31;49mKai\u001b[0m throws a poison potion at \u001b[0;32;49mMrARM\u001b[0m!"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "\u001b[0;32;49mMrARM\u001b[0m is poisoned!"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000089,
+      "\u001b[0;35;49m\u003e Simulation (#2) at 2:00 PM, day 1\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000081,
+      "\u001b[0;32;49mMrARM\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000138,
+      "\u001b[0;31;49mzhuowei\u001b[0m attacks \u001b[0;32;49mCheesy\u001b[0m!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000164,
+      "\u001b[0;31;49mzhuowei\u001b[0m deals \u001b[0;31;49m1\u001b[0m damage!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000114,
+      "\u001b[0;35;49m\u003e Simulation (#3) at 3:00 PM, day 1\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000110,
+      "\u001b[0;32;49mMrARM\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000132,
+      "\u001b[0;31;49mKai\u001b[0m throws a poison potion at \u001b[0;32;49mByteandahalf\u001b[0m!"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "\u001b[0;32;49mByteandahalf\u001b[0m is poisoned!"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "\u001b[0;35;49m\u003e Simulation (#4) at 4:00 PM, day 1\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mMrARM\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000134,
+      "\u001b[0;31;49mHellPie\u001b[0m attacks \u001b[0;32;49mMrARM\u001b[0m!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000154,
+      "\u001b[0;31;49mHellPie\u001b[0m deals \u001b[0;31;49m7\u001b[0m damage!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000110,
+      "\u001b[0;35;49m\u003e Simulation (#5) at 5:00 PM, day 1\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000222,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000108,
+      "\u001b[0;32;49mMrARM\u001b[0m has lost 4 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000159,
+      "\u001b[0;31;49mCheesy\u001b[0m throws a poison potion at \u001b[0;32;49mzhuowei\u001b[0m!"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000084,
+      "\u001b[0;32;49mzhuowei\u001b[0m is poisoned!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0;35;49m\u003e Simulation (#6) at 6:00 PM, day 1\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "\u001b[0;32;49mzhuowei\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mMrARM\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000126,
+      "\u001b[0;31;49mAlex\u001b[0m attacks \u001b[0;32;49mMrARM\u001b[0m!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000192,
+      "\u001b[0;31;49mAlex\u001b[0m deals \u001b[0;31;49m4\u001b[0m damage!"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000104,
+      "\u001b[0;35;49m\u003e Simulation (#7) at 7:00 PM, day 1\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000077,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mzhuowei\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000069,
+      "\u001b[0;32;49mMrARM\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000140,
+      "\u001b[0;31;49mKai\u001b[0m attacks \u001b[0;32;49mByteandahalf\u001b[0m!\r\n"
+    ],
+    [
+      0.000154,
+      "\u001b[0;31;49mKai\u001b[0m deals \u001b[0;31;49m5\u001b[0m damage!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000108,
+      "\u001b[0;35;49m\u003e Simulation (#8) at 8:00 PM, day 1\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "\u001b[0;32;49mzhuowei\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000108,
+      "\u001b[0;32;49mMrARM\u001b[0m has lost 2 health due to poison!\r\n"
+    ],
+    [
+      0.000127,
+      "\u001b[0;31;49mByteandahalf\u001b[0m throws a poison potion at \u001b[0;32;49mzhuowei\u001b[0m!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000067,
+      "\u001b[0;32;49mzhuowei\u001b[0m is poisoned!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000091,
+      "\u001b[0;35;49m\u003e Simulation (#9) at 9:00 PM, day 1\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "\u001b[0;32;49mzhuowei\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      "\u001b[0;32;49mMrARM\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000125,
+      "\u001b[0;31;49mzhuowei\u001b[0m throws a poison potion at \u001b[0;32;49mCheesy\u001b[0m!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000069,
+      "\u001b[0;32;49mCheesy\u001b[0m is poisoned!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000093,
+      "\u001b[0;35;49m\u003e Simulation (#10) at 10:00 PM, day 1\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0;32;49mzhuowei\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "\u001b[0;32;49mMrARM\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000123,
+      "\u001b[0;31;49mAlex\u001b[0m attacks \u001b[0;32;49mzhuowei\u001b[0m!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000193,
+      "\u001b[0;31;49mAlex\u001b[0m deals \u001b[0;31;49m7\u001b[0m damage!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "\u001b[0;35;49m\u003e Simulation (#11) at 11:00 PM, day 1\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has lost 4 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      "\u001b[0;32;49mzhuowei\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mMrARM\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000129,
+      "\u001b[0;31;49mAlex\u001b[0m throws a poison potion at \u001b[0;32;49mByteandahalf\u001b[0m!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000065,
+      "\u001b[0;32;49mByteandahalf\u001b[0m is poisoned!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000102,
+      "\u001b[0;35;49m\u003e Simulation (#12) at 12:00 PM, day 1\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000062,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mzhuowei\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "\u001b[0;32;49mMrARM\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000128,
+      "\u001b[0;31;49mByteandahalf\u001b[0m attacks \u001b[0;32;49mKai\u001b[0m!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000152,
+      "\u001b[0;31;49mByteandahalf\u001b[0m deals \u001b[0;31;49m7\u001b[0m damage!"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000169,
+      "\u001b[0;35;49m\u003e Simulation (#13) at 1:00 PM, day 2\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "\u001b[0;32;49mCheesy\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000085,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has thankfully lost no health due to poison!\r\n"
+    ],
+    [
+      0.000066,
+      "\u001b[0;32;49mzhuowei\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mMrARM\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000137,
+      "\u001b[0;31;49mCheesy\u001b[0m throws a poison potion at \u001b[0;32;49mzhuowei\u001b[0m!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "\u001b[0;32;49mzhuowei\u001b[0m is poisoned!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000101,
+      "\u001b[0;35;49m\u003e Simulation (#14) at 2:00 PM, day 2\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000067,
+      "\u001b[0;32;49mCheesy\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "\u001b[0;32;49mzhuowei\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "\u001b[0;32;49mMrARM\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000125,
+      "\u001b[0;31;49mzhuowei\u001b[0m throws a poison potion at \u001b[0;32;49mAlex\u001b[0m!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "\u001b[0;32;49mAlex\u001b[0m is poisoned!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000084,
+      "\u001b[0;35;49m\u003e Simulation (#15) at 3:00 PM, day 2\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "\u001b[0;32;49mCheesy\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000081,
+      "\u001b[0;32;49mAlex\u001b[0m has lost 2 health due to poison!\r\n"
+    ],
+    [
+      0.000067,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mzhuowei\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000096,
+      "\u001b[0;32;49mMrARM\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000126,
+      "\u001b[0;31;49mAlex\u001b[0m throws a poison potion at \u001b[0;32;49mHellPie\u001b[0m!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000067,
+      "\u001b[0;32;49mHellPie\u001b[0m is poisoned!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "\u001b[0;35;49m\u003e Simulation (#16) at 4:00 PM, day 2\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 4 health due to poison!"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0;32;49mHellPie\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000069,
+      "\u001b[0;32;49mAlex\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "\u001b[0;32;49mzhuowei\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mMrARM\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000128,
+      "\u001b[0;31;49mAlex\u001b[0m throws a poison potion at \u001b[0;32;49mzhuowei\u001b[0m!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000108,
+      "\u001b[0;32;49mzhuowei\u001b[0m is poisoned!\r\n"
+    ],
+    [
+      0.000176,
+      "\u001b[0;35;49m\u003e Simulation (#17) at 5:00 PM, day 2\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000076,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000110,
+      "\u001b[0;32;49mHellPie\u001b[0m has lost 3 health due to poison!\r\n"
+    ],
+    [
+      0.000091,
+      "\u001b[0;32;49mAlex\u001b[0m has lost 4 health due to poison!\r\n"
+    ],
+    [
+      0.000073,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0;32;49mzhuowei\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000095,
+      "\u001b[0;32;49mMrARM\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000154,
+      "\u001b[0;31;49mAlex\u001b[0m attacks \u001b[0;32;49mzhuowei\u001b[0m!\r\n"
+    ],
+    [
+      0.000143,
+      "\u001b[0;31;49mAlex\u001b[0m deals \u001b[0;31;49m4\u001b[0m damage!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000113,
+      "\u001b[0;35;49m\u003e Simulation (#18) at 6:00 PM, day 2\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000083,
+      "\u001b[0;32;49mHellPie\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.001163,
+      "\u001b[0;32;49mAlex\u001b[0m has lost 2 health due to poison!\r\n\u001b[0;32;49mByteandahalf\u001b[0m has thankfully lost no health due to poison!\r\n\u001b[0;32;49mzhuowei\u001b[0m has lost 3 health due to poison!\r\n\u001b[0;32;49mMrARM\u001b[0m has lost 1 health due to poison!\r\n\u001b[0;31;49mMrARM\u001b[0m throws a poison potion at \u001b[0;32;49mHellPie\u001b[0m!\r\n\u001b[0;32;49mHellPie\u001b[0m is poisoned!\r\n\u001b[0;35;49m\u003e Simulation (#19) at 7:00 PM, day 2\u001b[0m\r\n\u001b[0;32;49mCheesy\u001b[0m has lost 2 health due to poison!\r\n\u001b[0;32;49mHellPie\u001b[0m has lost 3 health due to poison!\r\n\u001b[0;32;49mAlex\u001b[0m has lost 4 health due to poison!\r\n\u001b[0;32;49mByteandahalf\u001b[0m has lost 4 health due to poison!\r\n\u001b[0;32;49mzhuowei\u001b[0m has lost 3 health due to poison!\r\n\u001b[0;32;49mMrARM\u001b[0m has thankfully lost no health due to poison!\r\n"
+    ],
+    [
+      0.000136,
+      "\u001b[0;31;49mKai\u001b[0m throws a poison potion at \u001b[0;32;49mAlex\u001b[0m!\r\n"
+    ],
+    [
+      0.000089,
+      "\u001b[0;32;49mAlex\u001b[0m is poisoned!\r\n"
+    ],
+    [
+      0.000075,
+      "\u001b[0;35;49m\u003e Simulation (#20) at 8:00 PM, day 2\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "\u001b[0;32;49mHellPie\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0;32;49mAlex\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000077,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      "\u001b[0;32;49mzhuowei\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "\u001b[0;32;49mMrARM\u001b[0m has lost 4 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000133,
+      "\u001b[0;31;49mMrARM\u001b[0m attacks \u001b[0;32;49mByteandahalf\u001b[0m!\r\n"
+    ],
+    [
+      0.000166,
+      "\u001b[0;31;49mMrARM\u001b[0m deals \u001b[0;31;49m6\u001b[0m damage!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000139,
+      "\u001b[0;35;49m\u003e Simulation (#21) at 9:00 PM, day 2\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000077,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0;32;49mHellPie\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000076,
+      "\u001b[0;32;49mAlex\u001b[0m has lost 4 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mzhuowei\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000069,
+      "\u001b[0;32;49mMrARM\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000139,
+      "\u001b[0;31;49mzhuowei\u001b[0m attacks \u001b[0;32;49mHellPie\u001b[0m!\r\n"
+    ],
+    [
+      0.000153,
+      "\u001b[0;31;49mzhuowei\u001b[0m deals \u001b[0;31;49m9\u001b[0m damage!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000137,
+      "\u001b[0;35;49m\u003e Simulation (#22) at 10:00 PM, day 2\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 4 health due to poison!"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "\u001b[0;32;49mHellPie\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000081,
+      "\u001b[0;32;49mAlex\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000069,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "\u001b[0;32;49mzhuowei\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000069,
+      "\u001b[0;32;49mMrARM\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000501,
+      "\u001b[0;31;49mKai\u001b[0m throws a poison potion at \u001b[0;32;49mAlex\u001b[0m!\r\n\u001b[0;32;49mAlex\u001b[0m is poisoned!\r\n\u001b[0;35;49m\u003e Simulation (#23) at 11:00 PM, day 2\u001b[0m\r\n\u001b[0;32;49mCheesy\u001b[0m has lost 2 health due to poison!\r\n\u001b[0;32;49mHellPie\u001b[0m has lost 4 health due to poison!\r\n"
+    ],
+    [
+      0.000043,
+      "\u001b[0;32;49mAlex\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000120,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has lost 3 health due to poison!\r\n"
+    ],
+    [
+      0.000033,
+      "\u001b[0;32;49mzhuowei\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000077,
+      "\u001b[0;32;49mMrARM\u001b[0m has lost 4 health due to poison!\r\n"
+    ],
+    [
+      0.000139,
+      "\u001b[0;31;49mzhuowei\u001b[0m throws a poison potion at \u001b[0;32;49mCheesy\u001b[0m!\r\n"
+    ],
+    [
+      0.000615,
+      "\u001b[0;32;49mCheesy\u001b[0m is poisoned!\r\n\u001b[0;35;49m\u003e Simulation (#24) at 12:00 PM, day 2\u001b[0m\r\n\u001b[0;32;49mCheesy\u001b[0m has thankfully lost no health due to poison!\r\n\u001b[0;32;49mHellPie\u001b[0m has lost 1 health due to poison!\r\n\u001b[0;32;49mAlex\u001b[0m has lost 3 health due to poison!\r\n\u001b[0;32;49mByteandahalf\u001b[0m has lost 3 health due to poison!\r\n\u001b[0;32;49mzhuowei\u001b[0m has lost 2 health due to poison!\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[0;32;49mMrARM\u001b[0m has lost 2 health due to poison!\r\n"
+    ],
+    [
+      0.000151,
+      "\u001b[0;31;49mByteandahalf\u001b[0m attacks \u001b[0;32;49mKai\u001b[0m!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000172,
+      "\u001b[0;31;49mByteandahalf\u001b[0m deals \u001b[0;31;49m9\u001b[0m damage!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000114,
+      "\u001b[0;35;49m\u003e Simulation (#25) at 1:00 PM, day 3\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "\u001b[0;32;49mCheesy\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mHellPie\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mAlex\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000110,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has lost 4 health due to poison!"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000069,
+      "\u001b[0;32;49mzhuowei\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0;32;49mMrARM\u001b[0m has lost 4 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000127,
+      "\u001b[0;31;49mMrARM\u001b[0m throws a poison potion at \u001b[0;32;49mKai\u001b[0m!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000069,
+      "\u001b[0;32;49mKai\u001b[0m is poisoned!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000076,
+      "\u001b[0;35;49m\u003e Simulation (#26) at 2:00 PM, day 3\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000069,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0;32;49mHellPie\u001b[0m has lost 4 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000077,
+      "\u001b[0;32;49mAlex\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000077,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0;32;49mzhuowei\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000233,
+      "\u001b[0;32;49mMrARM\u001b[0m has lost 1 health due to poison!\r\n"
+    ],
+    [
+      0.000098,
+      "\u001b[0;32;49mKai\u001b[0m has lost 2 health due to poison!\r\n"
+    ],
+    [
+      0.000146,
+      "\u001b[0;31;49mKai\u001b[0m throws a poison potion at \u001b[0;32;49mMrARM\u001b[0m!"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "\u001b[0;32;49mMrARM\u001b[0m is poisoned!\r\n"
+    ],
+    [
+      0.000075,
+      "\u001b[0;35;49m\u003e Simulation (#27) at 3:00 PM, day 3\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000065,
+      "\u001b[0;32;49mCheesy\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mHellPie\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0;32;49mAlex\u001b[0m has lost 4 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000088,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mzhuowei\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "\u001b[0;32;49mMrARM\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000078,
+      "\u001b[0;32;49mKai\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000159,
+      "\u001b[0;31;49mAlex\u001b[0m throws a poison potion at \u001b[0;32;49mKai\u001b[0m!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "\u001b[0;32;49mKai\u001b[0m is poisoned!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000111,
+      "\u001b[0;35;49m\u003e Simulation (#28) at 4:00 PM, day 3\u001b[0m\r\n"
+    ],
+    [
+      0.000082,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 3 health due to poison!\r\n"
+    ],
+    [
+      0.000067,
+      "\u001b[0;32;49mHellPie\u001b[0m has lost 3 health due to poison!\r\n"
+    ],
+    [
+      0.000068,
+      "\u001b[0;32;49mAlex\u001b[0m has thankfully lost no health due to poison!\r\n"
+    ],
+    [
+      0.000054,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has lost 4 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "\u001b[0;32;49mzhuowei\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      "\u001b[0;32;49mMrARM\u001b[0m has lost 3 health due to poison!\r\n"
+    ],
+    [
+      0.000075,
+      "\u001b[0;32;49mKai\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000155,
+      "\u001b[0;31;49mCheesy\u001b[0m throws a poison potion at \u001b[0;32;49mAlex\u001b[0m!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "\u001b[0;32;49mAlex\u001b[0m is poisoned!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000085,
+      "\u001b[0;35;49m\u003e Simulation (#29) at 5:00 PM, day 3\u001b[0m\r\n"
+    ],
+    [
+      0.000074,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 4 health due to poison!"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      "\u001b[0;32;49mHellPie\u001b[0m has lost 4 health due to poison!"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000107,
+      "\u001b[0;32;49mAlex\u001b[0m has lost 3 health due to poison!\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has lost 4 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000077,
+      "\u001b[0;32;49mzhuowei\u001b[0m has lost 4 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0;32;49mMrARM\u001b[0m has lost 4 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000150,
+      "\u001b[0;32;49mKai\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000132,
+      "\u001b[0;31;49mKai\u001b[0m throws a poison potion at \u001b[0;32;49mCheesy\u001b[0m!\r\n"
+    ],
+    [
+      0.000096,
+      "\u001b[0;32;49mCheesy\u001b[0m is poisoned!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "\u001b[0;35;49m\u003e Simulation (#30) at 6:00 PM, day 3\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0;32;49mCheesy\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000069,
+      "\u001b[0;32;49mHellPie\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "\u001b[0;32;49mAlex\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "\u001b[0;32;49mzhuowei\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mMrARM\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "\u001b[0;32;49mKai\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000125,
+      "\u001b[0;31;49mAlex\u001b[0m attacks \u001b[0;32;49mMrARM\u001b[0m!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000193,
+      "\u001b[0;31;49mAlex\u001b[0m deals \u001b[0;31;49m3\u001b[0m damage!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000114,
+      "\u001b[0;35;49m\u003e Simulation (#31) at 7:00 PM, day 3\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "\u001b[0;32;49mCheesy\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "\u001b[0;32;49mHellPie\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mAlex\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mzhuowei\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "\u001b[0;32;49mMrARM\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mKai\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000135,
+      "\u001b[0;31;49mByteandahalf\u001b[0m attacks \u001b[0;32;49mzhuowei\u001b[0m!\r\n"
+    ],
+    [
+      0.000168,
+      "\u001b[0;31;49mByteandahalf\u001b[0m deals \u001b[0;31;49m9\u001b[0m damage!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000119,
+      "\u001b[0;35;49m\u003e Simulation (#32) at 8:00 PM, day 3\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "\u001b[0;32;49mHellPie\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mAlex\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000069,
+      "\u001b[0;32;49mzhuowei\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "\u001b[0;32;49mMrARM\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0;32;49mKai\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000145,
+      "\u001b[0;31;49mByteandahalf\u001b[0m attacks \u001b[0;32;49mzhuowei\u001b[0m!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000162,
+      "\u001b[0;31;49mByteandahalf\u001b[0m deals \u001b[0;31;49m9\u001b[0m damage!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "\u001b[0;35;49m\u003e Simulation (#33) at 9:00 PM, day 3\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mHellPie\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mAlex\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000087,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "\u001b[0;32;49mzhuowei\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mMrARM\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0;32;49mKai\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000157,
+      "\u001b[0;31;49mzhuowei\u001b[0m throws a poison potion at \u001b[0;32;49mMrARM\u001b[0m!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "\u001b[0;32;49mMrARM\u001b[0m is poisoned!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "\u001b[0;35;49m\u003e Simulation (#34) at 10:00 PM, day 3\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "\u001b[0;32;49mHellPie\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mAlex\u001b[0m has lost 4 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mzhuowei\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      "\u001b[0;32;49mMrARM\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000220,
+      "\u001b[0;32;49mKai\u001b[0m has lost 3 health due to poison!\r\n"
+    ],
+    [
+      0.000169,
+      "\u001b[0;31;49mCheesy\u001b[0m attacks \u001b[0;32;49mKai\u001b[0m!\r\n"
+    ],
+    [
+      0.000193,
+      "\u001b[0;31;49mCheesy\u001b[0m deals \u001b[0;31;49m3\u001b[0m damage!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000108,
+      "\u001b[0;35;49m\u003e Simulation (#35) at 11:00 PM, day 3\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.001421,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 2 health due to poison!\r\n\u001b[0;32;49mHellPie\u001b[0m has thankfully lost no health due to poison!\r\n\u001b[0;32;49mAlex\u001b[0m has lost 2 health due to poison!\r\n\u001b[0;32;49mByteandahalf\u001b[0m has thankfully lost no health due to poison!\r\n\u001b[0;32;49mzhuowei\u001b[0m has lost 3 health due to poison!\r\n\u001b[0;32;49mMrARM\u001b[0m has lost 3 health due to poison!\r\n\u001b[0;32;49mKai\u001b[0m has lost 4 health due to poison!\r\n\u001b[0;31;49mHellPie\u001b[0m attacks \u001b[0;32;49mAlex\u001b[0m!\r\n\u001b[0;31;49mHellPie\u001b[0m deals \u001b[0;31;49m3\u001b[0m damage!\r\n\u001b[0;35;49m\u003e Simulation (#36) at 12:00 PM, day 3\u001b[0m\r\n\u001b[0;32;49mCheesy\u001b[0m has thankfully lost no health due to poison!\r\n\u001b[0;32;49mHellPie\u001b[0m has lost 3 health due to poison!\r\n\u001b[0;32;49mAlex\u001b[0m has lost 4 health due to poison!\r\n\u001b[0;32;49mByteandahalf\u001b[0m has thankfully lost no health due to poison!\r\n\u001b[0;32;49mzhuowei\u001b[0m has lost 2 health due to poison!\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0;32;49mMrARM\u001b[0m has lost 3 health due to poison!\r\n"
+    ],
+    [
+      0.000356,
+      "\u001b[0;32;49mKai\u001b[0m has lost 2 health due to poison!\r\n\u001b[0;31;49mHellPie\u001b[0m throws a poison potion at \u001b[0;32;49mKai\u001b[0m!\r\n\u001b[0;32;49mKai\u001b[0m is poisoned!\r\n"
+    ],
+    [
+      0.000959,
+      "\u001b[0;35;49m\u003e Simulation (#37) at 1:00 PM, day 4\u001b[0m\r\n\u001b[0;32;49mCheesy\u001b[0m has lost 2 health due to poison!\r\n\u001b[0;32;49mHellPie\u001b[0m has thankfully lost no health due to poison!\r\n\u001b[0;32;49mAlex\u001b[0m has thankfully lost no health due to poison!\r\n\u001b[0;32;49mByteandahalf\u001b[0m has lost 2 health due to poison!\r\n\u001b[0;32;49mzhuowei\u001b[0m has lost 4 health due to poison!\r\n\u001b[0;32;49mMrARM\u001b[0m has lost 1 health due to poison!\r\n\u001b[0;32;49mKai\u001b[0m has lost 4 health due to poison!\r\n\u001b[0;31;49mHellPie\u001b[0m attacks \u001b[0;32;49mCheesy\u001b[0m!\r\n\u001b[0;31;49mHellPie\u001b[0m deals \u001b[0;31;49m7\u001b[0m damage!\r\n"
+    ],
+    [
+      0.000067,
+      "\u001b[0;35;49m\u003e Simulation (#38) at 2:00 PM, day 4\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "\u001b[0;32;49mHellPie\u001b[0m has lost 4 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mAlex\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000093,
+      "\u001b[0;32;49mzhuowei\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mMrARM\u001b[0m has lost 4 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000069,
+      "\u001b[0;32;49mKai\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000131,
+      "\u001b[0;31;49mKai\u001b[0m throws a poison potion at \u001b[0;32;49mMrARM\u001b[0m!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "\u001b[0;32;49mMrARM\u001b[0m is poisoned!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "\u001b[0;35;49m\u003e Simulation (#39) at 3:00 PM, day 4\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      "\u001b[0;32;49mHellPie\u001b[0m has lost 4 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mAlex\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000085,
+      "\u001b[0;32;49mzhuowei\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      "\u001b[0;32;49mMrARM\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0;32;49mKai\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000127,
+      "\u001b[0;31;49mAlex\u001b[0m attacks \u001b[0;32;49mCheesy\u001b[0m!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000155,
+      "\u001b[0;31;49mAlex\u001b[0m deals \u001b[0;31;49m6\u001b[0m damage!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000117,
+      "\u001b[0;35;49m\u003e Simulation (#40) at 4:00 PM, day 4\u001b[0m\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "\u001b[0;32;49mHellPie\u001b[0m has lost 4 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "\u001b[0;32;49mAlex\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000077,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mzhuowei\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0;32;49mMrARM\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "\u001b[0;32;49mKai\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000133,
+      "\u001b[0;31;49mByteandahalf\u001b[0m throws a poison potion at \u001b[0;32;49mAlex\u001b[0m!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0;32;49mAlex\u001b[0m is poisoned!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0;35;49m\u003e Simulation (#41) at 5:00 PM, day 4\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000091,
+      "\u001b[0;32;49mHellPie\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "\u001b[0;32;49mAlex\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has lost 4 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0;32;49mzhuowei\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "\u001b[0;32;49mMrARM\u001b[0m has lost 4 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mKai\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000152,
+      "\u001b[0;31;49mMrARM\u001b[0m attacks \u001b[0;32;49mByteandahalf\u001b[0m!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000197,
+      "\u001b[0;31;49mMrARM\u001b[0m deals \u001b[0;31;49m7\u001b[0m damage!"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000095,
+      "\u001b[0;35;49m\u003e Simulation (#42) at 6:00 PM, day 4\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000077,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "\u001b[0;32;49mHellPie\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000067,
+      "\u001b[0;32;49mAlex\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.001232,
+      "\u001b[0;32;49mzhuowei\u001b[0m has lost 1 health due to poison!\r\n\u001b[0;32;49mMrARM\u001b[0m has lost 1 health due to poison!\r\n\u001b[1;31;49mMrARM has fallen!\u001b[0m\r\n\u001b[0;31;49mHellPie\u001b[0m attacks \u001b[0;32;49mAlex\u001b[0m!\r\n\u001b[0;31;49mHellPie\u001b[0m deals \u001b[0;31;49m6\u001b[0m damage!\r\n\u001b[0;35;49m\u003e Simulation (#43) at 7:00 PM, day 4\u001b[0m\r\n\u001b[0;32;49mCheesy\u001b[0m has lost 3 health due to poison!\r\n\u001b[0;32;49mHellPie\u001b[0m has thankfully lost no health due to poison!\r\n\u001b[0;32;49mAlex\u001b[0m has lost 3 health due to poison!\r\n\u001b[0;32;49mByteandahalf\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000053,
+      "\u001b[0;32;49mzhuowei\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      "\u001b[0;32;49mKai\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000178,
+      "\u001b[0;31;49mByteandahalf\u001b[0m throws a poison potion at \u001b[0;32;49mzhuowei\u001b[0m!\r\n"
+    ],
+    [
+      0.000100,
+      "\u001b[0;32;49mzhuowei\u001b[0m is poisoned!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000077,
+      "\u001b[0;35;49m\u003e Simulation (#44) at 8:00 PM, day 4\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000154,
+      "\u001b[0;32;49mCheesy\u001b[0m has thankfully lost no health due to poison!\r\n\u001b[0;32;49mHellPie\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0;32;49mAlex\u001b[0m has lost 1 health due to poison!\r\n"
+    ],
+    [
+      0.000101,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has lost 4 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0;32;49mzhuowei\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "\u001b[1;31;49mzhuowei has fallen!\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000139,
+      "\u001b[0;31;49mByteandahalf\u001b[0m throws a poison potion at \u001b[0;32;49mAlex\u001b[0m!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "\u001b[0;32;49mAlex\u001b[0m is poisoned!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000078,
+      "\u001b[0;35;49m\u003e Simulation (#45) at 9:00 PM, day 4\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000077,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "\u001b[0;32;49mHellPie\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "\u001b[0;32;49mAlex\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000078,
+      "\u001b[0;32;49mKai\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000177,
+      "\u001b[0;31;49mKai\u001b[0m throws a poison potion at \u001b[0;32;49mAlex\u001b[0m!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "\u001b[0;32;49mAlex\u001b[0m is poisoned!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000084,
+      "\u001b[0;35;49m\u003e Simulation (#46) at 10:00 PM, day 4\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0;32;49mHellPie\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "\u001b[0;32;49mAlex\u001b[0m has thankfully lost no health due to poison!\r\n"
+    ],
+    [
+      0.000083,
+      "\u001b[0;32;49mByteandahalf\u001b[0m has lost 2 health due to poison!\r\n"
+    ],
+    [
+      0.000086,
+      "\u001b[1;31;49mByteandahalf has fallen!\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000133,
+      "\u001b[0;31;49mKai\u001b[0m throws a poison potion at \u001b[0;32;49mAlex\u001b[0m!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mAlex\u001b[0m is poisoned!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000076,
+      "\u001b[0;35;49m\u003e Simulation (#47) at 11:00 PM, day 4\u001b[0m\r\n"
+    ],
+    [
+      0.000078,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000104,
+      "\u001b[0;32;49mHellPie\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0;32;49mAlex\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "\u001b[0;32;49mKai\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000127,
+      "\u001b[0;31;49mAlex\u001b[0m attacks \u001b[0;32;49mCheesy\u001b[0m!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000168,
+      "\u001b[0;31;49mAlex\u001b[0m deals \u001b[0;31;49m1\u001b[0m damage!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000135,
+      "\u001b[0;35;49m\u003e Simulation (#48) at 12:00 PM, day 4\u001b[0m\r\n"
+    ],
+    [
+      0.000075,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 4 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000076,
+      "\u001b[0;32;49mHellPie\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000422,
+      "\r\n\u001b[0;32;49mAlex\u001b[0m has lost 4 health due to poison!\r\n\u001b[0;32;49mKai\u001b[0m has lost 2 health due to poison!\r\n\u001b[0;31;49mHellPie\u001b[0m throws a poison potion at \u001b[0;32;49mKai\u001b[0m!\r\n\u001b[0;32;49mKai\u001b[0m is poisoned!\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0;35;49m\u003e Simulation (#49) at 1:00 PM, day 5\u001b[0m\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000089,
+      "\u001b[0;32;49mHellPie\u001b[0m has lost 4 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0;32;49mAlex\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "\u001b[0;32;49mKai\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000149,
+      "\u001b[0;31;49mHellPie\u001b[0m throws a poison potion at \u001b[0;32;49mAlex\u001b[0m!\r\n"
+    ],
+    [
+      0.000055,
+      "\u001b[0;32;49mAlex\u001b[0m is poisoned!"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "\u001b[0;35;49m\u003e Simulation (#50) at 2:00 PM, day 5\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000065,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "\u001b[0;32;49mHellPie\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000069,
+      "\u001b[0;32;49mAlex\u001b[0m has lost 4 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mKai\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000145,
+      "\u001b[0;31;49mHellPie\u001b[0m throws a poison potion at \u001b[0;32;49mKai\u001b[0m!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "\u001b[0;32;49mKai\u001b[0m is poisoned!"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "\u001b[0;35;49m\u003e Simulation (#51) at 3:00 PM, day 5\u001b[0m\r\n"
+    ],
+    [
+      0.000075,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 1 health due to poison!\r\n"
+    ],
+    [
+      0.000074,
+      "\u001b[0;32;49mHellPie\u001b[0m has lost 4 health due to poison!\r\n"
+    ],
+    [
+      0.000073,
+      "\u001b[0;32;49mAlex\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mKai\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000121,
+      "\u001b[0;31;49mHellPie\u001b[0m throws a poison potion at \u001b[0;32;49mCheesy\u001b[0m!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "\u001b[0;32;49mCheesy\u001b[0m is poisoned!"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "\u001b[0;35;49m\u003e Simulation (#52) at 4:00 PM, day 5\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000089,
+      "\u001b[0;32;49mCheesy\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      "\u001b[0;32;49mHellPie\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[0;32;49mAlex\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000088,
+      "\u001b[0;32;49mKai\u001b[0m has lost 2 health due to poison!\r\n"
+    ],
+    [
+      0.000118,
+      "\u001b[0;31;49mHellPie\u001b[0m attacks \u001b[0;32;49mAlex\u001b[0m!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000205,
+      "\u001b[0;31;49mHellPie\u001b[0m deals \u001b[0;31;49m0\u001b[0m damage!\r\n"
+    ],
+    [
+      0.000074,
+      "\u001b[0;35;49m\u003e Simulation (#53) at 5:00 PM, day 5\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000215,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "\u001b[0;32;49mHellPie\u001b[0m has lost 4 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000089,
+      "\u001b[0;32;49mAlex\u001b[0m has lost 4 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000113,
+      "\u001b[0;32;49mKai\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000129,
+      "\u001b[0;31;49mAlex\u001b[0m throws a poison potion at \u001b[0;32;49mHellPie\u001b[0m!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "\u001b[0;32;49mHellPie\u001b[0m is poisoned!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      "\u001b[0;35;49m\u003e Simulation (#54) at 6:00 PM, day 5\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "\u001b[0;32;49mHellPie\u001b[0m has thankfully lost no health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "\u001b[0;32;49mAlex\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000124,
+      "\u001b[1;31;49mAlex has fallen!\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000123,
+      "\u001b[0;31;49mKai\u001b[0m attacks \u001b[0;32;49mHellPie\u001b[0m!"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000159,
+      "\u001b[0;31;49mKai\u001b[0m deals \u001b[0;31;49m4\u001b[0m damage!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000110,
+      "\u001b[0;35;49m\u003e Simulation (#55) at 7:00 PM, day 5\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "\u001b[0;32;49mHellPie\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "\u001b[1;31;49mHellPie has fallen!\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000127,
+      "\u001b[0;31;49mKai\u001b[0m throws a poison potion at \u001b[0;32;49mCheesy\u001b[0m!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000078,
+      "\u001b[0;32;49mCheesy\u001b[0m is poisoned!"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000082,
+      "\u001b[0;35;49m\u003e Simulation (#56) at 8:00 PM, day 5\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "\u001b[0;32;49mKai\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000131,
+      "\u001b[0;31;49mCheesy\u001b[0m attacks \u001b[0;32;49mKai\u001b[0m!\r\n"
+    ],
+    [
+      0.000158,
+      "\u001b[0;31;49mCheesy\u001b[0m deals \u001b[0;31;49m4\u001b[0m damage!\r\n"
+    ],
+    [
+      0.000120,
+      "\u001b[0;35;49m\u003e Simulation (#57) at 9:00 PM, day 5\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000067,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 3 health due to poison!"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "\u001b[0;32;49mKai\u001b[0m has lost 1 health due to poison!"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000124,
+      "\u001b[0;31;49mCheesy\u001b[0m attacks \u001b[0;32;49mKai\u001b[0m!"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000154,
+      "\u001b[0;31;49mCheesy\u001b[0m deals \u001b[0;31;49m4\u001b[0m damage!\r\n"
+    ],
+    [
+      0.000102,
+      "\u001b[0;35;49m\u003e Simulation (#58) at 10:00 PM, day 5\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "\u001b[0;32;49mCheesy\u001b[0m has lost 2 health due to poison!"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000091,
+      "\u001b[1;31;49mCheesy has fallen!\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "\u001b[1;32;49mKai is the last one standing!\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.006981,
+      "\u001b[1m\u001b[38;5;27mcheesy\u001b(B\u001b[m \u001b[1m\u001b[37mat\u001b(B\u001b[m \u001b[1m\u001b[38;5;39mfalcon\u001b(B\u001b[m \u001b[1m\u001b[37min\u001b(B\u001b[m \u001b[1m\u001b[38;5;76m~/Code/ruby/war\u001b(B\u001b[m\r\r\n\u001b(B\u001b[m\u001b[1m$ \u001b(B\u001b[m"
+    ],
+    [
+      2.436040,
+      "exit\r\n"
+    ]
+  ]
+}
