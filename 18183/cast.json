@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "width": 144,
+  "height": 41,
+  "duration": 149.333380,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.621844,
+      "\u001b]0;m008@masthaka-lt2: ~/software/install/nuodb-2.2.0.9.linux.x86_64/etc\u0007m008@masthaka-lt2:~/software/install/nuodb-2.2.0.9.linux.x86_64/etc$ "
+    ],
+    [
+      9.437463,
+      "c"
+    ],
+    [
+      0.450282,
+      "l"
+    ],
+    [
+      0.432515,
+      "e"
+    ],
+    [
+      0.277017,
+      "a"
+    ],
+    [
+      0.334129,
+      "r"
+    ],
+    [
+      1.004527,
+      "\r\n"
+    ],
+    [
+      0.020140,
+      "bash: /usr/bin/clear: Argument list too long\r\n"
+    ],
+    [
+      0.000840,
+      "\u001b]0;m008@masthaka-lt2: ~/software/install/nuodb-2.2.0.9.linux.x86_64/etc\u0007m008@masthaka-lt2:~/software/install/nuodb-2.2.0.9.linux.x86_64/etc$ "
+    ],
+    [
+      1.439437,
+      "\r\u001b[K\u001b]0;m008@masthaka-lt2: ~/software/install/nuodb-2.2.0.9.linux.x86_64/etc\u0007m008@masthaka-lt2:~/software/install/nuodb-2.2.0.9.linux.x86_64/etc$ "
+    ],
+    [
+      0.014397,
+      "\r\u001b[K\u001b]0;m008@masthaka-lt2: ~/software/install/nuodb-2.2.0.9.linux.x86_64/etc\u0007m008@masthaka-lt2:~/software/install/nuodb-2.2.0.9.linux.x86_64/etc$ "
+    ],
+    [
+      0.792024,
+      "c"
+    ],
+    [
+      0.459563,
+      "l"
+    ],
+    [
+      0.452361,
+      "e"
+    ],
+    [
+      0.273056,
+      "a"
+    ],
+    [
+      0.358519,
+      "r"
+    ],
+    [
+      0.846316,
+      "\r\n"
+    ],
+    [
+      0.001312,
+      "bash: /usr/bin/clear: Argument list too long\r\n"
+    ],
+    [
+      0.001655,
+      "\u001b]0;m008@masthaka-lt2: ~/software/install/nuodb-2.2.0.9.linux.x86_64/etc\u0007m008@masthaka-lt2:~/software/install/nuodb-2.2.0.9.linux.x86_64/etc$ "
+    ],
+    [
+      132.115599,
+      "exit\r\n"
+    ]
+  ]
+}
