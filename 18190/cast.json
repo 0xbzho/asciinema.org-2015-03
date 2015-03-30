@@ -1,0 +1,306 @@
+{
+  "version": 1,
+  "width": 205,
+  "height": 28,
+  "duration": 17.741573,
+  "command": "/bin/sh",
+  "title": "",
+  "env": {
+    "TERM": "screen",
+    "SHELL": ""
+  },
+  "stdout": [
+    [
+      0.003290,
+      "sh-4.1# "
+    ],
+    [
+      0.711011,
+      "p"
+    ],
+    [
+      0.067998,
+      "h"
+    ],
+    [
+      0.076028,
+      "p"
+    ],
+    [
+      0.206718,
+      " "
+    ],
+    [
+      0.196915,
+      "-"
+    ],
+    [
+      0.173996,
+      "i"
+    ],
+    [
+      0.194999,
+      " "
+    ],
+    [
+      0.282001,
+      "|"
+    ],
+    [
+      0.224000,
+      " "
+    ],
+    [
+      0.048061,
+      "g"
+    ],
+    [
+      0.195003,
+      "r"
+    ],
+    [
+      0.074998,
+      "e"
+    ],
+    [
+      0.047999,
+      "p"
+    ],
+    [
+      0.144996,
+      " "
+    ],
+    [
+      0.092026,
+      "c"
+    ],
+    [
+      0.138990,
+      "u"
+    ],
+    [
+      0.087988,
+      "r"
+    ],
+    [
+      0.104022,
+      "l"
+    ],
+    [
+      0.183000,
+      "\r\n"
+    ],
+    [
+      0.018133,
+      "Configure Command =\u003e  './configure'  '--disable-fileinfo' '--disable-phar' '--enable-bcmath' '--enable-calendar' '--enable-exif' '--enable-ftp' '--enable-gd-native-ttf' '--enable-libxml' '--enable-magic-quotes' '--enable-mbstring' '--enable-pdo=shared' '--enable-safe-mode' '--enable-soap' '--enable-sockets' '--enable-zend-multibyte' '--enable-zip' '--prefix=/usr/local' '--with-apxs2=/usr/local/apache/bin/apxs' '--with-config-file-path=/usr/local/lib' '--with-config-file-scan-dir=/usr/local/lib/php.ini.d' '--with-curl=/opt/curlssl/' '--with-curlwrappers' '--with-freetype-dir=/usr' '--with-gd' '--with-imap=/opt/php_with_imap_client/' '--with-imap-ssl=/usr' '--with-jpeg-dir=/usr' '--with-kerberos' '--with-libdir=lib64' '--with-libexpat-dir=/usr' '--with-libxml-dir=/opt/xml2' '--with-libxml-dir=/opt/xml2/' '--with-mcrypt=/opt/libmcrypt/' '--with-mysql' '--with-mysqli' '--with-openssl=/usr' '--with-openssl-dir=/usr' '--with-pcre-regex=/opt/pcre' '--with-pdo-mysql=shared' '--with-pdo-sqlite=shared' '--with-pic' '--with-png-dir=/usr' '--with-sqlite=shared' '--with-tidy=/opt/tidy/' '--with-xmlrpc' '--with-xpm-dir=/usr' '--with-zlib' '--with-zlib-dir=/usr'\r\n"
+    ],
+    [
+      0.000927,
+      "curl\r\n"
+    ],
+    [
+      0.010949,
+      "sh-4.1# "
+    ],
+    [
+      1.062987,
+      "p"
+    ],
+    [
+      0.081255,
+      "h"
+    ],
+    [
+      0.042996,
+      "p"
+    ],
+    [
+      0.219803,
+      " "
+    ],
+    [
+      0.190925,
+      "-"
+    ],
+    [
+      0.184075,
+      "i"
+    ],
+    [
+      0.194946,
+      " "
+    ],
+    [
+      0.280047,
+      "|"
+    ],
+    [
+      0.235659,
+      " "
+    ],
+    [
+      0.048360,
+      "g"
+    ],
+    [
+      0.189935,
+      "r"
+    ],
+    [
+      0.107980,
+      "e"
+    ],
+    [
+      0.042014,
+      "p"
+    ],
+    [
+      0.119054,
+      " "
+    ],
+    [
+      0.108999,
+      "c"
+    ],
+    [
+      0.100141,
+      "u"
+    ],
+    [
+      0.107734,
+      "r"
+    ],
+    [
+      0.102266,
+      "l"
+    ],
+    [
+      0.413982,
+      "s"
+    ],
+    [
+      0.127014,
+      "l"
+    ],
+    [
+      0.818046,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.270959,
+      "s"
+    ],
+    [
+      0.167044,
+      "l"
+    ],
+    [
+      0.175957,
+      "\r\n"
+    ],
+    [
+      0.018868,
+      "Configure Command =\u003e  './configure'  '--disable-fileinfo' '--disable-phar' '--enable-bcmath' '--enable-calendar' '--enable-exif' '--enable-ftp' '--enable-gd-native-ttf' '--enable-libxml' '--enable-magic-quotes' '--enable-mbstring' '--enable-pdo=shared' '--enable-safe-mode' '--enable-soap' '--enable-sockets' '--enable-zend-multibyte' '--enable-zip' '--prefix=/usr/local' '--with-apxs2=/usr/local/apache/bin/apxs' '--with-config-file-path=/usr/local/lib' '--with-config-file-scan-dir=/usr/local/lib/php.ini.d' '--with-curl=/opt/curlssl/' '--with-curlwrappers' '--with-freetype-dir=/usr' '--with-gd' '--with-imap=/opt/php_with_imap_client/' '--with-imap-ssl=/usr' '--with-jpeg-dir=/usr' '--with-kerberos' '--with-libdir=lib64' '--with-libexpat-dir=/usr' '--with-libxml-dir=/opt/xml2' '--with-libxml-dir=/opt/xml2/' '--with-mcrypt=/opt/libmcrypt/' '--with-mysql' '--with-mysqli' '--with-openssl=/usr' '--with-openssl-dir=/usr' '--with-pcre-regex=/opt/pcre' '--with-pdo-mysql=shared' '--with-pdo-sqlite=shared' '--with-pic' '--with-png-dir=/usr' '--with-sqlite=shared' '--with-tidy=/opt/tidy/' '--with-xmlrpc' '--with-xpm-dir=/usr' '--with-zlib' '--with-zlib-dir=/usr'\r\n"
+    ],
+    [
+      0.005926,
+      "sh-4.1# "
+    ],
+    [
+      1.982004,
+      "c"
+    ],
+    [
+      0.088998,
+      "s"
+    ],
+    [
+      0.153250,
+      "f"
+    ],
+    [
+      0.090762,
+      " "
+    ],
+    [
+      0.191991,
+      "-"
+    ],
+    [
+      0.170998,
+      "l"
+    ],
+    [
+      0.221006,
+      "\r\n"
+    ],
+    [
+      0.419352,
+      "csf and lfd have been disabled, use 'csf -e' to enable\r\n"
+    ],
+    [
+      0.002702,
+      "sh-4.1# "
+    ],
+    [
+      0.885188,
+      "w"
+    ],
+    [
+      0.176740,
+      "g"
+    ],
+    [
+      0.095013,
+      "e"
+    ],
+    [
+      0.081995,
+      "t"
+    ],
+    [
+      0.202000,
+      " "
+    ],
+    [
+      0.319994,
+      "https://www.whmcs.com/index.php"
+    ],
+    [
+      0.752013,
+      "\r\n--2015-03-30 14:50:06--  https://www.whmcs.com/index.php\r\n"
+    ],
+    [
+      0.010999,
+      "Resolving www.whmcs.com... "
+    ],
+    [
+      0.046006,
+      "104.20.20.8, 104.20.21.8\r\nConnecting to www.whmcs.com|104.20.20.8|:443... "
+    ],
+    [
+      0.006995,
+      "connected.\r\n"
+    ],
+    [
+      0.030253,
+      "HTTP request sent, awaiting response... "
+    ],
+    [
+      0.191761,
+      "200 OK\r\n"
+    ],
+    [
+      0.001916,
+      "Length: unspecified [text/html]\r\nSaving to: “index.php”\r\n\r\n\r    [\u003c=\u003e                                                                                                                                                                 ] 0           --.-K/s              "
+    ],
+    [
+      0.008062,
+      "\r    [ \u003c=\u003e                                                                                                                                                                ] 19,289      --.-K/s   in 0.008s  \r\n\r\n2015-03-30 14:50:06 (2.42 MB/s) - “index.php” saved [19289]\r\n\r\nsh-4.1# "
+    ],
+    [
+      2.910435,
+      "exit\r\n"
+    ]
+  ]
+}
