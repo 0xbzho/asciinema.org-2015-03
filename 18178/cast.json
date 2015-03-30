@@ -1,0 +1,498 @@
+{
+  "version": 1,
+  "width": 238,
+  "height": 61,
+  "duration": 16.985439,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.406504,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                             \r \r"
+    ],
+    [
+      0.000038,
+      "\u001b]2;jesse@ga: ~/ga/addbass/w02\u0007"
+    ],
+    [
+      0.000016,
+      "\u001b]1;..a/addbass/w02\u0007"
+    ],
+    [
+      0.021629,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[Jjesse@ga:\u001b[01;32m\u001b[32m~/ga/addbass/w02\u001b[01;34m \u001b[35mmaster\u001b[34m\u001b[00m\u001b[01;34m\u001b[00m $ \u001b[K"
+    ],
+    [
+      0.000106,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.129704,
+      "l"
+    ],
+    [
+      0.085636,
+      "\u0008ls"
+    ],
+    [
+      0.120049,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000174,
+      "\r\r\n"
+    ],
+    [
+      0.001034,
+      "\u001b]2;ls -alFG\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.005577,
+      "total 8\r\n"
+    ],
+    [
+      0.000242,
+      "drwxr-xr-x  12 jesse  staff   408 Mar 29 22:45 \u001b[1m\u001b[36m.\u001b[39;49m\u001b[0m/\r\n"
+    ],
+    [
+      0.000009,
+      "drwxr-xr-x   9 jesse  staff   306 Mar 27 11:42 \u001b[1m\u001b[36m..\u001b[39;49m\u001b[0m/\r\n"
+    ],
+    [
+      0.000016,
+      "drwxr-xr-x  10 jesse  staff   340 Mar 27 10:31 \u001b[1m\u001b[36md01_object_oriented_programming\u001b[39;49m\u001b[0m/\r\n"
+    ],
+    [
+      0.000017,
+      "drwxr-xr-x   8 jesse  staff   272 Mar 27 10:31 \u001b[1m\u001b[36md02_refactoring\u001b[39;49m\u001b[0m/\r\n"
+    ],
+    [
+      0.000006,
+      "drwxr-xr-x   5 jesse  staff   170 Mar 27 10:31 \u001b[1m\u001b[36md02_tdd\u001b[39;49m\u001b[0m/\r\n"
+    ],
+    [
+      0.000019,
+      "drwxr-xr-x   6 jesse  staff   204 Mar 27 10:31 \u001b[1m\u001b[36md02_warmup\u001b[39;49m\u001b[0m/\r\n"
+    ],
+    [
+      0.000010,
+      "drwxr-xr-x   4 jesse  staff   136 Mar 27 10:31 \u001b[1m\u001b[36md03_erds\u001b[39;49m\u001b[0m/\r\n"
+    ],
+    [
+      0.000013,
+      "drwxr-xr-x   5 jesse  staff   170 Mar 27 10:31 \u001b[1m\u001b[36md03_sql\u001b[39;49m\u001b[0m/\r\n"
+    ],
+    [
+      0.000014,
+      "drwxr-xr-x   5 jesse  staff   170 Mar 29 22:45 \u001b[1m\u001b[36md04_active_record\u001b[39;49m\u001b[0m/\r\n"
+    ],
+    [
+      0.000016,
+      "drwxr-xr-x   3 jesse  staff   102 Mar 27 10:31 \u001b[1m\u001b[36md05_code_retreat\u001b[39;49m\u001b[0m/\r\n"
+    ],
+    [
+      0.000012,
+      "drwxr-xr-x   3 jesse  staff   102 Mar 27 13:37 \u001b[1m\u001b[36md05_terminal_clinic\u001b[39;49m\u001b[0m/\r\n"
+    ],
+    [
+      0.000027,
+      "-rw-r--r--   1 jesse  staff  3640 Mar 29 22:45 readme.md\r\n"
+    ],
+    [
+      0.000519,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                             \r \r"
+    ],
+    [
+      0.000161,
+      "\u001b]2;jesse@ga: ~/ga/addbass/w02\u0007"
+    ],
+    [
+      0.000019,
+      "\u001b]1;..a/addbass/w02\u0007"
+    ],
+    [
+      0.020265,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[Jjesse@ga:\u001b[01;32m\u001b[32m~/ga/addbass/w02\u001b[01;34m \u001b[35mmaster\u001b[34m\u001b[00m\u001b[01;34m\u001b[00m $ "
+    ],
+    [
+      0.000016,
+      "\u001b[K"
+    ],
+    [
+      0.000049,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.947866,
+      "v"
+    ],
+    [
+      0.111736,
+      "\u0008vi"
+    ],
+    [
+      0.088280,
+      "m"
+    ],
+    [
+      0.303633,
+      " "
+    ],
+    [
+      0.152286,
+      "r"
+    ],
+    [
+      0.167889,
+      "e"
+    ],
+    [
+      0.126357,
+      "adme.md\u001b[1m \u001b[0m"
+    ],
+    [
+      0.369624,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000061,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000072,
+      "\r\r\n"
+    ],
+    [
+      0.001097,
+      "\u001b]2;vim readme.md\u0007\u001b]1;vim\u0007"
+    ],
+    [
+      0.064360,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.002021,
+      "\u001b[1;61r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[61;1H\"readme.md\""
+    ],
+    [
+      0.001237,
+      " [noeol] 86L, 3640C"
+    ],
+    [
+      0.002861,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.001218,
+      "\u0007\u001b[1;1H\u001b[33m  1 \u001b[m# One on Ones\r\n\u001b[33m  2 \r\n  3 \u001b[m![](https://dl.dropboxusercontent.com/s/b8mh8rgy4cnyk45/one-on-ones-1.png?dl=0)\r\n\u001b[33m  4 \r\n  5 \u001b[m## Week 2\r\n\u001b[33m  6 \r\n  7 \u001b[m### Object Oriented Programming\r\n\u001b[33m  8 \r\n  9 \u001b[m- Compare and contrast OOP to other programming paradigms\r\n\u001b[33m 10 \u001b[m- Describe abstraction and how it applies to objects\r\n\u001b[33m 11 \u001b[m- Explain the difference between a class and an instance\r\n\u001b[33m 12 \u001b[m- Explain the difference between class and instance methods\r\n\u001b[33m 13 \u001b[m- Explain the advantages of using objects to group qualities and actions\r\n\u001b[33m 14 \u001b[m- Write a class with an initialize method\r\n\u001b[33m 15 \u001b[m- Instantiate and use an object\r\n\u001b[33m 16 \u001b[m- Write getter and setter methods\r\n\u001b[33m 17 \u001b[m- attr_accessor, reader, writer\r\n\u001b[33m 18 \u001b[m- Describe the difference between local variables, instance variables, class variables and global variables\r\n\u001b[33m 19 \u001b[m- Explain variable scope and how it works\r\n\u001b[33m 20 \u001b[m- Use \u001b[31m\"self\"\u001b[m to reference an object instance\r\n\u001b[33m"
+    ],
+    [
+      0.002890,
+      " 21 \u001b[m- Explain the usage of inheritance\r\n\u001b[33m 22 \u001b[m- Write a class that inherits from another class\r\n\u001b[33m 23 \u001b[m- Use \u001b[31m\"super\"\u001b[m to inherit data from a parent class\r\n\u001b[33m 24 \u001b[m- Explain what object-oriented Programming is\r\n\u001b[33m 25 \u001b[m- Explain what encapsulation is\r\n\u001b[33m 26 \u001b[m- Explain the difference between public, private, and protected methods\r\n\u001b[33m 27 \u001b[m- Create multi-file Ruby programs using \u001b[31m'require_relative'\u001b[m\r\n\u001b[33m 28 \r\n 29 \u001b[m### TDD\r\n\u001b[33m 30 \r\n 31 \u001b[m- Explain what TDD means, and possible advantages / disadvantages\r\n\u001b[33m 32 \u001b[m- Explain the concept of TDD and how it relates to \u001b[31m\"Red, Green, Refactor\"\u001b[m\r\n\u001b[33m 33 \u001b[m- Read Rspec tests and write code to make them pass\r\n\u001b[33m 34 \u001b[m- Set up a Ruby program with RSpec\r\n\u001b[33m 35 \u001b[m- Set up and write RSpec tests using\r\n\u001b[33m 36 \u001b[m  - describe\r\n\u001b[33m 37 \u001b[m  - before\r\n\u001b[33m 38 \u001b[m  - let\r\n\u001b[33m 39 \u001b[m  - expect\r\n\u001b[33m 40 \u001b[m  - to and not_to\r\n\u001b[33m 41 \u001b[m  - eq, be\r\n\u001b[33m 42 \u001b[m- Write assert methods that fail\r\n"
+    ],
+    [
+      0.000527,
+      "\u001b[33m 43 \u001b[m- Write code to make existing tests pass\r\n\u001b[33m 44 \r\n 45 \u001b[m### Refactoring\r\n\u001b[33m 46 \r\n 47 \u001b[m- Explain what DRY is, and why it is important\r\n\u001b[33m 48 \u001b[m- Describe what refactoring is and when and why you should do it\r\n\u001b[33m 49 \u001b[m- Explain why coding conventions are important and why we should follow them\r\n\u001b[33m 50 \u001b[m- Describe the naming conventions for variables, methods, classes\r\n\u001b[33m 51 \u001b[m- Explain what code commenting is, why it\u001b[31m's valuable and when to use it\u001b[m\r\n\u001b[33m 52 \u001b[m\u001b[31m- Explain what '\u001b[msyntactic sugar\u001b[31m' means and how it can be useful\u001b[m\r\n\u001b[33m 53 \u001b[m\u001b[31m- Refactor a program with DRY principles\u001b[m\r\n\u001b[33m 54 \u001b[m\u001b[31m- Properly space and indent a program with multiple nested statements\u001b[m\r\n\u001b[33m 55 \u001b[m\u001b[31m- Use the +=, -=, ||=, \u0026method and other '\u001b[msyntactic sugar\u001b[31m' operators\u001b[m\r\n\u001b[33m 56 \u001b[m\u001b[31m- Name methods, classes and variables correctly\u001b[m\r\n\u001b[33m 57 \u001b[m\u001b[31m- Add comments to a program to ease readability and describe meaning\u001b[m\r\n\u001b[33m 58 \r\n 59 \u001b[m\u001b[31m###"
+    ],
+    [
+      0.000035,
+      " Problem/Domain Modeling/ERDs\u001b[m\r\n\u001b[1m\u001b[7mreadme.md                                                                                                                                                                                                                                     \u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.620276,
+      "\u001b[?25l\u001b[m\u001b[61;228H^[\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.575510,
+      "\u001b[?25l\u001b[61;228H  \u001b[1;5H\u0007\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000011,
+      "\u001b[?25l\u001b[61;228HV\u001b[1;5H"
+    ],
+    [
+      0.000048,
+      "\u001b[61;228H1\u001b[1;5H#\u001b[7m One on Ones "
+    ],
+    [
+      0.000036,
+      "\u001b[m\u001b[61;1H\u001b[1m-- VISUAL LINE --\u001b[m\u001b[61;18H\u001b[K"
+    ],
+    [
+      0.000009,
+      "\u001b[61;228H1\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.247802,
+      "\u001b[?25l\u001b[61;228Hgj\u001b[1;5H"
+    ],
+    [
+      0.000249,
+      "\u001b[61;228H2 \u001b[2;5H\u001b[1;5H\u001b[7m#\u001b[2;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.199701,
+      "\u001b[?25l\u001b[m\u001b[61;228Hgj\u001b[2;5H"
+    ],
+    [
+      0.000309,
+      "\u001b[61;228H3 \u001b[3;5H\u001b[2;5H\u001b[7m \u001b[3;6H[](https://dl.dropboxusercontent.com/s/b8mh8rgy4cnyk45/one-on-ones-1.png?dl=0) \u001b[3;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.199669,
+      "\u001b[?25l\u001b[m\u001b[61;228Hgj\u001b[3;5H"
+    ],
+    [
+      0.000260,
+      "\u001b[61;228H4 \u001b[4;5H\u001b[3;5H\u001b[7m!\u001b[4;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.191435,
+      "\u001b[?25l\u001b[m\u001b[61;228Hgj\u001b[4;5H"
+    ],
+    [
+      0.000194,
+      "\u001b[61;228H5 \u001b[5;5H\u001b[4;5H\u001b[7m \u001b[5;6H# Week 2 \u001b[5;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.159884,
+      "\u001b[?25l\u001b[m\u001b[61;228Hgj\u001b[5;5H"
+    ],
+    [
+      0.000151,
+      "\u001b[61;228H6 \u001b[6;5H\u001b[5;5H\u001b[7m#\u001b[6;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.479909,
+      "\u001b[?25l\u001b[m\u001b[61;228Hgj\u001b[6;5H"
+    ],
+    [
+      0.000220,
+      "\u001b[61;228H7 \u001b[7;5H\u001b[6;5H\u001b[7m \u001b[7;6H## Object Oriented Programming \u001b[7;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.239811,
+      "\u001b[?25l\u001b[m\u001b[61;228Hd\u001b[7;5H"
+    ],
+    [
+      0.000187,
+      "\u001b[61;1H7 fewer lines\u001b[1mE\u001b[m\u001b[61;14H\u001b[K"
+    ],
+    [
+      0.000692,
+      "\u001b[1;5H\u001b[1;5H\u001b[K\u001b[2;4H\u001b[33m \u001b[m- Compare and contrast OOP to other programming paradigms\u001b[3;4H\u001b[33m \u001b[m- Describe abstraction and how it applies to objects\u001b[3;57H\u001b[K\u001b[4;4H\u001b[33m \u001b[m- Explain the difference between a class and an instance\u001b[5;4H\u001b[33m \u001b[m- Explain the difference between class and instance methods\u001b[6;4H\u001b[33m \u001b[m- Explain the advantages of using objects to group qualities and actions\u001b[7;4H\u001b[33m \u001b[m- Write a class with an initialize method\u001b[8;4H\u001b[33m \u001b[m- Instantiate and use an object\u001b[9;6H Write getter and setter methods\u001b[9;38H\u001b[K\u001b[10;6H attr_accessor, reader, writer\u001b[10;36H\u001b[K\u001b[11;6H Describe the difference between local variables, instance variables, class variables and global variables\u001b[12;14H variable scope and how it works\u001b[12;46H\u001b[K\u001b[13;6H Use \u001b[31m\"self\"\u001b[m to reference an object instance\u001b[13;50H\u001b[K\u001b[14;6H Explain the usage of inheritanc\u001b[14;40H\u001b[K\u001b[15;6H Write a class that inherits from another class\u001b[16;6H Use \u001b[31m\"super\"\u001b[m to inherit data from a parent class\u001b[17;6H Explain what object-or"
+    ],
+    [
+      0.000035,
+      "iented Programming is\u001b[18;6H Explain what encapsulation is\u001b[18;36H\u001b[K\u001b[19;14H the difference between public, private, and protected methods\u001b[20;6H Create multi-file Ruby programs using \u001b[31m'require_relative'\u001b[m\u001b[21;5H\u001b[K\u001b[22;4H\u001b[33m \u001b[m### TDD\u001b[22;13H\u001b[K\u001b[23;5H\u001b[K\u001b[24;19H TDD means, and possible advantages / disadvantages\u001b[25;14H the concept of TDD and how it relates to \u001b[31m\"Red, Green, Refactor\"\u001b[m\u001b[26;6H Read Rspec tests and write code to make them pass\u001b[26;56H\u001b[K\u001b[27;6H Set up a Ruby program with RSpec\u001b[27;39H\u001b[K\u001b[28;4H\u001b[33m \u001b[m- Set up and write RSpec tests using\u001b[29;4H\u001b[33m \u001b[m  - describe\u001b[30;6H - before\u001b[31;4H\u001b[33m \u001b[m  - let\u001b[31;12H\u001b[K\u001b[32;4H\u001b[33m \u001b[m  - expect\u001b[32;15H\u001b[K\u001b[33;4H\u001b[33m \u001b[m  - to and not_to\u001b[33;22H\u001b[K\u001b[34;4H\u001b[33m \u001b[m  - eq, be\u001b[34;16H\u001b[K\u001b[35;6H Write assert methods that fail\u001b[35;37H\u001b[K\u001b[36;4H\u001b[33m \u001b[m- Write code to make existing tests pass\u001b[37;7H\u001b[K\u001b[38;4H\u001b[33m \u001b[m### Refactoring\u001b[39;7H\u001b[K\u001b[40;4H\u001b[33m \u001b[m- Explain what DRY is, and why it is important\u001b[41;4H\u001b[33m \u001b[m- Describe what re"
+    ],
+    [
+      0.000360,
+      "factoring is and when and why you should do it\u001b[42;6H Explain why coding conventions are important and why we should follow them\u001b[43;6H Describe the naming conventions for variables, methods, classes\u001b[44;4H\u001b[33m \u001b[m- Explain what code commenting is, why it\u001b[31m's valuable and when to use it\u001b[m\u001b[45;4H\u001b[33m \u001b[m\u001b[31m- Explain what '\u001b[msyntactic sugar\u001b[31m' means and how it can be useful\u001b[m\u001b[46;4H\u001b[33m \u001b[m\u001b[31m- Refactor a program with DRY principles\u001b[47;5H- Properly space and indent a program with multiple nested statements\u001b[48;5H- Use the +=, -=, ||=, \u0026method and other '\u001b[msyntactic sugar\u001b[31m' operators\u001b[49;5H- Name methods, classes and variables correctly\u001b[m\u001b[49;52H\u001b[K\u001b[50;5H\u001b[31m- Add comments to a program to ease readability and describe meaning\u001b[m\u001b[51;5H\u001b[K\u001b[52;4H\u001b[33m \u001b[m\u001b[31m### Problem/Domain Modeling/ERDs\u001b[m\u001b[52;37H\u001b[K\u001b[53;5H\u001b[K\u001b[54;6H\u001b[31m Show ability to break down a complex problem:\u001b[m\u001b[54;52H\u001b[K\u001b[55;4H\u001b[33m \u001b[m\u001b[31m  - Model about real-world scenarios as data.\u001b[m\u001b[55;50H\u001b[K\u001b[56;4H\u001b[33m \u001b[m\u001b[31m  - "
+    ],
+    [
+      0.000029,
+      "Identify major roles within a scenario.\u001b[m\u001b[56;48H\u001b[K\u001b[57;4H\u001b[33m \u001b[m\u001b[31m  - Consider how roles interact and communicate.\u001b[m\u001b[57;53H\u001b[K\u001b[58;5H\u001b[31m  - Create a domain model by listing its parts (entities, relationships, attributes and behavior)\u001b[m\u001b[59;4H\u001b[33m \u001b[m\u001b[31m- Draw an ERD using proper notation\u001b[m\u001b[60;11H\u001b[1m\u001b[7m[+]"
+    ],
+    [
+      0.000016,
+      "\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.550831,
+      "\u001b[?25l\u001b[m\u001b[61;228H^[\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.168046,
+      "\u001b[?25l\u001b[61;228H  \u001b[1;5H\u0007\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000012,
+      "\u001b[?25l\u001b[61;228H:\u001b[1;5H"
+    ],
+    [
+      0.000048,
+      "\u001b[61;1H\u001b[K\u001b[61;1H:"
+    ],
+    [
+      0.000062,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.191805,
+      "w"
+    ],
+    [
+      0.231796,
+      "q"
+    ],
+    [
+      0.304171,
+      "\r"
+    ],
+    [
+      0.000129,
+      "\u001b[?25l"
+    ],
+    [
+      0.000090,
+      "\"readme.md\""
+    ],
+    [
+      0.000721,
+      " [noeol] 79L, 3501C written"
+    ],
+    [
+      0.001801,
+      "\r\r\r\n\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.000727,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                             \r \r"
+    ],
+    [
+      0.000086,
+      "\u001b]2;jesse@ga: ~/ga/addbass/w02\u0007"
+    ],
+    [
+      0.000030,
+      "\u001b]1;..a/addbass/w02\u0007"
+    ],
+    [
+      0.021636,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[Jjesse@ga:\u001b[01;32m\u001b[32m~/ga/addbass/w02\u001b[01;34m \u001b[35mmaster \u001b[00m!\u001b[00m\u001b[00m\u001b[01;34m\u001b[00m $ "
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000088,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.726896,
+      "g"
+    ],
+    [
+      0.087836,
+      "\u0008gi"
+    ],
+    [
+      0.143915,
+      "t"
+    ],
+    [
+      0.231899,
+      " "
+    ],
+    [
+      0.128215,
+      "s"
+    ],
+    [
+      0.248320,
+      "t"
+    ],
+    [
+      0.239821,
+      "a"
+    ],
+    [
+      0.288079,
+      "t"
+    ],
+    [
+      0.127699,
+      "u"
+    ],
+    [
+      0.168079,
+      "s"
+    ],
+    [
+      0.415985,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000070,
+      "\r\r\n"
+    ],
+    [
+      0.000756,
+      "\u001b]2;git status\u0007"
+    ],
+    [
+      0.000006,
+      "\u001b]1;git\u0007"
+    ],
+    [
+      0.005981,
+      "On branch master\r\n"
+    ],
+    [
+      0.000429,
+      "Your branch is up-to-date with 'origin/master'.\r\nChanges not staged for commit:\r\n  (use \"git add \u003cfile\u003e...\" to update what will be committed)\r\n  (use \"git checkout -- \u003cfile\u003e...\" to discard changes in working directory)\r\n\r\n"
+    ],
+    [
+      0.000012,
+      "\t\u001b[32mmodified:   readme.md\u001b[m\r\n\r\nno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n"
+    ],
+    [
+      0.000542,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                             \r \r"
+    ],
+    [
+      0.000077,
+      "\u001b]2;jesse@ga: ~/ga/addbass/w02\u0007"
+    ],
+    [
+      0.000032,
+      "\u001b]1;..a/addbass/w02\u0007"
+    ],
+    [
+      0.019601,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[Jjesse@ga:\u001b[01;32m\u001b[32m~/ga/addbass/w02\u001b[01;34m \u001b[35mmaster \u001b[00m!\u001b[00m\u001b[00m\u001b[01;34m\u001b[00m $ "
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      0.000039,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.893108,
+      "e"
+    ],
+    [
+      0.271476,
+      "\u0008ex"
+    ],
+    [
+      0.119865,
+      "i"
+    ],
+    [
+      0.168625,
+      "t"
+    ],
+    [
+      0.135608,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000166,
+      "\r\r\n"
+    ],
+    [
+      0.001005,
+      "\u001b]2;exit\u0007\u001b]1;exit\u0007"
+    ]
+  ]
+}
