@@ -1,0 +1,118 @@
+{
+  "version": 1,
+  "width": 100,
+  "height": 30,
+  "duration": 11.401903,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.709983,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                   \r \r"
+    ],
+    [
+      0.000040,
+      "\u001b]2;fouber@fouber-mac: ~/work/book\u0007"
+    ],
+    [
+      0.000024,
+      "\u001b]1;~/work/book\u0007"
+    ],
+    [
+      0.000078,
+      "\u001b]7;file:///Users/fouber/work/book\u0007"
+    ],
+    [
+      0.023396,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mbook \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000660,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      4.337672,
+      "s"
+    ],
+    [
+      0.174280,
+      "\u0008sc"
+    ],
+    [
+      0.215761,
+      "r"
+    ],
+    [
+      0.056309,
+      "a"
+    ],
+    [
+      0.144077,
+      "t"
+    ],
+    [
+      0.079927,
+      " "
+    ],
+    [
+      1.704551,
+      "-"
+    ],
+    [
+      0.167480,
+      "v"
+    ],
+    [
+      0.189178,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000072,
+      "\r\r\n"
+    ],
+    [
+      0.001275,
+      "\u001b]2;scrat -v\u0007"
+    ],
+    [
+      0.000016,
+      "\u001b]1;scrat\u0007"
+    ],
+    [
+      0.271329,
+      "\r\n                                           \r\n         \u001b[1m\u001b[33m`-:////:-`\u001b[39m\u001b[22m                        \r\n      \u001b[1m\u001b[33m./ossssssssss+-\u001b[39m\u001b[22m                      \r\n    \u001b[1m\u001b[33m-+sssssssssssssss+`\u001b[39m\u001b[22m                    \r\n   \u001b[1m\u001b[33m.-...-+ssssssssssss/\u001b[39m\u001b[22m        .`          \r\n          \u001b[1m\u001b[33m:ssssssssssso`\u001b[39m\u001b[22m      -o+`         \r\n          \u001b[1m\u001b[33m.ossssssssss/\u001b[39m\u001b[22m       +ss+-.       \r\n         \u001b[1m\u001b[33m`+ssssssssss+`\u001b[39m\u001b[22m     ./osssss+:`    \r\n        \u001b[1m\u001b[33m-ossssssssso:`\u001b[39m\u001b[22m `.-/ossssssssss+`   \r\n      \u001b[1m\u001b[33m.+sssssssss+:`\u001b[39m\u001b[22m  `.--:/+osssssssss/   \r\n    \u001b[1m\u001b[33m`:osssssso+:``\u001b[39m\u001b[22m\u001b[1m\u001b[37m.-::/+++/-.\u001b[39m\u001b[22m`.:+ossssso`  \r\n   \u001b[1m\u001b[33m`+sssssso:``\u001b[39m\u001b[22m\u001b[1m\u001b[31m-:/+//:-\u001b[39m\u001b[22m\u001b[1m\u001b[37m`.:+sso/-`\u001b[39m\u001b[22m`.-::-.   \r\n   \u001b[1m\u001b[33m:ssssss/`\u001b[39m\u001b[22m\u001b[1m\u001b[31m.//:---:/oso+-`\u001b[39m\u001b[22m\u001b[1m\u001b[37m.+sssoo+//:-`\u001b[39m\u001b[22m   \r\n  \u001b[1m\u001b[33m`osssss/ `\u001b[39m\u001b[22m.\u001b[1m\u001b[34m``-:::-``\u001b[39m\u001b[22m\u001b[1m\u001b[31m.+ss+.\u001b[39m\u001b[22m\u001b[1m\u001b[37m :osssso//::`\u001b[39m\u001b["
+    ],
+    [
+      0.000019,
+      "22m  \r\n  \u001b[1m\u001b[33m`osssso.\u001b[39m\u001b[22m  \u001b[1m\u001b[34m`/osoooso/`\u001b[39m\u001b[22m\u001b[1m\u001b[31m /sso.\u001b[39m\u001b[22m\u001b[1m\u001b[37m `...`\u001b[39m\u001b[22m        \r\n   \u001b[1m\u001b[33m/sssso.\u001b[39m\u001b[22m \u001b[1m\u001b[34m`+ss:```/ss/\u001b[39m\u001b[22m\u001b[1m\u001b[31m `oss/\u001b[39m\u001b[22m              \r\n   \u001b[1m\u001b[33m`+ssss:\u001b[39m\u001b[22m \u001b[1m\u001b[34m`oso.   -ss+\u001b[39m\u001b[22m\u001b[1m\u001b[31m `oss/\u001b[39m\u001b[22m              \r\n    \u001b[1m\u001b[33m`/ssso.\u001b[39m\u001b[22m \u001b[1m\u001b[34m-oso+/+oso.\u001b[39m\u001b[22m\u001b[1m\u001b[31m -sss:\u001b[39m\u001b[22m              \r\n      \u001b[1m\u001b[33m./oso/`\u001b[39m\u001b[22m\u001b[1m\u001b[34m`-/+o+/-`\u001b[39m\u001b[22m\u001b[1m\u001b[31m`:osss+/:-`\u001b[39m\u001b[22m          \r\n        \u001b[1m\u001b[33m`.-//:.`\u001b[39m\u001b[22m   \u001b[1m\u001b[34m`\u001b[39m\u001b[22m\u001b[1m\u001b[31m.:++++++++//:`\u001b[39m\u001b[22m         \r\n\r\n              v0.3.3\r\n\r\n"
+    ],
+    [
+      0.003743,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                   \r \r"
+    ],
+    [
+      0.000091,
+      "\u001b]2;fouber@fouber-mac: ~/work/book\u0007"
+    ],
+    [
+      0.000015,
+      "\u001b]1;~/work/book\u0007"
+    ],
+    [
+      0.000068,
+      "\u001b]7;file:///Users/fouber/work/book\u0007"
+    ],
+    [
+      0.018809,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mbook \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m\u001b[01;34m \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      3.257634,
+      "\r\r\n"
+    ]
+  ]
+}
