@@ -1,0 +1,1314 @@
+{
+  "version": 1,
+  "width": 85,
+  "height": 25,
+  "duration": 40.049973,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color-italic",
+    "SHELL": "/usr/local/bin/fish"
+  },
+  "stdout": [
+    [
+      0.006008,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000009,
+      "bash-3.2$ "
+    ],
+    [
+      1.201544,
+      "l"
+    ],
+    [
+      0.231498,
+      "s"
+    ],
+    [
+      0.295983,
+      "\r\n"
+    ],
+    [
+      0.003128,
+      "AUTHORS\t\t\tREADME.md\t\tsample.md\r\nCOPYING\t\t\tinclude\t\t\tsrc\r\nCREDITS\t\t\tmdp\t\t\tutf8.md\r\n"
+    ],
+    [
+      0.000009,
+      "Makefile\t\tmdp.sublime-project\r\n"
+    ],
+    [
+      0.000305,
+      "bash-3.2$ "
+    ],
+    [
+      1.556752,
+      "."
+    ],
+    [
+      0.207920,
+      "/"
+    ],
+    [
+      0.376016,
+      "m"
+    ],
+    [
+      0.576077,
+      "d"
+    ],
+    [
+      0.296052,
+      "p"
+    ],
+    [
+      0.399891,
+      " "
+    ],
+    [
+      0.352146,
+      "s"
+    ],
+    [
+      0.184006,
+      "a"
+    ],
+    [
+      0.152002,
+      "m"
+    ],
+    [
+      0.216131,
+      "ple.md "
+    ],
+    [
+      1.159914,
+      "\r\n"
+    ],
+    [
+      0.004622,
+      "\u001b[?1049h\u001b[1;25r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?25l"
+    ],
+    [
+      0.000020,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000277,
+      "\u001b[39;49m\u001b[39;49m\u001b[38;5;208m\u001b[H\u001b[2J\u001b[25d\u001b[39;49m\u001b(B\u001b[m\u001b[J\u001b[H\u001b[K\n\u001b[38;5;255m\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[H\n\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000033,
+      "\u001b[38;5;208m\u001b[H\u001b[2J\u001b[1;31Hmdp - Sample Presentation\u001b[25;4Hvisit1985\u001b[25;77H1 / 18\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000237,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;123mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;255mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;255mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;255mnext slide      \u001b[38;5;213mEnter\u001b[38;5;255m, \u001b[38;5;213mSpace\u001b[38;5;255m, \u001b[38;5;213mPage Down\u001b[38;5;255m, \u001b[38;5;213mj\u001b[38;5;255m, \u001b[38;5;213ml\u001b[38;5;255m,\u001b[10;18H\u001b[16X\u001b[10;34H\u001b[38;5;213mDown Arrow\u001b[38;5;255m, \u001b[38;5;213mRight Arrow\u001b[12;18H\u001b[38;5;255mprevious slide  \u001b[38;5;213mBackspace\u001b[38;5;255m, \u001b[38;5;213mPage Up\u001b[38;5;255m, \u001b[38;5;213mh\u001b[38;5;255m, \u001b[38;5;213mk\u001b[38;5;255m,\u001b[13;18H\u001b[16X\u001b[13;34H\u001b[38;5;213mUp Arrow\u001b[38;5;255m, \u001b[38;5;213mLeft Arrow\u001b[15;18H\u001b[38;5;255mquit            \u001b[38;5;213mq\u001b[16;18H\u001b[38;5;255mreload          \u001b[38;5;213mr\u001b[17;18H\u001b[38;5;255mslide N         \u001b[38;5;213m1..9\u001b[18;18H\u001b[38;5;255mfirst slide     \u001b[38;5;213mHome\u001b[38;5;255m, \u001b[38;5;213mg\u001b[19;18H\u001b[38;5;255mlast slide      \u001b[38;5;213mEnd\u001b[38;5;255m, \u001b[38;5;213mG\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000168,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;16mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;16mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;16mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;16mnext slide      \u001b[38;5;16mEnter\u001b[38;5;16m, \u001b[38;5;16mSpace\u001b[38;5;16m, \u001b[38;5;16mPage Down\u001b[38;5;16m, \u001b[38;5;16mj\u001b[38;5;16m, \u001b[38;5;16ml\u001b[38;5;16m,\u001b[10;18H\u001b[16X\u001b[10;34H\u001b[38;5;16mDown Arrow\u001b[38;5;16m, \u001b[38;5;16mRight Arrow\u001b[12;18H\u001b[38;5;16mprevious slide  \u001b[38;5;16mBackspace\u001b[38;5;16m, \u001b[38;5;16mPage Up\u001b[38;5;16m, \u001b[38;5;16mh\u001b[38;5;16m, \u001b[38;5;16mk\u001b[38;5;16m,\u001b[13;18H\u001b[16X\u001b[13;34H\u001b[38;5;16mUp Arrow\u001b[38;5;16m, \u001b[38;5;16mLeft Arrow\u001b[15;18H\u001b[38;5;16mquit            \u001b[38;5;16mq\u001b[16;18H\u001b[38;5;16mreload          \u001b[38;5;16mr\u001b[17;18H\u001b[38;5;16mslide N         \u001b[38;5;16m1..9\u001b[18;18H\u001b[38;5;16mfirst slide     \u001b[38;5;16mHome\u001b[38;5;16m, \u001b[38;5;16mg\u001b[19;18H\u001b[38;5;16mlast slide      \u001b[38;5;16mEnd\u001b[38;5;16m, \u001b[38;5;16mG\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018032,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;17mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;232mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;232mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;232mnext slide      \u001b[38;5;52mEnter\u001b[38;5;232m, \u001b[38;5;52mSpace\u001b[38;5;232m, \u001b[38;5;52mPage Down\u001b[38;5;232m, \u001b[38;5;52mj\u001b[38;5;232m, \u001b[38;5;52ml\u001b[38;5;232m,\u001b[10;18H\u001b[16X\u001b[10;34H\u001b[38;5;52mDown Arrow\u001b[38;5;232m, \u001b[38;5;52mRight Arrow\u001b[12;18H\u001b[38;5;232mprevious slide  \u001b[38;5;52mBackspace\u001b[38;5;232m, \u001b[38;5;52mPage Up\u001b[38;5;232m, \u001b[38;5;52mh\u001b[38;5;232m, \u001b[38;5;52mk\u001b[38;5;232m,\u001b[13;18H\u001b[16X\u001b[13;34H\u001b[38;5;52mUp Arrow\u001b[38;5;232m, \u001b[38;5;52mLeft Arrow\u001b[15;18H\u001b[38;5;232mquit            \u001b[38;5;52mq\u001b[16;18H\u001b[38;5;232mreload          \u001b[38;5;52mr\u001b[17;18H\u001b[38;5;232mslide N         \u001b[38;5;52m1..9\u001b[18;18H\u001b[38;5;232mfirst slide     \u001b[38;5;52mHome\u001b[38;5;232m, \u001b[38;5;52mg\u001b[19;18H\u001b[38;5;232mlast slide      \u001b[38;5;52mEnd\u001b[38;5;232m, \u001b[38;5;52mG\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017584,
+      "\u001b[5;19H\u001b[38;5;233mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;233mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;233mnext slide      \u001b[38;5;52mEnter\u001b[38;5;233m, \u001b[38;5;52mSpace\u001b[38;5;233m, \u001b[9;57H, \u001b[38;5;52mj\u001b[38;5;233m, \u001b[38;5;52ml\u001b[38;5;233m,\u001b[10;18H\u001b[16X\u001b[10;44H, \u001b[12;18Hprevious slide  \u001b[12;43H, \u001b[52G, \u001b[38;5;52mh\u001b[38;5;233m, \u001b[38;5;52mk\u001b[38;5;233m,\u001b[13;18H\u001b[16X\u001b[13;42H, \u001b[15;18Hquit            \u001b[16;18Hreload          \u001b[17;18Hslide N         \u001b[18;18Hfirst slide     \u001b[38;5;52mHome\u001b[38;5;233m, \u001b[19;18Hlast slide      \u001b[38;5;52mEnd\u001b[38;5;233m, \u001b[C\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017394,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;18mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;234mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;234mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;234mnext slide      \u001b[38;5;53mEnter\u001b[38;5;234m, \u001b[38;5;53mSpace\u001b[38;5;234m, \u001b[38;5;53mPage Down\u001b[38;5;234m, \u001b[38;5;53mj\u001b[38;5;234m, \u001b[38;5;53ml\u001b[38;5;234m,\u001b[10;18H\u001b[16X\u001b[10;34H\u001b[38;5;53mDown Arrow\u001b[38;5;234m, \u001b[38;5;53mRight Arrow\u001b[12;18H\u001b[38;5;234mprevious slide  \u001b[38;5;53mBackspace\u001b[38;5;234m, \u001b[38;5;53mPage Up\u001b[38;5;234m, \u001b[38;5;53mh\u001b[38;5;234m, \u001b[38;5;53mk\u001b[38;5;234m,\u001b[13;18H\u001b[16X\u001b[13;34H\u001b[38;5;53mUp Arrow\u001b[38;5;234m, \u001b[38;5;53mLeft Arrow\u001b[15;18H\u001b[38;5;234mquit            \u001b[38;5;53mq\u001b[16;18H\u001b[38;5;234mreload          \u001b[38;5;53mr\u001b[17;18H\u001b[38;5;234mslide N         \u001b[38;5;53m1..9\u001b[18;18H\u001b[38;5;234mfirst slide     \u001b[38;5;53mHome\u001b[38;5;234m, \u001b[38;5;53mg\u001b[19;18H\u001b[38;5;234mlast slide      \u001b[38;5;53mEnd\u001b[38;5;234m, \u001b[38;5;53mG\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018674,
+      "\u001b[5;19H\u001b[38;5;235mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;235mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;235mnext slide      \u001b[38;5;53mEnter\u001b[38;5;235m, \u001b[38;5;53mSpace\u001b[38;5;235m, \u001b[9;57H, \u001b[38;5;53mj\u001b[38;5;235m, \u001b[38;5;53ml\u001b[38;5;235m,\u001b[10;18H\u001b[16X\u001b[10;44H, \u001b[12;18Hprevious slide  \u001b[12;43H, \u001b[52G, \u001b[38;5;53mh\u001b[38;5;235m, \u001b[38;5;53mk\u001b[38;5;235m,\u001b[13;18H\u001b[16X\u001b[13;42H, \u001b[15;18Hquit            \u001b[16;18Hreload          \u001b[17;18Hslide N         \u001b[18;18Hfirst slide     \u001b[38;5;53mHome\u001b[38;5;235m, \u001b[19;18Hlast slide      \u001b[38;5;53mEnd\u001b[38;5;235m, \u001b[C\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017962,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;19mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;236mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;236mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;236mnext slide      \u001b[38;5;89mEnter\u001b[38;5;236m, \u001b[38;5;89mSpace\u001b[38;5;236m, \u001b[38;5;89mPage Down\u001b[38;5;236m, \u001b[38;5;89mj\u001b[38;5;236m, \u001b[38;5;89ml\u001b[38;5;236m,\u001b[10;18H\u001b[16X\u001b[10;34H\u001b[38;5;89mDown Arrow\u001b[38;5;236m, \u001b[38;5;89mRight Arrow\u001b[12;18H\u001b[38;5;236mprevious slide  \u001b[38;5;89mBackspace\u001b[38;5;236m, \u001b[38;5;89mPage Up\u001b[38;5;236m, \u001b[38;5;89mh\u001b[38;5;236m, \u001b[38;5;89mk\u001b[38;5;236m,\u001b[13;18H\u001b[16X\u001b[13;34H\u001b[38;5;89mUp Arrow\u001b[38;5;236m, \u001b[38;5;89mLeft Arrow\u001b[15;18H\u001b[38;5;236mquit            \u001b[38;5;89mq\u001b[16;18H\u001b[38;5;236mreload          \u001b[38;5;89mr\u001b[17;18H\u001b[38;5;236mslide N         \u001b[38;5;89m1..9\u001b[18;18H\u001b[38;5;236mfirst slide     \u001b[38;5;89mHome\u001b[38;5;236m, \u001b[38;5;89mg\u001b[19;18H\u001b[38;5;236mlast slide      \u001b[38;5;89mEnd\u001b[38;5;236m, \u001b[38;5;89mG\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016623,
+      "\u001b[5;19H\u001b[38;5;237mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;237mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;237mnext slide      \u001b[38;5;89mEnter\u001b[38;5;237m, \u001b[38;5;89mSpace\u001b[38;5;237m, \u001b[9;57H, \u001b[38;5;89mj\u001b[38;5;237m, \u001b[38;5;89ml\u001b[38;5;237m,\u001b[10;18H\u001b[16X\u001b[10;44H, \u001b[12;18Hprevious slide  \u001b[12;43H, \u001b[52G, \u001b[38;5;89mh\u001b[38;5;237m, \u001b[38;5;89mk\u001b[38;5;237m,\u001b[13;18H\u001b[16X\u001b[13;42H, \u001b[15;18Hquit            \u001b[16;18Hreload          \u001b[17;18Hslide N         \u001b[18;18Hfirst slide     \u001b[38;5;89mHome\u001b[38;5;237m, \u001b[19;18Hlast slide      \u001b[38;5;89mEnd\u001b[38;5;237m, \u001b[C\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015243,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;20mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;238mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;238mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;238mnext slide      \u001b[38;5;90mEnter\u001b[38;5;238m, \u001b[38;5;90mSpace\u001b[38;5;238m, \u001b[38;5;90mPage Down\u001b[38;5;238m, \u001b[38;5;90mj\u001b[38;5;238m, \u001b[38;5;90ml\u001b[38;5;238m,\u001b[10;18H\u001b[16X\u001b[10;34H\u001b[38;5;90mDown Arrow\u001b[38;5;238m, \u001b[38;5;90mRight Arrow\u001b[12;18H\u001b[38;5;238mprevious slide  \u001b[38;5;90mBackspace\u001b[38;5;238m, \u001b[38;5;90mPage Up\u001b[38;5;238m, \u001b[38;5;90mh\u001b[38;5;238m, \u001b[38;5;90mk\u001b[38;5;238m,\u001b[13;18H\u001b[16X\u001b[13;34H\u001b[38;5;90mUp Arrow\u001b[38;5;238m, \u001b[38;5;90mLeft Arrow\u001b[15;18H\u001b[38;5;238mquit            \u001b[38;5;90mq\u001b[16;18H\u001b[38;5;238mreload          \u001b[38;5;90mr\u001b[17;18H\u001b[38;5;238mslide N         \u001b[38;5;90m1..9\u001b[18;18H\u001b[38;5;238mfirst slide     \u001b[38;5;90mHome\u001b[38;5;238m, \u001b[38;5;90mg\u001b[19;18H\u001b[38;5;238mlast slide      \u001b[38;5;90mEnd\u001b[38;5;238m, \u001b[38;5;90mG\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016321,
+      "\u001b[5;19H\u001b[38;5;239mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;239mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;239mnext slide      \u001b[38;5;90mEnter\u001b[38;5;239m, \u001b[38;5;90mSpace\u001b[38;5;239m, \u001b[9;57H, \u001b[38;5;90mj\u001b[38;5;239m, \u001b[38;5;90ml\u001b[38;5;239m,\u001b[10;18H\u001b[16X\u001b[10;44H, \u001b[12;18Hprevious slide  \u001b[12;43H, \u001b[52G, \u001b[38;5;90mh\u001b[38;5;239m, \u001b[38;5;90mk\u001b[38;5;239m,\u001b[13;18H\u001b[16X\u001b[13;42H, \u001b[15;18Hquit            \u001b[16;18Hreload          \u001b[17;18Hslide N         \u001b[18;18Hfirst slide     \u001b[38;5;90mHome\u001b[38;5;239m, \u001b[19;18Hlast slide      \u001b[38;5;90mEnd\u001b[38;5;239m, \u001b[C\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016830,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;21mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;240mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;240mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;240mnext slide      \u001b[38;5;126mEnter\u001b[38;5;240m, \u001b[38;5;126mSpace\u001b[38;5;240m, \u001b[38;5;126mPage Down\u001b[38;5;240m, \u001b[38;5;126mj\u001b[38;5;240m, \u001b[38;5;126ml\u001b[38;5;240m,\u001b[10;18H\u001b[16X\u001b[10;34H\u001b[38;5;126mDown Arrow\u001b[38;5;240m, \u001b[38;5;126mRight Arrow\u001b[12;18H\u001b[38;5;240mprevious slide  \u001b[38;5;126mBackspace\u001b[38;5;240m, \u001b[38;5;126mPage Up\u001b[38;5;240m, \u001b[38;5;126mh\u001b[38;5;240m, \u001b[38;5;126mk\u001b[38;5;240m,\u001b[13;18H\u001b[16X\u001b[13;34H\u001b[38;5;126mUp Arrow\u001b[38;5;240m, \u001b[38;5;126mLeft Arrow\u001b[15;18H\u001b[38;5;240mquit            \u001b[38;5;126mq\u001b[16;18H\u001b[38;5;240mreload          \u001b[38;5;126mr\u001b[17;18H\u001b[38;5;240mslide N         \u001b[38;5;126m1..9\u001b[18;18H\u001b[38;5;240mfirst slide     \u001b[38;5;126mHome\u001b[38;5;240m, \u001b[38;5;126mg\u001b[19;18H\u001b[38;5;240mlast slide      \u001b[38;5;126mEnd\u001b[38;5;240m, \u001b[38;5;126mG\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019231,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;27mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;241mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;241mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;241mnext slide      \u001b[38;5;127mEnter\u001b[38;5;241m, \u001b[38;5;127mSpace\u001b[38;5;241m, \u001b[38;5;127mPage Down\u001b[38;5;241m, \u001b[38;5;127mj\u001b[38;5;241m, \u001b[38;5;127ml\u001b[38;5;241m,\u001b[10;18H\u001b[16X\u001b[10;34H\u001b[38;5;127mDown Arrow\u001b[38;5;241m, \u001b[38;5;127mRight Arrow\u001b[12;18H\u001b[38;5;241mprevious slide  \u001b[38;5;127mBackspace\u001b[38;5;241m, \u001b[38;5;127mPage Up\u001b[38;5;241m, \u001b[38;5;127mh\u001b[38;5;241m, \u001b[38;5;127mk\u001b[38;5;241m,\u001b[13;18H\u001b[16X\u001b[13;34H\u001b[38;5;127mUp Arrow\u001b[38;5;241m, \u001b[38;5;127mLeft Arrow\u001b[15;18H\u001b[38;5;241mquit            \u001b[38;5;127mq\u001b[16;18H\u001b[38;5;241mreload          \u001b[38;5;127mr\u001b[17;18H\u001b[38;5;241mslide N         \u001b[38;5;127m1..9\u001b[18;18H\u001b[38;5;241mfirst slide     \u001b[38;5;127mHome\u001b[38;5;241m, \u001b[38;5;127mg\u001b[19;18H\u001b[38;5;241mlast slide      \u001b[38;5;127mEnd\u001b[38;5;241m, \u001b[38;5;127mG\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017042,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;33mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;242mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;242mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;242mnext slide      \u001b[38;5;127mEnter\u001b[38;5;242m, \u001b[38;5;127mSpace\u001b[38;5;242m, \u001b[9;57H, \u001b[38;5;127mj\u001b[38;5;242m, \u001b[38;5;127ml\u001b[38;5;242m,\u001b[10;18H\u001b[16X\u001b[10;44H, \u001b[12;18Hprevious slide  \u001b[12;43H, \u001b[52G, \u001b[38;5;127mh\u001b[38;5;242m, \u001b[38;5;127mk\u001b[38;5;242m,\u001b[13;18H\u001b[16X\u001b[13;42H, \u001b[15;18Hquit            \u001b[16;18Hreload          \u001b[17;18Hslide N         \u001b[18;18Hfirst slide     \u001b[38;5;127mHome\u001b[38;5;242m, \u001b[19;18Hlast slide      \u001b[38;5;127mEnd\u001b[38;5;242m, \u001b[C\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015393,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;32mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;244mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;244mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;244mnext slide      \u001b[38;5;163mEnter\u001b[38;5;244m, \u001b[38;5;163mSpace\u001b[38;5;244m, \u001b[38;5;163mPage Down\u001b[38;5;244m, \u001b[38;5;163mj\u001b[38;5;244m, \u001b[38;5;163ml\u001b[38;5;244m,\u001b[10;18H\u001b[16X\u001b[10;34H\u001b[38;5;163mDown Arrow\u001b[38;5;244m, \u001b[38;5;163mRight Arrow\u001b[12;18H\u001b[38;5;244mprevious slide  \u001b[38;5;163mBackspace\u001b[38;5;244m, \u001b[38;5;163mPage Up\u001b[38;5;244m, \u001b[38;5;163mh\u001b[38;5;244m, \u001b[38;5;163mk\u001b[38;5;244m,\u001b[13;18H\u001b[16X\u001b[13;34H\u001b[38;5;163mUp Arrow\u001b[38;5;244m, \u001b[38;5;163mLeft Arrow\u001b[15;18H\u001b[38;5;244mquit            \u001b[38;5;163mq\u001b[16;18H\u001b[38;5;244mreload          \u001b[38;5;163mr\u001b[17;18H\u001b[38;5;244mslide N         \u001b[38;5;163m1..9\u001b[18;18H\u001b[38;5;244mfirst slide     \u001b[38;5;163mHome\u001b[38;5;244m, \u001b[38;5;163mg\u001b[19;18H\u001b[38;5;244mlast slide      \u001b[38;5;163mEnd\u001b[38;5;244m, \u001b[38;5;163mG\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015878,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;39mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;245mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;245mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;245mnext slide      \u001b[38;5;163mEnter\u001b[38;5;245m, \u001b[38;5;163mSpace\u001b[38;5;245m, \u001b[9;57H, \u001b[38;5;163mj\u001b[38;5;245m, \u001b[38;5;163ml\u001b[38;5;245m,\u001b[10;18H\u001b[16X\u001b[10;44H, \u001b[12;18Hprevious slide  \u001b[12;43H, \u001b[52G, \u001b[38;5;163mh\u001b[38;5;245m, \u001b[38;5;163mk\u001b[38;5;245m,\u001b[13;18H\u001b[16X\u001b[13;42H, \u001b[15;18Hquit            \u001b[16;18Hreload          \u001b[17;18Hslide N         \u001b[18;18Hfirst slide     \u001b[38;5;163mHome\u001b[38;5;245m, \u001b[19;18Hlast slide      \u001b[38;5;163mEnd\u001b[38;5;245m, \u001b[C\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019261,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;38mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;246mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;246mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;246mnext slide      \u001b[38;5;164mEnter\u001b[38;5;246m, \u001b[38;5;164mSpace\u001b[38;5;246m, \u001b[38;5;164mPage Down\u001b[38;5;246m, \u001b[38;5;164mj\u001b[38;5;246m, \u001b[38;5;164ml\u001b[38;5;246m,\u001b[10;18H\u001b[16X\u001b[10;34H\u001b[38;5;164mDown Arrow\u001b[38;5;246m, \u001b[38;5;164mRight Arrow\u001b[12;18H\u001b[38;5;246mprevious slide  \u001b[38;5;164mBackspace\u001b[38;5;246m, \u001b[38;5;164mPage Up\u001b[38;5;246m, \u001b[38;5;164mh\u001b[38;5;246m, \u001b[38;5;164mk\u001b[38;5;246m,\u001b[13;18H\u001b[16X\u001b[13;34H\u001b[38;5;164mUp Arrow\u001b[38;5;246m, \u001b[38;5;164mLeft Arrow\u001b[15;18H\u001b[38;5;246mquit            \u001b[38;5;164mq\u001b[16;18H\u001b[38;5;246mreload          \u001b[38;5;164mr\u001b[17;18H\u001b[38;5;246mslide N         \u001b[38;5;164m1..9\u001b[18;18H\u001b[38;5;246mfirst slide     \u001b[38;5;164mHome\u001b[38;5;246m, \u001b[38;5;164mg\u001b[19;18H\u001b[38;5;246mlast slide      \u001b[38;5;164mEnd\u001b[38;5;246m, \u001b[38;5;164mG\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016450,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;45mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;247mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;247mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;247mnext slide      \u001b[38;5;164mEnter\u001b[38;5;247m, \u001b[38;5;164mSpace\u001b[38;5;247m, \u001b[9;57H, \u001b[38;5;164mj\u001b[38;5;247m, \u001b[38;5;164ml\u001b[38;5;247m,\u001b[10;18H\u001b[16X\u001b[10;44H, \u001b[12;18Hprevious slide  \u001b[12;43H, \u001b[52G, \u001b[38;5;164mh\u001b[38;5;247m, \u001b[38;5;164mk\u001b[38;5;247m,\u001b[13;18H\u001b[16X\u001b[13;42H, \u001b[15;18Hquit            \u001b[16;18Hreload          \u001b[17;18Hslide N         \u001b[18;18Hfirst slide     \u001b[38;5;164mHome\u001b[38;5;247m, \u001b[19;18Hlast slide      \u001b[38;5;164mEnd\u001b[38;5;247m, \u001b[C\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019287,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;44mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;248mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;248mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;248mnext slide      \u001b[38;5;200mEnter\u001b[38;5;248m, \u001b[38;5;200mSpace\u001b[38;5;248m, \u001b[38;5;200mPage Down\u001b[38;5;248m, \u001b[38;5;200mj\u001b[38;5;248m, \u001b[38;5;200ml\u001b[38;5;248m,\u001b[10;18H\u001b[16X\u001b[10;34H\u001b[38;5;200mDown Arrow\u001b[38;5;248m, \u001b[38;5;200mRight Arrow\u001b[12;18H\u001b[38;5;248mprevious slide  \u001b[38;5;200mBackspace\u001b[38;5;248m, \u001b[38;5;200mPage Up\u001b[38;5;248m, \u001b[38;5;200mh\u001b[38;5;248m, \u001b[38;5;200mk\u001b[38;5;248m,\u001b[13;18H\u001b[16X\u001b[13;34H\u001b[38;5;200mUp Arrow\u001b[38;5;248m, \u001b[38;5;200mLeft Arrow\u001b[15;18H\u001b[38;5;248mquit            \u001b[38;5;200mq\u001b[16;18H\u001b[38;5;248mreload          \u001b[38;5;200mr\u001b[17;18H\u001b[38;5;248mslide N         \u001b[38;5;200m1..9\u001b[18;18H\u001b[38;5;248mfirst slide     \u001b[38;5;200mHome\u001b[38;5;248m, \u001b[38;5;200mg\u001b[19;18H\u001b[38;5;248mlast slide      \u001b[38;5;200mEnd\u001b[38;5;248m, \u001b[38;5;200mG\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016652,
+      "\u001b[5;19H\u001b[38;5;249mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;249mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;249mnext slide      \u001b[38;5;200mEnter\u001b[38;5;249m, \u001b[38;5;200mSpace\u001b[38;5;249m, \u001b[9;57H, \u001b[38;5;200mj\u001b[38;5;249m, \u001b[38;5;200ml\u001b[38;5;249m,\u001b[10;18H\u001b[16X\u001b[10;44H, \u001b[12;18Hprevious slide  \u001b[12;43H, \u001b[52G, \u001b[38;5;200mh\u001b[38;5;249m, \u001b[38;5;200mk\u001b[38;5;249m,\u001b[13;18H\u001b[16X\u001b[13;42H, \u001b[15;18Hquit            \u001b[16;18Hreload          \u001b[17;18Hslide N         \u001b[18;18Hfirst slide     \u001b[38;5;200mHome\u001b[38;5;249m, \u001b[19;18Hlast slide      \u001b[38;5;200mEnd\u001b[38;5;249m, \u001b[C\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019265,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;81mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;250mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;250mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;250mnext slide      \u001b[38;5;201mEnter\u001b[38;5;250m, \u001b[38;5;201mSpace\u001b[38;5;250m, \u001b[38;5;201mPage Down\u001b[38;5;250m, \u001b[38;5;201mj\u001b[38;5;250m, \u001b[38;5;201ml\u001b[38;5;250m,\u001b[10;18H\u001b[16X\u001b[10;34H\u001b[38;5;201mDown Arrow\u001b[38;5;250m, \u001b[38;5;201mRight Arrow\u001b[12;18H\u001b[38;5;250mprevious slide  \u001b[38;5;201mBackspace\u001b[38;5;250m, \u001b[38;5;201mPage Up\u001b[38;5;250m, \u001b[38;5;201mh\u001b[38;5;250m, \u001b[38;5;201mk\u001b[38;5;250m,\u001b[13;18H\u001b[16X\u001b[13;34H\u001b[38;5;201mUp Arrow\u001b[38;5;250m, \u001b[38;5;201mLeft Arrow\u001b[15;18H\u001b[38;5;250mquit            \u001b[38;5;201mq\u001b[16;18H\u001b[38;5;250mreload          \u001b[38;5;201mr\u001b[17;18H\u001b[38;5;250mslide N         \u001b[38;5;201m1..9\u001b[18;18H\u001b[38;5;250mfirst slide     \u001b[38;5;201mHome\u001b[38;5;250m, \u001b[38;5;201mg\u001b[19;18H\u001b[38;5;250mlast slide      \u001b[38;5;201mEnd\u001b[38;5;250m, \u001b[38;5;201mG\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016739,
+      "\u001b[5;19H\u001b[38;5;251mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;251mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;251mnext slide      \u001b[38;5;201mEnter\u001b[38;5;251m, \u001b[38;5;201mSpace\u001b[38;5;251m, \u001b[9;57H, \u001b[38;5;201mj\u001b[38;5;251m, \u001b[38;5;201ml\u001b[38;5;251m,\u001b[10;18H\u001b[16X\u001b[10;44H, \u001b[12;18Hprevious slide  \u001b[12;43H, \u001b[52G, \u001b[38;5;201mh\u001b[38;5;251m, \u001b[38;5;201mk\u001b[38;5;251m,\u001b[13;18H\u001b[16X\u001b[13;42H, \u001b[15;18Hquit            \u001b[16;18Hreload          \u001b[17;18Hslide N         \u001b[18;18Hfirst slide     \u001b[38;5;201mHome\u001b[38;5;251m, \u001b[19;18Hlast slide      \u001b[38;5;201mEnd\u001b[38;5;251m, \u001b[C\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016968,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;51mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;252mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;252mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;252mnext slide      \u001b[38;5;207mEnter\u001b[38;5;252m, \u001b[38;5;207mSpace\u001b[38;5;252m, \u001b[38;5;207mPage Down\u001b[38;5;252m, \u001b[38;5;207mj\u001b[38;5;252m, \u001b[38;5;207ml\u001b[38;5;252m,\u001b[10;18H\u001b[16X\u001b[10;34H\u001b[38;5;207mDown Arrow\u001b[38;5;252m, \u001b[38;5;207mRight Arrow\u001b[12;18H\u001b[38;5;252mprevious slide  \u001b[38;5;207mBackspace\u001b[38;5;252m, \u001b[38;5;207mPage Up\u001b[38;5;252m, \u001b[38;5;207mh\u001b[38;5;252m, \u001b[38;5;207mk\u001b[38;5;252m,\u001b[13;18H\u001b[16X\u001b[13;34H\u001b[38;5;207mUp Arrow\u001b[38;5;252m, \u001b[38;5;207mLeft Arrow\u001b[15;18H\u001b[38;5;252mquit            \u001b[38;5;207mq\u001b[16;18H\u001b[38;5;252mreload          \u001b[38;5;207mr\u001b[17;18H\u001b[38;5;252mslide N         \u001b[38;5;207m1..9\u001b[18;18H\u001b[38;5;252mfirst slide     \u001b[38;5;207mHome\u001b[38;5;252m, \u001b[38;5;207mg\u001b[19;18H\u001b[38;5;252mlast slide      \u001b[38;5;207mEnd\u001b[38;5;252m, \u001b[38;5;207mG\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015282,
+      "\u001b[5;19H\u001b[38;5;253mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;253mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;253mnext slide      \u001b[38;5;207mEnter\u001b[38;5;253m, \u001b[38;5;207mSpace\u001b[38;5;253m, \u001b[9;57H, \u001b[38;5;207mj\u001b[38;5;253m, \u001b[38;5;207ml\u001b[38;5;253m,\u001b[10;18H\u001b[16X\u001b[10;44H, \u001b[12;18Hprevious slide  \u001b[12;43H, \u001b[52G, \u001b[38;5;207mh\u001b[38;5;253m, \u001b[38;5;207mk\u001b[38;5;253m,\u001b[13;18H\u001b[16X\u001b[13;42H, \u001b[15;18Hquit            \u001b[16;18Hreload          \u001b[17;18Hslide N         \u001b[18;18Hfirst slide     \u001b[38;5;207mHome\u001b[38;5;253m, \u001b[19;18Hlast slide      \u001b[38;5;207mEnd\u001b[38;5;253m, \u001b[C\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017983,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;123mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;254mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;254mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;254mnext slide      \u001b[38;5;213mEnter\u001b[38;5;254m, \u001b[38;5;213mSpace\u001b[38;5;254m, \u001b[38;5;213mPage Down\u001b[38;5;254m, \u001b[38;5;213mj\u001b[38;5;254m, \u001b[38;5;213ml\u001b[38;5;254m,\u001b[10;18H\u001b[16X\u001b[10;34H\u001b[38;5;213mDown Arrow\u001b[38;5;254m, \u001b[38;5;213mRight Arrow\u001b[12;18H\u001b[38;5;254mprevious slide  \u001b[38;5;213mBackspace\u001b[38;5;254m, \u001b[38;5;213mPage Up\u001b[38;5;254m, \u001b[38;5;213mh\u001b[38;5;254m, \u001b[38;5;213mk\u001b[38;5;254m,\u001b[13;18H\u001b[16X\u001b[13;34H\u001b[38;5;213mUp Arrow\u001b[38;5;254m, \u001b[38;5;213mLeft Arrow\u001b[15;18H\u001b[38;5;254mquit            \u001b[38;5;213mq\u001b[16;18H\u001b[38;5;254mreload          \u001b[38;5;213mr\u001b[17;18H\u001b[38;5;254mslide N         \u001b[38;5;213m1..9\u001b[18;18H\u001b[38;5;254mfirst slide     \u001b[38;5;213mHome\u001b[38;5;254m, \u001b[38;5;213mg\u001b[19;18H\u001b[38;5;254mlast slide      \u001b[38;5;213mEnd\u001b[38;5;254m, \u001b[38;5;213mG\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015904,
+      "\u001b[5;19H\u001b[38;5;255mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;255mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;255mnext slide      \u001b[38;5;213mEnter\u001b[38;5;255m, \u001b[38;5;213mSpace\u001b[38;5;255m, \u001b[9;57H, \u001b[38;5;213mj\u001b[38;5;255m, \u001b[38;5;213ml\u001b[38;5;255m,\u001b[10;18H\u001b[16X\u001b[10;44H, \u001b[12;18Hprevious slide  \u001b[12;43H, \u001b[52G, \u001b[38;5;213mh\u001b[38;5;255m, \u001b[38;5;213mk\u001b[38;5;255m,\u001b[13;18H\u001b[16X\u001b[13;42H, \u001b[15;18Hquit            \u001b[16;18Hreload          \u001b[17;18Hslide N         \u001b[18;18Hfirst slide     \u001b[38;5;213mHome\u001b[38;5;255m, \u001b[19;18Hlast slide      \u001b[38;5;213mEnd\u001b[38;5;255m, \u001b[C\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      2.126734,
+      "\u001b[25;1H\u001b[?12l\u001b[?25h\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000102,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "[1]+  Stopped                 ./mdp sample.md\r\n"
+    ],
+    [
+      0.000141,
+      "bash-3.2$ "
+    ],
+    [
+      1.719531,
+      "f"
+    ],
+    [
+      0.591974,
+      "g"
+    ],
+    [
+      0.688447,
+      "\r\n"
+    ],
+    [
+      0.000121,
+      "./mdp sample.md\r\n"
+    ],
+    [
+      0.000065,
+      "\u001b[?1049h\u001b[1;25r\u001b[?25l"
+    ],
+    [
+      0.000350,
+      "\u001b[39;49m\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[38;5;208m\u001b[H\u001b[2J\u001b[1;31Hmdp - Sample Presentation\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;123mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;255mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;255mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;255mnext slide      \u001b[38;5;213mEnter\u001b[38;5;255m, \u001b[38;5;213mSpace\u001b[38;5;255m, \u001b[38;5;213mPage Down\u001b[38;5;255m, \u001b[38;5;213mj\u001b[38;5;255m, \u001b[38;5;213ml\u001b[38;5;255m,\u001b[10;18H\u001b[16X\u001b[10;34H\u001b[38;5;213mDown Arrow\u001b[38;5;255m, \u001b[38;5;213mRight Arrow\u001b[12;18H\u001b[38;5;255mprevious slide  \u001b[38;5;213mBackspace\u001b[38;5;255m, \u001b[38;5;213mPage Up\u001b[38;5;255m, \u001b[38;5;213mh\u001b[38;5;255m, \u001b[38;5;213mk\u001b[38;5;255m,\u001b[13;18H\u001b[16X\u001b[13;34H\u001b[38;5;213mUp Arrow\u001b[38;5;255m, \u001b[38;5;213mLeft Arrow\u001b[15;18H\u001b[38;5;255mquit            \u001b[38;5;213mq\u001b[16;18H\u001b[38;5;255mreload          \u001b[38;5;213mr\u001b[17;18H\u001b[38;5;255mslide N         \u001b[38;5;213m1..9\u001b[18;18H\u001b[38;5;255mfirst slide     \u001b[38;5;213mHome\u001b[38;5;255m, \u001b[38;5;213mg\u001b[19;18H\u001b[38;5;255mlast slide      \u001b[38;5;213mEnd\u001b[38;5;255m, \u001b[38;5;213mG\u001b[25;4H\u001b[38;5;208mvisit1985\u001b[25;7"
+    ],
+    [
+      0.000111,
+      "7H1 / 18\u001b[19;40H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.135080,
+      "char: 27\n"
+    ],
+    [
+      1.004529,
+      "\u001b[H\n\u001b[38;5;255m\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[H\n\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000170,
+      "\u001b[38;5;208m\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[83G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000503,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;123mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;255mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;255mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;255mnext slide      \u001b[38;5;213mEnter\u001b[38;5;255m, \u001b[38;5;213mSpace\u001b[38;5;255m, \u001b[38;5;213mPage Down\u001b[38;5;255m, \u001b[38;5;213mj\u001b[38;5;255m, \u001b[38;5;213ml\u001b[38;5;255m,\u001b[10;18H\u001b[16X\u001b[10;34H\u001b[38;5;213mDown Arrow\u001b[38;5;255m, \u001b[38;5;213mRight Arrow\u001b[12;18H\u001b[38;5;255mprevious slide  \u001b[38;5;213mBackspace\u001b[38;5;255m, \u001b[38;5;213mPage Up\u001b[38;5;255m, \u001b[38;5;213mh\u001b[38;5;255m, \u001b[38;5;213mk\u001b[38;5;255m,\u001b[13;18H\u001b[16X\u001b[13;34H\u001b[38;5;213mUp Arrow\u001b[38;5;255m, \u001b[38;5;213mLeft Arrow\u001b[15;18H\u001b[38;5;255mquit            \u001b[38;5;213mq\u001b[16;18H\u001b[38;5;255mreload          \u001b[38;5;213mr\u001b[17;18H\u001b[38;5;255mslide N         \u001b[38;5;213m1..9\u001b[18;18H\u001b[38;5;255mfirst slide     \u001b[38;5;213mHome\u001b[38;5;255m, \u001b[38;5;213mg\u001b[19;18H\u001b[38;5;255mlast slide      \u001b[38;5;213mEnd\u001b[38;5;255m, \u001b[38;5;213mG\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000007,
+      "\u001b[?1h\u001b=char: 91\n"
+    ],
+    [
+      1.005107,
+      "\u001b[H\n\u001b[38;5;255m\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[H\n\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000210,
+      "\u001b[38;5;208m\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[83G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000415,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;123mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;255mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;255mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;255mnext slide      \u001b[38;5;213mEnter\u001b[38;5;255m, \u001b[38;5;213mSpace\u001b[38;5;255m, \u001b[38;5;213mPage Down\u001b[38;5;255m, \u001b[38;5;213mj\u001b[38;5;255m, \u001b[38;5;213ml\u001b[38;5;255m,\u001b[10;18H\u001b[16X\u001b[10;34H\u001b[38;5;213mDown Arrow\u001b[38;5;255m, \u001b[38;5;213mRight Arrow\u001b[12;18H\u001b[38;5;255mprevious slide  \u001b[38;5;213mBackspace\u001b[38;5;255m, \u001b[38;5;213mPage Up\u001b[38;5;255m, \u001b[38;5;213mh\u001b[38;5;255m, \u001b[38;5;213mk\u001b[38;5;255m,\u001b[13;18H\u001b[16X\u001b[13;34H\u001b[38;5;213mUp Arrow\u001b[38;5;255m, \u001b[38;5;213mLeft Arrow\u001b[15;18H\u001b[38;5;255mquit            \u001b[38;5;213mq\u001b[16;18H\u001b[38;5;255mreload          \u001b[38;5;213mr\u001b[17;18H\u001b[38;5;255mslide N         \u001b[38;5;213m1..9\u001b[18;18H\u001b[38;5;255mfirst slide     \u001b[38;5;213mHome\u001b[38;5;255m, \u001b[38;5;213mg\u001b[19;18H\u001b[38;5;255mlast slide      \u001b[38;5;213mEnd\u001b[38;5;255m, \u001b[38;5;213mG\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000008,
+      "char: 67\n"
+    ],
+    [
+      1.002154,
+      "\u001b[H\n\u001b[38;5;255m\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[H\n\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000186,
+      "\u001b[38;5;208m\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[83G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000442,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;123mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;255mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;255mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;255mnext slide      \u001b[38;5;213mEnter\u001b[38;5;255m, \u001b[38;5;213mSpace\u001b[38;5;255m, \u001b[38;5;213mPage Down\u001b[38;5;255m, \u001b[38;5;213mj\u001b[38;5;255m, \u001b[38;5;213ml\u001b[38;5;255m,\u001b[10;18H\u001b[16X\u001b[10;34H\u001b[38;5;213mDown Arrow\u001b[38;5;255m, \u001b[38;5;213mRight Arrow\u001b[12;18H\u001b[38;5;255mprevious slide  \u001b[38;5;213mBackspace\u001b[38;5;255m, \u001b[38;5;213mPage Up\u001b[38;5;255m, \u001b[38;5;213mh\u001b[38;5;255m, \u001b[38;5;213mk\u001b[38;5;255m,\u001b[13;18H\u001b[16X\u001b[13;34H\u001b[38;5;213mUp Arrow\u001b[38;5;255m, \u001b[38;5;213mLeft Arrow\u001b[15;18H\u001b[38;5;255mquit            \u001b[38;5;213mq\u001b[16;18H\u001b[38;5;255mreload          \u001b[38;5;213mr\u001b[17;18H\u001b[38;5;255mslide N         \u001b[38;5;213m1..9\u001b[18;18H\u001b[38;5;255mfirst slide     \u001b[38;5;213mHome\u001b[38;5;255m, \u001b[38;5;213mg\u001b[19;18H\u001b[38;5;255mlast slide      \u001b[38;5;213mEnd\u001b[38;5;255m, \u001b[38;5;213mG\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      2.874793,
+      "char: 261\n"
+    ],
+    [
+      1.005505,
+      "\u001b[5;19H\u001b[38;5;254mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;254mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;254mnext slide      \u001b[38;5;213mEnter\u001b[38;5;254m, \u001b[38;5;213mSpace\u001b[38;5;254m, \u001b[9;57H, \u001b[38;5;213mj\u001b[38;5;254m, \u001b[38;5;213ml\u001b[38;5;254m,\u001b[10;18H\u001b[16X\u001b[10;44H, \u001b[12;18Hprevious slide  \u001b[12;43H, \u001b[52G, \u001b[38;5;213mh\u001b[38;5;254m, \u001b[38;5;213mk\u001b[38;5;254m,\u001b[13;18H\u001b[16X\u001b[13;42H, \u001b[15;18Hquit            \u001b[16;18Hreload          \u001b[17;18Hslide N         \u001b[18;18Hfirst slide     \u001b[38;5;213mHome\u001b[38;5;254m, \u001b[19;18Hlast slide      \u001b[38;5;213mEnd\u001b[38;5;254m, \u001b[C\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016930,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;51mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;253mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;253mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;253mnext slide      \u001b[38;5;207mEnter\u001b[38;5;253m, \u001b[38;5;207mSpace\u001b[38;5;253m, \u001b[38;5;207mPage Down\u001b[38;5;253m, \u001b[38;5;207mj\u001b[38;5;253m, \u001b[38;5;207ml\u001b[38;5;253m,\u001b[10;18H\u001b[16X\u001b[10;34H\u001b[38;5;207mDown Arrow\u001b[38;5;253m, \u001b[38;5;207mRight Arrow\u001b[12;18H\u001b[38;5;253mprevious slide  \u001b[38;5;207mBackspace\u001b[38;5;253m, \u001b[38;5;207mPage Up\u001b[38;5;253m, \u001b[38;5;207mh\u001b[38;5;253m, \u001b[38;5;207mk\u001b[38;5;253m,\u001b[13;18H\u001b[16X\u001b[13;34H\u001b[38;5;207mUp Arrow\u001b[38;5;253m, \u001b[38;5;207mLeft Arrow\u001b[15;18H\u001b[38;5;253mquit            \u001b[38;5;207mq\u001b[16;18H\u001b[38;5;253mreload          \u001b[38;5;207mr\u001b[17;18H\u001b[38;5;253mslide N         \u001b[38;5;207m1..9\u001b[18;18H\u001b[38;5;253mfirst slide     \u001b[38;5;207mHome\u001b[38;5;253m, \u001b[38;5;207mg\u001b[19;18H\u001b[38;5;253mlast slide      \u001b[38;5;207mEnd\u001b[38;5;253m, \u001b[38;5;207mG\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018117,
+      "\u001b[5;19H\u001b[38;5;252mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;252mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;252mnext slide      \u001b[38;5;207mEnter\u001b[38;5;252m, \u001b[38;5;207mSpace\u001b[38;5;252m, \u001b[9;57H, \u001b[38;5;207mj\u001b[38;5;252m, \u001b[38;5;207ml\u001b[38;5;252m,\u001b[10;18H\u001b[16X\u001b[10;44H, \u001b[12;18Hprevious slide  \u001b[12;43H, \u001b[52G, \u001b[38;5;207mh\u001b[38;5;252m, \u001b[38;5;207mk\u001b[38;5;252m,\u001b[13;18H\u001b[16X\u001b[13;42H, \u001b[15;18Hquit            \u001b[16;18Hreload          \u001b[17;18Hslide N         \u001b[18;18Hfirst slide     \u001b[38;5;207mHome\u001b[38;5;252m, \u001b[19;18Hlast slide      \u001b[38;5;207mEnd\u001b[38;5;252m, \u001b[C\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016362,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;81mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;251mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;251mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;251mnext slide      \u001b[38;5;201mEnter\u001b[38;5;251m, \u001b[38;5;201mSpace\u001b[38;5;251m, \u001b[38;5;201mPage Down\u001b[38;5;251m, \u001b[38;5;201mj\u001b[38;5;251m, \u001b[38;5;201ml\u001b[38;5;251m,\u001b[10;18H\u001b[16X\u001b[10;34H\u001b[38;5;201mDown Arrow\u001b[38;5;251m, \u001b[38;5;201mRight Arrow\u001b[12;18H\u001b[38;5;251mprevious slide  \u001b[38;5;201mBackspace\u001b[38;5;251m, \u001b[38;5;201mPage Up\u001b[38;5;251m, \u001b[38;5;201mh\u001b[38;5;251m, \u001b[38;5;201mk\u001b[38;5;251m,\u001b[13;18H\u001b[16X\u001b[13;34H\u001b[38;5;201mUp Arrow\u001b[38;5;251m, \u001b[38;5;201mLeft Arrow\u001b[15;18H\u001b[38;5;251mquit            \u001b[38;5;201mq\u001b[16;18H\u001b[38;5;251mreload          \u001b[38;5;201mr\u001b[17;18H\u001b[38;5;251mslide N         \u001b[38;5;201m1..9\u001b[18;18H\u001b[38;5;251mfirst slide     \u001b[38;5;201mHome\u001b[38;5;251m, \u001b[38;5;201mg\u001b[19;18H\u001b[38;5;251mlast slide      \u001b[38;5;201mEnd\u001b[38;5;251m, \u001b[38;5;201mG\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015516,
+      "\u001b[5;19H\u001b[38;5;250mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;250mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;250mnext slide      \u001b[38;5;201mEnter\u001b[38;5;250m, \u001b[38;5;201mSpace\u001b[38;5;250m, \u001b[9;57H, \u001b[38;5;201mj\u001b[38;5;250m, \u001b[38;5;201ml\u001b[38;5;250m,\u001b[10;18H\u001b[16X\u001b[10;44H, \u001b[12;18Hprevious slide  \u001b[12;43H, \u001b[52G, \u001b[38;5;201mh\u001b[38;5;250m, \u001b[38;5;201mk\u001b[38;5;250m,\u001b[13;18H\u001b[16X\u001b[13;42H, \u001b[15;18Hquit            \u001b[16;18Hreload          \u001b[17;18Hslide N         \u001b[18;18Hfirst slide     \u001b[38;5;201mHome\u001b[38;5;250m, \u001b[19;18Hlast slide      \u001b[38;5;201mEnd\u001b[38;5;250m, \u001b[C\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016096,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;44mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;249mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;249mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;249mnext slide      \u001b[38;5;200mEnter\u001b[38;5;249m, \u001b[38;5;200mSpace\u001b[38;5;249m, \u001b[38;5;200mPage Down\u001b[38;5;249m, \u001b[38;5;200mj\u001b[38;5;249m, \u001b[38;5;200ml\u001b[38;5;249m,\u001b[10;18H\u001b[16X\u001b[10;34H\u001b[38;5;200mDown Arrow\u001b[38;5;249m, \u001b[38;5;200mRight Arrow\u001b[12;18H\u001b[38;5;249mprevious slide  \u001b[38;5;200mBackspace\u001b[38;5;249m, \u001b[38;5;200mPage Up\u001b[38;5;249m, \u001b[38;5;200mh\u001b[38;5;249m, \u001b[38;5;200mk\u001b[38;5;249m,\u001b[13;18H\u001b[16X\u001b[13;34H\u001b[38;5;200mUp Arrow\u001b[38;5;249m, \u001b[38;5;200mLeft Arrow\u001b[15;18H\u001b[38;5;249mquit            \u001b[38;5;200mq\u001b[16;18H\u001b[38;5;249mreload          \u001b[38;5;200mr\u001b[17;18H\u001b[38;5;249mslide N         \u001b[38;5;200m1..9\u001b[18;18H\u001b[38;5;249mfirst slide     \u001b[38;5;200mHome\u001b[38;5;249m, \u001b[38;5;200mg\u001b[19;18H\u001b[38;5;249mlast slide      \u001b[38;5;200mEnd\u001b[38;5;249m, \u001b[38;5;200mG\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018379,
+      "\u001b[5;19H\u001b[38;5;248mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;248mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;248mnext slide      \u001b[38;5;200mEnter\u001b[38;5;248m, \u001b[38;5;200mSpace\u001b[38;5;248m, \u001b[9;57H, \u001b[38;5;200mj\u001b[38;5;248m, \u001b[38;5;200ml\u001b[38;5;248m,\u001b[10;18H\u001b[16X\u001b[10;44H, \u001b[12;18Hprevious slide  \u001b[12;43H, \u001b[52G, \u001b[38;5;200mh\u001b[38;5;248m, \u001b[38;5;200mk\u001b[38;5;248m,\u001b[13;18H\u001b[16X\u001b[13;42H, \u001b[15;18Hquit            \u001b[16;18Hreload          \u001b[17;18Hslide N         \u001b[18;18Hfirst slide     \u001b[38;5;200mHome\u001b[38;5;248m, \u001b[19;18Hlast slide      \u001b[38;5;200mEnd\u001b[38;5;248m, \u001b[C\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015564,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;45mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;247mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;247mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;247mnext slide      \u001b[38;5;164mEnter\u001b[38;5;247m, \u001b[38;5;164mSpace\u001b[38;5;247m, \u001b[38;5;164mPage Down\u001b[38;5;247m, \u001b[38;5;164mj\u001b[38;5;247m, \u001b[38;5;164ml\u001b[38;5;247m,\u001b[10;18H\u001b[16X\u001b[10;34H\u001b[38;5;164mDown Arrow\u001b[38;5;247m, \u001b[38;5;164mRight Arrow\u001b[12;18H\u001b[38;5;247mprevious slide  \u001b[38;5;164mBackspace\u001b[38;5;247m, \u001b[38;5;164mPage Up\u001b[38;5;247m, \u001b[38;5;164mh\u001b[38;5;247m, \u001b[38;5;164mk\u001b[38;5;247m,\u001b[13;18H\u001b[16X\u001b[13;34H\u001b[38;5;164mUp Arrow\u001b[38;5;247m, \u001b[38;5;164mLeft Arrow\u001b[15;18H\u001b[38;5;247mquit            \u001b[38;5;164mq\u001b[16;18H\u001b[38;5;247mreload          \u001b[38;5;164mr\u001b[17;18H\u001b[38;5;247mslide N         \u001b[38;5;164m1..9\u001b[18;18H\u001b[38;5;247mfirst slide     \u001b[38;5;164mHome\u001b[38;5;247m, \u001b[38;5;164mg\u001b[19;18H\u001b[38;5;247mlast slide      \u001b[38;5;164mEnd\u001b[38;5;247m, \u001b[38;5;164mG\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015284,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;38mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;246mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;246mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;246mnext slide      \u001b[38;5;164mEnter\u001b[38;5;246m, \u001b[38;5;164mSpace\u001b[38;5;246m, \u001b[9;57H, \u001b[38;5;164mj\u001b[38;5;246m, \u001b[38;5;164ml\u001b[38;5;246m,\u001b[10;18H\u001b[16X\u001b[10;44H, \u001b[12;18Hprevious slide  \u001b[12;43H, \u001b[52G, \u001b[38;5;164mh\u001b[38;5;246m, \u001b[38;5;164mk\u001b[38;5;246m,\u001b[13;18H\u001b[16X\u001b[13;42H, \u001b[15;18Hquit            \u001b[16;18Hreload          \u001b[17;18Hslide N         \u001b[18;18Hfirst slide     \u001b[38;5;164mHome\u001b[38;5;246m, \u001b[19;18Hlast slide      \u001b[38;5;164mEnd\u001b[38;5;246m, \u001b[C\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018036,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;39mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;245mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;245mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;245mnext slide      \u001b[38;5;163mEnter\u001b[38;5;245m, \u001b[38;5;163mSpace\u001b[38;5;245m, \u001b[38;5;163mPage Down\u001b[38;5;245m, \u001b[38;5;163mj\u001b[38;5;245m, \u001b[38;5;163ml\u001b[38;5;245m,\u001b[10;18H\u001b[16X\u001b[10;34H\u001b[38;5;163mDown Arrow\u001b[38;5;245m, \u001b[38;5;163mRight Arrow\u001b[12;18H\u001b[38;5;245mprevious slide  \u001b[38;5;163mBackspace\u001b[38;5;245m, \u001b[38;5;163mPage Up\u001b[38;5;245m, \u001b[38;5;163mh\u001b[38;5;245m, \u001b[38;5;163mk\u001b[38;5;245m,\u001b[13;18H\u001b[16X\u001b[13;34H\u001b[38;5;163mUp Arrow\u001b[38;5;245m, \u001b[38;5;163mLeft Arrow\u001b[15;18H\u001b[38;5;245mquit            \u001b[38;5;163mq\u001b[16;18H\u001b[38;5;245mreload          \u001b[38;5;163mr\u001b[17;18H\u001b[38;5;245mslide N         \u001b[38;5;163m1..9\u001b[18;18H\u001b[38;5;245mfirst slide     \u001b[38;5;163mHome\u001b[38;5;245m, \u001b[38;5;163mg\u001b[19;18H\u001b[38;5;245mlast slide      \u001b[38;5;163mEnd\u001b[38;5;245m, \u001b[38;5;163mG\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019198,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;32mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;244mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;244mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;244mnext slide      \u001b[38;5;163mEnter\u001b[38;5;244m, \u001b[38;5;163mSpace\u001b[38;5;244m, \u001b[9;57H, \u001b[38;5;163mj\u001b[38;5;244m, \u001b[38;5;163ml\u001b[38;5;244m,\u001b[10;18H\u001b[16X\u001b[10;44H, \u001b[12;18Hprevious slide  \u001b[12;43H, \u001b[52G, \u001b[38;5;163mh\u001b[38;5;244m, \u001b[38;5;163mk\u001b[38;5;244m,\u001b[13;18H\u001b[16X\u001b[13;42H, \u001b[15;18Hquit            \u001b[16;18Hreload          \u001b[17;18Hslide N         \u001b[18;18Hfirst slide     \u001b[38;5;163mHome\u001b[38;5;244m, \u001b[19;18Hlast slide      \u001b[38;5;163mEnd\u001b[38;5;244m, \u001b[C\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016112,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;33mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;242mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;242mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;242mnext slide      \u001b[38;5;127mEnter\u001b[38;5;242m, \u001b[38;5;127mSpace\u001b[38;5;242m, \u001b[38;5;127mPage Down\u001b[38;5;242m, \u001b[38;5;127mj\u001b[38;5;242m, \u001b[38;5;127ml\u001b[38;5;242m,\u001b[10;18H\u001b[16X\u001b[10;34H\u001b[38;5;127mDown Arrow\u001b[38;5;242m, \u001b[38;5;127mRight Arrow\u001b[12;18H\u001b[38;5;242mprevious slide  \u001b[38;5;127mBackspace\u001b[38;5;242m, \u001b[38;5;127mPage Up\u001b[38;5;242m, \u001b[38;5;127mh\u001b[38;5;242m, \u001b[38;5;127mk\u001b[38;5;242m,\u001b[13;18H\u001b[16X\u001b[13;34H\u001b[38;5;127mUp Arrow\u001b[38;5;242m, \u001b[38;5;127mLeft Arrow\u001b[15;18H\u001b[38;5;242mquit            \u001b[38;5;127mq\u001b[16;18H\u001b[38;5;242mreload          \u001b[38;5;127mr\u001b[17;18H\u001b[38;5;242mslide N         \u001b[38;5;127m1..9\u001b[18;18H\u001b[38;5;242mfirst slide     \u001b[38;5;127mHome\u001b[38;5;242m, \u001b[38;5;127mg\u001b[19;18H\u001b[38;5;242mlast slide      \u001b[38;5;127mEnd\u001b[38;5;242m, \u001b[38;5;127mG\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015860,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;27mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;241mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;241mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;241mnext slide      \u001b[38;5;127mEnter\u001b[38;5;241m, \u001b[38;5;127mSpace\u001b[38;5;241m, \u001b[9;57H, \u001b[38;5;127mj\u001b[38;5;241m, \u001b[38;5;127ml\u001b[38;5;241m,\u001b[10;18H\u001b[16X\u001b[10;44H, \u001b[12;18Hprevious slide  \u001b[12;43H, \u001b[52G, \u001b[38;5;127mh\u001b[38;5;241m, \u001b[38;5;127mk\u001b[38;5;241m,\u001b[13;18H\u001b[16X\u001b[13;42H, \u001b[15;18Hquit            \u001b[16;18Hreload          \u001b[17;18Hslide N         \u001b[18;18Hfirst slide     \u001b[38;5;127mHome\u001b[38;5;241m, \u001b[19;18Hlast slide      \u001b[38;5;127mEnd\u001b[38;5;241m, \u001b[C\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015519,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;21mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;240mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;240mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;240mnext slide      \u001b[38;5;126mEnter\u001b[38;5;240m, \u001b[38;5;126mSpace\u001b[38;5;240m, \u001b[38;5;126mPage Down\u001b[38;5;240m, \u001b[38;5;126mj\u001b[38;5;240m, \u001b[38;5;126ml\u001b[38;5;240m,\u001b[10;18H\u001b[16X\u001b[10;34H\u001b[38;5;126mDown Arrow\u001b[38;5;240m, \u001b[38;5;126mRight Arrow\u001b[12;18H\u001b[38;5;240mprevious slide  \u001b[38;5;126mBackspace\u001b[38;5;240m, \u001b[38;5;126mPage Up\u001b[38;5;240m, \u001b[38;5;126mh\u001b[38;5;240m, \u001b[38;5;126mk\u001b[38;5;240m,\u001b[13;18H\u001b[16X\u001b[13;34H\u001b[38;5;126mUp Arrow\u001b[38;5;240m, \u001b[38;5;126mLeft Arrow\u001b[15;18H\u001b[38;5;240mquit            \u001b[38;5;126mq\u001b[16;18H\u001b[38;5;240mreload          \u001b[38;5;126mr\u001b[17;18H\u001b[38;5;240mslide N         \u001b[38;5;126m1..9\u001b[18;18H\u001b[38;5;240mfirst slide     \u001b[38;5;126mHome\u001b[38;5;240m, \u001b[38;5;126mg\u001b[19;18H\u001b[38;5;240mlast slide      \u001b[38;5;126mEnd\u001b[38;5;240m, \u001b[38;5;126mG\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016231,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;20mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;239mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;239mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;239mnext slide      \u001b[38;5;90mEnter\u001b[38;5;239m, \u001b[38;5;90mSpace\u001b[38;5;239m, \u001b[38;5;90mPage Down\u001b[38;5;239m, \u001b[38;5;90mj\u001b[38;5;239m, \u001b[38;5;90ml\u001b[38;5;239m,\u001b[10;18H\u001b[16X\u001b[10;34H\u001b[38;5;90mDown Arrow\u001b[38;5;239m, \u001b[38;5;90mRight Arrow\u001b[12;18H\u001b[38;5;239mprevious slide  \u001b[38;5;90mBackspace\u001b[38;5;239m, \u001b[38;5;90mPage Up\u001b[38;5;239m, \u001b[38;5;90mh\u001b[38;5;239m, \u001b[38;5;90mk\u001b[38;5;239m,\u001b[13;18H\u001b[16X\u001b[13;34H\u001b[38;5;90mUp Arrow\u001b[38;5;239m, \u001b[38;5;90mLeft Arrow\u001b[15;18H\u001b[38;5;239mquit            \u001b[38;5;90mq\u001b[16;18H\u001b[38;5;239mreload          \u001b[38;5;90mr\u001b[17;18H\u001b[38;5;239mslide N         \u001b[38;5;90m1..9\u001b[18;18H\u001b[38;5;239mfirst slide     \u001b[38;5;90mHome\u001b[38;5;239m, \u001b[38;5;90mg\u001b[19;18H\u001b[38;5;239mlast slide      \u001b[38;5;90mEnd\u001b[38;5;239m, \u001b[38;5;90mG\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016950,
+      "\u001b[5;19H\u001b[38;5;238mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;238mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;238mnext slide      \u001b[38;5;90mEnter\u001b[38;5;238m, \u001b[38;5;90mSpace\u001b[38;5;238m, \u001b[9;57H, \u001b[38;5;90mj\u001b[38;5;238m, \u001b[38;5;90ml\u001b[38;5;238m,\u001b[10;18H\u001b[16X\u001b[10;44H, \u001b[12;18Hprevious slide  \u001b[12;43H, \u001b[52G, \u001b[38;5;90mh\u001b[38;5;238m, \u001b[38;5;90mk\u001b[38;5;238m,\u001b[13;18H\u001b[16X\u001b[13;42H, \u001b[15;18Hquit            \u001b[16;18Hreload          \u001b[17;18Hslide N         \u001b[18;18Hfirst slide     \u001b[38;5;90mHome\u001b[38;5;238m, \u001b[19;18Hlast slide      \u001b[38;5;90mEnd\u001b[38;5;238m, \u001b[C\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019268,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;19mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;237mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;237mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;237mnext slide      \u001b[38;5;89mEnter\u001b[38;5;237m, \u001b[38;5;89mSpace\u001b[38;5;237m, \u001b[38;5;89mPage Down\u001b[38;5;237m, \u001b[38;5;89mj\u001b[38;5;237m, \u001b[38;5;89ml\u001b[38;5;237m,\u001b[10;18H\u001b[16X\u001b[10;34H\u001b[38;5;89mDown Arrow\u001b[38;5;237m, \u001b[38;5;89mRight Arrow\u001b[12;18H\u001b[38;5;237mprevious slide  \u001b[38;5;89mBackspace\u001b[38;5;237m, \u001b[38;5;89mPage Up\u001b[38;5;237m, \u001b[38;5;89mh\u001b[38;5;237m, \u001b[38;5;89mk\u001b[38;5;237m,\u001b[13;18H\u001b[16X\u001b[13;34H\u001b[38;5;89mUp Arrow\u001b[38;5;237m, \u001b[38;5;89mLeft Arrow\u001b[15;18H\u001b[38;5;237mquit            \u001b[38;5;89mq\u001b[16;18H\u001b[38;5;237mreload          \u001b[38;5;89mr\u001b[17;18H\u001b[38;5;237mslide N         \u001b[38;5;89m1..9\u001b[18;18H\u001b[38;5;237mfirst slide     \u001b[38;5;89mHome\u001b[38;5;237m, \u001b[38;5;89mg\u001b[19;18H\u001b[38;5;237mlast slide      \u001b[38;5;89mEnd\u001b[38;5;237m, \u001b[38;5;89mG\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019183,
+      "\u001b[5;19H\u001b[38;5;236mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;236mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;236mnext slide      \u001b[38;5;89mEnter\u001b[38;5;236m, \u001b[38;5;89mSpace\u001b[38;5;236m, \u001b[9;57H, \u001b[38;5;89mj\u001b[38;5;236m, \u001b[38;5;89ml\u001b[38;5;236m,\u001b[10;18H\u001b[16X\u001b[10;44H, \u001b[12;18Hprevious slide  \u001b[12;43H, \u001b[52G, \u001b[38;5;89mh\u001b[38;5;236m, \u001b[38;5;89mk\u001b[38;5;236m,\u001b[13;18H\u001b[16X\u001b[13;42H, \u001b[15;18Hquit            \u001b[16;18Hreload          \u001b[17;18Hslide N         \u001b[18;18Hfirst slide     \u001b[38;5;89mHome\u001b[38;5;236m, \u001b[19;18Hlast slide      \u001b[38;5;89mEnd\u001b[38;5;236m, \u001b[C\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017118,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;18mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;235mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;235mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;235mnext slide      \u001b[38;5;53mEnter\u001b[38;5;235m, \u001b[38;5;53mSpace\u001b[38;5;235m, \u001b[38;5;53mPage Down\u001b[38;5;235m, \u001b[38;5;53mj\u001b[38;5;235m, \u001b[38;5;53ml\u001b[38;5;235m,\u001b[10;18H\u001b[16X\u001b[10;34H\u001b[38;5;53mDown Arrow\u001b[38;5;235m, \u001b[38;5;53mRight Arrow\u001b[12;18H\u001b[38;5;235mprevious slide  \u001b[38;5;53mBackspace\u001b[38;5;235m, \u001b[38;5;53mPage Up\u001b[38;5;235m, \u001b[38;5;53mh\u001b[38;5;235m, \u001b[38;5;53mk\u001b[38;5;235m,\u001b[13;18H\u001b[16X\u001b[13;34H\u001b[38;5;53mUp Arrow\u001b[38;5;235m, \u001b[38;5;53mLeft Arrow\u001b[15;18H\u001b[38;5;235mquit            \u001b[38;5;53mq\u001b[16;18H\u001b[38;5;235mreload          \u001b[38;5;53mr\u001b[17;18H\u001b[38;5;235mslide N         \u001b[38;5;53m1..9\u001b[18;18H\u001b[38;5;235mfirst slide     \u001b[38;5;53mHome\u001b[38;5;235m, \u001b[38;5;53mg\u001b[19;18H\u001b[38;5;235mlast slide      \u001b[38;5;53mEnd\u001b[38;5;235m, \u001b[38;5;53mG\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019188,
+      "\u001b[5;19H\u001b[38;5;234mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;234mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;234mnext slide      \u001b[38;5;53mEnter\u001b[38;5;234m, \u001b[38;5;53mSpace\u001b[38;5;234m, \u001b[9;57H, \u001b[38;5;53mj\u001b[38;5;234m, \u001b[38;5;53ml\u001b[38;5;234m,\u001b[10;18H\u001b[16X\u001b[10;44H, \u001b[12;18Hprevious slide  \u001b[12;43H, \u001b[52G, \u001b[38;5;53mh\u001b[38;5;234m, \u001b[38;5;53mk\u001b[38;5;234m,\u001b[13;18H\u001b[16X\u001b[13;42H, \u001b[15;18Hquit            \u001b[16;18Hreload          \u001b[17;18Hslide N         \u001b[18;18Hfirst slide     \u001b[38;5;53mHome\u001b[38;5;234m, \u001b[19;18Hlast slide      \u001b[38;5;53mEnd\u001b[38;5;234m, \u001b[C\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017224,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;17mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;233mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;233mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;233mnext slide      \u001b[38;5;52mEnter\u001b[38;5;233m, \u001b[38;5;52mSpace\u001b[38;5;233m, \u001b[38;5;52mPage Down\u001b[38;5;233m, \u001b[38;5;52mj\u001b[38;5;233m, \u001b[38;5;52ml\u001b[38;5;233m,\u001b[10;18H\u001b[16X\u001b[10;34H\u001b[38;5;52mDown Arrow\u001b[38;5;233m, \u001b[38;5;52mRight Arrow\u001b[12;18H\u001b[38;5;233mprevious slide  \u001b[38;5;52mBackspace\u001b[38;5;233m, \u001b[38;5;52mPage Up\u001b[38;5;233m, \u001b[38;5;52mh\u001b[38;5;233m, \u001b[38;5;52mk\u001b[38;5;233m,\u001b[13;18H\u001b[16X\u001b[13;34H\u001b[38;5;52mUp Arrow\u001b[38;5;233m, \u001b[38;5;52mLeft Arrow\u001b[15;18H\u001b[38;5;233mquit            \u001b[38;5;52mq\u001b[16;18H\u001b[38;5;233mreload          \u001b[38;5;52mr\u001b[17;18H\u001b[38;5;233mslide N         \u001b[38;5;52m1..9\u001b[18;18H\u001b[38;5;233mfirst slide     \u001b[38;5;52mHome\u001b[38;5;233m, \u001b[38;5;52mg\u001b[19;18H\u001b[38;5;233mlast slide      \u001b[38;5;52mEnd\u001b[38;5;233m, \u001b[38;5;52mG\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016755,
+      "\u001b[5;19H\u001b[38;5;232mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;232mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;232mnext slide      \u001b[38;5;52mEnter\u001b[38;5;232m, \u001b[38;5;52mSpace\u001b[38;5;232m, \u001b[9;57H, \u001b[38;5;52mj\u001b[38;5;232m, \u001b[38;5;52ml\u001b[38;5;232m,\u001b[10;18H\u001b[16X\u001b[10;44H, \u001b[12;18Hprevious slide  \u001b[12;43H, \u001b[52G, \u001b[38;5;52mh\u001b[38;5;232m, \u001b[38;5;52mk\u001b[38;5;232m,\u001b[13;18H\u001b[16X\u001b[13;42H, \u001b[15;18Hquit            \u001b[16;18Hreload          \u001b[17;18Hslide N         \u001b[18;18Hfirst slide     \u001b[38;5;52mHome\u001b[38;5;232m, \u001b[19;18Hlast slide      \u001b[38;5;52mEnd\u001b[38;5;232m, \u001b[C\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018824,
+      "\u001b[3;41H\u001b(B\u001b[0;4m\u001b[38;5;16mmdp\u001b[5;19H\u001b(B\u001b[0m\u001b[38;5;16mA command-line based markdown presentation tool.\u001b[7;18H\u001b(B\u001b[0;4m\u001b[38;5;16mBasic controls:\u001b[9;18H\u001b(B\u001b[0m\u001b[38;5;16mnext slide      \u001b[38;5;16mEnter\u001b[38;5;16m, \u001b[38;5;16mSpace\u001b[38;5;16m, \u001b[38;5;16mPage Down\u001b[38;5;16m, \u001b[38;5;16mj\u001b[38;5;16m, \u001b[38;5;16ml\u001b[38;5;16m,\u001b[10;18H\u001b[16X\u001b[10;34H\u001b[38;5;16mDown Arrow\u001b[38;5;16m, \u001b[38;5;16mRight Arrow\u001b[12;18H\u001b[38;5;16mprevious slide  \u001b[38;5;16mBackspace\u001b[38;5;16m, \u001b[38;5;16mPage Up\u001b[38;5;16m, \u001b[38;5;16mh\u001b[38;5;16m, \u001b[38;5;16mk\u001b[38;5;16m,\u001b[13;18H\u001b[16X\u001b[13;34H\u001b[38;5;16mUp Arrow\u001b[38;5;16m, \u001b[38;5;16mLeft Arrow\u001b[15;18H\u001b[38;5;16mquit            \u001b[38;5;16mq\u001b[16;18H\u001b[38;5;16mreload          \u001b[38;5;16mr\u001b[17;18H\u001b[38;5;16mslide N         \u001b[38;5;16m1..9\u001b[18;18H\u001b[38;5;16mfirst slide     \u001b[38;5;16mHome\u001b[38;5;16m, \u001b[38;5;16mg\u001b[19;18H\u001b[38;5;16mlast slide      \u001b[38;5;16mEnd\u001b[38;5;16m, \u001b[38;5;16mG\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017391,
+      "\u001b[H\n\u001b[38;5;16m\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[H\n\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000323,
+      "\u001b[38;5;208m\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[25;77H2\u001b[83G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000227,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;16mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;16mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;16m*\u001b[38;5;16m or \u001b[38;5;16m-\u001b[38;5;16m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018590,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;17mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;232mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;52m*\u001b[38;5;232m or \u001b[38;5;52m-\u001b[38;5;232m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015657,
+      "\u001b[5;18H\u001b[38;5;233mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;52m*\u001b[38;5;233m or \u001b[38;5;52m-\u001b[38;5;233m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016217,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;18mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;234mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;53m*\u001b[38;5;234m or \u001b[38;5;53m-\u001b[38;5;234m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019077,
+      "\u001b[5;18H\u001b[38;5;235mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;53m*\u001b[38;5;235m or \u001b[38;5;53m-\u001b[38;5;235m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018183,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;19mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;236mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;89m*\u001b[38;5;236m or \u001b[38;5;89m-\u001b[38;5;236m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018109,
+      "\u001b[5;18H\u001b[38;5;237mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;89m*\u001b[38;5;237m or \u001b[38;5;89m-\u001b[38;5;237m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018246,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;20mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;238mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;90m*\u001b[38;5;238m or \u001b[38;5;90m-\u001b[38;5;238m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019126,
+      "\u001b[5;18H\u001b[38;5;239mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;90m*\u001b[38;5;239m or \u001b[38;5;90m-\u001b[38;5;239m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019147,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;21mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;240mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;126m*\u001b[38;5;240m or \u001b[38;5;126m-\u001b[38;5;240m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019144,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;27mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;241mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;127m*\u001b[38;5;241m or \u001b[38;5;127m-\u001b[38;5;241m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016498,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;33mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;242mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;127m*\u001b[38;5;242m or \u001b[38;5;127m-\u001b[38;5;242m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019102,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;32mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;244mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;163m*\u001b[38;5;244m or \u001b[38;5;163m-\u001b[38;5;244m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016322,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;39mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;245mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;163m*\u001b[38;5;245m or \u001b[38;5;163m-\u001b[38;5;245m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015917,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;38mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;246mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;164m*\u001b[38;5;246m or \u001b[38;5;164m-\u001b[38;5;246m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017090,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;45mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;247mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;164m*\u001b[38;5;247m or \u001b[38;5;164m-\u001b[38;5;247m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017708,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;44mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;248mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;200m*\u001b[38;5;248m or \u001b[38;5;200m-\u001b[38;5;248m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015465,
+      "\u001b[5;18H\u001b[38;5;249mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;200m*\u001b[38;5;249m or \u001b[38;5;200m-\u001b[38;5;249m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018342,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;81mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;250mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;201m*\u001b[38;5;250m or \u001b[38;5;201m-\u001b[38;5;250m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016053,
+      "\u001b[5;18H\u001b[38;5;251mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;201m*\u001b[38;5;251m or \u001b[38;5;201m-\u001b[38;5;251m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015774,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;51mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;252mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;207m*\u001b[38;5;252m or \u001b[38;5;207m-\u001b[38;5;252m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017888,
+      "\u001b[5;18H\u001b[38;5;253mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;207m*\u001b[38;5;253m or \u001b[38;5;207m-\u001b[38;5;253m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016188,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;123mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;254mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;213m*\u001b[38;5;254m or \u001b[38;5;213m-\u001b[38;5;254m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015382,
+      "\u001b[5;18H\u001b[38;5;255mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;213m*\u001b[38;5;255m or \u001b[38;5;213m-\u001b[38;5;255m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      5.319754,
+      "char: 261\n"
+    ],
+    [
+      1.002328,
+      "\u001b[5;18H\u001b[38;5;254mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;213m*\u001b[38;5;254m or \u001b[38;5;213m-\u001b[38;5;254m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019153,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;51mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;253mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;207m*\u001b[38;5;253m or \u001b[38;5;207m-\u001b[38;5;253m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015724,
+      "\u001b[5;18H\u001b[38;5;252mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;207m*\u001b[38;5;252m or \u001b[38;5;207m-\u001b[38;5;252m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017961,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;81mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;251mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;201m*\u001b[38;5;251m or \u001b[38;5;201m-\u001b[38;5;251m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019136,
+      "\u001b[5;18H\u001b[38;5;250mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;201m*\u001b[38;5;250m or \u001b[38;5;201m-\u001b[38;5;250m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016691,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;44mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;249mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;200m*\u001b[38;5;249m or \u001b[38;5;200m-\u001b[38;5;249m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015189,
+      "\u001b[5;18H\u001b[38;5;248mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;200m*\u001b[38;5;248m or \u001b[38;5;200m-\u001b[38;5;248m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019149,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;45mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;247mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;164m*\u001b[38;5;247m or \u001b[38;5;164m-\u001b[38;5;247m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015296,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;38mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;246mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;164m*\u001b[38;5;246m or \u001b[38;5;164m-\u001b[38;5;246m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016172,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;39mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;245mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;163m*\u001b[38;5;245m or \u001b[38;5;163m-\u001b[38;5;245m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018388,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;32mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;244mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;163m*\u001b[38;5;244m or \u001b[38;5;163m-\u001b[38;5;244m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016307,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;33mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;242mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;127m*\u001b[38;5;242m or \u001b[38;5;127m-\u001b[38;5;242m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015393,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;27mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;241mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;127m*\u001b[38;5;241m or \u001b[38;5;127m-\u001b[38;5;241m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016366,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;21mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;240mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;126m*\u001b[38;5;240m or \u001b[38;5;126m-\u001b[38;5;240m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017957,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;20mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;239mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;90m*\u001b[38;5;239m or \u001b[38;5;90m-\u001b[38;5;239m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015922,
+      "\u001b[5;18H\u001b[38;5;238mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;90m*\u001b[38;5;238m or \u001b[38;5;90m-\u001b[38;5;238m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019146,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;19mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;237mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;89m*\u001b[38;5;237m or \u001b[38;5;89m-\u001b[38;5;237m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017418,
+      "\u001b[5;18H\u001b[38;5;236mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;89m*\u001b[38;5;236m or \u001b[38;5;89m-\u001b[38;5;236m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019190,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;18mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;235mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;53m*\u001b[38;5;235m or \u001b[38;5;53m-\u001b[38;5;235m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016461,
+      "\u001b[5;18H\u001b[38;5;234mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;53m*\u001b[38;5;234m or \u001b[38;5;53m-\u001b[38;5;234m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016465,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;17mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;233mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;52m*\u001b[38;5;233m or \u001b[38;5;52m-\u001b[38;5;233m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017350,
+      "\u001b[5;18H\u001b[38;5;232mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;52m*\u001b[38;5;232m or \u001b[38;5;52m-\u001b[38;5;232m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019146,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;16mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;16mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;16m*\u001b[38;5;16m or \u001b[38;5;16m-\u001b[38;5;16m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018255,
+      "\u001b[H\n\u001b[38;5;16m\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[H\n\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000128,
+      "\u001b[38;5;208m\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[25;77H3\u001b[83G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000090,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;16mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;16mFirst-level headers can be prefixed by single \u001b[38;5;16m#\u001b[6;18H\u001b[38;5;16mor underlined by \u001b[38;5;16m===\u001b[38;5;16m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;16mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019139,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;17mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;232mFirst-level headers can be prefixed by single \u001b[38;5;52m#\u001b[6;18H\u001b[38;5;232mor underlined by \u001b[38;5;52m===\u001b[38;5;232m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;17mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015760,
+      "\u001b[5;18H\u001b[38;5;233mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;52m===\u001b[38;5;233m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\n\n\u001b[29G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018658,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;18mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;234mFirst-level headers can be prefixed by single \u001b[38;5;53m#\u001b[6;18H\u001b[38;5;234mor underlined by \u001b[38;5;53m===\u001b[38;5;234m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;18mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019079,
+      "\u001b[5;18H\u001b[38;5;235mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;53m===\u001b[38;5;235m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\n\n\u001b[29G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017575,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;19mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;236mFirst-level headers can be prefixed by single \u001b[38;5;89m#\u001b[6;18H\u001b[38;5;236mor underlined by \u001b[38;5;89m===\u001b[38;5;236m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;19mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015381,
+      "\u001b[5;18H\u001b[38;5;237mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;89m===\u001b[38;5;237m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\n\n\u001b[29G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017645,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;20mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;238mFirst-level headers can be prefixed by single \u001b[38;5;90m#\u001b[6;18H\u001b[38;5;238mor underlined by \u001b[38;5;90m===\u001b[38;5;238m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;20mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016095,
+      "\u001b[5;18H\u001b[38;5;239mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;90m===\u001b[38;5;239m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\n\n\u001b[29G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018886,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;21mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;240mFirst-level headers can be prefixed by single \u001b[38;5;126m#\u001b[6;18H\u001b[38;5;240mor underlined by \u001b[38;5;126m===\u001b[38;5;240m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;21mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016533,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;27mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;241mFirst-level headers can be prefixed by single \u001b[38;5;127m#\u001b[6;18H\u001b[38;5;241mor underlined by \u001b[38;5;127m===\u001b[38;5;241m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;27mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018792,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;33mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;242mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;127m===\u001b[38;5;242m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;33mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018750,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;32mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;244mFirst-level headers can be prefixed by single \u001b[38;5;163m#\u001b[6;18H\u001b[38;5;244mor underlined by \u001b[38;5;163m===\u001b[38;5;244m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;32mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018067,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;39mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;245mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;163m===\u001b[38;5;245m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;39mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019103,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;38mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;246mFirst-level headers can be prefixed by single \u001b[38;5;164m#\u001b[6;18H\u001b[38;5;246mor underlined by \u001b[38;5;164m===\u001b[38;5;246m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;38mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018786,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;45mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;247mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;164m===\u001b[38;5;247m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;45mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018788,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;44mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;248mFirst-level headers can be prefixed by single \u001b[38;5;200m#\u001b[6;18H\u001b[38;5;248mor underlined by \u001b[38;5;200m===\u001b[38;5;248m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;44mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016986,
+      "\u001b[5;18H\u001b[38;5;249mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;200m===\u001b[38;5;249m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\n\n\u001b[29G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019042,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;81mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;250mFirst-level headers can be prefixed by single \u001b[38;5;201m#\u001b[6;18H\u001b[38;5;250mor underlined by \u001b[38;5;201m===\u001b[38;5;250m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;81mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017554,
+      "\u001b[5;18H\u001b[38;5;251mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;201m===\u001b[38;5;251m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\n\n\u001b[29G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015409,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;51mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;252mFirst-level headers can be prefixed by single \u001b[38;5;207m#\u001b[6;18H\u001b[38;5;252mor underlined by \u001b[38;5;207m===\u001b[38;5;252m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;51mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016682,
+      "\u001b[5;18H\u001b[38;5;253mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;207m===\u001b[38;5;253m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\n\n\u001b[29G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018050,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;123mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;254mFirst-level headers can be prefixed by single \u001b[38;5;213m#\u001b[6;18H\u001b[38;5;254mor underlined by \u001b[38;5;213m===\u001b[38;5;254m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;123mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018802,
+      "\u001b[5;18H\u001b[38;5;255mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;213m===\u001b[38;5;255m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\n\n\u001b[29G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.325766,
+      "char: 261\n"
+    ],
+    [
+      1.002471,
+      "\u001b[5;18H\u001b[38;5;254mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;213m===\u001b[38;5;254m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\n\n\u001b[29G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019105,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;51mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;253mFirst-level headers can be prefixed by single \u001b[38;5;207m#\u001b[6;18H\u001b[38;5;253mor underlined by \u001b[38;5;207m===\u001b[38;5;253m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;51mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015822,
+      "\u001b[5;18H\u001b[38;5;252mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;207m===\u001b[38;5;252m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\n\n\u001b[29G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017378,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;81mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;251mFirst-level headers can be prefixed by single \u001b[38;5;201m#\u001b[6;18H\u001b[38;5;251mor underlined by \u001b[38;5;201m===\u001b[38;5;251m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;81mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018386,
+      "\u001b[5;18H\u001b[38;5;250mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;201m===\u001b[38;5;250m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\n\n\u001b[29G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017906,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;44mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;249mFirst-level headers can be prefixed by single \u001b[38;5;200m#\u001b[6;18H\u001b[38;5;249mor underlined by \u001b[38;5;200m===\u001b[38;5;249m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;44mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019064,
+      "\u001b[5;18H\u001b[38;5;248mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;200m===\u001b[38;5;248m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\n\n\u001b[29G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015569,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;45mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;247mFirst-level headers can be prefixed by single \u001b[38;5;164m#\u001b[6;18H\u001b[38;5;247mor underlined by \u001b[38;5;164m===\u001b[38;5;247m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;45mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018194,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;38mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;246mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;164m===\u001b[38;5;246m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;38mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018832,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;39mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;245mFirst-level headers can be prefixed by single \u001b[38;5;163m#\u001b[6;18H\u001b[38;5;245mor underlined by \u001b[38;5;163m===\u001b[38;5;245m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;39mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018050,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;32mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;244mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;163m===\u001b[38;5;244m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;32mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016243,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;33mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;242mFirst-level headers can be prefixed by single \u001b[38;5;127m#\u001b[6;18H\u001b[38;5;242mor underlined by \u001b[38;5;127m===\u001b[38;5;242m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;33mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018742,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;27mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;241mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;127m===\u001b[38;5;241m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;27mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017016,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;21mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;240mFirst-level headers can be prefixed by single \u001b[38;5;126m#\u001b[6;18H\u001b[38;5;240mor underlined by \u001b[38;5;126m===\u001b[38;5;240m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;21mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018913,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;20mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;239mFirst-level headers can be prefixed by single \u001b[38;5;90m#\u001b[6;18H\u001b[38;5;239mor underlined by \u001b[38;5;90m===\u001b[38;5;239m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;20mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019076,
+      "\u001b[5;18H\u001b[38;5;238mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;90m===\u001b[38;5;238m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\n\n\u001b[29G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018824,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;19mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;237mFirst-level headers can be prefixed by single \u001b[38;5;89m#\u001b[6;18H\u001b[38;5;237mor underlined by \u001b[38;5;89m===\u001b[38;5;237m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;19mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015146,
+      "\u001b[5;18H\u001b[38;5;236mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;89m===\u001b[38;5;236m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\n\n\u001b[29G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019109,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;18mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;235mFirst-level headers can be prefixed by single \u001b[38;5;53m#\u001b[6;18H\u001b[38;5;235mor underlined by \u001b[38;5;53m===\u001b[38;5;235m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;18mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019061,
+      "\u001b[5;18H\u001b[38;5;234mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;53m===\u001b[38;5;234m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\n\n\u001b[29G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019103,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;17mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;233mFirst-level headers can be prefixed by single \u001b[38;5;52m#\u001b[6;18H\u001b[38;5;233mor underlined by \u001b[38;5;52m===\u001b[38;5;233m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;17mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019109,
+      "\u001b[5;18H\u001b[38;5;232mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;52m===\u001b[38;5;232m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\n\n\u001b[29G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018999,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;16mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;16mFirst-level headers can be prefixed by single \u001b[38;5;16m#\u001b[6;18H\u001b[38;5;16mor underlined by \u001b[38;5;16m===\u001b[38;5;16m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;16mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018277,
+      "\u001b[H\n\u001b[38;5;16m\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[H\n\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000115,
+      "\u001b[38;5;208m\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[25;77H4\u001b[83G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000139,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;16mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;16mSecond-level headers can be prefixed by \u001b[38;5;16m##\u001b[38;5;16m or\u001b[6;18Hunderlined by \u001b[38;5;16m---\u001b[38;5;16m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\u001b[13;18H\u001b[38;5;16msecond-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015423,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;17mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;232mSecond-level headers can be prefixed by \u001b[38;5;52m##\u001b[38;5;232m or\u001b[6;18Hunderlined by \u001b[38;5;52m---\u001b[38;5;232m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\u001b[13;18H\u001b[38;5;17msecond-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016760,
+      "\u001b[5;18H\u001b[38;5;233mSecond-level headers can be prefixed by \u001b[38;5;52m##\u001b[38;5;233m or\u001b[6;18Hunderlined by \u001b[38;5;52m---\u001b[38;5;233m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\n\n\u001b[30G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015495,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;18mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;234mSecond-level headers can be prefixed by \u001b[38;5;53m##\u001b[38;5;234m or\u001b[6;18Hunderlined by \u001b[38;5;53m---\u001b[38;5;234m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\u001b[13;18H\u001b[38;5;18msecond-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016178,
+      "\u001b[5;18H\u001b[38;5;235mSecond-level headers can be prefixed by \u001b[38;5;53m##\u001b[38;5;235m or\u001b[6;18Hunderlined by \u001b[38;5;53m---\u001b[38;5;235m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\n\n\u001b[30G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016071,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;19mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;236mSecond-level headers can be prefixed by \u001b[38;5;89m##\u001b[38;5;236m or\u001b[6;18Hunderlined by \u001b[38;5;89m---\u001b[38;5;236m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\u001b[13;18H\u001b[38;5;19msecond-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016472,
+      "\u001b[5;18H\u001b[38;5;237mSecond-level headers can be prefixed by \u001b[38;5;89m##\u001b[38;5;237m or\u001b[6;18Hunderlined by \u001b[38;5;89m---\u001b[38;5;237m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\n\n\u001b[30G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017738,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;20mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;238mSecond-level headers can be prefixed by \u001b[38;5;90m##\u001b[38;5;238m or\u001b[6;18Hunderlined by \u001b[38;5;90m---\u001b[38;5;238m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\u001b[13;18H\u001b[38;5;20msecond-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018855,
+      "\u001b[5;18H\u001b[38;5;239mSecond-level headers can be prefixed by \u001b[38;5;90m##\u001b[38;5;239m or\u001b[6;18Hunderlined by \u001b[38;5;90m---\u001b[38;5;239m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\n\n\u001b[30G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015293,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;21mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;240mSecond-level headers can be prefixed by \u001b[38;5;126m##\u001b[38;5;240m or\u001b[6;18Hunderlined by \u001b[38;5;126m---\u001b[38;5;240m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\u001b[13;18H\u001b[38;5;21msecond-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015273,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;27mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;241mSecond-level headers can be prefixed by \u001b[38;5;127m##\u001b[38;5;241m or\u001b[6;18Hunderlined by \u001b[38;5;127m---\u001b[38;5;241m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\u001b[13;18H\u001b[38;5;27msecond-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017205,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;33mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;242mSecond-level headers can be prefixed by \u001b[38;5;127m##\u001b[38;5;242m or\u001b[6;18Hunderlined by \u001b[38;5;127m---\u001b[38;5;242m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\u001b[13;18H\u001b[38;5;33msecond-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015242,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;32mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;244mSecond-level headers can be prefixed by \u001b[38;5;163m##\u001b[38;5;244m or\u001b[6;18Hunderlined by \u001b[38;5;163m---\u001b[38;5;244m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\u001b[13;18H\u001b[38;5;32msecond-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017373,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;39mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;245mSecond-level headers can be prefixed by \u001b[38;5;163m##\u001b[38;5;245m or\u001b[6;18Hunderlined by \u001b[38;5;163m---\u001b[38;5;245m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\u001b[13;18H\u001b[38;5;39msecond-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015432,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;38mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;246mSecond-level headers can be prefixed by \u001b[38;5;164m##\u001b[38;5;246m or\u001b[6;18Hunderlined by \u001b[38;5;164m---\u001b[38;5;246m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\u001b[13;18H\u001b[38;5;38msecond-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018930,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;45mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;247mSecond-level headers can be prefixed by \u001b[38;5;164m##\u001b[38;5;247m or\u001b[6;18Hunderlined by \u001b[38;5;164m---\u001b[38;5;247m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\u001b[13;18H\u001b[38;5;45msecond-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017528,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;44mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;248mSecond-level headers can be prefixed by \u001b[38;5;200m##\u001b[38;5;248m or\u001b[6;18Hunderlined by \u001b[38;5;200m---\u001b[38;5;248m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\u001b[13;18H\u001b[38;5;44msecond-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015578,
+      "\u001b[5;18H\u001b[38;5;249mSecond-level headers can be prefixed by \u001b[38;5;200m##\u001b[38;5;249m or\u001b[6;18Hunderlined by \u001b[38;5;200m---\u001b[38;5;249m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\n\n\u001b[30G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017371,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;81mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;250mSecond-level headers can be prefixed by \u001b[38;5;201m##\u001b[38;5;250m or\u001b[6;18Hunderlined by \u001b[38;5;201m---\u001b[38;5;250m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\u001b[13;18H\u001b[38;5;81msecond-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017258,
+      "\u001b[5;18H\u001b[38;5;251mSecond-level headers can be prefixed by \u001b[38;5;201m##\u001b[38;5;251m or\u001b[6;18Hunderlined by \u001b[38;5;201m---\u001b[38;5;251m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\n\n\u001b[30G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017571,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;51mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;252mSecond-level headers can be prefixed by \u001b[38;5;207m##\u001b[38;5;252m or\u001b[6;18Hunderlined by \u001b[38;5;207m---\u001b[38;5;252m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\u001b[13;18H\u001b[38;5;51msecond-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019097,
+      "\u001b[5;18H\u001b[38;5;253mSecond-level headers can be prefixed by \u001b[38;5;207m##\u001b[38;5;253m or\u001b[6;18Hunderlined by \u001b[38;5;207m---\u001b[38;5;253m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\n\n\u001b[30G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018786,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;123mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;254mSecond-level headers can be prefixed by \u001b[38;5;213m##\u001b[38;5;254m or\u001b[6;18Hunderlined by \u001b[38;5;213m---\u001b[38;5;254m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\u001b[13;18H\u001b[38;5;123msecond-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017392,
+      "\u001b[5;18H\u001b[38;5;255mSecond-level headers can be prefixed by \u001b[38;5;213m##\u001b[38;5;255m or\u001b[6;18Hunderlined by \u001b[38;5;213m---\u001b[38;5;255m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\n\n\u001b[30G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.737147,
+      "char: 260\n"
+    ],
+    [
+      1.005352,
+      "\u001b[5;18H\u001b[38;5;254mSecond-level headers can be prefixed by \u001b[38;5;213m##\u001b[38;5;254m or\u001b[6;18Hunderlined by \u001b[38;5;213m---\u001b[38;5;254m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\n\n\u001b[30G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016959,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;51mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;253mSecond-level headers can be prefixed by \u001b[38;5;207m##\u001b[38;5;253m or\u001b[6;18Hunderlined by \u001b[38;5;207m---\u001b[38;5;253m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\u001b[13;18H\u001b[38;5;51msecond-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016810,
+      "\u001b[5;18H\u001b[38;5;252mSecond-level headers can be prefixed by \u001b[38;5;207m##\u001b[38;5;252m or\u001b[6;18Hunderlined by \u001b[38;5;207m---\u001b[38;5;252m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\n\n\u001b[30G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018933,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;81mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;251mSecond-level headers can be prefixed by \u001b[38;5;201m##\u001b[38;5;251m or\u001b[6;18Hunderlined by \u001b[38;5;201m---\u001b[38;5;251m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\u001b[13;18H\u001b[38;5;81msecond-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017631,
+      "\u001b[5;18H\u001b[38;5;250mSecond-level headers can be prefixed by \u001b[38;5;201m##\u001b[38;5;250m or\u001b[6;18Hunderlined by \u001b[38;5;201m---\u001b[38;5;250m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\n\n\u001b[30G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015544,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;44mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;249mSecond-level headers can be prefixed by \u001b[38;5;200m##\u001b[38;5;249m or\u001b[6;18Hunderlined by \u001b[38;5;200m---\u001b[38;5;249m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\u001b[13;18H\u001b[38;5;44msecond-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016357,
+      "\u001b[5;18H\u001b[38;5;248mSecond-level headers can be prefixed by \u001b[38;5;200m##\u001b[38;5;248m or\u001b[6;18Hunderlined by \u001b[38;5;200m---\u001b[38;5;248m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\n\n\u001b[30G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019118,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;45mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;247mSecond-level headers can be prefixed by \u001b[38;5;164m##\u001b[38;5;247m or\u001b[6;18Hunderlined by \u001b[38;5;164m---\u001b[38;5;247m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\u001b[13;18H\u001b[38;5;45msecond-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017165,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;38mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;246mSecond-level headers can be prefixed by \u001b[38;5;164m##\u001b[38;5;246m or\u001b[6;18Hunderlined by \u001b[38;5;164m---\u001b[38;5;246m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\u001b[13;18H\u001b[38;5;38msecond-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018979,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;39mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;245mSecond-level headers can be prefixed by \u001b[38;5;163m##\u001b[38;5;245m or\u001b[6;18Hunderlined by \u001b[38;5;163m---\u001b[38;5;245m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\u001b[13;18H\u001b[38;5;39msecond-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019111,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;32mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;244mSecond-level headers can be prefixed by \u001b[38;5;163m##\u001b[38;5;244m or\u001b[6;18Hunderlined by \u001b[38;5;163m---\u001b[38;5;244m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\u001b[13;18H\u001b[38;5;32msecond-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017296,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;33mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;242mSecond-level headers can be prefixed by \u001b[38;5;127m##\u001b[38;5;242m or\u001b[6;18Hunderlined by \u001b[38;5;127m---\u001b[38;5;242m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\u001b[13;18H\u001b[38;5;33msecond-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019102,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;27mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;241mSecond-level headers can be prefixed by \u001b[38;5;127m##\u001b[38;5;241m or\u001b[6;18Hunderlined by \u001b[38;5;127m---\u001b[38;5;241m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\u001b[13;18H\u001b[38;5;27msecond-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018633,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;21mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;240mSecond-level headers can be prefixed by \u001b[38;5;126m##\u001b[38;5;240m or\u001b[6;18Hunderlined by \u001b[38;5;126m---\u001b[38;5;240m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\u001b[13;18H\u001b[38;5;21msecond-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017695,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;20mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;239mSecond-level headers can be prefixed by \u001b[38;5;90m##\u001b[38;5;239m or\u001b[6;18Hunderlined by \u001b[38;5;90m---\u001b[38;5;239m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\u001b[13;18H\u001b[38;5;20msecond-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016584,
+      "\u001b[5;18H\u001b[38;5;238mSecond-level headers can be prefixed by \u001b[38;5;90m##\u001b[38;5;238m or\u001b[6;18Hunderlined by \u001b[38;5;90m---\u001b[38;5;238m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\n\n\u001b[30G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017764,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;19mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;237mSecond-level headers can be prefixed by \u001b[38;5;89m##\u001b[38;5;237m or\u001b[6;18Hunderlined by \u001b[38;5;89m---\u001b[38;5;237m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\u001b[13;18H\u001b[38;5;19msecond-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018586,
+      "\u001b[5;18H\u001b[38;5;236mSecond-level headers can be prefixed by \u001b[38;5;89m##\u001b[38;5;236m or\u001b[6;18Hunderlined by \u001b[38;5;89m---\u001b[38;5;236m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\n\n\u001b[30G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019157,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;18mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;235mSecond-level headers can be prefixed by \u001b[38;5;53m##\u001b[38;5;235m or\u001b[6;18Hunderlined by \u001b[38;5;53m---\u001b[38;5;235m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\u001b[13;18H\u001b[38;5;18msecond-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018949,
+      "\u001b[5;18H\u001b[38;5;234mSecond-level headers can be prefixed by \u001b[38;5;53m##\u001b[38;5;234m or\u001b[6;18Hunderlined by \u001b[38;5;53m---\u001b[38;5;234m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\n\n\u001b[30G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019130,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;17mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;233mSecond-level headers can be prefixed by \u001b[38;5;52m##\u001b[38;5;233m or\u001b[6;18Hunderlined by \u001b[38;5;52m---\u001b[38;5;233m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\u001b[13;18H\u001b[38;5;17msecond-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015914,
+      "\u001b[5;18H\u001b[38;5;232mSecond-level headers can be prefixed by \u001b[38;5;52m##\u001b[38;5;232m or\u001b[6;18Hunderlined by \u001b[38;5;52m---\u001b[38;5;232m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\n\n\u001b[30G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015228,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;16mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;16mSecond-level headers can be prefixed by \u001b[38;5;16m##\u001b[38;5;16m or\u001b[6;18Hunderlined by \u001b[38;5;16m---\u001b[38;5;16m.\u001b[8;18Hsecond-level\u001b[9;18H------------\u001b[11;18Hbecomes\u001b[13;18H\u001b[38;5;16msecond-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016413,
+      "\u001b[H\n\u001b[38;5;16m\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[H\n\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000084,
+      "\u001b[38;5;208m\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[25;77H3\u001b[83G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000102,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;16mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;16mFirst-level headers can be prefixed by single \u001b[38;5;16m#\u001b[6;18H\u001b[38;5;16mor underlined by \u001b[38;5;16m===\u001b[38;5;16m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;16mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019117,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;17mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;232mFirst-level headers can be prefixed by single \u001b[38;5;52m#\u001b[6;18H\u001b[38;5;232mor underlined by \u001b[38;5;52m===\u001b[38;5;232m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;17mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015395,
+      "\u001b[5;18H\u001b[38;5;233mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;52m===\u001b[38;5;233m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\n\n\u001b[29G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016702,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;18mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;234mFirst-level headers can be prefixed by single \u001b[38;5;53m#\u001b[6;18H\u001b[38;5;234mor underlined by \u001b[38;5;53m===\u001b[38;5;234m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;18mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015283,
+      "\u001b[5;18H\u001b[38;5;235mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;53m===\u001b[38;5;235m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\n\n\u001b[29G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019091,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;19mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;236mFirst-level headers can be prefixed by single \u001b[38;5;89m#\u001b[6;18H\u001b[38;5;236mor underlined by \u001b[38;5;89m===\u001b[38;5;236m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;19mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019058,
+      "\u001b[5;18H\u001b[38;5;237mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;89m===\u001b[38;5;237m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\n\n\u001b[29G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019109,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;20mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;238mFirst-level headers can be prefixed by single \u001b[38;5;90m#\u001b[6;18H\u001b[38;5;238mor underlined by \u001b[38;5;90m===\u001b[38;5;238m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;20mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015448,
+      "\u001b[5;18H\u001b[38;5;239mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;90m===\u001b[38;5;239m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\n\n\u001b[29G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019112,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;21mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;240mFirst-level headers can be prefixed by single \u001b[38;5;126m#\u001b[6;18H\u001b[38;5;240mor underlined by \u001b[38;5;126m===\u001b[38;5;240m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;21mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017700,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;27mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;241mFirst-level headers can be prefixed by single \u001b[38;5;127m#\u001b[6;18H\u001b[38;5;241mor underlined by \u001b[38;5;127m===\u001b[38;5;241m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;27mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015349,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;33mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;242mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;127m===\u001b[38;5;242m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;33mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017546,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;32mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;244mFirst-level headers can be prefixed by single \u001b[38;5;163m#\u001b[6;18H\u001b[38;5;244mor underlined by \u001b[38;5;163m===\u001b[38;5;244m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;32mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017007,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;39mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;245mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;163m===\u001b[38;5;245m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;39mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016049,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;38mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;246mFirst-level headers can be prefixed by single \u001b[38;5;164m#\u001b[6;18H\u001b[38;5;246mor underlined by \u001b[38;5;164m===\u001b[38;5;246m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;38mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016560,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;45mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;247mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;164m===\u001b[38;5;247m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;45mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017643,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;44mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;248mFirst-level headers can be prefixed by single \u001b[38;5;200m#\u001b[6;18H\u001b[38;5;248mor underlined by \u001b[38;5;200m===\u001b[38;5;248m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;44mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018841,
+      "\u001b[5;18H\u001b[38;5;249mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;200m===\u001b[38;5;249m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\n\n\u001b[29G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019123,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;81mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;250mFirst-level headers can be prefixed by single \u001b[38;5;201m#\u001b[6;18H\u001b[38;5;250mor underlined by \u001b[38;5;201m===\u001b[38;5;250m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;81mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016260,
+      "\u001b[5;18H\u001b[38;5;251mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;201m===\u001b[38;5;251m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\n\n\u001b[29G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019107,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;51mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;252mFirst-level headers can be prefixed by single \u001b[38;5;207m#\u001b[6;18H\u001b[38;5;252mor underlined by \u001b[38;5;207m===\u001b[38;5;252m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;51mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019077,
+      "\u001b[5;18H\u001b[38;5;253mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;207m===\u001b[38;5;253m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\n\n\u001b[29G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019114,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;123mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;254mFirst-level headers can be prefixed by single \u001b[38;5;213m#\u001b[6;18H\u001b[38;5;254mor underlined by \u001b[38;5;213m===\u001b[38;5;254m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;123mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019071,
+      "\u001b[5;18H\u001b[38;5;255mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;213m===\u001b[38;5;255m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\n\n\u001b[29G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.652700,
+      "char: 260\n"
+    ],
+    [
+      1.005405,
+      "\u001b[5;18H\u001b[38;5;254mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;213m===\u001b[38;5;254m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\n\n\u001b[29G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017707,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;51mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;253mFirst-level headers can be prefixed by single \u001b[38;5;207m#\u001b[6;18H\u001b[38;5;253mor underlined by \u001b[38;5;207m===\u001b[38;5;253m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;51mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017088,
+      "\u001b[5;18H\u001b[38;5;252mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;207m===\u001b[38;5;252m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\n\n\u001b[29G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018423,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;81mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;251mFirst-level headers can be prefixed by single \u001b[38;5;201m#\u001b[6;18H\u001b[38;5;251mor underlined by \u001b[38;5;201m===\u001b[38;5;251m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;81mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019080,
+      "\u001b[5;18H\u001b[38;5;250mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;201m===\u001b[38;5;250m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\n\n\u001b[29G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017463,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;44mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;249mFirst-level headers can be prefixed by single \u001b[38;5;200m#\u001b[6;18H\u001b[38;5;249mor underlined by \u001b[38;5;200m===\u001b[38;5;249m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;44mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019071,
+      "\u001b[5;18H\u001b[38;5;248mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;200m===\u001b[38;5;248m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\n\n\u001b[29G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017481,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;45mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;247mFirst-level headers can be prefixed by single \u001b[38;5;164m#\u001b[6;18H\u001b[38;5;247mor underlined by \u001b[38;5;164m===\u001b[38;5;247m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;45mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018616,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;38mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;246mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;164m===\u001b[38;5;246m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;38mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016054,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;39mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;245mFirst-level headers can be prefixed by single \u001b[38;5;163m#\u001b[6;18H\u001b[38;5;245mor underlined by \u001b[38;5;163m===\u001b[38;5;245m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;39mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017285,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;32mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;244mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;163m===\u001b[38;5;244m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;32mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018135,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;33mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;242mFirst-level headers can be prefixed by single \u001b[38;5;127m#\u001b[6;18H\u001b[38;5;242mor underlined by \u001b[38;5;127m===\u001b[38;5;242m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;33mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018972,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;27mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;241mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;127m===\u001b[38;5;241m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;27mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016404,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;21mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;240mFirst-level headers can be prefixed by single \u001b[38;5;126m#\u001b[6;18H\u001b[38;5;240mor underlined by \u001b[38;5;126m===\u001b[38;5;240m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;21mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015362,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;20mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;239mFirst-level headers can be prefixed by single \u001b[38;5;90m#\u001b[6;18H\u001b[38;5;239mor underlined by \u001b[38;5;90m===\u001b[38;5;239m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;20mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019064,
+      "\u001b[5;18H\u001b[38;5;238mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;90m===\u001b[38;5;238m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\n\n\u001b[29G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015313,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;19mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;237mFirst-level headers can be prefixed by single \u001b[38;5;89m#\u001b[6;18H\u001b[38;5;237mor underlined by \u001b[38;5;89m===\u001b[38;5;237m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;19mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016160,
+      "\u001b[5;18H\u001b[38;5;236mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;89m===\u001b[38;5;236m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\n\n\u001b[29G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019096,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;18mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;235mFirst-level headers can be prefixed by single \u001b[38;5;53m#\u001b[6;18H\u001b[38;5;235mor underlined by \u001b[38;5;53m===\u001b[38;5;235m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;18mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015710,
+      "\u001b[5;18H\u001b[38;5;234mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;53m===\u001b[38;5;234m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\n\n\u001b[29G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015422,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;17mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;233mFirst-level headers can be prefixed by single \u001b[38;5;52m#\u001b[6;18H\u001b[38;5;233mor underlined by \u001b[38;5;52m===\u001b[38;5;233m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;17mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019056,
+      "\u001b[5;18H\u001b[38;5;232mFirst-level headers can be prefixed by single \u001b[6;18Hor underlined by \u001b[38;5;52m===\u001b[38;5;232m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\n\n\u001b[29G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015852,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;16mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;16mFirst-level headers can be prefixed by single \u001b[38;5;16m#\u001b[6;18H\u001b[38;5;16mor underlined by \u001b[38;5;16m===\u001b[38;5;16m.\u001b[8;18H# first-level\u001b[10;18Hbecomes\u001b[12;18H\u001b(B\u001b[0;4m\u001b[38;5;16mfirst-level\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015486,
+      "\u001b[H\n\u001b[38;5;16m\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[H\n\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000142,
+      "\u001b[38;5;208m\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[25;77H2\u001b[83G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000225,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;16mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;16mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;16m*\u001b[38;5;16m or \u001b[38;5;16m-\u001b[38;5;16m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019186,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;17mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;232mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;52m*\u001b[38;5;232m or \u001b[38;5;52m-\u001b[38;5;232m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017749,
+      "\u001b[5;18H\u001b[38;5;233mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;52m*\u001b[38;5;233m or \u001b[38;5;52m-\u001b[38;5;233m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015562,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;18mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;234mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;53m*\u001b[38;5;234m or \u001b[38;5;53m-\u001b[38;5;234m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019092,
+      "\u001b[5;18H\u001b[38;5;235mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;53m*\u001b[38;5;235m or \u001b[38;5;53m-\u001b[38;5;235m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019148,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;19mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;236mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;89m*\u001b[38;5;236m or \u001b[38;5;89m-\u001b[38;5;236m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016429,
+      "\u001b[5;18H\u001b[38;5;237mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;89m*\u001b[38;5;237m or \u001b[38;5;89m-\u001b[38;5;237m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015939,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;20mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;238mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;90m*\u001b[38;5;238m or \u001b[38;5;90m-\u001b[38;5;238m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016569,
+      "\u001b[5;18H\u001b[38;5;239mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;90m*\u001b[38;5;239m or \u001b[38;5;90m-\u001b[38;5;239m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015441,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;21mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;240mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;126m*\u001b[38;5;240m or \u001b[38;5;126m-\u001b[38;5;240m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015848,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;27mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;241mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;127m*\u001b[38;5;241m or \u001b[38;5;127m-\u001b[38;5;241m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.015267,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;33mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;242mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;127m*\u001b[38;5;242m or \u001b[38;5;127m-\u001b[38;5;242m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016494,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;32mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;244mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;163m*\u001b[38;5;244m or \u001b[38;5;163m-\u001b[38;5;244m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019089,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;39mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;245mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;163m*\u001b[38;5;245m or \u001b[38;5;163m-\u001b[38;5;245m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019027,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;38mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;246mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;164m*\u001b[38;5;246m or \u001b[38;5;164m-\u001b[38;5;246m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018006,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;45mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;247mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;164m*\u001b[38;5;247m or \u001b[38;5;164m-\u001b[38;5;247m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017239,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;44mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;248mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;200m*\u001b[38;5;248m or \u001b[38;5;200m-\u001b[38;5;248m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.019134,
+      "\u001b[5;18H\u001b[38;5;249mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;200m*\u001b[38;5;249m or \u001b[38;5;200m-\u001b[38;5;249m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017765,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;81mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;250mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;201m*\u001b[38;5;250m or \u001b[38;5;201m-\u001b[38;5;250m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.018127,
+      "\u001b[5;18H\u001b[38;5;251mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;201m*\u001b[38;5;251m or \u001b[38;5;201m-\u001b[38;5;251m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016118,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;51mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;252mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;207m*\u001b[38;5;252m or \u001b[38;5;207m-\u001b[38;5;252m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.017060,
+      "\u001b[5;18H\u001b[38;5;253mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;207m*\u001b[38;5;253m or \u001b[38;5;207m-\u001b[38;5;253m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016637,
+      "\u001b[3;28H\u001b(B\u001b[0;4m\u001b[38;5;123mSupported markdown formatting\u001b[5;18H\u001b(B\u001b[0m\u001b[38;5;254mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;213m*\u001b[38;5;254m or \u001b[38;5;213m-\u001b[38;5;254m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016640,
+      "\u001b[5;18H\u001b[38;5;255mThe input file is split into multiple slides by\u001b[6;18Hhorizontal rules (hr). A hr consisting of at\u001b[7;18Hleast 3 \u001b[38;5;213m*\u001b[38;5;255m or \u001b[38;5;213m-\u001b[38;5;255m. It can also contain spaces but\u001b[8;18Hno other characters.\u001b[10;18HEach of these represents the start of a new slide.\u001b[12;18H* * *\n\u001b[18G---\n\u0008\u0008\u0008************************\u001b[15;18H- - -\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.774263,
+      "char: 113\n"
+    ],
+    [
+      1.003741,
+      "\u001b[25;1H\u001b[?12l\u001b[?25h\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000554,
+      "bash-3.2$ "
+    ],
+    [
+      1.427960,
+      "exit\r\n"
+    ]
+  ]
+}
