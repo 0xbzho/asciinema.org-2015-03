@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "width": 120,
+  "height": 36,
+  "duration": 40.353478,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.010922,
+      "\u001b]0;root@nslinux:~\u0007"
+    ],
+    [
+      0.001127,
+      "\u001b[?1034h[root@nslinux ~]# "
+    ],
+    [
+      6.290921,
+      "\r\n\u001b]0;root@nslinux:~\u0007[root@nslinux ~]# "
+    ],
+    [
+      0.456994,
+      "\r\n\u001b]0;root@nslinux:~\u0007[root@nslinux ~]# "
+    ],
+    [
+      0.206006,
+      "\r\n\u001b]0;root@nslinux:~\u0007[root@nslinux ~]# "
+    ],
+    [
+      4.718003,
+      "c"
+    ],
+    [
+      0.213003,
+      "d"
+    ],
+    [
+      0.920964,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.416024,
+      "a"
+    ],
+    [
+      0.224012,
+      "t"
+    ],
+    [
+      0.124995,
+      " "
+    ],
+    [
+      0.119950,
+      "/"
+    ],
+    [
+      1.292062,
+      "e"
+    ],
+    [
+      0.163983,
+      "t"
+    ],
+    [
+      1.016012,
+      "v"
+    ],
+    [
+      0.269997,
+      "\u0007"
+    ],
+    [
+      0.531006,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.393994,
+      "v"
+    ],
+    [
+      0.332961,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.158042,
+      "c"
+    ],
+    [
+      1.167000,
+      "/"
+    ],
+    [
+      0.582987,
+      "n"
+    ],
+    [
+      0.102018,
+      "e"
+    ],
+    [
+      0.177979,
+      "t"
+    ],
+    [
+      0.280007,
+      "w"
+    ],
+    [
+      0.718002,
+      "orks "
+    ],
+    [
+      1.180143,
+      "\r\ndefault 0.0.0.0\r\nloopback 127.0.0.0\r\nlink-local 169.254.0.0\r\n\u001b]0;root@nslinux:~\u0007[root@nslinux ~]# "
+    ],
+    [
+      2.620855,
+      "c"
+    ],
+    [
+      0.227968,
+      "d"
+    ],
+    [
+      0.142039,
+      " "
+    ],
+    [
+      0.157000,
+      "/"
+    ],
+    [
+      0.163991,
+      "e"
+    ],
+    [
+      0.100983,
+      "t"
+    ],
+    [
+      1.051017,
+      "c/"
+    ],
+    [
+      0.987010,
+      "n"
+    ],
+    [
+      0.102940,
+      "t"
+    ],
+    [
+      0.232050,
+      "\u0007p"
+    ],
+    [
+      0.434002,
+      "."
+    ],
+    [
+      0.229016,
+      "\u0007conf"
+    ],
+    [
+      0.661985,
+      "\r\nbash: cd: /etc/ntp.conf: ディレクトリではありません\r\n\u001b]0;root@nslinux:~\u0007[root@nslinux ~]# "
+    ],
+    [
+      1.593997,
+      "cd /etc/ntp.conf"
+    ],
+    [
+      0.364007,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.312998,
+      "\u001b[C"
+    ],
+    [
+      0.229008,
+      "\u001b[C"
+    ],
+    [
+      0.258999,
+      "\u0008\u001b[1P /etc/ntp.conf\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.226998,
+      "a /etc/ntp.conf\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.281000,
+      "t /etc/ntp.conf\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.120026,
+      "\r\n# For more information about this file, see the man pages\r\n# ntp.conf(5), ntp_acc(5), ntp_auth(5), ntp_clock(5), ntp_misc(5), ntp_mon(5).\r\n\r\ndriftfile /var/lib/ntp/drift\r\n\r\n# Permit time synchronization with our time source, but do not\r\n# permit the source to query or modify the service on this system.\r\nrestrict default kod nomodify notrap nopeer noquery\r\nrestrict -6 default kod nomodify notrap nopeer noquery\r\n\r\n# Permit all access over the loopback interface.  This could\r\n# be tightened as well, but to do so would effect some of\r\n# the administrative functions.\r\nrestrict 127.0.0.1 \r\nrestrict -6 ::1\r\n\r\n# Hosts on local network are less restricted.\r\n#restrict 192.168.1.0 mask 255.255.255.0 nomodify notrap\r\n\r\n# 20150323 add\r\nrestrict 210.173.160.27 mask 255.255.255.255 nomodify notrap noquery \r\nrestrict 210.173.160.57 mask 255.255.255.255 nomodify notrap noquery \r\nrestrict 210.173.160.87 mask 255.255.255.255 nomodify notrap noquery \r\n\r\n# Use public servers from the pool.ntp.org project.\r\n# Please consider joining the pool (http://www.pool.ntp.org/join.html).\r\n#server -4 ntp.nict.jp\r\n#server -4 ntp1.jst.mfeed.ad.jp\r\n#server -4 ntp2.jst.mfeed.ad.jp\r\n#server -4 ntp3.jst.mfeed.ad.jp\r\n\r\n# 20150323 add\r\nserver 210.173.160.27 \r\nserver 210.173.160.57 \r\nserver 210.173.160.87 prefer \r\n\r\n\r\n#broadcast 192.168.1.255 autokey\t# broadcast server\r\n#broadcastclient\t\t\t# broadcast client\r\n#broadcast 224.0.1.1 autokey\t\t# multicast server\r\n#multicastclient 224.0.1.1\t\t# multicast client\r\n#manycastserver 239.255.254.254\t\t# manycast server\r\n#manycastclient 239.255.254.254 autokey # manycast client\r\n\r\n# Enable public key cryptography.\r\n#crypto\r\n\r\nincludefile /etc/ntp/crypto/pw\r\n\r\n# Key file containing the keys and key identifiers used when operating\r\n# with symmetric key cryptography. \r\nkeys /etc/ntp/keys\r\n\r\n# Specify the key identifiers which are trusted.\r\n#trustedkey 4 8 42\r\n\r\n# Specify the key identifier to use with the ntpdc utility.\r\n#requestkey 8\r\n\r\n# Specify the key identifier to use with the ntpq utility.\r\n#controlkey 8\r\n\r\n# Enable writing of statistics records.\r\n#statistics clockstats cryptostats loopstats peerstats\r\n\u001b]0;root@nslinux:~\u0007[root@nslinux ~]# "
+    ],
+    [
+      1.541967,
+      "\u0007"
+    ],
+    [
+      0.505005,
+      "\u0007"
+    ],
+    [
+      0.032001,
+      "\u0007"
+    ],
+    [
+      0.037999,
+      "\u0007"
+    ],
+    [
+      0.033967,
+      "\u0007"
+    ],
+    [
+      4.451040,
+      "e"
+    ],
+    [
+      0.290991,
+      "x"
+    ],
+    [
+      0.122986,
+      "i"
+    ],
+    [
+      0.116016,
+      "t"
+    ],
+    [
+      0.654458,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
