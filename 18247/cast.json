@@ -1,0 +1,910 @@
+{
+  "version": 1,
+  "width": 204,
+  "height": 55,
+  "duration": 105.391598,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.053166,
+      "\u001b]0;ubuntu@ip-172-31-10-191: ~/chef-repo\u0007ubuntu@ip-172-31-10-191:~/chef-repo$ "
+    ],
+    [
+      1.210510,
+      "s"
+    ],
+    [
+      0.000080,
+      "u"
+    ],
+    [
+      0.000079,
+      "d"
+    ],
+    [
+      0.000055,
+      "o"
+    ],
+    [
+      0.000073,
+      " "
+    ],
+    [
+      0.000055,
+      "k"
+    ],
+    [
+      0.000054,
+      "n"
+    ],
+    [
+      0.000069,
+      "i"
+    ],
+    [
+      0.000304,
+      "f"
+    ],
+    [
+      0.000057,
+      "e"
+    ],
+    [
+      0.000069,
+      " "
+    ],
+    [
+      0.000041,
+      "c"
+    ],
+    [
+      0.000038,
+      "o"
+    ],
+    [
+      0.000038,
+      "n"
+    ],
+    [
+      0.000056,
+      "t"
+    ],
+    [
+      0.000040,
+      "a"
+    ],
+    [
+      0.000043,
+      "i"
+    ],
+    [
+      0.000038,
+      "n"
+    ],
+    [
+      0.000054,
+      "e"
+    ],
+    [
+      0.000040,
+      "r"
+    ],
+    [
+      0.000039,
+      " "
+    ],
+    [
+      0.000039,
+      "d"
+    ],
+    [
+      0.000056,
+      "o"
+    ],
+    [
+      0.000039,
+      "c"
+    ],
+    [
+      0.000039,
+      "k"
+    ],
+    [
+      0.000053,
+      "e"
+    ],
+    [
+      0.000042,
+      "r"
+    ],
+    [
+      0.000042,
+      " "
+    ],
+    [
+      0.000040,
+      "i"
+    ],
+    [
+      0.000064,
+      "n"
+    ],
+    [
+      0.000042,
+      "i"
+    ],
+    [
+      0.000041,
+      "t"
+    ],
+    [
+      0.000116,
+      " "
+    ],
+    [
+      0.000041,
+      "m"
+    ],
+    [
+      0.000056,
+      "u"
+    ],
+    [
+      0.000044,
+      "k"
+    ],
+    [
+      0.000042,
+      "t"
+    ],
+    [
+      0.000042,
+      "a"
+    ],
+    [
+      0.000057,
+      "a"
+    ],
+    [
+      0.000044,
+      "/"
+    ],
+    [
+      0.000043,
+      "h"
+    ],
+    [
+      0.000058,
+      "e"
+    ],
+    [
+      0.000046,
+      "l"
+    ],
+    [
+      0.000043,
+      "l"
+    ],
+    [
+      0.000043,
+      "o"
+    ],
+    [
+      0.000060,
+      "-"
+    ],
+    [
+      0.000044,
+      "s"
+    ],
+    [
+      0.000044,
+      "c"
+    ],
+    [
+      0.000060,
+      "a"
+    ],
+    [
+      0.000046,
+      "l"
+    ],
+    [
+      0.000045,
+      "a"
+    ],
+    [
+      0.000060,
+      "-"
+    ],
+    [
+      0.000047,
+      "c"
+    ],
+    [
+      0.000045,
+      "c"
+    ],
+    [
+      0.000061,
+      " "
+    ],
+    [
+      0.000048,
+      "-"
+    ],
+    [
+      0.000046,
+      "-"
+    ],
+    [
+      0.000060,
+      "f"
+    ],
+    [
+      0.000049,
+      "o"
+    ],
+    [
+      0.000046,
+      "r"
+    ],
+    [
+      0.000047,
+      "c"
+    ],
+    [
+      0.000065,
+      "e"
+    ],
+    [
+      1.442965,
+      "\r\n"
+    ],
+    [
+      2.656484,
+      "Compiling Cookbooks...\u001b[0m"
+    ],
+    [
+      0.000113,
+      "\r\n"
+    ],
+    [
+      0.003475,
+      "Recipe: knife_container::docker_init\u001b[0m"
+    ],
+    [
+      0.000059,
+      "\r\n"
+    ],
+    [
+      0.000076,
+      "  "
+    ],
+    [
+      0.000072,
+      "* directory[/home/ubuntu/chef-repo/dockerfiles/muktaa/hello-scala-cc] action create"
+    ],
+    [
+      0.001051,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      "    "
+    ],
+    [
+      0.000069,
+      "\u001b[32m- create new directory /home/ubuntu/chef-repo/dockerfiles/muktaa/hello-scala-cc\u001b[0m"
+    ],
+    [
+      0.000850,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "\u001b[0m"
+    ],
+    [
+      0.000097,
+      "  "
+    ],
+    [
+      0.000053,
+      "* template[/home/ubuntu/chef-repo/dockerfiles/muktaa/hello-scala-cc/Dockerfile] action create"
+    ],
+    [
+      0.014186,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "    "
+    ],
+    [
+      0.000052,
+      "\u001b[32m- create new file /home/ubuntu/chef-repo/dockerfiles/muktaa/hello-scala-cc/Dockerfile\u001b[0m"
+    ],
+    [
+      0.000499,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "    "
+    ],
+    [
+      0.000094,
+      "\u001b[32m- update content in file /home/ubuntu/chef-repo/dockerfiles/muktaa/hello-scala-cc/Dockerfile from none to 943017\u001b[0m"
+    ],
+    [
+      0.000084,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "    "
+    ],
+    [
+      0.000045,
+      "\u001b[37m(diff output suppressed by config)\u001b[0m"
+    ],
+    [
+      0.000398,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "\u001b[0m"
+    ],
+    [
+      0.000076,
+      "  "
+    ],
+    [
+      0.000033,
+      "* template[/home/ubuntu/chef-repo/dockerfiles/muktaa/hello-scala-cc/.dockerignore] action create"
+    ],
+    [
+      0.000918,
+      "\r\n"
+    ],
+    [
+      0.014677,
+      "    \u001b[32m- create new file /home/ubuntu/chef-repo/dockerfiles/muktaa/hello-scala-cc/.dockerignore\u001b[0m\r\n    \u001b[32m- update content in file /home/ubuntu/chef-repo/dockerfiles/muktaa/hello-scala-cc/.dockerignore from none to e3b0c4\u001b[0m\r\n    \u001b[37m(diff output suppressed by config)\u001b[0m\r\n\u001b[0m  * directory[/home/ubuntu/chef-repo/dockerfiles/muktaa/hello-scala-cc/chef] action create\r\n    \u001b[32m- create new directory /home/ubuntu/chef-repo/dockerfiles/muktaa/hello-scala-cc/chef\u001b[0m\r\n\u001b[0m  * template[/home/ubuntu/chef-repo/dockerfiles/muktaa/hello-scala-cc/chef/client.rb] action create\r\n    \u001b[32m- create new file /home/ubuntu/chef-repo/dockerfiles/muktaa/hello-scala-cc/chef/client.rb\u001b[0m\r\n    \u001b[32m- update content in file /home/ubuntu/chef-repo/dockerfiles/muktaa/hello-scala-cc/chef/client.rb from none to 7de61f\u001b[0m\r\n    \u001b[37m(diff output suppressed by config)\u001b[0m\r\n\u001b[0m  * file[/home/ubuntu/chef-repo/dockerfiles/muktaa/hello-scala-cc/chef/first-boot.json] action create\r\n    \u001b[32m- create new file /home/ubuntu/chef-repo/dockerfiles/muktaa/hello-scala-cc/chef/first-boot.json\u001b[0m\r\n    \u001b[32m- update content in file /home/ubuntu/chef-repo/dockerfiles/muktaa/hello-scala-cc/chef/first-boot.json from none to 5269ef\u001b[0m\r\n    \u001b[37m(diff output suppressed by config)\u001b[0m\r\n\u001b[0m  * template[/home/ubuntu/chef-repo/dockerfiles/muktaa/hello-scala-cc/chef/.node_name] action create\r\n    \u001b[32m- create new file /home/ubuntu/chef-repo/dockerfiles/muktaa/hello-scala-cc/chef/.node_name\u001b[0m\r\n"
+    ],
+    [
+      0.000050,
+      "    "
+    ],
+    [
+      0.000061,
+      "\u001b[32m- update content in file /home/ubuntu/chef-repo/dockerfiles/muktaa/hello-scala-cc/chef/.node_name from none to 4764d2\u001b[0m"
+    ],
+    [
+      0.000063,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "    "
+    ],
+    [
+      0.000044,
+      "\u001b[37m(diff output suppressed by config)\u001b[0m"
+    ],
+    [
+      0.000339,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "\u001b[0m"
+    ],
+    [
+      0.000075,
+      "  "
+    ],
+    [
+      0.000033,
+      "* template[/home/ubuntu/chef-repo/dockerfiles/muktaa/hello-scala-cc/Berksfile] action create"
+    ],
+    [
+      0.000136,
+      " (skipped due to only_if)"
+    ],
+    [
+      0.000049,
+      "\r\n"
+    ],
+    [
+      0.000078,
+      "  "
+    ],
+    [
+      0.000043,
+      "* directory[/home/ubuntu/chef-repo/dockerfiles/muktaa/hello-scala-cc/chef/secure] action create"
+    ],
+    [
+      0.008709,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "    "
+    ],
+    [
+      0.000051,
+      "\u001b[32m- create new directory /home/ubuntu/chef-repo/dockerfiles/muktaa/hello-scala-cc/chef/secure\u001b[0m"
+    ],
+    [
+      0.000356,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[0m"
+    ],
+    [
+      0.000118,
+      "  "
+    ],
+    [
+      0.000033,
+      "* file[/home/ubuntu/chef-repo/dockerfiles/muktaa/hello-scala-cc/chef/secure/validation.pem] action create"
+    ],
+    [
+      0.001349,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "    "
+    ],
+    [
+      0.000048,
+      "\u001b[32m- create new file /home/ubuntu/chef-repo/dockerfiles/muktaa/hello-scala-cc/chef/secure/validation.pem\u001b[0m"
+    ],
+    [
+      0.000452,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "    "
+    ],
+    [
+      0.000046,
+      "\u001b[32m- update content in file /home/ubuntu/chef-repo/dockerfiles/muktaa/hello-scala-cc/chef/secure/validation.pem from none to ec1f3e\u001b[0m"
+    ],
+    [
+      0.000063,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "    "
+    ],
+    [
+      0.000043,
+      "\u001b[37m(diff output suppressed by config)\u001b[0m"
+    ],
+    [
+      0.000332,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "    "
+    ],
+    [
+      0.000061,
+      "\u001b[32m- change mode from '' to '0600'\u001b[0m"
+    ],
+    [
+      0.000289,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "\u001b[0m"
+    ],
+    [
+      0.000071,
+      "Downloading base image: chef/ubuntu-12.04:latest. This process may take awhile..."
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      2.998131,
+      "Tagging base image chef/ubuntu-12.04 as muktaa/hello-scala-cc\r\n"
+    ],
+    [
+      0.034307,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[35mContext Created: /home/ubuntu/chef-repo/dockerfiles/muktaa/hello-scala-cc\u001b[0m"
+    ],
+    [
+      0.000049,
+      "\r\n"
+    ],
+    [
+      0.064716,
+      "\u001b]0;ubuntu@ip-172-31-10-191: ~/chef-repo\u0007ubuntu@ip-172-31-10-191:~/chef-repo$ "
+    ],
+    [
+      7.334695,
+      "ls -ltr /home/ubuntu/chef-repo/dockerfiles/muktaa/hello-scala-cc"
+    ],
+    [
+      1.340643,
+      "\r\n"
+    ],
+    [
+      0.001729,
+      "total 8"
+    ],
+    [
+      0.000054,
+      "\r\n"
+    ],
+    [
+      0.000101,
+      "-rw-r--r-- 1 root root  178 Mar 31 21:43 Dockerfile"
+    ],
+    [
+      0.000054,
+      "\r\n"
+    ],
+    [
+      0.000053,
+      "drwxr-xr-x 3 root root 4096 Mar 31 21:43 \u001b[0m\u001b[01;34mchef\u001b[0m"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000389,
+      "\u001b]0;ubuntu@ip-172-31-10-191: ~/chef-repo\u0007ubuntu@ip-172-31-10-191:~/chef-repo$ "
+    ],
+    [
+      1.470287,
+      "c"
+    ],
+    [
+      0.288387,
+      "a"
+    ],
+    [
+      0.190625,
+      "t"
+    ],
+    [
+      0.200404,
+      " "
+    ],
+    [
+      9.082066,
+      "/home/ubuntu/chef-repo/dockerfiles/muktaa/hello-scala-cc"
+    ],
+    [
+      0.514277,
+      "/"
+    ],
+    [
+      0.363774,
+      "D"
+    ],
+    [
+      0.143571,
+      "O"
+    ],
+    [
+      0.173102,
+      "\u0007"
+    ],
+    [
+      0.779873,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.164256,
+      "ockerfile "
+    ],
+    [
+      0.875202,
+      "\r\n"
+    ],
+    [
+      0.000934,
+      "# BASE chef/ubuntu-12.04:latest"
+    ],
+    [
+      0.000052,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "FROM muktaa/hello-scala-cc"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "ADD chef/ /etc/chef/"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "RUN chef-init --bootstrap"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "RUN rm -rf /etc/chef/secure/*"
+    ],
+    [
+      0.000045,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "ENTRYPOINT [\"chef-init\"]"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "CMD [\"--onboot\"]"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000368,
+      "\u001b]0;ubuntu@ip-172-31-10-191: ~/chef-repo\u0007ubuntu@ip-172-31-10-191:~/chef-repo$ "
+    ],
+    [
+      7.537137,
+      "sudo knife container docker build muktaa/hello-scala-cc"
+    ],
+    [
+      1.406806,
+      "\r\n"
+    ],
+    [
+      2.730205,
+      "Sending build context to Docker daemon 9.728 kB\r\r"
+    ],
+    [
+      0.000122,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "Sending build context to Docker daemon \r"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.011375,
+      "Step 0 : FROM muktaa/hello-scala-cc"
+    ],
+    [
+      0.000063,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      " ---\u003e 50d3c5c9e133"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.000084,
+      "Step 1 : ADD chef/ /etc/chef/"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      6.580473,
+      " ---\u003e 4933cc9e13e0\r\n"
+    ],
+    [
+      1.278094,
+      "Removing intermediate container da0a08413a91\r\nStep 2 : RUN chef-init --bootstrap\r\n"
+    ],
+    [
+      0.070795,
+      " ---\u003e Running in add27db609cc\r\n"
+    ],
+    [
+      0.357433,
+      "[2015-03-31T21:44:44+00:00] INFO: Starting Supervisor...\r\n"
+    ],
+    [
+      5.000994,
+      "[2015-03-31T21:44:44+00:00] INFO: Supervisor pid: 9\r\n[2015-03-31T21:44:49+00:00] INFO: Starting chef-client run...\r\n"
+    ],
+    [
+      1.617577,
+      "[2015-03-31T21:44:50+00:00] INFO: Forking chef instance to converge...\r\n"
+    ],
+    [
+      0.018986,
+      "[2015-03-31T21:44:50+00:00] INFO: *** Chef 11.16.2 ***\r\n"
+    ],
+    [
+      0.000261,
+      "[2015-03-31T21:44:50+00:00] INFO: Chef-client pid: 16\r\n"
+    ],
+    [
+      2.300240,
+      "[2015-03-31T21:44:53+00:00] INFO: Client key /etc/chef/secure/client.pem is not present - registering\r\n"
+    ],
+    [
+      0.709395,
+      "[2015-03-31T21:44:53+00:00] INFO: HTTP Request Returned 404 Object Not Found: error\r\n"
+    ],
+    [
+      0.456617,
+      "[2015-03-31T21:44:54+00:00] INFO: Setting the run_list to [] from CLI options\r\n"
+    ],
+    [
+      0.002796,
+      "[2015-03-31T21:44:54+00:00] INFO: Run List is []\r\n"
+    ],
+    [
+      0.000254,
+      "[2015-03-31T21:44:54+00:00] INFO: Run List expands to []\r\n"
+    ],
+    [
+      0.000238,
+      "[2015-03-31T21:44:54+00:00] INFO: Starting Chef Run for muktaa-hello-scala-cc-build\r\n"
+    ],
+    [
+      0.000247,
+      "[2015-03-31T21:44:54+00:00] INFO: Running start handlers\r\n"
+    ],
+    [
+      0.000347,
+      "[2015-03-31T21:44:54+00:00] INFO: Start handlers complete.\r\n"
+    ],
+    [
+      0.781174,
+      "[2015-03-31T21:44:55+00:00] INFO: Loading cookbooks []\r\n"
+    ],
+    [
+      0.030522,
+      "[2015-03-31T21:44:55+00:00] WARN: Node muktaa-hello-scala-cc-build has an empty run list.\r\n"
+    ],
+    [
+      0.309533,
+      "[2015-03-31T21:44:55+00:00] INFO: Chef Run complete in 1.121705004 seconds\r\n"
+    ],
+    [
+      0.000416,
+      "[2015-03-31T21:44:55+00:00] INFO: Running report handlers\r\n"
+    ],
+    [
+      0.000200,
+      "[2015-03-31T21:44:55+00:00] INFO: Report handlers complete\r\n"
+    ],
+    [
+      0.000333,
+      "[2015-03-31T21:44:55+00:00] INFO: Sending resource update report (run-id: 6f637baf-18cc-4620-b3e2-9afc90e8cd6b)\r\n"
+    ],
+    [
+      0.542717,
+      "[2015-03-31T21:44:56+00:00] INFO: Deleting client key...\r\n"
+    ],
+    [
+      12.701230,
+      " ---\u003e 2c2ec6fab1ef\r\n"
+    ],
+    [
+      1.344114,
+      "Removing intermediate container add27db609cc\r\n"
+    ],
+    [
+      0.000180,
+      "Step 3 : RUN rm -rf /etc/chef/secure/*\r\n"
+    ],
+    [
+      0.093047,
+      " ---\u003e Running in 30a3611b083f\r\n"
+    ],
+    [
+      6.754951,
+      " ---\u003e cab28d6eed90\r\n"
+    ],
+    [
+      1.235469,
+      "Removing intermediate container 30a3611b083f\r\n"
+    ],
+    [
+      0.000200,
+      "Step 4 : ENTRYPOINT [\"chef-init\"]\r\n"
+    ],
+    [
+      0.093329,
+      " ---\u003e Running in 0a9f4e96bbf7\r\n"
+    ],
+    [
+      6.669178,
+      " ---\u003e a8577b66b103\r\n"
+    ],
+    [
+      1.373752,
+      "Removing intermediate container 0a9f4e96bbf7\r\nStep 5 : CMD [\"--onboot\"]\r\n"
+    ],
+    [
+      0.077376,
+      " ---\u003e Running in f9a444817229\r\n"
+    ],
+    [
+      6.612741,
+      " ---\u003e 21b3800bc9b3\r\n"
+    ],
+    [
+      1.339530,
+      "Removing intermediate container f9a444817229\r\n"
+    ],
+    [
+      0.000175,
+      "Successfully built 21b3800bc9b3\r\n"
+    ],
+    [
+      0.735392,
+      "\u001b[33m\u001b[1mWARNING:\u001b[0m Deleted node muktaa-hello-scala-cc-build"
+    ],
+    [
+      0.000091,
+      "\r\n"
+    ],
+    [
+      0.632231,
+      "\u001b[33m\u001b[1mWARNING:\u001b[0m Deleted client muktaa-hello-scala-cc-build"
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.060011,
+      "\u001b]0;ubuntu@ip-172-31-10-191: ~/chef-repo\u0007ubuntu@ip-172-31-10-191:~/chef-repo$ "
+    ],
+    [
+      2.482915,
+      "exit\r\n"
+    ]
+  ]
+}
