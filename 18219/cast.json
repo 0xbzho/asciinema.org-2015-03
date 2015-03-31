@@ -1,0 +1,1334 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 128.663097,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.260882,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000031,
+      "\u001b]2;ultrakain@sonic:\u0007"
+    ],
+    [
+      0.000042,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.013278,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000027,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      5.286418,
+      "c"
+    ],
+    [
+      0.105761,
+      "\u0008co"
+    ],
+    [
+      0.106247,
+      "u"
+    ],
+    [
+      0.225999,
+      "p"
+    ],
+    [
+      0.130780,
+      "a"
+    ],
+    [
+      0.080499,
+      "n"
+    ],
+    [
+      0.107456,
+      "g"
+    ],
+    [
+      0.528149,
+      "\u0008 \u0008"
+    ],
+    [
+      0.499812,
+      "\u0008 \u0008"
+    ],
+    [
+      0.030076,
+      "\u0008 \u0008"
+    ],
+    [
+      0.030131,
+      "\u0008 \u0008"
+    ],
+    [
+      0.030370,
+      "\u0008 \u0008"
+    ],
+    [
+      0.030808,
+      "\u0008\u0008c \u0008"
+    ],
+    [
+      0.035138,
+      "\u0008 \u0008"
+    ],
+    [
+      0.437471,
+      "p"
+    ],
+    [
+      0.213113,
+      "\u0008pr"
+    ],
+    [
+      0.061096,
+      "o"
+    ],
+    [
+      0.836084,
+      "d"
+    ],
+    [
+      0.081745,
+      "u"
+    ],
+    [
+      0.127030,
+      "c"
+    ],
+    [
+      0.180172,
+      "t"
+    ],
+    [
+      0.237906,
+      "\u0008 \u0008"
+    ],
+    [
+      0.158825,
+      "\u0008 \u0008"
+    ],
+    [
+      0.168196,
+      "\u0008 \u0008"
+    ],
+    [
+      0.157940,
+      "\u0008 \u0008"
+    ],
+    [
+      0.152901,
+      "\u0008 \u0008"
+    ],
+    [
+      0.167961,
+      "\u0008\u0008p \u0008"
+    ],
+    [
+      0.152021,
+      "\u0008 \u0008"
+    ],
+    [
+      0.225165,
+      "l"
+    ],
+    [
+      0.119010,
+      "\u0008ls"
+    ],
+    [
+      0.069955,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;ls --color=tty\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.002185,
+      "모닝힐%20옵션.xlsx_0ods  \u001b[0m\u001b[01;34mgitssh\u001b[0m                          \u001b[01;34mPycharmProjects\u001b[0m\r\n\u001b[01;34manaconda\u001b[0m                 ha.log.0                        recv_mq.py\r\n\u001b[01;34mAndroid\u001b[0m                  ha.xml                          sample.py\r\napp.groovy               \u001b[01;32mhello.py\u001b[0m                        sample.txt\r\n\u001b[01;34matomic-scala-examples\u001b[0m    hs_err_pid25421.log             \u001b[01;34mscala_turotial_space\u001b[0m\r\nbuild.log                hs_err_pid2940.log              send_mq.py\r\nbuild-log.xml            \u001b[01;34mlang\u001b[0m                            \u001b[01;34mShareFolder\u001b[0m\r\n\u001b[01;34mcoupang\u001b[0m                  lms.py                          \u001b[01;34mslate\u001b[0m\r\n\u001b[01;34mcoupang_cmd\u001b[0m              lms.txt                         synergy.conf\r\n\u001b[01;32mcoupang-messenger\u001b[0m        mapping_request.xlsx            \u001b[01;34mTemplates\u001b[0m\r\n\u001b[01;32mdeploy.sh\u001b[0m                mapping_test_excel_upload.ods   tunnellij.properties\r\n\u001b[01;34mDesktop\u001b[0m                  mapping_test_excel_upload.xls   카테고리_설정.txt\r\n\u001b[01;34mdjango_env\u001b[0m               mapping_test_excel_upload.xlsx  카테고리_설정.txt~\r\n\u001b[01;34mDocuments\u001b[0m                \u001b[01;34mmozcmd\u001b[0m                          \u001b[01;34mUbuntu One\u001b[0m\r\n\u001b[01;34mDownloads\u001b[0m                \u001b[01;34mMusic\u001b[0m                           Untitled0.ipynb\r\n\u001b[01;34mDropbox\u001b[0m                  ncui-7.4R9.1.i386.rpm           \u001b[01;34mVideos\u001b[0m\r\n\u001b[01;34mdumps\u001b[0m                    nw.pak                          \u001b[01;34mVirtualBox VMs\u001b[0m\r\neggs.csv                 \u001b[01;34mPictures\u001b[0m                        \u001b[01;34mWebstormProjects\u001b[0m\r\nexamples.desktop         \u001b[01;34mplay_for_scala\u001b[0m                  we.py\r\n\u001b[01;34mgit_exam\u001b[0m                 \u001b[01;34mPublic\u001b[0m\r\n"
+    ],
+    [
+      0.000507,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;ultrakain@sonic:\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.005948,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.826485,
+      "c"
+    ],
+    [
+      0.179897,
+      "\u0008cd"
+    ],
+    [
+      0.131032,
+      " "
+    ],
+    [
+      0.717043,
+      "P"
+    ],
+    [
+      0.187909,
+      "y"
+    ],
+    [
+      0.127645,
+      "charmProjects\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.397790,
+      "\u0008\u001b[0m \u0008\u001b[?1l\u001b\u003e\r\r\n\u001b]2;cd PycharmProjects\u0007\u001b]1;cd\u0007\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;ultrakain@sonic:\u0007\u001b]1;..charmProjects\u0007"
+    ],
+    [
+      0.005318,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mPycharmProjects \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000049,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.168412,
+      "l"
+    ],
+    [
+      0.115408,
+      "\u0008ls"
+    ],
+    [
+      0.058149,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;ls --color=tty\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.001749,
+      "\u001b[0m\u001b[01;34mcoupang-command\u001b[0m  \u001b[01;34meyes\u001b[0m  \u001b[01;34mflask\u001b[0m  \u001b[01;34mhelloflask\u001b[0m  \u001b[01;34mpython_toy\u001b[0m  \u001b[01;34mstudy\u001b[0m\r\n"
+    ],
+    [
+      0.000579,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;ultrakain@sonic:\u0007\u001b]1;..charmProjects\u0007"
+    ],
+    [
+      0.006051,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mPycharmProjects \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.142851,
+      "c"
+    ],
+    [
+      0.159895,
+      "\u0008cd"
+    ],
+    [
+      0.109707,
+      " "
+    ],
+    [
+      0.624800,
+      "c"
+    ],
+    [
+      0.092398,
+      "o"
+    ],
+    [
+      0.173146,
+      "upang-command\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.406448,
+      "\u0008\u001b[0m \u0008\u001b[?1l\u001b\u003e\r\r\n\u001b]2;cd coupang-command\u0007\u001b]1;cd\u0007\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;ultrakain@sonic:\u0007\u001b]1;..upang-command\u0007"
+    ],
+    [
+      0.005568,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mcoupang-command \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.159924,
+      "l"
+    ],
+    [
+      0.094708,
+      "\u0008ls"
+    ],
+    [
+      0.091043,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;ls --color=tty\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.001881,
+      "\u001b[0m\u001b[01;34msrc\u001b[0m\r\n"
+    ],
+    [
+      0.000578,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;ultrakain@sonic:\u0007\u001b]1;..upang-command\u0007"
+    ],
+    [
+      0.005824,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mcoupang-command \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000079,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.137995,
+      "c"
+    ],
+    [
+      0.160128,
+      "\u0008cd"
+    ],
+    [
+      0.167964,
+      " "
+    ],
+    [
+      0.216781,
+      "s"
+    ],
+    [
+      0.155738,
+      "r"
+    ],
+    [
+      0.172461,
+      "c"
+    ],
+    [
+      0.106644,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;cd src\u0007\u001b]1;cd\u0007\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;ultrakain@sonic:\u0007\u001b]1;..g-command/src\u0007"
+    ],
+    [
+      0.004784,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36msrc \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000036,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.162459,
+      "l"
+    ],
+    [
+      0.142815,
+      "\u0008ls"
+    ],
+    [
+      0.141007,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;ls --color=tty\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.001711,
+      "\u001b[0m\u001b[01;32mhelloworld\u001b[0m  json  optparse  \u001b[01;32mproduct\u001b[0m  sys  urllib2\r\n"
+    ],
+    [
+      0.000511,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;ultrakain@sonic:\u0007\u001b]1;..g-command/src\u0007"
+    ],
+    [
+      0.006203,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36msrc \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000031,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.433777,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;ultrakain@sonic:\u0007\u001b]1;..g-command/src\u0007"
+    ],
+    [
+      0.006439,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36msrc \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.153614,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;ultrakain@sonic:\u0007\u001b]1;..g-command/src\u0007"
+    ],
+    [
+      0.006399,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36msrc \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000029,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.140331,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;ultrakain@sonic:\u0007\u001b]1;..g-command/src\u0007"
+    ],
+    [
+      0.006526,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36msrc \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.660731,
+      "."
+    ],
+    [
+      0.192093,
+      "\u0008./"
+    ],
+    [
+      0.204894,
+      "p"
+    ],
+    [
+      0.155828,
+      "r"
+    ],
+    [
+      0.068788,
+      "o"
+    ],
+    [
+      0.140177,
+      "duct\u001b[1m \u001b[0m"
+    ],
+    [
+      0.557361,
+      "\u0008\u001b[0m 2"
+    ],
+    [
+      0.334840,
+      "0"
+    ],
+    [
+      0.339883,
+      "4"
+    ],
+    [
+      0.155297,
+      "8"
+    ],
+    [
+      0.181609,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;./product 2048\u0007\u001b]1;./product\u0007"
+    ],
+    [
+      0.042202,
+      "Traceback (most recent call last):\r\n  File \"./product\", line 42, in \u003cmodule\u003e\r\n    "
+    ],
+    [
+      0.000006,
+      "response_json = coupang_product(options.productid)\r\nAttributeError: Values instance has no attribute 'productid'\r\n"
+    ],
+    [
+      0.005133,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;ultrakain@sonic:\u0007\u001b]1;..g-command/src\u0007"
+    ],
+    [
+      0.004575,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m➜ \u001b[27m\u001b[01;32m \u001b[36msrc \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      5.608117,
+      "./product 2048"
+    ],
+    [
+      0.154978,
+      "\u0008"
+    ],
+    [
+      0.339952,
+      "\u0008"
+    ],
+    [
+      0.147864,
+      "\u0008"
+    ],
+    [
+      0.154782,
+      "\u0008"
+    ],
+    [
+      0.828544,
+      "-2048\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.445968,
+      "p2048\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.147556,
+      " 2048\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.169312,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;./product -p 2048\u0007\u001b]1;./product\u0007"
+    ],
+    [
+      0.043842,
+      "Traceback (most recent call last):\r\n  File \"./product\", line 42, in \u003cmodule\u003e\r\n    "
+    ],
+    [
+      0.000007,
+      "response_json = coupang_product(options.productid)\r\nAttributeError: Values instance has no attribute 'productid'\r\n"
+    ],
+    [
+      0.005255,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;ultrakain@sonic:\u0007\u001b]1;..g-command/src\u0007"
+    ],
+    [
+      0.006018,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m➜ \u001b[27m\u001b[01;32m \u001b[36msrc \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.994704,
+      "./product -p 2048"
+    ],
+    [
+      1.282155,
+      "\u0008"
+    ],
+    [
+      0.180823,
+      "\u0008"
+    ],
+    [
+      0.196016,
+      "\u0008"
+    ],
+    [
+      0.188992,
+      "\u0008"
+    ],
+    [
+      0.208947,
+      "\u0008"
+    ],
+    [
+      2.842268,
+      "\u0008 2048 \u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.781844,
+      "\u0008 2048 \u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.205125,
+      "- 2048\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.127137,
+      "- 2048\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.446940,
+      "p 2048\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.172870,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;./product --p 2048\u0007\u001b]1;./product\u0007"
+    ],
+    [
+      0.039332,
+      "Traceback (most recent call last):\r\n  File \"./product\", line 42, in \u003cmodule\u003e\r\n    "
+    ],
+    [
+      0.000006,
+      "response_json = coupang_product(options.productid)\r\nAttributeError: Values instance has no attribute 'productid'\r\n"
+    ],
+    [
+      0.005451,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;ultrakain@sonic:\u0007\u001b]1;..g-command/src\u0007"
+    ],
+    [
+      0.004982,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m➜ \u001b[27m\u001b[01;32m \u001b[36msrc \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      0.000052,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.754999,
+      "p"
+    ],
+    [
+      0.302982,
+      "\u0008 \u0008"
+    ],
+    [
+      0.917283,
+      "."
+    ],
+    [
+      0.208947,
+      "\u0008./"
+    ],
+    [
+      0.253398,
+      "p"
+    ],
+    [
+      0.123406,
+      "r"
+    ],
+    [
+      0.041173,
+      "o"
+    ],
+    [
+      0.176041,
+      "duct\u001b[1m \u001b[0m"
+    ],
+    [
+      0.627046,
+      "\u0008\u001b[0m -"
+    ],
+    [
+      0.130789,
+      "-"
+    ],
+    [
+      0.217011,
+      "h"
+    ],
+    [
+      0.109641,
+      "e"
+    ],
+    [
+      0.077982,
+      "l"
+    ],
+    [
+      0.152515,
+      "p"
+    ],
+    [
+      0.119276,
+      "\u001b[?1l\u001b\u003e\r\r\n"
+    ],
+    [
+      0.001148,
+      "\u001b]2;./product --help\u0007\u001b]1;./product\u0007"
+    ],
+    [
+      0.028662,
+      "Usage: product [options]\r\n\r\nOptions:\r\n  -h, --help            show this help message and exit\r\n  -p COUPANG'S PRODUCT ID, --productid=COUPANG'S PRODUCT ID\r\n"
+    ],
+    [
+      0.003526,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;ultrakain@sonic:\u0007\u001b]1;..g-command/src\u0007"
+    ],
+    [
+      0.005600,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36msrc \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      3.425818,
+      "."
+    ],
+    [
+      0.191871,
+      "\u0008./"
+    ],
+    [
+      0.230053,
+      "p"
+    ],
+    [
+      0.162828,
+      "r"
+    ],
+    [
+      0.054054,
+      "o"
+    ],
+    [
+      0.152965,
+      "duct\u001b[1m \u001b[0m"
+    ],
+    [
+      0.502170,
+      "\u0008\u001b[0m -"
+    ],
+    [
+      0.249880,
+      "p"
+    ],
+    [
+      0.336049,
+      " "
+    ],
+    [
+      0.548106,
+      "2"
+    ],
+    [
+      0.135778,
+      "0"
+    ],
+    [
+      0.180116,
+      "4"
+    ],
+    [
+      0.983268,
+      "8"
+    ],
+    [
+      0.360716,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;./product -p 2048\u0007\u001b]1;./product\u0007"
+    ],
+    [
+      0.043632,
+      "Traceback (most recent call last):\r\n  File \"./product\", line 42, in \u003cmodule\u003e\r\n    response_json = coupang_product(options.productid)"
+    ],
+    [
+      0.000006,
+      "\r\nAttributeError: Values instance has no attribute 'productid'\r\n"
+    ],
+    [
+      0.005366,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;ultrakain@sonic:\u0007\u001b]1;..g-command/src\u0007"
+    ],
+    [
+      0.004567,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m➜ \u001b[27m\u001b[01;32m \u001b[36msrc \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.805358,
+      "./product -p 2048"
+    ],
+    [
+      0.195865,
+      "\u0008"
+    ],
+    [
+      0.180960,
+      "\u0008"
+    ],
+    [
+      0.150964,
+      "\u0008"
+    ],
+    [
+      0.172019,
+      "\u0008"
+    ],
+    [
+      0.348160,
+      "\u00082048 \u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.393417,
+      "=2048\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.320687,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;./product -p=2048\u0007\u001b]1;./product\u0007"
+    ],
+    [
+      0.042800,
+      "Traceback (most recent call last):\r\n  File \"./product\", line 42, in \u003cmodule\u003e\r\n    response_json = coupang_product(options.productid)"
+    ],
+    [
+      0.000006,
+      "\r\nAttributeError: Values instance has no attribute 'productid'\r\n"
+    ],
+    [
+      0.004792,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;ultrakain@sonic:\u0007\u001b]1;..g-command/src\u0007"
+    ],
+    [
+      0.005879,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m➜ \u001b[27m\u001b[01;32m \u001b[36msrc \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      2.551438,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;ultrakain@sonic:\u0007\u001b]1;..g-command/src\u0007"
+    ],
+    [
+      0.006558,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m➜ \u001b[27m\u001b[01;32m \u001b[36msrc \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.136315,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;ultrakain@sonic:\u0007\u001b]1;..g-command/src\u0007"
+    ],
+    [
+      0.006489,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m➜ \u001b[27m\u001b[01;32m \u001b[36msrc \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000033,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      42.277024,
+      "./product -p=2048"
+    ],
+    [
+      0.296004,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;./product -p=2048\u0007\u001b]1;./product\u0007"
+    ],
+    [
+      0.029735,
+      "{\"Coupang's product id\": '=2048'} []\r\n"
+    ],
+    [
+      0.013038,
+      "Traceback (most recent call last):\r\n"
+    ],
+    [
+      0.000005,
+      "  File \"./product\", line 43, in \u003cmodule\u003e\r\n    response_json = coupang_product(options.productid)\r\n"
+    ],
+    [
+      0.000014,
+      "AttributeError"
+    ],
+    [
+      0.000002,
+      ": "
+    ],
+    [
+      0.000001,
+      "Values instance has no attribute 'productid'"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.005386,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;ultrakain@sonic:\u0007\u001b]1;..g-command/src\u0007"
+    ],
+    [
+      0.006117,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m➜ \u001b[27m\u001b[01;32m \u001b[36msrc \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000030,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      15.905499,
+      "./product -p=2048"
+    ],
+    [
+      0.905071,
+      "\u0008"
+    ],
+    [
+      0.188861,
+      "\u0008"
+    ],
+    [
+      0.163988,
+      "\u0008"
+    ],
+    [
+      0.188230,
+      "\u0008"
+    ],
+    [
+      0.319673,
+      "\u00082048 \u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.450312,
+      " 2048\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.361643,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;./product -p 2048\u0007\u001b]1;./product\u0007"
+    ],
+    [
+      0.027791,
+      "{'productid': '2048'} []\r\n"
+    ],
+    [
+      0.110201,
+      "{\r\n"
+    ],
+    [
+      0.000018,
+      "    \"rCode\": \"RET0000\","
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "    \"rData\": {\r\n"
+    ],
+    [
+      0.000042,
+      "        \"entityList\": [\r\n            {"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "                \"entity\": {"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "                    \"product\": {\r\n"
+    ],
+    [
+      0.000010,
+      "                        \"benefitDescriptions\": [],"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "                        \"deliveryDateDescriptions\": [],"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "                        \"deliveryDescriptions\": [],"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "                        \"highestPrice\": 0,"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "                        \"id\": 2048,"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "                        \"lowestPrice\": 0,"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "                        \"name\": \"LEC 전자렌지용 다기능 젖병소독기\","
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "                        \"optionDepth\": 2,"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "                        \"salesPricePrefix\": \"최저가\","
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "                        \"soldCount\": 0"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "                    },"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "                    \"resource\": {"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "                        \"images\": []"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "                    }\r\n                },\r\n                \"type\": \"PRODUCT_DETAIL\"\r\n            },\r\n"
+    ],
+    [
+      0.000003,
+      "            {\r\n"
+    ],
+    [
+      0.000012,
+      "                \"entity\": {\r\n"
+    ],
+    [
+      0.000012,
+      "                    \"itemList\": []\r\n"
+    ],
+    [
+      0.000003,
+      "                },"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "                \"type\": \"ITEM_LIST\"\r\n"
+    ],
+    [
+      0.000005,
+      "            },"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "            {\r\n                \"entity\": {\r\n"
+    ],
+    [
+      0.000013,
+      "                    \"title\": \"판매자에게 문의하기\","
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "                    \"url\": \"coupang://seller?type=write\u0026pId=2048\","
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "                    \"viewType\": \"SLOT\""
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "                },"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "                \"type\": \"LINK_URL\""
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "            },"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "            {\r\n"
+    ],
+    [
+      0.000014,
+      "                \"entity\": {"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "                    \"title\": \"교환/반품 안내\",\r\n"
+    ],
+    [
+      0.000008,
+      "                    \"url\": \"http://imgs.coupangcdn.com/image/coupang/detail/bg_easyback_sprite.png\","
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "                    \"viewType\": \"SLOT\""
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "                },"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "                \"type\": \"LINK_URL\""
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "            },"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000001,
+      "            {"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "                \"entity\": {"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "                    \"title\": \"예비용 웹뷰1\","
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "                    \"url\": \"/v3/products/2048/detail/recommend/view\","
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "                    \"viewType\": \"WEB\""
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "                },"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "                \"type\": \"LINK_URL\""
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "            }\r\n"
+    ],
+    [
+      0.000002,
+      "        ],"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "        \"options\": {"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "            \"depth\": 1,\r\n"
+    ],
+    [
+      0.000006,
+      "            \"options\": [],"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "            \"placeholders\": ["
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "                \"유아 젖병살균기/젖병건조대 서브브랜드 선택하세요\","
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "                \"친환경 여부                    선택하세요\""
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "            ],\r\n"
+    ],
+    [
+      0.000008,
+      "            \"totalDepth\": 2\r\n"
+    ],
+    [
+      0.000006,
+      "        },\r\n"
+    ],
+    [
+      0.000010,
+      "        \"requestAttributeUri\": \"/v3/products/2048/attributes/647\""
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000001,
+      "    },"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "    \"rMessage\": \"성공\""
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000001,
+      "}"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.005908,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;ultrakain@sonic:\u0007\u001b]1;..g-command/src\u0007"
+    ],
+    [
+      0.005735,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36msrc \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      8.531630,
+      "e"
+    ],
+    [
+      0.204332,
+      "\u0008ex"
+    ],
+    [
+      0.163817,
+      "i"
+    ],
+    [
+      0.102120,
+      "t"
+    ],
+    [
+      0.112379,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;exit\u0007\u001b]1;exit\u0007"
+    ]
+  ]
+}
