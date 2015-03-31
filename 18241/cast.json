@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "width": 145,
+  "height": 93,
+  "duration": 1.488345,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "screen-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.058377,
+      "[14:03] tim ~ $ "
+    ],
+    [
+      1.429468,
+      "exit\r\n"
+    ]
+  ]
+}
